@@ -7,6 +7,13 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/02 - 10x Your AI Agents with this ONE Agent Architecture.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/03 - Coding Subagents - The Next Evolution of AI IDEs.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250703 - Context Engineering is the New Vibe Coding (Learn this Now).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250724 - Build ANY AI Agent with this Context Engineering Blueprint.md"
 last_updated: 2026-06-19
 ---
 
@@ -24,9 +31,11 @@ Cole Medin is an AI engineer and YouTube content creator focused on AI agent dev
   - **n8n RAG Template**, **Local AI**, **bolt.diy**, **LangChain**, **Guide to Building AI Agents**, **No Code AI with n8n**, **AI Platform Showcases** — other playlists.
 - Open-source projects:
   - **Archon** (this entity's namesake project)
+  - **[[Crawl4AIRAG]]** — open-source MCP server that crawls websites, builds curated RAG knowledge bases, exposes RAG queries to AI IDEs. Cole's recommended documentation-RAG MCP slot. Has [[ContextualRetrieval]] built into the ingest pipeline.
+  - **MCP server template** — Cole's reference implementation for building production-quality MCP servers (lifespan + dual-transport + best-practice tool docstrings). Demonstrated with a [[Mem0]] long-term-memory server.
   - **LocalAIPackage** — packaged stack of self-hostable AI services (vector DBs, web search, etc.) intended to plug into Archon-built agents in the v9+ self-execution roadmap.
   - **MCP Agent Army** template — reference implementation of the multi-MCP sub-agent pattern.
-- Community: **Dynamis.ai** — Cole's invite-list community with workshops on agent building.
+- Community: **Dynamis.ai** — Cole's invite-list community with workshops on agent building, including the AI Agent Mastery course covering his full agent-development process.
 
 ### Stated framework preferences
 
@@ -38,18 +47,45 @@ Cole Medin is an AI engineer and YouTube content creator focused on AI agent dev
 
 - **Build in public** — open-source from day one, iterate visibly, invite contribution.
 - **Specialized > generalist** — small focused agents outperform mega-prompted ones.
+- **[[CapabilitiesOverTools]]** — focus on transferable skills, not specific frameworks. Cole calls this his single most important learning principle.
+- **[[ContextEngineering]] over [[VibeCoding]]** — from mid-2025, Cole's central frame for AI coding work. Sharpening the axe (curating context) up-front rather than diving into implementation.
+- **[[PRPFramework]] (Rasmus's Product Requirements Prompts)** — Cole's preferred concrete context-engineering toolkit. Use-case templates (per language × project type) are the scaling layer.
 - **Education through working tools** — every tutorial produces a real, functional artifact, not just a toy.
+- **N8N first, Python after** — prototype agents in [[N8N]] before porting to Python; visual flow makes patterns visible.
+- **Eval is 75% of the work** — see [[AgentEvaluation]]. Cole's stated rule of thumb for agent development time allocation.
 - **"Agents will dominate the landscape of software."** — recurring framing across multiple videos.
+
+### Tooling shift mid-2025
+
+Cole's primary AI-coding driver shifted to [[ClaudeCode]] around July 2025 (see `summary-context-engineering-is-new-vibe-coding`). Reason: Claude Code's slash-command + `CLAUDE.md` + auto-edit primitives are first-class for [[PRPFramework]] execution in a way [[Cursor]] and [[Windsurf]] aren't. Cursor and Windsurf remain valid alternates (and the slash commands are markdown, so they port).
 
 ## Related
 
 - [[Archon]] — flagship project
+- [[Crawl4AIRAG]] — Cole's open-source RAG MCP server
+- [[Mem0]] — featured library in his MCP template
+- [[N8N]] — preferred no-code prototyping tool
 - [[PydanticAI]] — preferred agent framework
 - [[LangGraph]] — preferred workflow framework
 - [[LangChain]] — explicitly criticized but planned for support
+- [[ClaudeCode]] — primary AI coding driver from mid-2025
+- [[Rasmus]] — collaborator on the [[PRPFramework]]
+- [[AndrejKarpathy]] — articulated the [[ContextEngineering]] frame Cole runs with
+- [[CapabilitiesOverTools]] — Cole's central learning principle
+- [[ContextEngineering]], [[PRPFramework]], [[ValidationGates]] — Cole's mid-2025-onwards methodology
+- [[VibeCoding]] — the foil paradigm Cole argues against for production work
+- [[AgentEvaluation]], [[AgentObservability]], [[Guardrails]] — production-readiness pillars Cole emphasizes
+- [[ContextualRetrieval]] — Cole-popularized RAG technique
 - [[ParallelAgentArchitecture]] — frequently demonstrated pattern
 - [[SubAgent]] — recurring architectural focus
 - [[summary-introducing-archon-ai-agent-builder]] — Archon intro
 - [[summary-build-an-army-of-ai-agents-archon]] — MCP agent army demo
 - [[summary-10x-your-ai-agents-parallel-architecture]] — parallel architecture
 - [[summary-coding-subagents-mcp-evolution]] — MCP sub-agent thesis
+- [[summary-build-your-own-mcp-servers-template]] — MCP template walkthrough
+- [[summary-easiest-strategy-for-accurate-rag]] — Contextual Retrieval guide
+- [[summary-3-must-have-mcp-servers-for-ai-coding]] — recommended MCP triad
+- [[summary-how-to-learn-ai-agents-roadmap]] — 10-phase learning roadmap
+- [[summary-context-engineering-is-new-vibe-coding]] — Context Engineering intro
+- [[summary-context-engineering-101]] — PRP framework deep dive with Rasmus
+- [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI use-case template

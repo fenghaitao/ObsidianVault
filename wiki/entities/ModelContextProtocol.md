@@ -6,6 +6,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/03 - Coding Subagents - The Next Evolution of AI IDEs.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them).md"
 last_updated: 2026-06-19
 ---
 
@@ -48,13 +50,40 @@ Other MCP servers Cole mentions are available: Google Drive, Discord, JetBrains,
 
 PydanticAI's `mcp_servers=[...]` parameter on an agent connects it directly to one or more MCP servers. The agent's tool list automatically includes all the server's exposed tools.
 
+### Building your own MCP server
+
+Cole's published template (covered in [[summary-build-your-own-mcp-servers-template]]) using `FastMCP` from Anthropic's Python SDK. Three structural pieces every well-built server has:
+
+1. **Lifespan management** — initialize shared resources (DB clients, vector store connections, [[mem0]] clients) **once** at startup, expose them via context to every tool call. Many existing MCP servers in the wild miss this and re-initialize per call.
+2. **`FastMCP` instance + `@mcp.tool` decorators** — minimal boilerplate, the function docstring becomes the tool description sent to the LLM.
+3. **Dual-transport support** (`stdio` + `SSE`) — most published servers only ship one. Some clients (like [[N8N]]) only support SSE; some local-only setups prefer stdio. Supporting both is a best practice.
+
+> See `Cole's mem0 MCP server` referenced in [[mem0]] for a complete implementation.
+
+### Cole's "3 must-have MCP servers" for AI coding
+
+From [[summary-3-must-have-mcp-servers-for-ai-coding]] — Cole's recommended slot fillers:
+
+| Slot | Recommended | Purpose |
+|---|---|---|
+| Documentation RAG | [[Crawl4AIRAG]] (or Context7) | Curated framework docs the IDE can query while coding |
+| Database management | [[Supabase]] MCP (or [[Neon]] MCP) | Create tables, migrations, run SQL via natural language |
+| Web search | Brave MCP | Supplemental retrieval for examples and forum posts |
+
+Pairs commonly used together: **Crawl4AIRAG + Brave** — query private docs first, fall back to web for examples not in the curated set.
+
 ## Related
 
 - [[Anthropic]] — protocol author
 - [[Archon]] — wrapped as an MCP server in v3+
 - [[PydanticAI]] — first-class MCP integration for sub-agents
+- [[N8N]] — MCP-aware no-code platform; SSE-only
 - [[Windsurf]], [[Cursor]] — MCP-aware AI IDEs
+- [[Crawl4AIRAG]] — Cole's documentation-RAG MCP server
+- [[Mem0]] — long-term-memory library Cole's MCP template uses as its example
 - [[SubAgent]] — pattern often realized via MCP
 - [[ToolUse]] — what MCP standardizes
 - [[summary-coding-subagents-mcp-evolution]] — MCP-as-sub-agent thesis
 - [[summary-build-an-army-of-ai-agents-archon]] — MCP Agent Army demo
+- [[summary-build-your-own-mcp-servers-template]] — building your own MCP server with best practices
+- [[summary-3-must-have-mcp-servers-for-ai-coding]] — recommended MCP server triad for AI coding

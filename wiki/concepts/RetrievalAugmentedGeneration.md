@@ -5,6 +5,8 @@ tags: [concept, rag, retrieval, vector-search, llm]
 sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them).md"
 last_updated: 2026-06-19
 ---
 
@@ -44,13 +46,26 @@ Cole calls out these as planned improvements:
 | **Query decomposition** | Split a complex query into sub-queries, retrieve for each, merge |
 | **Hierarchical chunking** | Multi-level chunks (sentence + paragraph + section) for context-appropriate retrieval |
 
+### [[ContextualRetrieval]] — Anthropic's accuracy enhancement
+
+The most impactful single addition to a basic RAG pipeline. Each chunk is augmented at ingest time with 1-2 sentences of LLM-generated context positioning it within its source document. Anthropic's data: contextual embedding alone reduces retrieval failure ~35%; combined with hybrid search and reranking, drops failure rate from ~10% to under 3%.
+
+Cost mitigated via [[PromptCaching]] (the document repeats across every chunk's prompt — providers cache it, ~50-90% cheaper depending on provider) and small models (GPT-4o-mini class is sufficient for the context-generation step).
+
+Cole has implementations in two places:
+- [[N8N]] workflow demonstrating the pattern visually.
+- [[Crawl4AIRAG]] — his open-source MCP server's `generate_contextual_embeddings` Python function.
+
+See the [[ContextualRetrieval]] page for the full pattern, prompt template, and evaluation data.
+
 ### Cole's broader stance: RAG as data-engineering problem
 
 A recurring theme across Cole's content (echoed in the Vectorize sponsor segment in video 1): the hard part of RAG isn't the LLM call — it's the **pipeline**. Getting documents from where they live (Drive, GitHub, Notion, etc.) into a usable vector store with proper chunking and metadata is where most projects fail or burn time.
 
 ### Vector DB choices Cole references
 
-- **[[Supabase]]** — Archon's default. Postgres-friendly, free, self-hostable.
+- **[[Supabase]]** — Archon's default. Postgres-friendly, free, self-hostable. Uses `pgvector`.
+- **[[Neon]]** — serverless Postgres alternative; same `pgvector` extension. Sponsored mention but Cole has used it for production demos.
 - **Qdrant** — faster than Supabase, also self-hostable.
 - **Pinecone** — serverless, very fast, not open source.
 - **Weaviate**, **Chroma** — also mentioned as popular options.
@@ -62,7 +77,13 @@ A recurring theme across Cole's content (echoed in the Vectorize sponsor segment
 ## Related
 
 - [[Archon]] — uses RAG over PydanticAI docs
+- [[Crawl4AIRAG]] — Cole's open-source RAG MCP server with [[ContextualRetrieval]] built in
+- [[ContextualRetrieval]] — Anthropic's accuracy enhancement; biggest single win
 - [[Supabase]] — Archon's vector DB backend
+- [[Neon]] — alternative serverless Postgres backend
 - [[PydanticAI]] — the framework whose docs are RAG-indexed
+- [[N8N]] — visual surface where Cole prototypes RAG pipelines
 - [[ColeMedin]] — frequent advocate of robust RAG pipelines
 - [[ToolUse]] — agents can also expose RAG as a tool rather than building it into the prompt
+- [[summary-easiest-strategy-for-accurate-rag]] — the contextual-retrieval walkthrough
+- [[summary-3-must-have-mcp-servers-for-ai-coding]] — RAG as part of the AI-coding MCP triad

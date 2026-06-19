@@ -32,6 +32,7 @@ Archon is an open-source AI agent that builds other AI agents — a "[[MetaAgent
   - **Coder agent** — actually emits the code, performs RAG over the docs.
   - **Human-in-the-loop** node — pauses for user feedback, then iterates.
 - Uses [[Supabase]] as the vector DB for the RAG knowledge base.
+- Cole has stated future versions will integrate his [[Crawl4AIRAG]] MCP server as the underlying knowledge layer — replacing Archon's existing custom RAG pipeline with Crawl4AIRAG's [[ContextualRetrieval]]-enhanced ingest. This brings consistency with Cole's broader "build your own knowledge base" toolchain.
 - The MCP-server wrapper is a FastAPI endpoint exposing the graph plus two MCP tools: `create_thread_id` and `run_archon`. The thread ID is how Archon maintains conversation state across MCP's otherwise-stateless calls — the calling LLM is trusted to pass it back.
 
 ### Roadmap (versioned curriculum)
