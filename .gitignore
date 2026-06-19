@@ -19,6 +19,9 @@ __pycache__/
 .obsidian/plugins/lean-terminal/data.json
 .obsidian/plugins/lean-terminal/tmp/
 
+# obsidian-git — plugin reinstalls itself from the community registry on clone
+.obsidian/plugins/obsidian-git/
+
 # OS junk
 .DS_Store
 Thumbs.db
