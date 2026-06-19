@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.bak
+*.bak-*
+
+# Obsidian — workspace state changes constantly with every click; don't track it
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Claudian — session state changes per conversation
+.claudian/sessions/*.meta.json
+.claudian/sessions/*.jsonl
+
+# Lean Terminal — recent session buffer changes constantly
+.obsidian/plugins/lean-terminal/data.json
+.obsidian/plugins/lean-terminal/tmp/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Cookies (if accidentally placed in vault)
+*cookies*.txt
