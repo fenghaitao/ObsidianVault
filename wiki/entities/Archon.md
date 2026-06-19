@@ -57,6 +57,10 @@ Archon is an open-source AI agent that builds other AI agents — a "[[MetaAgent
 
 Cole's argument for Archon's existence: AI IDEs like Windsurf and Cursor hallucinate when given too many tools or unfamiliar frameworks. A framework-specialized sub-agent with curated docs + a multi-step generation flow produces more reliable, structurally consistent code. Archon is the prototype for this pattern; the long-term vision is a marketplace of specialized agents reachable via MCP.
 
+### Repositioned as a harness builder (2026)
+
+By the [[HarnessEngineering]] era (mid-2026), Cole reframes Archon as **"my open-source harness builder"** — the easiest way to build your own custom [[AgentHarness]] (like a [[RalphLoop]]) tailored to your exact software-development lifecycle. This is consistent with Archon's original "meta-agent that builds agents" identity, now extended: it doesn't just generate agent *code*, it helps you assemble the multi-session orchestration harnesses that are the frontier of [[AgenticEngineering]]. See `summary-harness-engineering`.
+
 ### Demo capabilities seen across the playlist
 
 - Built an "MCP Agent Army" — primary agent + 6 specialized sub-agents (Brave search, GitHub, Slack, Airtable, Filesystem, Firecrawl) — that handles compound tasks like "search → save to Airtable → notify in Slack."

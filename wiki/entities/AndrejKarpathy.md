@@ -31,7 +31,7 @@ Both terms are Karpathy's, even though the later one corrects the earlier one's 
 
 ### Other context
 
-- **Karpathy LLM Wiki pattern** — Karpathy's own pattern for personal knowledge management with LLMs: compile rather than retrieve, build a persistent wiki. This is the foundational pattern of *this* knowledge base. (Source: a Cole Medin video planned for ingest in batch C — `20260406 - Self-Evolving Claude Code Memory w/ Karpathy's LLM Knowledge Bases`. This wiki itself is built on the Karpathy pattern as articulated in [[CLAUDE.md]]'s schema.)
+- **Karpathy LLM Wiki pattern** — see [[KarpathyLLMWiki]]. Karpathy's own pattern for personal knowledge management with LLMs: compile rather than retrieve, build a persistent wiki. **This is the foundational pattern of *this* knowledge base** (see `CLAUDE.md`'s schema). Cole Medin's [[SecondBrain]] is an implementation of it. Full deep dive lands in batch C (`20260406` video).
 - **Toby Lütke (Shopify CEO)** — was the Twitter interlocutor who framed Context Engineering as "treating context as an engineered resource requiring careful architecture." Karpathy replied affirming the framing.
 
 ### Adjacent influence
@@ -42,6 +42,8 @@ Karpathy's broader content (lectures on building neural networks from scratch, t
 
 - [[VibeCoding]] — coined by Karpathy
 - [[ContextEngineering]] — articulated by Karpathy
+- [[KarpathyLLMWiki]] — Karpathy's knowledge-management pattern; the basis of this wiki
+- [[SecondBrain]] — Cole Medin's implementation of the LLM-Wiki pattern
 - [[ColeMedin]] — interpreter and amplifier of these ideas in this corpus
 - [[OpenAI]] — Karpathy's prior affiliation
 - [[summary-context-engineering-is-new-vibe-coding]] — primary source for both attributions

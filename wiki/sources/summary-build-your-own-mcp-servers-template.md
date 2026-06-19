@@ -8,7 +8,7 @@ last_updated: 2026-06-19
 
 ## Core Summary
 
-[[ColeMedin]] introduces his open-source Python MCP server template, walking through how to build production-quality [[ModelContextProtocol]] servers using `FastMCP` from Anthropic's Python SDK. Demonstrates with a [[mem0]] long-term memory MCP server. Argues most MCP servers in the wild miss best practices — particularly lifespan management for shared client state and dual-transport (stdio + SSE) support.
+[[ColeMedin]] introduces his open-source Python MCP server template, walking through how to build production-quality [[ModelContextProtocol]] servers using `FastMCP` from Anthropic's Python SDK. Demonstrates with a [[Mem0]] long-term memory MCP server. Argues most MCP servers in the wild miss best practices — particularly lifespan management for shared client state and dual-transport (stdio + SSE) support.
 
 ## Key Points
 
@@ -25,7 +25,7 @@ last_updated: 2026-06-19
 ## Related
 
 - [[ModelContextProtocol]] — protocol the template implements
-- [[mem0]] — long-term memory library used as the example
+- [[Mem0]] — long-term memory library used as the example
 - [[ColeMedin]] — author of the template
 - [[N8N]] — one of the demonstrated MCP clients
 - [[PydanticAI]] — another demonstrated client

@@ -6,6 +6,9 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250703 - Context Engineering is the New Vibe Coding (Learn this Now).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250724 - Build ANY AI Agent with this Context Engineering Blueprint.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
 last_updated: 2026-06-19
 ---
 
@@ -53,9 +56,13 @@ The PRP framework was designed around Claude Code's primitives. The full lifecyc
 
 ### What's coming (referenced for later batches)
 
-- **Subagents** — "Claude Code subagent dream team" content (batch B/C of this ingest).
-- **Skills** — Anthropic's later layer for packaging reusable agent capabilities (`Claude Skills Aren't Just for Claude` — batch B/C).
-- **2000+ hours, harness era** — by 2026 Cole's content treats Claude Code as the default harness for any serious agentic engineering work.
+- **Subagents** — "Claude Code subagent dream team" content (later Tier-3 ingest).
+- **[[ClaudeSkills]]** — Anthropic's layer for packaging reusable agent capabilities via [[ProgressiveDisclosure]]. Central to Cole's [[SecondBrain]] system (ingested in batch B).
+- **2000+ hours, harness era** — by 2026 Cole's content treats Claude Code as the default [[AgentHarness]] substrate for any serious agentic engineering work.
+
+### Beyond coding — the Second Brain use case
+
+By January 2026 Cole uses Claude Code for non-coding knowledge work. A coding agent minus code-intelligence is a general-purpose CLI agent on a markdown filesystem — exactly what a [[SecondBrain]] needs. Paired with [[Obsidian]] (markdown canvas) + [[ClaudeSkills]] (capability layer), Claude Code becomes a personal research/ideation/organization engine. This is the pattern this very wiki runs on.
 
 ## Related
 
@@ -63,8 +70,17 @@ The PRP framework was designed around Claude Code's primitives. The full lifecyc
 - [[ColeMedin]] — primary advocate in this corpus
 - [[PRPFramework]] — Cole's primary use of Claude Code
 - [[ContextEngineering]] — the discipline Claude Code is the execution surface for
+- [[AgenticEngineering]] — the 5-techniques discipline practiced on Claude Code
+- [[AgentHarness]] — Claude Code as the substrate for multi-session harnesses
+- [[ClaudeSkills]] — capability-packaging layer
+- [[SecondBrain]] — non-coding use case
+- [[Obsidian]] — markdown canvas paired with Claude Code
 - [[ValidationGates]] — sub-pattern run inside Claude Code
 - [[ModelContextProtocol]] — first-class integration
+- [[Commandification]], [[ModularRulesArchitecture]], [[ContextReset]], [[SystemEvolution]] — disciplines that shape Claude Code projects
 - [[AICodingAssistant]] — Claude Code's category (the agentic-default end of the spectrum)
 - [[Cursor]], [[Windsurf]] — interactive-first counterparts
-- [[summary-context-engineering-is-new-vibe-coding]], [[summary-context-engineering-101]], [[summary-context-engineering-blueprint-for-ai-agents]] — primary sources
+- [[summary-context-engineering-is-new-vibe-coding]], [[summary-context-engineering-101]], [[summary-context-engineering-blueprint-for-ai-agents]] — Context Engineering trilogy
+- [[summary-5-techniques-top-agentic-engineers]] — agentic engineering on Claude Code
+- [[summary-second-brain-with-claude-code-obsidian-skills]] — non-coding use case
+- [[summary-agent-harnesses-and-vibe-coding]] — Claude Code as harness substrate

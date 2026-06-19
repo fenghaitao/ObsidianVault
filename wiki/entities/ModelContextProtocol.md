@@ -54,11 +54,11 @@ PydanticAI's `mcp_servers=[...]` parameter on an agent connects it directly to o
 
 Cole's published template (covered in [[summary-build-your-own-mcp-servers-template]]) using `FastMCP` from Anthropic's Python SDK. Three structural pieces every well-built server has:
 
-1. **Lifespan management** — initialize shared resources (DB clients, vector store connections, [[mem0]] clients) **once** at startup, expose them via context to every tool call. Many existing MCP servers in the wild miss this and re-initialize per call.
+1. **Lifespan management** — initialize shared resources (DB clients, vector store connections, [[Mem0]] clients) **once** at startup, expose them via context to every tool call. Many existing MCP servers in the wild miss this and re-initialize per call.
 2. **`FastMCP` instance + `@mcp.tool` decorators** — minimal boilerplate, the function docstring becomes the tool description sent to the LLM.
 3. **Dual-transport support** (`stdio` + `SSE`) — most published servers only ship one. Some clients (like [[N8N]]) only support SSE; some local-only setups prefer stdio. Supporting both is a best practice.
 
-> See `Cole's mem0 MCP server` referenced in [[mem0]] for a complete implementation.
+> See `Cole's mem0 MCP server` referenced in [[Mem0]] for a complete implementation.
 
 ### Cole's "3 must-have MCP servers" for AI coding
 

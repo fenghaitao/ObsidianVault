@@ -14,6 +14,10 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250703 - Context Engineering is the New Vibe Coding (Learn this Now).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250724 - Build ANY AI Agent with this Context Engineering Blueprint.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
 last_updated: 2026-06-19
 ---
 
@@ -59,6 +63,14 @@ Cole Medin is an AI engineer and YouTube content creator focused on AI agent dev
 
 Cole's primary AI-coding driver shifted to [[ClaudeCode]] around July 2025 (see `summary-context-engineering-is-new-vibe-coding`). Reason: Claude Code's slash-command + `CLAUDE.md` + auto-edit primitives are first-class for [[PRPFramework]] execution in a way [[Cursor]] and [[Windsurf]] aren't. Cursor and Windsurf remain valid alternates (and the slash commands are markdown, so they port).
 
+### The Second Brain era (Jan 2026 onwards)
+
+By January 2026 Cole reports a "huge mistake" of thinking [[ClaudeCode]] was just for coding. He extends the same agent + filesystem + capabilities pattern to non-coding work: [[SecondBrain]] = [[ClaudeCode]] + [[Obsidian]] + [[ClaudeSkills]]. Same architecture, different content domain. This is the pattern this wiki itself was built on.
+
+### The 5 techniques (Cole's [[AgenticEngineering]] checklist)
+
+By Jan 2026 Cole codifies his discipline as 5 techniques: [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]], and most importantly [[SystemEvolution]]. See `summary-5-techniques-top-agentic-engineers`.
+
 ## Related
 
 - [[Archon]] — flagship project
@@ -68,12 +80,18 @@ Cole's primary AI-coding driver shifted to [[ClaudeCode]] around July 2025 (see 
 - [[PydanticAI]] — preferred agent framework
 - [[LangGraph]] — preferred workflow framework
 - [[LangChain]] — explicitly criticized but planned for support
-- [[ClaudeCode]] — primary AI coding driver from mid-2025
+- [[ClaudeCode]] — primary AI coding driver from mid-2025; second-brain agent from 2026
+- [[ClaudeSkills]] — preferred capability-packaging primitive
+- [[Obsidian]] — canvas for his Second Brain system
 - [[Rasmus]] — collaborator on the [[PRPFramework]]
-- [[AndrejKarpathy]] — articulated the [[ContextEngineering]] frame Cole runs with
+- [[AndrejKarpathy]] — articulated the [[ContextEngineering]] frame Cole runs with; LLM-Wiki pattern Cole's Second Brain implements
 - [[CapabilitiesOverTools]] — Cole's central learning principle
 - [[ContextEngineering]], [[PRPFramework]], [[ValidationGates]] — Cole's mid-2025-onwards methodology
+- [[AgenticEngineering]] — Cole's 5-techniques codification (Jan 2026)
+- [[AgentHarness]] — Cole sees this as the 2026 frontier
 - [[VibeCoding]] — the foil paradigm Cole argues against for production work
+- [[SecondBrain]] — Cole's Jan-2026 personal-knowledge use case
+- [[SystemEvolution]] — Cole's "fix the system, not the bug" mindset
 - [[AgentEvaluation]], [[AgentObservability]], [[Guardrails]] — production-readiness pillars Cole emphasizes
 - [[ContextualRetrieval]] — Cole-popularized RAG technique
 - [[ParallelAgentArchitecture]] — frequently demonstrated pattern
@@ -89,3 +107,7 @@ Cole's primary AI-coding driver shifted to [[ClaudeCode]] around July 2025 (see 
 - [[summary-context-engineering-is-new-vibe-coding]] — Context Engineering intro
 - [[summary-context-engineering-101]] — PRP framework deep dive with Rasmus
 - [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI use-case template
+- [[summary-every-rag-strategy-explained]] — 11-RAG-strategy survey
+- [[summary-agent-harnesses-and-vibe-coding]] — AgentHarness intro
+- [[summary-5-techniques-top-agentic-engineers]] — agentic engineering checklist
+- [[summary-second-brain-with-claude-code-obsidian-skills]] — Second Brain pattern

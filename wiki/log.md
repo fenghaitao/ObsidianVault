@@ -66,3 +66,44 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - Batch A is the Context Engineering trilogy — foundational. Batch B and C will build on these concepts.
   - Skipped sponsor segments (Sneak, Lindy, Scribba) and tangential vendor mentions (Cloudflare Workers, Wrangler, Aider, Cline as standalone — covered inline).
   - "Rasmus" recorded with last name unknown — Cole's videos use first name only. May get refined in later batches.
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — selective batch B (4 transcripts, Nov 2025 - Jan 2026)
+- **Sources processed**:
+  - `raw/03-transcripts/Cole Medin/Channel Only/20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff).md`
+  - `raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md`
+  - `raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md`
+  - `raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md`
+- **Changes**:
+  - Created sources: [[summary-every-rag-strategy-explained]], [[summary-agent-harnesses-and-vibe-coding]], [[summary-5-techniques-top-agentic-engineers]], [[summary-second-brain-with-claude-code-obsidian-skills]]
+  - Created entities: [[ClaudeSkills]], [[Obsidian]]
+  - Created concepts: [[AgentHarness]], [[ContextRot]], [[SecondBrain]], [[SystemEvolution]], [[AgenticEngineering]], [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]], [[ProgressiveDisclosure]], [[KarpathyLLMWiki]]
+  - Updated concepts: [[RetrievalAugmentedGeneration]] (11-strategy survey), [[VibeCoding]] (harness-era reframe)
+  - Updated entities: [[ColeMedin]] (Second Brain era + AgenticEngineering codification), [[ClaudeCode]] (Skills + Second Brain + harness substrate), [[AndrejKarpathy]] (KarpathyLLMWiki cross-link)
+  - Updated [[index.md]] (16 new pages registered)
+- **Conflicts**: none new
+- **Notes**:
+  - Big batch — 4 transcripts produced 13 new pages + 5 updates. The "5 Techniques" video alone spawned 6 concept pages (AgenticEngineering umbrella + 5 techniques) since each technique is referenced independently across Cole's other content.
+  - [[KarpathyLLMWiki]] created as a stub — directly relevant to THIS vault's design. Will be substantially expanded in batch C when the `20260406` Karpathy-LLM-Wiki video is ingested.
+  - [[SecondBrain]] + [[Obsidian]] + [[ClaudeSkills]] form the self-referential core: these pages describe the exact pattern/tools this wiki is built with.
+  - Skipped sponsor segments (OutSystems, Lindy, Scribba) and tangential vendor mentions (Manus, LangChain Deep Agents, Graphiti, Docling, Zapier, Excalidraw, Remotion, Gamma, Helicone — covered inline where relevant).
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — selective batch C (4 transcripts, Mar-May 2026) — FINAL curated batch
+- **Sources processed**:
+  - `raw/03-transcripts/Cole Medin/Channel Only/20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique).md`
+  - `raw/03-transcripts/Cole Medin/Channel Only/20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code.md`
+  - `raw/03-transcripts/Cole Medin/Channel Only/20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases.md`
+  - `raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md`
+- **Changes**:
+  - Created sources: [[summary-adversarial-dev-technique]], [[summary-full-guide-ai-second-brain]], [[summary-self-evolving-memory-karpathy-llm-wiki]], [[summary-harness-engineering]]
+  - Created entities: [[Codex]], [[OpenClaw]]
+  - Created concepts: [[HarnessEngineering]], [[AILayer]], [[AdversarialDev]], [[Sycophancy]], [[RalphLoop]], [[LethalTrifecta]]
+  - **Major expansion**: [[KarpathyLLMWiki]] — promoted from batch-B stub to full page. The `20260406` video is its canonical source and describes THIS vault's exact architecture (raw → compiler → wiki → lint → query). Added the compiler analogy, Cole's self-evolving internal-memory variant, the compounding loop, and a section mapping the pattern to this vault's implementation.
+  - Updated concepts: [[SecondBrain]] (memory layer + heartbeat + lethal-trifecta security from the full guide), [[AgentHarness]] (adversarial dev, ralph loop, harness engineering cross-links), [[SystemEvolution]] (the "skill-issue reframe" / mindset-half-of-harness-engineering connection)
+  - Updated entities: [[Archon]] (repositioned as harness builder for 2026)
+  - Updated [[index.md]] (16 new pages registered)
+- **Conflicts**: none new (the RAG-vs-Wiki tension noted in prior batches is reinforced and reconciled in [[KarpathyLLMWiki]])
+- **Notes**:
+  - This completes the curated Tier 1 + Tier 2 selective ingest (11 of 11 transcripts across batches A/B/C).
+  - The `20260406` Karpathy LLM Wiki video is the single most self-relevant source in the entire corpus — it literally documents the pattern this vault is built on. KarpathyLLMWiki page now cross-references the vault's own `CLAUDE.md` schema and `.claude/skills/`.
+  - Skipped sponsors (Scrimba, Google Cloud Agency CLI, InspoForge) and inline-only mentions (Jeffrey Huntley — credited in RalphLoop; GANs; Threek/Anthropic ToS clarification; Simon Willison — origin of lethal-trifecta term, noted in that page).
+  - 28 of the original 49 Channel Only transcripts remain un-ingested by design (news commentary, livestreams, model-release reactions, niche workflows). They stay in raw/03-transcripts for optional future ingest.

@@ -4,6 +4,7 @@ type: concept
 tags: [concept, ai-coding, paradigm, karpathy, prototyping]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250703 - Context Engineering is the New Vibe Coding (Learn this Now).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md"
 last_updated: 2026-06-19
 ---
 
@@ -44,12 +45,26 @@ Karpathy coined the term in a tweet, watched it go viral, and later watched [[Co
 
 ### Vibe coding's afterlife — the "harness era" reframe
 
-Per a December 2025 video (`Are Agent Harnesses Bringing Back Vibe Coding`, planned for ingest in batch B), Cole later argues that *agent harnesses* (Claude Code, Cursor's agent mode, etc.) make a more sophisticated kind of vibe coding viable again — because the harness itself supplies much of the context engineering. So the cycle continues: vibe coding → context engineering → harness-mediated vibe coding.
+Per `summary-agent-harnesses-and-vibe-coding`, [[ColeMedin]] later argues that **[[AgentHarness|agent harnesses]] make a more sophisticated kind of vibe coding viable again** — because the harness itself supplies much of the context engineering. The cycle:
+
+```
+Vibe coding (no structure)
+    ↓ "this breaks at production"
+Context engineering (per-session structure)
+    ↓ "we need to chain sessions reliably"
+Agent harnesses (multi-session structure)
+    ↓ "wait — we can trust full feature delegation again now!"
+Harness-mediated vibe coding (qualified)
+```
+
+The harness-era version isn't trust-the-LLM-blindly. It's trust-a-heavily-engineered-system-that-uses-the-LLM. Same outcome (you don't write most of the code), opposite philosophy (no structure → lots of structure).
 
 ## Related
 
 - [[ContextEngineering]] — the counter-paradigm
+- [[AgentHarness]] — the layer that makes "vibe coding viable again" (qualified)
 - [[AndrejKarpathy]] — coiner of the term
 - [[ColeMedin]] — author of the Cole-side framing in this corpus
 - [[AICodingAssistant]] — what vibe coding is done with
 - [[summary-context-engineering-is-new-vibe-coding]] — primary source for this framing
+- [[summary-agent-harnesses-and-vibe-coding]] — the harness-era reframe

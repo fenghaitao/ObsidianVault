@@ -7,6 +7,7 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff).md"
 last_updated: 2026-06-19
 ---
 
@@ -34,6 +35,28 @@ User query → Embedder → Vector DB ──┘
 - The Coder agent, when generating code for a user request, retrieves the most relevant doc chunks and uses them to ground the generated code (avoids hallucinating API surfaces that don't exist).
 
 This is the difference Cole highlights between [[Windsurf]]'s `@PydanticAI` doc retrieval (basic RAG with general-purpose embeddings) and Archon's curated RAG (deeper chunking, framework-specific configuration).
+
+### The 11-strategies survey (Cole's Nov 2025 deep dive)
+
+In `summary-every-rag-strategy-explained`, [[ColeMedin]] surveys 11 distinct RAG strategies. Production systems typically combine 3-5. His starter combo: **Reranking + Agentic RAG + Context-Aware Chunking** (specifically hybrid chunking via the **Docling** library).
+
+| # | Strategy | Essence | Cost |
+|---|---|---|---|
+| 1 | **Reranking** | Pull big candidate set, rerank with cross-encoder, return top few | Slight latency + small model |
+| 2 | **Agentic RAG** | Agent picks search method (semantic, full-doc fetch, etc.) per query | More LLM calls; less predictable |
+| 3 | **Knowledge Graph RAG** | Entities/relationships in graph DB alongside vectors | Slow + expensive ingest |
+| 4 | **[[ContextualRetrieval]]** | Per-chunk LLM context prepended at ingest | Per-chunk LLM (mitigated by [[PromptCaching]]) |
+| 5 | **Query Expansion** | LLM rewrites query before search | One extra LLM per query |
+| 6 | **Multi-Query RAG** | LLM generates N variants, parallel search | N retrievals + LLM call |
+| 7 | **Context-Aware Chunking** | Split at natural boundaries (embedding-found) | Higher ingest complexity |
+| 8 | **Late Chunking** | Embed whole doc first, chunk the embeddings | Most complex |
+| 9 | **Hierarchical RAG** | Parent-child chunk metadata; search small, return big | Variant of agentic RAG |
+| 10 | **Self-Reflective RAG** | LLM grades retrieved chunks, retries if low | Extra LLM per search |
+| 11 | **Fine-Tuned Embeddings** | Train domain-specific embedding model | 5-10% accuracy gain; training data + infra |
+
+Key libraries Cole names:
+- **Docling** — hybrid chunking (Cole's go-to chunker).
+- **Graphiti** — knowledge graph library Cole uses.
 
 ### Advanced techniques on Archon's roadmap (v12)
 
@@ -87,3 +110,4 @@ A recurring theme across Cole's content (echoed in the Vectorize sponsor segment
 - [[ToolUse]] — agents can also expose RAG as a tool rather than building it into the prompt
 - [[summary-easiest-strategy-for-accurate-rag]] — the contextual-retrieval walkthrough
 - [[summary-3-must-have-mcp-servers-for-ai-coding]] — RAG as part of the AI-coding MCP triad
+- [[summary-every-rag-strategy-explained]] — the 11-strategies survey

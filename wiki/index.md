@@ -21,6 +21,15 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-context-engineering-is-new-vibe-coding]] — Cole introduces Context Engineering as the successor to Vibe Coding; demos Rasmus's PRP framework in Claude Code.
 - [[summary-context-engineering-101]] — Deep dive on the PRP framework with Rasmus as guest; ships an MCP-server use-case template.
 - [[summary-context-engineering-blueprint-for-ai-agents]] — Cole ships a PydanticAI-specific PRP template; builds a Research + Email-Draft agent end-to-end.
+- [[summary-every-rag-strategy-explained]] — 13-minute survey of 11 RAG strategies; recommends reranking + agentic RAG + context-aware chunking.
+- [[summary-agent-harnesses-and-vibe-coding]] — Agent harnesses as the next evolution after context engineering; the two unsolved problems (context rot, compounding errors).
+- [[summary-5-techniques-top-agentic-engineers]] — PRD-first dev, modular rules, commandification, context reset, system evolution.
+- [[summary-second-brain-with-claude-code-obsidian-skills]] — Claude Code + Obsidian + Skills as a personal knowledge/ideation/research engine.
+- [[summary-adversarial-dev-technique]] — GAN-inspired generator/evaluator harness that solves agent sycophancy; built a RAG app one-shot with Sonnet + harness.
+- [[summary-full-guide-ai-second-brain]] — Comprehensive second-brain build: memory layer, skills, heartbeat; the lethal-trifecta security argument.
+- [[summary-self-evolving-memory-karpathy-llm-wiki]] — Karpathy's LLM-Wiki pattern explained (compiler analogy); Cole's self-evolving internal-memory variant. THE source for this vault's architecture.
+- [[summary-harness-engineering]] — Harness engineering defined: the AI layer (6 components) + multi-session orchestration (Ralph loop).
+- [[BuildingEffectiveAgents]] — (external article) Anthropic's canonical taxonomy of agent architectures; cited across the corpus.
 
 ## Entities
 
@@ -38,6 +47,12 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Anthropic]] — AI lab behind Claude, MCP, and the Contextual Retrieval and Building Effective Agents articles Cole frequently cites.
 - [[AndrejKarpathy]] — AI researcher who coined "vibe coding" and articulated the canonical definition of "context engineering"; foundational LLM-Wiki pattern is his.
 - [[ClaudeCode]] — Anthropic's terminal-based AI coding agent; Cole's primary AI coding driver from mid-2025 and the canonical execution surface for the PRP framework.
+- [[ClaudeSkills]] — Anthropic's capability-packaging primitive; folder + SKILL.md + progressive disclosure. The scaling layer of Cole's Second Brain.
+- [[Obsidian]] — Local markdown-based knowledge management app; the canvas for Cole's Second Brain and the app this wiki lives in.
+- [[Codex]] — OpenAI's terminal-based coding agent; the primary alternative/counterpart to Claude Code in Cole's 2026 content.
+- [[OpenClaw]] — Out-of-the-box open-source second-brain agent; Cole takes inspiration from it but argues against running it directly (lethal trifecta).
+- [[Neon]] — Serverless Postgres with pgvector; Cole's go-to Postgres for RAG, interchangeable with Supabase.
+- [[Zapier]] — Workflow-automation platform; Cole connects it to his Second Brain via MCP wrapped as a skill.
 - [[Rasmus]] — Creator of the PRP Framework (Product Requirements Prompts); collaborator with Cole on use-case templates.
 - [[OpenAI]] — Provider of the GPT model family used as default LLMs (GPT-4o, GPT-4o-mini, o3-mini) in most of Cole's demos.
 - [[Windsurf]] — AI-powered IDE (Codeium) used as the primary demo target for Archon's MCP integration.
@@ -68,6 +83,27 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[VibeCoding]] — Letting the AI write code with minimal context and review; coined by Karpathy; great for prototypes, breaks at production.
 - [[PRPFramework]] — Rasmus's Product Requirements Prompt methodology; Cole's canonical context-engineering toolkit. Two-pass plan-then-execute with use-case templates.
 - [[ValidationGates]] — Explicit lint/test/iterate checks the AI runs before declaring done; the inner correctness loop of the PRP framework.
+- [[AgentHarness]] — Infrastructure layer connecting many LLM sessions for long-running tasks; the post-context-engineering evolution.
+- [[ContextRot]] — Degradation of LLM reasoning as context fills ("the dumb zone"); the central problem harnesses and context engineering address.
+- [[AgenticEngineering]] — The practitioner discipline of getting production results from AI coding agents; umbrella over the 5 techniques.
+- [[PRDFirstDevelopment]] — Writing a project-scope north-star markdown doc before any feature work. (Technique 1)
+- [[ModularRulesArchitecture]] — Short global rules + conditionally-loaded reference docs to protect the context window. (Technique 2)
+- [[Commandification]] — Packaging any twice-used workflow as a reusable slash command. (Technique 3)
+- [[ContextReset]] — Clearing context between planning and execution to keep the executor's working memory lean. (Technique 4)
+- [[SystemEvolution]] — "Fix the system that allowed the bug, not just the bug." The compounding technique. (Technique 5)
+- [[SecondBrain]] — Personal knowledge/ideation/research engine: Claude Code + Obsidian + Skills. Directly ancestral to this wiki.
+- [[ProgressiveDisclosure]] — Load short capability descriptions upfront, full instructions on demand; what makes Skills scale.
+- [[KarpathyLLMWiki]] — Karpathy's compile-don't-retrieve knowledge-base pattern; the foundation this entire vault is built on.
+- [[HarnessEngineering]] — Building the wrapper around the model; the 2026 evolution of context engineering. Skill (AI layer) + mindset (system evolution).
+- [[AILayer]] — The six-component wrapper you build on top of a coding agent: rules, skills, MCP, code-search, hooks, sub-agents.
+- [[AdversarialDev]] — GAN-inspired generator/evaluator harness; a separate critic agent solves self-review sycophancy.
+- [[Sycophancy]] — LLMs' bias toward agreeing with the user and their own work; worst when an agent reviews its own code.
+- [[RalphLoop]] — Simple automation stringing many coding-agent sessions together for large scopes (Jeffrey Huntley).
+- [[LethalTrifecta]] — Security model: private data + untrusted content + exfiltration vector = high prompt-injection risk.
+- [[PromptCaching]] — Provider feature that cheapens repeated prompt prefixes; what makes Contextual Retrieval economical.
+- [[HybridSearch]] — RAG strategy combining semantic (vector) + keyword (BM25) search for better recall.
+- [[Reranking]] — Two-step RAG: retrieve many candidates, then a reranker model returns the most relevant few.
+- [[BuildInPublic]] — Cole's philosophy of open-source-from-day-one, iterate-visibly development.
 
 ## Syntheses
 
