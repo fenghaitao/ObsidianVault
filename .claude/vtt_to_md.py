@@ -133,6 +133,19 @@ def _title_from_stem(vtt_path: Path) -> str:
     return title.replace("？", "?").strip()
 
 
+def _file_stem_from_vtt(vtt_path: Path) -> str:
+    """Filename stem WITH playlist index preserved: '01 - My Title.en.vtt' -> '01 - My Title'.
+
+    Used for the markdown output filename so files sort by playlist position
+    in Obsidian's file explorer. The YAML title and H1 use the index-stripped
+    version from `_title_from_stem` for cleaner display.
+    """
+    stem = vtt_path.stem
+    if stem.endswith(".en"):
+        stem = stem[:-3]
+    return stem.replace("？", "?").strip()
+
+
 def vtt_to_markdown(
     vtt_path: Path, playlist: str, author: str = DEFAULT_AUTHOR
 ) -> tuple[str, str]:
@@ -141,7 +154,8 @@ def vtt_to_markdown(
     body = clean_vtt(text)
 
     title = _title_from_stem(vtt_path)
-    out_stem = sanitize_filename(title) or sanitize_filename(vtt_path.stem) or "untitled"
+    file_stem = _file_stem_from_vtt(vtt_path)
+    out_stem = sanitize_filename(file_stem) or sanitize_filename(vtt_path.stem) or "untitled"
 
     md = (
         "---\n"
