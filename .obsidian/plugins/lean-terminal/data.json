@@ -1,6 +1,6 @@
 {
   "shellPath": "",
-  "shellPathWin": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "shellPathWin": "",
   "shellPathMac": "",
   "shellPathLinux": "",
   "startupCommand": "",
@@ -21,57 +21,7 @@
   "searchShortcut": "Ctrl+Alt+F",
   "persistBuffer": true,
   "recentSessionsMax": 10,
-  "recentSessions": [
-    {
-      "name": "Terminal 1",
-      "color": "",
-      "cwd": "C:\\Users\\haita\\ObsidianVault",
-      "bufferSerial": "\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cexit\r\nexit\u001b[1B\u001b[4D\u001b[?1004h",
-      "closedAt": 1781945524373
-    },
-    {
-      "name": "Terminal 2",
-      "color": "",
-      "cwd": "C:\\Users\\haita\\ObsidianVault",
-      "bufferSerial": "\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ ls\r\nCLAUDE.md  README.md  \u001b[34;1massets\u001b[0m  \u001b[34;1mraw\u001b[0m  \u001b[34;1mwiki\r\n\r\n\u001b[32;22mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ pwd\r\n/c/Users/haita/ObsidianVault\r\n\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ exit\r\nexit\u001b[1B\u001b[4D\u001b[?1004h",
-      "closedAt": 1781945520182
-    },
-    {
-      "name": "Terminal 1",
-      "color": "",
-      "cwd": "C:\\Users\\haita\\ObsidianVault",
-      "bufferSerial": "\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cls\r\nCLAUDE.md  README.md  \u001b[34;1massets\u001b[0m  \u001b[34;1mraw\u001b[0m  \u001b[34;1mwiki\r\n\r\n\u001b[32;22mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ exit\r\nexit\r\n\u001b[?1004h",
-      "closedAt": 1781945367611
-    },
-    {
-      "name": "Terminal 1",
-      "color": "",
-      "cwd": "C:\\Users\\haita\\ObsidianVault",
-      "bufferSerial": "\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ ls\r\nCLAUDE.md  \u001b[34;1massets\u001b[0m  \u001b[34;1mraw\u001b[0m  \u001b[34;1mwiki\r\n\r\n\u001b[32;22mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ pwd\r\n/c/Users/haita/ObsidianVault\r\n\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ ls\r\nTotal 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)\r\nremote: Resolving deltas: 100% (1/1), completed with 1 local object.\r\nTo https://github.com/fenghaitao/ObsidianVault/\r\n   524df59..5ccf271  main -> main\r\n\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[39A\u001b[2C\u001b[?2004h\u001b[?1004h",
-      "closedAt": 1781940729208
-    },
-    {
-      "name": "Terminal 1",
-      "color": "",
-      "cwd": "C:\\Users\\haita\\ObsidianVault",
-      "bufferSerial": "Microsoft Windows [版本 10.0.26200.8655]\r\n(c) Microsoft Corporation。保留所有权利。\r\n\r\nC:\\Users\\haita\\ObsidianVault>ls\r\n'ls' 不是内部或外部命令，也不是可运行的程序\r\n或批处理文件。\r\n\r\nC:\\Users\\haita\\ObsidianVault>pwd\r\n'pwd' 不是内部或外部命令，也不是可运行的程序\r\n或批处理文件。\r\n\r\nC:\\Users\\haita\\ObsidianVault>dir\r\n 驱动器 C 中的卷是 Windows-SSD\r\n 卷的序列号是 F2B2-6118\r\n\r\n C:\\Users\\haita\\ObsidianVault 的目录\r\n\r\n2026/06/20  15:15    <DIR>          .\r\n2026/06/20  15:14    <DIR>          ..\r\n2026/06/20  15:15    <DIR>          .claude\r\n2026/06/20  15:15    <DIR>          .claudian\r\n2026/06/20  15:13             1,376 .gitignore\r\n2026/06/20  15:15    <DIR>          .obsidian\r\n2026/06/20  15:13    <DIR>          assets\r\n2026/06/20  15:13             6,445 CLAUDE.md\r\n2026/06/20  15:13    <DIR>          raw\r\n2026/06/20  15:13    <DIR>          wiki\r\n               2 个文件          7,821 字节\r\n               8 个目录 49,118,134,272 可用字节\r\n\r\nC:\\Users\\haita\\ObsidianVault>ls\r\n'ls' 不是内部或外部命令，也不是可运行的程序\r\n或批处理文件。\r\n\r\nC:\\Users\\haita\\ObsidianVault>pwd\r\n'pwd' 不是内部或外部命令，也不是可运行的程序\r\n或批处理文件。\r\n\r\nC:\\Users\\haita\\ObsidianVault>ls\r\n'ls' 不是内部或外部命令，也不是可运行的程序\r\n或批处理文件。\r\n\r\nC:\\Users\\haita\\ObsidianVault>git diff\r\nwarning: in the working copy of '.obsidian/app.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/plugins/copilot/data.json', LF will be replaced by CRLF the next time Git touches it\r\n\r\nC:\\Users\\haita\\ObsidianVault>exit\r\n\u001b[?1004h",
-      "closedAt": 1781940027388
-    },
-    {
-      "name": "Terminal 2",
-      "color": "",
-      "cwd": "C:\\Users\\haita\\ObsidianVault",
-      "bufferSerial": "\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ ls\r\nCLAUDE.md  assets  raw\u001b[2Cwiki\r\n\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ pwd\r\n/c/Users/haita/ObsidianVault\r\n\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ ls\r\nCLAUDE.md  assets  raw  wiki\r\n\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ ls\r\nCLAUDE.md  assets  raw  wiki\r\n\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ ls --color\r\nCLAUDE.md  \u001b[34;1massets\u001b[0m  \u001b[34;1mraw\u001b[0m  \u001b[34;1mwiki\r\n\r\n\u001b[32;22mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$ vim ~/.bashrc\r\n\r\n\u001b[32mhfeng1@Yoga \u001b[35mMINGW64 \u001b[33m~/ObsidianVault \u001b[36m(main)\r\n\u001b[0m$\u001b[1Cexit\r\nexit\r\n\u001b[?1004h",
-      "closedAt": 1781940023961
-    },
-    {
-      "name": "Terminal 1",
-      "color": "",
-      "cwd": "C:\\Users\\haita\\ObsidianVault",
-      "bufferSerial": "\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\u001b[1B\u001b[43D",
-      "closedAt": 1781939781836
-    }
-  ],
+  "recentSessions": [],
   "enableClaudeIntegration": false,
   "claudeSessionsDir": "",
   "claudeRegistryPath": "claude-sessions.md",
