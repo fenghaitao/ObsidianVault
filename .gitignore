@@ -14,6 +14,12 @@ __pycache__/
 # Claudian — session state changes per conversation
 .claudian/sessions/*.meta.json
 .claudian/sessions/*.jsonl
+# Claudian settings carry per-device state (installationMethodsByHost keyed by
+# device UUID); it diverges across machines and can't cleanly sync.
+.claudian/claudian-settings.json
+
+# RealClaudian — open tabs / active conversation; pure per-machine UI state
+.obsidian/plugins/realclaudian/data.json
 
 # Lean Terminal — recent session buffer changes constantly
 .obsidian/plugins/lean-terminal/data.json
