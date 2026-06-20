@@ -5,7 +5,9 @@ tags: [concept, validation, testing, prp, ai-coding, claude-code]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250724 - Build ANY AI Agent with this Context Engineering Blueprint.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -37,6 +39,17 @@ Validation gates are explicit, automated checks the AI is required to run and pa
 
 This is what Cole means by "context-engineered code is not vibe coding." The AI isn't just writing what looks plausible — it's writing what *passes specified checks.*
 
+### End-to-end browser validation ([[VercelAgentBrowser]])
+
+The most powerful gate Cole runs (per `summary-agent-teams-live-build`) is **autonomous end-to-end testing** via the [[VercelAgentBrowser]] CLI: the agent drives a real browser through every user journey defined in the plan (register, purchase, interact, verify state), finds bugs, and fixes them before returning control. He defines these journeys **upfront in the plan** and considers it "a big upgrade over the Playwright/Puppeteer MCP servers." Caveat: Opus 4.6 tended to *skip* the e2e gate unless explicitly demanded (Opus 4.5 ran it automatically) — gates can need re-tuning when the model changes. Also watch for the agent reporting "all tests complete" while a hidden failure scrolls by; pre-empt with a rule like *"do not ignore a failing test because you think it's due to something pre-existing."*
+
+### The "self-healing" `/e2e-test` workflow
+
+Per `summary-self-healing-e2e-validation`, Cole packages his whole validation process into one general `/e2e-test` Claude Code skill (works on any frontend; auto-installs the [[VercelAgentBrowser]] CLI). Six steps: **prereq check → research (3 parallel [[SubAgent]]s: app-structure/journeys, DB schema, bug-hunt code review) → start dev server + build a user-journey task list → for-loop each journey (snapshot → DB query → interact → verify → screenshots) → responsive check → structured report.** Two design choices worth stealing:
+
+- **Fix only big blockers.** The agent fixes just enough to *complete* each journey's test; it surfaces moderate/minor issues for the human to triage rather than over-fixing. Usually more issues remain than are fixed.
+- **Consistent structured report** (enforced in the `skill.md`): fixed / remaining / everything tested, plus a screenshots folder — then hand the report to a *fresh* context window to address the rest. Token-heavy and slow but comprehensive ("the point is not to be fast").
+
 ### Why they matter
 
 - **The AI catches its own mistakes** before the human has to. Human-side review is shallower (skim the code) when the AI has already shown the tests pass.
@@ -59,6 +72,7 @@ ValidationGates are *code-correctness* checks (does the function do what its tes
 ## Related
 
 - [[PRPFramework]] — where validation gates live
+- [[VercelAgentBrowser]] — the end-to-end gate Cole relies on
 - [[ContextEngineering]] — broader paradigm
 - [[ClaudeCode]] — primary execution surface
 - [[AgentEvaluation]] — adjacent but distinct
@@ -67,3 +81,5 @@ ValidationGates are *code-correctness* checks (does the function do what its tes
 - [[ColeMedin]] — popularized the pattern through his content
 - [[summary-context-engineering-101]] — primary source
 - [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI use case
+- [[summary-agent-teams-live-build]] — end-to-end browser validation in practice
+- [[summary-self-healing-e2e-validation]] — the packaged self-healing /e2e-test workflow

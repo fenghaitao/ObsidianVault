@@ -9,7 +9,9 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260101 - AI Exploded in 2025 - Here’s Everything That Happened.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -26,6 +28,7 @@ A CLI Cole runs in any terminal. It reads/writes files in the current directory,
 - **`CLAUDE.md`** — project-root file with global rules and conventions Claude reads on startup. The persistent layer of [[ContextEngineering]].
 - **Auto-edit mode** — toggle (Shift+Tab in Cole's demos) that lets the agent apply file changes without per-edit confirmation. Required for long-running PRP execution.
 - **MCP support** — Claude Code is a first-class [[ModelContextProtocol]] client. Mount [[Crawl4AIRAG]], [[Supabase]] MCP, Brave MCP, etc.
+- **[[AgenticSearch]] over codebases** — Claude Code started with a local vector DB but moved to agentic search (maintainer Boris Cherny: "agentic search generally works better"). It now ships a search tool that hides underlying `grep`/`sed`/`cat` calls — no vector index to maintain. See [[AgenticSearch]].
 - **Subagent / agent-team support** — by 2026 Claude Code has built-in subagent functionality (covered in later batches; central to "Claude Code subagent dream team" content).
 - **Long-running jobs** — Cole frequently kicks off a `/execute-prp` and walks away for 30+ minutes. The agent runs autonomously, validates, iterates.
 
@@ -59,6 +62,7 @@ The PRP framework was designed around Claude Code's primitives. The full lifecyc
 - **Subagents** — "Claude Code subagent dream team" content (later Tier-3 ingest).
 - **[[ClaudeSkills]]** — Anthropic's layer for packaging reusable agent capabilities via [[ProgressiveDisclosure]]. Central to Cole's [[SecondBrain]] system (ingested in batch B).
 - **2000+ hours, harness era** — by 2026 Cole's content treats Claude Code as the default [[AgentHarness]] substrate for any serious agentic engineering work.
+- **Commercial scale (2025 recap)** — Claude Code crossed **$1B in revenue**, [[Anthropic]] acquired the **Bun** JS runtime to keep scaling it, and **Claude Code for the web** shipped for remote agentic coding (see `summary-ai-exploded-in-2025`).
 
 ### Beyond coding — the Second Brain use case
 
@@ -84,3 +88,5 @@ By January 2026 Cole uses Claude Code for non-coding knowledge work. A coding ag
 - [[summary-5-techniques-top-agentic-engineers]] — agentic engineering on Claude Code
 - [[summary-second-brain-with-claude-code-obsidian-skills]] — non-coding use case
 - [[summary-agent-harnesses-and-vibe-coding]] — Claude Code as harness substrate
+- [[summary-ai-exploded-in-2025]] — $1B revenue, Bun acquisition, Claude Code for web
+- [[summary-is-rag-dead-for-coding]] — Claude Code's move from vector RAG to agentic search

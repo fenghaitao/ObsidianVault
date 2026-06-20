@@ -7,7 +7,9 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/02 - 10x Your AI Agents with this ONE Agent Architecture.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/03 - Coding Subagents - The Next Evolution of AI IDEs.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260202 - Turn Claude Code into Your Full Engineering Team with Subagents.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -61,6 +63,8 @@ Cole's argument for Archon's existence: AI IDEs like Windsurf and Cursor halluci
 
 By the [[HarnessEngineering]] era (mid-2026), Cole reframes Archon as **"my open-source harness builder"** — the easiest way to build your own custom [[AgentHarness]] (like a [[RalphLoop]]) tailored to your exact software-development lifecycle. This is consistent with Archon's original "meta-agent that builds agents" identity, now extended: it doesn't just generate agent *code*, it helps you assemble the multi-session orchestration harnesses that are the frontier of [[AgenticEngineering]]. See `summary-harness-engineering`.
 
+**"The [[N8N]] for AI coding" (Feb 2026)**: per `summary-full-engineering-team-subagents`, Cole makes the pivot explicit. Archon's original identity — a task-management + RAG "command center" for AI coding — is **less relevant now** because task management is being built into coding agents directly, and RAG matters less for coding (agents look up documentation well on their own). So he's keeping the "command center" vision but turning Archon into a tool to **define and orchestrate your own AI-coding workflows and harnesses** — making a custom system like his "full AI engineer" easy to assemble, the way N8N makes automation workflows easy. (This is why Archon has been quiet: the vision is shifting.)
+
 ### Demo capabilities seen across the playlist
 
 - Built an "MCP Agent Army" — primary agent + 6 specialized sub-agents (Brave search, GitHub, Slack, Airtable, Filesystem, Firecrawl) — that handles compound tasks like "search → save to Airtable → notify in Slack."
@@ -70,6 +74,8 @@ By the [[HarnessEngineering]] era (mid-2026), Cole reframes Archon as **"my open
 ## Related
 
 - [[ColeMedin]] — creator
+- [[AgentHarness]] — Archon's 2026 identity as a harness builder
+- [[N8N]] — the analogy for Archon's "orchestrate your own workflows" pivot
 - [[PydanticAI]] — primary target framework Archon generates code for
 - [[LangGraph]] — workflow framework Archon uses internally and generates code for
 - [[ModelContextProtocol]] — how Archon plugs into AI IDEs
@@ -83,3 +89,5 @@ By the [[HarnessEngineering]] era (mid-2026), Cole reframes Archon as **"my open
 - [[summary-build-an-army-of-ai-agents-archon]] — agent army demo
 - [[summary-10x-your-ai-agents-parallel-architecture]] — parallel architecture deep dive
 - [[summary-coding-subagents-mcp-evolution]] — MCP integration deep dive
+- [[summary-full-engineering-team-subagents]] — the "N8N for AI coding" pivot
+- [[summary-is-rag-dead-for-coding]] — why RAG-for-coding declined (reinforces the pivot)

@@ -8,7 +8,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide).md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260101 - AI Exploded in 2025 - Here’s Everything That Happened.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -22,6 +23,15 @@ Anthropic is the AI safety company behind the Claude model family and the [[Mode
 - **Claude** — model family (specifically Claude 3.5 Sonnet and Claude 3.7 Sonnet referenced as the LLMs powering Windsurf agentic coding).
 - **Claude Desktop** — the official Claude desktop client; one of the first MCP-aware applications.
 - **MCP / Model Context Protocol** — see [[ModelContextProtocol]]. Authored by Anthropic, now widely adopted across the ecosystem.
+
+### 2025 industry milestones (year-in-review)
+
+Per Cole's 2025 recap (`summary-ai-exploded-in-2025`), Anthropic was arguably the defining company of the year:
+- Shipped the **Claude 4** family (the point Cole calls Claude "the coding king") and later **Claude Opus 4.5** ("the AI coding king," beating Sonnet 4.5).
+- Raised **$13B at a $183B valuation**; paid a **$1.5B** settlement to authors over training-data copyright (~$3K each across ~500K books).
+- **[[ClaudeCode]] reached $1B in revenue**; acquired the **Bun** JavaScript runtime to scale it; released **Claude Code for the web** (remote agentic coding, competing with OpenAI's Codex).
+- Partnered with IBM (enterprise AI) and entered circular Microsoft/Nvidia investment-and-infrastructure deals.
+- **Donated [[ModelContextProtocol]]** to the new **Agentic AI Foundation** (a Linux Foundation directed fund co-founded with Block and OpenAI), and drove adoption of [[ClaudeSkills]] as a context-efficient capability layer.
 
 ### Reference: "Building Effective Agents" article
 
@@ -60,3 +70,4 @@ Cole heavily uses Anthropic's Python tooling:
 - [[Windsurf]], [[Cursor]] — AI IDEs that ship MCP support and use Claude as their default LLM
 - [[summary-easiest-strategy-for-accurate-rag]] — walkthrough of Anthropic's contextual retrieval article
 - [[summary-build-your-own-mcp-servers-template]] — uses Anthropic's `FastMCP`
+- [[summary-ai-exploded-in-2025]] — 2025 year-in-review; Anthropic's milestones

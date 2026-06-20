@@ -5,6 +5,8 @@ tags: [concept, knowledge-management, claude-code, obsidian, skills, personal-pr
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260212 - I Built a Safer OpenClaw Alternative Using Claude Code.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow).md"
 last_updated: 2026-06-20
 ---
 
@@ -37,6 +39,12 @@ Markdown files loaded at session start via a **session-start hook**:
 #### 3. The heartbeat = proactivity
 
 A scheduled process: gather context deterministically via integration APIs → send to [[ClaudeCode]] (via Agent SDK) with a preconfigured prompt → agent reasons and acts (draft replies, handle PRs) → Slack notification keeps the human in the loop. "The heartbeat saves me the most time out of everything."
+
+### Building it by cloning [[OpenClaw]] with [[ClaudeCode]]
+
+Per `summary-safer-openclaw-alternative`, the fastest route to this architecture is to **clone OpenClaw (MIT) and point Claude Code at it**: *"explain how the memory system works, now build it into my own system adapted to my stack."* Coding agents thrive on a simple, elegant working example, so Claude Code one-shotted Cole's memory system (same markdown-as-database + SQLite-RAG pattern) and he repeated the process per component (heartbeat, adapters). When OpenClaw ships a new feature, pull the repo and re-point Claude Code.
+
+Cole's concrete stack: [[Obsidian]] for storage + sync, markdown as the database, **SQLite locally / Postgres when deployed to a VPS**, the [[ClaudeAgentSDK]] for the heartbeat (a scheduled job every ~30 min), and [[ClaudeCode]] as primary driver. Skills come built into Claude Code / the Agent SDK (including a skill that creates skills), so there's no public registry — and no risk of downloading malicious skills like those found on OpenClaw's ClawHub. He keeps adapters minimal (just **Slack** + terminal) since most people only need one channel that works.
 
 ### Security: the [[LethalTrifecta]]
 
@@ -129,5 +137,8 @@ Cole reports the Second Brain "saves me dozens of hours every single week" and m
 - [[OpenClaw]] — inspiration-not-to-run foil; source of the memory-layer + heartbeat ideas
 - [[PRDFirstDevelopment]] — how Cole helps you scope your own build
 - [[ColeMedin]] — articulator
+- [[Excalidraw]] — the diagram-generator skill in the template
 - [[summary-second-brain-with-claude-code-obsidian-skills]] — intro source
 - [[summary-full-guide-ai-second-brain]] — comprehensive architecture source
+- [[summary-safer-openclaw-alternative]] — clone-and-rebuild method + Cole's VPS stack
+- [[summary-beautiful-diagrams-claude-code]] — the Excalidraw diagram skill in the template

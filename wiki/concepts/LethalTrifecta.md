@@ -4,6 +4,7 @@ type: concept
 tags: [concept, security, prompt-injection, agents, second-brain]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260212 - I Built a Safer OpenClaw Alternative Using Claude Code.md"
 last_updated: 2026-06-20
 ---
 
@@ -49,7 +50,7 @@ You can't make a useful second brain without exposure to the lethal trifecta. So
 
 ### Why this argues against running [[OpenClaw]] directly
 
-[[OpenClaw]] (and similar out-of-the-box agents) don't limit private-data-access and exfiltration well, and they're huge code bases you don't understand — so you can't reason about how the trifecta affects you. Building your own (taking inspiration, not running the code) lets you define permissions up front and layer capabilities deliberately. The security argument is the core of Cole's "build your own second brain" thesis.
+[[OpenClaw]] (and similar out-of-the-box agents) don't limit private-data-access and exfiltration well, and they're huge code bases you don't understand — so you can't reason about how the trifecta affects you. This isn't theoretical: per `summary-safer-openclaw-alternative`, OpenClaw shipped a **one-click RCE** (OAuth-token theft) with **plaintext credential storage**, and its **ClawHub** skills marketplace hosted hundreds of credential-stealing packages — exactly the exfiltration-of-private-data outcome the trifecta predicts. Building your own (taking inspiration, not running the code) lets you define permissions up front and layer capabilities deliberately. The security argument is the core of Cole's "build your own second brain" thesis.
 
 ### General applicability
 
@@ -63,3 +64,4 @@ The trifecta applies to *any* agent, not just second brains. Whenever you're des
 - [[AIAgent]] — the general subject
 - [[ColeMedin]] — applies the model in this corpus
 - [[summary-full-guide-ai-second-brain]] — primary source
+- [[summary-safer-openclaw-alternative]] — OpenClaw's concrete vulnerabilities as evidence

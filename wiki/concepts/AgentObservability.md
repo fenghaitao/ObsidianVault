@@ -4,7 +4,8 @@ type: concept
 tags: [concept, observability, monitoring, production, agents]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap).md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -42,7 +43,7 @@ Without observability the answer is "I don't know" and your iteration loop stall
 | **Langfuse** | Independent OSS | Self-hostable; broad framework support; Cole's most-mentioned choice |
 | **Helicone** | Independent | OpenAI-compatible proxy approach |
 | **Langsmith** | LangChain | Strong if you're already in LangChain ecosystem |
-| **Logfire** | Pydantic team | Built into PydanticAI; fits well with the [[PydanticAI]] + [[LangGraph]] stack |
+| **Logfire** | Pydantic team | Built into PydanticAI; fits well with the [[PydanticAI]] + [[LangGraph]] stack. Cole's go-to in his Jan 2026 skills-agent demo: a few lines of config instrument every agent run, sending tool calls, LLM interactions, token usage, and cost as **traces** — inspectable locally and in production to see exactly where an agent went wrong (e.g. a bad tool parameter). |
 
 The tools differ in integration model (proxy vs. SDK callbacks vs. native), self-hosting options, and pricing — but the underlying signal each captures is similar.
 
@@ -63,5 +64,7 @@ Cole says it's "not that hard to set up" — most observability tools are a sing
 
 - [[AIAgent]] — what's being observed
 - [[AgentEvaluation]] — companion practice
+- [[PydanticAI]] — Logfire's native home
 - [[ColeMedin]] — author of the framing here
 - [[summary-how-to-learn-ai-agents-roadmap]] — primary source (phase 7)
+- [[summary-build-skills-for-any-agent]] — Logfire tracing demo

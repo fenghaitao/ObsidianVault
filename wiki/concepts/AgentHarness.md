@@ -4,7 +4,9 @@ type: concept
 tags: [concept, agents, harness, multi-session, long-running, anthropic, claude-code]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260115 - Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260202 - Turn Claude Code into Your Full Engineering Team with Subagents.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -26,6 +28,22 @@ The harness is **not a replacement** for context engineering. It uses context en
 ### Why now
 
 [[ColeMedin]]'s framing: raw LLM power isn't exploding anymore. The benchmarks creep, but the architectural unlocks are now in *the layer around* the LLM. 2020-2025 was the year of scaling parameters; 2026 is the year of harnesses.
+
+### From coder to full "AI engineer" — the tool belt
+
+Per `summary-full-engineering-team-subagents`, a coding-only harness is an incomplete engineer. A real engineer also communicates (Slack), manages tasks (Linear/Jira), and maintains the repo (GitHub/PRs). Cole extends Anthropic's open-source harness with a **tool belt** of service [[SubAgent]]s so the agent works *where humans work*:
+
+- Built on the [[ClaudeAgentSDK]] (agents/MCP/sub-agents defined in code, runs on the Claude Code subscription) and Anthropic's JSON task-list format.
+- **[[Arcade]]** MCP gateway connects Linear + GitHub + Slack (91 tools) with agent authorization, so teams share the harness without sharing credentials.
+- **Linear becomes the source of truth** — the initializer creates a Linear project + issues plus a meta "progress tracker" issue, *replacing* the local `claude_progress.md` handoff file. Each session reads Linear to know what to validate and build next.
+- Dedicated Linear/GitHub/Slack sub-agents isolate context from the orchestrator and can each run a cheaper/faster model (Haiku/Sonnet/Opus).
+- Flow: **AppSpec (PRD)** → initializer scaffolds project + Linear + GitHub → coding loop (fresh context each session: get bearings → regression test → implement → Playwright-validate → commit → update Linear + Slack) until all tasks done.
+
+The takeaway Cole stresses: off-the-shelf harnesses are a *starting point*; the real win is a **custom** harness fit to your own workflow (see [[Archon]]'s pivot to "the N8N for AI coding").
+
+### The spectrum: from Ralph (Model T) to a real harness
+
+[[ColeMedin]] frames the [[RalphLoop]] ("Ralph Wiggum") as the **most basic harness possible** — a single Stop hook plus prompting — the "**Model T of AI coding**," not the Tesla. It proves the concept but isn't production-ready. Moving from Ralph to an effective harness means adding exactly the components below: an **initializer agent**, **structured progress tracking**, **human-in-the-loop**, **error recovery**, **memory compression**, **session handoff**, and a **deterministic validation strategy** built into the process (not just bolted on via PRP). Cole's 2026 thesis: the competitive advantage shifts from the model to the harness/tooling around it.
 
 ### Anatomy of a harness
 
@@ -117,6 +135,8 @@ The unlock that's emerging:
 ## Related
 
 - [[ContextEngineering]] — predecessor
+- [[ClaudeAgentSDK]] — SDK for building harnesses in code
+- [[Arcade]] — MCP gateway for service tool belts (Linear/GitHub/Slack)
 - [[HarnessEngineering]] — the discipline of building harnesses (and the AI layer); the mature framing of this concept
 - [[AILayer]] — the single-session wrapper inside a harness
 - [[RalphLoop]] — canonical multi-session automation
@@ -132,3 +152,5 @@ The unlock that's emerging:
 - [[summary-agent-harnesses-and-vibe-coding]] — primary source
 - [[summary-harness-engineering]] — the discipline; multi-session orchestration
 - [[summary-adversarial-dev-technique]] — a concrete harness
+- [[summary-ralph-wiggum-vibe-coding]] — Ralph as the most basic harness (Model T)
+- [[summary-full-engineering-team-subagents]] — extending a harness into a full AI engineer with a tool belt

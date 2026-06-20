@@ -4,6 +4,7 @@ type: concept
 tags: [concept, harness-engineering, claude-code, rules, skills, hooks]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
 last_updated: 2026-06-20
 ---
 
@@ -43,6 +44,12 @@ An LLM alone can't touch files or run commands. The tool's harness adds those. T
 | **Sub-agents** | Isolated agents for focused tasks ([[SubAgent]]). |
 
 No matter how you want to inject process or rules, it goes through one of these six.
+
+### The AI layer as your reusable starting point (greenfield)
+
+Per `summary-complete-agentic-coding-workflow`, in practice the AI layer is the set of **context assets** you set up *before writing any code*: the PRD (what to build), global rules (how to build), commands (reusable workflows like `/prime`, `/create-prd`, `/plan-feature`, `/execute`, `/commit`), research sub-agents, and a **reference folder** of on-demand context. Cole keeps a **generic starter** AI layer he drops into every new project, then **evolves it to be project-specific** as the codebase grows — the reason he prefers a simple own-it framework over heavyweight ones (BMAD, GitHub Spec Kit).
+
+**Reference folder = [[ProgressiveDisclosure]]**: keep `AGENTS.md` concise (~230 lines, always loaded) and push bigger guides (`components.md`, `api.md`, `styles.md`) into a reference folder that the agent loads *only* when working on that area — pointed to from the global rules. (These can equally be [[ClaudeSkills]].)
 
 ### Hooks deep-dive (the underused component)
 
@@ -84,4 +91,7 @@ Like all of [[ColeMedin]]'s patterns, the AI layer is mostly **markdown** (rules
 - [[SystemEvolution]] — where hooks/rules come from over time
 - [[ClaudeCode]], [[Codex]] — the tools' built-in harnesses
 - [[ColeMedin]] — articulator
+- [[PIVLoop]] — the per-phase loop the AI layer is set up to run
+- [[ProgressiveDisclosure]] — the reference-folder / on-demand-context pattern
 - [[summary-harness-engineering]] — primary source
+- [[summary-complete-agentic-coding-workflow]] — the AI layer as a greenfield starter

@@ -4,7 +4,8 @@ type: entity
 tags: [tool, knowledge-management, markdown, second-brain, vault, plugins]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -38,7 +39,7 @@ For agent integration, "the source of truth is markdown on disk" is a substantia
 - **Realclaudian (Claudian)** — embeds Claude Code as a panel inside Obsidian. The agent operating *this very wiki*.
 - **Lean Terminal** — shell access without leaving Obsidian.
 - **Obsidian Git** — commit/push/pull from inside the app.
-- **Excalidraw** — diagrams that render in Obsidian (Cole has a skill that produces them).
+- **Excalidraw** — diagrams that render in Obsidian; [[Excalidraw]] is JSON-based, and Cole has a [[ClaudeSkills|skill]] that generates and self-validates them (`summary-beautiful-diagrams-claude-code`).
 - **Dataview** — query frontmatter as if the vault were a database.
 - **Marp** — render markdown as slides (mentioned by Karpathy as part of the LLM Wiki pattern).
 
@@ -66,8 +67,10 @@ The combination is **cooperative editing**: human and agent are both editors of 
 ## Related
 
 - [[ClaudeCode]] — primary agent operating against the vault
+- [[Excalidraw]] — diagram format rendered via the Obsidian plugin
 - [[ClaudeSkills]] — capability layer
 - [[SecondBrain]] — central pattern using Obsidian as canvas
 - [[KarpathyLLMWiki]] — the pattern Obsidian naturally hosts
 - [[ColeMedin]] — primary advocate in this corpus
 - [[summary-second-brain-with-claude-code-obsidian-skills]] — primary source
+- [[summary-beautiful-diagrams-claude-code]] — Excalidraw plugin as a diagram render target

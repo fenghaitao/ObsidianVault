@@ -6,7 +6,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250703 - Context Engineering is the New Vibe Coding (Learn this Now).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250724 - Build ANY AI Agent with this Context Engineering Blueprint.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -26,6 +27,16 @@ The PRP Framework is [[Rasmus]]'s structured methodology for [[ContextEngineerin
 2. **`/generate-prp initial.md`** — run a slash command in [[ClaudeCode]] (or paste the equivalent prompt into your IDE). The AI researches APIs, analyzes the existing codebase, looks at examples, references documentation, and produces a comprehensive PRP file in `PRPs/<feature>.md`. Takes 5-15 minutes.
 3. **Validate the PRP** — read it. Check that documentation references are right, the planned file structure matches your project, [[ValidationGates]] are sensible, and the confidence score is reasonable. Iterate if needed (Cole's pro tip: ask "what would it take to get this to 10/10 confidence?").
 4. **`/execute-prp <path>`** — Claude Code reads the PRP, builds an extensive task list, knocks out tasks one by one, runs validation gates (linting + tests), iterates until tests pass. Takes 25-60+ minutes for non-trivial features.
+
+### Planning refinement: reduce assumptions via clarifying questions (2026)
+
+Per `summary-agent-teams-live-build`, Cole's mature planning loop sharpens the "generate-prp" step into an explicit conversation before the structured plan is written:
+
+1. **`/prime`** — run at the start of every new build to load codebase context.
+2. **Unstructured brain-dump** — describe the feature; tell the agent to search the codebase *and* the web.
+3. **Force clarifying questions** — *"The number one goal of planning is to reduce the number of assumptions the coding agent is making."* Cole demands **≥10 questions**. Rationale: there are two kinds of agent mistakes — writing bad code, or deviating from intent — and "technically both are your fault"; questions surface assumptions you didn't realize you were making.
+4. **AskUserQuestion tool** — [[ClaudeCode]]'s multiple-choice question UI (with a recommended option and a free-form box) makes the Q&A fast. It asks a few at a time and isn't dynamic across prior answers, so you sometimes restate context.
+5. **Formalize + review** — a `/plan` command writes the structured plan; then **review it carefully** because it's high-leverage ("one error in your plan → hundreds of lines of bad code; one bad line is just one line"). Then [[ContextReset|reset context]] and implement.
 
 ### What goes where
 
@@ -78,3 +89,4 @@ Per [[Rasmus]]: the PRP framework was iterating for over a year before Claude 4 
 - [[summary-context-engineering-is-new-vibe-coding]] — intro
 - [[summary-context-engineering-101]] — Rasmus on the framework, MCP-server template
 - [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI template
+- [[summary-agent-teams-live-build]] — the clarifying-questions planning refinement

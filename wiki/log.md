@@ -116,3 +116,48 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - [[fighting-context-rot]]
 - **Pages consulted**: VibeCoding, ContextEngineering, HarnessEngineering, AgentHarness, AgenticEngineering, SystemEvolution, ContextRot, AndrejKarpathy, RetrievalAugmentedGeneration, ContextualRetrieval, Reranking, HybridSearch, PromptCaching, Crawl4AIRAG, Neon, Supabase, KarpathyLLMWiki, SecondBrain, Obsidian, ClaudeCode, ClaudeSkills, ProgressiveDisclosure, ModularRulesArchitecture, ContextReset, Commandification, RalphLoop, AdversarialDev, SubAgent, HumanInTheLoop, plus the relevant source summaries.
 - **Notes**: First population of wiki/syntheses/ — demonstrates the query→synthesize→file-back compounding loop. All four are analytical/comparative spanning 4+ pages each, so all met the save-worthy threshold. User pre-approved saving all four.
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 1/11: AI Exploded in 2025
+- **Changes**: created [[summary-ai-exploded-in-2025]]; updated [[Anthropic]] (2025 milestones), [[ClaudeCode]] ($1B revenue, Bun, Claude Code for web), [[ClaudeSkills]] (Oct 2025 release timeline), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 2/11: Kiro Hackathon announcement
+- **Changes**: created [[summary-kiro-hackathon]], created [[Kiro]]; updated [[AICodingAssistant]] (linked Kiro), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 3/11: Ralph Wiggum / final evolution of vibe coding
+- **Changes**: created [[summary-ralph-wiggum-vibe-coding]]; updated [[RalphLoop]] (plugin mechanics, use cases, failure modes, PRP+Ralph, Model T), [[VibeCoding]] (Ralph as ceiling), [[AgentHarness]] (Ralph as most basic harness), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 4/11: Claude Skills for ANY Agent
+- **Changes**: created [[summary-build-skills-for-any-agent]]; updated [[ClaudeSkills]] (universal impl + skill creator), [[ProgressiveDisclosure]] (from-scratch mechanics + sizing), [[PydanticAI]] (skills agent, evals, Logfire), [[AgentEvaluation]] (skill-usage eval example), [[AgentObservability]] (Logfire detail), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 5/11: Full Engineering Team with Subagents
+- **Changes**: created [[summary-full-engineering-team-subagents]], created [[Arcade]], created [[ClaudeAgentSDK]]; updated [[AgentHarness]] (tool belt / full AI engineer), [[SubAgent]] (context isolation + per-model), [[Archon]] (N8N for AI coding pivot), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 6/11: Safer OpenClaw Alternative
+- **Changes**: created [[summary-safer-openclaw-alternative]]; updated [[OpenClaw]] (security incidents, 4 components, Peter/185k stars, corrected Nano Claw, ToS), [[SecondBrain]] (clone-and-rebuild method + VPS stack), [[LethalTrifecta]] (concrete OpenClaw vulns), [[ClaudeAgentSDK]] (heartbeat use), updated [[index.md]]
+- **Conflicts**: none (corrected a prior factual note: "Nemo Claw" → "Nano Claw", a separate tool not a fork)
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 7/11: Claude Code Agent Teams (live build)
+- **Changes**: created [[summary-agent-teams-live-build]], created [[AgentTeams]], created [[VercelAgentBrowser]]; updated [[PRPFramework]] (clarifying-questions planning), [[ValidationGates]] (e2e browser validation), [[SubAgent]] (Agent Teams evolution), [[ClaudeSkills]] (SaaS ships skills), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 8/11: Why the Best AI Tools Abandoned RAG
+- **Changes**: created [[summary-is-rag-dead-for-coding]], created [[AgenticSearch]]; updated [[RetrievalAugmentedGeneration]] (is-RAG-dead nuance), [[ClaudeCode]] (agentic search), [[Archon]] (RAG-for-coding decline), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 9/11: COMPLETE Agentic Coding Workflow
+- **Changes**: created [[summary-complete-agentic-coding-workflow]], created [[PIVLoop]]; updated [[AILayer]] (greenfield context-asset framing), [[Commandification]] (commands vs skills), [[PRDFirstDevelopment]] (PRD creation flow), [[SystemEvolution]] (parallel evolution + git memory), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 10/11: Self-healing e2e validation (/e2e-test)
+- **Changes**: created [[summary-self-healing-e2e-validation]]; updated [[ValidationGates]] (self-healing workflow), [[VercelAgentBrowser]] (validation micro-loop), [[PIVLoop]] (e2e-test as validate step), [[SubAgent]] (3 parallel research agents), [[Neon]] (test-data branching), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 11/11: Beautiful Diagrams with Claude Code
+- **Changes**: created [[summary-beautiful-diagrams-claude-code]], created [[Excalidraw]]; updated [[ClaudeSkills]] (diagram skill), [[Obsidian]] (Excalidraw render target), [[SecondBrain]] (diagram-generator skill), updated [[index.md]]
+- **Conflicts**: none
+- **Batch note**: Batch 2 (2026-H1) COMPLETE — all 11 files ingested and archived. Batches 1 (2025, 12 files) and 3 (2026-H2, 11 files) remain unprocessed in raw/03-transcripts/.

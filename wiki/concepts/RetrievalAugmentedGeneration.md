@@ -8,7 +8,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff).md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -16,6 +17,20 @@ last_updated: 2026-06-19
 Retrieval-Augmented Generation (RAG) is a pattern where an LLM's response is grounded by retrieved external documents, rather than relying purely on the model's training data. The standard pipeline: ingest documents → split into chunks → embed each chunk into a vector → store in a vector database → at query time, embed the user's question, fetch the nearest-neighbor chunks, and prepend them to the LLM prompt.
 
 ## Key Information
+
+### "Is RAG dead?" — the structured-vs-unstructured distinction
+
+Per `summary-is-rag-dead-for-coding`, the "RAG is dead" narrative conflates two things. What's dying is **traditional RAG** (chunk → embed → vector DB → semantic nearest-neighbor), and only **for code** — because code is *structured* (exact identifiers, perfect spelling, file-structure organization, terminal tools). There, agents use **[[AgenticSearch]]** (ripgrep/glob/file navigation) instead — which is *still RAG* (it pulls external info into context), just without a vector DB.
+
+But for **unstructured** data (Drive/SharePoint/SQL seas of text), traditional semantic RAG is essential: only embeddings catch **synonyms and conceptually-similar** passages (Cole's example: "Star Wars spaceships" won't keyword-match X-wing / TIE fighter / Millennium Falcon). 
+
+| Axis | Structured (code) | Unstructured (docs) |
+|---|---|---|
+| Retrieval | [[AgenticSearch]] (grep/glob) | Traditional semantic RAG |
+| Why | exact match, file structure, changes often (index hard to sync) | need synonym/concept matching across millions of docs |
+| Cost at scale | slow/expensive over big corpora | ~100× cheaper (small targeted chunks) |
+
+Industry evidence: **Boris Cherny** (Claude Code) — early Claude Code used a local vector DB, moved to agentic search; **Nick** (Cline co-creator) — RAG-for-coding is a "mind virus"; **Aider** — tree-sitter repo map in the system prompt (an index without a vector DB). **The bridge**: give the agent both modes and let it decide *what* and *how* to search per query. Bottom line: "for coding, RAG is dead; for everything else, definitely not."
 
 ### Standard pipeline
 
@@ -100,6 +115,7 @@ A recurring theme across Cole's content (echoed in the Vectorize sponsor segment
 ## Related
 
 - [[Archon]] — uses RAG over PydanticAI docs
+- [[AgenticSearch]] — the non-vector RAG coding agents use instead (for structured code)
 - [[Crawl4AIRAG]] — Cole's open-source RAG MCP server with [[ContextualRetrieval]] built in
 - [[ContextualRetrieval]] — Anthropic's accuracy enhancement; biggest single win
 - [[Supabase]] — Archon's vector DB backend
@@ -112,3 +128,4 @@ A recurring theme across Cole's content (echoed in the Vectorize sponsor segment
 - [[summary-3-must-have-mcp-servers-for-ai-coding]] — RAG as part of the AI-coding MCP triad
 - [[summary-every-rag-strategy-explained]] — the 11-strategies survey
 - [[cole-medin-rag-playbook]] — synthesis: Cole's consolidated RAG playbook (strategies, tooling, cost controls)
+- [[summary-is-rag-dead-for-coding]] — the "RAG is dead?" structured-vs-unstructured resolution

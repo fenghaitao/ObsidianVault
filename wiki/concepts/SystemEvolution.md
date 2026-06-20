@@ -5,6 +5,7 @@ tags: [concept, agentic-engineering, debugging, mindset, self-improvement, claud
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
 last_updated: 2026-06-20
 ---
 
@@ -64,6 +65,14 @@ With it:
 - Whole classes of mistakes disappear permanently.
 - The compound interest of small fixes is large over months.
 
+### Evolving three things in parallel (+ git as long-term memory)
+
+Per `summary-complete-agentic-coding-workflow`, as you build you evolve **three things at once**: the **code base**, the **test base** (a regression harness — Cole mentions QA Tech, whose AI agents grow test cases alongside the code), and the **[[AILayer]]**. Cole calls evolving the AI layer "the most high-leverage part of the entire process."
+
+Two practical habits:
+- **Git commit history = long-term memory** — a standardized `/commit` command produces consistent messages so the `/prime` command can read the git log to understand how the codebase has evolved and what patterns to follow.
+- **Meta-reason before changing the AI layer** — when something's off, Cole prompts the agent to reason about *what rule / on-demand context / command to add* with an explicit *"don't change anything yet,"* then makes those AI-layer edits himself (small and focused), while delegating *code* changes freely to the agent.
+
 ### Connection to harness-era work
 
 In [[AgentHarness]] systems running for hours or days autonomously, System Evolution becomes critical. A harness that doesn't learn from its own mistakes will repeat them at scale. Cole's recurring observation in the Anthropic harness: when a handoff misses information about how a failure was resolved, the same failure recurs sessions later.
@@ -103,3 +112,4 @@ Same idea, central to both.
 - [[AgentEvaluation]] — adjacent practice (evaluates the agent; System Evolution evaluates the *system*)
 - [[summary-5-techniques-top-agentic-engineers]] — primary source
 - [[summary-harness-engineering]] — the mindset framing
+- [[summary-complete-agentic-coding-workflow]] — parallel evolution of code/test/AI layer; git as memory

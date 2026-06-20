@@ -5,7 +5,8 @@ tags: [concept, ai-coding, paradigm, karpathy, prototyping]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250703 - Context Engineering is the New Vibe Coding (Learn this Now).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260115 - Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -26,6 +27,10 @@ Vibe coding is the practice of letting an [[AICodingAssistant]] write code with 
 - **No human review = no quality floor.** [[ColeMedin]] cites a Codto survey: 76.4% of developers have low confidence shipping unreviewed AI code.
 - **Intuition doesn't scale.** A small project can be held in your head; a 50-file production codebase can't. Vibe coding works against the grain of large systems.
 - **Compounding wrong decisions.** Without an explicit plan, the AI fills in architectural decisions implicitly, inconsistently. Future iterations build on top of those, multiplying the inconsistency.
+
+### The ceiling — [[RalphLoop|Ralph Wiggum]] as the "final evolution"
+
+Per `summary-ralph-wiggum-vibe-coding`, Cole names the [[RalphLoop]] (the "Ralph Wiggum" technique) the **ceiling of vibe coding**: forcing a coding agent to run in a loop until it declares done is Karpathy's original tenets (no research, no plan, trust the agent, forget the code) taken to their infinite-loop extreme. You literally cannot get "more vibey." The point is double-edged — once Ralph's output is unacceptable, vibe coding has nowhere left to go, and you're forced to apply human judgment and **build a system** (an [[AgentHarness]]). So Ralph marks both the peak *and* the dead-end of the paradigm.
 
 ### Cole's framing — when vibe coding is fine vs. when it isn't
 
@@ -62,9 +67,11 @@ The harness-era version isn't trust-the-LLM-blindly. It's trust-a-heavily-engine
 ## Related
 
 - [[ContextEngineering]] — the counter-paradigm
+- [[RalphLoop]] — the "Ralph Wiggum" ceiling/final evolution of vibe coding
 - [[AgentHarness]] — the layer that makes "vibe coding viable again" (qualified)
 - [[AndrejKarpathy]] — coiner of the term
 - [[ColeMedin]] — author of the Cole-side framing in this corpus
 - [[AICodingAssistant]] — what vibe coding is done with
 - [[summary-context-engineering-is-new-vibe-coding]] — primary source for this framing
 - [[summary-agent-harnesses-and-vibe-coding]] — the harness-era reframe
+- [[summary-ralph-wiggum-vibe-coding]] — Ralph as the ceiling of vibe coding

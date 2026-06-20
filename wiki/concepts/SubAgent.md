@@ -7,7 +7,10 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/02 - 10x Your AI Agents with this ONE Agent Architecture.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/03 - Coding Subagents - The Next Evolution of AI IDEs.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260202 - Turn Claude Code into Your Full Engineering Team with Subagents.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -52,6 +55,24 @@ User → Info gatherer →┬→ Flight sub-agent ─┐
 
 This is the pattern Cole calls "the next evolution of AI IDEs" — generalists delegating to framework specialists over MCP.
 
+#### 3. Sub-agents as a harness "tool belt" (context isolation)
+
+In an [[AgentHarness]] (see `summary-full-engineering-team-subagents`), dedicated **service sub-agents** — one each for Linear, GitHub, Slack — let the orchestrator delegate non-coding work *without* loading those tools into its own context window. Two benefits beyond routing:
+
+- **Context isolation**: the orchestrator's precious context stays lean; the Linear/GitHub/Slack tool surfaces live inside their sub-agents.
+- **Per-agent model selection**: each sub-agent can run a different model via the [[ClaudeAgentSDK]] — e.g. Haiku for fast, cheap Linear updates, Sonnet/Opus for coding — tuning cost and speed per role.
+
+```
+Orchestrator → Linear sub-agent  (Haiku)  — tasks
+             → GitHub sub-agent  (Haiku)  — commits/PRs
+             → Slack sub-agent   (Haiku)  — progress updates
+             → coding work       (Sonnet/Opus)
+```
+
+### Evolution: [[AgentTeams]] (communicating sub-agents)
+
+Sub-agents' key limitation is that they **don't communicate** — they run in parallel and each reports back only to the main agent, which aggregates. [[ClaudeCode]]'s **[[AgentTeams]]** feature (Opus 4.6, 2026) removes that limit: teammate agents share a task list and message each other (and the lead), coordinating who does what. Agent Teams is "where this is going" — but as of early 2026 it's experimental, non-deterministic, token-heavy, and lacks observability. See [[AgentTeams]].
+
 ### Tool description as contract
 
 A sub-agent's docstring (or, more generally, the description registered with the primary agent) is the contract. The primary agent reads it to decide *when* to invoke the sub-agent. Good descriptions matter as much as good prompts at this boundary.
@@ -60,6 +81,7 @@ A sub-agent's docstring (or, more generally, the description registered with the
 
 - **Pro**: dramatically reduces hallucination on complex multi-domain tasks.
 - **Pro**: each sub-agent can be tested and iterated independently.
+- **Use research sub-agents for parallel discovery.** Cole's `/e2e-test` skill (`summary-self-healing-e2e-validation`) launches **three sub-agents in parallel** at the start — app-structure/user-journeys, DB schema, and a bug-hunt code review — each loading large context but returning only a compact summary to the primary agent. This is the canonical "research, not implementation" use of sub-agents.
 - **Con**: more LLM calls — the orchestrator's call plus each sub-agent's call. Latency and token cost rise.
 - **Con**: orchestrator must reliably route — if the description is ambiguous, dispatch is wrong.
 
@@ -72,5 +94,11 @@ A sub-agent's docstring (or, more generally, the description registered with the
 - [[Archon]] — example: Archon-as-sub-agent for AI IDEs
 - [[Windsurf]], [[Cursor]] — primary-agent role in MCP-as-sub-agent pattern
 - [[ColeMedin]] — author of all these demos
+- [[AgentHarness]] — sub-agents as a service tool belt with context isolation
+- [[AgentTeams]] — communicating sub-agents (the 2026 evolution)
+- [[ClaudeAgentSDK]] — defines sub-agents (incl. per-agent model) in code
 - [[summary-build-an-army-of-ai-agents-archon]] — MCP Agent Army demo
 - [[summary-coding-subagents-mcp-evolution]] — MCP-as-sub-agent thesis
+- [[summary-full-engineering-team-subagents]] — sub-agents as a harness tool belt
+- [[summary-agent-teams-live-build]] — Agent Teams, the communicating evolution
+- [[summary-self-healing-e2e-validation]] — three parallel research sub-agents in practice

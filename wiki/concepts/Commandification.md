@@ -4,7 +4,8 @@ type: concept
 tags: [concept, agentic-engineering, slash-commands, workflow, claude-code, technique]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -77,6 +78,14 @@ Slash commands are **markdown files**. Three ways to use them:
 
 PRP framework's `/generate-prp` and `/execute-prp` are commands. The framework is itself a commandification of context-engineering workflows.
 
+### Commands vs skills (Claude Code merged them)
+
+Per `summary-complete-agentic-coding-workflow`, Claude Code recently **merged commands with skills**, but Cole keeps a useful conceptual distinction:
+- **Commands** = things *you* invoke explicitly (e.g. `/commit`, `/create-prd`) — a chosen point in a workflow.
+- **Skills** = context the *agent* decides to load when it recognizes it needs to do something ([[ClaudeSkills]] / [[ProgressiveDisclosure]]).
+
+Same underlying mechanism (markdown the agent reads); the difference is who triggers it.
+
 ### When to skip commandification
 
 Don't commandify ad-hoc one-shot prompts or anything where the command would be longer than just typing the prompt. The "more than twice" rule is the trigger; one-shots stay as prompts.
@@ -90,3 +99,4 @@ Don't commandify ad-hoc one-shot prompts or anything where the command would be 
 - [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[ContextReset]], [[SystemEvolution]] — companion techniques
 - [[ColeMedin]] — author
 - [[summary-5-techniques-top-agentic-engineers]] — primary source
+- [[summary-complete-agentic-coding-workflow]] — commands-vs-skills distinction; command suite in practice

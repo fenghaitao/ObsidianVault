@@ -30,6 +30,17 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-self-evolving-memory-karpathy-llm-wiki]] — Karpathy's LLM-Wiki pattern explained (compiler analogy); Cole's self-evolving internal-memory variant. THE source for this vault's architecture.
 - [[summary-harness-engineering]] — Harness engineering defined: the AI layer (6 components) + multi-session orchestration (Ralph loop).
 - [[summary-building-effective-agents]] — (external article) Anthropic's canonical taxonomy of agent architectures; cited across the corpus.
+- [[summary-ai-exploded-in-2025]] — Cole's ~50-item chronological recap of the 2025 AI industry; the timeline behind the corpus.
+- [[summary-kiro-hackathon]] — Announcement of the Dynamous × Kiro AI coding hackathon (Jan 2026); introduces Kiro and its workflow primitives.
+- [[summary-ralph-wiggum-vibe-coding]] — Ralph Wiggum (the Ralph loop) as the ceiling of vibe coding; why a real agent harness is the next step.
+- [[summary-build-skills-for-any-agent]] — Reimplementing Claude Skills / progressive disclosure in any framework (PydanticAI), plus evals and observability.
+- [[summary-full-engineering-team-subagents]] — Extending Anthropic's harness into a full AI engineer with Linear/GitHub/Slack sub-agents via Arcade + the Claude Agent SDK.
+- [[summary-safer-openclaw-alternative]] — OpenClaw's magic and its security failures; cloning its components into a controlled second brain with Claude Code.
+- [[summary-agent-teams-live-build]] — Live brownfield payment build using Claude Code Agent Teams; planning by clarifying questions + autonomous e2e validation.
+- [[summary-is-rag-dead-for-coding]] — Why traditional RAG is dead for code (agentic search) but alive for unstructured data; the structured-vs-unstructured distinction.
+- [[summary-complete-agentic-coding-workflow]] — Cole's dead-simple greenfield framework: AI layer + PRD phases + PIV loops + four golden rules.
+- [[summary-self-healing-e2e-validation]] — The /e2e-test skill: a six-step self-healing validation workflow that drives a browser and DB to test user journeys autonomously.
+- [[summary-beautiful-diagrams-claude-code]] — An Excalidraw diagram skill that teaches the agent to "argue visually" and self-validates by rendering and viewing the image.
 
 ## Entities
 
@@ -50,6 +61,11 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[ClaudeSkills]] — Anthropic's capability-packaging primitive; folder + SKILL.md + progressive disclosure. The scaling layer of Cole's Second Brain.
 - [[Obsidian]] — Local markdown-based knowledge management app; the canvas for Cole's Second Brain and the app this wiki lives in.
 - [[Codex]] — OpenAI's terminal-based coding agent; the primary alternative/counterpart to Claude Code in Cole's 2026 content.
+- [[Kiro]] — AWS's feature-rich agentic AI coding assistant (CLI + IDE); a Claude Code counterpart with steering-docs/commands/devlog workflow.
+- [[Arcade]] — Platform exposing Linear/GitHub/Slack to agents through one MCP gateway with agent authorization (guided OAuth).
+- [[ClaudeAgentSDK]] — Anthropic's SDK for building agentic systems/harnesses on Claude in code; powers Claude Code and Cole's harness experiments.
+- [[VercelAgentBrowser]] — Vercel's browser-automation CLI; lets a coding agent run end-to-end tests through a real browser like a user.
+- [[Excalidraw]] — Free open-source JSON-based diagramming tool (excalidraw.com / Obsidian plugin); target of Cole's diagram-generation skill.
 - [[OpenClaw]] — Out-of-the-box open-source second-brain agent; Cole takes inspiration from it but argues against running it directly (lethal trifecta).
 - [[Neon]] — Serverless Postgres with pgvector; Cole's go-to Postgres for RAG, interchangeable with Supabase.
 - [[Zapier]] — Workflow-automation platform; Cole connects it to his Second Brain via MCP wrapped as a skill.
@@ -67,9 +83,11 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[AIAgent]] — A large language model given the ability to interact with the outside world via tool use.
 - [[AgenticWorkflow]] — Multi-step orchestration of one or more AI agents with explicit control flow and shared state.
 - [[SubAgent]] — A specialized agent invoked by a primary agent to handle a narrow part of a larger task; solves the LLM tool-overload problem.
+- [[AgentTeams]] — Claude Code feature (Opus 4.6): parallel agents that share a task list and communicate; the contract-first evolution of sub-agents.
 - [[ParallelAgentArchitecture]] — Multi-agent pattern where specialized sub-agents execute simultaneously; outputs combined by a synthesizer.
 - [[MetaAgent]] — An AI agent whose purpose is to design or generate other AI agents (Cole calls these "agenteers"); Archon is the canonical example.
 - [[RetrievalAugmentedGeneration]] — Pattern of grounding LLM responses in retrieved external documents via vector search.
+- [[AgenticSearch]] — Tool-driven retrieval (ripgrep/glob/file navigation) coding agents use instead of vector RAG; still RAG, no vector DB.
 - [[ContextualRetrieval]] — Anthropic's RAG enhancement: prepend each chunk with LLM-generated context positioning it within its source document.
 - [[HumanInTheLoop]] — Workflow pattern where execution pauses for human confirmation, correction, or input before resuming.
 - [[ToolUse]] — Mechanism by which an LLM invokes external functionality; the foundation of every AI agent.
@@ -86,6 +104,7 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[AgentHarness]] — Infrastructure layer connecting many LLM sessions for long-running tasks; the post-context-engineering evolution.
 - [[ContextRot]] — Degradation of LLM reasoning as context fills ("the dumb zone"); the central problem harnesses and context engineering address.
 - [[AgenticEngineering]] — The practitioner discipline of getting production results from AI coding agents; umbrella over the 5 techniques.
+- [[PIVLoop]] — Plan-Implement-Validate: the per-phase unit of work in Cole's greenfield coding workflow.
 - [[PRDFirstDevelopment]] — Writing a project-scope north-star markdown doc before any feature work. (Technique 1)
 - [[ModularRulesArchitecture]] — Short global rules + conditionally-loaded reference docs to protect the context window. (Technique 2)
 - [[Commandification]] — Packaging any twice-used workflow as a reusable slash command. (Technique 3)

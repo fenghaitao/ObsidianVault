@@ -7,7 +7,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/02 - 10x Your AI Agents with this ONE Agent Architecture.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/03 - Coding Subagents - The Next Evolution of AI IDEs.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -31,6 +32,19 @@ PydanticAI agents are conceptually three components:
 - **Streaming** — `agent.run_stream(...)` for token-by-token output. Streaming *structured* outputs requires special handling (the dict builds up incrementally) — Cole demonstrates the debounced JSON validation pattern.
 - **`@agent.tool` decorator** — minimal tool registration; LLM-facing parameters and docstrings drive tool selection.
 
+### Building a custom "skills agent" (Jan 2026)
+
+Cole uses PydanticAI to reimplement [[ClaudeSkills]] / [[ProgressiveDisclosure]] from scratch (see `summary-build-skills-for-any-agent`), showing off three features:
+
+- **Dynamic system prompt** — the `@agent.system_prompt` decorator lets you build the prompt at runtime. Cole's version scans a `skills/` directory, extracts every `skill.md`'s YAML description + path, and injects them with the static base prompt.
+- **Toolsets** — a reusable bundle of tools (`load_skill`, `read_reference`, `list_references`) attached to the agent; portable enough to copy into another PydanticAI agent in minutes.
+- **Model flexibility** — the same agent runs on OpenRouter, Ollama (local), or OpenAI, underscoring that the pattern isn't tied to the Claude ecosystem.
+
+### Built-in evals and observability
+
+- **Evaluation framework** — PydanticAI ships a robust [[AgentEvaluation]] framework: define YAML test cases (a "golden dataset") with custom evaluators (e.g. assert the correct skill loaded for a question), then run a single cheap smoke test (Cole uses Haiku). Run on every prompt/skill change.
+- **Logfire** — the Pydantic team's [[AgentObservability]] tool integrates natively: a few lines instrument every tool call, LLM interaction, token count, and cost as traces, locally and in production.
+
 ### Why Cole prefers it
 
 - Less abstraction than [[LangChain]] — closer to "just call the API" with type safety.
@@ -51,3 +65,6 @@ Archon's primary code-generation target is PydanticAI agents. Archon ingests the
 - [[StructuredOutputs]] — feature used for gatekeeper agents
 - [[ToolUse]] — what `@agent.tool` enables
 - [[AIAgent]] — what PydanticAI builds
+- [[ClaudeSkills]], [[ProgressiveDisclosure]] — pattern reimplemented in the skills-agent template
+- [[AgentEvaluation]], [[AgentObservability]] — built-in eval framework + Logfire
+- [[summary-build-skills-for-any-agent]] — skills agent, evals, and Logfire walkthrough

@@ -4,7 +4,8 @@ type: concept
 tags: [concept, context-management, claude-skills, mcp, lazy-loading]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -22,6 +23,16 @@ Progressive Disclosure is the loading strategy used by [[ClaudeSkills]]: only sh
 | **Layer 3: Skill resources** | Python scripts, reference markdown, examples in the skill folder | When the skill needs them mid-execution |
 
 Each layer is a strict subset of the next — the agent only ever loads what it needs for the current task.
+
+### Implementing it from scratch (not Claude-only)
+
+Per `summary-build-skills-for-any-agent`, progressive disclosure is a **universal pattern** you can build into any agent framework ([[PydanticAI]], LangChain, CrewAI, none) and any model (OpenRouter, Ollama/local, OpenAI):
+
+- **Layer 1** = a **dynamic system prompt** that scans a `skills/` directory and injects each skill's front-matter description + path. Crucially, the base prompt must *explicitly teach the agent what skills are and how to invoke them* — the loading behavior is not innate to LLMs; it has to be prompted (which is what Anthropic did for Claude).
+- **Layer 2** = a `load_skill` tool returning the full `skill.md`.
+- **Layer 3** = `read_reference` / `list_references` tools returning individual reference files on demand.
+
+**Best-practice sizing** (Anthropic's guide): description **50–100 words** (~5% of the skill's total context); `skill.md` **300–500 lines** (~30%); the remainder in reference files. The principle holds: keep layer 1 tiny so dozens of skills cost little upfront.
 
 ### Concrete example: PowerPoint generator skill
 
@@ -65,4 +76,6 @@ Skills invert this: the skill's existence is signaled by a 1-line description; t
 - [[ModelContextProtocol]] — counterpoint (always-loaded tool descriptions)
 - [[ColeMedin]] — articulator in this corpus
 - [[Anthropic]] — Skills inventor
+- [[PydanticAI]] — framework used to reimplement progressive disclosure from scratch
 - [[summary-second-brain-with-claude-code-obsidian-skills]] — primary source
+- [[summary-build-skills-for-any-agent]] — universal from-scratch implementation

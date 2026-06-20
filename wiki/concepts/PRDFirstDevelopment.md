@@ -4,7 +4,8 @@ type: concept
 tags: [concept, agentic-engineering, prd, planning, claude-code, technique]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -48,6 +49,10 @@ The PRD is the through-line. Every plan derives from it; every feature ladders i
 - **Onboarding artifact** — a new engineer (human or AI) can read the PRD and orient.
 - **Self-correcting scope** — if you find yourself building something not in the PRD, that's a flag to either update the PRD or stop.
 
+### How the PRD is created (the conversation → questions → command flow)
+
+Per `summary-complete-agentic-coding-workflow`, Cole builds the PRD from an *unstructured* brain-dump conversation (often via speech-to-text), spins up research [[SubAgent]]s (web + codebase), then forces the agent to **ask a flood of clarifying questions** (Claude Code's AskUserQuestion multiple-choice tool) to reduce assumptions before `/create-prd` writes the structured doc. The output includes **MVP scope, out-of-scope, directory structure, and phases of work** — and each phase becomes one [[PIVLoop]]. The conversation is throwaway context; only the PRD survives, so everything important must land in it.
+
 ### Slash command
 
 Cole's `/create-prd` command in `.claude/commands/`: kicks off after a planning conversation, asks targeted questions about target users, scope, mission, architecture, then writes a structured PRD to a path the user specifies. Template-driven (the command markdown contains the section list).
@@ -69,4 +74,6 @@ A typical project has one PRD that survives the project's lifetime, and dozens o
 - [[ClaudeCode]] — primary surface
 - [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]], [[SystemEvolution]] — companion techniques
 - [[ColeMedin]] — author
+- [[PIVLoop]] — each PRD phase is executed as one PIV loop
 - [[summary-5-techniques-top-agentic-engineers]] — primary source
+- [[summary-complete-agentic-coding-workflow]] — the PRD creation flow in practice

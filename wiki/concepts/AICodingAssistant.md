@@ -7,7 +7,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250703 - Context Engineering is the New Vibe Coding (Learn this Now).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260105 - The Kiro AI Coding Hackathon has Officially Started! Build ANYTHING, Win Big Prizes.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -21,7 +22,7 @@ An AI coding assistant is an IDE or developer tool with an embedded LLM that wri
 | Camp | Examples | Strengths | Weaknesses |
 |---|---|---|---|
 | **Generalist (interactive-first)** | [[Cursor]], [[Windsurf]], Cline, Copilot | Broad coverage, good for unfamiliar codebases, fluent in everyday refactors | Hallucinate framework-specific APIs, inconsistent output structure, no domain knowledge per-framework |
-| **Agentic (loop-first)** | [[ClaudeCode]], Kiro AI | Long-running autonomous execution, [[PRPFramework]] support, runs validation gates and iterates | Less interactive feel; need explicit context engineering to do well |
+| **Agentic (loop-first)** | [[ClaudeCode]], [[Kiro]] | Long-running autonomous execution, [[PRPFramework]] support, runs validation gates and iterates | Less interactive feel; need explicit context engineering to do well |
 | **Specialist** | [[Archon]], Bolt (frontends), Lovable (frontends) | Deep knowledge of one framework or domain; consistent output | Narrow scope; need to be picked deliberately for the matching task |
 
 Cole's thesis: the next evolution is **generalists delegating to specialists** via [[ModelContextProtocol]]. Use Windsurf as the file-editor and orchestrator; let it call Archon when it needs a PydanticAI agent built. Best of both. By mid-2025 a third axis emerges: agentic-first tools like Claude Code that run long autonomous loops driven by [[ContextEngineering]] artifacts.
@@ -53,6 +54,7 @@ Cole isn't anti-generalist. He uses Windsurf throughout the playlist as his prim
 
 - [[Windsurf]], [[Cursor]] — primary interactive-generalist examples
 - [[ClaudeCode]] — primary agentic-loop example; default by mid-2025
+- [[Kiro]] — agentic-loop AI coding assistant (AWS); same steering-docs/commands model
 - [[Archon]] — specialist counterpart
 - [[MetaAgent]] — Archon's specific category
 - [[SubAgent]] — pattern that bridges generalist and specialist
