@@ -109,4 +109,7 @@ Format: `[[Page Name]] — One-sentence description.`
 
 *(Cross-document analyses and deep dives — kebab-case filenames)*
 
-*(empty)*
+- [[evolution-vibe-coding-to-harness-engineering]] — The paradigm timeline: vibe coding → context engineering → harness engineering, and how vibe coding returns (qualified).
+- [[cole-medin-rag-playbook]] — Consolidated RAG strategies, tooling, cost controls, and Cole's actual recommendations; plus the RAG-vs-Wiki tension.
+- [[vault-architecture-mapped-to-cole-teachings]] — How this vault is itself an instance of the Karpathy LLM Wiki / Second Brain pattern it documents.
+- [[fighting-context-rot]] — Every technique Cole uses against context rot, organized by layer; the unifying thread of the corpus.

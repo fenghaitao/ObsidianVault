@@ -107,3 +107,12 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - The `20260406` Karpathy LLM Wiki video is the single most self-relevant source in the entire corpus — it literally documents the pattern this vault is built on. KarpathyLLMWiki page now cross-references the vault's own `CLAUDE.md` schema and `.claude/skills/`.
   - Skipped sponsors (Scrimba, Google Cloud Agency CLI, InspoForge) and inline-only mentions (Jeffrey Huntley — credited in RalphLoop; GANs; Threek/Anthropic ToS clarification; Simon Willison — origin of lethal-trifecta term, noted in that page).
   - 28 of the original 49 Channel Only transcripts remain un-ingested by design (news commentary, livestreams, model-release reactions, niche workflows). They stay in raw/03-transcripts for optional future ingest.
+
+## [2026-06-20] query | Four cross-cutting syntheses (paradigm evolution, RAG playbook, vault self-mapping, context rot)
+- **Output**: saved 4 synthesis pages:
+  - [[evolution-vibe-coding-to-harness-engineering]]
+  - [[cole-medin-rag-playbook]]
+  - [[vault-architecture-mapped-to-cole-teachings]]
+  - [[fighting-context-rot]]
+- **Pages consulted**: VibeCoding, ContextEngineering, HarnessEngineering, AgentHarness, AgenticEngineering, SystemEvolution, ContextRot, AndrejKarpathy, RetrievalAugmentedGeneration, ContextualRetrieval, Reranking, HybridSearch, PromptCaching, Crawl4AIRAG, Neon, Supabase, KarpathyLLMWiki, SecondBrain, Obsidian, ClaudeCode, ClaudeSkills, ProgressiveDisclosure, ModularRulesArchitecture, ContextReset, Commandification, RalphLoop, AdversarialDev, SubAgent, HumanInTheLoop, plus the relevant source summaries.
+- **Notes**: First population of wiki/syntheses/ — demonstrates the query→synthesize→file-back compounding loop. All four are analytical/comparative spanning 4+ pages each, so all met the save-worthy threshold. User pre-approved saving all four.
