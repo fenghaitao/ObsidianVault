@@ -55,7 +55,7 @@ Cole heavily uses Anthropic's Python tooling:
 - [[Archon]] — designed to plug into Claude (via MCP) inside AI IDEs
 - [[ContextualRetrieval]] — Anthropic-authored RAG enhancement pattern
 - [[ParallelAgentArchitecture]] — pattern Anthropic taxonomized
-- [[BuildingEffectiveAgents]] — Anthropic's article (planned wiki page; concept-level)
+- [[summary-building-effective-agents]] — Anthropic's article (planned wiki page; concept-level)
 - [[PromptCaching]] — Anthropic feature critical for contextual retrieval cost
 - [[Windsurf]], [[Cursor]] — AI IDEs that ship MCP support and use Claude as their default LLM
 - [[summary-easiest-strategy-for-accurate-rag]] — walkthrough of Anthropic's contextual retrieval article

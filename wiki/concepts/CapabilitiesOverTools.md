@@ -44,7 +44,7 @@ In every phase of his "[[summary-how-to-learn-ai-agents-roadmap]]":
 
 ### Connection to Anthropic's framing
 
-Aligns with [[Anthropic]]'s "[[BuildingEffectiveAgents]]" article, which warns that frameworks are "a level of abstraction that can sometimes be dangerous." Anthropic recommends understanding the underlying building blocks before reaching for framework conveniences — same idea.
+Aligns with [[Anthropic]]'s "[[summary-building-effective-agents]]" article, which warns that frameworks are "a level of abstraction that can sometimes be dangerous." Anthropic recommends understanding the underlying building blocks before reaching for framework conveniences — same idea.
 
 ### Counterpoint / when to *go deep* on a tool
 
@@ -55,4 +55,4 @@ Cole still goes deep on his preferred tools ([[PydanticAI]], [[LangGraph]], [[Ar
 - [[ColeMedin]] — author of the heuristic
 - [[AIAgent]] — the broader subject
 - [[summary-how-to-learn-ai-agents-roadmap]] — primary source where the principle is articulated
-- [[BuildingEffectiveAgents]] — Anthropic's overlapping warning
+- [[summary-building-effective-agents]] — Anthropic's overlapping warning

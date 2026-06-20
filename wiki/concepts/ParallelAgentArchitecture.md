@@ -10,7 +10,7 @@ last_updated: 2026-06-19
 
 ## Definition
 
-The Parallel Agent Architecture is a multi-agent pattern where specialized [[SubAgent]]s execute simultaneously on different sub-problems, then a synthesizer (usually another agent) combines their outputs into a final result. It's [[ColeMedin]]'s preferred name for what [[Anthropic]]'s "[[BuildingEffectiveAgents]]" article calls **parallelization** (or, when the aggregator is itself an LLM, **orchestrator-workers**).
+The Parallel Agent Architecture is a multi-agent pattern where specialized [[SubAgent]]s execute simultaneously on different sub-problems, then a synthesizer (usually another agent) combines their outputs into a final result. It's [[ColeMedin]]'s preferred name for what [[Anthropic]]'s "[[summary-building-effective-agents]]" article calls **parallelization** (or, when the aggregator is itself an LLM, **orchestrator-workers**).
 
 ## Key Information
 
@@ -68,5 +68,5 @@ The pedagogical example built across the playlist: info-gatherer (gates on "do w
 - [[PydanticAI]] — what each specialist is built with
 - [[Archon]] — production example using this pattern
 - [[Anthropic]] — source of the original "parallelization" / "orchestrator-workers" naming
-- [[BuildingEffectiveAgents]] — Anthropic article
+- [[summary-building-effective-agents]] — Anthropic article
 - [[summary-10x-your-ai-agents-parallel-architecture]] — primary deep dive

@@ -27,7 +27,7 @@ A single agent with a long system prompt and many tools is brittle. Splitting th
 
 ### Common workflow patterns (Anthropic-derived taxonomy)
 
-These are the patterns from [[Anthropic]]'s "[[BuildingEffectiveAgents]]" article that Cole repeatedly references:
+These are the patterns from [[Anthropic]]'s "[[summary-building-effective-agents]]" article that Cole repeatedly references:
 
 | Pattern | Shape |
 |---|---|

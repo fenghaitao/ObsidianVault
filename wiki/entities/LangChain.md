@@ -25,7 +25,7 @@ He prefers [[PydanticAI]] + [[LangGraph]] precisely because they're closer to th
 
 - It has its place — *some* developers want the higher-level scaffolding LangChain provides, especially for simpler prototypes.
 - LangChain is on Archon's planned multi-framework support roadmap (v10+), alongside Agno, CrewAI, and LlamaIndex. So Archon will eventually generate LangChain agents, even if it's not Cole's preferred output.
-- The "[[BuildingEffectiveAgents]]" article from [[Anthropic]] specifically praises LangGraph (LangChain's subproject) — Cole agrees with that endorsement.
+- The "[[summary-building-effective-agents]]" article from [[Anthropic]] specifically praises LangGraph (LangChain's subproject) — Cole agrees with that endorsement.
 
 ### Adjacent entities frequently mentioned alongside LangChain
 

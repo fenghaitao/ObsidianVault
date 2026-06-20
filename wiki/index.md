@@ -29,7 +29,7 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-full-guide-ai-second-brain]] — Comprehensive second-brain build: memory layer, skills, heartbeat; the lethal-trifecta security argument.
 - [[summary-self-evolving-memory-karpathy-llm-wiki]] — Karpathy's LLM-Wiki pattern explained (compiler analogy); Cole's self-evolving internal-memory variant. THE source for this vault's architecture.
 - [[summary-harness-engineering]] — Harness engineering defined: the AI layer (6 components) + multi-session orchestration (Ralph loop).
-- [[BuildingEffectiveAgents]] — (external article) Anthropic's canonical taxonomy of agent architectures; cited across the corpus.
+- [[summary-building-effective-agents]] — (external article) Anthropic's canonical taxonomy of agent architectures; cited across the corpus.
 
 ## Entities
 

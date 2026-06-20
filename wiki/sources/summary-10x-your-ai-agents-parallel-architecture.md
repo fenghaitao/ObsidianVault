@@ -8,7 +8,7 @@ last_updated: 2026-06-19
 
 ## Core Summary
 
-A deep dive on the "[[ParallelAgentArchitecture]]" — a multi-agent pattern where specialized [[SubAgent]]s execute simultaneously on different sub-problems, then a synthesizer agent combines their outputs. The video walks through building a Travel Planner Assistant using [[PydanticAI]] + [[LangGraph]], with parallel flight, hotel, and activity sub-agents fed by a gatekeeper info-gathering agent and consumed by a final synthesizer. Heavy reference to Anthropic's "[[BuildingEffectiveAgents]]" article for the architectural taxonomy.
+A deep dive on the "[[ParallelAgentArchitecture]]" — a multi-agent pattern where specialized [[SubAgent]]s execute simultaneously on different sub-problems, then a synthesizer agent combines their outputs. The video walks through building a Travel Planner Assistant using [[PydanticAI]] + [[LangGraph]], with parallel flight, hotel, and activity sub-agents fed by a gatekeeper info-gathering agent and consumed by a final synthesizer. Heavy reference to Anthropic's "[[summary-building-effective-agents]]" article for the architectural taxonomy.
 
 ## Key Points
 
