@@ -6,6 +6,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI).md"
 last_updated: 2026-06-20
 ---
 
@@ -73,6 +75,10 @@ Two practical habits:
 - **Git commit history = long-term memory** — a standardized `/commit` command produces consistent messages so the `/prime` command can read the git log to understand how the codebase has evolved and what patterns to follow.
 - **Meta-reason before changing the AI layer** — when something's off, Cole prompts the agent to reason about *what rule / on-demand context / command to add* with an explicit *"don't change anything yet,"* then makes those AI-layer edits himself (small and focused), while delegating *code* changes freely to the agent.
 
+### The "outer loop" + version-controlled AI layer
+
+Per `summary-principled-agentic-engineer`, System Evolution is the **outer loop** that complements the [[PIVLoop]] inner loop: when a ticket surfaces a systemic issue, step out, fix the [[AILayer]], then resume. The four typical improvement targets: **commands**, **on-demand context** (incl. Confluence docs optimized for AI), **global rules**, and **plan/PRD templates**. Because these are markdown checked into source control, you improve one via a **pull request** (with code review) and the whole team inherits it — one fix can save engineers dozens of hours.
+
 ### Connection to harness-era work
 
 In [[AgentHarness]] systems running for hours or days autonomously, System Evolution becomes critical. A harness that doesn't learn from its own mistakes will repeat them at scale. Cole's recurring observation in the Anthropic harness: when a handoff misses information about how a failure was resolved, the same failure recurs sessions later.
@@ -113,3 +119,5 @@ Same idea, central to both.
 - [[summary-5-techniques-top-agentic-engineers]] — primary source
 - [[summary-harness-engineering]] — the mindset framing
 - [[summary-complete-agentic-coding-workflow]] — parallel evolution of code/test/AI layer; git as memory
+- [[summary-parallel-claude-code-worktrees]] — the "self-healing layer" (pillar 5) in parallel dev
+- [[summary-principled-agentic-engineer]] — the outer loop; version-controlled AI-layer artifacts

@@ -5,6 +5,7 @@ tags: [concept, agentic-coding, workflow, planning, validation, claude-code]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI).md"
 last_updated: 2026-06-20
 ---
 
@@ -30,6 +31,10 @@ vibe-plan → /plan      /clear → /execute     pyramid + code review
 
 There are two planning layers: **project-level** (the PRD + rules — see [[PRDFirstDevelopment]] / [[AILayer]]) done once, and **task-level** (the PIV loop's plan step) done per phase. Creating a structured plan mirrors creating the PRD, but scoped to a single feature.
 
+### Inner loop vs outer loop
+
+Per `summary-principled-agentic-engineer`, the PIV loop is the **inner loop** — when the agent nails a ticket, you just loop back to the next one. When something goes wrong, you step into the **outer loop**: [[SystemEvolution]] (fix the [[AILayer]] so the class of bug can't recur), then resume the inner loop. Most of the time you're in the inner loop; run the outer loop whenever a PIV surfaces a systemic issue.
+
 ### Why it works
 
 - **Granularity** — never asks the agent to do too much at once; each phase is bounded.
@@ -53,3 +58,4 @@ Set real environment variables (via a `.env.example` the agent reads) *before* i
 - [[ColeMedin]] — articulator
 - [[summary-complete-agentic-coding-workflow]] — primary source
 - [[summary-self-healing-e2e-validation]] — the /e2e-test skill as the validate step
+- [[summary-principled-agentic-engineer]] — inner/outer loop framing; two planning layers

@@ -4,7 +4,8 @@ type: concept
 tags: [concept, harness, ai-layer, agentic-engineering, 2026, claude-code]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md"
-last_updated: 2026-06-20
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!.md"
+last_updated: 2026-06-21
 ---
 
 ## Definition
@@ -82,6 +83,7 @@ PromptEngineering → ContextEngineering → HarnessEngineering
 
 - [[AgenticEngineering]] (Cole's 5 techniques) is the practitioner-discipline view; Harness Engineering is the architecture-and-mindset view. Heavy overlap — [[SystemEvolution]] is shared between them.
 - [[AgentHarness]] is *what harness engineering produces*. This page is the discipline; that page is the artifact.
+- [[LoopEngineering]] (the 2026 buzzword from Boris Cherny / Peter Steinberger) is, per `summary-loop-engineering`, just the multi-session-orchestration layer of harness engineering with a 24/7-autonomy framing — Cole explicitly folds it in ("it doesn't deserve its own buzzword").
 
 ## Related
 
@@ -95,4 +97,6 @@ PromptEngineering → ContextEngineering → HarnessEngineering
 - [[ClaudeCode]], [[Codex]] — tools' built-in harnesses
 - [[Archon]] — Cole's harness builder
 - [[ColeMedin]] — articulator
+- [[LoopEngineering]] — the 2026 "loops do the work" framing, folded into this discipline
 - [[summary-harness-engineering]] — primary source
+- [[summary-loop-engineering]] — loop engineering as harness engineering

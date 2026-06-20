@@ -41,6 +41,17 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-complete-agentic-coding-workflow]] — Cole's dead-simple greenfield framework: AI layer + PRD phases + PIV loops + four golden rules.
 - [[summary-self-healing-e2e-validation]] — The /e2e-test skill: a six-step self-healing validation workflow that drives a browser and DB to test user journeys autonomously.
 - [[summary-beautiful-diagrams-claude-code]] — An Excalidraw diagram skill that teaches the agent to "argue visually" and self-validates by rendering and viewing the image.
+- [[summary-is-software-engineering-dead]] — Why SWE isn't dying: slow enterprise adoption + the prompt→context→intent-engineering evolution of the role.
+- [[summary-2000-hours-claude-code-wisk]] — The WISK framework (Write/Isolate/Select/Compress) for context management, from 2,000+ hours in Claude Code.
+- [[summary-subagent-era]] — The "sub-agent era": cheap fast models (GPT-5.4 Mini/Nano) built for sub-agents; research-only delegation at scale.
+- [[summary-sdk-vs-framework-agents]] — When to build agents on a coding-agent SDK vs a framework; the RAG-evolved-to-agentic-RAG clarification.
+- [[summary-parallel-claude-code-worktrees]] — A five-pillar playbook for parallel agentic development with git worktrees (ports, deps, Neon DB branching).
+- [[summary-principled-agentic-engineer]] — One-hour workshop consolidating the full system: ideate → PIV loop → system evolution; PRD→stories→Jira; inner/outer loops.
+- [[summary-ai-youtube-claude-hype]] — Channel-update: depth over Claude-hype, a live-stream shift, and the Dark Factory autonomy experiment.
+- [[summary-ai-generated-videos-claude-code]] — End-to-end AI video generation with Claude Code + HyperFrames + ElevenLabs, orchestrated by Archon.
+- [[summary-large-codebases-claude-code]] — Anthropic's playbook for Claude Code in large codebases: layered rules, self-improving hooks, LSP, scoped skills.
+- [[summary-claude-plans-gemini-designs]] — A cross-provider workflow: Gemini designs the UI, Opus plans/integrates; session-per-step with handoff docs.
+- [[summary-loop-engineering]] — A skeptical, practical take on "loop engineering" (/loop, /goal, /routines); fold it into harness engineering with durability + HITL.
 
 ## Entities
 
@@ -66,6 +77,10 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[ClaudeAgentSDK]] — Anthropic's SDK for building agentic systems/harnesses on Claude in code; powers Claude Code and Cole's harness experiments.
 - [[VercelAgentBrowser]] — Vercel's browser-automation CLI; lets a coding agent run end-to-end tests through a real browser like a user.
 - [[Excalidraw]] — Free open-source JSON-based diagramming tool (excalidraw.com / Obsidian plugin); target of Cole's diagram-generation skill.
+- [[HyperFrames]] — AI video-rendering tool (HTML-based scenes + preview) driven by Claude Code; the engine in Cole's video-generation pipeline.
+- [[Pi]] — Provider-flexible coding-agent harness (CLI); runs Gemini and other models via OpenRouter; skills-compatible.
+- [[Antigravity]] — Google's Gemini-powered agentic IDE; exceptional at one-shot front-end/UI generation.
+- [[Retool]] — Low-code platform to deploy/govern internal dashboards (e.g. loop-control dashboards) with permissions and audit trails.
 - [[OpenClaw]] — Out-of-the-box open-source second-brain agent; Cole takes inspiration from it but argues against running it directly (lethal trifecta).
 - [[Neon]] — Serverless Postgres with pgvector; Cole's go-to Postgres for RAG, interchangeable with Supabase.
 - [[Zapier]] — Workflow-automation platform; Cole connects it to his Second Brain via MCP wrapped as a skill.
@@ -88,6 +103,11 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[MetaAgent]] — An AI agent whose purpose is to design or generate other AI agents (Cole calls these "agenteers"); Archon is the canonical example.
 - [[RetrievalAugmentedGeneration]] — Pattern of grounding LLM responses in retrieved external documents via vector search.
 - [[AgenticSearch]] — Tool-driven retrieval (ripgrep/glob/file navigation) coding agents use instead of vector RAG; still RAG, no vector DB.
+- [[AgentSDKvsFramework]] — Decision framework: build on a batteries-included coding-agent SDK vs a from-scratch framework.
+- [[ParallelAgenticDevelopment]] — Running many coding-agent sessions at once via git worktrees; the five-pillar system for 10x output.
+- [[LargeCodebaseStrategies]] — Anthropic's AI-layer playbook for large codebases: layered CLAUDE.md, self-improving hooks, LSP-via-MCP, scoped skills.
+- [[CrossProviderWorkflow]] — Chaining sessions from different model providers (by strength) via handoff docs; e.g. Gemini designs, Opus plans.
+- [[LoopEngineering]] — Designing loops (/loop, /goal, /routines) that prompt agents 24/7; Cole folds it into harness engineering.
 - [[ContextualRetrieval]] — Anthropic's RAG enhancement: prepend each chunk with LLM-generated context positioning it within its source document.
 - [[HumanInTheLoop]] — Workflow pattern where execution pauses for human confirmation, correction, or input before resuming.
 - [[ToolUse]] — Mechanism by which an LLM invokes external functionality; the foundation of every AI agent.
@@ -98,11 +118,13 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[AgentObservability]] — Production-side capture of every input/output/tool-call/cost/latency for an agent; Cole's "100% necessary for production".
 - [[Guardrails]] — Input and output validation layers wrapped around an agent; the reliability primitive that makes agents production-ready.
 - [[ContextEngineering]] — The discipline of supplying an AI coding assistant with all the context it needs to plausibly solve a task on the first attempt; mid-2025-onwards successor to Vibe Coding.
+- [[IntentEngineering]] — The evolution beyond context engineering: explicit success criteria, self-validation, and alignment on intent (Nate B. Jones).
 - [[VibeCoding]] — Letting the AI write code with minimal context and review; coined by Karpathy; great for prototypes, breaks at production.
 - [[PRPFramework]] — Rasmus's Product Requirements Prompt methodology; Cole's canonical context-engineering toolkit. Two-pass plan-then-execute with use-case templates.
 - [[ValidationGates]] — Explicit lint/test/iterate checks the AI runs before declaring done; the inner correctness loop of the PRP framework.
 - [[AgentHarness]] — Infrastructure layer connecting many LLM sessions for long-running tasks; the post-context-engineering evolution.
 - [[ContextRot]] — Degradation of LLM reasoning as context fills ("the dumb zone"); the central problem harnesses and context engineering address.
+- [[WISKFramework]] — Write/Isolate/Select/Compress: Cole's battle-tested context-management framework for Claude Code.
 - [[AgenticEngineering]] — The practitioner discipline of getting production results from AI coding agents; umbrella over the 5 techniques.
 - [[PIVLoop]] — Plan-Implement-Validate: the per-phase unit of work in Cole's greenfield coding workflow.
 - [[PRDFirstDevelopment]] — Writing a project-scope north-star markdown doc before any feature work. (Technique 1)

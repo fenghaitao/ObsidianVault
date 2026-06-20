@@ -9,7 +9,10 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260202 - Turn Claude Code into Your Full Engineering Team with Subagents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead).md"
-last_updated: 2026-06-20
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260514 - Make the PERFECT Videos with Claude Code (Full Workflow).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!.md"
+last_updated: 2026-06-21
 ---
 
 ## Definition
@@ -65,6 +68,17 @@ By the [[HarnessEngineering]] era (mid-2026), Cole reframes Archon as **"my open
 
 **"The [[N8N]] for AI coding" (Feb 2026)**: per `summary-full-engineering-team-subagents`, Cole makes the pivot explicit. Archon's original identity — a task-management + RAG "command center" for AI coding — is **less relevant now** because task management is being built into coding agents directly, and RAG matters less for coding (agents look up documentation well on their own). So he's keeping the "command center" vision but turning Archon into a tool to **define and orchestrate your own AI-coding workflows and harnesses** — making a custom system like his "full AI engineer" easy to assemble, the way N8N makes automation workflows easy. (This is why Archon has been quiet: the vision is shifting.)
 
+**The new Archon in action (Mar 2026)**: per `summary-2000-hours-claude-code-wisk`, the rebuilt Archon is an **AI command center** to create, manage, and execute longer-running AI coding **workflows** — with a **mission control** for kicking off and monitoring runs, run logs/history, PR-validation workflows, and an in-progress **workflow builder** ("like the N8N for AI coding"). Cole uses it as his daily, deliberately-complex example codebase.
+
+**Shipped harness (mid-2026)**: by `summary-ai-generated-videos-claude-code`, Archon is publicly live at **arkon.diy** with **~21,000 GitHub stars**, billed as "an open-source AI coding harness built with Claude Code." It runs **agentic workflows isolated in parallel** (one git worktree per task — see [[ParallelAgenticDevelopment]]), persists run state to **SQLite or [[Neon]] Postgres**, and ships **three core workflows out of the box**:
+- **PIV** — plan / implement / validate (see [[PIVLoop]]).
+- **Fix** — turn a GitHub issue into a PR.
+- **Review** — five parallel review agents.
+
+It also serves as a general **workflow engine** for non-coding pipelines (e.g. the AI video-generation stack with [[HyperFrames]]).
+
+**Loop engineering, done deterministically** (per `summary-loop-engineering`): Cole positions Archon as the disciplined alternative to naive [[LoopEngineering]]. Where `/loop` runs in one bloating session driven entirely by the agent, Archon **enforces process** in a workflow file (decisions removed from the agent except where reasoning is needed), runs **session-per-step with handoff docs**, allows **per-node model/provider mixing** for cost, and persists run state to [[Neon]] for **durability** (resume after a crash). He runs many `fix-github-issue` workflows in parallel (worktrees + DB branches + HITL nodes) under one orchestrating Claude Code session.
+
 ### Demo capabilities seen across the playlist
 
 - Built an "MCP Agent Army" — primary agent + 6 specialized sub-agents (Brave search, GitHub, Slack, Airtable, Filesystem, Firecrawl) — that handles compound tasks like "search → save to Airtable → notify in Slack."
@@ -74,6 +88,9 @@ By the [[HarnessEngineering]] era (mid-2026), Cole reframes Archon as **"my open
 ## Related
 
 - [[ColeMedin]] — creator
+- [[ParallelAgenticDevelopment]] — Archon runs worktree-isolated workflows in parallel
+- [[PIVLoop]] — one of Archon's three shipped workflows
+- [[HyperFrames]] — Archon as workflow engine for the video pipeline
 - [[AgentHarness]] — Archon's 2026 identity as a harness builder
 - [[N8N]] — the analogy for Archon's "orchestrate your own workflows" pivot
 - [[PydanticAI]] — primary target framework Archon generates code for
@@ -91,3 +108,7 @@ By the [[HarnessEngineering]] era (mid-2026), Cole reframes Archon as **"my open
 - [[summary-coding-subagents-mcp-evolution]] — MCP integration deep dive
 - [[summary-full-engineering-team-subagents]] — the "N8N for AI coding" pivot
 - [[summary-is-rag-dead-for-coding]] — why RAG-for-coding declined (reinforces the pivot)
+- [[summary-2000-hours-claude-code-wisk]] — the new Archon (command center / workflow builder) as demo codebase
+- [[summary-ai-generated-videos-claude-code]] — shipped Archon (arkon.diy, 21k stars, 3 workflows) as video-pipeline engine
+- [[summary-claude-plans-gemini-designs]] — Archon one-shots the cross-provider frontend workflow
+- [[summary-loop-engineering]] — Archon as the deterministic answer to naive loop engineering

@@ -6,6 +6,7 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship.md"
 last_updated: 2026-06-20
 ---
 
@@ -18,7 +19,7 @@ Neon is a serverless Postgres platform with `pgvector` support, used by [[ColeMe
 ### What distinguishes it
 
 - **Serverless Postgres** — autoscaling infrastructure that adjusts to load, vs. paying for a fixed instance size and managing scaling yourself.
-- **Database branching** — create/test schema changes in isolated branches (dev/test/prod), like git branches for your database. Cole also uses this for **end-to-end test-data isolation** (`summary-self-healing-e2e-validation`): branch the DB, let the agent create throwaway test users/records during validation, then delete the branch to keep the main DB clean.
+- **Database branching** — create/test schema changes in isolated branches (dev/test/prod), like git branches for your database. Cole also uses this for **end-to-end test-data isolation** (`summary-self-healing-e2e-validation`): branch the DB, let the agent create throwaway test users/records during validation, then delete the branch to keep the main DB clean. In [[ParallelAgenticDevelopment]] he takes it further — **one Neon branch per git worktree** (copying tables + data from main) so parallel agents get database isolation, not just code isolation (`summary-parallel-claude-code-worktrees`).
 - **`pgvector`** — same vector-search extension as [[Supabase]], so RAG implementations are interchangeable between them (just swap the Postgres connection).
 - **MCP server** — Neon ships a [[ModelContextProtocol]] server; the agent can create tables, manage records, run migrations via natural language while coding.
 
@@ -41,3 +42,4 @@ Both run Postgres with `pgvector`, so for RAG purposes they're largely interchan
 - [[ColeMedin]] — advocate
 - [[summary-easiest-strategy-for-accurate-rag]], [[summary-every-rag-strategy-explained]] — sources
 - [[summary-self-healing-e2e-validation]] — Neon branching for test-data isolation
+- [[summary-parallel-claude-code-worktrees]] — Neon branch per worktree (parallel-dev DB isolation)

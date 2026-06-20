@@ -4,7 +4,8 @@ type: concept
 tags: [concept, agentic-engineering, claude-md, context-management, rules, technique]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -73,6 +74,10 @@ His public template:
 
 Most sessions only load `CLAUDE.md` + maybe one reference. Rare to load multiple.
 
+### Layered subdirectory `CLAUDE.md` (large codebases)
+
+Per `summary-large-codebases-claude-code`, [[Anthropic]] recommends a complementary mechanism for big repos: place a `CLAUDE.md` in **subdirectories**, not just the root. Claude Code **auto-loads a subdirectory's `CLAUDE.md` when you edit files there**, and starting Claude inside a subdir walks *up* the tree loading every `CLAUDE.md` on the way — so you accrete conventions by *location*, not just by reference link. This is the location-driven sibling of the reference-doc approach above (both are [[ProgressiveDisclosure]] for rules); a giant root `CLAUDE.md` measurably hurts performance. See [[LargeCodebaseStrategies]].
+
 ## Related
 
 - [[AgenticEngineering]] — technique 2 of 5
@@ -81,4 +86,6 @@ Most sessions only load `CLAUDE.md` + maybe one reference. Rare to load multiple
 - [[ClaudeCode]] — primary surface
 - [[PRDFirstDevelopment]], [[Commandification]], [[ContextReset]], [[SystemEvolution]] — companion techniques
 - [[ColeMedin]] — author
+- [[LargeCodebaseStrategies]] — layered subdirectory CLAUDE.md at scale
 - [[summary-5-techniques-top-agentic-engineers]] — primary source
+- [[summary-large-codebases-claude-code]] — subdirectory CLAUDE.md auto-loading

@@ -5,6 +5,7 @@ tags: [concept, harness-engineering, claude-code, rules, skills, hooks]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases).md"
 last_updated: 2026-06-20
 ---
 
@@ -51,6 +52,8 @@ Per `summary-complete-agentic-coding-workflow`, in practice the AI layer is the 
 
 **Reference folder = [[ProgressiveDisclosure]]**: keep `AGENTS.md` concise (~230 lines, always loaded) and push bigger guides (`components.md`, `api.md`, `styles.md`) into a reference folder that the agent loads *only* when working on that area — pointed to from the global rules. (These can equally be [[ClaudeSkills]].)
 
+> **Large-codebase note** (`summary-large-codebases-claude-code`): [[Anthropic]] frames the AI layer as a codebase's **third component** (alongside code and tests) and counts **seven** elements — the six above plus **LSP** (Language Server Protocol via MCP) as a distinct *navigation* element (go-to-definition / find-references / symbol search), essential past ~6-digit LOC where grep is slow. It also adds **layered/subdirectory `CLAUDE.md`** files (auto-loaded by location) and **self-improving hooks** (a stop hook that proposes `CLAUDE.md` updates). See [[LargeCodebaseStrategies]].
+
 ### Hooks deep-dive (the underused component)
 
 Cole singles out hooks as underused and powerful:
@@ -72,7 +75,7 @@ Each stays token-efficient and focused; the artifacts are handoffs between sessi
 
 ### Why "you pick the first harness by choosing the tool"
 
-A subtle point: the tool itself ([[ClaudeCode]] vs [[Codex]] vs Pi) *is* a harness the vendor engineered. Debate over "which is the best harness for coding" is really debate over which vendor's wrapper you prefer. But the higher-leverage layer — the one that differentiates *you* — is the AI layer you build on top, because that's where your specific context and process live.
+A subtle point: the tool itself ([[ClaudeCode]] vs [[Codex]] vs [[Pi]]) *is* a harness the vendor engineered. Debate over "which is the best harness for coding" is really debate over which vendor's wrapper you prefer. But the higher-leverage layer — the one that differentiates *you* — is the AI layer you build on top, because that's where your specific context and process live.
 
 ### Portability
 
@@ -92,6 +95,8 @@ Like all of [[ColeMedin]]'s patterns, the AI layer is mostly **markdown** (rules
 - [[ClaudeCode]], [[Codex]] — the tools' built-in harnesses
 - [[ColeMedin]] — articulator
 - [[PIVLoop]] — the per-phase loop the AI layer is set up to run
+- [[LargeCodebaseStrategies]] — configuring the AI layer for scale (+LSP, layered rules, self-improving hooks)
 - [[ProgressiveDisclosure]] — the reference-folder / on-demand-context pattern
 - [[summary-harness-engineering]] — primary source
 - [[summary-complete-agentic-coding-workflow]] — the AI layer as a greenfield starter
+- [[summary-large-codebases-claude-code]] — the AI layer for large codebases (7 components, LSP)

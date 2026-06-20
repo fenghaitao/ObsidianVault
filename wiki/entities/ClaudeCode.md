@@ -11,6 +11,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260101 - AI Exploded in 2025 - Here’s Everything That Happened.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260305 - Is Software Engineering Finally Dead.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship.md"
 last_updated: 2026-06-20
 ---
 
@@ -29,6 +31,10 @@ A CLI Cole runs in any terminal. It reads/writes files in the current directory,
 - **Auto-edit mode** — toggle (Shift+Tab in Cole's demos) that lets the agent apply file changes without per-edit confirmation. Required for long-running PRP execution.
 - **MCP support** — Claude Code is a first-class [[ModelContextProtocol]] client. Mount [[Crawl4AIRAG]], [[Supabase]] MCP, Brave MCP, etc.
 - **[[AgenticSearch]] over codebases** — Claude Code started with a local vector DB but moved to agentic search (maintainer Boris Cherny: "agentic search generally works better"). It now ships a search tool that hides underlying `grep`/`sed`/`cat` calls — no vector index to maintain. See [[AgenticSearch]].
+- **Native git worktrees** — `claude --worktree <name>` (`-w`) creates an isolated codebase copy under `.claude/worktrees/`, enabling [[ParallelAgenticDevelopment]] (many sessions at once without overwriting each other).
+- **`/model` switching + per-sub-agent models** — pick Haiku/Sonnet/Opus per task to manage token cost; assign cheaper models to sub-agents/skills.
+- **Codex plugin** — install the Codex plugin (Anthropic plugin marketplace) to run cross-model reviews (e.g. `/codex-adversarial-review`) over a Claude-written branch in a separate session.
+- **Loop primitives** — `/loop` (run a prompt on an interval), `/goal` (work until done-criteria are met, [[RalphLoop]]-style), and `/routines` (scheduled jobs), plus a built-in "loop skill" — the building blocks of [[LoopEngineering]] (which Cole folds into [[HarnessEngineering]]).
 - **Subagent / agent-team support** — by 2026 Claude Code has built-in subagent functionality (covered in later batches; central to "Claude Code subagent dream team" content).
 - **Long-running jobs** — Cole frequently kicks off a `/execute-prp` and walks away for 30+ minutes. The agent runs autonomously, validates, iterates.
 
@@ -63,6 +69,7 @@ The PRP framework was designed around Claude Code's primitives. The full lifecyc
 - **[[ClaudeSkills]]** — Anthropic's layer for packaging reusable agent capabilities via [[ProgressiveDisclosure]]. Central to Cole's [[SecondBrain]] system (ingested in batch B).
 - **2000+ hours, harness era** — by 2026 Cole's content treats Claude Code as the default [[AgentHarness]] substrate for any serious agentic engineering work.
 - **Commercial scale (2025 recap)** — Claude Code crossed **$1B in revenue**, [[Anthropic]] acquired the **Bun** JS runtime to keep scaling it, and **Claude Code for the web** shipped for remote agentic coding (see `summary-ai-exploded-in-2025`).
+- **"Coding is largely solved" (Boris Cherny)** — its creator said this on podcasts (widely misread). He clarified that software *engineering* is more important than ever: "someone has to prompt the [agents], talk to customers, coordinate with teams, decide what to build next" (see `summary-is-software-engineering-dead`). The tool automates coding, not engineering.
 
 ### Beyond coding — the Second Brain use case
 
@@ -76,6 +83,7 @@ By January 2026 Cole uses Claude Code for non-coding knowledge work. A coding ag
 - [[ContextEngineering]] — the discipline Claude Code is the execution surface for
 - [[AgenticEngineering]] — the 5-techniques discipline practiced on Claude Code
 - [[AgentHarness]] — Claude Code as the substrate for multi-session harnesses
+- [[ParallelAgenticDevelopment]] — many Claude Code sessions in parallel via worktrees
 - [[ClaudeSkills]] — capability-packaging layer
 - [[SecondBrain]] — non-coding use case
 - [[Obsidian]] — markdown canvas paired with Claude Code
@@ -90,3 +98,6 @@ By January 2026 Cole uses Claude Code for non-coding knowledge work. A coding ag
 - [[summary-agent-harnesses-and-vibe-coding]] — Claude Code as harness substrate
 - [[summary-ai-exploded-in-2025]] — $1B revenue, Bun acquisition, Claude Code for web
 - [[summary-is-rag-dead-for-coding]] — Claude Code's move from vector RAG to agentic search
+- [[summary-is-software-engineering-dead]] — Boris Cherny's "coding largely solved" nuance
+- [[summary-parallel-claude-code-worktrees]] — native worktrees, /model, Codex plugin for parallel dev
+- [[summary-loop-engineering]] — /loop, /goal, /routines and the loop-engineering critique

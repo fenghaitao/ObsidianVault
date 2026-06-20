@@ -6,7 +6,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250703 - Context Engineering is the New Vibe Coding (Learn this Now).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250724 - Build ANY AI Agent with this Context Engineering Blueprint.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260305 - Is Software Engineering Finally Dead.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -33,6 +34,10 @@ Context engineering is the discipline of supplying an [[AICodingAssistant]] with
 | **State / memory** | What's been built before; conversation history | Per session |
 
 The act of context engineering is *deciding what goes in each layer and how it's structured.*
+
+### Successor: [[IntentEngineering]]
+
+Per `summary-is-software-engineering-dead`, the paradigm evolves one step further: **prompt engineering → context engineering → [[IntentEngineering]]**. Where context engineering supplies all the *information*, intent engineering adds explicit **success criteria**, a **self-validation strategy**, and **alignment on what's being built** — so the output is not just plausible code but the *right* thing. Each stage looks more like senior software engineering; this progression is Cole's core argument that the engineering role endures even as coding is automated.
 
 ### Why it matters
 
@@ -76,6 +81,7 @@ project/
 ## Related
 
 - [[VibeCoding]] — the foil paradigm being replaced
+- [[IntentEngineering]] — the successor stage (success criteria + validation + intent alignment)
 - [[PRPFramework]] — the concrete implementation Cole uses
 - [[Rasmus]] — PRP framework creator
 - [[AndrejKarpathy]] — articulated the canonical definition
@@ -87,4 +93,5 @@ project/
 - [[summary-context-engineering-is-new-vibe-coding]] — intro
 - [[summary-context-engineering-101]] — deeper dive with Rasmus
 - [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI use-case template
+- [[summary-is-software-engineering-dead]] — the prompt→context→intent evolution
 - [[evolution-vibe-coding-to-harness-engineering]] — synthesis: where Context Engineering sits in the paradigm timeline

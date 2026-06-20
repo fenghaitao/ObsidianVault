@@ -4,7 +4,9 @@ type: concept
 tags: [concept, discipline, ai-coding, claude-code, methodology]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260305 - Is Software Engineering Finally Dead.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI).md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -25,6 +27,10 @@ Cole's checklist of what separates top agentic engineers:
 
 These aren't tools — they're disciplines around using existing tools.
 
+### Simple-on-purpose vs heavyweight frameworks
+
+Per `summary-principled-agentic-engineer` ("becoming a principled agentic engineer"), Cole positions his system as **deliberately simple** so you can *mold it to your own SDLC*, in contrast to opinionated off-the-shelf frameworks (GitHub Spec Kit, BMAD, Claude Flow, GSD, "Gastown," BDD/Gherkin) that "try to do too much" and are hard to make your own. Teach your existing team conventions to the agent through a lightweight [[AILayer]] rather than discarding your process. The whole system reduces to three phases: **ideate → [[PIVLoop]] → [[SystemEvolution]]**.
+
 ### How Agentic Engineering relates to other concepts
 
 ```
@@ -33,6 +39,8 @@ These aren't tools — they're disciplines around using existing tools.
     PromptEngineering (single-call discipline)
             ↓
     ContextEngineering (single-session discipline)
+            ↓
+    IntentEngineering (success criteria + validation + intent alignment)
             ↓
    AgenticEngineering (multi-session, workflow-level discipline)
             ↓
@@ -96,9 +104,12 @@ A skill in your head is fragile. A workflow committed to `.claude/commands/` is 
 ## Related
 
 - [[ContextEngineering]] — single-session predecessor
+- [[IntentEngineering]] — the success-criteria/validation evolution of context engineering
 - [[AgentHarness]] — multi-session companion
 - [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]], [[SystemEvolution]] — the five techniques
 - [[ClaudeCode]] — primary execution surface
 - [[CapabilitiesOverTools]] — companion principle
 - [[ColeMedin]] — articulator
 - [[summary-5-techniques-top-agentic-engineers]] — primary source
+- [[summary-is-software-engineering-dead]] — the engineering-endures argument
+- [[summary-principled-agentic-engineer]] — the consolidated three-phase system; simple-vs-bloated framing

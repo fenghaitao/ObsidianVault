@@ -4,6 +4,7 @@ type: concept
 tags: [concept, rag, retrieval, ai-coding, terminal, ripgrep]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases).md"
 last_updated: 2026-06-20
 ---
 
@@ -33,6 +34,8 @@ Cole also argues a directed tool search (e.g. ripgrep) is often *more focused* t
 ### The limit: cost at scale
 
 Agentic search is slow and expensive over *large unstructured* knowledge bases — running many grep/cat calls and reading whole documents. For those, traditional RAG (small targeted chunks) is roughly **~100× cheaper**. So agentic search wins for structured code; semantic RAG wins for large seas of unstructured text.
+
+For very large *codebases* specifically (~6-digit LOC+), even grep gets slow and token-inefficient — so Cole complements agentic search with **LSP (Language Server Protocol) exposed via an MCP server** for symbol-level navigation (go-to-definition, find-references). Not a replacement — a directed complement. See [[LargeCodebaseStrategies]].
 
 ### The bridge
 

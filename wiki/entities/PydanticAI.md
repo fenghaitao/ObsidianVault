@@ -8,6 +8,7 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/03 - Coding Subagents - The Next Evolution of AI IDEs.md"
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260326 - Everything You Thought About Building AI Agents is Wrong.md"
 last_updated: 2026-06-20
 ---
 
@@ -55,6 +56,10 @@ Cole uses PydanticAI to reimplement [[ClaudeSkills]] / [[ProgressiveDisclosure]]
 
 Archon's primary code-generation target is PydanticAI agents. Archon ingests the PydanticAI documentation into [[Supabase]] for RAG, then the Coder agent drafts new agents using doc-grounded patterns. Future versions will add LangGraph, LangChain, CrewAI, and LlamaIndex as additional generation targets.
 
+### Framework vs SDK (when to reach for it)
+
+Per `summary-sdk-vs-framework-agents`, PydanticAI is Cole's go-to **framework** when an agent must be fast, cheap, and scalable for production / multi-user use — where a batteries-included [[ClaudeAgentSDK]] is too slow, token-heavy, and subscription-ToS-limited. It buys sub-second responses and full control (including owning your own message history for [[AgentObservability]]). You give up "out of the box" convenience but can add modern niceties yourself (skills, MCP). See [[AgentSDKvsFramework]].
+
 ## Related
 
 - [[LangGraph]] — typical pairing for multi-step workflows
@@ -66,5 +71,8 @@ Archon's primary code-generation target is PydanticAI agents. Archon ingests the
 - [[ToolUse]] — what `@agent.tool` enables
 - [[AIAgent]] — what PydanticAI builds
 - [[ClaudeSkills]], [[ProgressiveDisclosure]] — pattern reimplemented in the skills-agent template
+- [[AgentSDKvsFramework]] — PydanticAI as the framework option vs SDKs
+- [[ClaudeAgentSDK]] — the batteries-included alternative
 - [[AgentEvaluation]], [[AgentObservability]] — built-in eval framework + Logfire
 - [[summary-build-skills-for-any-agent]] — skills agent, evals, and Logfire walkthrough
+- [[summary-sdk-vs-framework-agents]] — framework vs SDK decision

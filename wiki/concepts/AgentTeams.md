@@ -4,6 +4,7 @@ type: concept
 tags: [concept, claude-code, multi-agent, parallel, orchestration, anthropic]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship.md"
 last_updated: 2026-06-20
 ---
 
@@ -30,6 +31,8 @@ This communication is the whole point — a fleet that coordinates without the h
 - **No observability** — there's no dashboard showing which agent claimed which task or what messages were sent. You can only *ask* the lead "how have the agents been communicating?" and get decent meta-reasoning. Cole expects Anthropic to add observability (possibly buildable with hooks).
 - **Experimental/unreliable** — not yet ready for production-grade software on its own.
 
+> **For true parallel development, Cole prefers worktrees over Agent Teams.** Per `summary-parallel-claude-code-worktrees`, he finds Agent Teams "not very reliable" and not a real self-sustaining system for parallelism — favoring the more deterministic [[ParallelAgenticDevelopment]] approach (git worktrees + issue-as-spec + fresh-context review).
+
 ### The contract-first pattern (making it work)
 
 Claude Code by itself uses Agent Teams poorly because parallel work has **blockers** (e.g. the database schema must exist before the backend agent can do anything). Cole's `build with agent team` command imposes a **contract-first approach**:
@@ -52,6 +55,7 @@ The command takes a structured-plan path plus an optional agent count (omit it t
 - [[ClaudeCode]] — the host
 - [[AgenticEngineering]] — the discipline this points toward
 - [[AgentHarness]] — related multi-agent orchestration (Agent Teams is the in-tool version)
+- [[ParallelAgenticDevelopment]] — Cole's preferred (worktree-based) parallelism approach
 - [[VercelAgentBrowser]] — validation paired with team builds
 - [[ColeMedin]] — articulator
 - [[summary-agent-teams-live-build]] — primary source

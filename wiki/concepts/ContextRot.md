@@ -5,7 +5,8 @@ tags: [concept, context-window, llm, attention, harness, problem]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -13,6 +14,15 @@ last_updated: 2026-06-19
 Context rot is the degradation of LLM reasoning quality as more information accumulates in its context window. As the prompt grows past some threshold (highly model- and task-dependent), the LLM enters what [[ColeMedin]] calls **"the dumb zone"** — it gets overwhelmed, drops important details, makes mistakes it would have caught with less context. Context rot is the central problem [[AgentHarness]]es and [[ContextEngineering]] discipline are designed to solve.
 
 ## Key Information
+
+### The research + the "distractors" failure mode
+
+Per `summary-2000-hours-claude-code-wisk`, [[ColeMedin]] cites the **Chroma Technical Report** ("how increasing input tokens impacts LLM performance") as the most practical evidence: *being able* to fit tokens doesn't mean you *should*. Two named effects:
+
+- **Needle-in-haystack** — the model recalls a specific fact/file well only when the window *isn't* overfilled.
+- **Distractors** — as context grows, the model retrieves info that's *close but not quite right*, and is confident about it. This is especially bad on **large codebases** where repeated patterns make many chunks look similar.
+
+Cole's headline claim: **~80% of agent mistakes** trace to poor context management, and Claude Code's **1M-token limit does not solve it**. His operational answer is the [[WISKFramework]] (Write / Isolate / Select / Compress).
 
 ### Symptoms
 
@@ -70,6 +80,7 @@ Context rot is *why* agent harnesses exist. If an LLM could just keep a 10M-toke
 ## Related
 
 - [[AgentHarness]] — the architectural response
+- [[WISKFramework]] — Cole's operational anti-context-rot framework (Write/Isolate/Select/Compress)
 - [[ContextEngineering]] — discipline that minimizes context rot inside one session
 - [[ContextReset]] — direct mitigation
 - [[ClaudeSkills]], [[ProgressiveDisclosure]] — context-bloat-avoidance via lazy loading
@@ -77,4 +88,5 @@ Context rot is *why* agent harnesses exist. If an LLM could just keep a 10M-toke
 - [[ValidationGates]], [[HumanInTheLoop]] — catch rot-induced mistakes
 - [[ColeMedin]] — articulator of the framing
 - [[summary-agent-harnesses-and-vibe-coding]] — primary source where Cole defines the term
+- [[summary-2000-hours-claude-code-wisk]] — Chroma report, distractors, the WISK response
 - [[fighting-context-rot]] — synthesis: every technique in the corpus that fights context rot, by layer

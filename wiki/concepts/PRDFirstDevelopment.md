@@ -5,6 +5,7 @@ tags: [concept, agentic-engineering, prd, planning, claude-code, technique]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI).md"
 last_updated: 2026-06-20
 ---
 
@@ -53,6 +54,10 @@ The PRD is the through-line. Every plan derives from it; every feature ladders i
 
 Per `summary-complete-agentic-coding-workflow`, Cole builds the PRD from an *unstructured* brain-dump conversation (often via speech-to-text), spins up research [[SubAgent]]s (web + codebase), then forces the agent to **ask a flood of clarifying questions** (Claude Code's AskUserQuestion multiple-choice tool) to reduce assumptions before `/create-prd` writes the structured doc. The output includes **MVP scope, out-of-scope, directory structure, and phases of work** — and each phase becomes one [[PIVLoop]]. The conversation is throwaway context; only the PRD survives, so everything important must land in it.
 
+### PRD → stories → tickets (and the PM role)
+
+Per `summary-principled-agentic-engineer`, project-level planning is often a **product-manager** touchpoint, not just a developer one. The flow: brain-dump → clarifying questions → `/create-prd` (structured doc) → **review it** → `/create-stories` splits the PRD into individual tickets and pushes them to **Jira via the Atlassian/Jira MCP** (it can even add research as ticket comments and map dependencies between stories). `create-prd` and `create-stories` are kept *separate* so you validate the PRD before generating stories. Then a developer picks a ticket — the **issue is the spec** — and runs the [[PIVLoop]]. Works identically with GitHub issues (gh CLI) or Linear (MCP).
+
 ### Slash command
 
 Cole's `/create-prd` command in `.claude/commands/`: kicks off after a planning conversation, asks targeted questions about target users, scope, mission, architecture, then writes a structured PRD to a path the user specifies. Template-driven (the command markdown contains the section list).
@@ -77,3 +82,4 @@ A typical project has one PRD that survives the project's lifetime, and dozens o
 - [[PIVLoop]] — each PRD phase is executed as one PIV loop
 - [[summary-5-techniques-top-agentic-engineers]] — primary source
 - [[summary-complete-agentic-coding-workflow]] — the PRD creation flow in practice
+- [[summary-principled-agentic-engineer]] — PRD→stories→Jira; the PM planning role

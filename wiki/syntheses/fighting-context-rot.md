@@ -57,6 +57,8 @@ Summarization in handoffs is always lossy. The same mistake recurs across sessio
 
 Notice that fighting context rot is the *unifying thread* connecting otherwise-separate techniques. [[ModularRulesArchitecture]], [[ContextReset]], [[ProgressiveDisclosure]], [[Reranking]], [[SubAgent]] isolation, [[RalphLoop]], [[KarpathyLLMWiki]] — these all look like different topics, but they're all answers to the same question: *how do we keep the LLM's working context small, relevant, and uncontaminated?* That's why [[ContextRot]] sits near the center of this knowledge base's graph.
 
+[[ColeMedin]]'s most explicit packaging of all this is the [[WISKFramework]] (**W**rite / **I**solate / **S**elect / **C**ompress) — git-log-as-memory and fresh-session implementation (Write), research sub-agents and the scout pattern (Isolate), just-in-time layered context (Select), and `/handoff` + `/compact` as a last resort (Compress). Every WISK pillar is a context-rot mitigation; he estimates poor context management causes ~80% of agent mistakes.
+
 ## Related
 
 - [[ContextRot]] — the problem itself
@@ -64,6 +66,7 @@ Notice that fighting context rot is the *unifying thread* connecting otherwise-s
 - [[AgentHarness]] — multi-session mitigation architecture
 - [[ModularRulesArchitecture]], [[ContextReset]], [[Commandification]], [[ProgressiveDisclosure]] — the per-session techniques
 - [[RalphLoop]], [[AdversarialDev]], [[SubAgent]] — architectural rot-avoidance
+- [[WISKFramework]] — Cole's packaged Write/Isolate/Select/Compress anti-rot framework
 - [[SecondBrain]], [[KarpathyLLMWiki]] — file-system-as-memory taken to its conclusion
 - [[HumanInTheLoop]] — the backstop when mitigation isn't enough
 - [[ColeMedin]] — articulator

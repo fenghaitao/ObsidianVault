@@ -5,7 +5,8 @@ tags: [concept, harness, orchestration, multi-session, automation, jeffrey-huntl
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260115 - Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next).md"
-last_updated: 2026-06-20
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!.md"
+last_updated: 2026-06-21
 ---
 
 ## Definition
@@ -109,8 +110,10 @@ Cole positions his open-source **[[Archon]]** as a harness *builder* — a way t
 - [[ClaudeCode]], [[Codex]] — the agents the loop orchestrates
 - [[ColeMedin]] — articulator
 - [[VibeCoding]] — Ralph as its ceiling/final evolution
+- [[LoopEngineering]] — Claude Code's `/goal` is a Ralph-style loop; Ralph is the archetype
 - [[PRPFramework]] — PRP + Ralph combo
 - [[HumanInTheLoop]] — the ingredient Ralph lacks
 - [[Rasmus]] — added Ralph to the PRP framework
 - [[summary-harness-engineering]] — primary source
 - [[summary-ralph-wiggum-vibe-coding]] — the "final evolution of vibe coding" deep dive
+- [[summary-loop-engineering]] — `/goal` as a Ralph-style loop within loop engineering

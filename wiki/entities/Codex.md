@@ -5,6 +5,7 @@ tags: [tool, openai, ai-coding-assistant, agent-cli, harness]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260319 - The Subagent Era Is Officially Here - Learn this Now.md"
 last_updated: 2026-06-20
 ---
 
@@ -33,13 +34,19 @@ The two are architecturally similar from the user's perspective:
 
 A recurring Cole theme: harnesses let you mix models/tools. Because different models have different blind spots, a cross-model [[AdversarialDev]] setup (Claude implements, Codex critiques, or vice versa) can be *more* robust than single-model. Codex is the natural counterpart to Claude in these setups.
 
+### Strong sub-agent host (the "sub-agent era")
+
+Per `summary-subagent-era`, Codex is a first-class place to run sub-agents with **GPT-5.4 Mini/Nano** — small models OpenAI explicitly markets for sub-agents and coding (cheaper and faster than Claude Haiku 4.5, and more capable). You can tell Codex which model to use for its sub-agents (e.g. GPT-5.4 Mini at medium reasoning), and it'll fan out parallel research agents burning huge token counts cheaply. Cole notes he's *considering switching from Claude Code to Codex* largely because of this sub-agent model economics. See [[SubAgent]].
+
 ## Related
 
 - [[OpenAI]] — vendor
 - [[ClaudeCode]] — primary competitor / counterpart
+- [[SubAgent]] — Codex as a strong sub-agent host (GPT-5.4 Mini)
 - [[AICodingAssistant]] — category
 - [[HarnessEngineering]] — Codex is itself a vendor-built harness
 - [[AdversarialDev]] — Cole built Codex and Claude versions; cross-model mixing
 - [[AILayer]] — what you build on top of Codex
 - [[ColeMedin]] — uses Codex as the standard Claude Code alternative
 - [[summary-adversarial-dev-technique]], [[summary-harness-engineering]] — primary sources
+- [[summary-subagent-era]] — Codex + GPT-5.4 Mini sub-agents

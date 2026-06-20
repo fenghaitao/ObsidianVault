@@ -5,6 +5,7 @@ tags: [concept, philosophy, open-source, community, content-creation]
 sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260507 - AI YouTube Is Only Claude Hype Now.md"
 last_updated: 2026-06-20
 ---
 
@@ -31,3 +32,4 @@ Note a deliberate nuance: Cole builds *some* things fully in public (Archon, tem
 - [[PRPFramework]], [[Crawl4AIRAG]], [[SecondBrain]] — shared templates/resources
 - [[OpenClaw]] — the "don't just run someone else's code" counterpoint
 - [[summary-introducing-archon-ai-agent-builder]] — build-in-public articulated
+- [[summary-ai-youtube-claude-hype]] — building Archon / Dark Factory live on stream

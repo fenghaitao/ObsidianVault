@@ -55,6 +55,8 @@ Cole isn't anti-generalist. He uses Windsurf throughout the playlist as his prim
 - [[Windsurf]], [[Cursor]] — primary interactive-generalist examples
 - [[ClaudeCode]] — primary agentic-loop example; default by mid-2025
 - [[Kiro]] — agentic-loop AI coding assistant (AWS); same steering-docs/commands model
+- [[Pi]] — provider-flexible coding-agent harness (runs Gemini/others via OpenRouter)
+- [[Antigravity]] — Google's Gemini-powered agentic IDE; strong one-shot UIs
 - [[Archon]] — specialist counterpart
 - [[MetaAgent]] — Archon's specific category
 - [[SubAgent]] — pattern that bridges generalist and specialist

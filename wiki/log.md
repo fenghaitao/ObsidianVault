@@ -161,3 +161,48 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Changes**: created [[summary-beautiful-diagrams-claude-code]], created [[Excalidraw]]; updated [[ClaudeSkills]] (diagram skill), [[Obsidian]] (Excalidraw render target), [[SecondBrain]] (diagram-generator skill), updated [[index.md]]
 - **Conflicts**: none
 - **Batch note**: Batch 2 (2026-H1) COMPLETE — all 11 files ingested and archived. Batches 1 (2025, 12 files) and 3 (2026-H2, 11 files) remain unprocessed in raw/03-transcripts/.
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 1/11: Is Software Engineering Finally Dead
+- **Changes**: created [[summary-is-software-engineering-dead]], created [[IntentEngineering]]; updated [[ContextEngineering]] (intent-engineering successor), [[AgenticEngineering]] (evolution chain), [[ClaudeCode]] (Boris Cherny nuance), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 2/11: 2,000+ Hours of Claude Code (WISK)
+- **Changes**: created [[summary-2000-hours-claude-code-wisk]], created [[WISKFramework]]; updated [[ContextRot]] (Chroma report, distractors, 80% stat), [[SubAgent]] (scout pattern + 90.2% isolation), [[Archon]] (new command-center demo), [[fighting-context-rot]] (WISK), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 3/11: The Subagent Era Is Officially Here
+- **Changes**: created [[summary-subagent-era]]; updated [[SubAgent]] (sub-agent era, cheap models, sidecar pattern), [[Codex]] (GPT-5.4 Mini sub-agents), [[WISKFramework]] (backlink), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 4/11: Everything About Building AI Agents is Wrong
+- **Changes**: created [[summary-sdk-vs-framework-agents]], created [[AgentSDKvsFramework]]; updated [[ClaudeAgentSDK]] (limitations, non-coding agents, ToS), [[RetrievalAugmentedGeneration]] (agentic-RAG arc, LlamaIndex), [[PydanticAI]] (framework-vs-SDK), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 5/11: Parallel Claude Code + Git Worktrees
+- **Changes**: created [[summary-parallel-claude-code-worktrees]], created [[ParallelAgenticDevelopment]]; updated [[ClaudeCode]] (native worktrees/model/Codex plugin), [[Neon]] (branch-per-worktree), [[AgentTeams]] (worktrees-preferred contrast), [[AdversarialDev]] (cross-model PR review), [[SystemEvolution]] (self-healing layer), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 6/11: Principled Agentic Engineer (workshop)
+- **Changes**: created [[summary-principled-agentic-engineer]] (consolidation, no new pages); updated [[PIVLoop]] (inner/outer loop), [[PRDFirstDevelopment]] (PRD→stories→Jira, PM role), [[SystemEvolution]] (outer loop, version-controlled AI layer), [[AgenticEngineering]] (simple-vs-bloated framing), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 7/11: AI YouTube Is Only Claude Hype Now
+- **Changes**: created [[summary-ai-youtube-claude-hype]] (thin source); updated [[ColeMedin]] (content philosophy, live streams, Dark Factory), [[BuildInPublic]] (live building), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 8/11: Make the PERFECT Videos with Claude Code
+- **Changes**: created [[summary-ai-generated-videos-claude-code]], created [[HyperFrames]]; updated [[Archon]] (shipped: arkon.diy, 21k stars, PIV/Fix/Review workflows), [[ClaudeSkills]] (video skill backlink), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 9/11: Anthropic Masterclass on Large Codebases
+- **Changes**: created [[summary-large-codebases-claude-code]], created [[LargeCodebaseStrategies]]; updated [[AILayer]] (7th component LSP, layered rules, self-improving hooks), [[ModularRulesArchitecture]] (subdirectory CLAUDE.md), [[AgenticSearch]] (LSP complement), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-21] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 10/11: Claude Plans, Gemini Designs
+- **Changes**: created [[summary-claude-plans-gemini-designs]], created [[CrossProviderWorkflow]], created [[Pi]], created [[Antigravity]]; updated [[AILayer]] (Pi link), [[AICodingAssistant]] (Pi/Antigravity), [[Archon]] (cross-provider one-shot), [[summary-ai-exploded-in-2025]] (Antigravity link), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-21] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 11/11: Loop Engineering (Creators Don't Prompt Anymore)
+- **Changes**: created [[summary-loop-engineering]], created [[LoopEngineering]], created [[Retool]]; updated [[ClaudeCode]] (/loop, /goal, /routines), [[RalphLoop]] (/goal), [[HarnessEngineering]] (loop engineering folds in), [[Archon]] (deterministic loops), updated [[index.md]]
+- **Conflicts**: none
+- **Batch note**: Batch 3 (2026-H2) COMPLETE — all 11 files ingested and archived. Batch 1 (2025, 12 files) remains unprocessed in raw/03-transcripts/.

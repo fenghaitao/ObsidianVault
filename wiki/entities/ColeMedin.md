@@ -18,7 +18,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20251218 - Are Agent Harnesses Bringing Back Vibe Coding.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260507 - AI YouTube Is Only Claude Hype Now.md"
+last_updated: 2026-06-20
 ---
 
 ## Definition
@@ -71,6 +72,10 @@ By January 2026 Cole reports a "huge mistake" of thinking [[ClaudeCode]] was jus
 
 By Jan 2026 Cole codifies his discipline as 5 techniques: [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]], and most importantly [[SystemEvolution]]. See `summary-5-techniques-top-agentic-engineers`.
 
+### Content philosophy & the live-stream shift (May 2026)
+
+Per `summary-ai-youtube-claude-hype`, Cole deliberately resists the "Claude hype" content cycle (creators racing to react to each release) in favor of **depth and real engineering**, moving to multi-weekly **live streams** (Mon/Thu/Sat) of live building alongside ~one polished video/week. He argues many release-reaction videos are skippable since [[ClaudeCode]] can search its own up-to-date docs on demand. He builds **[[Archon]]** live and runs the **Dark Factory** experiment — a codebase handed *entirely* to AI agents, with no human allowed to review or write code (a maximal autonomy test).
+
 ## Related
 
 - [[Archon]] — flagship project
@@ -111,3 +116,4 @@ By Jan 2026 Cole codifies his discipline as 5 techniques: [[PRDFirstDevelopment]
 - [[summary-agent-harnesses-and-vibe-coding]] — AgentHarness intro
 - [[summary-5-techniques-top-agentic-engineers]] — agentic engineering checklist
 - [[summary-second-brain-with-claude-code-obsidian-skills]] — Second Brain pattern
+- [[summary-ai-youtube-claude-hype]] — content philosophy; live-stream shift; Dark Factory

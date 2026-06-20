@@ -9,6 +9,7 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260326 - Everything You Thought About Building AI Agents is Wrong.md"
 last_updated: 2026-06-20
 ---
 
@@ -31,6 +32,14 @@ But for **unstructured** data (Drive/SharePoint/SQL seas of text), traditional s
 | Cost at scale | slow/expensive over big corpora | ~100× cheaper (small targeted chunks) |
 
 Industry evidence: **Boris Cherny** (Claude Code) — early Claude Code used a local vector DB, moved to agentic search; **Nick** (Cline co-creator) — RAG-for-coding is a "mind virus"; **Aider** — tree-sitter repo map in the system prompt (an index without a vector DB). **The bridge**: give the agent both modes and let it decide *what* and *how* to search per query. Bottom line: "for coding, RAG is dead; for everything else, definitely not."
+
+### The broader arc: small-corpus file search vs large-corpus RAG → agentic RAG
+
+Per `summary-sdk-vs-framework-agents`, the same nuance generalizes beyond coding:
+- **2024** — RAG (semantic search) in nearly every agent.
+- **2025** — file search rose; a **LlamaIndex** study showed **file search outperforms RAG for *small* corpuses**, and coding agents dropped vector DBs for grep (now built into the SDKs).
+- **But large knowledge bases** (thousands of docs) — semantic search is still **more accurate and far cheaper** than reading/searching everything.
+- **2026 middle ground — agentic RAG**: give the agent *both* semantic and grep/keyword search and let it choose per query; **Graph RAG** for massive or multi-codebase projects. RAG remains necessary for most *non-coding* agents and enterprise coding — even SDK agents add semantic search back via [[ClaudeSkills|skills]]/MCP.
 
 ### Standard pipeline
 
@@ -129,3 +138,4 @@ A recurring theme across Cole's content (echoed in the Vectorize sponsor segment
 - [[summary-every-rag-strategy-explained]] — the 11-strategies survey
 - [[cole-medin-rag-playbook]] — synthesis: Cole's consolidated RAG playbook (strategies, tooling, cost controls)
 - [[summary-is-rag-dead-for-coding]] — the "RAG is dead?" structured-vs-unstructured resolution
+- [[summary-sdk-vs-framework-agents]] — small-corpus file search vs large-corpus RAG; agentic RAG

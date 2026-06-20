@@ -4,6 +4,7 @@ type: concept
 tags: [concept, harness, gan, sycophancy, multi-agent, code-review, anthropic]
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship.md"
 last_updated: 2026-06-20
 ---
 
@@ -62,6 +63,8 @@ The killer insight Cole emphasizes: **harnesses let you substitute engineering f
 
 Cole built parallel [[ClaudeCode]] and [[Codex]] versions with identical structure (to prove the pattern isn't Anthropic-specific). You can even mix: Claude as generator, Codex as evaluator. The adversarial value may *increase* with cross-model setups — different models have different blind spots.
 
+A lightweight, everyday application of this (per `summary-parallel-claude-code-worktrees`): the **Codex plugin for Claude Code** + a `/codex-adversarial-review` command runs Codex over a Claude-written branch **in a separate session** — fresh-context, cross-model PR review on top of Claude's own `/review-pr`. The "fresh context window" rule (the reviewer never sees the writer's chat) is the same anti-[[Sycophancy]] principle as the full generator/evaluator harness.
+
 ### Relationship to other patterns
 
 - It's a specific [[AgentHarness]] — multi-session, with handoffs and validation.
@@ -83,4 +86,6 @@ Like all harnesses: token-expensive (long-running, multi-agent), and not for imm
 - [[ClaudeCode]], [[Codex]] — the two implementations Cole built
 - [[HumanInTheLoop]] — what the evaluator automates
 - [[ColeMedin]] — author
+- [[ParallelAgenticDevelopment]] — uses cross-model fresh-context PR review
 - [[summary-adversarial-dev-technique]] — primary source
+- [[summary-parallel-claude-code-worktrees]] — Codex-plugin cross-model PR review

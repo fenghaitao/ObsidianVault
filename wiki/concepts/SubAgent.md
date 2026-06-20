@@ -10,6 +10,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260202 - Turn Claude Code into Your Full Engineering Team with Subagents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260319 - The Subagent Era Is Officially Here - Learn this Now.md"
 last_updated: 2026-06-20
 ---
 
@@ -73,6 +75,15 @@ Orchestrator → Linear sub-agent  (Haiku)  — tasks
 
 Sub-agents' key limitation is that they **don't communicate** — they run in parallel and each reports back only to the main agent, which aggregates. [[ClaudeCode]]'s **[[AgentTeams]]** feature (Opus 4.6, 2026) removes that limit: teammate agents share a task list and message each other (and the lead), coordinating who does what. Agent Teams is "where this is going" — but as of early 2026 it's experimental, non-deterministic, token-heavy, and lacks observability. See [[AgentTeams]].
 
+### The "sub-agent era" — cheap models make isolation scale
+
+Per `summary-subagent-era`, the industry is shifting toward small, fast, cheap models built *specifically* for sub-agents (GPT-5.4 Mini/Nano marketed for sub-agents/coding; Gemini 3.1 Flash Lite). Because sub-agent work is token-heavy but low-reasoning, cheap models make massive delegation viable:
+
+- **Economics**: Haiku 4.5 (~$1/$5 per M in/out, ~53 tok/s) → GPT-5.4 Nano (~1/5 the price, ~188 tok/s, *more* capable). Using a large model (Opus 4.6 / GPT-5.4-High) for sub-agents blows your rate limit fast; cheap models keep it to a few percent.
+- **Built-in everywhere**: [[ClaudeCode]] (first), [[Codex]], Gemini CLI (experimental), GitHub Copilot, [[Cursor]], OpenCode — built-ins auto-pick cheaper models (Claude Code: Haiku/Sonnet under the hood vs Opus in main; Codex: GPT-5.4 Mini at medium reasoning). Per-model selection is explicit.
+- **Token scale**: a single planning fan-out can legitimately burn hundreds of thousands — even millions — of tokens across parallel research sub-agents (one Codex example: ~2M for web research), returning only summaries. Only sane with dirt-cheap models.
+- **The "sidecar" pattern**: hit an unrelated bug mid-feature → spin up a sub-agent to research it and file a GitHub issue, without polluting your primary context.
+
 ### Tool description as contract
 
 A sub-agent's docstring (or, more generally, the description registered with the primary agent) is the contract. The primary agent reads it to decide *when* to invoke the sub-agent. Good descriptions matter as much as good prompts at this boundary.
@@ -82,6 +93,7 @@ A sub-agent's docstring (or, more generally, the description registered with the
 - **Pro**: dramatically reduces hallucination on complex multi-domain tasks.
 - **Pro**: each sub-agent can be tested and iterated independently.
 - **Use research sub-agents for parallel discovery.** Cole's `/e2e-test` skill (`summary-self-healing-e2e-validation`) launches **three sub-agents in parallel** at the start — app-structure/user-journeys, DB schema, and a bug-hunt code review — each loading large context but returning only a compact summary to the primary agent. This is the canonical "research, not implementation" use of sub-agents.
+- **Context isolation is the point (the [[WISKFramework]] "Isolate" pillar).** Per `summary-2000-hours-claude-code-wisk`, research sub-agents consume 10s–100s of thousands of tokens but return ~500-token summaries — Anthropic cites a **~90.2%** context improvement (one example: 44k tokens used instead of hundreds of thousands). Plus the **scout pattern**: dispatch a sub-agent to explore docs/codebase (e.g. `.claude/docs`, Confluence, Drive) and *decide* what's worth loading into the main context before committing it.
 - **Con**: more LLM calls — the orchestrator's call plus each sub-agent's call. Latency and token cost rise.
 - **Con**: orchestrator must reliably route — if the description is ambiguous, dispatch is wrong.
 
@@ -102,3 +114,5 @@ A sub-agent's docstring (or, more generally, the description registered with the
 - [[summary-full-engineering-team-subagents]] — sub-agents as a harness tool belt
 - [[summary-agent-teams-live-build]] — Agent Teams, the communicating evolution
 - [[summary-self-healing-e2e-validation]] — three parallel research sub-agents in practice
+- [[summary-2000-hours-claude-code-wisk]] — sub-agent isolation + the scout pattern (WISK "Isolate")
+- [[summary-subagent-era]] — the sub-agent era: cheap models, built-in everywhere, sidecar pattern

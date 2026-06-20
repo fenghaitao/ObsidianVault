@@ -107,3 +107,4 @@ This vault uses Claude Skills extensively — see `.claude/skills/{ingest,query,
 - [[summary-build-skills-for-any-agent]] — reimplementing skills in any framework
 - [[summary-agent-teams-live-build]] — SaaS platforms shipping integration skills
 - [[summary-beautiful-diagrams-claude-code]] — the Excalidraw diagram skill (visual self-validation)
+- [[summary-ai-generated-videos-claude-code]] — a video-generation skill (HyperFrames pipeline)
