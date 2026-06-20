@@ -107,3 +107,4 @@ The vault diverges from Karpathy's auto-maintained-by-hooks version in being **h
 - [[ContextRot]] — what compiling-to-wiki helps avoid (query reads a focused page, not a giant corpus)
 - [[summary-self-evolving-memory-karpathy-llm-wiki]] — canonical source
 - [[summary-second-brain-with-claude-code-obsidian-skills]] — second-brain framing
+- [[vault-architecture-mapped-to-cole-teachings]] — synthesis: how this vault is itself an instance of this pattern

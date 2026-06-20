@@ -77,3 +77,4 @@ Context rot is *why* agent harnesses exist. If an LLM could just keep a 10M-toke
 - [[ValidationGates]], [[HumanInTheLoop]] — catch rot-induced mistakes
 - [[ColeMedin]] — articulator of the framing
 - [[summary-agent-harnesses-and-vibe-coding]] — primary source where Cole defines the term
+- [[fighting-context-rot]] — synthesis: every technique in the corpus that fights context rot, by layer

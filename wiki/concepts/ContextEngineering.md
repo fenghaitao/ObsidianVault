@@ -87,3 +87,4 @@ project/
 - [[summary-context-engineering-is-new-vibe-coding]] — intro
 - [[summary-context-engineering-101]] — deeper dive with Rasmus
 - [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI use-case template
+- [[evolution-vibe-coding-to-harness-engineering]] — synthesis: where Context Engineering sits in the paradigm timeline

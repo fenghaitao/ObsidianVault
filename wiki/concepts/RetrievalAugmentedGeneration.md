@@ -111,3 +111,4 @@ A recurring theme across Cole's content (echoed in the Vectorize sponsor segment
 - [[summary-easiest-strategy-for-accurate-rag]] — the contextual-retrieval walkthrough
 - [[summary-3-must-have-mcp-servers-for-ai-coding]] — RAG as part of the AI-coding MCP triad
 - [[summary-every-rag-strategy-explained]] — the 11-strategies survey
+- [[cole-medin-rag-playbook]] — synthesis: Cole's consolidated RAG playbook (strategies, tooling, cost controls)

@@ -65,17 +65,18 @@ If two wiki pages contradict each other, **call out the contradiction explicitly
 
 ### Step 4: Offer to save high-value answers
 
+**Default behavior: `/query` answers the question and stops. Saving a synthesis is opt-in and ALWAYS requires an explicit, per-synthesis "yes" from the user.** Do not save unless the user clearly confirms *for that specific synthesis*. A general "run these queries" is not save-approval — answer first, then ask.
+
 If the answer meets any of these criteria:
 - More than 2 substantive paragraphs.
 - Comparative or analytical (not just lookup).
 - Synthesizes information from 3+ wiki pages.
-- The user explicitly asks for analysis, comparison, or deep dive.
 
-…ask the user:
+…ask the user (once per candidate synthesis, naming it):
 
-> This is a substantive synthesis. Would you like me to save it to `wiki/syntheses/` for future reference?
+> This answer is a substantive synthesis. Would you like me to save it to `wiki/syntheses/` as a permanent wiki page? (It becomes part of the knowledge base, not just a one-off answer.)
 
-If they agree, create `wiki/syntheses/{slug}.md` (kebab-case slug derived from the question or topic):
+If — and only if — they agree, create `wiki/syntheses/{slug}.md` (kebab-case slug derived from the question or topic):
 
 ```markdown
 ---
@@ -96,6 +97,10 @@ last_updated: YYYY-MM-DD
 - [[PageB]] — primary source for Y
 ```
 
+### Step 4b: Close the backlink loop (REQUIRED when saving)
+
+A synthesis that nothing links *to* is an orphan — `/lint` will flag it, and `/query` will rarely rediscover it (queries navigate by following links from the index and hub pages). **After saving a synthesis, add a backlink to it from the `## Related` section of the 1–3 most central pages it draws from.** Example: a synthesis on RAG strategy gets a backlink from `[[RetrievalAugmentedGeneration]]`'s Related section. This is what makes the wiki compound — without it, syntheses are write-only dead ends.
+
 Then update `wiki/index.md` under the `## Syntheses` section.
 
 ### Step 5: Log the operation
@@ -113,6 +118,8 @@ After every query (saved or not), append to `wiki/log.md`:
 ## Hard rules
 
 - **Always read `wiki/index.md` first.** Don't guess which pages exist.
+- **Default to answer-only.** `/query` is a Q&A tool first. Saving a synthesis is a separate, explicit opt-in — never save without a per-synthesis "yes" (see Step 4). A batch instruction like "run these queries" authorizes *answering*, not *saving*.
+- **When you do save, close the backlink loop** (Step 4b) so the synthesis isn't born an orphan.
 - **Don't answer from model memory** if relevant wiki content exists. The user built this wiki precisely to anchor answers to their own curated material.
 - **Cite every claim** with `[[wikilink]]` to the source page.
 - **Don't over-cite.** Once per paragraph for the same page is enough.

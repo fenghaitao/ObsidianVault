@@ -77,7 +77,11 @@ The format is grep-friendly: `grep "^## \[" log.md | tail -10` shows the last 10
 
 ### 4. Mandatory bidirectional linking
 
-Every wiki page **must** include a `## Related` section using Obsidian wikilinks `[[Page Name]]` to connect it to other pages. **No orphan pages.** A page with no inbound or outbound links is a bug to be fixed by `lint`.
+Every wiki page **must** include a `## Related` section using Obsidian wikilinks `[[Page Name]]` to connect it to other pages. **No orphan pages.**
+
+**Orphan definition (authoritative — `lint` enforces this):** a page is an orphan if it has **zero inbound links from other content pages**. Registration in `index.md` does **not** count as an inbound link (everything is registered there). So a page needs at least one *content* page pointing to it via `[[...]]`, not just an index entry.
+
+This applies to syntheses too: when `/query` saves a synthesis, it must add a backlink to it from the `## Related` section of a central page it draws from (see the query skill's Step 4b). A synthesis that only links outward — with nothing linking back — is an orphan and a bug.
 
 ### 5. Conflict handling
 
