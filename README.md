@@ -149,11 +149,20 @@ The CSS snippet is committed but needs to be enabled:
 
 This applies the Solarized Light colors to Minimal theme.
 
-### 2. Terminal Theme (Auto-Synced ✅)
-The Lean Terminal configuration is already committed, so:
-- **Background**: Solarized Light cream (`#fdf6e3`) — syncs automatically
-- **Theme**: `obsidian-light` — syncs automatically
-- No manual setup needed!
+### 2. Terminal Theme (Auto-Synced ✅ — Cross-Machine Safe)
+The Lean Terminal configuration is committed and **machine-independent**:
+
+**What syncs automatically:**
+- **Background**: Solarized Light cream (`#fdf6e3`)
+- **Theme**: `obsidian-light`
+- **Font size**: 14px, Menlo/Monaco/Courier New
+- **Cursor style**: Block, blinking
+
+**What auto-detects per machine:**
+- **Shell path**: Left empty; Lean Terminal auto-detects Git Bash (Windows) or system shell (Linux/Mac)
+- **Working directory**: Set on first terminal open
+
+**Result**: No manual setup needed, and no path conflicts across Windows/Linux! 🎉
 
 ### 3. Optional: Adjust Font Size
 If the default font is too small/large:
