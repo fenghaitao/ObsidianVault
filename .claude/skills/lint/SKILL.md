@@ -35,8 +35,10 @@ Use the Glob tool to locate the `wiki/` directory in the current working tree. S
 1. For every `.md` file in `wiki/`, extract all `[[Wikilink]]` targets in the body.
 2. For each target:
    - **Target page does not exist** → flag as **dead link** (record source page → target).
-3. Build the inbound-link graph: count how many other pages link to each page.
-4. Pages with **zero inbound links** (excluding self-references and the page being its own root) → **orphans**.
+3. Build the inbound-link graph: count how many other **content pages** link to each page.
+   - **Exclude `index.md` and `log.md` from the inbound count.** Per `CLAUDE.md`, registration in `index.md` does **not** count as an inbound link (everything is registered there), and `log.md` mentions don't either. A page needs ≥1 inbound link from a real content page (concept/entity/source/synthesis) to not be an orphan.
+   - Also exclude self-references (a page linking to itself).
+4. Pages with **zero qualifying inbound links** → **orphans**.
    - Be a bit forgiving: a brand-new page added in the last day or two may not have inbound links yet — still flag, but note "recently created".
 
 ### Step 3: Cognitive conflict review
@@ -53,6 +55,19 @@ Spot-check a sample of pages for:
 - `sources:` referencing paths that don't exist.
 
 Don't exhaustively walk every file unless asked — sample to catch systemic issues.
+
+### Step 5: Filename-convention compliance
+
+Check that filenames match the schema's required style for their folder (`CLAUDE.md` §3):
+
+| Folder | Required filename style | Example |
+|---|---|---|
+| `wiki/concepts/` | `TitleCase.md` | `RetrievalAugmentedGeneration.md` |
+| `wiki/entities/` | `TitleCase.md` | `ClaudeCode.md` |
+| `wiki/sources/` | `summary-{slug}.md` (kebab-case) | `summary-karpathy-llm-wiki.md` |
+| `wiki/syntheses/` | `{slug}.md` (kebab-case) | `analysis-rag-vs-wiki.md` |
+
+Flag violations as a **yellow** issue (e.g. a source file named `BuildingEffectiveAgents.md` instead of `summary-building-effective-agents.md`, or a concept in kebab-case). Renaming is a fix the user must approve — propose the corrected name, and remember that renaming a page also requires updating every inbound `[[wikilink]]` and its `index.md` entry, so list those downstream edits alongside the rename.
 
 ## Report format
 
@@ -80,6 +95,10 @@ Produce the report in this exact structure:
 
 - **Frontmatter issues (N)**: pages with missing or inconsistent metadata.
   - [[PageX]] — `type` is `concept` but file is in `wiki/entities/`.
+
+- **Filename-convention violations (N)**: filenames not matching the required style for their folder.
+  - `wiki/sources/BuildingEffectiveAgents.md` — should be kebab-case `summary-building-effective-agents.md`.
+  - Suggestion: rename + update inbound links and the `index.md` entry (I'll list the downstream edits before applying).
 
 ### ❌ Red
 
@@ -113,6 +132,7 @@ Would you like me to apply any of these fixes? I'll list each change before maki
   - **Changes**: [list specific edits, e.g. "added [[PageA]] to index.md", "removed dead link [[Missing]] from [[PageB]]"]
   ```
 - **No silent reorganization.** Don't move files between folders or rename them without explicit user approval.
+- **Use the real current date** in the report header and any log entry — read it from the injected current-date context or run `date +%F`. Never copy the `YYYY-MM-DD` placeholder literally.
 
 ## Related
 

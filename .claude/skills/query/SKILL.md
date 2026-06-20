@@ -125,6 +125,7 @@ After every query (saved or not), append to `wiki/log.md`:
 - **Don't over-cite.** Once per paragraph for the same page is enough.
 - **Don't silently fabricate.** If a wiki page doesn't say what you want it to say, don't paraphrase it as if it did. Either say "the wiki doesn't directly address this" or read more pages.
 - **Surface contradictions** — don't smooth them over.
+- **Use the real current date** for any `last_updated` field and log entry — read it from the injected current-date context or run `date +%F`. Never copy the `YYYY-MM-DD` placeholder literally.
 
 ## Related
 

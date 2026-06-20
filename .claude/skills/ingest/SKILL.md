@@ -13,18 +13,34 @@ You are maintaining an LLM Wiki (Obsidian knowledge base). `raw/` is the inbox; 
 **Directory map:**
 - `raw/01-articles/` — web clippings (markdown)
 - `raw/02-papers/` — PDFs and academic papers
-- `raw/03-transcripts/` — video/podcast transcripts
+- `raw/03-transcripts/` — video/podcast transcripts (markdown)
 - `raw/04-meeting_notes/` — meeting notes, brainstorming
+- `raw/05-vtts/` — **raw WebVTT subtitle inputs. Never ingest these.** They are upstream artifacts used to *generate* the markdown transcripts in `raw/03-transcripts/`. Ignore the entire folder during scans.
 - `raw/09-archive/` — **already-processed sources. Never read from here.**
 - `wiki/sources/` — one summary per raw file (kebab-case filenames)
 - `wiki/entities/` — people, companies, tools, products (TitleCase)
 - `wiki/concepts/` — frameworks, methodologies, theories (TitleCase)
 
+**Ingestable sources are markdown/PDF content files only.** When scanning, skip:
+- The entire `raw/05-vtts/` tree (input artifacts, not content).
+- `.vtt` files anywhere.
+- Dotfiles and bookkeeping files (e.g. `.keep`, `.download_archive.txt`, anything starting with `.`).
+- Any non-source extension (only `.md` and `.pdf` are ingestable).
+
 ## Trigger logic
 
-1. **`/ingest`** — scan all subdirectories of `raw/` (excluding `09-archive/`), find unprocessed files. If multiple are found, list them and ask the user which to process (or confirm batch processing).
+1. **`/ingest`** — scan all subdirectories of `raw/` (excluding `09-archive/` and `05-vtts/`), find unprocessed `.md`/`.pdf` files. If multiple are found, list them and ask the user which to process (or confirm batch processing).
 2. **`/ingest <path>`** — process the specific file at `<path>`.
 3. **Implicit trigger** — when the user says "ingest this", "import this into my wiki", "add this article to the knowledge base", or similar, run the ingest pipeline on the named or current file.
+
+### Batch processing
+
+When the user confirms processing multiple files in one run:
+- **De-duplicate first.** If the same source appears in more than one form (e.g. a transcript and its subtitle twin), keep only the canonical `.md`/`.pdf` content file and drop the rest. Never compile the same underlying source twice.
+- **Process oldest-first** (by filename date prefix where present) so the wiki accretes in chronological order.
+- **Run the full pipeline per file, one at a time** — finish Steps 1–6 (including archive) for a file before starting the next. Don't batch all reads then all writes; that loses the incremental-merge and conflict-pause guarantees.
+- **A conflict pauses the whole batch.** If Step 4 hits a conflict on any file, stop, report it, and wait for the user's decision before resuming the remaining files (see Conflict handling). Already-completed files stay done; the rest wait.
+- **Summarize at the end**: list which files were ingested, which were skipped as duplicates, and any conflicts that paused.
 
 ## Compilation pipeline
 
@@ -35,6 +51,7 @@ For each source file, execute these steps strictly in order:
 - `.md` files: read the full content.
 - `.pdf` files: attempt text extraction with available tools. If extraction fails or returns empty, record file metadata only (filename, page count if known) and note in the source summary that body text wasn't extractable.
 - If a referenced image in a markdown source is critical to understanding, read it separately.
+- **Media handling:** if an image (or other attachment) is worth preserving in the wiki, copy it into `assets/` and reference it from the wiki page with an Obsidian embed: `![[filename.png]]`. Never hotlink an external URL as the permanent reference, and never leave the asset inside `raw/` (which gets archived). Keep a descriptive filename.
 
 ### Step 2: Extract & translate
 
@@ -162,3 +179,4 @@ When ingestion would contradict existing wiki content:
 - All wiki content is in English. Translate non-English sources.
 - Entity & concept filenames: `TitleCase.md`. Source & synthesis filenames: `kebab-case.md`.
 - Always update `index.md` and `log.md` after any wiki mutation.
+- **Use the real current date** for every `last_updated` field and log entry — read it from the injected current-date context or run `date +%F`. Never guess or copy the `YYYY-MM-DD` placeholder literally.
