@@ -21,8 +21,8 @@ __pycache__/
 # RealClaudian — open tabs / active conversation; pure per-machine UI state
 .obsidian/plugins/realclaudian/data.json
 
-# Lean Terminal — recent session buffer changes constantly
-.obsidian/plugins/lean-terminal/data.json
+# Lean Terminal — tracking theme config; session buffer noise is acceptable
+# .obsidian/plugins/lean-terminal/data.json  # NOTE: now tracked for theme sync
 .obsidian/plugins/lean-terminal/tmp/
 
 # Obsidian plugin dependencies — node_modules carries platform-specific native
