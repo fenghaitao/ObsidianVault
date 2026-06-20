@@ -134,6 +134,41 @@ All issues are reported; fixes are applied only with your approval.
 
 ---
 
+## Setup (New Machine)
+
+When you clone this vault on a new machine, follow these steps to reproduce the theme:
+
+### 1. Enable Solarized Light Theme (Manual)
+The CSS snippet is committed but needs to be enabled:
+
+1. **Obsidian** → **Settings** → **Appearance**
+2. Scroll to **CSS snippets** section
+3. Click the **reload icon** 🔄 next to "CSS snippets"
+4. Find **`solarized-light-minimal`** in the list
+5. **Enable the toggle** ✓
+
+This applies the Solarized Light colors to Minimal theme.
+
+### 2. Terminal Theme (Auto-Synced ✅)
+The Lean Terminal configuration is already committed, so:
+- **Background**: Solarized Light cream (`#fdf6e3`) — syncs automatically
+- **Theme**: `obsidian-light` — syncs automatically
+- No manual setup needed!
+
+### 3. Optional: Adjust Font Size
+If the default font is too small/large:
+
+1. **Settings** → **Editor** → **Font size**
+2. Increase/decrease as needed (default: 16px)
+3. Or use **Ctrl + Plus/Minus** in editor
+
+### 4. Verify the Setup
+- Open a note in the editor (should have cream background + dark text)
+- Open the **Lean Terminal** (should match the editor colors)
+- Run `/query what is an AI agent?` to test the system
+
+---
+
 ## Key Rules
 
 **Never break these:**
