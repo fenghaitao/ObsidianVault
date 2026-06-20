@@ -19,6 +19,11 @@ __pycache__/
 .obsidian/plugins/lean-terminal/data.json
 .obsidian/plugins/lean-terminal/tmp/
 
+# Obsidian plugin dependencies — node_modules carries platform-specific native
+# binaries (node-pty: .node/.dll/.exe/.pdb) that conflict across Windows/Linux.
+# Each machine reinstalls its own; the plugin's own manifest.json/main.js stay tracked.
+.obsidian/plugins/*/node_modules/
+
 # obsidian-git — plugin reinstalls itself from the community registry on clone
 .obsidian/plugins/obsidian-git/
 
