@@ -243,15 +243,21 @@ Then the body:
 
 ## Acknowledgements
 
+### Architecture & Tooling
+
 This vault's architecture and operational patterns were directly shaped by two blog posts from **Jason (杰森的效率工坊, [jasonai.me](https://jasonai.me))**:
 
 - **[用 Claude Code 和 Obsidian 搭建 Karpathy 的 LLM Wiki](https://jasonai.me/blog/claude-code-obsidian--karpathyllm-wiki/)** (Apr 14, 2026) — The concrete implementation blueprint for Karpathy's LLM Wiki pattern: the three-layer directory architecture (`raw/` → `wiki/` + Schema), the CLAUDE.md template, and the ingest/query/lint skill workflow. Karpathy published the *idea*; Jason published the *blueprint* that made it actionable.
 
 - **[用AI克隆顶级博主的大脑，打造你的专属AI顾问](https://jasonai.me/blog/clone-top-creator-ai-advisor/)** (Sep 4, 2025) — The transcript-ingestion pipeline (yt-dlp/TarTube batch download → local LLM refinement → Obsidian knowledge base) that inspired how this vault was seeded with Cole Medin's YouTube content. The "clone a top creator's brain" workflow is the methodological ancestor of this vault's ingest pipeline.
 
-- **[Cole Medin's YouTube Channel](https://www.youtube.com/@ColeMedin/videos)** — The source of all ingested transcripts that populate this vault. Cole's deep dives on AI agents, agentic engineering, context engineering, harness engineering, and the Karpathy LLM Wiki / Second Brain pattern form the content backbone of this knowledge base.
+### Content
 
-- **[Archon - The AI Agent Builder](https://www.youtube.com/playlist?list=PLyrg3m7Ei-Mr_FkLdJFx2DCnEOiek4yqa)** — Cole Medin's build-in-public playlist on [[Archon]], his open-source meta-agent. The four episodes in this series were the first batch ingested into this vault and introduced foundational concepts like [[ParallelAgentArchitecture]], [[SubAgent]], [[MetaAgent]], and the MCP-powered agent army pattern.
+All ingested transcripts in this vault come from **[[ColeMedin]]**:
+
+- **[Cole Medin's YouTube Channel](https://www.youtube.com/@ColeMedin/videos)** — The source of all ingested transcripts. Cole's deep dives on AI agents, agentic engineering, context engineering, harness engineering, and the Karpathy LLM Wiki / Second Brain pattern form the content backbone of this knowledge base.
+
+- **[Archon - The AI Agent Builder](https://www.youtube.com/playlist?list=PLyrg3m7Ei-Mr_FkLdJFx2DCnEOiek4yqa)** — Cole's build-in-public playlist on [[Archon]], his open-source meta-agent. The four episodes in this series were the first batch ingested into this vault and introduced foundational concepts like [[ParallelAgentArchitecture]], [[SubAgent]], [[MetaAgent]], and the MCP-powered agent army pattern.
 
 ## Related
 
