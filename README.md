@@ -259,6 +259,8 @@ All ingested transcripts in this vault come from **[[ColeMedin]]**:
 
 - **[Archon - The AI Agent Builder](https://www.youtube.com/playlist?list=PLyrg3m7Ei-Mr_FkLdJFx2DCnEOiek4yqa)** — Cole's build-in-public playlist on [[Archon]], his open-source meta-agent. The four episodes in this series were the first batch ingested into this vault and introduced foundational concepts like [[ParallelAgentArchitecture]], [[SubAgent]], [[MetaAgent]], and the MCP-powered agent army pattern.
 
+---
+
 ## Related
 
 - [[KarpathyLLMWiki]] — The foundational pattern
