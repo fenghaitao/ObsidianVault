@@ -52,6 +52,34 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-large-codebases-claude-code]] — Anthropic's playbook for Claude Code in large codebases: layered rules, self-improving hooks, LSP, scoped skills.
 - [[summary-claude-plans-gemini-designs]] — A cross-provider workflow: Gemini designs the UI, Opus plans/integrates; session-per-step with handoff docs.
 - [[summary-loop-engineering]] — A skeptical, practical take on "loop engineering" (/loop, /goal, /routines); fold it into harness engineering with durability + HITL.
+- [[summary-build-your-own-crm]] — Brian Casel builds a complete CRM from scratch with Claude Code, demonstrating spec-driven development end to end.
+- [[summary-claude-fable-build-app]] — Brian Casel stress-tests Anthropic's Claude Fable model on a real business tool expansion; model selection as a new skill.
+- [[summary-hermes-vs-claude-cowork]] — Brian Casel argues for platform-agnostic patterns over committing to any single agent platform; runs Hermes + Claude Co-work simultaneously.
+- [[summary-apps-built-with-ai-look-off]] — Brian Casel diagnoses "design drift" in AI-built apps and presents his free Design System skill as the fix.
+- [[summary-dont-need-to-learn-code]] — Brian Casel argues the real skill is becoming a product architect, not coding; demonstrates full PRD planning process.
+- [[summary-night-shift-agents]] — Brian Casel's three-part Night Shift pattern for delegating recurring business tasks to AI agents.
+- [[summary-multitasking-agents-2026]] — Brian Casel's evolution to agent orchestration in 2026: multitasking across features, mobile management, content pipeline.
+- [[summary-where-claude-design-fits]] — Brian Casel evaluates Claude Design: not for production, but useful for marketing assets and visual ideation.
+- [[summary-we-build-fast-but-does-it-work]] — Brian Casel demonstrates Kain AI for end-to-end QA testing by clicking through an app like a real user.
+- [[summary-4-agent-skills-marketing]] — Brian Casel's four agent skills for marketing: radar scan, brand visuals, newsletter writer, newsletter builder.
+- [[summary-skill-ai-cant-replace]] — Brian Casel argues "restraint" is the skill AI can't replace; provides pre-planning framework.
+- [[summary-claude-code-mobile-guide]] — Complete guide to using Claude Code from mobile: remote control, cloud sessions, new projects, power user setup.
+- [[summary-claude-code-changed-recently]] — Three under-the-radar Claude Code features: Auto Plan, Auto Memory, and Voice Mode.
+- [[summary-openclaw-vs-claude-agent-team]] — Brian Casel compares OpenClaw vs Claude for running autonomous agent teams; bets on portable skills.
+- [[summary-create-jobs-openclaw-agents]] — Brian Casel's framework for creating real jobs (not tasks) for OpenClaw agents; three systems needed.
+- [[summary-multi-agent-team-openclaw]] — Brian Casel's complete OpenClaw multi-agent setup: Mac mini, 4 agents, Slack bots, OpenRouter, custom dashboard.
+- [[summary-claude-code-slack-teams-ship]] — Three ideas from Anthropic for extending Claude Code into Slack: prototypes, Q&A, analytics.
+- [[summary-build-marketing-tools-claude-code]] — Colleen Schnettler built her own voice-to-LinkedIn tool in 2 days; Compound Engineering workflow.
+- [[summary-brennan-dunn-ai-developers]] — Brennan Dunn's sub-agent team with Linear integration and Fern Desk auto-documentation.
+- [[summary-agent-os-v3]] — Brian Casel releases Agent OS v3, stripped 70%, focusing on standards discovery and spec shaping.
+- [[summary-arvid-kahl-saas-claude]] — Arvid Kahl's Podscan is 98% Claude-coded; comprehension debt and super delayed TDD.
+- [[summary-claude-code-all-you-need-2026]] — Brian Casel argues vanilla Claude Code handles 90% of work in 2026; frameworks are overkill.
+- [[summary-replacing-n8n-with-claude-skill]] — Brian scrapped a week-long N8N workflow and rebuilt it as a Claude Code skill in 30 minutes.
+- [[summary-design-os]] — Brian Casel releases Design OS: guided design process filling the gap between idea and codebase.
+- [[summary-cursor-visual-editor]] — Brian evaluates Cursor's visual editor: a refinement tool, not a creation tool.
+- [[summary-google-antigravity-review]] — Brian tries Google Antigravity: good ideas, dysfunctional execution.
+- [[summary-opus-vs-gemini-app-build]] — Brian builds the same app with Opus 4.5 and Gemini 3; frontier models are converging.
+- [[summary-ai-skeptic-to-unfair-advantage]] — Five skills giving experienced builders an unfair advantage in the AI era.
 
 ## Entities
 
@@ -90,6 +118,18 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Cursor]] — AI-powered IDE; functionally equivalent to Windsurf as an MCP-aware host for Archon.
 - [[Supabase]] — Open-source Postgres-with-pgvector database used as Archon's RAG knowledge backend.
 - [[Streamlit]] — Python UI framework Cole defaults to for building chat interfaces over agentic workflows.
+- [[BrianCasel]] — Software developer and YouTube creator teaching spec-driven development and AI agent orchestration for building custom business tools.
+- [[BuildNew]] — Brian Casel's free open-source Ruby on Rails + React starter application template with design system built in.
+- [[PRDCreator]] — Brian Casel's free agent skill that automates PRD planning and milestone breakdown for spec-driven development.
+- [[DesignSystem]] — Brian Casel's free agent skill that installs a living design system into the codebase to prevent design drift.
+- [[HermesAgent]] — Personal AI agent platform Brian Casel uses for routine recurring background jobs, running on a dedicated Mac mini via Discord.
+- [[ClaudeCowork]] — Anthropic's agent platform with scheduled recurring tasks; Brian Casel uses it for high-stakes creative jobs with Claude Opus.
+- [[SparkDrop]] — Brian Casel's custom-built content pipeline app where agents submit ideas via API and he reviews via UI.
+- [[BrainDown]] — Brian Casel's custom-built markdown editor/viewer integrated with Dropbox for reviewing agent-generated reports.
+- [[ResonanceRadar]] — Brian Casel's custom app for curating content ideas from internal and external sources; expanded with Claude Fable.
+- [[SuperSet]] — Agentic development tool with native Claude Code CLI integration; Brian Casel's current daily driver for multitasking.
+- [[Superconductor]] — Agentic development tool wrapping Claude Code in a GUI; evaluated by Brian Casel alongside SuperSet.
+- [[Consensus]] — MCP server searching 200M+ peer-reviewed academic papers with citable sources for AI agents.
 
 ## Concepts
 
@@ -145,6 +185,33 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[HybridSearch]] — RAG strategy combining semantic (vector) + keyword (BM25) search for better recall.
 - [[Reranking]] — Two-step RAG: retrieve many candidates, then a reranker model returns the most relevant few.
 - [[BuildInPublic]] — Cole's philosophy of open-source-from-day-one, iterate-visibly development.
+- [[SpecDrivenDevelopment]] — Methodology of shaping clear written plans (PRDs) before coding, then directing AI to build in structured milestones; contrasts with vibe coding.
+- [[MilestoneBasedBuilding]] — Breaking software projects into self-contained, sequentially-dependent chunks that AI agents build one at a time.
+- [[ProductArchitect]] — The emerging builder role: shaping specs and directing AI agents rather than writing code.
+- [[NightShiftModel]] — Three-part pattern (shared interface + human review + agent on schedule) for delegating recurring business tasks to AI agents.
+- [[AgentPlatformPortability]] — Strategy of betting on portable patterns (skills, schedules) rather than committing to a single agent platform.
+- [[AgentMultitasking]] — 2026 workflow of running multiple AI coding agents on different features simultaneously via git worktrees.
+- [[InternalTools]] — Custom-built software for a single business's specific workflow, now accessible to non-developers via AI.
+- [[StarterKit]] — Distributable package of prompts, plans, PRDs, and video guides to rebuild Brian Casel's internal tools.
+- [[DesignDrift]] — Gradual UI inconsistency in AI-built apps when each session reinvents design from scratch; solved by a living design system.
+- [[VerificationCriteria]] — Checklist pattern defining what must be true for a milestone to be complete; AI agents use it to self-check work.
+- [[IntakeProcessing]] — Automated system capturing all published content and daily work into a structured file system for AI agents to draw from.
+- [[ContentIdeation]] — Agent-driven process of researching, generating, and pitching new content ideas based on captured work and audience data.
+- [[AgentSkills]] — Reusable markdown files with step-by-step instructions that AI agents follow; the portable unit of agent automation.
+- [[Restraint]] — Product strategy discipline of choosing focus over capability; saying no to features AI makes trivially easy to build.
+- [[VisualIdeation]] — Using visual mockups during the shaping phase before locking decisions into a spec or PRD.
+- [[MobileAgentWorkflow]] — Starting, monitoring, and continuing AI coding agent sessions from a mobile device.
+- [[AutoPlan]] — Claude Code feature that automatically enters plan mode for substantial prompts.
+- [[AutoMemory]] — Claude Code feature where Claude maintains its own memory, learning from corrections over time.
+- [[VoiceMode]] — Claude Code's built-in voice dictation; speaking prompts produces higher detail than typing.
+- [[ServerMode]] — Claude Code remote configuration allowing mobile-initiated sessions with full local file/skill access.
+- [[BrandVisuals]] — Brian Casel's agent skill for generating consistent on-brand illustrations via Claude + Google ImageGen.
+- [[EndToEndTesting]] — Final QA layer verifying real users can complete critical flows; catches what unit tests miss.
+- [[ComprehensionDebt]] — Gap between developer's mental model and actual code when AI writes the vast majority; coined by Arvid Kahl.
+- [[AgentJobs]] — Defining recurring roles (not one-off tasks) for AI agents, modeled after human hiring practices.
+- [[BuilderStories]] — Brian Casel's video series where builders share screens and demonstrate their AI-first workflows.
+- [[SlackIntegration]] — Extending Claude Code intelligence beyond terminals into Slack for the whole organization.
+- [[ModelConvergence]] — Frontier AI models becoming similarly capable; builder skill matters more than model choice.
 
 ## Syntheses
 
@@ -154,3 +221,31 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[cole-medin-rag-playbook]] — Consolidated RAG strategies, tooling, cost controls, and Cole's actual recommendations; plus the RAG-vs-Wiki tension.
 - [[vault-architecture-mapped-to-cole-teachings]] — How this vault is itself an instance of the Karpathy LLM Wiki / Second Brain pattern it documents.
 - [[fighting-context-rot]] — Every technique Cole uses against context rot, organized by layer; the unifying thread of the corpus.
+
+- [[summary-claude-code-vs-cursor-vs-codex]] — Brian Casel compares Claude Code, Cursor, and Codex for cloud-based agent workflows.
+- [[summary-cursor-2-changed-work]] — Brian reviews Cursor 2.0: built-in browser, background agents, mobile access, agent sidebar.
+- [[summary-claude-code-skills-problem]] — Brian explains what problem Claude Code Skills solve: progressive disclosure and context pollution.
+- [[summary-agent-os-v2]] — Brian releases Agent OS v2, expanding spec-driven development to work with any AI tool.
+- [[summary-claude-code-2-features]] — Three Claude Code 2.0 features Brian uses daily: plan mode, skills, sub-agents.
+- [[summary-codex-cli-worth-switch]] — Brian evaluates whether OpenAI's Codex CLI is worth switching to from Claude Code.
+- [[summary-spec-driven-real-world]] — Brian demonstrates spec-driven development applied to a real-world project.
+- [[summary-day-one-claude-code]] — Brian's getting-started guide for Claude Code: installation, plan mode, first build.
+- [[summary-agent-os-v1]] — Brian introduces Agent OS v1, the original spec-driven development framework.
+- [[summary-finding-flow-ai-agents]] — Brian discusses achieving flow state while working with AI coding agents.
+- [[summary-claude-code-memory-problem]] — Brian addresses Claude Code's context limitations and presents milestone-based solutions.
+- [[summary-missing-system-coding-agents]] — Brian identifies the need for documented coding standards; groundwork for Agent OS.
+- [[summary-cursor-keyboard-shortcuts]] — Brian's essential Cursor keyboard shortcuts for staying fast without the mouse.
+- [[summary-claude-code-multitasking]] — Brian demonstrates multitasking with Claude Code using git worktrees.
+- [[summary-case-for-claude-code]] — Brian makes the case for adopting Claude Code as a primary development tool.
+- [[summary-crush-backlog-background-agents]] — Brian uses Cursor's background agents to work through a development backlog.
+- [[summary-vibe-coding-goes-pro]] — Brian explains transitioning from vibe coding to professional building with specs.
+- [[summary-openai-claude-rails-integrations]] — Brian demonstrates integrating OpenAI and Claude APIs into Rails applications.
+- [[summary-adding-search-rails]] — Brian demonstrates adding search functionality to Rails applications.
+- [[summary-saas-billing-rails-stripe]] — Brian builds a complete SaaS billing system with Rails and Stripe.
+- [[summary-build-rails-apps-fast]] — Brian shares his methodology for rapidly building Rails apps with AI assistance.
+- [[summary-ai-isnt-my-replacement]] — Brian argues AI amplifies developers rather than replacing them.
+- [[summary-hard-thing-hard-decisions]] — Brian discusses the difficulty of product decisions when everything is buildable.
+- [[summary-build-products-scratch-itch]] — Brian's philosophy of building products that solve his own problems first.
+- [[summary-linear-manage-saas]] — Brian demonstrates using Linear for project management in SaaS development.
+- [[summary-build-rails-components]] — Brian demonstrates faster Rails development using reusable components.
+- [[summary-vibe-coding-vs-coding-cursor]] — Brian contrasts vibe coding with professional coding in Cursor.

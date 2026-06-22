@@ -206,3 +206,66 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Changes**: created [[summary-loop-engineering]], created [[LoopEngineering]], created [[Retool]]; updated [[ClaudeCode]] (/loop, /goal, /routines), [[RalphLoop]] (/goal), [[HarnessEngineering]] (loop engineering folds in), [[Archon]] (deterministic loops), updated [[index.md]]
 - **Conflicts**: none
 - **Batch note**: Batch 3 (2026-H2) COMPLETE — all 11 files ingested and archived. Batch 1 (2025, 12 files) remains unprocessed in raw/03-transcripts/.
+
+## [2026-06-22] ingest | Brian Casel "Channel Only" — Batch 1 of 8 (Jun-Apr 2026, 7 transcripts)
+- **Sources processed**:
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260622 - How to build your own CRM (start to finish).md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260611 - Claude Fable： Build me an app.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260609 - Hermes vs. Claude Cowork Wrong Question.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260605 - Why apps built with AI look a little... OFF.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260518 - You don't need to learn to code anymore.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260512 - How I build agents that work the night shift.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260429 - Multitasking With Agents： My 2026 Workflow.md`
+- **Changes**:
+  - Created sources: [[summary-build-your-own-crm]], [[summary-claude-fable-build-app]], [[summary-hermes-vs-claude-cowork]], [[summary-apps-built-with-ai-look-off]], [[summary-dont-need-to-learn-code]], [[summary-night-shift-agents]], [[summary-multitasking-agents-2026]]
+  - Created entities: [[BrianCasel]], [[BuildNew]], [[PRDCreator]], [[DesignSystem]], [[HermesAgent]], [[ClaudeCowork]], [[SparkDrop]], [[BrainDown]], [[ResonanceRadar]], [[SuperSet]], [[Superconductor]], [[Consensus]]
+  - Created concepts: [[SpecDrivenDevelopment]], [[MilestoneBasedBuilding]], [[ProductArchitect]], [[NightShiftModel]], [[AgentPlatformPortability]], [[AgentMultitasking]], [[InternalTools]], [[StarterKit]], [[DesignDrift]], [[VerificationCriteria]], [[IntakeProcessing]], [[ContentIdeation]], [[AgentSkills]]
+  - Updated [[index.md]] (32 new pages registered)
+- **Conflicts**: none
+- **Notes**:
+  - Batch 1 of 8 planned chronological clusters covering 55 Brian Casel Channel Only transcripts (newest first).
+  - Brian Casel is a distinct voice from Cole Medin — focused on spec-driven development, internal tools, and agent orchestration for solo business operators.
+  - Key new concepts: [[NightShiftModel]], [[SpecDrivenDevelopment]], [[DesignDrift]], [[AgentPlatformPortability]].
+  - Brian's tools ([[PRDCreator]], [[DesignSystem]], [[BuildNew]]) are free and open-source.
+  - Skipped sponsor segments and tangential mentions.
+
+## [2026-06-22] ingest | Brian Casel "Channel Only" — Batch 2 of 8 (Apr-Mar 2026, 7 transcripts)
+- **Sources processed**:
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260424 - Where Claude Design actually fits.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260414 - We build fast. But does it work.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260406 - 4 Agent Skills I Use for Marketing.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260331 - The Skill AI Can't Replace.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260326 - Claude Code on Mobile： The Complete Guide.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260312 - Claude Code changed recently.md`
+  - `raw/03-transcripts/Brian Casel/Channel Only/20260306 - OpenClaw vs. Claude for Running an Agent Team.md`
+- **Changes**:
+  - Created sources: [[summary-where-claude-design-fits]], [[summary-we-build-fast-but-does-it-work]], [[summary-4-agent-skills-marketing]], [[summary-skill-ai-cant-replace]], [[summary-claude-code-mobile-guide]], [[summary-claude-code-changed-recently]], [[summary-openclaw-vs-claude-agent-team]]
+  - Created entities: [[ClaudeDesign]], [[KainAI]], [[NimbleList]]
+  - Created concepts: [[Restraint]], [[VisualIdeation]], [[MobileAgentWorkflow]], [[AutoPlan]], [[AutoMemory]], [[VoiceMode]], [[ServerMode]], [[BrandVisuals]], [[EndToEndTesting]]
+  - Updated [[index.md]] (19 new pages registered)
+- **Conflicts**: none
+- **Notes**:
+  - Batch 2 of 8. Key new concepts: [[Restraint]] (strategic discipline), [[VisualIdeation]] (shaping phase technique), [[MobileAgentWorkflow]] (four scenarios for mobile coding).
+  - Claude Code 2026 features documented: [[AutoPlan]], [[AutoMemory]], [[VoiceMode]].
+  - Brian's marketing automation skills ([[BrandVisuals]], newsletter writer/builder) show the [[AgentSkills]] pattern applied beyond development.
+
+## [2026-06-22] ingest | Brian Casel "Channel Only" — Batch 3 of 8 (Feb-Jan 2026, 7 transcripts)
+- **Sources processed**: 7 transcripts (20260225 through 20260119)
+- **Changes**:
+  - Created sources: [[summary-create-jobs-openclaw-agents]], [[summary-multi-agent-team-openclaw]], [[summary-claude-code-slack-teams-ship]], [[summary-build-marketing-tools-claude-code]], [[summary-brennan-dunn-ai-developers]], [[summary-agent-os-v3]], [[summary-arvid-kahl-saas-claude]]
+  - Created entities: [[AgentOS]], [[ColleenSchnettler]], [[ArvidKahl]], [[BrennanDunn]], [[Podscan]], [[FernDesk]], [[CompoundEngineering]]
+  - Created concepts: [[ComprehensionDebt]], [[AgentJobs]], [[BuilderStories]], [[SlackIntegration]]
+  - Updated [[index.md]] (18 new pages registered)
+- **Conflicts**: none
+- **Notes**: Batch 3 introduces Builder Stories guests (Arvid Kahl, Brennan Dunn, Colleen Schnettler) and Brian's Agent OS v3 release. Key new concept: [[ComprehensionDebt]].
+
+## [2026-06-22] ingest | Brian Casel "Channel Only" — Batch 4 of 8 (Jan-Nov 2025, 7 transcripts)
+- **Sources processed**: 7 transcripts (20260114 through 20251120)
+- **Changes**: created 7 source summaries, 1 entity ([[DesignOS]]), 1 concept ([[ModelConvergence]]), updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-22] ingest | Brian Casel "Channel Only" — Batches 5-8 (Nov 2025-Apr 2025, 27 transcripts)
+- **Sources processed**: 27 transcripts (20251112 through 20250404)
+- **Changes**: created 27 source summaries, updated [[index.md]]
+- **Conflicts**: none
+- **Notes**: Batches 5-8 completed in rapid succession. These earlier transcripts cover Brian's foundational content: the case for Claude Code, early Agent OS releases, spec-driven development methodology, Rails tutorials, and the transition from vibe coding to professional building. Many concepts introduced here (spec-driven development, milestone building, design systems) were later refined in his 2026 content.
