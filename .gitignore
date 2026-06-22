@@ -47,3 +47,6 @@ desktop.ini
 
 # Cookies (if accidentally placed in vault)
 *cookies*.txt
+
+# Python venv for .claude download scripts
+.claude/.venv/

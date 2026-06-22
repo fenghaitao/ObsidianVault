@@ -1,0 +1,3888 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:02.070 align:start position:0%
+ 
+Let<00:00:00.560><c> me</c><00:00:00.719><c> show</c><00:00:00.800><c> you</c><00:00:01.040><c> version</c><00:00:01.360><c> one</c><00:00:01.680><c> of</c>
+
+00:00:02.070 --> 00:00:02.080 align:start position:0%
+Let me show you version one of
+ 
+
+00:00:02.080 --> 00:00:04.470 align:start position:0%
+Let me show you version one of
+instrumental<00:00:02.800><c> components.</c><00:00:03.679><c> It's</c><00:00:03.840><c> my</c><00:00:04.000><c> toolkit</c>
+
+00:00:04.470 --> 00:00:04.480 align:start position:0%
+instrumental components. It's my toolkit
+ 
+
+00:00:04.480 --> 00:00:05.990 align:start position:0%
+instrumental components. It's my toolkit
+that<00:00:04.720><c> I've</c><00:00:04.960><c> always</c><00:00:05.200><c> wanted</c><00:00:05.440><c> when</c><00:00:05.759><c> building</c>
+
+00:00:05.990 --> 00:00:06.000 align:start position:0%
+that I've always wanted when building
+ 
+
+00:00:06.000 --> 00:00:08.470 align:start position:0%
+that I've always wanted when building
+out<00:00:06.160><c> my</c><00:00:06.400><c> apps</c><00:00:06.879><c> with</c><00:00:07.120><c> Ruby</c><00:00:07.440><c> on</c><00:00:07.680><c> Rails.</c><00:00:08.320><c> So</c>
+
+00:00:08.470 --> 00:00:08.480 align:start position:0%
+out my apps with Ruby on Rails. So
+ 
+
+00:00:08.480 --> 00:00:10.870 align:start position:0%
+out my apps with Ruby on Rails. So
+whether<00:00:08.720><c> I'm</c><00:00:09.040><c> vibe</c><00:00:09.360><c> coding</c><00:00:09.760><c> in</c><00:00:10.000><c> cursor</c><00:00:10.480><c> or</c>
+
+00:00:10.870 --> 00:00:10.880 align:start position:0%
+whether I'm vibe coding in cursor or
+ 
+
+00:00:10.880 --> 00:00:12.950 align:start position:0%
+whether I'm vibe coding in cursor or
+hand<00:00:11.200><c> coding,</c><00:00:11.679><c> I'm</c><00:00:11.920><c> usually</c><00:00:12.160><c> doing</c><00:00:12.320><c> a</c><00:00:12.639><c> hybrid</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+hand coding, I'm usually doing a hybrid
+ 
+
+00:00:12.960 --> 00:00:15.430 align:start position:0%
+hand coding, I'm usually doing a hybrid
+of<00:00:13.200><c> both.</c><00:00:13.840><c> I</c><00:00:14.080><c> find</c><00:00:14.320><c> that</c><00:00:14.559><c> building</c><00:00:14.880><c> with</c><00:00:15.120><c> my</c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+of both. I find that building with my
+ 
+
+00:00:15.440 --> 00:00:18.150 align:start position:0%
+of both. I find that building with my
+components<00:00:16.160><c> helps</c><00:00:16.480><c> me</c><00:00:16.720><c> ship</c><00:00:17.279><c> highquality</c>
+
+00:00:18.150 --> 00:00:18.160 align:start position:0%
+components helps me ship highquality
+ 
+
+00:00:18.160 --> 00:00:21.429 align:start position:0%
+components helps me ship highquality
+products<00:00:18.880><c> fast</c><00:00:19.600><c> and</c><00:00:20.000><c> pack</c><00:00:20.240><c> in</c><00:00:20.480><c> a</c><00:00:20.640><c> lot</c><00:00:20.720><c> of</c><00:00:20.880><c> power</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+products fast and pack in a lot of power
+ 
+
+00:00:21.439 --> 00:00:23.429 align:start position:0%
+products fast and pack in a lot of power
+with<00:00:21.760><c> just</c><00:00:22.000><c> a</c><00:00:22.240><c> few</c><00:00:22.400><c> commands.</c><00:00:22.960><c> So</c><00:00:23.119><c> let</c><00:00:23.279><c> me</c><00:00:23.359><c> show</c>
+
+00:00:23.429 --> 00:00:23.439 align:start position:0%
+with just a few commands. So let me show
+ 
+
+00:00:23.439 --> 00:00:25.750 align:start position:0%
+with just a few commands. So let me show
+you<00:00:23.600><c> how</c><00:00:23.760><c> it</c><00:00:23.920><c> works.</c><00:00:24.800><c> So</c><00:00:25.039><c> once</c><00:00:25.199><c> you're</c><00:00:25.439><c> inside,</c>
+
+00:00:25.750 --> 00:00:25.760 align:start position:0%
+you how it works. So once you're inside,
+ 
+
+00:00:25.760 --> 00:00:27.750 align:start position:0%
+you how it works. So once you're inside,
+you'll<00:00:26.080><c> find</c><00:00:26.560><c> uh</c><00:00:26.800><c> documentation</c><00:00:27.439><c> and</c>
+
+00:00:27.750 --> 00:00:27.760 align:start position:0%
+you'll find uh documentation and
+ 
+
+00:00:27.760 --> 00:00:29.349 align:start position:0%
+you'll find uh documentation and
+instructions<00:00:28.160><c> on</c><00:00:28.400><c> how</c><00:00:28.560><c> to</c><00:00:28.800><c> install</c>
+
+00:00:29.349 --> 00:00:29.359 align:start position:0%
+instructions on how to install
+ 
+
+00:00:29.359 --> 00:00:31.349 align:start position:0%
+instructions on how to install
+instrumental<00:00:30.000><c> components.</c><00:00:30.880><c> You</c><00:00:31.039><c> have</c><00:00:31.199><c> two</c>
+
+00:00:31.349 --> 00:00:31.359 align:start position:0%
+instrumental components. You have two
+ 
+
+00:00:31.359 --> 00:00:33.190 align:start position:0%
+instrumental components. You have two
+options<00:00:31.679><c> here.</c><00:00:31.920><c> You</c><00:00:32.160><c> can</c><00:00:32.239><c> install</c><00:00:32.559><c> the</c><00:00:32.800><c> gem,</c>
+
+00:00:33.190 --> 00:00:33.200 align:start position:0%
+options here. You can install the gem,
+ 
+
+00:00:33.200 --> 00:00:35.190 align:start position:0%
+options here. You can install the gem,
+which<00:00:33.440><c> lets</c><00:00:33.760><c> you</c><00:00:33.920><c> install</c><00:00:34.480><c> individual</c>
+
+00:00:35.190 --> 00:00:35.200 align:start position:0%
+which lets you install individual
+ 
+
+00:00:35.200 --> 00:00:37.270 align:start position:0%
+which lets you install individual
+components<00:00:35.760><c> into</c><00:00:36.079><c> your</c><00:00:36.239><c> project</c><00:00:36.640><c> on</c><00:00:36.800><c> an</c><00:00:37.040><c> as</c>
+
+00:00:37.270 --> 00:00:37.280 align:start position:0%
+components into your project on an as
+ 
+
+00:00:37.280 --> 00:00:39.670 align:start position:0%
+components into your project on an as
+needed<00:00:37.600><c> basis,</c><00:00:38.399><c> or</c><00:00:38.640><c> you</c><00:00:38.879><c> can</c><00:00:38.960><c> use</c><00:00:39.120><c> our</c><00:00:39.360><c> starter</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+needed basis, or you can use our starter
+ 
+
+00:00:39.680 --> 00:00:41.190 align:start position:0%
+needed basis, or you can use our starter
+kit,<00:00:39.920><c> which</c><00:00:40.079><c> gives</c><00:00:40.239><c> you</c><00:00:40.399><c> a</c><00:00:40.559><c> fresh</c><00:00:40.800><c> Rails</c>
+
+00:00:41.190 --> 00:00:41.200 align:start position:0%
+kit, which gives you a fresh Rails
+ 
+
+00:00:41.200 --> 00:00:43.830 align:start position:0%
+kit, which gives you a fresh Rails
+application<00:00:41.920><c> that</c><00:00:42.239><c> comes</c><00:00:42.559><c> with</c><00:00:43.280><c> instrumental</c>
+
+00:00:43.830 --> 00:00:43.840 align:start position:0%
+application that comes with instrumental
+ 
+
+00:00:43.840 --> 00:00:45.590 align:start position:0%
+application that comes with instrumental
+components<00:00:44.320><c> and</c><00:00:44.559><c> all</c><00:00:44.719><c> of</c><00:00:44.800><c> the</c><00:00:45.040><c> components</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+components and all of the components
+ 
+
+00:00:45.600 --> 00:00:48.069 align:start position:0%
+components and all of the components
+pre-installed<00:00:46.320><c> for</c><00:00:46.559><c> you.</c><00:00:47.520><c> I'm</c><00:00:47.680><c> going</c><00:00:47.760><c> to</c><00:00:47.920><c> walk</c>
+
+00:00:48.069 --> 00:00:48.079 align:start position:0%
+pre-installed for you. I'm going to walk
+ 
+
+00:00:48.079 --> 00:00:49.549 align:start position:0%
+pre-installed for you. I'm going to walk
+through<00:00:48.239><c> the</c><00:00:48.480><c> process</c><00:00:48.719><c> of</c><00:00:48.879><c> installing</c><00:00:49.360><c> the</c>
+
+00:00:49.549 --> 00:00:49.559 align:start position:0%
+through the process of installing the
+ 
+
+00:00:49.559 --> 00:00:51.830 align:start position:0%
+through the process of installing the
+gem.<00:00:50.559><c> So,</c><00:00:50.800><c> if</c><00:00:50.960><c> you</c><00:00:51.039><c> haven't</c><00:00:51.200><c> done</c><00:00:51.360><c> it</c><00:00:51.520><c> already,</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+gem. So, if you haven't done it already,
+ 
+
+00:00:51.840 --> 00:00:53.510 align:start position:0%
+gem. So, if you haven't done it already,
+you'll<00:00:52.079><c> need</c><00:00:52.160><c> to</c><00:00:52.399><c> start</c><00:00:52.640><c> up</c><00:00:52.800><c> a</c><00:00:52.960><c> new</c><00:00:53.120><c> Rails</c>
+
+00:00:53.510 --> 00:00:53.520 align:start position:0%
+you'll need to start up a new Rails
+ 
+
+00:00:53.520 --> 00:00:55.430 align:start position:0%
+you'll need to start up a new Rails
+application.<00:00:54.079><c> The</c><00:00:54.320><c> only</c><00:00:54.480><c> hard</c><00:00:54.879><c> requirement</c>
+
+00:00:55.430 --> 00:00:55.440 align:start position:0%
+application. The only hard requirement
+ 
+
+00:00:55.440 --> 00:00:58.069 align:start position:0%
+application. The only hard requirement
+here<00:00:56.000><c> is</c><00:00:56.239><c> that</c><00:00:56.559><c> we're</c><00:00:56.879><c> using</c><00:00:57.360><c> Tailwind</c>
+
+00:00:58.069 --> 00:00:58.079 align:start position:0%
+here is that we're using Tailwind
+ 
+
+00:00:58.079 --> 00:01:02.750 align:start position:0%
+here is that we're using Tailwind
+version<00:00:58.480><c> 4</c><00:00:59.039><c> or</c><00:00:59.280><c> up.</c><00:00:59.760><c> So</c><00:01:00.000><c> I'm</c><00:01:00.239><c> going</c><00:01:00.399><c> to</c><00:01:00.879><c> Rails</c>
+
+00:01:02.750 --> 00:01:02.760 align:start position:0%
+version 4 or up. So I'm going to Rails
+ 
+
+00:01:02.760 --> 00:01:06.230 align:start position:0%
+version 4 or up. So I'm going to Rails
+new<00:01:03.760><c> demo</c><00:01:04.239><c> app.</c><00:01:04.640><c> That's</c><00:01:04.799><c> what</c><00:01:04.960><c> we'll</c><00:01:05.119><c> call</c><00:01:05.280><c> it.</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+new demo app. That's what we'll call it.
+ 
+
+00:01:06.240 --> 00:01:10.030 align:start position:0%
+new demo app. That's what we'll call it.
+And<00:01:06.720><c> we</c><00:01:07.080><c> will</c><00:01:08.080><c> add</c>
+
+00:01:10.030 --> 00:01:10.040 align:start position:0%
+And we will add
+ 
+
+00:01:10.040 --> 00:01:12.390 align:start position:0%
+And we will add
+Tailwind.<00:01:11.040><c> Then</c><00:01:11.200><c> you'll</c><00:01:11.439><c> want</c><00:01:11.520><c> to</c><00:01:11.680><c> CD</c><00:01:12.080><c> into</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+Tailwind. Then you'll want to CD into
+ 
+
+00:01:12.400 --> 00:01:14.390 align:start position:0%
+Tailwind. Then you'll want to CD into
+your<00:01:12.720><c> project.</c><00:01:13.360><c> From</c><00:01:13.520><c> there</c><00:01:13.760><c> you</c><00:01:13.920><c> can</c><00:01:14.000><c> pop</c><00:01:14.159><c> in</c>
+
+00:01:14.390 --> 00:01:14.400 align:start position:0%
+your project. From there you can pop in
+ 
+
+00:01:14.400 --> 00:01:24.950 align:start position:0%
+your project. From there you can pop in
+our<00:01:14.640><c> installer</c><00:01:15.200><c> gem</c><00:01:15.520><c> into</c><00:01:15.760><c> your</c><00:01:16.000><c> gem</c><00:01:16.320><c> file.</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+ 
+ 
+
+00:01:24.960 --> 00:01:27.630 align:start position:0%
+ 
+and<00:01:25.280><c> run</c><00:01:25.520><c> bundle</c>
+
+00:01:27.630 --> 00:01:27.640 align:start position:0%
+and run bundle
+ 
+
+00:01:27.640 --> 00:01:29.749 align:start position:0%
+and run bundle
+install.<00:01:28.640><c> Finally,</c><00:01:28.960><c> you'll</c><00:01:29.200><c> want</c><00:01:29.360><c> to</c><00:01:29.439><c> copy</c>
+
+00:01:29.749 --> 00:01:29.759 align:start position:0%
+install. Finally, you'll want to copy
+ 
+
+00:01:29.759 --> 00:01:32.630 align:start position:0%
+install. Finally, you'll want to copy
+this<00:01:30.200><c> oneliner</c><00:01:31.200><c> down</c><00:01:31.520><c> here.</c><00:01:32.159><c> This</c><00:01:32.400><c> will</c>
+
+00:01:32.630 --> 00:01:32.640 align:start position:0%
+this oneliner down here. This will
+ 
+
+00:01:32.640 --> 00:01:35.030 align:start position:0%
+this oneliner down here. This will
+install<00:01:33.200><c> our</c><00:01:33.600><c> component</c><00:01:34.079><c> generators</c><00:01:34.640><c> and</c>
+
+00:01:35.030 --> 00:01:35.040 align:start position:0%
+install our component generators and
+ 
+
+00:01:35.040 --> 00:01:36.950 align:start position:0%
+install our component generators and
+register<00:01:35.439><c> your</c><00:01:35.680><c> license</c><00:01:36.079><c> all</c><00:01:36.240><c> in</c><00:01:36.479><c> one</c><00:01:36.640><c> shot.</c>
+
+00:01:36.950 --> 00:01:36.960 align:start position:0%
+register your license all in one shot.
+ 
+
+00:01:36.960 --> 00:01:40.990 align:start position:0%
+register your license all in one shot.
+We'll<00:01:37.200><c> just</c><00:01:37.360><c> run</c>
+
+00:01:40.990 --> 00:01:41.000 align:start position:0%
+ 
+ 
+
+00:01:41.000 --> 00:01:43.270 align:start position:0%
+ 
+that.<00:01:42.000><c> Okay,</c><00:01:42.240><c> so</c><00:01:42.400><c> that</c><00:01:42.560><c> was</c><00:01:42.720><c> successful.</c><00:01:43.119><c> Now,</c>
+
+00:01:43.270 --> 00:01:43.280 align:start position:0%
+that. Okay, so that was successful. Now,
+ 
+
+00:01:43.280 --> 00:01:44.870 align:start position:0%
+that. Okay, so that was successful. Now,
+you<00:01:43.439><c> might</c><00:01:43.600><c> see</c><00:01:43.680><c> these</c><00:01:44.000><c> red</c><00:01:44.240><c> messages</c><00:01:44.560><c> here.</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+you might see these red messages here.
+ 
+
+00:01:44.880 --> 00:01:46.710 align:start position:0%
+you might see these red messages here.
+That<00:01:45.119><c> just</c><00:01:45.280><c> means</c><00:01:45.759><c> that</c><00:01:46.000><c> your</c><00:01:46.320><c> project</c>
+
+00:01:46.710 --> 00:01:46.720 align:start position:0%
+That just means that your project
+ 
+
+00:01:46.720 --> 00:01:49.030 align:start position:0%
+That just means that your project
+doesn't<00:01:47.040><c> yet</c><00:01:47.360><c> meet</c><00:01:47.600><c> the</c><00:01:47.920><c> base</c><00:01:48.320><c> requirements</c>
+
+00:01:49.030 --> 00:01:49.040 align:start position:0%
+doesn't yet meet the base requirements
+ 
+
+00:01:49.040 --> 00:01:52.069 align:start position:0%
+doesn't yet meet the base requirements
+to<00:01:49.360><c> run</c><00:01:50.159><c> instrumental</c><00:01:50.720><c> components.</c><00:01:51.600><c> That</c><00:01:51.840><c> is</c>
+
+00:01:52.069 --> 00:01:52.079 align:start position:0%
+to run instrumental components. That is
+ 
+
+00:01:52.079 --> 00:01:53.990 align:start position:0%
+to run instrumental components. That is
+we<00:01:52.240><c> need</c><00:01:52.479><c> active</c><00:01:52.880><c> storage</c><00:01:53.280><c> installed</c><00:01:53.759><c> and</c>
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+we need active storage installed and
+ 
+
+00:01:54.000 --> 00:01:56.230 align:start position:0%
+we need active storage installed and
+active<00:01:54.560><c> and</c><00:01:54.799><c> action</c><00:01:55.200><c> text</c><00:01:55.520><c> installed.</c><00:01:56.000><c> Let's</c>
+
+00:01:56.230 --> 00:01:56.240 align:start position:0%
+active and action text installed. Let's
+ 
+
+00:01:56.240 --> 00:02:00.590 align:start position:0%
+active and action text installed. Let's
+get
+
+00:02:00.590 --> 00:02:00.600 align:start position:0%
+ 
+ 
+
+00:02:00.600 --> 00:02:04.389 align:start position:0%
+ 
+those<00:02:01.600><c> and</c><00:02:01.840><c> we'll</c><00:02:02.399><c> db</c><00:02:02.719><c> migrate</c><00:02:03.200><c> those.</c><00:02:04.079><c> Let's</c>
+
+00:02:04.389 --> 00:02:04.399 align:start position:0%
+those and we'll db migrate those. Let's
+ 
+
+00:02:04.399 --> 00:02:06.870 align:start position:0%
+those and we'll db migrate those. Let's
+run<00:02:04.640><c> bin</c><00:02:05.040><c> dev</c><00:02:05.280><c> and</c><00:02:05.439><c> we</c><00:02:05.680><c> should</c><00:02:05.840><c> have</c><00:02:06.240><c> our</c><00:02:06.560><c> rail</c>
+
+00:02:06.870 --> 00:02:06.880 align:start position:0%
+run bin dev and we should have our rail
+ 
+
+00:02:06.880 --> 00:02:08.550 align:start position:0%
+run bin dev and we should have our rail
+screen<00:02:07.119><c> up</c><00:02:07.280><c> and</c><00:02:07.439><c> running.</c><00:02:07.759><c> Cool.</c><00:02:08.319><c> Now,</c>
+
+00:02:08.550 --> 00:02:08.560 align:start position:0%
+screen up and running. Cool. Now,
+ 
+
+00:02:08.560 --> 00:02:10.469 align:start position:0%
+screen up and running. Cool. Now,
+typically<00:02:08.959><c> the</c><00:02:09.200><c> very</c><00:02:09.440><c> first</c><00:02:09.679><c> component</c><00:02:10.239><c> that</c>
+
+00:02:10.469 --> 00:02:10.479 align:start position:0%
+typically the very first component that
+ 
+
+00:02:10.479 --> 00:02:13.190 align:start position:0%
+typically the very first component that
+I<00:02:10.720><c> like</c><00:02:10.879><c> to</c><00:02:11.120><c> install</c><00:02:12.000><c> is</c><00:02:12.400><c> our</c><00:02:12.720><c> simplest</c>
+
+00:02:13.190 --> 00:02:13.200 align:start position:0%
+I like to install is our simplest
+ 
+
+00:02:13.200 --> 00:02:15.190 align:start position:0%
+I like to install is our simplest
+component<00:02:13.599><c> and</c><00:02:13.840><c> that</c><00:02:14.000><c> is</c><00:02:14.160><c> just</c><00:02:14.319><c> to</c><00:02:14.480><c> install</c><00:02:14.800><c> a</c>
+
+00:02:15.190 --> 00:02:15.200 align:start position:0%
+component and that is just to install a
+ 
+
+00:02:15.200 --> 00:02:17.350 align:start position:0%
+component and that is just to install a
+root<00:02:15.520><c> page.</c><00:02:16.160><c> Instead</c><00:02:16.480><c> of</c><00:02:16.560><c> the</c><00:02:16.800><c> rail</c><00:02:17.120><c> screen,</c>
+
+00:02:17.350 --> 00:02:17.360 align:start position:0%
+root page. Instead of the rail screen,
+ 
+
+00:02:17.360 --> 00:02:19.510 align:start position:0%
+root page. Instead of the rail screen,
+we<00:02:17.599><c> just</c><00:02:17.680><c> want</c><00:02:17.840><c> a</c><00:02:18.000><c> hello</c><00:02:18.319><c> world</c><00:02:18.879><c> page</c><00:02:19.200><c> with</c><00:02:19.360><c> a</c>
+
+00:02:19.510 --> 00:02:19.520 align:start position:0%
+we just want a hello world page with a
+ 
+
+00:02:19.520 --> 00:02:21.430 align:start position:0%
+we just want a hello world page with a
+controller<00:02:19.920><c> and</c><00:02:20.080><c> a</c><00:02:20.319><c> view</c><00:02:20.720><c> and</c><00:02:20.959><c> put</c><00:02:21.120><c> that</c><00:02:21.280><c> into</c>
+
+00:02:21.430 --> 00:02:21.440 align:start position:0%
+controller and a view and put that into
+ 
+
+00:02:21.440 --> 00:02:25.630 align:start position:0%
+controller and a view and put that into
+our<00:02:21.599><c> routes</c><00:02:22.000><c> file.</c><00:02:22.560><c> So,</c><00:02:22.720><c> let's</c><00:02:22.959><c> run</c><00:02:23.360><c> rails</c><00:02:24.160><c> g</c>
+
+00:02:25.630 --> 00:02:25.640 align:start position:0%
+our routes file. So, let's run rails g
+ 
+
+00:02:25.640 --> 00:02:27.910 align:start position:0%
+our routes file. So, let's run rails g
+instrumental<00:02:26.640><c> root</c><00:02:26.959><c> page.</c><00:02:27.360><c> And</c><00:02:27.520><c> that's</c><00:02:27.760><c> how</c>
+
+00:02:27.910 --> 00:02:27.920 align:start position:0%
+instrumental root page. And that's how
+ 
+
+00:02:27.920 --> 00:02:30.229 align:start position:0%
+instrumental root page. And that's how
+all<00:02:28.080><c> of</c><00:02:28.160><c> the</c><00:02:28.400><c> commands</c><00:02:28.879><c> in</c><00:02:29.599><c> instrumental</c>
+
+00:02:30.229 --> 00:02:30.239 align:start position:0%
+all of the commands in instrumental
+ 
+
+00:02:30.239 --> 00:02:32.710 align:start position:0%
+all of the commands in instrumental
+components<00:02:30.720><c> work.</c><00:02:31.040><c> Rails</c><00:02:31.599><c> generate</c><00:02:32.000><c> or</c><00:02:32.239><c> rails</c>
+
+00:02:32.710 --> 00:02:32.720 align:start position:0%
+components work. Rails generate or rails
+ 
+
+00:02:32.720 --> 00:02:37.949 align:start position:0%
+components work. Rails generate or rails
+g<00:02:33.040><c> instrumental</c><00:02:33.920><c> colon</c><00:02:34.879><c> the</c><00:02:35.120><c> component</c>
+
+00:02:37.949 --> 00:02:37.959 align:start position:0%
+ 
+ 
+
+00:02:37.959 --> 00:02:40.390 align:start position:0%
+ 
+name.<00:02:38.959><c> And</c><00:02:39.120><c> with</c><00:02:39.360><c> every</c><00:02:39.599><c> generator,</c><00:02:40.160><c> it's</c>
+
+00:02:40.390 --> 00:02:40.400 align:start position:0%
+name. And with every generator, it's
+ 
+
+00:02:40.400 --> 00:02:42.150 align:start position:0%
+name. And with every generator, it's
+going<00:02:40.480><c> to</c><00:02:40.640><c> start</c><00:02:40.879><c> with</c><00:02:41.280><c> an</c><00:02:41.599><c> overview</c><00:02:42.000><c> of</c>
+
+00:02:42.150 --> 00:02:42.160 align:start position:0%
+going to start with an overview of
+ 
+
+00:02:42.160 --> 00:02:43.990 align:start position:0%
+going to start with an overview of
+what's<00:02:42.480><c> about</c><00:02:42.720><c> to</c><00:02:42.879><c> be</c><00:02:43.040><c> installed</c><00:02:43.440><c> into</c><00:02:43.760><c> your</c>
+
+00:02:43.990 --> 00:02:44.000 align:start position:0%
+what's about to be installed into your
+ 
+
+00:02:44.000 --> 00:02:45.990 align:start position:0%
+what's about to be installed into your
+project.<00:02:44.400><c> This</c><00:02:44.560><c> is</c><00:02:44.640><c> a</c><00:02:44.959><c> super</c><00:02:45.280><c> simple</c><00:02:45.519><c> one,</c><00:02:45.760><c> but</c>
+
+00:02:45.990 --> 00:02:46.000 align:start position:0%
+project. This is a super simple one, but
+ 
+
+00:02:46.000 --> 00:02:47.190 align:start position:0%
+project. This is a super simple one, but
+some<00:02:46.160><c> of</c><00:02:46.239><c> them</c><00:02:46.319><c> are</c><00:02:46.560><c> more</c><00:02:46.720><c> complex,</c><00:02:47.040><c> and</c>
+
+00:02:47.190 --> 00:02:47.200 align:start position:0%
+some of them are more complex, and
+ 
+
+00:02:47.200 --> 00:02:49.670 align:start position:0%
+some of them are more complex, and
+you'll<00:02:47.440><c> see</c><00:02:47.519><c> a</c><00:02:47.680><c> long</c><00:02:47.920><c> list</c><00:02:48.160><c> of</c><00:02:48.640><c> of</c><00:02:49.040><c> tasks</c><00:02:49.440><c> that</c>
+
+00:02:49.670 --> 00:02:49.680 align:start position:0%
+you'll see a long list of of tasks that
+ 
+
+00:02:49.680 --> 00:02:50.949 align:start position:0%
+you'll see a long list of of tasks that
+it's<00:02:49.840><c> about</c><00:02:50.000><c> to</c><00:02:50.239><c> run.</c><00:02:50.480><c> So,</c><00:02:50.640><c> you'll</c><00:02:50.879><c> just</c>
+
+00:02:50.949 --> 00:02:50.959 align:start position:0%
+it's about to run. So, you'll just
+ 
+
+00:02:50.959 --> 00:02:52.550 align:start position:0%
+it's about to run. So, you'll just
+approve<00:02:51.280><c> that</c><00:02:51.519><c> to</c><00:02:51.680><c> proceed.</c><00:02:52.160><c> I'll</c><00:02:52.319><c> hit</c>
+
+00:02:52.550 --> 00:02:52.560 align:start position:0%
+approve that to proceed. I'll hit
+ 
+
+00:02:52.560 --> 00:02:54.630 align:start position:0%
+approve that to proceed. I'll hit
+return.<00:02:53.440><c> And</c><00:02:53.599><c> then</c><00:02:53.760><c> you're</c><00:02:54.000><c> going</c><00:02:54.080><c> to</c><00:02:54.319><c> watch</c>
+
+00:02:54.630 --> 00:02:54.640 align:start position:0%
+return. And then you're going to watch
+ 
+
+00:02:54.640 --> 00:02:57.030 align:start position:0%
+return. And then you're going to watch
+the<00:02:54.879><c> terminal</c><00:02:55.519><c> go</c><00:02:55.760><c> step</c><00:02:56.080><c> by</c><00:02:56.319><c> step</c><00:02:56.640><c> installing</c>
+
+00:02:57.030 --> 00:02:57.040 align:start position:0%
+the terminal go step by step installing
+ 
+
+00:02:57.040 --> 00:02:59.110 align:start position:0%
+the terminal go step by step installing
+these<00:02:57.360><c> files</c><00:02:57.680><c> into</c><00:02:58.000><c> your</c><00:02:58.239><c> project.</c><00:02:58.800><c> And</c><00:02:58.959><c> then</c>
+
+00:02:59.110 --> 00:02:59.120 align:start position:0%
+these files into your project. And then
+ 
+
+00:02:59.120 --> 00:03:00.630 align:start position:0%
+these files into your project. And then
+when<00:02:59.280><c> it's</c><00:02:59.440><c> done,</c><00:02:59.680><c> you'll</c><00:02:59.920><c> see</c><00:03:00.160><c> a</c><00:03:00.400><c> message</c>
+
+00:03:00.630 --> 00:03:00.640 align:start position:0%
+when it's done, you'll see a message
+ 
+
+00:03:00.640 --> 00:03:03.030 align:start position:0%
+when it's done, you'll see a message
+like<00:03:00.879><c> this</c><00:03:01.440><c> in</c><00:03:01.760><c> green,</c><00:03:02.239><c> which</c><00:03:02.480><c> gives</c><00:03:02.640><c> you</c><00:03:02.800><c> an</c>
+
+00:03:03.030 --> 00:03:03.040 align:start position:0%
+like this in green, which gives you an
+ 
+
+00:03:03.040 --> 00:03:04.309 align:start position:0%
+like this in green, which gives you an
+overview<00:03:03.360><c> of</c><00:03:03.599><c> everything</c><00:03:03.840><c> that</c><00:03:04.080><c> just</c>
+
+00:03:04.309 --> 00:03:04.319 align:start position:0%
+overview of everything that just
+ 
+
+00:03:04.319 --> 00:03:05.990 align:start position:0%
+overview of everything that just
+happened.<00:03:04.720><c> In</c><00:03:04.879><c> this</c><00:03:05.040><c> case,</c><00:03:05.200><c> we've</c><00:03:05.440><c> added</c><00:03:05.760><c> two</c>
+
+00:03:05.990 --> 00:03:06.000 align:start position:0%
+happened. In this case, we've added two
+ 
+
+00:03:06.000 --> 00:03:08.229 align:start position:0%
+happened. In this case, we've added two
+files,<00:03:06.400><c> a</c><00:03:06.560><c> controller</c><00:03:06.959><c> and</c><00:03:07.200><c> a</c><00:03:07.360><c> view.</c><00:03:08.000><c> We've</c>
+
+00:03:08.229 --> 00:03:08.239 align:start position:0%
+files, a controller and a view. We've
+ 
+
+00:03:08.239 --> 00:03:10.869 align:start position:0%
+files, a controller and a view. We've
+added<00:03:08.560><c> one</c><00:03:08.800><c> line</c><00:03:08.959><c> to</c><00:03:09.120><c> our</c><00:03:09.360><c> routes,</c><00:03:10.159><c> and</c><00:03:10.480><c> we</c><00:03:10.720><c> are</c>
+
+00:03:10.869 --> 00:03:10.879 align:start position:0%
+added one line to our routes, and we are
+ 
+
+00:03:10.879 --> 00:03:12.790 align:start position:0%
+added one line to our routes, and we are
+all<00:03:11.120><c> good</c><00:03:11.280><c> to</c><00:03:11.440><c> go.</c><00:03:11.920><c> See</c><00:03:12.080><c> what</c><00:03:12.239><c> our</c><00:03:12.400><c> site</c><00:03:12.640><c> is</c>
+
+00:03:12.790 --> 00:03:12.800 align:start position:0%
+all good to go. See what our site is
+ 
+
+00:03:12.800 --> 00:03:14.630 align:start position:0%
+all good to go. See what our site is
+looking<00:03:13.040><c> like.</c><00:03:13.440><c> It's</c><00:03:13.680><c> not</c><00:03:13.840><c> going</c><00:03:13.920><c> to</c><00:03:14.080><c> be</c>
+
+00:03:14.630 --> 00:03:14.640 align:start position:0%
+looking like. It's not going to be
+ 
+
+00:03:14.640 --> 00:03:16.229 align:start position:0%
+looking like. It's not going to be
+exciting.<00:03:15.040><c> It's</c><00:03:15.280><c> just</c><00:03:15.440><c> going</c><00:03:15.519><c> to</c><00:03:15.599><c> be</c><00:03:15.680><c> a</c><00:03:15.840><c> hello</c>
+
+00:03:16.229 --> 00:03:16.239 align:start position:0%
+exciting. It's just going to be a hello
+ 
+
+00:03:16.239 --> 00:03:17.750 align:start position:0%
+exciting. It's just going to be a hello
+world.<00:03:16.720><c> Okay.</c><00:03:16.959><c> So,</c><00:03:17.120><c> we've</c><00:03:17.360><c> got</c><00:03:17.440><c> our</c><00:03:17.599><c> first</c>
+
+00:03:17.750 --> 00:03:17.760 align:start position:0%
+world. Okay. So, we've got our first
+ 
+
+00:03:17.760 --> 00:03:20.149 align:start position:0%
+world. Okay. So, we've got our first
+component<00:03:18.319><c> installed</c><00:03:18.800><c> into</c><00:03:19.120><c> our</c><00:03:19.599><c> project.</c>
+
+00:03:20.149 --> 00:03:20.159 align:start position:0%
+component installed into our project.
+ 
+
+00:03:20.159 --> 00:03:21.430 align:start position:0%
+component installed into our project.
+All right.<00:03:20.480><c> Now,</c><00:03:20.640><c> let's</c><00:03:20.800><c> really</c><00:03:21.040><c> get</c><00:03:21.200><c> our</c>
+
+00:03:21.430 --> 00:03:21.440 align:start position:0%
+All right. Now, let's really get our
+ 
+
+00:03:21.440 --> 00:03:23.589 align:start position:0%
+All right. Now, let's really get our
+project<00:03:21.760><c> going.</c><00:03:22.400><c> I'm</c><00:03:22.640><c> going</c><00:03:22.800><c> to</c><00:03:22.959><c> install</c><00:03:23.360><c> four</c>
+
+00:03:23.589 --> 00:03:23.599 align:start position:0%
+project going. I'm going to install four
+ 
+
+00:03:23.599 --> 00:03:26.149 align:start position:0%
+project going. I'm going to install four
+components<00:03:24.400><c> that</c><00:03:24.720><c> I</c><00:03:24.959><c> always</c><00:03:25.280><c> use</c><00:03:25.519><c> on</c><00:03:25.840><c> every</c>
+
+00:03:26.149 --> 00:03:26.159 align:start position:0%
+components that I always use on every
+ 
+
+00:03:26.159 --> 00:03:27.589 align:start position:0%
+components that I always use on every
+project.<00:03:26.720><c> We</c><00:03:26.959><c> want</c><00:03:27.040><c> to</c><00:03:27.200><c> start</c><00:03:27.360><c> with</c>
+
+00:03:27.589 --> 00:03:27.599 align:start position:0%
+project. We want to start with
+ 
+
+00:03:27.599 --> 00:03:30.229 align:start position:0%
+project. We want to start with
+authentication,<00:03:28.560><c> so</c><00:03:28.959><c> login</c><00:03:29.519><c> along</c><00:03:29.760><c> with</c><00:03:30.000><c> a</c>
+
+00:03:30.229 --> 00:03:30.239 align:start position:0%
+authentication, so login along with a
+ 
+
+00:03:30.239 --> 00:03:32.309 align:start position:0%
+authentication, so login along with a
+user<00:03:30.480><c> signup</c><00:03:30.879><c> flow.</c><00:03:31.680><c> Then</c><00:03:31.920><c> I'm</c><00:03:32.159><c> going</c><00:03:32.239><c> to</c>
+
+00:03:32.309 --> 00:03:32.319 align:start position:0%
+user signup flow. Then I'm going to
+ 
+
+00:03:32.319 --> 00:03:34.470 align:start position:0%
+user signup flow. Then I'm going to
+install<00:03:32.640><c> the</c><00:03:32.799><c> teams</c><00:03:33.200><c> component,</c><00:03:33.840><c> which</c><00:03:34.159><c> sets</c>
+
+00:03:34.470 --> 00:03:34.480 align:start position:0%
+install the teams component, which sets
+ 
+
+00:03:34.480 --> 00:03:37.350 align:start position:0%
+install the teams component, which sets
+up<00:03:34.799><c> accounts</c><00:03:35.280><c> and</c><00:03:35.599><c> users,</c><00:03:36.400><c> an</c><00:03:36.640><c> invitations</c>
+
+00:03:37.350 --> 00:03:37.360 align:start position:0%
+up accounts and users, an invitations
+ 
+
+00:03:37.360 --> 00:03:39.430 align:start position:0%
+up accounts and users, an invitations
+system<00:03:37.760><c> for</c><00:03:38.159><c> team</c><00:03:38.480><c> members.</c><00:03:38.959><c> Then</c><00:03:39.120><c> I'm</c><00:03:39.280><c> going</c>
+
+00:03:39.430 --> 00:03:39.440 align:start position:0%
+system for team members. Then I'm going
+ 
+
+00:03:39.440 --> 00:03:41.750 align:start position:0%
+system for team members. Then I'm going
+to<00:03:39.519><c> install</c><00:03:39.840><c> a</c><00:03:40.080><c> back-end</c><00:03:40.560><c> dashboard</c><00:03:41.280><c> for</c><00:03:41.599><c> me</c>
+
+00:03:41.750 --> 00:03:41.760 align:start position:0%
+to install a back-end dashboard for me
+ 
+
+00:03:41.760 --> 00:03:44.229 align:start position:0%
+to install a back-end dashboard for me
+and<00:03:42.000><c> my</c><00:03:42.239><c> team</c><00:03:42.480><c> to</c><00:03:42.720><c> manage</c><00:03:43.120><c> users</c><00:03:43.599><c> and</c><00:03:43.840><c> accounts</c>
+
+00:03:44.229 --> 00:03:44.239 align:start position:0%
+and my team to manage users and accounts
+ 
+
+00:03:44.239 --> 00:03:46.869 align:start position:0%
+and my team to manage users and accounts
+in<00:03:44.480><c> my</c><00:03:44.720><c> product.</c><00:03:45.599><c> And</c><00:03:45.760><c> finally,</c><00:03:46.159><c> I'll</c><00:03:46.480><c> install</c>
+
+00:03:46.869 --> 00:03:46.879 align:start position:0%
+in my product. And finally, I'll install
+ 
+
+00:03:46.879 --> 00:03:49.030 align:start position:0%
+in my product. And finally, I'll install
+instrumental<00:03:47.680><c> commerce.</c><00:03:48.239><c> That's</c><00:03:48.400><c> our</c><00:03:48.640><c> Stripe</c>
+
+00:03:49.030 --> 00:03:49.040 align:start position:0%
+instrumental commerce. That's our Stripe
+ 
+
+00:03:49.040 --> 00:03:50.949 align:start position:0%
+instrumental commerce. That's our Stripe
+integration<00:03:49.680><c> so</c><00:03:49.840><c> that</c><00:03:50.000><c> I</c><00:03:50.159><c> can</c><00:03:50.319><c> start</c><00:03:50.560><c> charging</c>
+
+00:03:50.949 --> 00:03:50.959 align:start position:0%
+integration so that I can start charging
+ 
+
+00:03:50.959 --> 00:03:53.830 align:start position:0%
+integration so that I can start charging
+for<00:03:51.440><c> this</c><00:03:52.080><c> SAS</c><00:03:52.480><c> product</c><00:03:52.720><c> that</c><00:03:52.959><c> I'm</c><00:03:53.200><c> going</c><00:03:53.360><c> to</c>
+
+00:03:53.830 --> 00:03:53.840 align:start position:0%
+for this SAS product that I'm going to
+ 
+
+00:03:53.840 --> 00:03:55.509 align:start position:0%
+for this SAS product that I'm going to
+build<00:03:54.159><c> here.</c><00:03:54.720><c> Now</c><00:03:54.959><c> we'll</c><00:03:55.200><c> start</c><00:03:55.360><c> with</c>
+
+00:03:55.509 --> 00:03:55.519 align:start position:0%
+build here. Now we'll start with
+ 
+
+00:03:55.519 --> 00:03:59.070 align:start position:0%
+build here. Now we'll start with
+authentication.<00:03:56.319><c> That's</c><00:03:56.560><c> railsg</c>
+
+00:03:59.070 --> 00:03:59.080 align:start position:0%
+authentication. That's railsg
+ 
+
+00:03:59.080 --> 00:04:01.429 align:start position:0%
+authentication. That's railsg
+instrumental<00:04:00.200><c> authentication.</c><00:04:01.200><c> And</c>
+
+00:04:01.429 --> 00:04:01.439 align:start position:0%
+instrumental authentication. And
+ 
+
+00:04:01.439 --> 00:04:03.270 align:start position:0%
+instrumental authentication. And
+actually<00:04:01.840><c> this</c><00:04:02.000><c> is</c><00:04:02.159><c> going</c><00:04:02.319><c> to</c><00:04:02.480><c> fail</c><00:04:03.040><c> because</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+actually this is going to fail because
+ 
+
+00:04:03.280 --> 00:04:05.270 align:start position:0%
+actually this is going to fail because
+it's<00:04:03.519><c> going</c><00:04:03.599><c> to</c><00:04:03.680><c> check</c><00:04:03.920><c> requirements</c><00:04:04.720><c> and</c>
+
+00:04:05.270 --> 00:04:05.280 align:start position:0%
+it's going to check requirements and
+ 
+
+00:04:05.280 --> 00:04:06.789 align:start position:0%
+it's going to check requirements and
+first<00:04:05.599><c> it's</c><00:04:05.840><c> going</c><00:04:05.920><c> to</c><00:04:06.080><c> tell</c><00:04:06.239><c> me</c><00:04:06.400><c> that</c><00:04:06.640><c> we</c>
+
+00:04:06.789 --> 00:04:06.799 align:start position:0%
+first it's going to tell me that we
+ 
+
+00:04:06.799 --> 00:04:09.830 align:start position:0%
+first it's going to tell me that we
+actually<00:04:07.120><c> need</c><00:04:07.280><c> to</c><00:04:07.519><c> install</c><00:04:08.480><c> the</c><00:04:08.799><c> core</c><00:04:09.360><c> rails</c>
+
+00:04:09.830 --> 00:04:09.840 align:start position:0%
+actually need to install the core rails
+ 
+
+00:04:09.840 --> 00:04:12.070 align:start position:0%
+actually need to install the core rails
+authentication<00:04:10.720><c> generator</c><00:04:11.280><c> that</c><00:04:11.599><c> came</c><00:04:11.840><c> with</c>
+
+00:04:12.070 --> 00:04:12.080 align:start position:0%
+authentication generator that came with
+ 
+
+00:04:12.080 --> 00:04:14.869 align:start position:0%
+authentication generator that came with
+rails<00:04:12.560><c> 8</c><00:04:13.120><c> and</c><00:04:13.280><c> so</c><00:04:13.519><c> our</c><00:04:13.840><c> authentication</c><00:04:14.720><c> layer</c>
+
+00:04:14.869 --> 00:04:14.879 align:start position:0%
+rails 8 and so our authentication layer
+ 
+
+00:04:14.879 --> 00:04:17.349 align:start position:0%
+rails 8 and so our authentication layer
+is<00:04:15.120><c> built</c><00:04:15.360><c> on</c><00:04:15.599><c> top</c><00:04:15.760><c> of</c><00:04:15.920><c> that.</c><00:04:16.639><c> So</c><00:04:16.880><c> we</c><00:04:17.120><c> want</c><00:04:17.199><c> to</c>
+
+00:04:17.349 --> 00:04:17.359 align:start position:0%
+is built on top of that. So we want to
+ 
+
+00:04:17.359 --> 00:04:21.270 align:start position:0%
+is built on top of that. So we want to
+run<00:04:17.959><c> rails</c><00:04:18.959><c> g</c><00:04:19.479><c> authentication.</c><00:04:20.560><c> So</c><00:04:20.799><c> this</c><00:04:21.040><c> is</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+run rails g authentication. So this is
+ 
+
+00:04:21.280 --> 00:04:22.790 align:start position:0%
+run rails g authentication. So this is
+starting<00:04:21.600><c> with</c><00:04:21.759><c> the</c><00:04:22.000><c> core</c><00:04:22.400><c> rails</c>
+
+00:04:22.790 --> 00:04:22.800 align:start position:0%
+starting with the core rails
+ 
+
+00:04:22.800 --> 00:04:24.950 align:start position:0%
+starting with the core rails
+authentication<00:04:23.440><c> which</c><00:04:23.759><c> just</c><00:04:24.000><c> gives</c><00:04:24.240><c> us</c><00:04:24.800><c> you</c>
+
+00:04:24.950 --> 00:04:24.960 align:start position:0%
+authentication which just gives us you
+ 
+
+00:04:24.960 --> 00:04:27.189 align:start position:0%
+authentication which just gives us you
+know<00:04:25.040><c> like</c><00:04:25.280><c> a</c><00:04:25.440><c> login</c><00:04:25.919><c> flow</c><00:04:26.639><c> and</c><00:04:26.880><c> we</c><00:04:27.040><c> can</c>
+
+00:04:27.189 --> 00:04:27.199 align:start position:0%
+know like a login flow and we can
+ 
+
+00:04:27.199 --> 00:04:30.150 align:start position:0%
+know like a login flow and we can
+migrate.<00:04:27.919><c> Okay.</c><00:04:28.240><c> So</c><00:04:28.479><c> now</c><00:04:28.720><c> we'll</c><00:04:29.040><c> be</c><00:04:29.199><c> ready</c><00:04:29.840><c> to</c>
+
+00:04:30.150 --> 00:04:30.160 align:start position:0%
+migrate. Okay. So now we'll be ready to
+ 
+
+00:04:30.160 --> 00:04:33.030 align:start position:0%
+migrate. Okay. So now we'll be ready to
+run<00:04:30.400><c> the</c><00:04:30.720><c> same</c><00:04:31.040><c> command</c><00:04:31.440><c> again.</c><00:04:31.840><c> Rails</c><00:04:32.400><c> g</c>
+
+00:04:33.030 --> 00:04:33.040 align:start position:0%
+run the same command again. Rails g
+ 
+
+00:04:33.040 --> 00:04:35.790 align:start position:0%
+run the same command again. Rails g
+instrumental
+
+00:04:35.790 --> 00:04:35.800 align:start position:0%
+instrumental
+ 
+
+00:04:35.800 --> 00:04:37.909 align:start position:0%
+instrumental
+authentication<00:04:36.800><c> and</c><00:04:37.040><c> once</c><00:04:37.280><c> again</c><00:04:37.440><c> we</c><00:04:37.680><c> have</c><00:04:37.759><c> an</c>
+
+00:04:37.909 --> 00:04:37.919 align:start position:0%
+authentication and once again we have an
+ 
+
+00:04:37.919 --> 00:04:39.590 align:start position:0%
+authentication and once again we have an
+overview<00:04:38.320><c> of</c><00:04:38.560><c> the</c><00:04:38.800><c> component</c><00:04:39.120><c> that</c><00:04:39.360><c> we're</c>
+
+00:04:39.590 --> 00:04:39.600 align:start position:0%
+overview of the component that we're
+ 
+
+00:04:39.600 --> 00:04:41.830 align:start position:0%
+overview of the component that we're
+about<00:04:39.840><c> to</c><00:04:40.080><c> install.</c><00:04:40.960><c> Now</c><00:04:41.280><c> most</c><00:04:41.440><c> of</c><00:04:41.520><c> these</c>
+
+00:04:41.830 --> 00:04:41.840 align:start position:0%
+about to install. Now most of these
+ 
+
+00:04:41.840 --> 00:04:43.670 align:start position:0%
+about to install. Now most of these
+components<00:04:42.320><c> actually</c><00:04:42.720><c> pull</c><00:04:42.960><c> in</c><00:04:43.199><c> multiple</c>
+
+00:04:43.670 --> 00:04:43.680 align:start position:0%
+components actually pull in multiple
+ 
+
+00:04:43.680 --> 00:04:45.830 align:start position:0%
+components actually pull in multiple
+components<00:04:44.320><c> all</c><00:04:44.479><c> in</c><00:04:44.720><c> one</c><00:04:44.960><c> shot.</c><00:04:45.440><c> Right?</c><00:04:45.680><c> So,</c>
+
+00:04:45.830 --> 00:04:45.840 align:start position:0%
+components all in one shot. Right? So,
+ 
+
+00:04:45.840 --> 00:04:48.230 align:start position:0%
+components all in one shot. Right? So,
+our<00:04:46.080><c> authentication</c><00:04:46.800><c> component</c><00:04:47.600><c> also</c><00:04:47.919><c> makes</c>
+
+00:04:48.230 --> 00:04:48.240 align:start position:0%
+our authentication component also makes
+ 
+
+00:04:48.240 --> 00:04:50.070 align:start position:0%
+our authentication component also makes
+use<00:04:48.479><c> of</c><00:04:48.880><c> all</c><00:04:49.040><c> these</c><00:04:49.280><c> other</c><00:04:49.440><c> ones</c><00:04:49.759><c> like</c><00:04:49.919><c> the</c>
+
+00:04:50.070 --> 00:04:50.080 align:start position:0%
+use of all these other ones like the
+ 
+
+00:04:50.080 --> 00:04:52.550 align:start position:0%
+use of all these other ones like the
+logo<00:04:50.479><c> component,</c><00:04:51.040><c> the</c><00:04:51.440><c> menus,</c><00:04:52.000><c> drop</c><00:04:52.240><c> downs,</c>
+
+00:04:52.550 --> 00:04:52.560 align:start position:0%
+logo component, the menus, drop downs,
+ 
+
+00:04:52.560 --> 00:04:54.469 align:start position:0%
+logo component, the menus, drop downs,
+buttons,<00:04:53.040><c> tool</c><00:04:53.360><c> tips,</c><00:04:53.680><c> and</c><00:04:53.840><c> a</c><00:04:54.000><c> whole</c><00:04:54.160><c> bunch</c><00:04:54.320><c> of</c>
+
+00:04:54.469 --> 00:04:54.479 align:start position:0%
+buttons, tool tips, and a whole bunch of
+ 
+
+00:04:54.479 --> 00:04:55.830 align:start position:0%
+buttons, tool tips, and a whole bunch of
+stuff.<00:04:54.800><c> So,</c><00:04:54.960><c> it's</c><00:04:55.199><c> going</c><00:04:55.199><c> to</c><00:04:55.360><c> give</c><00:04:55.440><c> you</c><00:04:55.520><c> a</c><00:04:55.680><c> list</c>
+
+00:04:55.830 --> 00:04:55.840 align:start position:0%
+stuff. So, it's going to give you a list
+ 
+
+00:04:55.840 --> 00:04:57.590 align:start position:0%
+stuff. So, it's going to give you a list
+of<00:04:56.000><c> everything</c><00:04:56.240><c> that</c><00:04:56.400><c> it's</c><00:04:56.639><c> about</c><00:04:56.800><c> to</c><00:04:57.040><c> install</c>
+
+00:04:57.590 --> 00:04:57.600 align:start position:0%
+of everything that it's about to install
+ 
+
+00:04:57.600 --> 00:04:59.749 align:start position:0%
+of everything that it's about to install
+along<00:04:57.919><c> with</c><00:04:58.160><c> this.</c><00:04:58.560><c> We</c><00:04:58.800><c> want</c><00:04:58.880><c> to</c><00:04:59.040><c> proceed.</c>
+
+00:04:59.749 --> 00:04:59.759 align:start position:0%
+along with this. We want to proceed.
+ 
+
+00:04:59.759 --> 00:05:01.510 align:start position:0%
+along with this. We want to proceed.
+Now,<00:05:00.000><c> part</c><00:05:00.160><c> of</c><00:05:00.320><c> this</c><00:05:00.560><c> is</c><00:05:00.800><c> it's</c><00:05:01.199><c> going</c><00:05:01.280><c> to</c>
+
+00:05:01.510 --> 00:05:01.520 align:start position:0%
+Now, part of this is it's going to
+ 
+
+00:05:01.520 --> 00:05:03.670 align:start position:0%
+Now, part of this is it's going to
+actually<00:05:01.840><c> install</c><00:05:02.240><c> a</c><00:05:02.639><c> layout</c><00:05:02.960><c> into</c><00:05:03.360><c> our</c>
+
+00:05:03.670 --> 00:05:03.680 align:start position:0%
+actually install a layout into our
+ 
+
+00:05:03.680 --> 00:05:05.270 align:start position:0%
+actually install a layout into our
+application.<00:05:04.240><c> And</c><00:05:04.400><c> when</c><00:05:04.560><c> we</c><00:05:04.720><c> install</c><00:05:04.960><c> a</c>
+
+00:05:05.270 --> 00:05:05.280 align:start position:0%
+application. And when we install a
+ 
+
+00:05:05.280 --> 00:05:07.270 align:start position:0%
+application. And when we install a
+layout,<00:05:05.919><c> it</c><00:05:06.160><c> asks</c><00:05:06.479><c> whether</c><00:05:06.720><c> we</c><00:05:06.960><c> want</c><00:05:07.039><c> to</c><00:05:07.120><c> make</c>
+
+00:05:07.270 --> 00:05:07.280 align:start position:0%
+layout, it asks whether we want to make
+ 
+
+00:05:07.280 --> 00:05:09.749 align:start position:0%
+layout, it asks whether we want to make
+that<00:05:07.520><c> our</c><00:05:07.840><c> default</c><00:05:08.400><c> application</c><00:05:09.120><c> layout</c><00:05:09.440><c> or</c>
+
+00:05:09.749 --> 00:05:09.759 align:start position:0%
+that our default application layout or
+ 
+
+00:05:09.759 --> 00:05:11.189 align:start position:0%
+that our default application layout or
+give<00:05:09.840><c> it</c><00:05:10.080><c> another</c><00:05:10.320><c> name.</c><00:05:10.639><c> In</c><00:05:10.880><c> this</c><00:05:10.960><c> case,</c>
+
+00:05:11.189 --> 00:05:11.199 align:start position:0%
+give it another name. In this case,
+ 
+
+00:05:11.199 --> 00:05:12.710 align:start position:0%
+give it another name. In this case,
+yeah,<00:05:11.440><c> we'll</c><00:05:11.680><c> use</c><00:05:11.759><c> the</c><00:05:11.919><c> application</c><00:05:12.479><c> layout.</c>
+
+00:05:12.710 --> 00:05:12.720 align:start position:0%
+yeah, we'll use the application layout.
+ 
+
+00:05:12.720 --> 00:05:15.189 align:start position:0%
+yeah, we'll use the application layout.
+So,<00:05:12.880><c> I'll</c><00:05:13.120><c> approve</c><00:05:13.720><c> that.</c><00:05:14.720><c> Okay.</c><00:05:14.880><c> Okay,</c><00:05:15.039><c> so</c>
+
+00:05:15.189 --> 00:05:15.199 align:start position:0%
+So, I'll approve that. Okay. Okay, so
+ 
+
+00:05:15.199 --> 00:05:16.790 align:start position:0%
+So, I'll approve that. Okay. Okay, so
+now<00:05:15.360><c> it's</c><00:05:15.600><c> going</c><00:05:15.680><c> to</c><00:05:15.840><c> step</c><00:05:16.160><c> through</c><00:05:16.560><c> the</c>
+
+00:05:16.790 --> 00:05:16.800 align:start position:0%
+now it's going to step through the
+ 
+
+00:05:16.800 --> 00:05:19.350 align:start position:0%
+now it's going to step through the
+installations<00:05:17.520><c> of,</c><00:05:18.240><c> you</c><00:05:18.400><c> know,</c><00:05:18.639><c> 15</c><00:05:19.039><c> different</c>
+
+00:05:19.350 --> 00:05:19.360 align:start position:0%
+installations of, you know, 15 different
+ 
+
+00:05:19.360 --> 00:05:21.350 align:start position:0%
+installations of, you know, 15 different
+components<00:05:20.160><c> and</c><00:05:20.320><c> you</c><00:05:20.560><c> can</c><00:05:20.639><c> see</c><00:05:20.800><c> it</c><00:05:21.039><c> making</c>
+
+00:05:21.350 --> 00:05:21.360 align:start position:0%
+components and you can see it making
+ 
+
+00:05:21.360 --> 00:05:23.590 align:start position:0%
+components and you can see it making
+progress.<00:05:22.240><c> Um,</c><00:05:22.479><c> the</c><00:05:22.720><c> blue</c><00:05:22.960><c> lines</c><00:05:23.280><c> kind</c><00:05:23.440><c> of</c>
+
+00:05:23.590 --> 00:05:23.600 align:start position:0%
+progress. Um, the blue lines kind of
+ 
+
+00:05:23.600 --> 00:05:25.510 align:start position:0%
+progress. Um, the blue lines kind of
+give<00:05:23.680><c> us</c><00:05:23.840><c> like</c><00:05:24.160><c> an</c><00:05:24.400><c> update</c><00:05:24.720><c> on</c><00:05:24.880><c> which</c><00:05:25.120><c> step</c><00:05:25.360><c> in</c>
+
+00:05:25.510 --> 00:05:25.520 align:start position:0%
+give us like an update on which step in
+ 
+
+00:05:25.520 --> 00:05:27.110 align:start position:0%
+give us like an update on which step in
+the<00:05:25.759><c> process</c><00:05:26.000><c> that</c><00:05:26.240><c> we're</c><00:05:26.400><c> at.</c><00:05:26.720><c> You'll</c><00:05:26.960><c> see</c>
+
+00:05:27.110 --> 00:05:27.120 align:start position:0%
+the process that we're at. You'll see
+ 
+
+00:05:27.120 --> 00:05:28.790 align:start position:0%
+the process that we're at. You'll see
+these<00:05:27.360><c> green</c><00:05:27.680><c> lines</c><00:05:28.080><c> which</c><00:05:28.320><c> means</c><00:05:28.479><c> that</c>
+
+00:05:28.790 --> 00:05:28.800 align:start position:0%
+these green lines which means that
+ 
+
+00:05:28.800 --> 00:05:30.629 align:start position:0%
+these green lines which means that
+another<00:05:29.199><c> component</c><00:05:29.600><c> has</c><00:05:29.919><c> successfully</c><00:05:30.400><c> been</c>
+
+00:05:30.629 --> 00:05:30.639 align:start position:0%
+another component has successfully been
+ 
+
+00:05:30.639 --> 00:05:33.029 align:start position:0%
+another component has successfully been
+added<00:05:30.960><c> to</c><00:05:31.199><c> the</c><00:05:31.360><c> project.</c><00:05:32.000><c> Now,</c><00:05:32.320><c> by</c><00:05:32.560><c> default,</c>
+
+00:05:33.029 --> 00:05:33.039 align:start position:0%
+added to the project. Now, by default,
+ 
+
+00:05:33.039 --> 00:05:35.510 align:start position:0%
+added to the project. Now, by default,
+this<00:05:33.280><c> is</c><00:05:33.440><c> happening</c><00:05:33.759><c> in</c><00:05:34.400><c> slow</c><00:05:34.800><c> mode,</c><00:05:35.199><c> right?</c>
+
+00:05:35.510 --> 00:05:35.520 align:start position:0%
+this is happening in slow mode, right?
+ 
+
+00:05:35.520 --> 00:05:37.029 align:start position:0%
+this is happening in slow mode, right?
+Where<00:05:35.600><c> we</c><00:05:35.840><c> can</c><00:05:35.919><c> sort</c><00:05:36.160><c> of</c><00:05:36.320><c> watch</c><00:05:36.479><c> it</c><00:05:36.720><c> happen</c>
+
+00:05:37.029 --> 00:05:37.039 align:start position:0%
+Where we can sort of watch it happen
+ 
+
+00:05:37.039 --> 00:05:39.830 align:start position:0%
+Where we can sort of watch it happen
+step<00:05:37.280><c> by</c><00:05:37.520><c> step.</c><00:05:38.320><c> You</c><00:05:38.479><c> can</c><00:05:38.639><c> just</c><00:05:38.800><c> add</c><00:05:39.039><c> the</c><00:05:39.199><c> the</c>
+
+00:05:39.830 --> 00:05:39.840 align:start position:0%
+step by step. You can just add the the
+ 
+
+00:05:39.840 --> 00:05:42.070 align:start position:0%
+step by step. You can just add the the
+fast<00:05:40.240><c> flag</c><00:05:40.720><c> to</c><00:05:40.960><c> make</c><00:05:41.120><c> this</c><00:05:41.280><c> go</c><00:05:41.520><c> all</c><00:05:41.680><c> in</c><00:05:41.840><c> one</c>
+
+00:05:42.070 --> 00:05:42.080 align:start position:0%
+fast flag to make this go all in one
+ 
+
+00:05:42.080 --> 00:05:43.430 align:start position:0%
+fast flag to make this go all in one
+shot.<00:05:42.240><c> And</c><00:05:42.400><c> you</c><00:05:42.560><c> can</c><00:05:42.639><c> even</c><00:05:42.800><c> add</c><00:05:42.960><c> that</c><00:05:43.120><c> to</c><00:05:43.280><c> your</c>
+
+00:05:43.430 --> 00:05:43.440 align:start position:0%
+shot. And you can even add that to your
+ 
+
+00:05:43.440 --> 00:05:45.670 align:start position:0%
+shot. And you can even add that to your
+config<00:05:43.759><c> file</c><00:05:44.240><c> for</c><00:05:44.479><c> instrumental</c><00:05:45.280><c> uh</c><00:05:45.440><c> so</c><00:05:45.520><c> that</c>
+
+00:05:45.670 --> 00:05:45.680 align:start position:0%
+config file for instrumental uh so that
+ 
+
+00:05:45.680 --> 00:05:48.629 align:start position:0%
+config file for instrumental uh so that
+it<00:05:45.840><c> uses</c><00:05:46.240><c> fast</c><00:05:46.560><c> mode</c><00:05:47.199><c> every</c><00:05:47.520><c> time.</c><00:05:48.240><c> Okay,</c><00:05:48.479><c> so</c>
+
+00:05:48.629 --> 00:05:48.639 align:start position:0%
+it uses fast mode every time. Okay, so
+ 
+
+00:05:48.639 --> 00:05:50.310 align:start position:0%
+it uses fast mode every time. Okay, so
+that's<00:05:48.880><c> all</c><00:05:49.039><c> set.</c><00:05:49.440><c> When</c><00:05:49.600><c> it's</c><00:05:49.840><c> finished,</c><00:05:50.160><c> it</c>
+
+00:05:50.310 --> 00:05:50.320 align:start position:0%
+that's all set. When it's finished, it
+ 
+
+00:05:50.320 --> 00:05:52.790 align:start position:0%
+that's all set. When it's finished, it
+gives<00:05:50.479><c> us</c><00:05:50.639><c> this</c><00:05:50.960><c> recap</c><00:05:51.919><c> which</c><00:05:52.240><c> in</c><00:05:52.479><c> this</c><00:05:52.639><c> case</c>
+
+00:05:52.790 --> 00:05:52.800 align:start position:0%
+gives us this recap which in this case
+ 
+
+00:05:52.800 --> 00:05:55.189 align:start position:0%
+gives us this recap which in this case
+it<00:05:52.960><c> shows</c><00:05:53.280><c> 58</c><00:05:53.759><c> new</c><00:05:54.000><c> files</c><00:05:54.320><c> have</c><00:05:54.560><c> been</c><00:05:54.720><c> inserted</c>
+
+00:05:55.189 --> 00:05:55.199 align:start position:0%
+it shows 58 new files have been inserted
+ 
+
+00:05:55.199 --> 00:05:56.870 align:start position:0%
+it shows 58 new files have been inserted
+into<00:05:55.440><c> our</c><00:05:55.680><c> project.</c><00:05:56.240><c> We</c><00:05:56.479><c> can</c><00:05:56.560><c> go</c><00:05:56.720><c> through</c>
+
+00:05:56.870 --> 00:05:56.880 align:start position:0%
+into our project. We can go through
+ 
+
+00:05:56.880 --> 00:05:59.029 align:start position:0%
+into our project. We can go through
+those<00:05:57.120><c> and</c><00:05:57.280><c> review</c><00:05:57.600><c> those</c><00:05:57.840><c> later</c><00:05:58.080><c> on.</c><00:05:58.639><c> And</c><00:05:58.800><c> it</c>
+
+00:05:59.029 --> 00:05:59.039 align:start position:0%
+those and review those later on. And it
+ 
+
+00:05:59.039 --> 00:06:00.790 align:start position:0%
+those and review those later on. And it
+also<00:05:59.280><c> did</c><00:05:59.440><c> some</c><00:05:59.759><c> code</c><00:06:00.000><c> insertions</c><00:06:00.560><c> which</c>
+
+00:06:00.790 --> 00:06:00.800 align:start position:0%
+also did some code insertions which
+ 
+
+00:06:00.800 --> 00:06:02.629 align:start position:0%
+also did some code insertions which
+means<00:06:00.960><c> it</c><00:06:01.199><c> it</c><00:06:01.440><c> took</c><00:06:01.680><c> some</c><00:06:01.919><c> some</c><00:06:02.240><c> existing</c>
+
+00:06:02.629 --> 00:06:02.639 align:start position:0%
+means it it took some some existing
+ 
+
+00:06:02.639 --> 00:06:05.029 align:start position:0%
+means it it took some some existing
+files,<00:06:03.199><c> it</c><00:06:03.360><c> left</c><00:06:03.600><c> its</c><00:06:03.840><c> code</c><00:06:04.000><c> intact</c><00:06:04.639><c> and</c><00:06:04.880><c> it</c>
+
+00:06:05.029 --> 00:06:05.039 align:start position:0%
+files, it left its code intact and it
+ 
+
+00:06:05.039 --> 00:06:06.710 align:start position:0%
+files, it left its code intact and it
+just<00:06:05.199><c> added</c><00:06:05.440><c> a</c><00:06:05.600><c> bit</c><00:06:05.759><c> of</c><00:06:05.919><c> functionality</c><00:06:06.400><c> and</c>
+
+00:06:06.710 --> 00:06:06.720 align:start position:0%
+just added a bit of functionality and
+ 
+
+00:06:06.720 --> 00:06:08.790 align:start position:0%
+just added a bit of functionality and
+methods<00:06:07.039><c> and</c><00:06:07.280><c> things</c><00:06:08.000><c> um</c><00:06:08.080><c> to</c><00:06:08.240><c> those.</c><00:06:08.560><c> In</c><00:06:08.720><c> this</c>
+
+00:06:08.790 --> 00:06:08.800 align:start position:0%
+methods and things um to those. In this
+ 
+
+00:06:08.800 --> 00:06:10.390 align:start position:0%
+methods and things um to those. In this
+case,<00:06:09.039><c> we</c><00:06:09.199><c> did</c><00:06:09.360><c> add</c><00:06:09.440><c> a</c><00:06:09.600><c> migration.</c><00:06:10.080><c> So</c><00:06:10.160><c> we'll</c>
+
+00:06:10.390 --> 00:06:10.400 align:start position:0%
+case, we did add a migration. So we'll
+ 
+
+00:06:10.400 --> 00:06:12.629 align:start position:0%
+case, we did add a migration. So we'll
+need<00:06:10.479><c> to</c><00:06:10.639><c> migrate</c><00:06:10.960><c> that.</c><00:06:11.600><c> And</c><00:06:11.840><c> we</c><00:06:12.080><c> also</c><00:06:12.319><c> added</c>
+
+00:06:12.629 --> 00:06:12.639 align:start position:0%
+need to migrate that. And we also added
+ 
+
+00:06:12.639 --> 00:06:15.110 align:start position:0%
+need to migrate that. And we also added
+a<00:06:12.800><c> gem.</c><00:06:13.199><c> It</c><00:06:13.360><c> pulled</c><00:06:13.600><c> in</c><00:06:13.840><c> our</c><00:06:14.160><c> icons</c><00:06:14.639><c> component</c>
+
+00:06:15.110 --> 00:06:15.120 align:start position:0%
+a gem. It pulled in our icons component
+ 
+
+00:06:15.120 --> 00:06:18.070 align:start position:0%
+a gem. It pulled in our icons component
+which<00:06:15.440><c> uses</c><00:06:15.759><c> the</c><00:06:16.000><c> loose</c><00:06:16.560><c> rails</c><00:06:16.960><c> gem.</c><00:06:17.680><c> Okay.</c>
+
+00:06:18.070 --> 00:06:18.080 align:start position:0%
+which uses the loose rails gem. Okay.
+ 
+
+00:06:18.080 --> 00:06:20.469 align:start position:0%
+which uses the loose rails gem. Okay.
+So,<00:06:18.400><c> oh,</c><00:06:18.560><c> and</c><00:06:18.800><c> we</c><00:06:18.960><c> added</c><00:06:19.199><c> a</c><00:06:19.440><c> few</c><00:06:19.600><c> routes</c><00:06:20.000><c> to</c><00:06:20.240><c> our</c>
+
+00:06:20.469 --> 00:06:20.479 align:start position:0%
+So, oh, and we added a few routes to our
+ 
+
+00:06:20.479 --> 00:06:22.390 align:start position:0%
+So, oh, and we added a few routes to our
+to<00:06:20.639><c> our</c><00:06:20.800><c> routes</c><00:06:21.120><c> file.</c><00:06:21.680><c> Let's</c><00:06:21.919><c> go</c><00:06:22.000><c> ahead</c><00:06:22.240><c> and</c>
+
+00:06:22.390 --> 00:06:22.400 align:start position:0%
+to our routes file. Let's go ahead and
+ 
+
+00:06:22.400 --> 00:06:24.550 align:start position:0%
+to our routes file. Let's go ahead and
+get<00:06:22.560><c> this</c><00:06:22.919><c> migrated.</c><00:06:23.919><c> We</c><00:06:24.160><c> want</c><00:06:24.240><c> to</c><00:06:24.400><c> run</c>
+
+00:06:24.550 --> 00:06:24.560 align:start position:0%
+get this migrated. We want to run
+ 
+
+00:06:24.560 --> 00:06:27.309 align:start position:0%
+get this migrated. We want to run
+bundle.<00:06:25.280><c> Let's</c><00:06:25.520><c> see</c><00:06:25.600><c> how</c><00:06:25.759><c> we're</c>
+
+00:06:27.309 --> 00:06:27.319 align:start position:0%
+bundle. Let's see how we're
+ 
+
+00:06:27.319 --> 00:06:29.990 align:start position:0%
+bundle. Let's see how we're
+doing.<00:06:28.319><c> Okay.</c><00:06:28.720><c> So,</c><00:06:29.039><c> here</c><00:06:29.199><c> is</c><00:06:29.360><c> our</c><00:06:29.600><c> new</c><00:06:29.759><c> and</c>
+
+00:06:29.990 --> 00:06:30.000 align:start position:0%
+doing. Okay. So, here is our new and
+ 
+
+00:06:30.000 --> 00:06:31.749 align:start position:0%
+doing. Okay. So, here is our new and
+improved<00:06:30.400><c> login</c><00:06:30.880><c> flow</c><00:06:31.199><c> and</c><00:06:31.520><c> our</c>
+
+00:06:31.749 --> 00:06:31.759 align:start position:0%
+improved login flow and our
+ 
+
+00:06:31.759 --> 00:06:33.510 align:start position:0%
+improved login flow and our
+authentication<00:06:32.479><c> flow.</c><00:06:32.800><c> Actually</c><00:06:33.120><c> also</c><00:06:33.360><c> gave</c>
+
+00:06:33.510 --> 00:06:33.520 align:start position:0%
+authentication flow. Actually also gave
+ 
+
+00:06:33.520 --> 00:06:35.909 align:start position:0%
+authentication flow. Actually also gave
+us<00:06:33.840><c> a</c><00:06:34.160><c> sign</c><00:06:34.400><c> up</c><00:06:34.479><c> and</c><00:06:34.720><c> registration</c><00:06:35.280><c> flow.</c>
+
+00:06:35.909 --> 00:06:35.919 align:start position:0%
+us a sign up and registration flow.
+ 
+
+00:06:35.919 --> 00:06:37.749 align:start position:0%
+us a sign up and registration flow.
+Inside<00:06:36.400><c> it</c><00:06:36.560><c> gives</c><00:06:36.639><c> us</c><00:06:36.800><c> like</c><00:06:36.960><c> user</c><00:06:37.280><c> profiles</c>
+
+00:06:37.749 --> 00:06:37.759 align:start position:0%
+Inside it gives us like user profiles
+ 
+
+00:06:37.759 --> 00:06:39.350 align:start position:0%
+Inside it gives us like user profiles
+and<00:06:37.919><c> avatars</c><00:06:38.400><c> and</c><00:06:38.560><c> time</c><00:06:38.800><c> zones</c><00:06:39.039><c> and</c><00:06:39.120><c> a</c><00:06:39.199><c> whole</c>
+
+00:06:39.350 --> 00:06:39.360 align:start position:0%
+and avatars and time zones and a whole
+ 
+
+00:06:39.360 --> 00:06:41.350 align:start position:0%
+and avatars and time zones and a whole
+bunch<00:06:39.520><c> of</c><00:06:39.600><c> other</c><00:06:39.759><c> stuff.</c><00:06:40.319><c> Um,</c><00:06:40.720><c> but</c><00:06:40.880><c> before</c><00:06:41.120><c> I</c>
+
+00:06:41.350 --> 00:06:41.360 align:start position:0%
+bunch of other stuff. Um, but before I
+ 
+
+00:06:41.360 --> 00:06:42.870 align:start position:0%
+bunch of other stuff. Um, but before I
+actually<00:06:41.600><c> sign</c><00:06:41.759><c> up</c><00:06:41.919><c> for</c><00:06:42.080><c> an</c><00:06:42.319><c> account,</c><00:06:42.560><c> I</c><00:06:42.800><c> want</c>
+
+00:06:42.870 --> 00:06:42.880 align:start position:0%
+actually sign up for an account, I want
+ 
+
+00:06:42.880 --> 00:06:45.350 align:start position:0%
+actually sign up for an account, I want
+to<00:06:43.039><c> make</c><00:06:43.199><c> sure</c><00:06:43.360><c> that</c><00:06:43.919><c> I</c><00:06:44.240><c> set</c><00:06:44.479><c> up</c><00:06:44.639><c> my</c><00:06:44.880><c> accounts</c>
+
+00:06:45.350 --> 00:06:45.360 align:start position:0%
+to make sure that I set up my accounts
+ 
+
+00:06:45.360 --> 00:06:47.830 align:start position:0%
+to make sure that I set up my accounts
+model<00:06:45.759><c> and</c><00:06:46.080><c> users</c><00:06:46.479><c> and</c><00:06:46.880><c> teams</c><00:06:47.360><c> and</c><00:06:47.600><c> the</c>
+
+00:06:47.830 --> 00:06:47.840 align:start position:0%
+model and users and teams and the
+ 
+
+00:06:47.840 --> 00:06:49.590 align:start position:0%
+model and users and teams and the
+association<00:06:48.400><c> between</c><00:06:48.720><c> those.</c><00:06:49.280><c> And</c><00:06:49.440><c> that's</c>
+
+00:06:49.590 --> 00:06:49.600 align:start position:0%
+association between those. And that's
+ 
+
+00:06:49.600 --> 00:06:51.110 align:start position:0%
+association between those. And that's
+where<00:06:49.840><c> our</c><00:06:50.080><c> teams</c><00:06:50.479><c> component</c><00:06:50.800><c> is</c><00:06:50.960><c> going</c><00:06:51.039><c> to</c>
+
+00:06:51.110 --> 00:06:51.120 align:start position:0%
+where our teams component is going to
+ 
+
+00:06:51.120 --> 00:06:52.230 align:start position:0%
+where our teams component is going to
+come<00:06:51.280><c> in.</c><00:06:51.440><c> So,</c><00:06:51.600><c> I'm</c><00:06:51.759><c> going</c><00:06:51.759><c> to</c><00:06:51.840><c> stop</c><00:06:52.080><c> the</c>
+
+00:06:52.230 --> 00:06:52.240 align:start position:0%
+come in. So, I'm going to stop the
+ 
+
+00:06:52.240 --> 00:06:55.469 align:start position:0%
+come in. So, I'm going to stop the
+server<00:06:52.960><c> and</c><00:06:53.120><c> I'm</c><00:06:53.360><c> going</c><00:06:53.440><c> to</c><00:06:53.520><c> run</c><00:06:54.000><c> rails</c><00:06:54.639><c> gin</c>
+
+00:06:55.469 --> 00:06:55.479 align:start position:0%
+server and I'm going to run rails gin
+ 
+
+00:06:55.479 --> 00:06:58.469 align:start position:0%
+server and I'm going to run rails gin
+instrumental<00:06:56.759><c> teams.</c><00:06:57.759><c> And</c><00:06:57.919><c> this</c><00:06:58.080><c> time</c><00:06:58.240><c> I'm</c>
+
+00:06:58.469 --> 00:06:58.479 align:start position:0%
+instrumental teams. And this time I'm
+ 
+
+00:06:58.479 --> 00:07:00.469 align:start position:0%
+instrumental teams. And this time I'm
+going to<00:06:58.560><c> use</c><00:06:58.720><c> the</c><00:06:58.960><c> fast</c><00:06:59.280><c> command</c><00:07:00.080><c> to</c><00:07:00.319><c> make</c>
+
+00:07:00.469 --> 00:07:00.479 align:start position:0%
+going to use the fast command to make
+ 
+
+00:07:00.479 --> 00:07:02.070 align:start position:0%
+going to use the fast command to make
+sure<00:07:00.560><c> that</c><00:07:00.720><c> we</c><00:07:00.960><c> just</c><00:07:01.199><c> run</c><00:07:01.360><c> through</c><00:07:01.599><c> this</c><00:07:01.840><c> much</c>
+
+00:07:02.070 --> 00:07:02.080 align:start position:0%
+sure that we just run through this much
+ 
+
+00:07:02.080 --> 00:07:03.670 align:start position:0%
+sure that we just run through this much
+faster.<00:07:02.639><c> Now,</c><00:07:02.880><c> we</c><00:07:03.039><c> always</c><00:07:03.199><c> start</c><00:07:03.360><c> with</c><00:07:03.520><c> our</c>
+
+00:07:03.670 --> 00:07:03.680 align:start position:0%
+faster. Now, we always start with our
+ 
+
+00:07:03.680 --> 00:07:05.350 align:start position:0%
+faster. Now, we always start with our
+overview.<00:07:04.319><c> In</c><00:07:04.479><c> this</c><00:07:04.639><c> case,</c><00:07:04.800><c> we're</c><00:07:05.039><c> going</c><00:07:05.120><c> to</c>
+
+00:07:05.350 --> 00:07:05.360 align:start position:0%
+overview. In this case, we're going to
+ 
+
+00:07:05.360 --> 00:07:07.430 align:start position:0%
+overview. In this case, we're going to
+install<00:07:05.680><c> the</c><00:07:05.919><c> teams</c><00:07:06.240><c> component</c><00:07:06.720><c> plus</c><00:07:07.039><c> these</c>
+
+00:07:07.430 --> 00:07:07.440 align:start position:0%
+install the teams component plus these
+ 
+
+00:07:07.440 --> 00:07:09.430 align:start position:0%
+install the teams component plus these
+additional<00:07:07.840><c> components.</c><00:07:08.560><c> But</c><00:07:08.720><c> it</c><00:07:08.960><c> also</c><00:07:09.199><c> found</c>
+
+00:07:09.430 --> 00:07:09.440 align:start position:0%
+additional components. But it also found
+ 
+
+00:07:09.440 --> 00:07:11.909 align:start position:0%
+additional components. But it also found
+that<00:07:09.919><c> 11</c><00:07:10.319><c> other</c><00:07:10.639><c> components</c><00:07:11.199><c> that</c><00:07:11.520><c> would</c><00:07:11.759><c> be</c>
+
+00:07:11.909 --> 00:07:11.919 align:start position:0%
+that 11 other components that would be
+ 
+
+00:07:11.919 --> 00:07:14.390 align:start position:0%
+that 11 other components that would be
+used<00:07:12.160><c> by</c><00:07:12.319><c> the</c><00:07:12.479><c> teams</c><00:07:13.120><c> component</c><00:07:13.599><c> are</c><00:07:13.840><c> already</c>
+
+00:07:14.390 --> 00:07:14.400 align:start position:0%
+used by the teams component are already
+ 
+
+00:07:14.400 --> 00:07:16.230 align:start position:0%
+used by the teams component are already
+installed<00:07:14.800><c> in</c><00:07:15.039><c> our</c><00:07:15.199><c> project.</c><00:07:15.759><c> So</c><00:07:15.919><c> we're</c><00:07:16.080><c> not</c>
+
+00:07:16.230 --> 00:07:16.240 align:start position:0%
+installed in our project. So we're not
+ 
+
+00:07:16.240 --> 00:07:17.990 align:start position:0%
+installed in our project. So we're not
+going<00:07:16.319><c> to</c><00:07:16.560><c> install</c><00:07:16.880><c> them</c><00:07:17.120><c> again.</c><00:07:17.680><c> All</c><00:07:17.680><c> right,</c>
+
+00:07:17.990 --> 00:07:18.000 align:start position:0%
+going to install them again. All right,
+ 
+
+00:07:18.000 --> 00:07:20.309 align:start position:0%
+going to install them again. All right,
+let's<00:07:18.280><c> proceed.</c><00:07:19.280><c> Okay,</c><00:07:19.599><c> so</c><00:07:19.759><c> that</c><00:07:20.000><c> was</c><00:07:20.160><c> much</c>
+
+00:07:20.309 --> 00:07:20.319 align:start position:0%
+let's proceed. Okay, so that was much
+ 
+
+00:07:20.319 --> 00:07:22.469 align:start position:0%
+let's proceed. Okay, so that was much
+faster<00:07:20.639><c> this</c><00:07:20.880><c> time.</c><00:07:21.120><c> Of</c><00:07:21.280><c> course,</c><00:07:21.759><c> here</c><00:07:22.000><c> is</c><00:07:22.160><c> the</c>
+
+00:07:22.469 --> 00:07:22.479 align:start position:0%
+faster this time. Of course, here is the
+ 
+
+00:07:22.479 --> 00:07:24.070 align:start position:0%
+faster this time. Of course, here is the
+recap<00:07:22.880><c> of</c><00:07:23.199><c> everything</c><00:07:23.440><c> that</c><00:07:23.680><c> was</c><00:07:23.840><c> just</c>
+
+00:07:24.070 --> 00:07:24.080 align:start position:0%
+recap of everything that was just
+ 
+
+00:07:24.080 --> 00:07:26.390 align:start position:0%
+recap of everything that was just
+installed<00:07:24.479><c> with</c><00:07:24.720><c> the</c><00:07:24.960><c> teams</c><00:07:25.280><c> component.</c><00:07:26.080><c> 40</c>
+
+00:07:26.390 --> 00:07:26.400 align:start position:0%
+installed with the teams component. 40
+ 
+
+00:07:26.400 --> 00:07:28.309 align:start position:0%
+installed with the teams component. 40
+more<00:07:26.639><c> files</c><00:07:26.960><c> have</c><00:07:27.199><c> been</c><00:07:27.360><c> inserted</c><00:07:27.759><c> into</c><00:07:28.080><c> our</c>
+
+00:07:28.309 --> 00:07:28.319 align:start position:0%
+more files have been inserted into our
+ 
+
+00:07:28.319 --> 00:07:30.390 align:start position:0%
+more files have been inserted into our
+project.<00:07:28.720><c> We've</c><00:07:28.960><c> got</c><00:07:29.240><c> controllers,</c><00:07:30.240><c> you</c>
+
+00:07:30.390 --> 00:07:30.400 align:start position:0%
+project. We've got controllers, you
+ 
+
+00:07:30.400 --> 00:07:32.390 align:start position:0%
+project. We've got controllers, you
+know,<00:07:30.560><c> views,</c><00:07:31.039><c> partials,</c><00:07:31.840><c> couple</c><00:07:32.160><c> code</c>
+
+00:07:32.390 --> 00:07:32.400 align:start position:0%
+know, views, partials, couple code
+ 
+
+00:07:32.400 --> 00:07:34.550 align:start position:0%
+know, views, partials, couple code
+insertions.<00:07:33.360><c> Uh</c><00:07:33.680><c> there</c><00:07:33.919><c> are</c><00:07:34.160><c> some</c><00:07:34.319><c> new</c>
+
+00:07:34.550 --> 00:07:34.560 align:start position:0%
+insertions. Uh there are some new
+ 
+
+00:07:34.560 --> 00:07:36.309 align:start position:0%
+insertions. Uh there are some new
+migrations.<00:07:34.960><c> Again,</c><00:07:35.360><c> we</c><00:07:35.520><c> set</c><00:07:35.680><c> up</c><00:07:35.759><c> the</c><00:07:35.919><c> the</c>
+
+00:07:36.309 --> 00:07:36.319 align:start position:0%
+migrations. Again, we set up the the
+ 
+
+00:07:36.319 --> 00:07:38.070 align:start position:0%
+migrations. Again, we set up the the
+accounts<00:07:36.720><c> model</c><00:07:37.039><c> and</c><00:07:37.199><c> the</c><00:07:37.360><c> route</c><00:07:37.599><c> and</c><00:07:37.840><c> the</c>
+
+00:07:38.070 --> 00:07:38.080 align:start position:0%
+accounts model and the route and the
+ 
+
+00:07:38.080 --> 00:07:40.150 align:start position:0%
+accounts model and the route and the
+users<00:07:38.560><c> and</c><00:07:38.720><c> a</c><00:07:38.880><c> whole</c><00:07:39.039><c> invitation</c><00:07:39.599><c> system.</c><00:07:40.000><c> So,</c>
+
+00:07:40.150 --> 00:07:40.160 align:start position:0%
+users and a whole invitation system. So,
+ 
+
+00:07:40.160 --> 00:07:42.150 align:start position:0%
+users and a whole invitation system. So,
+we're<00:07:40.319><c> going</c><00:07:40.400><c> to</c><00:07:40.479><c> migrate</c><00:07:40.880><c> that</c><00:07:41.520><c> and</c><00:07:41.759><c> we</c><00:07:41.919><c> added</c>
+
+00:07:42.150 --> 00:07:42.160 align:start position:0%
+we're going to migrate that and we added
+ 
+
+00:07:42.160 --> 00:07:44.550 align:start position:0%
+we're going to migrate that and we added
+the<00:07:42.319><c> page</c><00:07:42.720><c> gem</c><00:07:43.039><c> that</c><00:07:43.280><c> adds</c><00:07:43.759><c> uh</c><00:07:43.919><c> pageionation</c>
+
+00:07:44.550 --> 00:07:44.560 align:start position:0%
+the page gem that adds uh pageionation
+ 
+
+00:07:44.560 --> 00:07:46.710 align:start position:0%
+the page gem that adds uh pageionation
+and<00:07:44.800><c> we</c><00:07:44.960><c> have</c><00:07:45.360><c> all</c><00:07:45.520><c> the</c><00:07:45.680><c> styling</c><00:07:46.080><c> built</c><00:07:46.319><c> in</c><00:07:46.479><c> for</c>
+
+00:07:46.710 --> 00:07:46.720 align:start position:0%
+and we have all the styling built in for
+ 
+
+00:07:46.720 --> 00:07:48.390 align:start position:0%
+and we have all the styling built in for
+that<00:07:46.880><c> as</c><00:07:47.120><c> well.</c><00:07:47.520><c> And</c><00:07:47.680><c> we</c><00:07:47.840><c> added</c><00:07:48.000><c> a</c><00:07:48.160><c> couple</c><00:07:48.319><c> of</c>
+
+00:07:48.390 --> 00:07:48.400 align:start position:0%
+that as well. And we added a couple of
+ 
+
+00:07:48.400 --> 00:07:50.150 align:start position:0%
+that as well. And we added a couple of
+routes.<00:07:48.800><c> All</c><00:07:48.800><c> right.</c><00:07:49.120><c> So,</c><00:07:49.280><c> let's</c><00:07:49.599><c> get</c><00:07:49.840><c> this</c>
+
+00:07:50.150 --> 00:07:50.160 align:start position:0%
+routes. All right. So, let's get this
+ 
+
+00:07:50.160 --> 00:07:53.350 align:start position:0%
+routes. All right. So, let's get this
+stuff<00:07:50.560><c> migrated.</c><00:07:51.520><c> Bundle.</c><00:07:52.160><c> Cool.</c><00:07:53.120><c> I'm</c><00:07:53.280><c> going</c>
+
+00:07:53.350 --> 00:07:53.360 align:start position:0%
+stuff migrated. Bundle. Cool. I'm going
+ 
+
+00:07:53.360 --> 00:07:54.869 align:start position:0%
+stuff migrated. Bundle. Cool. I'm going
+to<00:07:53.440><c> start</c><00:07:53.599><c> the</c><00:07:53.759><c> server.</c><00:07:54.080><c> I've</c><00:07:54.240><c> got</c><00:07:54.319><c> a</c><00:07:54.479><c> shortcut</c>
+
+00:07:54.869 --> 00:07:54.879 align:start position:0%
+to start the server. I've got a shortcut
+ 
+
+00:07:54.879 --> 00:07:56.110 align:start position:0%
+to start the server. I've got a shortcut
+for
+
+00:07:56.110 --> 00:07:56.120 align:start position:0%
+for
+ 
+
+00:07:56.120 --> 00:07:58.390 align:start position:0%
+for
+that.<00:07:57.120><c> All</c><00:07:57.199><c> right.</c><00:07:57.440><c> So,</c><00:07:57.599><c> I'm</c><00:07:57.840><c> going</c><00:07:57.919><c> to</c><00:07:58.160><c> sign</c>
+
+00:07:58.390 --> 00:07:58.400 align:start position:0%
+that. All right. So, I'm going to sign
+ 
+
+00:07:58.400 --> 00:08:01.550 align:start position:0%
+that. All right. So, I'm going to sign
+up<00:07:58.560><c> for</c><00:07:58.879><c> my</c>
+
+00:08:01.550 --> 00:08:01.560 align:start position:0%
+ 
+ 
+
+00:08:01.560 --> 00:08:03.830 align:start position:0%
+ 
+account<00:08:02.560><c> and</c><00:08:02.879><c> I'm</c><00:08:03.120><c> dropped</c><00:08:03.440><c> into</c><00:08:03.680><c> the</c>
+
+00:08:03.830 --> 00:08:03.840 align:start position:0%
+account and I'm dropped into the
+ 
+
+00:08:03.840 --> 00:08:06.309 align:start position:0%
+account and I'm dropped into the
+application.<00:08:04.720><c> This</c><00:08:04.960><c> is</c><00:08:05.120><c> our</c><00:08:05.440><c> application</c>
+
+00:08:06.309 --> 00:08:06.319 align:start position:0%
+application. This is our application
+ 
+
+00:08:06.319 --> 00:08:07.589 align:start position:0%
+application. This is our application
+layout<00:08:06.560><c> and</c><00:08:06.800><c> we</c><00:08:06.960><c> have</c><00:08:07.039><c> a</c><00:08:07.199><c> few</c><00:08:07.360><c> different</c>
+
+00:08:07.589 --> 00:08:07.599 align:start position:0%
+layout and we have a few different
+ 
+
+00:08:07.599 --> 00:08:08.710 align:start position:0%
+layout and we have a few different
+layouts<00:08:07.840><c> that</c><00:08:08.000><c> we</c><00:08:08.160><c> can</c><00:08:08.240><c> install</c><00:08:08.560><c> with</c>
+
+00:08:08.710 --> 00:08:08.720 align:start position:0%
+layouts that we can install with
+ 
+
+00:08:08.720 --> 00:08:10.230 align:start position:0%
+layouts that we can install with
+instrumental<00:08:09.280><c> components,</c><00:08:09.680><c> but</c><00:08:09.840><c> this</c><00:08:10.000><c> is</c><00:08:10.080><c> the</c>
+
+00:08:10.230 --> 00:08:10.240 align:start position:0%
+instrumental components, but this is the
+ 
+
+00:08:10.240 --> 00:08:13.710 align:start position:0%
+instrumental components, but this is the
+one<00:08:10.400><c> that</c><00:08:10.639><c> came</c><00:08:11.280><c> with</c><00:08:11.680><c> our</c><00:08:12.240><c> uh</c><00:08:12.560><c> our</c><00:08:12.879><c> early</c>
+
+00:08:13.710 --> 00:08:13.720 align:start position:0%
+one that came with our uh our early
+ 
+
+00:08:13.720 --> 00:08:15.909 align:start position:0%
+one that came with our uh our early
+installations.<00:08:14.720><c> Up</c><00:08:14.960><c> here,</c><00:08:15.120><c> I've</c><00:08:15.520><c> I</c><00:08:15.680><c> have</c><00:08:15.759><c> a</c>
+
+00:08:15.909 --> 00:08:15.919 align:start position:0%
+installations. Up here, I've I have a
+ 
+
+00:08:15.919 --> 00:08:18.150 align:start position:0%
+installations. Up here, I've I have a
+user<00:08:16.240><c> menu.</c><00:08:16.800><c> I've</c><00:08:17.039><c> got</c><00:08:17.120><c> my</c><00:08:17.360><c> account</c><00:08:17.680><c> settings.</c>
+
+00:08:18.150 --> 00:08:18.160 align:start position:0%
+user menu. I've got my account settings.
+ 
+
+00:08:18.160 --> 00:08:20.270 align:start position:0%
+user menu. I've got my account settings.
+I've<00:08:18.400><c> got</c><00:08:18.560><c> my</c><00:08:18.720><c> user</c><00:08:19.120><c> profile</c><00:08:19.680><c> settings,</c>
+
+00:08:20.270 --> 00:08:20.280 align:start position:0%
+I've got my user profile settings,
+ 
+
+00:08:20.280 --> 00:08:23.270 align:start position:0%
+I've got my user profile settings,
+password.<00:08:21.280><c> Here</c><00:08:21.520><c> is</c><00:08:21.759><c> my</c><00:08:22.160><c> team</c><00:08:22.560><c> section.</c><00:08:22.879><c> So,</c><00:08:23.120><c> I</c>
+
+00:08:23.270 --> 00:08:23.280 align:start position:0%
+password. Here is my team section. So, I
+ 
+
+00:08:23.280 --> 00:08:25.350 align:start position:0%
+password. Here is my team section. So, I
+can<00:08:23.440><c> actually</c><00:08:23.919><c> uh</c><00:08:24.080><c> send</c><00:08:24.319><c> an</c><00:08:24.560><c> invite</c><00:08:24.879><c> to</c><00:08:25.120><c> other</c>
+
+00:08:25.350 --> 00:08:25.360 align:start position:0%
+can actually uh send an invite to other
+ 
+
+00:08:25.360 --> 00:08:27.189 align:start position:0%
+can actually uh send an invite to other
+team<00:08:25.599><c> members</c><00:08:25.759><c> and</c><00:08:26.000><c> give</c><00:08:26.160><c> them</c><00:08:26.319><c> another</c><00:08:26.639><c> role.</c>
+
+00:08:27.189 --> 00:08:27.199 align:start position:0%
+team members and give them another role.
+ 
+
+00:08:27.199 --> 00:08:29.029 align:start position:0%
+team members and give them another role.
+The<00:08:27.440><c> the</c><00:08:27.759><c> mailers</c><00:08:28.240><c> are</c><00:08:28.319><c> all</c><00:08:28.479><c> wired</c><00:08:28.800><c> up</c><00:08:28.879><c> for</c>
+
+00:08:29.029 --> 00:08:29.039 align:start position:0%
+The the mailers are all wired up for
+ 
+
+00:08:29.039 --> 00:08:30.790 align:start position:0%
+The the mailers are all wired up for
+that.<00:08:29.199><c> So,</c><00:08:29.360><c> they</c><00:08:29.599><c> receive</c><00:08:29.919><c> an</c><00:08:30.160><c> email,</c><00:08:30.560><c> they</c>
+
+00:08:30.790 --> 00:08:30.800 align:start position:0%
+that. So, they receive an email, they
+ 
+
+00:08:30.800 --> 00:08:32.469 align:start position:0%
+that. So, they receive an email, they
+accept<00:08:31.039><c> the</c><00:08:31.280><c> invite,</c><00:08:31.680><c> then</c><00:08:31.840><c> they</c><00:08:31.919><c> have</c><00:08:32.000><c> a</c><00:08:32.159><c> flow</c>
+
+00:08:32.469 --> 00:08:32.479 align:start position:0%
+accept the invite, then they have a flow
+ 
+
+00:08:32.479 --> 00:08:34.630 align:start position:0%
+accept the invite, then they have a flow
+for<00:08:32.640><c> them</c><00:08:32.800><c> to</c><00:08:32.959><c> come</c><00:08:33.039><c> in.</c><00:08:34.000><c> I</c><00:08:34.240><c> can</c><00:08:34.399><c> add</c>
+
+00:08:34.630 --> 00:08:34.640 align:start position:0%
+for them to come in. I can add
+ 
+
+00:08:34.640 --> 00:08:36.230 align:start position:0%
+for them to come in. I can add
+additional<00:08:35.039><c> accounts</c><00:08:35.360><c> and</c><00:08:35.519><c> then</c><00:08:35.680><c> I</c><00:08:35.839><c> can</c><00:08:36.000><c> even</c>
+
+00:08:36.230 --> 00:08:36.240 align:start position:0%
+additional accounts and then I can even
+ 
+
+00:08:36.240 --> 00:08:38.389 align:start position:0%
+additional accounts and then I can even
+have<00:08:36.479><c> like</c><00:08:36.640><c> an</c><00:08:36.880><c> account</c><00:08:37.120><c> switcher</c><00:08:37.599><c> up</c><00:08:37.760><c> here.</c>
+
+00:08:38.389 --> 00:08:38.399 align:start position:0%
+have like an account switcher up here.
+ 
+
+00:08:38.399 --> 00:08:40.389 align:start position:0%
+have like an account switcher up here.
+So<00:08:38.640><c> all</c><00:08:38.800><c> of</c><00:08:38.880><c> that</c><00:08:39.120><c> is</c><00:08:39.279><c> now</c><00:08:39.519><c> installed</c><00:08:39.919><c> into</c><00:08:40.159><c> my</c>
+
+00:08:40.389 --> 00:08:40.399 align:start position:0%
+So all of that is now installed into my
+ 
+
+00:08:40.399 --> 00:08:42.630 align:start position:0%
+So all of that is now installed into my
+project.<00:08:41.120><c> Good</c><00:08:41.279><c> to</c><00:08:41.519><c> go.</c><00:08:42.000><c> All</c><00:08:42.080><c> right.</c><00:08:42.320><c> The</c><00:08:42.479><c> next</c>
+
+00:08:42.630 --> 00:08:42.640 align:start position:0%
+project. Good to go. All right. The next
+ 
+
+00:08:42.640 --> 00:08:45.030 align:start position:0%
+project. Good to go. All right. The next
+thing<00:08:42.719><c> I</c><00:08:42.959><c> want</c><00:08:43.120><c> is</c><00:08:43.360><c> an</c><00:08:43.599><c> admin</c><00:08:44.240><c> dashboard</c><00:08:44.800><c> where</c>
+
+00:08:45.030 --> 00:08:45.040 align:start position:0%
+thing I want is an admin dashboard where
+ 
+
+00:08:45.040 --> 00:08:47.509 align:start position:0%
+thing I want is an admin dashboard where
+I<00:08:45.360><c> can</c><00:08:45.519><c> manage</c><00:08:45.920><c> things</c><00:08:46.080><c> on</c><00:08:46.320><c> the</c><00:08:46.480><c> back</c><00:08:46.720><c> end</c><00:08:47.040><c> like</c>
+
+00:08:47.509 --> 00:08:47.519 align:start position:0%
+I can manage things on the back end like
+ 
+
+00:08:47.519 --> 00:08:50.389 align:start position:0%
+I can manage things on the back end like
+users,<00:08:48.080><c> accounts,</c><00:08:48.880><c> and</c><00:08:49.200><c> later</c><00:08:49.440><c> on</c><00:08:49.839><c> managing</c>
+
+00:08:50.389 --> 00:08:50.399 align:start position:0%
+users, accounts, and later on managing
+ 
+
+00:08:50.399 --> 00:08:52.470 align:start position:0%
+users, accounts, and later on managing
+products<00:08:50.720><c> and</c><00:08:50.959><c> things</c><00:08:51.120><c> for</c><00:08:51.440><c> my</c><00:08:51.760><c> product.</c><00:08:52.320><c> So</c>
+
+00:08:52.470 --> 00:08:52.480 align:start position:0%
+products and things for my product. So
+ 
+
+00:08:52.480 --> 00:08:54.310 align:start position:0%
+products and things for my product. So
+let's<00:08:52.720><c> stop</c><00:08:52.880><c> the</c><00:08:53.120><c> server.</c><00:08:53.519><c> I'm</c><00:08:53.760><c> going</c><00:08:53.839><c> to</c><00:08:54.080><c> do</c>
+
+00:08:54.310 --> 00:08:54.320 align:start position:0%
+let's stop the server. I'm going to do
+ 
+
+00:08:54.320 --> 00:08:58.070 align:start position:0%
+let's stop the server. I'm going to do
+Rails<00:08:54.959><c> G</c><00:08:55.720><c> instrumental</c><00:08:56.720><c> admin.</c><00:08:57.519><c> Let's</c><00:08:57.760><c> use</c>
+
+00:08:58.070 --> 00:08:58.080 align:start position:0%
+Rails G instrumental admin. Let's use
+ 
+
+00:08:58.080 --> 00:08:59.430 align:start position:0%
+Rails G instrumental admin. Let's use
+fast<00:08:58.399><c> mode.</c><00:08:58.720><c> Actually,</c><00:08:59.040><c> you</c><00:08:59.200><c> know</c><00:08:59.200><c> what?</c>
+
+00:08:59.430 --> 00:08:59.440 align:start position:0%
+fast mode. Actually, you know what?
+ 
+
+00:08:59.440 --> 00:09:01.670 align:start position:0%
+fast mode. Actually, you know what?
+Instead<00:08:59.760><c> of</c><00:09:00.480><c> instead</c><00:09:00.880><c> of</c><00:09:00.959><c> manually</c><00:09:01.440><c> adding</c>
+
+00:09:01.670 --> 00:09:01.680 align:start position:0%
+Instead of instead of manually adding
+ 
+
+00:09:01.680 --> 00:09:03.710 align:start position:0%
+Instead of instead of manually adding
+that<00:09:01.920><c> every</c><00:09:02.240><c> time,</c><00:09:02.640><c> I'm</c><00:09:02.800><c> going</c><00:09:02.880><c> to</c><00:09:02.959><c> go</c><00:09:03.120><c> into</c><00:09:03.360><c> my</c>
+
+00:09:03.710 --> 00:09:03.720 align:start position:0%
+that every time, I'm going to go into my
+ 
+
+00:09:03.720 --> 00:09:07.030 align:start position:0%
+that every time, I'm going to go into my
+config,<00:09:04.720><c> go</c><00:09:04.880><c> into</c><00:09:05.120><c> instrumental</c><00:09:06.000><c> YAML,</c><00:09:06.720><c> and</c>
+
+00:09:07.030 --> 00:09:07.040 align:start position:0%
+config, go into instrumental YAML, and
+ 
+
+00:09:07.040 --> 00:09:09.030 align:start position:0%
+config, go into instrumental YAML, and
+these<00:09:07.360><c> are</c><00:09:07.440><c> the</c><00:09:07.680><c> configuration</c><00:09:08.240><c> options</c><00:09:08.720><c> for</c>
+
+00:09:09.030 --> 00:09:09.040 align:start position:0%
+these are the configuration options for
+ 
+
+00:09:09.040 --> 00:09:11.350 align:start position:0%
+these are the configuration options for
+how<00:09:09.360><c> your</c><00:09:09.600><c> instrumental</c><00:09:10.240><c> components</c><00:09:10.880><c> work.</c>
+
+00:09:11.350 --> 00:09:11.360 align:start position:0%
+how your instrumental components work.
+ 
+
+00:09:11.360 --> 00:09:12.790 align:start position:0%
+how your instrumental components work.
+So<00:09:11.519><c> the</c><00:09:11.760><c> first</c><00:09:11.839><c> thing</c><00:09:12.000><c> is</c><00:09:12.160><c> I'm</c><00:09:12.320><c> going</c><00:09:12.399><c> to</c><00:09:12.560><c> turn</c>
+
+00:09:12.790 --> 00:09:12.800 align:start position:0%
+So the first thing is I'm going to turn
+ 
+
+00:09:12.800 --> 00:09:15.910 align:start position:0%
+So the first thing is I'm going to turn
+fast<00:09:13.120><c> mode</c><00:09:13.440><c> to</c><00:09:13.800><c> true.</c><00:09:14.800><c> So</c><00:09:15.040><c> it</c><00:09:15.200><c> just</c><00:09:15.360><c> uses</c><00:09:15.680><c> that</c>
+
+00:09:15.910 --> 00:09:15.920 align:start position:0%
+fast mode to true. So it just uses that
+ 
+
+00:09:15.920 --> 00:09:17.750 align:start position:0%
+fast mode to true. So it just uses that
+every<00:09:16.240><c> single</c><00:09:16.560><c> time.</c><00:09:17.040><c> Now,</c><00:09:17.279><c> while</c><00:09:17.440><c> I'm</c><00:09:17.600><c> here,</c>
+
+00:09:17.750 --> 00:09:17.760 align:start position:0%
+every single time. Now, while I'm here,
+ 
+
+00:09:17.760 --> 00:09:19.030 align:start position:0%
+every single time. Now, while I'm here,
+let<00:09:17.920><c> me</c><00:09:18.080><c> tell</c><00:09:18.160><c> you</c><00:09:18.320><c> about</c><00:09:18.399><c> the</c><00:09:18.640><c> prevent</c>
+
+00:09:19.030 --> 00:09:19.040 align:start position:0%
+let me tell you about the prevent
+ 
+
+00:09:19.040 --> 00:09:21.030 align:start position:0%
+let me tell you about the prevent
+overwrites<00:09:19.680><c> list.</c><00:09:20.160><c> you</c><00:09:20.320><c> know,</c><00:09:20.560><c> building</c><00:09:20.880><c> with</c>
+
+00:09:21.030 --> 00:09:21.040 align:start position:0%
+overwrites list. you know, building with
+ 
+
+00:09:21.040 --> 00:09:22.790 align:start position:0%
+overwrites list. you know, building with
+components.<00:09:21.760><c> What</c><00:09:22.000><c> typically</c><00:09:22.399><c> happens</c><00:09:22.640><c> is</c>
+
+00:09:22.790 --> 00:09:22.800 align:start position:0%
+components. What typically happens is
+ 
+
+00:09:22.800 --> 00:09:24.470 align:start position:0%
+components. What typically happens is
+you'll<00:09:23.040><c> install</c><00:09:23.360><c> some</c><00:09:23.600><c> components</c><00:09:24.160><c> and</c><00:09:24.320><c> then</c>
+
+00:09:24.470 --> 00:09:24.480 align:start position:0%
+you'll install some components and then
+ 
+
+00:09:24.480 --> 00:09:25.829 align:start position:0%
+you'll install some components and then
+you'll<00:09:24.640><c> go</c><00:09:24.800><c> into</c><00:09:24.959><c> the</c><00:09:25.120><c> components</c><00:09:25.440><c> themselves</c>
+
+00:09:25.829 --> 00:09:25.839 align:start position:0%
+you'll go into the components themselves
+ 
+
+00:09:25.839 --> 00:09:27.750 align:start position:0%
+you'll go into the components themselves
+and<00:09:26.080><c> customize</c><00:09:26.560><c> them</c><00:09:26.720><c> and</c><00:09:27.040><c> actually</c><00:09:27.360><c> adapt</c>
+
+00:09:27.750 --> 00:09:27.760 align:start position:0%
+and customize them and actually adapt
+ 
+
+00:09:27.760 --> 00:09:30.230 align:start position:0%
+and customize them and actually adapt
+them<00:09:28.000><c> to</c><00:09:28.160><c> your</c><00:09:28.480><c> project.</c><00:09:29.360><c> So,</c><00:09:29.760><c> as</c><00:09:30.000><c> we're</c>
+
+00:09:30.230 --> 00:09:30.240 align:start position:0%
+them to your project. So, as we're
+ 
+
+00:09:30.240 --> 00:09:31.910 align:start position:0%
+them to your project. So, as we're
+installing<00:09:30.720><c> lots</c><00:09:31.040><c> of</c><00:09:31.120><c> components</c><00:09:31.600><c> and</c>
+
+00:09:31.910 --> 00:09:31.920 align:start position:0%
+installing lots of components and
+ 
+
+00:09:31.920 --> 00:09:34.310 align:start position:0%
+installing lots of components and
+reinstalling<00:09:32.640><c> and</c><00:09:32.880><c> updating</c><00:09:33.440><c> components,</c>
+
+00:09:34.310 --> 00:09:34.320 align:start position:0%
+reinstalling and updating components,
+ 
+
+00:09:34.320 --> 00:09:35.509 align:start position:0%
+reinstalling and updating components,
+you<00:09:34.480><c> want</c><00:09:34.640><c> to</c><00:09:34.720><c> be</c><00:09:34.800><c> sure</c><00:09:34.959><c> that</c><00:09:35.120><c> you're</c><00:09:35.279><c> not</c>
+
+00:09:35.509 --> 00:09:35.519 align:start position:0%
+you want to be sure that you're not
+ 
+
+00:09:35.519 --> 00:09:37.829 align:start position:0%
+you want to be sure that you're not
+overwriting<00:09:36.320><c> your</c><00:09:36.680><c> customizations.</c><00:09:37.680><c> So,</c>
+
+00:09:37.829 --> 00:09:37.839 align:start position:0%
+overwriting your customizations. So,
+ 
+
+00:09:37.839 --> 00:09:39.750 align:start position:0%
+overwriting your customizations. So,
+that's<00:09:38.080><c> where</c><00:09:38.240><c> the</c><00:09:38.480><c> prevent</c><00:09:38.880><c> overwrites</c><00:09:39.519><c> list</c>
+
+00:09:39.750 --> 00:09:39.760 align:start position:0%
+that's where the prevent overwrites list
+ 
+
+00:09:39.760 --> 00:09:41.590 align:start position:0%
+that's where the prevent overwrites list
+comes<00:09:40.000><c> in.</c><00:09:40.480><c> You</c><00:09:40.640><c> can</c><00:09:40.720><c> just</c><00:09:40.959><c> list</c><00:09:41.200><c> out</c><00:09:41.360><c> the</c>
+
+00:09:41.590 --> 00:09:41.600 align:start position:0%
+comes in. You can just list out the
+ 
+
+00:09:41.600 --> 00:09:43.590 align:start position:0%
+comes in. You can just list out the
+files<00:09:42.080><c> in</c><00:09:42.320><c> your</c><00:09:42.560><c> project</c><00:09:42.880><c> that</c><00:09:43.200><c> you've</c><00:09:43.440><c> made</c>
+
+00:09:43.590 --> 00:09:43.600 align:start position:0%
+files in your project that you've made
+ 
+
+00:09:43.600 --> 00:09:45.350 align:start position:0%
+files in your project that you've made
+some<00:09:43.839><c> customizations</c><00:09:44.480><c> to</c><00:09:44.800><c> or</c><00:09:45.040><c> that</c><00:09:45.200><c> are</c>
+
+00:09:45.350 --> 00:09:45.360 align:start position:0%
+some customizations to or that are
+ 
+
+00:09:45.360 --> 00:09:46.630 align:start position:0%
+some customizations to or that are
+really<00:09:45.600><c> important</c><00:09:45.839><c> that</c><00:09:46.080><c> you</c><00:09:46.240><c> don't</c><00:09:46.399><c> want</c><00:09:46.480><c> to</c>
+
+00:09:46.630 --> 00:09:46.640 align:start position:0%
+really important that you don't want to
+ 
+
+00:09:46.640 --> 00:09:48.550 align:start position:0%
+really important that you don't want to
+overwrite<00:09:47.279><c> and</c><00:09:47.519><c> we</c><00:09:47.680><c> will</c><00:09:47.920><c> prevent</c><00:09:48.320><c> the</c>
+
+00:09:48.550 --> 00:09:48.560 align:start position:0%
+overwrite and we will prevent the
+ 
+
+00:09:48.560 --> 00:09:50.710 align:start position:0%
+overwrite and we will prevent the
+overwrites.<00:09:49.440><c> And</c><00:09:49.680><c> if</c><00:09:49.839><c> you</c><00:09:49.920><c> ever</c><00:09:50.080><c> need</c><00:09:50.240><c> to</c><00:09:50.399><c> grab</c>
+
+00:09:50.710 --> 00:09:50.720 align:start position:0%
+overwrites. And if you ever need to grab
+ 
+
+00:09:50.720 --> 00:09:52.630 align:start position:0%
+overwrites. And if you ever need to grab
+some<00:09:50.880><c> of</c><00:09:50.959><c> the</c><00:09:51.120><c> updated</c><00:09:51.600><c> code</c><00:09:51.839><c> from</c><00:09:52.160><c> the</c><00:09:52.320><c> new</c>
+
+00:09:52.630 --> 00:09:52.640 align:start position:0%
+some of the updated code from the new
+ 
+
+00:09:52.640 --> 00:09:54.150 align:start position:0%
+some of the updated code from the new
+improved<00:09:53.200><c> components</c><00:09:53.600><c> that</c><00:09:53.839><c> come</c><00:09:54.000><c> out</c>
+
+00:09:54.150 --> 00:09:54.160 align:start position:0%
+improved components that come out
+ 
+
+00:09:54.160 --> 00:09:55.590 align:start position:0%
+improved components that come out
+throughout<00:09:54.480><c> the</c><00:09:54.640><c> year,</c><00:09:55.040><c> you</c><00:09:55.200><c> can</c><00:09:55.279><c> always</c><00:09:55.519><c> go</c>
+
+00:09:55.590 --> 00:09:55.600 align:start position:0%
+throughout the year, you can always go
+ 
+
+00:09:55.600 --> 00:09:58.310 align:start position:0%
+throughout the year, you can always go
+into<00:09:55.839><c> our</c><00:09:56.080><c> starter</c><00:09:56.480><c> kit</c><00:09:56.959><c> and</c><00:09:57.279><c> find</c><00:09:57.519><c> the</c><00:09:57.839><c> PR</c><00:09:58.160><c> and</c>
+
+00:09:58.310 --> 00:09:58.320 align:start position:0%
+into our starter kit and find the PR and
+ 
+
+00:09:58.320 --> 00:10:00.470 align:start position:0%
+into our starter kit and find the PR and
+and<00:09:58.399><c> and</c><00:09:58.959><c> grab</c><00:09:59.200><c> the</c><00:09:59.440><c> individual</c><00:10:00.000><c> pieces</c><00:10:00.320><c> of</c>
+
+00:10:00.470 --> 00:10:00.480 align:start position:0%
+and and grab the individual pieces of
+ 
+
+00:10:00.480 --> 00:10:02.630 align:start position:0%
+and and grab the individual pieces of
+code<00:10:00.720><c> and</c><00:10:00.959><c> import</c><00:10:01.279><c> them</c><00:10:01.440><c> into</c><00:10:01.680><c> your</c><00:10:01.920><c> project.</c>
+
+00:10:02.630 --> 00:10:02.640 align:start position:0%
+code and import them into your project.
+ 
+
+00:10:02.640 --> 00:10:04.949 align:start position:0%
+code and import them into your project.
+Okay,<00:10:02.959><c> so</c><00:10:03.200><c> let's</c><00:10:03.440><c> go</c><00:10:03.600><c> ahead</c><00:10:03.920><c> and</c><00:10:04.399><c> get</c><00:10:04.640><c> our</c>
+
+00:10:04.949 --> 00:10:04.959 align:start position:0%
+Okay, so let's go ahead and get our
+ 
+
+00:10:04.959 --> 00:10:07.269 align:start position:0%
+Okay, so let's go ahead and get our
+admin<00:10:05.519><c> component</c><00:10:06.000><c> installed.</c><00:10:06.720><c> I'm</c><00:10:07.040><c> not</c><00:10:07.200><c> going</c>
+
+00:10:07.269 --> 00:10:07.279 align:start position:0%
+admin component installed. I'm not going
+ 
+
+00:10:07.279 --> 00:10:09.430 align:start position:0%
+admin component installed. I'm not going
+to<00:10:07.360><c> use</c><00:10:07.600><c> the</c><00:10:07.920><c> fast</c><00:10:08.480><c> flag</c><00:10:08.800><c> because</c><00:10:09.040><c> that</c><00:10:09.279><c> should</c>
+
+00:10:09.430 --> 00:10:09.440 align:start position:0%
+to use the fast flag because that should
+ 
+
+00:10:09.440 --> 00:10:12.070 align:start position:0%
+to use the fast flag because that should
+happen<00:10:10.120><c> automatically.</c><00:10:11.120><c> So</c><00:10:11.440><c> here</c><00:10:11.680><c> is</c><00:10:11.839><c> the</c>
+
+00:10:12.070 --> 00:10:12.080 align:start position:0%
+happen automatically. So here is the
+ 
+
+00:10:12.080 --> 00:10:14.790 align:start position:0%
+happen automatically. So here is the
+overview.<00:10:12.959><c> the</c><00:10:13.279><c> admin</c><00:10:13.760><c> component</c><00:10:14.320><c> plus</c><00:10:14.560><c> a</c>
+
+00:10:14.790 --> 00:10:14.800 align:start position:0%
+overview. the admin component plus a
+ 
+
+00:10:14.800 --> 00:10:16.230 align:start position:0%
+overview. the admin component plus a
+plus<00:10:15.120><c> two</c><00:10:15.360><c> new</c><00:10:15.600><c> components</c><00:10:15.920><c> will</c><00:10:16.160><c> be</c>
+
+00:10:16.230 --> 00:10:16.240 align:start position:0%
+plus two new components will be
+ 
+
+00:10:16.240 --> 00:10:18.150 align:start position:0%
+plus two new components will be
+installed<00:10:16.720><c> and</c><00:10:16.959><c> it</c><00:10:17.120><c> uses</c><00:10:17.519><c> 12</c><00:10:17.839><c> other</c>
+
+00:10:18.150 --> 00:10:18.160 align:start position:0%
+installed and it uses 12 other
+ 
+
+00:10:18.160 --> 00:10:19.829 align:start position:0%
+installed and it uses 12 other
+components<00:10:18.560><c> that</c><00:10:18.720><c> we</c><00:10:18.959><c> already</c><00:10:19.279><c> have</c>
+
+00:10:19.829 --> 00:10:19.839 align:start position:0%
+components that we already have
+ 
+
+00:10:19.839 --> 00:10:22.630 align:start position:0%
+components that we already have
+including<00:10:20.320><c> buttons,</c><00:10:20.959><c> icons,</c><00:10:21.640><c> breadcrumbs,</c>
+
+00:10:22.630 --> 00:10:22.640 align:start position:0%
+including buttons, icons, breadcrumbs,
+ 
+
+00:10:22.640 --> 00:10:25.030 align:start position:0%
+including buttons, icons, breadcrumbs,
+logo,<00:10:23.279><c> toggle,</c><00:10:24.160><c> and</c><00:10:24.480><c> you</c><00:10:24.640><c> know,</c><00:10:24.720><c> a</c><00:10:24.800><c> bunch</c><00:10:24.959><c> of</c>
+
+00:10:25.030 --> 00:10:25.040 align:start position:0%
+logo, toggle, and you know, a bunch of
+ 
+
+00:10:25.040 --> 00:10:26.550 align:start position:0%
+logo, toggle, and you know, a bunch of
+other<00:10:25.279><c> stuff.</c><00:10:25.519><c> Okay,</c><00:10:25.839><c> so</c><00:10:26.000><c> we're</c><00:10:26.240><c> going</c><00:10:26.320><c> to</c>
+
+00:10:26.550 --> 00:10:26.560 align:start position:0%
+other stuff. Okay, so we're going to
+ 
+
+00:10:26.560 --> 00:10:29.430 align:start position:0%
+other stuff. Okay, so we're going to
+proceed<00:10:27.519><c> and</c><00:10:27.839><c> that's</c><00:10:28.160><c> all</c><00:10:28.480><c> done.</c><00:10:28.800><c> So</c><00:10:29.040><c> now</c><00:10:29.200><c> we</c>
+
+00:10:29.430 --> 00:10:29.440 align:start position:0%
+proceed and that's all done. So now we
+ 
+
+00:10:29.440 --> 00:10:31.430 align:start position:0%
+proceed and that's all done. So now we
+have<00:10:29.680><c> our</c><00:10:30.000><c> recap.</c><00:10:30.720><c> Bunch</c><00:10:30.880><c> of</c><00:10:31.040><c> files</c><00:10:31.279><c> were</c>
+
+00:10:31.430 --> 00:10:31.440 align:start position:0%
+have our recap. Bunch of files were
+ 
+
+00:10:31.440 --> 00:10:33.190 align:start position:0%
+have our recap. Bunch of files were
+overwritten<00:10:32.000><c> because</c><00:10:32.240><c> they</c><00:10:32.399><c> were</c><00:10:32.560><c> not</c><00:10:32.720><c> in</c><00:10:32.880><c> our</c>
+
+00:10:33.190 --> 00:10:33.200 align:start position:0%
+overwritten because they were not in our
+ 
+
+00:10:33.200 --> 00:10:35.670 align:start position:0%
+overwritten because they were not in our
+skip<00:10:33.519><c> overwrites</c><00:10:34.079><c> list.</c><00:10:34.560><c> That's</c><00:10:34.880><c> okay.</c><00:10:35.440><c> We</c>
+
+00:10:35.670 --> 00:10:35.680 align:start position:0%
+skip overwrites list. That's okay. We
+ 
+
+00:10:35.680 --> 00:10:38.150 align:start position:0%
+skip overwrites list. That's okay. We
+inserted<00:10:36.160><c> some</c><00:10:36.399><c> code</c><00:10:36.800><c> into</c><00:10:37.440><c> things</c><00:10:37.680><c> like</c><00:10:37.839><c> our</c>
+
+00:10:38.150 --> 00:10:38.160 align:start position:0%
+inserted some code into things like our
+ 
+
+00:10:38.160 --> 00:10:39.670 align:start position:0%
+inserted some code into things like our
+application<00:10:38.640><c> controller</c><00:10:39.120><c> and</c><00:10:39.360><c> a</c><00:10:39.519><c> couple</c>
+
+00:10:39.670 --> 00:10:39.680 align:start position:0%
+application controller and a couple
+ 
+
+00:10:39.680 --> 00:10:42.550 align:start position:0%
+application controller and a couple
+other<00:10:39.920><c> places.</c><00:10:40.800><c> And</c><00:10:40.959><c> we</c><00:10:41.200><c> did</c><00:10:41.440><c> add</c><00:10:41.680><c> a</c><00:10:42.000><c> migration</c>
+
+00:10:42.550 --> 00:10:42.560 align:start position:0%
+other places. And we did add a migration
+ 
+
+00:10:42.560 --> 00:10:44.230 align:start position:0%
+other places. And we did add a migration
+and<00:10:42.800><c> a</c><00:10:42.959><c> couple</c><00:10:43.040><c> of</c><00:10:43.200><c> routes.</c><00:10:43.680><c> We'll</c><00:10:43.920><c> run</c><00:10:44.079><c> the</c>
+
+00:10:44.230 --> 00:10:44.240 align:start position:0%
+and a couple of routes. We'll run the
+ 
+
+00:10:44.240 --> 00:10:46.389 align:start position:0%
+and a couple of routes. We'll run the
+migration.<00:10:45.040><c> Now,</c><00:10:45.279><c> in</c><00:10:45.519><c> order</c><00:10:45.680><c> to</c><00:10:45.839><c> actually</c><00:10:46.160><c> use</c>
+
+00:10:46.389 --> 00:10:46.399 align:start position:0%
+migration. Now, in order to actually use
+ 
+
+00:10:46.399 --> 00:10:47.829 align:start position:0%
+migration. Now, in order to actually use
+the<00:10:46.560><c> admin</c><00:10:46.959><c> panel</c><00:10:47.200><c> that</c><00:10:47.440><c> we've</c><00:10:47.680><c> just</c>
+
+00:10:47.829 --> 00:10:47.839 align:start position:0%
+the admin panel that we've just
+ 
+
+00:10:47.839 --> 00:10:50.710 align:start position:0%
+the admin panel that we've just
+installed,<00:10:48.320><c> I</c><00:10:48.560><c> have</c><00:10:48.640><c> to</c><00:10:48.800><c> make</c><00:10:49.440><c> my</c><00:10:49.920><c> user</c><00:10:50.399><c> an</c>
+
+00:10:50.710 --> 00:10:50.720 align:start position:0%
+installed, I have to make my user an
+ 
+
+00:10:50.720 --> 00:10:52.550 align:start position:0%
+installed, I have to make my user an
+admin.<00:10:51.519><c> That's</c><00:10:51.680><c> like,</c><00:10:51.920><c> think</c><00:10:52.079><c> of</c><00:10:52.160><c> it</c><00:10:52.320><c> like</c><00:10:52.399><c> a</c>
+
+00:10:52.550 --> 00:10:52.560 align:start position:0%
+admin. That's like, think of it like a
+ 
+
+00:10:52.560 --> 00:10:54.710 align:start position:0%
+admin. That's like, think of it like a
+super<00:10:52.880><c> admin</c><00:10:53.279><c> in</c><00:10:53.440><c> your</c><00:10:53.680><c> application.</c><00:10:54.399><c> That</c>
+
+00:10:54.710 --> 00:10:54.720 align:start position:0%
+super admin in your application. That
+ 
+
+00:10:54.720 --> 00:10:56.310 align:start position:0%
+super admin in your application. That
+happens<00:10:54.959><c> directly</c><00:10:55.360><c> in</c><00:10:55.600><c> your</c><00:10:55.760><c> database.</c><00:10:56.160><c> So,</c>
+
+00:10:56.310 --> 00:10:56.320 align:start position:0%
+happens directly in your database. So,
+ 
+
+00:10:56.320 --> 00:10:58.470 align:start position:0%
+happens directly in your database. So,
+you<00:10:56.480><c> could</c><00:10:56.640><c> do</c><00:10:56.800><c> that</c><00:10:57.120><c> in</c><00:10:57.440><c> Rails</c><00:10:57.839><c> console</c><00:10:58.160><c> or</c><00:10:58.320><c> I</c>
+
+00:10:58.470 --> 00:10:58.480 align:start position:0%
+you could do that in Rails console or I
+ 
+
+00:10:58.480 --> 00:11:00.389 align:start position:0%
+you could do that in Rails console or I
+like<00:10:58.640><c> to</c><00:10:58.720><c> use</c><00:10:58.959><c> table</c><00:10:59.360><c> plus</c><00:10:59.600><c> on</c><00:10:59.839><c> Mac</c><00:11:00.000><c> and</c><00:11:00.160><c> I</c><00:11:00.320><c> have</c>
+
+00:11:00.389 --> 00:11:00.399 align:start position:0%
+like to use table plus on Mac and I have
+ 
+
+00:11:00.399 --> 00:11:02.870 align:start position:0%
+like to use table plus on Mac and I have
+a<00:11:00.560><c> shortcut</c><00:11:00.880><c> to</c><00:11:01.120><c> launch</c><00:11:01.360><c> it.</c><00:11:02.000><c> Um,</c><00:11:02.320><c> and</c><00:11:02.480><c> so</c><00:11:02.640><c> I'm</c>
+
+00:11:02.870 --> 00:11:02.880 align:start position:0%
+a shortcut to launch it. Um, and so I'm
+ 
+
+00:11:02.880 --> 00:11:04.550 align:start position:0%
+a shortcut to launch it. Um, and so I'm
+going<00:11:02.959><c> to</c><00:11:03.120><c> go</c><00:11:03.279><c> into</c><00:11:03.440><c> my</c><00:11:03.600><c> user</c><00:11:03.920><c> record</c><00:11:04.240><c> that</c><00:11:04.399><c> I</c>
+
+00:11:04.550 --> 00:11:04.560 align:start position:0%
+going to go into my user record that I
+ 
+
+00:11:04.560 --> 00:11:06.470 align:start position:0%
+going to go into my user record that I
+had<00:11:04.720><c> registered</c><00:11:05.200><c> earlier</c><00:11:05.680><c> and</c><00:11:06.079><c> we're</c><00:11:06.399><c> going</c>
+
+00:11:06.470 --> 00:11:06.480 align:start position:0%
+had registered earlier and we're going
+ 
+
+00:11:06.480 --> 00:11:09.670 align:start position:0%
+had registered earlier and we're going
+to<00:11:06.720><c> change</c><00:11:06.959><c> this</c><00:11:07.279><c> admin</c><00:11:08.160><c> flag</c><00:11:08.560><c> to</c><00:11:08.880><c> true.</c><00:11:09.440><c> and</c>
+
+00:11:09.670 --> 00:11:09.680 align:start position:0%
+to change this admin flag to true. and
+ 
+
+00:11:09.680 --> 00:11:12.269 align:start position:0%
+to change this admin flag to true. and
+I'll<00:11:09.920><c> restart</c><00:11:10.240><c> the</c>
+
+00:11:12.269 --> 00:11:12.279 align:start position:0%
+I'll restart the
+ 
+
+00:11:12.279 --> 00:11:14.790 align:start position:0%
+I'll restart the
+server.<00:11:13.279><c> Okay,</c><00:11:13.680><c> so</c><00:11:13.920><c> now</c><00:11:14.079><c> that</c><00:11:14.320><c> I've</c><00:11:14.560><c> made</c>
+
+00:11:14.790 --> 00:11:14.800 align:start position:0%
+server. Okay, so now that I've made
+ 
+
+00:11:14.800 --> 00:11:16.710 align:start position:0%
+server. Okay, so now that I've made
+myself<00:11:15.120><c> an</c><00:11:15.360><c> admin,</c><00:11:15.760><c> that</c><00:11:15.920><c> gives</c><00:11:16.079><c> me</c><00:11:16.240><c> a</c><00:11:16.480><c> special</c>
+
+00:11:16.710 --> 00:11:16.720 align:start position:0%
+myself an admin, that gives me a special
+ 
+
+00:11:16.720 --> 00:11:19.269 align:start position:0%
+myself an admin, that gives me a special
+link<00:11:17.120><c> here.</c><00:11:17.839><c> All</c><00:11:17.839><c> right,</c><00:11:18.000><c> so</c><00:11:18.240><c> here</c><00:11:18.399><c> I</c><00:11:18.560><c> am</c><00:11:18.720><c> in</c><00:11:18.959><c> my</c>
+
+00:11:19.269 --> 00:11:19.279 align:start position:0%
+link here. All right, so here I am in my
+ 
+
+00:11:19.279 --> 00:11:22.230 align:start position:0%
+link here. All right, so here I am in my
+backend<00:11:19.839><c> admin</c><00:11:20.320><c> panel</c><00:11:20.720><c> for</c><00:11:21.040><c> my</c><00:11:21.440><c> product.</c><00:11:22.000><c> It</c>
+
+00:11:22.230 --> 00:11:22.240 align:start position:0%
+backend admin panel for my product. It
+ 
+
+00:11:22.240 --> 00:11:23.990 align:start position:0%
+backend admin panel for my product. It
+uses<00:11:22.480><c> the</c><00:11:22.720><c> secondary</c><00:11:23.200><c> color,</c><00:11:23.519><c> so</c><00:11:23.680><c> it's</c><00:11:23.839><c> a</c>
+
+00:11:23.990 --> 00:11:24.000 align:start position:0%
+uses the secondary color, so it's a
+ 
+
+00:11:24.000 --> 00:11:25.030 align:start position:0%
+uses the secondary color, so it's a
+little<00:11:24.079><c> bit</c><00:11:24.160><c> different</c><00:11:24.320><c> from</c><00:11:24.560><c> the</c><00:11:24.720><c> main</c>
+
+00:11:25.030 --> 00:11:25.040 align:start position:0%
+little bit different from the main
+ 
+
+00:11:25.040 --> 00:11:26.870 align:start position:0%
+little bit different from the main
+application.<00:11:25.760><c> So</c><00:11:25.839><c> I</c><00:11:26.079><c> know</c><00:11:26.240><c> that</c><00:11:26.399><c> I'm</c><00:11:26.560><c> here</c><00:11:26.720><c> in</c>
+
+00:11:26.870 --> 00:11:26.880 align:start position:0%
+application. So I know that I'm here in
+ 
+
+00:11:26.880 --> 00:11:29.670 align:start position:0%
+application. So I know that I'm here in
+the<00:11:27.040><c> admin.</c><00:11:27.680><c> Now,</c><00:11:28.079><c> out</c><00:11:28.320><c> of</c><00:11:28.399><c> the</c><00:11:28.560><c> box,</c><00:11:28.880><c> we</c><00:11:29.120><c> have,</c>
+
+00:11:29.670 --> 00:11:29.680 align:start position:0%
+the admin. Now, out of the box, we have,
+ 
+
+00:11:29.680 --> 00:11:31.110 align:start position:0%
+the admin. Now, out of the box, we have,
+you<00:11:29.760><c> know,</c><00:11:29.839><c> a</c><00:11:30.000><c> main</c><00:11:30.240><c> dashboard.</c><00:11:30.640><c> We</c><00:11:30.880><c> can</c><00:11:30.959><c> add</c>
+
+00:11:31.110 --> 00:11:31.120 align:start position:0%
+you know, a main dashboard. We can add
+ 
+
+00:11:31.120 --> 00:11:33.190 align:start position:0%
+you know, a main dashboard. We can add
+stuff<00:11:31.279><c> to</c><00:11:31.440><c> this</c><00:11:31.680><c> later.</c><00:11:32.240><c> I've</c><00:11:32.480><c> got</c><00:11:32.640><c> my</c><00:11:32.800><c> users</c>
+
+00:11:33.190 --> 00:11:33.200 align:start position:0%
+stuff to this later. I've got my users
+ 
+
+00:11:33.200 --> 00:11:35.269 align:start position:0%
+stuff to this later. I've got my users
+list<00:11:33.519><c> and</c><00:11:33.760><c> I've</c><00:11:33.920><c> got</c><00:11:34.079><c> my</c><00:11:34.240><c> accounts</c><00:11:34.640><c> list.</c><00:11:35.040><c> I</c>
+
+00:11:35.269 --> 00:11:35.279 align:start position:0%
+list and I've got my accounts list. I
+ 
+
+00:11:35.279 --> 00:11:37.350 align:start position:0%
+list and I've got my accounts list. I
+can<00:11:35.360><c> inspect</c><00:11:35.839><c> any</c><00:11:36.160><c> individual</c><00:11:36.640><c> account.</c><00:11:37.120><c> I</c>
+
+00:11:37.350 --> 00:11:37.360 align:start position:0%
+can inspect any individual account. I
+ 
+
+00:11:37.360 --> 00:11:39.509 align:start position:0%
+can inspect any individual account. I
+can<00:11:37.519><c> see</c><00:11:37.600><c> which</c><00:11:37.920><c> users</c><00:11:38.240><c> are</c><00:11:38.399><c> in</c><00:11:38.640><c> each</c><00:11:38.880><c> account.</c>
+
+00:11:39.509 --> 00:11:39.519 align:start position:0%
+can see which users are in each account.
+ 
+
+00:11:39.519 --> 00:11:41.269 align:start position:0%
+can see which users are in each account.
+And<00:11:39.760><c> this</c><00:11:39.920><c> one</c><00:11:40.160><c> happens</c><00:11:40.399><c> to</c><00:11:40.560><c> be</c><00:11:40.720><c> myself.</c><00:11:41.200><c> But</c>
+
+00:11:41.269 --> 00:11:41.279 align:start position:0%
+And this one happens to be myself. But
+ 
+
+00:11:41.279 --> 00:11:43.430 align:start position:0%
+And this one happens to be myself. But
+if<00:11:41.440><c> I</c><00:11:41.600><c> were</c><00:11:41.680><c> viewing</c><00:11:42.160><c> another</c><00:11:42.560><c> user,</c><00:11:43.120><c> we'd</c>
+
+00:11:43.430 --> 00:11:43.440 align:start position:0%
+if I were viewing another user, we'd
+ 
+
+00:11:43.440 --> 00:11:45.269 align:start position:0%
+if I were viewing another user, we'd
+have<00:11:43.519><c> a</c><00:11:43.680><c> button</c><00:11:44.000><c> here</c><00:11:44.160><c> and</c><00:11:44.399><c> I</c><00:11:44.560><c> can</c><00:11:44.720><c> impersonate</c>
+
+00:11:45.269 --> 00:11:45.279 align:start position:0%
+have a button here and I can impersonate
+ 
+
+00:11:45.279 --> 00:11:46.710 align:start position:0%
+have a button here and I can impersonate
+that<00:11:45.440><c> user.</c><00:11:45.760><c> That's</c><00:11:46.000><c> really</c><00:11:46.160><c> helpful</c><00:11:46.399><c> for</c>
+
+00:11:46.710 --> 00:11:46.720 align:start position:0%
+that user. That's really helpful for
+ 
+
+00:11:46.720 --> 00:11:48.710 align:start position:0%
+that user. That's really helpful for
+customer<00:11:47.120><c> support.</c><00:11:47.760><c> And</c><00:11:47.920><c> as</c><00:11:48.079><c> the</c><00:11:48.240><c> app</c><00:11:48.399><c> grows,</c>
+
+00:11:48.710 --> 00:11:48.720 align:start position:0%
+customer support. And as the app grows,
+ 
+
+00:11:48.720 --> 00:11:50.310 align:start position:0%
+customer support. And as the app grows,
+we<00:11:48.959><c> can</c><00:11:49.040><c> add</c><00:11:49.200><c> more</c><00:11:49.440><c> things</c><00:11:49.600><c> to</c><00:11:49.760><c> our</c><00:11:50.000><c> admin</c>
+
+00:11:50.310 --> 00:11:50.320 align:start position:0%
+we can add more things to our admin
+ 
+
+00:11:50.320 --> 00:11:52.550 align:start position:0%
+we can add more things to our admin
+dashboard<00:11:50.640><c> that</c><00:11:50.800><c> we</c><00:11:50.959><c> need</c><00:11:51.040><c> to</c><00:11:51.200><c> manage</c><00:11:51.760><c> like</c>
+
+00:11:52.550 --> 00:11:52.560 align:start position:0%
+dashboard that we need to manage like
+ 
+
+00:11:52.560 --> 00:11:54.470 align:start position:0%
+dashboard that we need to manage like
+commerce,<00:11:53.040><c> like</c><00:11:53.200><c> our</c><00:11:53.519><c> products</c><00:11:54.160><c> and</c>
+
+00:11:54.470 --> 00:11:54.480 align:start position:0%
+commerce, like our products and
+ 
+
+00:11:54.480 --> 00:11:56.550 align:start position:0%
+commerce, like our products and
+purchases<00:11:54.959><c> and</c><00:11:55.200><c> orders</c><00:11:55.600><c> and</c><00:11:55.920><c> subscriptions</c>
+
+00:11:56.550 --> 00:11:56.560 align:start position:0%
+purchases and orders and subscriptions
+ 
+
+00:11:56.560 --> 00:11:58.310 align:start position:0%
+purchases and orders and subscriptions
+and<00:11:56.880><c> customers.</c><00:11:57.600><c> And</c><00:11:57.760><c> that's</c><00:11:58.000><c> actually</c><00:11:58.160><c> what</c>
+
+00:11:58.310 --> 00:11:58.320 align:start position:0%
+and customers. And that's actually what
+ 
+
+00:11:58.320 --> 00:12:00.150 align:start position:0%
+and customers. And that's actually what
+we're<00:11:58.560><c> going</c><00:11:58.640><c> to</c><00:11:58.800><c> install</c><00:11:59.360><c> next.</c><00:11:59.839><c> Let's</c><00:12:00.079><c> get</c>
+
+00:12:00.150 --> 00:12:00.160 align:start position:0%
+we're going to install next. Let's get
+ 
+
+00:12:00.160 --> 00:12:02.150 align:start position:0%
+we're going to install next. Let's get
+into<00:12:00.399><c> it.</c><00:12:01.200><c> All</c><00:12:01.200><c> right.</c><00:12:01.519><c> I'm</c><00:12:01.680><c> going</c><00:12:01.839><c> to</c><00:12:02.000><c> stop</c>
+
+00:12:02.150 --> 00:12:02.160 align:start position:0%
+into it. All right. I'm going to stop
+ 
+
+00:12:02.160 --> 00:12:04.870 align:start position:0%
+into it. All right. I'm going to stop
+the<00:12:02.399><c> server.</c><00:12:02.959><c> And</c><00:12:03.200><c> now</c><00:12:03.360><c> I'm</c><00:12:03.600><c> going</c><00:12:03.680><c> to</c><00:12:04.000><c> install</c>
+
+00:12:04.870 --> 00:12:04.880 align:start position:0%
+the server. And now I'm going to install
+ 
+
+00:12:04.880 --> 00:12:07.030 align:start position:0%
+the server. And now I'm going to install
+instrumental<00:12:05.680><c> commerce.</c><00:12:06.240><c> That</c><00:12:06.560><c> is</c><00:12:06.720><c> our</c>
+
+00:12:07.030 --> 00:12:07.040 align:start position:0%
+instrumental commerce. That is our
+ 
+
+00:12:07.040 --> 00:12:09.190 align:start position:0%
+instrumental commerce. That is our
+Stripe<00:12:07.519><c> integration.</c><00:12:08.399><c> Let's</c><00:12:08.639><c> get</c><00:12:08.720><c> to</c><00:12:08.880><c> it.</c>
+
+00:12:09.190 --> 00:12:09.200 align:start position:0%
+Stripe integration. Let's get to it.
+ 
+
+00:12:09.200 --> 00:12:10.750 align:start position:0%
+Stripe integration. Let's get to it.
+Rails<00:12:09.839><c> G</c>
+
+00:12:10.750 --> 00:12:10.760 align:start position:0%
+Rails G
+ 
+
+00:12:10.760 --> 00:12:13.389 align:start position:0%
+Rails G
+instrumental
+
+00:12:13.389 --> 00:12:13.399 align:start position:0%
+instrumental
+ 
+
+00:12:13.399 --> 00:12:16.230 align:start position:0%
+instrumental
+commerce.<00:12:14.399><c> Okay,</c><00:12:14.800><c> so</c><00:12:15.360><c> this</c><00:12:15.519><c> one</c><00:12:15.760><c> is</c><00:12:15.920><c> going</c><00:12:16.079><c> to</c>
+
+00:12:16.230 --> 00:12:16.240 align:start position:0%
+commerce. Okay, so this one is going to
+ 
+
+00:12:16.240 --> 00:12:18.310 align:start position:0%
+commerce. Okay, so this one is going to
+install<00:12:16.639><c> a</c><00:12:16.880><c> couple</c><00:12:16.959><c> of</c><00:12:17.360><c> new</c><00:12:17.600><c> components,</c>
+
+00:12:18.310 --> 00:12:18.320 align:start position:0%
+install a couple of new components,
+ 
+
+00:12:18.320 --> 00:12:20.470 align:start position:0%
+install a couple of new components,
+including<00:12:18.639><c> our</c><00:12:19.120><c> drag</c><00:12:19.360><c> and</c><00:12:19.680><c> drop</c><00:12:19.920><c> reorder</c>
+
+00:12:20.470 --> 00:12:20.480 align:start position:0%
+including our drag and drop reorder
+ 
+
+00:12:20.480 --> 00:12:22.710 align:start position:0%
+including our drag and drop reorder
+component,<00:12:20.959><c> our</c><00:12:21.200><c> FAQ</c><00:12:21.760><c> component,</c><00:12:22.240><c> some</c><00:12:22.399><c> copy</c>
+
+00:12:22.710 --> 00:12:22.720 align:start position:0%
+component, our FAQ component, some copy
+ 
+
+00:12:22.720 --> 00:12:24.710 align:start position:0%
+component, our FAQ component, some copy
+to<00:12:22.880><c> clipboard</c><00:12:23.360><c> stuff.</c><00:12:24.000><c> All</c><00:12:24.000><c> right,</c><00:12:24.480><c> we're</c>
+
+00:12:24.710 --> 00:12:24.720 align:start position:0%
+to clipboard stuff. All right, we're
+ 
+
+00:12:24.720 --> 00:12:27.110 align:start position:0%
+to clipboard stuff. All right, we're
+going<00:12:24.800><c> to</c><00:12:25.160><c> proceed.</c><00:12:26.160><c> That's</c><00:12:26.480><c> all</c><00:12:26.639><c> done.</c><00:12:26.959><c> This</c>
+
+00:12:27.110 --> 00:12:27.120 align:start position:0%
+going to proceed. That's all done. This
+ 
+
+00:12:27.120 --> 00:12:29.350 align:start position:0%
+going to proceed. That's all done. This
+was<00:12:27.279><c> a</c><00:12:27.440><c> really</c><00:12:27.600><c> big</c><00:12:27.839><c> one.</c><00:12:28.160><c> So,</c><00:12:28.880><c> um,</c><00:12:29.120><c> you</c><00:12:29.279><c> know,</c>
+
+00:12:29.350 --> 00:12:29.360 align:start position:0%
+was a really big one. So, um, you know,
+ 
+
+00:12:29.360 --> 00:12:32.710 align:start position:0%
+was a really big one. So, um, you know,
+we've<00:12:30.120><c> added</c><00:12:31.120><c> 165</c><00:12:31.680><c> new</c><00:12:31.920><c> files</c><00:12:32.240><c> into</c><00:12:32.480><c> our</c>
+
+00:12:32.710 --> 00:12:32.720 align:start position:0%
+we've added 165 new files into our
+ 
+
+00:12:32.720 --> 00:12:35.350 align:start position:0%
+we've added 165 new files into our
+project.<00:12:33.519><c> Um,</c><00:12:33.920><c> lots</c><00:12:34.240><c> of</c><00:12:34.320><c> stuff.</c><00:12:34.639><c> you</c><00:12:34.880><c> know,</c>
+
+00:12:35.350 --> 00:12:35.360 align:start position:0%
+project. Um, lots of stuff. you know,
+ 
+
+00:12:35.360 --> 00:12:38.150 align:start position:0%
+project. Um, lots of stuff. you know,
+there's<00:12:36.160><c> like</c><00:12:36.639><c> products</c><00:12:37.040><c> and</c><00:12:37.440><c> prices</c><00:12:37.839><c> and</c>
+
+00:12:38.150 --> 00:12:38.160 align:start position:0%
+there's like products and prices and
+ 
+
+00:12:38.160 --> 00:12:40.629 align:start position:0%
+there's like products and prices and
+subscriptions<00:12:38.800><c> and</c><00:12:39.360><c> payment</c><00:12:39.760><c> methods</c><00:12:40.240><c> and</c>
+
+00:12:40.629 --> 00:12:40.639 align:start position:0%
+subscriptions and payment methods and
+ 
+
+00:12:40.639 --> 00:12:43.430 align:start position:0%
+subscriptions and payment methods and
+checkout<00:12:41.120><c> flows</c><00:12:41.600><c> and</c><00:12:42.480><c> um</c><00:12:42.720><c> you</c><00:12:42.880><c> know,</c><00:12:43.120><c> user</c>
+
+00:12:43.430 --> 00:12:43.440 align:start position:0%
+checkout flows and um you know, user
+ 
+
+00:12:43.440 --> 00:12:45.990 align:start position:0%
+checkout flows and um you know, user
+payment<00:12:43.839><c> history</c><00:12:44.399><c> and</c><00:12:45.120><c> you</c><00:12:45.279><c> know,</c><00:12:45.519><c> all</c><00:12:45.760><c> this</c>
+
+00:12:45.990 --> 00:12:46.000 align:start position:0%
+payment history and you know, all this
+ 
+
+00:12:46.000 --> 00:12:47.990 align:start position:0%
+payment history and you know, all this
+stuff<00:12:46.160><c> is</c><00:12:46.399><c> it's</c><00:12:46.560><c> it's</c><00:12:46.800><c> a</c><00:12:46.959><c> it's</c><00:12:47.200><c> a</c><00:12:47.440><c> full</c>
+
+00:12:47.990 --> 00:12:48.000 align:start position:0%
+stuff is it's it's a it's a full
+ 
+
+00:12:48.000 --> 00:12:49.470 align:start position:0%
+stuff is it's it's a it's a full
+commerce<00:12:48.480><c> system</c><00:12:48.800><c> for</c><00:12:49.040><c> selling</c>
+
+00:12:49.470 --> 00:12:49.480 align:start position:0%
+commerce system for selling
+ 
+
+00:12:49.480 --> 00:12:52.710 align:start position:0%
+commerce system for selling
+subscriptions<00:12:50.480><c> and</c><00:12:51.040><c> one-time</c><00:12:51.440><c> product</c><00:12:52.399><c> with</c>
+
+00:12:52.710 --> 00:12:52.720 align:start position:0%
+subscriptions and one-time product with
+ 
+
+00:12:52.720 --> 00:12:54.550 align:start position:0%
+subscriptions and one-time product with
+a<00:12:52.880><c> pricing</c><00:12:53.279><c> table</c><00:12:53.519><c> and</c><00:12:53.680><c> checkout</c><00:12:54.000><c> flows</c><00:12:54.320><c> and</c>
+
+00:12:54.550 --> 00:12:54.560 align:start position:0%
+a pricing table and checkout flows and
+ 
+
+00:12:54.560 --> 00:12:56.230 align:start position:0%
+a pricing table and checkout flows and
+everything.<00:12:54.959><c> So,</c><00:12:55.600><c> um</c><00:12:55.760><c> a</c><00:12:55.839><c> lot</c><00:12:56.000><c> of</c><00:12:56.079><c> stuff</c>
+
+00:12:56.230 --> 00:12:56.240 align:start position:0%
+everything. So, um a lot of stuff
+ 
+
+00:12:56.240 --> 00:12:57.750 align:start position:0%
+everything. So, um a lot of stuff
+happened.<00:12:56.560><c> We</c><00:12:56.720><c> have</c><00:12:56.800><c> a</c><00:12:56.959><c> bunch</c><00:12:57.120><c> of</c><00:12:57.279><c> migrations</c>
+
+00:12:57.750 --> 00:12:57.760 align:start position:0%
+happened. We have a bunch of migrations
+ 
+
+00:12:57.760 --> 00:13:00.230 align:start position:0%
+happened. We have a bunch of migrations
+to<00:12:58.000><c> run.</c><00:12:58.480><c> We</c><00:12:58.639><c> added</c><00:12:58.880><c> the</c><00:12:59.040><c> Stripe</c><00:12:59.519><c> gem</c><00:12:59.839><c> and</c><00:13:00.079><c> we</c>
+
+00:13:00.230 --> 00:13:00.240 align:start position:0%
+to run. We added the Stripe gem and we
+ 
+
+00:13:00.240 --> 00:13:02.629 align:start position:0%
+to run. We added the Stripe gem and we
+added<00:13:00.399><c> the</c><00:13:00.639><c> positioning</c><00:13:01.120><c> gem</c><00:13:01.600><c> along</c><00:13:01.920><c> with</c><00:13:02.480><c> a</c>
+
+00:13:02.629 --> 00:13:02.639 align:start position:0%
+added the positioning gem along with a
+ 
+
+00:13:02.639 --> 00:13:04.069 align:start position:0%
+added the positioning gem along with a
+bunch<00:13:02.800><c> of</c><00:13:02.880><c> routes.</c><00:13:03.279><c> All</c><00:13:03.360><c> right.</c><00:13:03.680><c> So,</c><00:13:03.839><c> let's</c>
+
+00:13:04.069 --> 00:13:04.079 align:start position:0%
+bunch of routes. All right. So, let's
+ 
+
+00:13:04.079 --> 00:13:07.910 align:start position:0%
+bunch of routes. All right. So, let's
+get<00:13:04.320><c> the</c><00:13:05.120><c> all</c><00:13:05.639><c> migrated</c><00:13:06.639><c> bundle.</c><00:13:07.440><c> Okay.</c><00:13:07.760><c> So,</c>
+
+00:13:07.910 --> 00:13:07.920 align:start position:0%
+get the all migrated bundle. Okay. So,
+ 
+
+00:13:07.920 --> 00:13:09.910 align:start position:0%
+get the all migrated bundle. Okay. So,
+let's<00:13:08.160><c> see</c><00:13:08.240><c> how</c><00:13:08.480><c> we're</c><00:13:08.639><c> doing</c><00:13:08.800><c> here.</c><00:13:09.680><c> Now,</c>
+
+00:13:09.910 --> 00:13:09.920 align:start position:0%
+let's see how we're doing here. Now,
+ 
+
+00:13:09.920 --> 00:13:11.750 align:start position:0%
+let's see how we're doing here. Now,
+again,<00:13:10.160><c> I'm</c><00:13:10.320><c> I'm</c><00:13:10.560><c> viewing</c><00:13:10.800><c> my</c><00:13:11.040><c> admin</c><00:13:11.360><c> panel.</c>
+
+00:13:11.750 --> 00:13:11.760 align:start position:0%
+again, I'm I'm viewing my admin panel.
+ 
+
+00:13:11.760 --> 00:13:14.470 align:start position:0%
+again, I'm I'm viewing my admin panel.
+If<00:13:11.920><c> I</c><00:13:12.120><c> refresh</c><00:13:13.120><c> now,</c><00:13:13.519><c> we've</c><00:13:13.839><c> just</c><00:13:14.000><c> added</c>
+
+00:13:14.470 --> 00:13:14.480 align:start position:0%
+If I refresh now, we've just added
+ 
+
+00:13:14.480 --> 00:13:17.269 align:start position:0%
+If I refresh now, we've just added
+commerce<00:13:15.040><c> into</c><00:13:15.440><c> our</c><00:13:15.760><c> admin</c><00:13:16.079><c> panel.</c><00:13:16.880><c> So,</c><00:13:17.120><c> here</c>
+
+00:13:17.269 --> 00:13:17.279 align:start position:0%
+commerce into our admin panel. So, here
+ 
+
+00:13:17.279 --> 00:13:19.430 align:start position:0%
+commerce into our admin panel. So, here
+in<00:13:17.519><c> the</c><00:13:17.680><c> commerce</c><00:13:18.000><c> section</c><00:13:18.720><c> is</c><00:13:18.959><c> where</c><00:13:19.120><c> I</c><00:13:19.279><c> can</c>
+
+00:13:19.430 --> 00:13:19.440 align:start position:0%
+in the commerce section is where I can
+ 
+
+00:13:19.440 --> 00:13:22.069 align:start position:0%
+in the commerce section is where I can
+set<00:13:19.600><c> up</c><00:13:19.760><c> my</c><00:13:20.000><c> products,</c><00:13:20.480><c> my</c><00:13:20.639><c> prices,</c><00:13:21.200><c> plans.</c>
+
+00:13:22.069 --> 00:13:22.079 align:start position:0%
+set up my products, my prices, plans.
+ 
+
+00:13:22.079 --> 00:13:23.990 align:start position:0%
+set up my products, my prices, plans.
+Um,<00:13:22.399><c> you</c><00:13:22.560><c> know,</c><00:13:22.639><c> I</c><00:13:22.880><c> can</c><00:13:23.040><c> also</c><00:13:23.279><c> see</c><00:13:23.600><c> purchase</c>
+
+00:13:23.990 --> 00:13:24.000 align:start position:0%
+Um, you know, I can also see purchase
+ 
+
+00:13:24.000 --> 00:13:25.990 align:start position:0%
+Um, you know, I can also see purchase
+activity,<00:13:24.480><c> payments,</c><00:13:24.959><c> subscriptions.</c><00:13:25.839><c> Now,</c>
+
+00:13:25.990 --> 00:13:26.000 align:start position:0%
+activity, payments, subscriptions. Now,
+ 
+
+00:13:26.000 --> 00:13:27.430 align:start position:0%
+activity, payments, subscriptions. Now,
+I'm<00:13:26.160><c> going</c><00:13:26.240><c> to</c><00:13:26.320><c> have</c><00:13:26.399><c> a</c><00:13:26.639><c> totally</c><00:13:27.040><c> separate</c>
+
+00:13:27.430 --> 00:13:27.440 align:start position:0%
+I'm going to have a totally separate
+ 
+
+00:13:27.440 --> 00:13:29.430 align:start position:0%
+I'm going to have a totally separate
+video<00:13:27.680><c> and</c><00:13:27.920><c> a</c><00:13:28.079><c> bunch</c><00:13:28.160><c> of</c><00:13:28.320><c> guides</c><00:13:28.720><c> on</c><00:13:29.040><c> commerce</c>
+
+00:13:29.430 --> 00:13:29.440 align:start position:0%
+video and a bunch of guides on commerce
+ 
+
+00:13:29.440 --> 00:13:31.350 align:start position:0%
+video and a bunch of guides on commerce
+because<00:13:29.760><c> it</c><00:13:30.000><c> really</c><00:13:30.160><c> goes</c><00:13:30.399><c> deep.</c><00:13:30.880><c> I</c><00:13:31.040><c> don't</c><00:13:31.200><c> I</c>
+
+00:13:31.350 --> 00:13:31.360 align:start position:0%
+because it really goes deep. I don't I
+ 
+
+00:13:31.360 --> 00:13:32.550 align:start position:0%
+because it really goes deep. I don't I
+don't<00:13:31.519><c> want</c><00:13:31.600><c> to</c><00:13:31.680><c> waste</c><00:13:31.920><c> time</c><00:13:32.079><c> here</c><00:13:32.240><c> in</c><00:13:32.399><c> this</c>
+
+00:13:32.550 --> 00:13:32.560 align:start position:0%
+don't want to waste time here in this
+ 
+
+00:13:32.560 --> 00:13:34.310 align:start position:0%
+don't want to waste time here in this
+demo,<00:13:32.959><c> but</c><00:13:33.279><c> you</c><00:13:33.360><c> know,</c><00:13:33.440><c> as</c><00:13:33.680><c> we</c><00:13:33.839><c> can</c><00:13:33.920><c> see,</c><00:13:34.079><c> it's</c>
+
+00:13:34.310 --> 00:13:34.320 align:start position:0%
+demo, but you know, as we can see, it's
+ 
+
+00:13:34.320 --> 00:13:36.790 align:start position:0%
+demo, but you know, as we can see, it's
+all<00:13:34.560><c> here.</c><00:13:35.200><c> Um,</c><00:13:35.680><c> I'm</c><00:13:35.839><c> going</c><00:13:36.000><c> to</c><00:13:36.079><c> go</c><00:13:36.240><c> back</c><00:13:36.399><c> to</c><00:13:36.560><c> my</c>
+
+00:13:36.790 --> 00:13:36.800 align:start position:0%
+all here. Um, I'm going to go back to my
+ 
+
+00:13:36.800 --> 00:13:38.550 align:start position:0%
+all here. Um, I'm going to go back to my
+app.<00:13:37.360><c> All</c><00:13:37.360><c> right,</c><00:13:37.680><c> one</c><00:13:37.839><c> more</c><00:13:38.000><c> thing</c><00:13:38.160><c> before</c><00:13:38.399><c> I</c>
+
+00:13:38.550 --> 00:13:38.560 align:start position:0%
+app. All right, one more thing before I
+ 
+
+00:13:38.560 --> 00:13:40.470 align:start position:0%
+app. All right, one more thing before I
+wrap<00:13:38.720><c> up</c><00:13:38.880><c> this</c><00:13:39.040><c> demo.</c><00:13:39.600><c> Let's</c><00:13:39.920><c> actually</c><00:13:40.240><c> start</c>
+
+00:13:40.470 --> 00:13:40.480 align:start position:0%
+wrap up this demo. Let's actually start
+ 
+
+00:13:40.480 --> 00:13:42.629 align:start position:0%
+wrap up this demo. Let's actually start
+building<00:13:40.800><c> our</c><00:13:41.200><c> product,</c><00:13:41.600><c> like</c><00:13:41.839><c> our</c><00:13:42.079><c> features,</c>
+
+00:13:42.629 --> 00:13:42.639 align:start position:0%
+building our product, like our features,
+ 
+
+00:13:42.639 --> 00:13:45.269 align:start position:0%
+building our product, like our features,
+right?<00:13:43.120><c> So,</c><00:13:43.600><c> let's</c><00:13:43.920><c> use</c><00:13:44.079><c> the</c><00:13:44.320><c> instrumental</c>
+
+00:13:45.269 --> 00:13:45.279 align:start position:0%
+right? So, let's use the instrumental
+ 
+
+00:13:45.279 --> 00:13:49.269 align:start position:0%
+right? So, let's use the instrumental
+scaffolding<00:13:46.079><c> component</c><00:13:46.880><c> to</c><00:13:47.680><c> scaffold</c><00:13:48.560><c> a</c>
+
+00:13:49.269 --> 00:13:49.279 align:start position:0%
+scaffolding component to scaffold a
+ 
+
+00:13:49.279 --> 00:13:51.110 align:start position:0%
+scaffolding component to scaffold a
+model<00:13:49.600><c> and</c><00:13:49.839><c> some</c><00:13:50.079><c> views.</c><00:13:50.560><c> I'm</c><00:13:50.800><c> going</c><00:13:50.880><c> to</c><00:13:50.959><c> use</c>
+
+00:13:51.110 --> 00:13:51.120 align:start position:0%
+model and some views. I'm going to use
+ 
+
+00:13:51.120 --> 00:13:53.350 align:start position:0%
+model and some views. I'm going to use
+this<00:13:51.279><c> app</c><00:13:51.440><c> as</c><00:13:51.680><c> like</c><00:13:51.839><c> a</c><00:13:52.240><c> place</c><00:13:52.399><c> to</c><00:13:52.639><c> list</c><00:13:53.040><c> my</c>
+
+00:13:53.350 --> 00:13:53.360 align:start position:0%
+this app as like a place to list my
+ 
+
+00:13:53.360 --> 00:13:55.910 align:start position:0%
+this app as like a place to list my
+guitars,<00:13:54.079><c> right?</c><00:13:54.399><c> So,</c><00:13:54.560><c> let's</c><00:13:54.959><c> do</c><00:13:55.200><c> this.</c><00:13:55.600><c> I'm</c>
+
+00:13:55.910 --> 00:13:55.920 align:start position:0%
+guitars, right? So, let's do this. I'm
+ 
+
+00:13:55.920 --> 00:13:58.230 align:start position:0%
+guitars, right? So, let's do this. I'm
+going<00:13:56.000><c> to</c><00:13:56.320><c> stop</c><00:13:56.560><c> the</c><00:13:56.720><c> server.</c><00:13:57.839><c> I'm</c><00:13:58.079><c> going</c><00:13:58.160><c> to</c>
+
+00:13:58.230 --> 00:13:58.240 align:start position:0%
+going to stop the server. I'm going to
+ 
+
+00:13:58.240 --> 00:14:03.790 align:start position:0%
+going to stop the server. I'm going to
+do<00:13:59.040><c> rails</c><00:13:59.839><c> gin</c><00:14:00.760><c> instrumental</c>
+
+00:14:03.790 --> 00:14:03.800 align:start position:0%
+ 
+ 
+
+00:14:03.800 --> 00:14:06.230 align:start position:0%
+ 
+scaffold.<00:14:04.800><c> And</c><00:14:05.120><c> this</c><00:14:05.440><c> works</c><00:14:05.760><c> just</c><00:14:05.920><c> like</c><00:14:06.079><c> a</c>
+
+00:14:06.230 --> 00:14:06.240 align:start position:0%
+scaffold. And this works just like a
+ 
+
+00:14:06.240 --> 00:14:08.550 align:start position:0%
+scaffold. And this works just like a
+rail<00:14:06.560><c> scaffold</c><00:14:07.120><c> except</c><00:14:07.519><c> it's</c><00:14:08.079><c> a</c><00:14:08.320><c> little</c><00:14:08.399><c> bit</c>
+
+00:14:08.550 --> 00:14:08.560 align:start position:0%
+rail scaffold except it's a little bit
+ 
+
+00:14:08.560 --> 00:14:10.750 align:start position:0%
+rail scaffold except it's a little bit
+better.<00:14:09.120><c> We're</c><00:14:09.279><c> going</c><00:14:09.360><c> to</c><00:14:09.519><c> call</c><00:14:09.680><c> this</c>
+
+00:14:10.750 --> 00:14:10.760 align:start position:0%
+better. We're going to call this
+ 
+
+00:14:10.760 --> 00:14:12.870 align:start position:0%
+better. We're going to call this
+guitars.<00:14:11.760><c> Each</c><00:14:12.000><c> one</c><00:14:12.160><c> is</c><00:14:12.399><c> going</c><00:14:12.480><c> to</c><00:14:12.560><c> have</c><00:14:12.720><c> a</c>
+
+00:14:12.870 --> 00:14:12.880 align:start position:0%
+guitars. Each one is going to have a
+ 
+
+00:14:12.880 --> 00:14:14.430 align:start position:0%
+guitars. Each one is going to have a
+name,<00:14:13.279><c> a</c>
+
+00:14:14.430 --> 00:14:14.440 align:start position:0%
+name, a
+ 
+
+00:14:14.440 --> 00:14:17.470 align:start position:0%
+name, a
+brand<00:14:15.440><c> purchased.</c><00:14:16.079><c> That'll</c><00:14:16.320><c> be</c><00:14:16.399><c> a</c>
+
+00:14:17.470 --> 00:14:17.480 align:start position:0%
+brand purchased. That'll be a
+ 
+
+00:14:17.480 --> 00:14:22.110 align:start position:0%
+brand purchased. That'll be a
+datetime.<00:14:18.480><c> And</c><00:14:19.199><c> how</c><00:14:19.360><c> about</c>
+
+00:14:22.110 --> 00:14:22.120 align:start position:0%
+ 
+ 
+
+00:14:22.120 --> 00:14:25.030 align:start position:0%
+ 
+favorite?<00:14:23.120><c> That's</c><00:14:23.279><c> a</c><00:14:23.720><c> boolean.</c><00:14:24.720><c> All</c><00:14:24.720><c> right,</c>
+
+00:14:25.030 --> 00:14:25.040 align:start position:0%
+favorite? That's a boolean. All right,
+ 
+
+00:14:25.040 --> 00:14:26.949 align:start position:0%
+favorite? That's a boolean. All right,
+let's<00:14:25.360><c> run</c><00:14:25.519><c> that</c><00:14:26.160><c> once</c><00:14:26.399><c> again.</c><00:14:26.560><c> And</c><00:14:26.720><c> here's</c>
+
+00:14:26.949 --> 00:14:26.959 align:start position:0%
+let's run that once again. And here's
+ 
+
+00:14:26.959 --> 00:14:29.030 align:start position:0%
+let's run that once again. And here's
+the<00:14:27.120><c> overview.</c><00:14:28.000><c> We're</c><00:14:28.240><c> going</c><00:14:28.320><c> to</c><00:14:28.399><c> proceed.</c>
+
+00:14:29.030 --> 00:14:29.040 align:start position:0%
+the overview. We're going to proceed.
+ 
+
+00:14:29.040 --> 00:14:30.710 align:start position:0%
+the overview. We're going to proceed.
+It's<00:14:29.279><c> going</c><00:14:29.360><c> to</c><00:14:29.440><c> ask</c><00:14:29.600><c> us</c><00:14:29.760><c> which</c><00:14:30.079><c> column</c><00:14:30.480><c> is</c>
+
+00:14:30.710 --> 00:14:30.720 align:start position:0%
+It's going to ask us which column is
+ 
+
+00:14:30.720 --> 00:14:32.470 align:start position:0%
+It's going to ask us which column is
+actually<00:14:30.959><c> going</c><00:14:31.120><c> to</c><00:14:31.279><c> define</c><00:14:31.600><c> the</c><00:14:31.839><c> name.</c><00:14:32.160><c> This,</c>
+
+00:14:32.470 --> 00:14:32.480 align:start position:0%
+actually going to define the name. This,
+ 
+
+00:14:32.480 --> 00:14:33.590 align:start position:0%
+actually going to define the name. This,
+you<00:14:32.560><c> know,</c><00:14:32.720><c> it's</c><00:14:32.880><c> going</c><00:14:32.880><c> to</c><00:14:32.959><c> use</c><00:14:33.120><c> that</c><00:14:33.279><c> when</c><00:14:33.440><c> it</c>
+
+00:14:33.590 --> 00:14:33.600 align:start position:0%
+you know, it's going to use that when it
+ 
+
+00:14:33.600 --> 00:14:35.509 align:start position:0%
+you know, it's going to use that when it
+sets<00:14:33.760><c> up</c><00:14:33.920><c> the</c><00:14:34.079><c> controllers</c><00:14:34.560><c> and</c><00:14:34.800><c> things.</c><00:14:35.279><c> We</c>
+
+00:14:35.509 --> 00:14:35.519 align:start position:0%
+sets up the controllers and things. We
+ 
+
+00:14:35.519 --> 00:14:37.509 align:start position:0%
+sets up the controllers and things. We
+also<00:14:35.760><c> have</c><00:14:35.920><c> the</c><00:14:36.079><c> option</c><00:14:36.320><c> to</c><00:14:36.560><c> give</c><00:14:36.800><c> each</c><00:14:37.120><c> guitar</c>
+
+00:14:37.509 --> 00:14:37.519 align:start position:0%
+also have the option to give each guitar
+ 
+
+00:14:37.519 --> 00:14:41.030 align:start position:0%
+also have the option to give each guitar
+a<00:14:37.760><c> unique</c><00:14:38.399><c> slug</c><00:14:39.040><c> like</c><00:14:39.199><c> in</c><00:14:39.360><c> the</c><00:14:39.519><c> URL.</c><00:14:40.480><c> And</c><00:14:40.720><c> yes,</c>
+
+00:14:41.030 --> 00:14:41.040 align:start position:0%
+a unique slug like in the URL. And yes,
+ 
+
+00:14:41.040 --> 00:14:42.710 align:start position:0%
+a unique slug like in the URL. And yes,
+I<00:14:41.199><c> want</c><00:14:41.279><c> to</c><00:14:41.440><c> do</c><00:14:41.519><c> that.</c><00:14:41.839><c> And</c><00:14:42.000><c> we</c><00:14:42.160><c> can</c><00:14:42.399><c> actually</c>
+
+00:14:42.710 --> 00:14:42.720 align:start position:0%
+I want to do that. And we can actually
+ 
+
+00:14:42.720 --> 00:14:44.550 align:start position:0%
+I want to do that. And we can actually
+generate<00:14:43.120><c> that</c><00:14:43.440><c> from</c><00:14:43.760><c> the</c><00:14:44.000><c> name</c><00:14:44.240><c> of</c><00:14:44.399><c> the</c>
+
+00:14:44.550 --> 00:14:44.560 align:start position:0%
+generate that from the name of the
+ 
+
+00:14:44.560 --> 00:14:47.110 align:start position:0%
+generate that from the name of the
+guitar<00:14:44.959><c> or</c><00:14:45.360><c> generate</c><00:14:45.680><c> a</c><00:14:45.920><c> random</c><00:14:46.160><c> one.</c><00:14:46.800><c> We</c><00:14:46.959><c> do</c>
+
+00:14:47.110 --> 00:14:47.120 align:start position:0%
+guitar or generate a random one. We do
+ 
+
+00:14:47.120 --> 00:14:48.870 align:start position:0%
+guitar or generate a random one. We do
+want<00:14:47.279><c> to</c><00:14:47.360><c> generate</c><00:14:47.680><c> it</c><00:14:47.839><c> from</c><00:14:48.000><c> a</c><00:14:48.160><c> field.</c><00:14:48.560><c> We'll</c>
+
+00:14:48.870 --> 00:14:48.880 align:start position:0%
+want to generate it from a field. We'll
+ 
+
+00:14:48.880 --> 00:14:51.990 align:start position:0%
+want to generate it from a field. We'll
+choose<00:14:49.440><c> the</c><00:14:49.839><c> uh</c><00:14:49.920><c> the</c><00:14:50.160><c> name</c><00:14:50.480><c> field.</c><00:14:51.440><c> And</c><00:14:51.839><c> uh</c>
+
+00:14:51.990 --> 00:14:52.000 align:start position:0%
+choose the uh the name field. And uh
+ 
+
+00:14:52.000 --> 00:14:53.750 align:start position:0%
+choose the uh the name field. And uh
+yes,<00:14:52.240><c> we</c><00:14:52.399><c> want</c><00:14:52.480><c> to</c><00:14:52.560><c> pageionate</c><00:14:53.120><c> the</c><00:14:53.279><c> index</c><00:14:53.600><c> of</c>
+
+00:14:53.750 --> 00:14:53.760 align:start position:0%
+yes, we want to pageionate the index of
+ 
+
+00:14:53.760 --> 00:14:56.150 align:start position:0%
+yes, we want to pageionate the index of
+guitars.<00:14:54.240><c> So</c><00:14:54.399><c> I'm</c><00:14:54.639><c> going</c><00:14:54.720><c> to</c><00:14:55.040><c> agree</c><00:14:55.360><c> to</c><00:14:55.519><c> that.</c>
+
+00:14:56.150 --> 00:14:56.160 align:start position:0%
+guitars. So I'm going to agree to that.
+ 
+
+00:14:56.160 --> 00:14:58.550 align:start position:0%
+guitars. So I'm going to agree to that.
+Okay,<00:14:56.560><c> so</c><00:14:57.040><c> um</c><00:14:57.360><c> it</c><00:14:57.600><c> just</c><00:14:57.839><c> ran</c><00:14:58.079><c> through</c><00:14:58.320><c> the</c>
+
+00:14:58.550 --> 00:14:58.560 align:start position:0%
+Okay, so um it just ran through the
+ 
+
+00:14:58.560 --> 00:15:01.310 align:start position:0%
+Okay, so um it just ran through the
+whole<00:14:58.720><c> process</c><00:14:59.120><c> very</c><00:14:59.440><c> fast.</c><00:15:00.079><c> Here</c><00:15:00.399><c> is</c><00:15:00.639><c> the</c>
+
+00:15:01.310 --> 00:15:01.320 align:start position:0%
+whole process very fast. Here is the
+ 
+
+00:15:01.320 --> 00:15:04.389 align:start position:0%
+whole process very fast. Here is the
+recap.<00:15:02.320><c> We</c><00:15:02.560><c> installed</c><00:15:02.959><c> some</c><00:15:03.120><c> components</c><00:15:04.079><c> and</c>
+
+00:15:04.389 --> 00:15:04.399 align:start position:0%
+recap. We installed some components and
+ 
+
+00:15:04.399 --> 00:15:07.590 align:start position:0%
+recap. We installed some components and
+it<00:15:04.639><c> did</c><00:15:04.800><c> add</c><00:15:05.040><c> a</c><00:15:05.360><c> migration</c><00:15:05.920><c> for</c><00:15:06.639><c> guitars.</c>
+
+00:15:07.590 --> 00:15:07.600 align:start position:0%
+it did add a migration for guitars.
+ 
+
+00:15:07.600 --> 00:15:10.150 align:start position:0%
+it did add a migration for guitars.
+Let's<00:15:07.920><c> run</c><00:15:08.079><c> that.</c><00:15:08.720><c> Restart</c><00:15:09.040><c> the</c><00:15:09.279><c> server.</c>
+
+00:15:10.150 --> 00:15:10.160 align:start position:0%
+Let's run that. Restart the server.
+ 
+
+00:15:10.160 --> 00:15:13.110 align:start position:0%
+Let's run that. Restart the server.
+Let's<00:15:10.399><c> go</c><00:15:10.560><c> to</c><00:15:11.320><c> guitars.</c><00:15:12.320><c> Instead</c><00:15:12.639><c> of</c><00:15:12.800><c> needing</c>
+
+00:15:13.110 --> 00:15:13.120 align:start position:0%
+Let's go to guitars. Instead of needing
+ 
+
+00:15:13.120 --> 00:15:15.430 align:start position:0%
+Let's go to guitars. Instead of needing
+to<00:15:13.360><c> update</c><00:15:13.839><c> the</c><00:15:14.160><c> URL</c><00:15:14.560><c> directly,</c><00:15:15.040><c> I</c><00:15:15.199><c> want</c><00:15:15.279><c> to</c>
+
+00:15:15.430 --> 00:15:15.440 align:start position:0%
+to update the URL directly, I want to
+ 
+
+00:15:15.440 --> 00:15:17.430 align:start position:0%
+to update the URL directly, I want to
+actually<00:15:15.600><c> update</c><00:15:15.920><c> my</c><00:15:16.160><c> main</c><00:15:16.399><c> navigation.</c><00:15:17.120><c> I'm</c>
+
+00:15:17.430 --> 00:15:17.440 align:start position:0%
+actually update my main navigation. I'm
+ 
+
+00:15:17.440 --> 00:15:18.670 align:start position:0%
+actually update my main navigation. I'm
+going<00:15:17.519><c> to</c>
+
+00:15:18.670 --> 00:15:18.680 align:start position:0%
+going to
+ 
+
+00:15:18.680 --> 00:15:21.069 align:start position:0%
+going to
+update<00:15:19.680><c> global</c>
+
+00:15:21.069 --> 00:15:21.079 align:start position:0%
+update global
+ 
+
+00:15:21.079 --> 00:15:23.629 align:start position:0%
+update global
+nav.<00:15:22.160><c> So</c><00:15:22.399><c> this</c><00:15:22.639><c> partial</c>
+
+00:15:23.629 --> 00:15:23.639 align:start position:0%
+nav. So this partial
+ 
+
+00:15:23.639 --> 00:15:26.310 align:start position:0%
+nav. So this partial
+handles<00:15:24.639><c> handles</c><00:15:25.040><c> the</c><00:15:25.199><c> side</c><00:15:25.519><c> navigation.</c><00:15:26.079><c> And</c>
+
+00:15:26.310 --> 00:15:26.320 align:start position:0%
+handles handles the side navigation. And
+ 
+
+00:15:26.320 --> 00:15:27.829 align:start position:0%
+handles handles the side navigation. And
+you<00:15:26.480><c> can</c><00:15:26.560><c> see</c><00:15:26.720><c> some</c><00:15:26.959><c> sample</c><00:15:27.279><c> code</c><00:15:27.440><c> in</c><00:15:27.600><c> here</c>
+
+00:15:27.829 --> 00:15:27.839 align:start position:0%
+you can see some sample code in here
+ 
+
+00:15:27.839 --> 00:15:29.670 align:start position:0%
+you can see some sample code in here
+which<00:15:28.000><c> will</c><00:15:28.240><c> actually</c><00:15:28.480><c> give</c><00:15:28.639><c> us</c><00:15:28.800><c> like</c><00:15:28.959><c> a</c><00:15:29.120><c> a</c><00:15:29.440><c> top</c>
+
+00:15:29.670 --> 00:15:29.680 align:start position:0%
+which will actually give us like a a top
+ 
+
+00:15:29.680 --> 00:15:32.069 align:start position:0%
+which will actually give us like a a top
+level<00:15:29.920><c> and</c><00:15:30.079><c> a</c><00:15:30.240><c> suble</c><00:15:30.880><c> navigation.</c><00:15:31.760><c> I'm</c><00:15:31.920><c> just</c>
+
+00:15:32.069 --> 00:15:32.079 align:start position:0%
+level and a suble navigation. I'm just
+ 
+
+00:15:32.079 --> 00:15:35.470 align:start position:0%
+level and a suble navigation. I'm just
+going<00:15:32.160><c> to</c><00:15:32.320><c> add</c><00:15:32.560><c> a</c><00:15:33.040><c> second</c><00:15:33.279><c> one</c>
+
+00:15:35.470 --> 00:15:35.480 align:start position:0%
+going to add a second one
+ 
+
+00:15:35.480 --> 00:15:38.150 align:start position:0%
+going to add a second one
+here<00:15:36.480><c> and</c><00:15:36.720><c> that's</c><00:15:36.959><c> going</c><00:15:37.040><c> to</c><00:15:37.199><c> link</c><00:15:37.440><c> to</c><00:15:37.680><c> guitars</c>
+
+00:15:38.150 --> 00:15:38.160 align:start position:0%
+here and that's going to link to guitars
+ 
+
+00:15:38.160 --> 00:15:39.870 align:start position:0%
+here and that's going to link to guitars
+path.<00:15:38.560><c> We'll</c><00:15:38.800><c> give</c><00:15:38.880><c> it</c><00:15:39.040><c> an</c>
+
+00:15:39.870 --> 00:15:39.880 align:start position:0%
+path. We'll give it an
+ 
+
+00:15:39.880 --> 00:15:42.069 align:start position:0%
+path. We'll give it an
+icon.<00:15:40.880><c> See</c><00:15:41.040><c> how</c><00:15:41.199><c> we're</c><00:15:41.360><c> doing.</c><00:15:41.600><c> Okay.</c><00:15:41.920><c> So</c>
+
+00:15:42.069 --> 00:15:42.079 align:start position:0%
+icon. See how we're doing. Okay. So
+ 
+
+00:15:42.079 --> 00:15:43.910 align:start position:0%
+icon. See how we're doing. Okay. So
+there<00:15:42.240><c> is</c><00:15:42.399><c> our</c><00:15:42.639><c> guitars</c><00:15:43.040><c> link.</c><00:15:43.360><c> It</c><00:15:43.519><c> takes</c><00:15:43.760><c> us</c>
+
+00:15:43.910 --> 00:15:43.920 align:start position:0%
+there is our guitars link. It takes us
+ 
+
+00:15:43.920 --> 00:15:47.269 align:start position:0%
+there is our guitars link. It takes us
+into<00:15:44.160><c> our</c><00:15:44.480><c> guitar</c><00:15:44.880><c> section.</c><00:15:45.720><c> Cool.</c><00:15:46.720><c> Let's</c><00:15:47.040><c> add</c>
+
+00:15:47.269 --> 00:15:47.279 align:start position:0%
+into our guitar section. Cool. Let's add
+ 
+
+00:15:47.279 --> 00:15:49.990 align:start position:0%
+into our guitar section. Cool. Let's add
+a<00:15:47.519><c> new</c><00:15:48.040><c> guitar.</c><00:15:49.040><c> All</c><00:15:49.120><c> right.</c><00:15:49.360><c> So</c><00:15:49.519><c> here,</c><00:15:49.839><c> you</c>
+
+00:15:49.990 --> 00:15:50.000 align:start position:0%
+a new guitar. All right. So here, you
+ 
+
+00:15:50.000 --> 00:15:51.990 align:start position:0%
+a new guitar. All right. So here, you
+know,<00:15:50.079><c> it</c><00:15:50.240><c> just</c><00:15:50.399><c> gives</c><00:15:50.560><c> you</c><00:15:50.639><c> a</c><00:15:50.800><c> form.</c><00:15:51.279><c> Uh,</c><00:15:51.600><c> very</c>
+
+00:15:51.990 --> 00:15:52.000 align:start position:0%
+know, it just gives you a form. Uh, very
+ 
+
+00:15:52.000 --> 00:15:55.110 align:start position:0%
+know, it just gives you a form. Uh, very
+simple.<00:15:52.560><c> Show</c><00:15:52.880><c> view</c><00:15:53.519><c> um,</c><00:15:53.720><c> edit.</c><00:15:54.720><c> And</c><00:15:54.959><c> now</c>
+
+00:15:55.110 --> 00:15:55.120 align:start position:0%
+simple. Show view um, edit. And now
+ 
+
+00:15:55.120 --> 00:15:56.470 align:start position:0%
+simple. Show view um, edit. And now
+we're<00:15:55.360><c> back</c><00:15:55.440><c> on</c><00:15:55.600><c> an</c><00:15:55.759><c> index.</c><00:15:56.160><c> These</c><00:15:56.399><c> are</c>
+
+00:15:56.470 --> 00:15:56.480 align:start position:0%
+we're back on an index. These are
+ 
+
+00:15:56.480 --> 00:15:58.069 align:start position:0%
+we're back on an index. These are
+totally<00:15:56.880><c> customizable.</c><00:15:57.600><c> We've</c><00:15:57.759><c> got</c><00:15:57.920><c> some</c>
+
+00:15:58.069 --> 00:15:58.079 align:start position:0%
+totally customizable. We've got some
+ 
+
+00:15:58.079 --> 00:15:59.749 align:start position:0%
+totally customizable. We've got some
+like<00:15:58.320><c> settings</c><00:15:58.639><c> drop</c><00:15:58.880><c> downs</c><00:15:59.120><c> here</c><00:15:59.279><c> for</c><00:15:59.519><c> each</c>
+
+00:15:59.749 --> 00:15:59.759 align:start position:0%
+like settings drop downs here for each
+ 
+
+00:15:59.759 --> 00:16:01.670 align:start position:0%
+like settings drop downs here for each
+one.<00:16:00.000><c> We</c><00:16:00.240><c> can</c><00:16:00.320><c> delete</c><00:16:00.639><c> one.</c><00:16:01.199><c> Let's</c><00:16:01.440><c> add</c>
+
+00:16:01.670 --> 00:16:01.680 align:start position:0%
+one. We can delete one. Let's add
+ 
+
+00:16:01.680 --> 00:16:03.509 align:start position:0%
+one. We can delete one. Let's add
+another<00:16:01.920><c> one.</c><00:16:02.399><c> Now,</c><00:16:02.720><c> of</c><00:16:02.880><c> course,</c><00:16:03.120><c> everything</c>
+
+00:16:03.509 --> 00:16:03.519 align:start position:0%
+another one. Now, of course, everything
+ 
+
+00:16:03.519 --> 00:16:06.470 align:start position:0%
+another one. Now, of course, everything
+is<00:16:04.000><c> mobile</c><00:16:04.480><c> optimized.</c><00:16:05.440><c> So,</c><00:16:05.680><c> you</c><00:16:06.000><c> can</c><00:16:06.160><c> take</c><00:16:06.320><c> a</c>
+
+00:16:06.470 --> 00:16:06.480 align:start position:0%
+is mobile optimized. So, you can take a
+ 
+
+00:16:06.480 --> 00:16:08.949 align:start position:0%
+is mobile optimized. So, you can take a
+look<00:16:06.560><c> at</c><00:16:06.720><c> that.</c><00:16:06.959><c> We've</c><00:16:07.199><c> got</c><00:16:07.279><c> a</c><00:16:07.480><c> mobile</c><00:16:08.480><c> menu</c>
+
+00:16:08.949 --> 00:16:08.959 align:start position:0%
+look at that. We've got a mobile menu
+ 
+
+00:16:08.959 --> 00:16:13.310 align:start position:0%
+look at that. We've got a mobile menu
+all<00:16:09.199><c> built</c><00:16:09.959><c> in</c><00:16:10.959><c> and</c><00:16:11.440><c> everything</c><00:16:11.920><c> is</c><00:16:12.320><c> dark</c><00:16:12.639><c> mode</c>
+
+00:16:13.310 --> 00:16:13.320 align:start position:0%
+all built in and everything is dark mode
+ 
+
+00:16:13.320 --> 00:16:16.790 align:start position:0%
+all built in and everything is dark mode
+friendly.<00:16:14.320><c> So,</c><00:16:14.639><c> all</c><00:16:14.800><c> of</c><00:16:14.959><c> that</c><00:16:15.279><c> is</c><00:16:16.160><c> all</c><00:16:16.399><c> set</c><00:16:16.639><c> for</c>
+
+00:16:16.790 --> 00:16:16.800 align:start position:0%
+friendly. So, all of that is all set for
+ 
+
+00:16:16.800 --> 00:16:18.870 align:start position:0%
+friendly. So, all of that is all set for
+you<00:16:16.959><c> as</c><00:16:17.199><c> well.</c><00:16:18.000><c> Let's</c><00:16:18.240><c> take</c><00:16:18.399><c> a</c><00:16:18.480><c> look</c><00:16:18.560><c> at</c><00:16:18.639><c> our</c>
+
+00:16:18.870 --> 00:16:18.880 align:start position:0%
+you as well. Let's take a look at our
+ 
+
+00:16:18.880 --> 00:16:20.870 align:start position:0%
+you as well. Let's take a look at our
+routes.<00:16:19.920><c> You</c><00:16:20.079><c> know,</c><00:16:20.160><c> we've</c><00:16:20.399><c> installed</c><00:16:20.720><c> a</c>
+
+00:16:20.870 --> 00:16:20.880 align:start position:0%
+routes. You know, we've installed a
+ 
+
+00:16:20.880 --> 00:16:22.629 align:start position:0%
+routes. You know, we've installed a
+bunch<00:16:20.959><c> of</c><00:16:21.120><c> routes.</c><00:16:21.519><c> It's</c><00:16:21.759><c> nicely</c><00:16:22.160><c> organized.</c>
+
+00:16:22.629 --> 00:16:22.639 align:start position:0%
+bunch of routes. It's nicely organized.
+ 
+
+00:16:22.639 --> 00:16:24.389 align:start position:0%
+bunch of routes. It's nicely organized.
+You<00:16:22.720><c> can</c><00:16:22.800><c> go</c><00:16:22.959><c> in</c><00:16:23.120><c> here</c><00:16:23.199><c> and</c><00:16:23.600><c> and</c><00:16:23.839><c> organize</c><00:16:24.240><c> it</c>
+
+00:16:24.389 --> 00:16:24.399 align:start position:0%
+You can go in here and and organize it
+ 
+
+00:16:24.399 --> 00:16:25.829 align:start position:0%
+You can go in here and and organize it
+however<00:16:24.639><c> you</c><00:16:24.880><c> want.</c><00:16:25.120><c> Let's</c><00:16:25.360><c> check</c><00:16:25.440><c> out</c><00:16:25.600><c> that</c>
+
+00:16:25.829 --> 00:16:25.839 align:start position:0%
+however you want. Let's check out that
+ 
+
+00:16:25.839 --> 00:16:28.550 align:start position:0%
+however you want. Let's check out that
+guitars<00:16:26.519><c> controller.</c><00:16:27.519><c> You</c><00:16:27.680><c> know,</c><00:16:27.920><c> it</c><00:16:28.160><c> added</c><00:16:28.399><c> a</c>
+
+00:16:28.550 --> 00:16:28.560 align:start position:0%
+guitars controller. You know, it added a
+ 
+
+00:16:28.560 --> 00:16:30.629 align:start position:0%
+guitars controller. You know, it added a
+whole<00:16:28.720><c> bunch</c><00:16:28.880><c> of</c><00:16:29.040><c> controllers</c><00:16:29.680><c> and</c><00:16:30.160><c> billing</c>
+
+00:16:30.629 --> 00:16:30.639 align:start position:0%
+whole bunch of controllers and billing
+ 
+
+00:16:30.639 --> 00:16:33.269 align:start position:0%
+whole bunch of controllers and billing
+code<00:16:30.880><c> and</c><00:16:31.199><c> commerce</c><00:16:31.600><c> code</c><00:16:31.920><c> and</c><00:16:32.399><c> admin</c><00:16:32.880><c> panels</c>
+
+00:16:33.269 --> 00:16:33.279 align:start position:0%
+code and commerce code and admin panels
+ 
+
+00:16:33.279 --> 00:16:35.509 align:start position:0%
+code and commerce code and admin panels
+and<00:16:33.519><c> name</c><00:16:33.839><c> spaces</c><00:16:34.320><c> and</c><00:16:34.800><c> all</c><00:16:34.959><c> that</c><00:16:35.199><c> stuff</c><00:16:35.360><c> is</c>
+
+00:16:35.509 --> 00:16:35.519 align:start position:0%
+and name spaces and all that stuff is
+ 
+
+00:16:35.519 --> 00:16:37.590 align:start position:0%
+and name spaces and all that stuff is
+just<00:16:36.000><c> organized</c><00:16:36.480><c> for</c><00:16:36.639><c> you.</c><00:16:36.880><c> It's</c><00:16:37.120><c> all</c><00:16:37.279><c> here.</c>
+
+00:16:37.590 --> 00:16:37.600 align:start position:0%
+just organized for you. It's all here.
+ 
+
+00:16:37.600 --> 00:16:38.790 align:start position:0%
+just organized for you. It's all here.
+You<00:16:37.680><c> can</c><00:16:37.839><c> check</c><00:16:37.920><c> it</c><00:16:38.079><c> out.</c><00:16:38.399><c> We're</c><00:16:38.639><c> using</c>
+
+00:16:38.790 --> 00:16:38.800 align:start position:0%
+You can check it out. We're using
+ 
+
+00:16:38.800 --> 00:16:40.629 align:start position:0%
+You can check it out. We're using
+Tailwind<00:16:39.360><c> version</c><00:16:39.680><c> 4.</c><00:16:39.920><c> You</c><00:16:40.079><c> can</c><00:16:40.160><c> customize</c>
+
+00:16:40.629 --> 00:16:40.639 align:start position:0%
+Tailwind version 4. You can customize
+ 
+
+00:16:40.639 --> 00:16:42.550 align:start position:0%
+Tailwind version 4. You can customize
+all<00:16:40.800><c> of</c><00:16:40.959><c> your</c><00:16:41.199><c> colors.</c><00:16:41.680><c> So,</c><00:16:41.839><c> if</c><00:16:42.000><c> we</c><00:16:42.079><c> look</c><00:16:42.240><c> into</c>
+
+00:16:42.550 --> 00:16:42.560 align:start position:0%
+all of your colors. So, if we look into
+ 
+
+00:16:42.560 --> 00:16:45.350 align:start position:0%
+all of your colors. So, if we look into
+views<00:16:43.120><c> under</c><00:16:43.519><c> shared</c><00:16:44.480><c> components,</c><00:16:45.120><c> this</c><00:16:45.199><c> is</c>
+
+00:16:45.350 --> 00:16:45.360 align:start position:0%
+views under shared components, this is
+ 
+
+00:16:45.360 --> 00:16:47.350 align:start position:0%
+views under shared components, this is
+where<00:16:45.519><c> most</c><00:16:45.759><c> of</c><00:16:45.839><c> the</c><00:16:46.079><c> components</c><00:16:46.560><c> live.</c><00:16:47.120><c> So,</c>
+
+00:16:47.350 --> 00:16:47.360 align:start position:0%
+where most of the components live. So,
+ 
+
+00:16:47.360 --> 00:16:48.990 align:start position:0%
+where most of the components live. So,
+for<00:16:47.440><c> example,</c><00:16:47.839><c> here's</c><00:16:48.160><c> the</c><00:16:48.320><c> drop-own</c>
+
+00:16:48.990 --> 00:16:49.000 align:start position:0%
+for example, here's the drop-own
+ 
+
+00:16:49.000 --> 00:16:51.829 align:start position:0%
+for example, here's the drop-own
+component,<00:16:50.000><c> and</c><00:16:50.320><c> all</c><00:16:50.560><c> of</c><00:16:50.639><c> this</c><00:16:51.279><c> has</c><00:16:51.519><c> been</c>
+
+00:16:51.829 --> 00:16:51.839 align:start position:0%
+component, and all of this has been
+ 
+
+00:16:51.839 --> 00:16:54.069 align:start position:0%
+component, and all of this has been
+meticulously<00:16:52.720><c> built</c><00:16:53.040><c> out</c><00:16:53.199><c> to</c><00:16:53.440><c> be</c><00:16:53.680><c> fully</c>
+
+00:16:54.069 --> 00:16:54.079 align:start position:0%
+meticulously built out to be fully
+ 
+
+00:16:54.079 --> 00:16:56.470 align:start position:0%
+meticulously built out to be fully
+customizable.<00:16:54.880><c> These</c><00:16:55.120><c> are</c><00:16:55.279><c> just</c><00:16:55.600><c> basic</c><00:16:56.000><c> Rails</c>
+
+00:16:56.470 --> 00:16:56.480 align:start position:0%
+customizable. These are just basic Rails
+ 
+
+00:16:56.480 --> 00:16:59.670 align:start position:0%
+customizable. These are just basic Rails
+ERB<00:16:57.399><c> partials.</c><00:16:58.399><c> You</c><00:16:58.639><c> can</c><00:16:58.720><c> pass</c><00:16:59.120><c> a</c><00:16:59.360><c> whole</c><00:16:59.519><c> bunch</c>
+
+00:16:59.670 --> 00:16:59.680 align:start position:0%
+ERB partials. You can pass a whole bunch
+ 
+
+00:16:59.680 --> 00:17:02.710 align:start position:0%
+ERB partials. You can pass a whole bunch
+of<00:16:59.839><c> options</c><00:17:00.320><c> and</c><00:17:00.959><c> attributes</c><00:17:01.680><c> into</c><00:17:02.000><c> them</c><00:17:02.320><c> and</c>
+
+00:17:02.710 --> 00:17:02.720 align:start position:0%
+of options and attributes into them and
+ 
+
+00:17:02.720 --> 00:17:05.270 align:start position:0%
+of options and attributes into them and
+change<00:17:02.959><c> them</c><00:17:03.199><c> up</c><00:17:03.759><c> um</c><00:17:03.839><c> without</c><00:17:04.480><c> uh</c><00:17:04.959><c> without</c>
+
+00:17:05.270 --> 00:17:05.280 align:start position:0%
+change them up um without uh without
+ 
+
+00:17:05.280 --> 00:17:07.750 align:start position:0%
+change them up um without uh without
+changing<00:17:05.600><c> the</c><00:17:05.839><c> core</c><00:17:06.160><c> component.</c><00:17:07.039><c> But</c><00:17:07.360><c> if</c><00:17:07.600><c> you</c>
+
+00:17:07.750 --> 00:17:07.760 align:start position:0%
+changing the core component. But if you
+ 
+
+00:17:07.760 --> 00:17:10.309 align:start position:0%
+changing the core component. But if you
+need<00:17:07.959><c> to,</c><00:17:08.959><c> all</c><00:17:09.120><c> of</c><00:17:09.199><c> your</c><00:17:09.439><c> component</c><00:17:09.839><c> code</c><00:17:10.079><c> is</c>
+
+00:17:10.309 --> 00:17:10.319 align:start position:0%
+need to, all of your component code is
+ 
+
+00:17:10.319 --> 00:17:12.710 align:start position:0%
+need to, all of your component code is
+right<00:17:10.559><c> here</c><00:17:10.720><c> in</c><00:17:10.959><c> your</c><00:17:11.280><c> project.</c><00:17:11.919><c> You</c><00:17:12.160><c> own</c><00:17:12.319><c> it.</c>
+
+00:17:12.710 --> 00:17:12.720 align:start position:0%
+right here in your project. You own it.
+ 
+
+00:17:12.720 --> 00:17:15.110 align:start position:0%
+right here in your project. You own it.
+You're<00:17:12.959><c> it's</c><00:17:13.199><c> good</c><00:17:13.360><c> to</c><00:17:13.520><c> go.</c>
+
+00:17:15.110 --> 00:17:15.120 align:start position:0%
+You're it's good to go.
+ 
+
+00:17:15.120 --> 00:17:16.390 align:start position:0%
+You're it's good to go.
+We've<00:17:15.439><c> got</c><00:17:15.520><c> some</c><00:17:15.839><c> layouts</c><00:17:16.079><c> that</c><00:17:16.240><c> we've</c>
+
+00:17:16.390 --> 00:17:16.400 align:start position:0%
+We've got some layouts that we've
+ 
+
+00:17:16.400 --> 00:17:17.909 align:start position:0%
+We've got some layouts that we've
+installed<00:17:16.799><c> like</c><00:17:16.959><c> the</c><00:17:17.120><c> authentication</c>
+
+00:17:17.909 --> 00:17:17.919 align:start position:0%
+installed like the authentication
+ 
+
+00:17:17.919 --> 00:17:19.429 align:start position:0%
+installed like the authentication
+layout,<00:17:18.240><c> the</c><00:17:18.400><c> application</c><00:17:18.959><c> layout,</c><00:17:19.199><c> the</c>
+
+00:17:19.429 --> 00:17:19.439 align:start position:0%
+layout, the application layout, the
+ 
+
+00:17:19.439 --> 00:17:20.510 align:start position:0%
+layout, the application layout, the
+admin
+
+00:17:20.510 --> 00:17:20.520 align:start position:0%
+admin
+ 
+
+00:17:20.520 --> 00:17:22.789 align:start position:0%
+admin
+layout.<00:17:21.520><c> We</c><00:17:21.679><c> built</c><00:17:21.919><c> out</c><00:17:22.079><c> an</c><00:17:22.240><c> invitation</c>
+
+00:17:22.789 --> 00:17:22.799 align:start position:0%
+layout. We built out an invitation
+ 
+
+00:17:22.799 --> 00:17:24.870 align:start position:0%
+layout. We built out an invitation
+system<00:17:23.520><c> and</c><00:17:23.760><c> you</c><00:17:23.919><c> can</c><00:17:24.000><c> check</c><00:17:24.160><c> out</c><00:17:24.400><c> all</c><00:17:24.640><c> these</c>
+
+00:17:24.870 --> 00:17:24.880 align:start position:0%
+system and you can check out all these
+ 
+
+00:17:24.880 --> 00:17:27.350 align:start position:0%
+system and you can check out all these
+things.<00:17:25.120><c> We</c><00:17:25.280><c> we</c><00:17:25.600><c> follow</c><00:17:26.319><c> um</c><00:17:26.559><c> common</c><00:17:26.959><c> patterns</c>
+
+00:17:27.350 --> 00:17:27.360 align:start position:0%
+things. We we follow um common patterns
+ 
+
+00:17:27.360 --> 00:17:29.510 align:start position:0%
+things. We we follow um common patterns
+across<00:17:27.839><c> the</c><00:17:28.079><c> project</c><00:17:28.640><c> using</c><00:17:28.880><c> a</c><00:17:28.960><c> lot</c><00:17:29.120><c> of</c><00:17:29.200><c> Rails</c>
+
+00:17:29.510 --> 00:17:29.520 align:start position:0%
+across the project using a lot of Rails
+ 
+
+00:17:29.520 --> 00:17:31.669 align:start position:0%
+across the project using a lot of Rails
+conventions<00:17:30.400><c> which</c><00:17:30.640><c> makes</c><00:17:30.799><c> it</c><00:17:31.039><c> really</c><00:17:31.360><c> easy</c>
+
+00:17:31.669 --> 00:17:31.679 align:start position:0%
+conventions which makes it really easy
+ 
+
+00:17:31.679 --> 00:17:34.230 align:start position:0%
+conventions which makes it really easy
+for<00:17:31.919><c> you</c><00:17:32.240><c> and</c><00:17:32.559><c> your</c><00:17:32.720><c> team</c><00:17:32.960><c> to</c><00:17:33.200><c> maintain</c><00:17:34.000><c> and</c>
+
+00:17:34.230 --> 00:17:34.240 align:start position:0%
+for you and your team to maintain and
+ 
+
+00:17:34.240 --> 00:17:37.029 align:start position:0%
+for you and your team to maintain and
+also<00:17:34.480><c> for</c><00:17:34.720><c> LLMs</c><00:17:35.440><c> like</c><00:17:35.919><c> and</c><00:17:36.080><c> and</c><00:17:36.400><c> using</c><00:17:36.720><c> tools</c>
+
+00:17:37.029 --> 00:17:37.039 align:start position:0%
+also for LLMs like and and using tools
+ 
+
+00:17:37.039 --> 00:17:38.870 align:start position:0%
+also for LLMs like and and using tools
+like<00:17:37.200><c> cursor</c><00:17:37.679><c> and</c><00:17:37.840><c> wind</c><00:17:38.080><c> surf</c><00:17:38.480><c> when</c><00:17:38.720><c> you're</c>
+
+00:17:38.870 --> 00:17:38.880 align:start position:0%
+like cursor and wind surf when you're
+ 
+
+00:17:38.880 --> 00:17:41.029 align:start position:0%
+like cursor and wind surf when you're
+vibe<00:17:39.200><c> coding.</c><00:17:39.679><c> It's</c><00:17:39.919><c> all</c><00:17:40.160><c> standard</c><00:17:40.640><c> Rails</c>
+
+00:17:41.029 --> 00:17:41.039 align:start position:0%
+vibe coding. It's all standard Rails
+ 
+
+00:17:41.039 --> 00:17:43.669 align:start position:0%
+vibe coding. It's all standard Rails
+stuff.<00:17:41.760><c> So</c><00:17:42.320><c> uh</c><00:17:42.559><c> you</c><00:17:42.720><c> know</c><00:17:42.880><c> it</c><00:17:43.039><c> it</c><00:17:43.360><c> makes</c><00:17:43.520><c> it</c>
+
+00:17:43.669 --> 00:17:43.679 align:start position:0%
+stuff. So uh you know it it makes it
+ 
+
+00:17:43.679 --> 00:17:46.789 align:start position:0%
+stuff. So uh you know it it makes it
+really<00:17:44.320><c> um</c><00:17:44.559><c> easy</c><00:17:44.960><c> to</c><00:17:45.440><c> build</c><00:17:45.760><c> out</c><00:17:46.080><c> applications</c>
+
+00:17:46.789 --> 00:17:46.799 align:start position:0%
+really um easy to build out applications
+ 
+
+00:17:46.799 --> 00:17:49.350 align:start position:0%
+really um easy to build out applications
+really<00:17:47.480><c> fast.</c><00:17:48.480><c> So</c><00:17:48.720><c> that's</c><00:17:48.880><c> a</c><00:17:49.039><c> look</c><00:17:49.200><c> at</c>
+
+00:17:49.350 --> 00:17:49.360 align:start position:0%
+really fast. So that's a look at
+ 
+
+00:17:49.360 --> 00:17:51.270 align:start position:0%
+really fast. So that's a look at
+instrumental<00:17:50.000><c> components.</c><00:17:50.559><c> There</c><00:17:50.720><c> are</c><00:17:50.960><c> many</c>
+
+00:17:51.270 --> 00:17:51.280 align:start position:0%
+instrumental components. There are many
+ 
+
+00:17:51.280 --> 00:17:53.430 align:start position:0%
+instrumental components. There are many
+more<00:17:51.520><c> components</c><00:17:52.080><c> already</c><00:17:52.400><c> included</c><00:17:53.039><c> and</c><00:17:53.280><c> I'm</c>
+
+00:17:53.430 --> 00:17:53.440 align:start position:0%
+more components already included and I'm
+ 
+
+00:17:53.440 --> 00:17:55.669 align:start position:0%
+more components already included and I'm
+releasing<00:17:53.840><c> new</c><00:17:54.000><c> ones</c><00:17:54.559><c> all</c><00:17:54.799><c> the</c><00:17:55.039><c> time.</c><00:17:55.440><c> So</c>
+
+00:17:55.669 --> 00:17:55.679 align:start position:0%
+releasing new ones all the time. So
+ 
+
+00:17:55.679 --> 00:17:56.590 align:start position:0%
+releasing new ones all the time. So
+check<00:17:55.840><c> out</c>
+
+00:17:56.590 --> 00:17:56.600 align:start position:0%
+check out
+ 
+
+00:17:56.600 --> 00:18:00.480 align:start position:0%
+check out
+instrumental.dev.<00:17:57.600><c> Thanks</c><00:17:57.840><c> for</c><00:17:58.080><c> watching.</c>
+
