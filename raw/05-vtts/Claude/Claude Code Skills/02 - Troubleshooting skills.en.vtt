@@ -1,0 +1,696 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.360 --> 00:00:05.510 align:start position:0%
+ 
+When<00:00:03.679><c> skills</c><00:00:04.080><c> don't</c><00:00:04.400><c> work,</c><00:00:04.960><c> the</c><00:00:05.200><c> problem</c>
+
+00:00:05.510 --> 00:00:05.520 align:start position:0%
+When skills don't work, the problem
+ 
+
+00:00:05.520 --> 00:00:07.590 align:start position:0%
+When skills don't work, the problem
+usually<00:00:05.920><c> falls</c><00:00:06.240><c> into</c><00:00:06.560><c> one</c><00:00:06.960><c> of</c><00:00:07.200><c> a</c><00:00:07.359><c> few</c>
+
+00:00:07.590 --> 00:00:07.600 align:start position:0%
+usually falls into one of a few
+ 
+
+00:00:07.600 --> 00:00:09.190 align:start position:0%
+usually falls into one of a few
+categories.
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+categories.
+ 
+
+00:00:09.200 --> 00:00:12.390 align:start position:0%
+categories.
+The<00:00:09.440><c> skill</c><00:00:09.760><c> doesn't</c><00:00:10.080><c> trigger,</c><00:00:11.120><c> doesn't</c><00:00:11.440><c> load,</c>
+
+00:00:12.390 --> 00:00:12.400 align:start position:0%
+The skill doesn't trigger, doesn't load,
+ 
+
+00:00:12.400 --> 00:00:15.710 align:start position:0%
+The skill doesn't trigger, doesn't load,
+has<00:00:12.719><c> conflicts,</c><00:00:13.679><c> or</c><00:00:14.000><c> fails</c><00:00:14.240><c> at</c><00:00:14.480><c> runtime.</c><00:00:15.599><c> But</c>
+
+00:00:15.710 --> 00:00:15.720 align:start position:0%
+has conflicts, or fails at runtime. But
+ 
+
+00:00:15.720 --> 00:00:16.630 align:start position:0%
+has conflicts, or fails at runtime. But
+[music]
+
+00:00:16.630 --> 00:00:16.640 align:start position:0%
+[music]
+ 
+
+00:00:16.640 --> 00:00:19.029 align:start position:0%
+[music]
+good<00:00:16.960><c> news,</c><00:00:17.840><c> most</c><00:00:18.080><c> fixes</c><00:00:18.560><c> are</c><00:00:18.800><c> pretty</c>
+
+00:00:19.029 --> 00:00:19.039 align:start position:0%
+good news, most fixes are pretty
+ 
+
+00:00:19.039 --> 00:00:22.070 align:start position:0%
+good news, most fixes are pretty
+straightforward.<00:00:19.760><c> Here</c><00:00:19.920><c> are</c><00:00:20.080><c> some</c><00:00:20.160><c> of</c><00:00:20.320><c> them.</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+straightforward. Here are some of them.
+ 
+
+00:00:22.080 --> 00:00:23.830 align:start position:0%
+straightforward. Here are some of them.
+First<00:00:22.320><c> thing</c><00:00:22.480><c> we</c><00:00:22.640><c> can</c><00:00:22.800><c> do</c><00:00:22.880><c> is</c><00:00:23.039><c> try</c><00:00:23.279><c> the</c><00:00:23.439><c> agent</c>
+
+00:00:23.830 --> 00:00:23.840 align:start position:0%
+First thing we can do is try the agent
+ 
+
+00:00:23.840 --> 00:00:26.790 align:start position:0%
+First thing we can do is try the agent
+skills<00:00:24.160><c> verifier</c><00:00:24.720><c> command.</c><00:00:26.160><c> Depending</c><00:00:26.560><c> on</c>
+
+00:00:26.790 --> 00:00:26.800 align:start position:0%
+skills verifier command. Depending on
+ 
+
+00:00:26.800 --> 00:00:28.870 align:start position:0%
+skills verifier command. Depending on
+your<00:00:27.119><c> operating</c><00:00:27.599><c> system,</c><00:00:28.240><c> installation</c>
+
+00:00:28.870 --> 00:00:28.880 align:start position:0%
+your operating system, installation
+ 
+
+00:00:28.880 --> 00:00:31.189 align:start position:0%
+your operating system, installation
+steps<00:00:29.279><c> will</c><00:00:29.599><c> differ,</c><00:00:30.080><c> but</c><00:00:30.400><c> we</c><00:00:30.720><c> recommend</c>
+
+00:00:31.189 --> 00:00:31.199 align:start position:0%
+steps will differ, but we recommend
+ 
+
+00:00:31.199 --> 00:00:33.270 align:start position:0%
+steps will differ, but we recommend
+using<00:00:31.599><c> UV</c><00:00:32.079><c> as</c><00:00:32.239><c> it's</c><00:00:32.399><c> the</c><00:00:32.559><c> easiest</c><00:00:32.880><c> way</c><00:00:32.960><c> to</c><00:00:33.120><c> get</c>
+
+00:00:33.270 --> 00:00:33.280 align:start position:0%
+using UV as it's the easiest way to get
+ 
+
+00:00:33.280 --> 00:00:35.750 align:start position:0%
+using UV as it's the easiest way to get
+it<00:00:33.440><c> installed</c><00:00:33.840><c> fast.</c><00:00:34.960><c> Once</c><00:00:35.280><c> installed,</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+it installed fast. Once installed,
+ 
+
+00:00:35.760 --> 00:00:37.270 align:start position:0%
+it installed fast. Once installed,
+either<00:00:36.000><c> navigate</c><00:00:36.320><c> to</c><00:00:36.480><c> your</c><00:00:36.640><c> skill</c><00:00:36.960><c> directory</c>
+
+00:00:37.270 --> 00:00:37.280 align:start position:0%
+either navigate to your skill directory
+ 
+
+00:00:37.280 --> 00:00:41.910 align:start position:0%
+either navigate to your skill directory
+or<00:00:37.600><c> run</c><00:00:37.840><c> this</c><00:00:38.079><c> command</c><00:00:38.320><c> from</c><00:00:38.559><c> anywhere.</c>
+
+00:00:41.910 --> 00:00:41.920 align:start position:0%
+ 
+ 
+
+00:00:41.920 --> 00:00:43.830 align:start position:0%
+ 
+Your<00:00:42.160><c> skill</c><00:00:42.480><c> exists,</c><00:00:43.040><c> it</c><00:00:43.280><c> passes</c><00:00:43.600><c> the</c>
+
+00:00:43.830 --> 00:00:43.840 align:start position:0%
+Your skill exists, it passes the
+ 
+
+00:00:43.840 --> 00:00:46.150 align:start position:0%
+Your skill exists, it passes the
+validator,<00:00:44.559><c> but</c><00:00:44.879><c> Claude</c><00:00:45.200><c> isn't</c><00:00:45.600><c> using</c><00:00:45.840><c> it</c>
+
+00:00:46.150 --> 00:00:46.160 align:start position:0%
+validator, but Claude isn't using it
+ 
+
+00:00:46.160 --> 00:00:50.150 align:start position:0%
+validator, but Claude isn't using it
+when<00:00:46.480><c> expected.</c><00:00:47.840><c> H</c><00:00:48.879><c> well,</c><00:00:49.440><c> the</c><00:00:49.680><c> cause</c><00:00:49.920><c> is</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+when expected. H well, the cause is
+ 
+
+00:00:50.160 --> 00:00:52.389 align:start position:0%
+when expected. H well, the cause is
+almost<00:00:50.399><c> always</c><00:00:50.719><c> the</c><00:00:50.960><c> description.</c><00:00:52.079><c> Cloud</c>
+
+00:00:52.389 --> 00:00:52.399 align:start position:0%
+almost always the description. Cloud
+ 
+
+00:00:52.399 --> 00:00:54.549 align:start position:0%
+almost always the description. Cloud
+uses<00:00:52.719><c> semantic</c><00:00:53.280><c> matching,</c><00:00:53.760><c> so</c><00:00:54.000><c> your</c><00:00:54.239><c> request</c>
+
+00:00:54.549 --> 00:00:54.559 align:start position:0%
+uses semantic matching, so your request
+ 
+
+00:00:54.559 --> 00:00:56.389 align:start position:0%
+uses semantic matching, so your request
+needs<00:00:54.800><c> to</c><00:00:55.039><c> overlap</c><00:00:55.520><c> with</c><00:00:55.680><c> the</c><00:00:55.920><c> description's</c>
+
+00:00:56.389 --> 00:00:56.399 align:start position:0%
+needs to overlap with the description's
+ 
+
+00:00:56.399 --> 00:01:00.389 align:start position:0%
+needs to overlap with the description's
+meaning.<00:00:57.520><c> If</c><00:00:57.760><c> there's</c><00:00:58.079><c> not</c><00:00:58.320><c> enough</c><00:00:58.800><c> overlap,</c>
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+meaning. If there's not enough overlap,
+ 
+
+00:01:00.399 --> 00:01:02.709 align:start position:0%
+meaning. If there's not enough overlap,
+no<00:01:00.719><c> match.</c><00:01:01.520><c> Check</c><00:01:01.760><c> your</c><00:01:01.920><c> description</c><00:01:02.399><c> against</c>
+
+00:01:02.709 --> 00:01:02.719 align:start position:0%
+no match. Check your description against
+ 
+
+00:01:02.719 --> 00:01:04.789 align:start position:0%
+no match. Check your description against
+how<00:01:02.879><c> you're</c><00:01:03.039><c> phrasing</c><00:01:03.600><c> requests.</c><00:01:04.559><c> Add</c>
+
+00:01:04.789 --> 00:01:04.799 align:start position:0%
+how you're phrasing requests. Add
+ 
+
+00:01:04.799 --> 00:01:06.630 align:start position:0%
+how you're phrasing requests. Add
+trigger<00:01:05.119><c> phrases</c><00:01:05.600><c> users</c><00:01:05.920><c> would</c><00:01:06.240><c> actually</c>
+
+00:01:06.630 --> 00:01:06.640 align:start position:0%
+trigger phrases users would actually
+ 
+
+00:01:06.640 --> 00:01:09.429 align:start position:0%
+trigger phrases users would actually
+say,<00:01:07.280><c> test</c><00:01:07.600><c> with</c><00:01:07.920><c> variations.</c><00:01:08.960><c> Help</c><00:01:09.200><c> me</c>
+
+00:01:09.429 --> 00:01:09.439 align:start position:0%
+say, test with variations. Help me
+ 
+
+00:01:09.439 --> 00:01:12.310 align:start position:0%
+say, test with variations. Help me
+profile<00:01:09.920><c> this.</c><00:01:10.560><c> Why</c><00:01:10.880><c> is</c><00:01:11.040><c> this</c><00:01:11.280><c> slow?</c><00:01:12.080><c> Make</c>
+
+00:01:12.310 --> 00:01:12.320 align:start position:0%
+profile this. Why is this slow? Make
+ 
+
+00:01:12.320 --> 00:01:14.630 align:start position:0%
+profile this. Why is this slow? Make
+this<00:01:12.560><c> faster.</c><00:01:12.960><c> If</c><00:01:13.200><c> any</c><00:01:13.439><c> fail</c><00:01:13.680><c> to</c><00:01:13.840><c> trigger,</c><00:01:14.400><c> add</c>
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+this faster. If any fail to trigger, add
+ 
+
+00:01:14.640 --> 00:01:17.190 align:start position:0%
+this faster. If any fail to trigger, add
+those<00:01:14.799><c> keywords</c><00:01:15.119><c> to</c><00:01:15.360><c> your</c><00:01:15.520><c> description.</c><00:01:16.960><c> If</c>
+
+00:01:17.190 --> 00:01:17.200 align:start position:0%
+those keywords to your description. If
+ 
+
+00:01:17.200 --> 00:01:19.270 align:start position:0%
+those keywords to your description. If
+your<00:01:17.439><c> skill</c><00:01:17.840><c> doesn't</c><00:01:18.159><c> appear</c><00:01:18.560><c> when</c><00:01:18.799><c> you</c><00:01:18.960><c> ask</c>
+
+00:01:19.270 --> 00:01:19.280 align:start position:0%
+your skill doesn't appear when you ask
+ 
+
+00:01:19.280 --> 00:01:21.749 align:start position:0%
+your skill doesn't appear when you ask
+Claude<00:01:20.000><c> what</c><00:01:20.240><c> skills</c><00:01:20.560><c> are</c><00:01:20.720><c> available,</c><00:01:21.360><c> well,</c>
+
+00:01:21.749 --> 00:01:21.759 align:start position:0%
+Claude what skills are available, well,
+ 
+
+00:01:21.759 --> 00:01:23.749 align:start position:0%
+Claude what skills are available, well,
+check<00:01:22.080><c> these</c><00:01:22.320><c> things.</c><00:01:22.960><c> Skills</c><00:01:23.360><c> must</c><00:01:23.520><c> be</c><00:01:23.600><c> in</c>
+
+00:01:23.749 --> 00:01:23.759 align:start position:0%
+check these things. Skills must be in
+ 
+
+00:01:23.759 --> 00:01:25.109 align:start position:0%
+check these things. Skills must be in
+the<00:01:23.920><c> right</c><00:01:24.080><c> location</c><00:01:24.560><c> with</c><00:01:24.799><c> the</c><00:01:24.960><c> right</c>
+
+00:01:25.109 --> 00:01:25.119 align:start position:0%
+the right location with the right
+ 
+
+00:01:25.119 --> 00:01:27.510 align:start position:0%
+the right location with the right
+structure.<00:01:25.840><c> The</c><00:01:26.080><c> skill.md</c><00:01:26.880><c> file</c><00:01:27.200><c> must</c><00:01:27.439><c> be</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+structure. The skill.md file must be
+ 
+
+00:01:27.520 --> 00:01:29.510 align:start position:0%
+structure. The skill.md file must be
+inside<00:01:27.840><c> of</c><00:01:27.920><c> a</c><00:01:28.080><c> name</c><00:01:28.320><c> directory,</c><00:01:29.040><c> not</c><00:01:29.200><c> at</c><00:01:29.360><c> a</c>
+
+00:01:29.510 --> 00:01:29.520 align:start position:0%
+inside of a name directory, not at a
+ 
+
+00:01:29.520 --> 00:01:31.749 align:start position:0%
+inside of a name directory, not at a
+skills<00:01:29.920><c> root.</c><00:01:30.479><c> The</c><00:01:30.640><c> file</c><00:01:30.960><c> name</c><00:01:31.200><c> must</c><00:01:31.520><c> be</c>
+
+00:01:31.749 --> 00:01:31.759 align:start position:0%
+skills root. The file name must be
+ 
+
+00:01:31.759 --> 00:01:34.149 align:start position:0%
+skills root. The file name must be
+exactly<00:01:32.400><c> skill.md.</c>
+
+00:01:34.149 --> 00:01:34.159 align:start position:0%
+exactly skill.md.
+ 
+
+00:01:34.159 --> 00:01:37.510 align:start position:0%
+exactly skill.md.
+All<00:01:34.400><c> caps</c><00:01:34.720><c> on</c><00:01:34.799><c> the</c><00:01:34.960><c> skill</c><00:01:35.759><c> lowerase</c><00:01:36.320><c> MD.</c><00:01:37.200><c> Just</c>
+
+00:01:37.510 --> 00:01:37.520 align:start position:0%
+All caps on the skill lowerase MD. Just
+ 
+
+00:01:37.520 --> 00:01:39.350 align:start position:0%
+All caps on the skill lowerase MD. Just
+crossing<00:01:38.079><c> things</c><00:01:38.320><c> off</c><00:01:38.479><c> the</c><00:01:38.640><c> list</c><00:01:38.799><c> here.</c><00:01:39.040><c> Okay,</c>
+
+00:01:39.350 --> 00:01:39.360 align:start position:0%
+crossing things off the list here. Okay,
+ 
+
+00:01:39.360 --> 00:01:42.550 align:start position:0%
+crossing things off the list here. Okay,
+just<00:01:39.520><c> crossing</c><00:01:39.840><c> them</c><00:01:40.079><c> off.</c><00:01:40.720><c> Run</c><00:01:41.119><c> claude-debug</c>
+
+00:01:42.550 --> 00:01:42.560 align:start position:0%
+just crossing them off. Run claude-debug
+ 
+
+00:01:42.560 --> 00:01:45.190 align:start position:0%
+just crossing them off. Run claude-debug
+to<00:01:42.799><c> see</c><00:01:43.040><c> loading</c><00:01:43.520><c> errors.</c><00:01:44.079><c> Look</c><00:01:44.240><c> for</c><00:01:44.560><c> messages</c>
+
+00:01:45.190 --> 00:01:45.200 align:start position:0%
+to see loading errors. Look for messages
+ 
+
+00:01:45.200 --> 00:01:47.510 align:start position:0%
+to see loading errors. Look for messages
+mentioning<00:01:45.680><c> your</c><00:01:45.840><c> skill</c><00:01:46.159><c> name.</c><00:01:46.880><c> Sometimes</c>
+
+00:01:47.510 --> 00:01:47.520 align:start position:0%
+mentioning your skill name. Sometimes
+ 
+
+00:01:47.520 --> 00:01:49.429 align:start position:0%
+mentioning your skill name. Sometimes
+this<00:01:47.759><c> will</c><00:01:48.000><c> just</c><00:01:48.320><c> solve</c><00:01:48.560><c> the</c><00:01:48.799><c> problem</c><00:01:49.200><c> for</c>
+
+00:01:49.429 --> 00:01:49.439 align:start position:0%
+this will just solve the problem for
+ 
+
+00:01:49.439 --> 00:01:52.950 align:start position:0%
+this will just solve the problem for
+you.<00:01:50.479><c> If</c><00:01:50.799><c> Claude</c><00:01:51.200><c> uses</c><00:01:51.520><c> the</c><00:01:51.840><c> wrong</c><00:01:52.159><c> skill</c><00:01:52.560><c> or</c>
+
+00:01:52.950 --> 00:01:52.960 align:start position:0%
+you. If Claude uses the wrong skill or
+ 
+
+00:01:52.960 --> 00:01:55.270 align:start position:0%
+you. If Claude uses the wrong skill or
+seems<00:01:53.280><c> confused,</c><00:01:54.079><c> your</c><00:01:54.320><c> descriptions</c><00:01:54.880><c> are</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+seems confused, your descriptions are
+ 
+
+00:01:55.280 --> 00:01:57.670 align:start position:0%
+seems confused, your descriptions are
+probably<00:01:55.759><c> too</c><00:01:56.079><c> similar.</c><00:01:57.119><c> Make</c><00:01:57.360><c> them</c>
+
+00:01:57.670 --> 00:01:57.680 align:start position:0%
+probably too similar. Make them
+ 
+
+00:01:57.680 --> 00:02:00.149 align:start position:0%
+probably too similar. Make them
+distinct.<00:01:58.560><c> Remember,</c><00:01:58.960><c> being</c><00:01:59.200><c> as</c><00:01:59.439><c> specific</c><00:01:59.840><c> as</c>
+
+00:02:00.149 --> 00:02:00.159 align:start position:0%
+distinct. Remember, being as specific as
+ 
+
+00:02:00.159 --> 00:02:02.230 align:start position:0%
+distinct. Remember, being as specific as
+possible<00:02:00.799><c> doesn't</c><00:02:01.200><c> just</c><00:02:01.439><c> help</c><00:02:01.680><c> with</c><00:02:01.840><c> Claude</c>
+
+00:02:02.230 --> 00:02:02.240 align:start position:0%
+possible doesn't just help with Claude
+ 
+
+00:02:02.240 --> 00:02:04.310 align:start position:0%
+possible doesn't just help with Claude
+deciding<00:02:02.560><c> when</c><00:02:02.799><c> to</c><00:02:03.040><c> use</c><00:02:03.200><c> your</c><00:02:03.360><c> skill,</c><00:02:03.840><c> but</c><00:02:04.079><c> not</c>
+
+00:02:04.310 --> 00:02:04.320 align:start position:0%
+deciding when to use your skill, but not
+ 
+
+00:02:04.320 --> 00:02:06.069 align:start position:0%
+deciding when to use your skill, but not
+conflicting<00:02:04.719><c> with</c><00:02:04.960><c> other</c><00:02:05.280><c> similar</c><00:02:05.680><c> sounding</c>
+
+00:02:06.069 --> 00:02:06.079 align:start position:0%
+conflicting with other similar sounding
+ 
+
+00:02:06.079 --> 00:02:07.910 align:start position:0%
+conflicting with other similar sounding
+skills.
+
+00:02:07.910 --> 00:02:07.920 align:start position:0%
+skills.
+ 
+
+00:02:07.920 --> 00:02:09.910 align:start position:0%
+skills.
+If<00:02:08.160><c> your</c><00:02:08.399><c> personal</c><00:02:08.800><c> skill</c><00:02:09.039><c> is</c><00:02:09.200><c> being</c><00:02:09.440><c> ignored,</c>
+
+00:02:09.910 --> 00:02:09.920 align:start position:0%
+If your personal skill is being ignored,
+ 
+
+00:02:09.920 --> 00:02:12.229 align:start position:0%
+If your personal skill is being ignored,
+an<00:02:10.160><c> enterprise</c><00:02:10.640><c> or</c><00:02:10.879><c> higher</c><00:02:11.200><c> priority</c><00:02:11.599><c> skill</c>
+
+00:02:12.229 --> 00:02:12.239 align:start position:0%
+an enterprise or higher priority skill
+ 
+
+00:02:12.239 --> 00:02:14.869 align:start position:0%
+an enterprise or higher priority skill
+might<00:02:12.560><c> have</c><00:02:12.720><c> the</c><00:02:12.879><c> same</c><00:02:13.120><c> name.</c><00:02:13.599><c> So</c><00:02:14.319><c> investigate</c>
+
+00:02:14.869 --> 00:02:14.879 align:start position:0%
+might have the same name. So investigate
+ 
+
+00:02:14.879 --> 00:02:17.750 align:start position:0%
+might have the same name. So investigate
+that.<00:02:15.760><c> If</c><00:02:16.080><c> you</c><00:02:16.239><c> see</c><00:02:16.560><c> an</c><00:02:16.959><c> enterprise</c><00:02:17.440><c> code</c>
+
+00:02:17.750 --> 00:02:17.760 align:start position:0%
+that. If you see an enterprise code
+ 
+
+00:02:17.760 --> 00:02:20.070 align:start position:0%
+that. If you see an enterprise code
+review<00:02:18.160><c> and</c><00:02:18.480><c> you</c><00:02:18.720><c> also</c><00:02:18.959><c> have</c><00:02:19.120><c> a</c><00:02:19.520><c> personal</c><00:02:19.840><c> code</c>
+
+00:02:20.070 --> 00:02:20.080 align:start position:0%
+review and you also have a personal code
+ 
+
+00:02:20.080 --> 00:02:23.030 align:start position:0%
+review and you also have a personal code
+review,<00:02:20.959><c> well</c><00:02:21.280><c> the</c><00:02:21.599><c> enterprise</c><00:02:22.160><c> one</c><00:02:22.560><c> will</c><00:02:22.800><c> win</c>
+
+00:02:23.030 --> 00:02:23.040 align:start position:0%
+review, well the enterprise one will win
+ 
+
+00:02:23.040 --> 00:02:25.750 align:start position:0%
+review, well the enterprise one will win
+every<00:02:23.280><c> time.</c><00:02:24.000><c> So</c><00:02:24.319><c> your</c><00:02:24.640><c> solutions</c><00:02:25.360><c> is</c><00:02:25.520><c> to</c>
+
+00:02:25.750 --> 00:02:25.760 align:start position:0%
+every time. So your solutions is to
+ 
+
+00:02:25.760 --> 00:02:27.190 align:start position:0%
+every time. So your solutions is to
+rename<00:02:26.080><c> your</c><00:02:26.239><c> skill</c><00:02:26.480><c> to</c><00:02:26.720><c> something</c><00:02:26.879><c> a</c><00:02:27.040><c> little</c>
+
+00:02:27.190 --> 00:02:27.200 align:start position:0%
+rename your skill to something a little
+ 
+
+00:02:27.200 --> 00:02:29.110 align:start position:0%
+rename your skill to something a little
+bit<00:02:27.280><c> more</c><00:02:27.440><c> distinct.</c><00:02:28.160><c> Talk</c><00:02:28.400><c> to</c><00:02:28.560><c> your</c><00:02:28.720><c> admin</c>
+
+00:02:29.110 --> 00:02:29.120 align:start position:0%
+bit more distinct. Talk to your admin
+ 
+
+00:02:29.120 --> 00:02:31.830 align:start position:0%
+bit more distinct. Talk to your admin
+about<00:02:29.280><c> the</c><00:02:29.520><c> enterprise</c><00:02:29.920><c> skill,</c><00:02:30.480><c> but</c><00:02:31.520><c> you'll</c>
+
+00:02:31.830 --> 00:02:31.840 align:start position:0%
+about the enterprise skill, but you'll
+ 
+
+00:02:31.840 --> 00:02:33.350 align:start position:0%
+about the enterprise skill, but you'll
+have<00:02:32.000><c> a</c><00:02:32.160><c> better</c><00:02:32.319><c> chance</c><00:02:32.560><c> with</c><00:02:32.800><c> number</c><00:02:33.040><c> one.</c>
+
+00:02:33.350 --> 00:02:33.360 align:start position:0%
+have a better chance with number one.
+ 
+
+00:02:33.360 --> 00:02:35.509 align:start position:0%
+have a better chance with number one.
+Probably
+
+00:02:35.509 --> 00:02:35.519 align:start position:0%
+Probably
+ 
+
+00:02:35.519 --> 00:02:37.350 align:start position:0%
+Probably
+install<00:02:35.840><c> the</c><00:02:36.080><c> plugin</c><00:02:36.480><c> but</c><00:02:36.720><c> can't</c><00:02:36.959><c> see</c><00:02:37.200><c> it.</c>
+
+00:02:37.350 --> 00:02:37.360 align:start position:0%
+install the plugin but can't see it.
+ 
+
+00:02:37.360 --> 00:02:40.229 align:start position:0%
+install the plugin but can't see it.
+Skills?<00:02:38.239><c> Well,</c><00:02:38.800><c> clear</c><00:02:39.040><c> the</c><00:02:39.200><c> cache.</c><00:02:39.840><c> Restart</c>
+
+00:02:40.229 --> 00:02:40.239 align:start position:0%
+Skills? Well, clear the cache. Restart
+ 
+
+00:02:40.239 --> 00:02:43.190 align:start position:0%
+Skills? Well, clear the cache. Restart
+claw<00:02:40.560><c> code</c><00:02:40.800><c> and</c><00:02:41.040><c> reinstall.</c><00:02:42.000><c> If</c><00:02:42.319><c> skills</c><00:02:42.879><c> still</c>
+
+00:02:43.190 --> 00:02:43.200 align:start position:0%
+claw code and reinstall. If skills still
+ 
+
+00:02:43.200 --> 00:02:45.270 align:start position:0%
+claw code and reinstall. If skills still
+don't<00:02:43.440><c> appear,</c><00:02:44.000><c> the</c><00:02:44.239><c> plug-in</c><00:02:44.640><c> structure</c><00:02:44.959><c> just</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+don't appear, the plug-in structure just
+ 
+
+00:02:45.280 --> 00:02:46.869 align:start position:0%
+don't appear, the plug-in structure just
+might<00:02:45.519><c> be</c><00:02:45.680><c> wrong.</c><00:02:46.239><c> This</c><00:02:46.480><c> is</c><00:02:46.560><c> when</c><00:02:46.720><c> the</c>
+
+00:02:46.869 --> 00:02:46.879 align:start position:0%
+might be wrong. This is when the
+ 
+
+00:02:46.879 --> 00:02:49.430 align:start position:0%
+might be wrong. This is when the
+validator<00:02:47.360><c> tool</c><00:02:47.680><c> makes</c><00:02:47.920><c> sense.</c>
+
+00:02:49.430 --> 00:02:49.440 align:start position:0%
+validator tool makes sense.
+ 
+
+00:02:49.440 --> 00:02:51.110 align:start position:0%
+validator tool makes sense.
+The<00:02:49.680><c> skill</c><00:02:49.920><c> loads</c><00:02:50.239><c> but</c><00:02:50.480><c> fails</c><00:02:50.800><c> during</c>
+
+00:02:51.110 --> 00:02:51.120 align:start position:0%
+The skill loads but fails during
+ 
+
+00:02:51.120 --> 00:02:53.670 align:start position:0%
+The skill loads but fails during
+execution.<00:02:52.080><c> If</c><00:02:52.239><c> your</c><00:02:52.480><c> skill</c><00:02:52.800><c> uses</c><00:02:53.200><c> external</c>
+
+00:02:53.670 --> 00:02:53.680 align:start position:0%
+execution. If your skill uses external
+ 
+
+00:02:53.680 --> 00:02:56.070 align:start position:0%
+execution. If your skill uses external
+packages,<00:02:54.400><c> they</c><00:02:54.800><c> must</c><00:02:55.040><c> be</c><00:02:55.200><c> installed.</c><00:02:55.840><c> Add</c>
+
+00:02:56.070 --> 00:02:56.080 align:start position:0%
+packages, they must be installed. Add
+ 
+
+00:02:56.080 --> 00:02:58.869 align:start position:0%
+packages, they must be installed. Add
+this<00:02:56.239><c> info</c><00:02:56.560><c> to</c><00:02:56.720><c> your</c><00:02:56.879><c> description.</c>
+
+00:02:58.869 --> 00:02:58.879 align:start position:0%
+this info to your description.
+ 
+
+00:02:58.879 --> 00:03:01.430 align:start position:0%
+this info to your description.
+Scripts<00:02:59.280><c> need</c><00:02:59.519><c> execute</c><00:03:00.000><c> permission.</c><00:03:00.879><c> Use</c><00:03:01.200><c> for</c>
+
+00:03:01.430 --> 00:03:01.440 align:start position:0%
+Scripts need execute permission. Use for
+ 
+
+00:03:01.440 --> 00:03:06.550 align:start position:0%
+Scripts need execute permission. Use for
+slashes<00:03:01.920><c> everywhere,</c><00:03:02.640><c> even</c><00:03:02.879><c> on</c><00:03:03.120><c> Windows.</c>
+
+00:03:06.550 --> 00:03:06.560 align:start position:0%
+ 
+ 
+
+00:03:06.560 --> 00:03:08.630 align:start position:0%
+ 
+So,<00:03:06.800><c> here's</c><00:03:07.040><c> a</c><00:03:07.280><c> quick</c><00:03:07.599><c> checklist.</c><00:03:08.400><c> Not</c>
+
+00:03:08.630 --> 00:03:08.640 align:start position:0%
+So, here's a quick checklist. Not
+ 
+
+00:03:08.640 --> 00:03:10.390 align:start position:0%
+So, here's a quick checklist. Not
+triggering?<00:03:09.599><c> Well,</c><00:03:09.920><c> improve</c><00:03:10.239><c> your</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+triggering? Well, improve your
+ 
+
+00:03:10.400 --> 00:03:12.470 align:start position:0%
+triggering? Well, improve your
+description<00:03:10.800><c> and</c><00:03:11.040><c> trigger</c><00:03:11.360><c> phrases.</c><00:03:12.239><c> Not</c>
+
+00:03:12.470 --> 00:03:12.480 align:start position:0%
+description and trigger phrases. Not
+ 
+
+00:03:12.480 --> 00:03:14.710 align:start position:0%
+description and trigger phrases. Not
+loading?<00:03:13.440><c> Check</c><00:03:13.599><c> your</c><00:03:13.840><c> path,</c><00:03:14.239><c> file</c><00:03:14.480><c> name,</c>
+
+00:03:14.710 --> 00:03:14.720 align:start position:0%
+loading? Check your path, file name,
+ 
+
+00:03:14.720 --> 00:03:17.430 align:start position:0%
+loading? Check your path, file name,
+YAML<00:03:15.120><c> syntax.</c><00:03:15.920><c> Wrong</c><00:03:16.239><c> skill</c><00:03:16.502><c> [music]</c><00:03:16.560><c> used?</c>
+
+00:03:17.430 --> 00:03:17.440 align:start position:0%
+YAML syntax. Wrong skill [music] used?
+ 
+
+00:03:17.440 --> 00:03:18.949 align:start position:0%
+YAML syntax. Wrong skill [music] used?
+Make<00:03:17.680><c> your</c><00:03:17.840><c> descriptions</c><00:03:18.319><c> a</c><00:03:18.560><c> little</c><00:03:18.640><c> bit</c><00:03:18.720><c> more</c>
+
+00:03:18.949 --> 00:03:18.959 align:start position:0%
+Make your descriptions a little bit more
+ 
+
+00:03:18.959 --> 00:03:21.430 align:start position:0%
+Make your descriptions a little bit more
+distinct.<00:03:19.840><c> Are</c><00:03:20.000><c> you</c><00:03:20.159><c> being</c><00:03:20.400><c> shadowed?</c><00:03:21.200><c> Check</c>
+
+00:03:21.430 --> 00:03:21.440 align:start position:0%
+distinct. Are you being shadowed? Check
+ 
+
+00:03:21.440 --> 00:03:24.229 align:start position:0%
+distinct. Are you being shadowed? Check
+the<00:03:21.680><c> priority</c><00:03:22.159><c> and</c><00:03:22.400><c> rename</c><00:03:22.800><c> if</c><00:03:23.040><c> needed.</c>
+
+00:03:24.229 --> 00:03:24.239 align:start position:0%
+the priority and rename if needed.
+ 
+
+00:03:24.239 --> 00:03:26.710 align:start position:0%
+the priority and rename if needed.
+Plugins<00:03:24.640><c> are</c><00:03:24.800><c> missing.</c><00:03:25.920><c> Clear</c><00:03:26.239><c> your</c><00:03:26.400><c> cache</c>
+
+00:03:26.710 --> 00:03:26.720 align:start position:0%
+Plugins are missing. Clear your cache
+ 
+
+00:03:26.720 --> 00:03:29.270 align:start position:0%
+Plugins are missing. Clear your cache
+and<00:03:26.879><c> reinstall.</c><00:03:27.760><c> Runtime</c><00:03:28.239><c> failure?</c><00:03:28.959><c> Check</c>
+
+00:03:29.270 --> 00:03:29.280 align:start position:0%
+and reinstall. Runtime failure? Check
+ 
+
+00:03:29.280 --> 00:03:34.040 align:start position:0%
+and reinstall. Runtime failure? Check
+dependencies,<00:03:30.000><c> permissions,</c><00:03:30.720><c> and</c><00:03:31.040><c> pass.</c>
+

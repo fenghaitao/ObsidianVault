@@ -1,0 +1,832 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.879 --> 00:00:04.950 align:start position:0%
+ 
+A<00:00:03.120><c> basic</c><00:00:03.520><c> skill</c><00:00:03.840><c> works</c><00:00:04.080><c> with</c><00:00:04.240><c> just</c><00:00:04.400><c> a</c><00:00:04.560><c> name</c><00:00:04.799><c> and</c>
+
+00:00:04.950 --> 00:00:04.960 align:start position:0%
+A basic skill works with just a name and
+ 
+
+00:00:04.960 --> 00:00:06.710 align:start position:0%
+A basic skill works with just a name and
+description,<00:00:05.839><c> but</c><00:00:06.000><c> here</c><00:00:06.240><c> are</c><00:00:06.400><c> some</c><00:00:06.560><c> other</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+description, but here are some other
+ 
+
+00:00:06.720 --> 00:00:08.710 align:start position:0%
+description, but here are some other
+advanced<00:00:07.120><c> tips</c><00:00:07.359><c> that</c><00:00:07.600><c> can</c><00:00:07.759><c> make</c><00:00:07.919><c> your</c><00:00:08.160><c> skills</c>
+
+00:00:08.710 --> 00:00:08.720 align:start position:0%
+advanced tips that can make your skills
+ 
+
+00:00:08.720 --> 00:00:12.390 align:start position:0%
+advanced tips that can make your skills
+really<00:00:09.040><c> effective</c><00:00:09.519><c> in</c><00:00:09.760><c> claw</c><00:00:10.080><c> code.</c>
+
+00:00:12.390 --> 00:00:12.400 align:start position:0%
+really effective in claw code.
+ 
+
+00:00:12.400 --> 00:00:15.110 align:start position:0%
+really effective in claw code.
+The<00:00:12.639><c> agentskills.io</c><00:00:14.080><c> open</c><00:00:14.400><c> standard</c><00:00:14.880><c> has</c>
+
+00:00:15.110 --> 00:00:15.120 align:start position:0%
+The agentskills.io open standard has
+ 
+
+00:00:15.120 --> 00:00:17.910 align:start position:0%
+The agentskills.io open standard has
+many<00:00:15.360><c> available</c><00:00:15.839><c> fields.</c><00:00:17.119><c> We</c><00:00:17.440><c> already</c><00:00:17.680><c> went</c>
+
+00:00:17.910 --> 00:00:17.920 align:start position:0%
+many available fields. We already went
+ 
+
+00:00:17.920 --> 00:00:20.310 align:start position:0%
+many available fields. We already went
+over<00:00:18.320><c> the</c><00:00:18.720><c> name,</c><00:00:19.199><c> which</c><00:00:19.680><c> identifies</c><00:00:20.080><c> your</c>
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+over the name, which identifies your
+ 
+
+00:00:20.320 --> 00:00:22.550 align:start position:0%
+over the name, which identifies your
+skill,<00:00:20.880><c> uses</c><00:00:21.279><c> lowercase</c><00:00:21.760><c> letters,</c><00:00:22.320><c> numbers,</c>
+
+00:00:22.550 --> 00:00:22.560 align:start position:0%
+skill, uses lowercase letters, numbers,
+ 
+
+00:00:22.560 --> 00:00:25.109 align:start position:0%
+skill, uses lowercase letters, numbers,
+and<00:00:22.800><c> hyphens</c><00:00:23.199><c> only.</c><00:00:23.840><c> A</c><00:00:24.000><c> maximum</c><00:00:24.400><c> of</c><00:00:24.640><c> 64</c>
+
+00:00:25.109 --> 00:00:25.119 align:start position:0%
+and hyphens only. A maximum of 64
+ 
+
+00:00:25.119 --> 00:00:26.390 align:start position:0%
+and hyphens only. A maximum of 64
+characters<00:00:25.519><c> and</c><00:00:25.760><c> should</c><00:00:25.920><c> match</c><00:00:26.160><c> your</c>
+
+00:00:26.390 --> 00:00:26.400 align:start position:0%
+characters and should match your
+ 
+
+00:00:26.400 --> 00:00:28.470 align:start position:0%
+characters and should match your
+directory<00:00:26.800><c> name.</c><00:00:27.279><c> a</c><00:00:27.599><c> description</c><00:00:28.080><c> which</c><00:00:28.320><c> is</c>
+
+00:00:28.470 --> 00:00:28.480 align:start position:0%
+directory name. a description which is
+ 
+
+00:00:28.480 --> 00:00:30.630 align:start position:0%
+directory name. a description which is
+also<00:00:28.720><c> required</c><00:00:29.279><c> which</c><00:00:29.599><c> tells</c><00:00:29.840><c> Claude</c><00:00:30.240><c> when</c><00:00:30.400><c> to</c>
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+also required which tells Claude when to
+ 
+
+00:00:30.640 --> 00:00:33.670 align:start position:0%
+also required which tells Claude when to
+use<00:00:30.800><c> the</c><00:00:30.960><c> skill.</c><00:00:31.599><c> This</c><00:00:31.760><c> is</c><00:00:31.920><c> a</c><00:00:32.079><c> maximum</c><00:00:32.480><c> of,024</c>
+
+00:00:33.670 --> 00:00:33.680 align:start position:0%
+use the skill. This is a maximum of,024
+ 
+
+00:00:33.680 --> 00:00:35.270 align:start position:0%
+use the skill. This is a maximum of,024
+characters<00:00:34.160><c> and</c><00:00:34.399><c> is</c><00:00:34.559><c> the</c><00:00:34.800><c> most</c><00:00:34.960><c> important</c>
+
+00:00:35.270 --> 00:00:35.280 align:start position:0%
+characters and is the most important
+ 
+
+00:00:35.280 --> 00:00:37.270 align:start position:0%
+characters and is the most important
+field.<00:00:35.760><c> Claude</c><00:00:36.160><c> uses</c><00:00:36.399><c> this</c><00:00:36.559><c> for</c><00:00:36.719><c> matching.</c>
+
+00:00:37.270 --> 00:00:37.280 align:start position:0%
+field. Claude uses this for matching.
+ 
+
+00:00:37.280 --> 00:00:38.869 align:start position:0%
+field. Claude uses this for matching.
+But<00:00:37.440><c> we</c><00:00:37.600><c> can</c><00:00:37.760><c> also</c><00:00:37.920><c> add</c><00:00:38.239><c> other</c><00:00:38.480><c> optional</c>
+
+00:00:38.869 --> 00:00:38.879 align:start position:0%
+But we can also add other optional
+ 
+
+00:00:38.879 --> 00:00:41.670 align:start position:0%
+But we can also add other optional
+fields.<00:00:40.079><c> One</c><00:00:40.239><c> of</c><00:00:40.399><c> them</c><00:00:40.559><c> is</c><00:00:40.800><c> the</c><00:00:41.040><c> allowed</c><00:00:41.360><c> tools</c>
+
+00:00:41.670 --> 00:00:41.680 align:start position:0%
+fields. One of them is the allowed tools
+ 
+
+00:00:41.680 --> 00:00:43.830 align:start position:0%
+fields. One of them is the allowed tools
+field<00:00:42.160><c> which</c><00:00:42.399><c> restricts</c><00:00:42.800><c> which</c><00:00:43.040><c> tools</c><00:00:43.440><c> Claude</c>
+
+00:00:43.830 --> 00:00:43.840 align:start position:0%
+field which restricts which tools Claude
+ 
+
+00:00:43.840 --> 00:00:45.750 align:start position:0%
+field which restricts which tools Claude
+can<00:00:44.000><c> use</c><00:00:44.160><c> when</c><00:00:44.399><c> the</c><00:00:44.559><c> skill</c><00:00:44.719><c> is</c><00:00:44.879><c> active.</c><00:00:45.440><c> The</c>
+
+00:00:45.750 --> 00:00:45.760 align:start position:0%
+can use when the skill is active. The
+ 
+
+00:00:45.760 --> 00:00:47.670 align:start position:0%
+can use when the skill is active. The
+model<00:00:46.000><c> field</c><00:00:46.320><c> which</c><00:00:46.559><c> specifies</c><00:00:47.039><c> which</c><00:00:47.280><c> cla</c>
+
+00:00:47.670 --> 00:00:47.680 align:start position:0%
+model field which specifies which cla
+ 
+
+00:00:47.680 --> 00:00:50.389 align:start position:0%
+model field which specifies which cla
+model<00:00:47.920><c> to</c><00:00:48.079><c> use</c><00:00:48.399><c> for</c><00:00:48.559><c> the</c><00:00:48.800><c> skill.</c><00:00:49.920><c> Try</c><00:00:50.160><c> to</c><00:00:50.239><c> be</c>
+
+00:00:50.389 --> 00:00:50.399 align:start position:0%
+model to use for the skill. Try to be
+ 
+
+00:00:50.399 --> 00:00:52.549 align:start position:0%
+model to use for the skill. Try to be
+explicit<00:00:50.800><c> with</c><00:00:51.039><c> your</c><00:00:51.200><c> instructions.</c><00:00:52.480><c> For</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+explicit with your instructions. For
+ 
+
+00:00:52.559 --> 00:00:54.709 align:start position:0%
+explicit with your instructions. For
+example,<00:00:53.199><c> if</c><00:00:53.440><c> someone</c><00:00:53.680><c> told</c><00:00:53.840><c> me</c><00:00:54.000><c> my</c><00:00:54.239><c> job</c><00:00:54.480><c> was</c>
+
+00:00:54.709 --> 00:00:54.719 align:start position:0%
+example, if someone told me my job was
+ 
+
+00:00:54.719 --> 00:00:57.430 align:start position:0%
+example, if someone told me my job was
+to<00:00:55.199><c> help</c><00:00:55.520><c> with</c><00:00:55.840><c> dogs,</c><00:00:56.719><c> I</c><00:00:56.960><c> wouldn't</c><00:00:57.120><c> know</c><00:00:57.280><c> what</c>
+
+00:00:57.430 --> 00:00:57.440 align:start position:0%
+to help with dogs, I wouldn't know what
+ 
+
+00:00:57.440 --> 00:01:00.229 align:start position:0%
+to help with dogs, I wouldn't know what
+to<00:00:57.600><c> do.</c><00:00:58.640><c> So,</c><00:00:58.960><c> we</c><00:00:59.199><c> have</c><00:00:59.359><c> to</c><00:00:59.520><c> assume</c><00:00:59.840><c> Claude</c>
+
+00:01:00.229 --> 00:01:00.239 align:start position:0%
+to do. So, we have to assume Claude
+ 
+
+00:01:00.239 --> 00:01:02.549 align:start position:0%
+to do. So, we have to assume Claude
+would<00:01:00.399><c> think</c><00:01:00.640><c> the</c><00:01:00.879><c> same</c><00:01:01.039><c> way.</c><00:01:02.160><c> A</c><00:01:02.399><c> good</c>
+
+00:01:02.549 --> 00:01:02.559 align:start position:0%
+would think the same way. A good
+ 
+
+00:01:02.559 --> 00:01:04.789 align:start position:0%
+would think the same way. A good
+description<00:01:03.039><c> answers</c><00:01:03.359><c> two</c><00:01:03.600><c> questions.</c><00:01:04.559><c> What</c>
+
+00:01:04.789 --> 00:01:04.799 align:start position:0%
+description answers two questions. What
+ 
+
+00:01:04.799 --> 00:01:06.469 align:start position:0%
+description answers two questions. What
+does<00:01:04.960><c> this</c><00:01:05.119><c> skill</c><00:01:05.360><c> do?</c><00:01:05.920><c> And</c><00:01:06.080><c> when</c><00:01:06.320><c> should</c>
+
+00:01:06.469 --> 00:01:06.479 align:start position:0%
+does this skill do? And when should
+ 
+
+00:01:06.479 --> 00:01:08.789 align:start position:0%
+does this skill do? And when should
+Claus<00:01:06.799><c> use</c><00:01:07.040><c> it?</c>
+
+00:01:08.789 --> 00:01:08.799 align:start position:0%
+Claus use it?
+ 
+
+00:01:08.799 --> 00:01:10.550 align:start position:0%
+Claus use it?
+Now,<00:01:09.040><c> if</c><00:01:09.280><c> this</c><00:01:09.520><c> job</c><00:01:09.760><c> description</c><00:01:10.159><c> was</c><00:01:10.320><c> given</c>
+
+00:01:10.550 --> 00:01:10.560 align:start position:0%
+Now, if this job description was given
+ 
+
+00:01:10.560 --> 00:01:12.230 align:start position:0%
+Now, if this job description was given
+to<00:01:10.720><c> me,</c><00:01:11.200><c> I</c><00:01:11.439><c> feel</c><00:01:11.600><c> a</c><00:01:11.840><c> little</c><00:01:11.920><c> bit</c><00:01:12.080><c> more</c>
+
+00:01:12.230 --> 00:01:12.240 align:start position:0%
+to me, I feel a little bit more
+ 
+
+00:01:12.240 --> 00:01:14.230 align:start position:0%
+to me, I feel a little bit more
+confident<00:01:12.560><c> that</c><00:01:12.960><c> I</c><00:01:13.119><c> could</c><00:01:13.280><c> get</c><00:01:13.439><c> the</c><00:01:13.600><c> job</c><00:01:13.760><c> done.</c>
+
+00:01:14.230 --> 00:01:14.240 align:start position:0%
+confident that I could get the job done.
+ 
+
+00:01:14.240 --> 00:01:16.310 align:start position:0%
+confident that I could get the job done.
+If<00:01:14.400><c> your</c><00:01:14.640><c> skill</c><00:01:14.880><c> isn't</c><00:01:15.119><c> triggering,</c><00:01:15.920><c> add</c><00:01:16.159><c> more</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+If your skill isn't triggering, add more
+ 
+
+00:01:16.320 --> 00:01:17.910 align:start position:0%
+If your skill isn't triggering, add more
+keywords<00:01:16.720><c> that</c><00:01:16.960><c> match</c><00:01:17.200><c> how</c><00:01:17.360><c> you</c><00:01:17.600><c> phrase</c>
+
+00:01:17.910 --> 00:01:17.920 align:start position:0%
+keywords that match how you phrase
+ 
+
+00:01:17.920 --> 00:01:20.710 align:start position:0%
+keywords that match how you phrase
+requests.
+
+00:01:20.710 --> 00:01:20.720 align:start position:0%
+requests.
+ 
+
+00:01:20.720 --> 00:01:22.630 align:start position:0%
+requests.
+Sometimes<00:01:21.119><c> you</c><00:01:21.360><c> want</c><00:01:21.439><c> a</c><00:01:21.600><c> skill</c><00:01:21.840><c> that</c><00:01:22.080><c> can</c><00:01:22.240><c> only</c>
+
+00:01:22.630 --> 00:01:22.640 align:start position:0%
+Sometimes you want a skill that can only
+ 
+
+00:01:22.640 --> 00:01:26.070 align:start position:0%
+Sometimes you want a skill that can only
+read<00:01:22.880><c> files,</c><00:01:23.600><c> not</c><00:01:23.840><c> modify</c><00:01:24.320><c> them.</c><00:01:25.600><c> This</c><00:01:25.840><c> could</c>
+
+00:01:26.070 --> 00:01:26.080 align:start position:0%
+read files, not modify them. This could
+ 
+
+00:01:26.080 --> 00:01:28.950 align:start position:0%
+read files, not modify them. This could
+be<00:01:26.560><c> for</c><00:01:27.040><c> security</c><00:01:27.520><c> sensitive</c><00:01:27.920><c> workflows,</c>
+
+00:01:28.950 --> 00:01:28.960 align:start position:0%
+be for security sensitive workflows,
+ 
+
+00:01:28.960 --> 00:01:31.830 align:start position:0%
+be for security sensitive workflows,
+read<00:01:29.360><c> only</c><00:01:29.680><c> tasks</c><00:01:30.159><c> or</c><00:01:30.400><c> more.</c><00:01:31.280><c> We</c><00:01:31.520><c> have</c><00:01:31.680><c> the</c>
+
+00:01:31.830 --> 00:01:31.840 align:start position:0%
+read only tasks or more. We have the
+ 
+
+00:01:31.840 --> 00:01:33.429 align:start position:0%
+read only tasks or more. We have the
+allowed<00:01:32.240><c> tools</c><00:01:32.560><c> field</c><00:01:32.799><c> to</c><00:01:33.040><c> make</c><00:01:33.200><c> this</c>
+
+00:01:33.429 --> 00:01:33.439 align:start position:0%
+allowed tools field to make this
+ 
+
+00:01:33.439 --> 00:01:35.670 align:start position:0%
+allowed tools field to make this
+possible.<00:01:34.320><c> When</c><00:01:34.560><c> this</c><00:01:34.799><c> skill</c><00:01:35.040><c> is</c><00:01:35.200><c> active,</c>
+
+00:01:35.670 --> 00:01:35.680 align:start position:0%
+possible. When this skill is active,
+ 
+
+00:01:35.680 --> 00:01:37.510 align:start position:0%
+possible. When this skill is active,
+Claw<00:01:36.000><c> can</c><00:01:36.159><c> only</c><00:01:36.400><c> use</c><00:01:36.640><c> those</c><00:01:36.880><c> tools</c><00:01:37.200><c> without</c>
+
+00:01:37.510 --> 00:01:37.520 align:start position:0%
+Claw can only use those tools without
+ 
+
+00:01:37.520 --> 00:01:39.749 align:start position:0%
+Claw can only use those tools without
+asking<00:01:37.920><c> permission.</c><00:01:38.720><c> No</c><00:01:38.960><c> editing,</c><00:01:39.600><c> no</c>
+
+00:01:39.749 --> 00:01:39.759 align:start position:0%
+asking permission. No editing, no
+ 
+
+00:01:39.759 --> 00:01:42.069 align:start position:0%
+asking permission. No editing, no
+writing,<00:01:40.479><c> no</c><00:01:40.640><c> bash</c><00:01:40.960><c> commands.</c><00:01:41.439><c> If</c><00:01:41.600><c> you</c><00:01:41.840><c> omit</c>
+
+00:01:42.069 --> 00:01:42.079 align:start position:0%
+writing, no bash commands. If you omit
+ 
+
+00:01:42.079 --> 00:01:43.510 align:start position:0%
+writing, no bash commands. If you omit
+allowed<00:01:42.400><c> tools,</c><00:01:42.799><c> the</c><00:01:43.040><c> skill</c><00:01:43.360><c> doesn't</c>
+
+00:01:43.510 --> 00:01:43.520 align:start position:0%
+allowed tools, the skill doesn't
+ 
+
+00:01:43.520 --> 00:01:45.830 align:start position:0%
+allowed tools, the skill doesn't
+restrict<00:01:43.920><c> anything.</c><00:01:44.960><c> Claude</c><00:01:45.360><c> uses</c><00:01:45.600><c> its</c>
+
+00:01:45.830 --> 00:01:45.840 align:start position:0%
+restrict anything. Claude uses its
+ 
+
+00:01:45.840 --> 00:01:49.830 align:start position:0%
+restrict anything. Claude uses its
+normal<00:01:46.079><c> permission</c><00:01:46.560><c> model.</c>
+
+00:01:49.830 --> 00:01:49.840 align:start position:0%
+ 
+ 
+
+00:01:49.840 --> 00:01:51.830 align:start position:0%
+ 
+Skills<00:01:50.320><c> share</c><00:01:50.560><c> Claw's</c><00:01:50.960><c> context</c><00:01:51.360><c> window</c><00:01:51.600><c> with</c>
+
+00:01:51.830 --> 00:01:51.840 align:start position:0%
+Skills share Claw's context window with
+ 
+
+00:01:51.840 --> 00:01:54.310 align:start position:0%
+Skills share Claw's context window with
+your<00:01:52.079><c> conversation.</c><00:01:53.200><c> When</c><00:01:53.439><c> Claude</c><00:01:53.920><c> wants</c><00:01:54.159><c> to</c>
+
+00:01:54.310 --> 00:01:54.320 align:start position:0%
+your conversation. When Claude wants to
+ 
+
+00:01:54.320 --> 00:01:56.310 align:start position:0%
+your conversation. When Claude wants to
+use<00:01:54.479><c> a</c><00:01:54.720><c> skill,</c><00:01:55.200><c> it</c><00:01:55.360><c> will</c><00:01:55.439><c> decide</c><00:01:55.759><c> to</c><00:01:55.920><c> load</c><00:01:56.079><c> the</c>
+
+00:01:56.310 --> 00:01:56.320 align:start position:0%
+use a skill, it will decide to load the
+ 
+
+00:01:56.320 --> 00:01:58.789 align:start position:0%
+use a skill, it will decide to load the
+contents<00:01:56.640><c> of</c><00:01:56.799><c> that</c><00:01:56.960><c> skill</c><00:01:57.520><c> into</c><00:01:57.920><c> context.</c>
+
+00:01:58.789 --> 00:01:58.799 align:start position:0%
+contents of that skill into context.
+ 
+
+00:01:58.799 --> 00:02:00.950 align:start position:0%
+contents of that skill into context.
+However,<00:01:59.360><c> sometimes</c><00:01:59.840><c> you'll</c><00:02:00.320><c> need</c><00:02:00.560><c> some</c>
+
+00:02:00.950 --> 00:02:00.960 align:start position:0%
+However, sometimes you'll need some
+ 
+
+00:02:00.960 --> 00:02:03.670 align:start position:0%
+However, sometimes you'll need some
+references,<00:02:01.920><c> examples,</c><00:02:02.479><c> or</c><00:02:02.880><c> some</c><00:02:03.280><c> utility</c>
+
+00:02:03.670 --> 00:02:03.680 align:start position:0%
+references, examples, or some utility
+ 
+
+00:02:03.680 --> 00:02:06.069 align:start position:0%
+references, examples, or some utility
+scripts<00:02:04.000><c> that</c><00:02:04.240><c> are</c><00:02:04.479><c> required</c><00:02:04.880><c> by</c><00:02:05.040><c> the</c><00:02:05.280><c> skill.</c>
+
+00:02:06.069 --> 00:02:06.079 align:start position:0%
+scripts that are required by the skill.
+ 
+
+00:02:06.079 --> 00:02:09.270 align:start position:0%
+scripts that are required by the skill.
+But<00:02:06.479><c> cramming</c><00:02:06.880><c> it</c><00:02:07.119><c> all</c><00:02:07.360><c> into</c><00:02:07.759><c> one</c><00:02:08.239><c> 20,000</c><00:02:09.039><c> line</c>
+
+00:02:09.270 --> 00:02:09.280 align:start position:0%
+But cramming it all into one 20,000 line
+ 
+
+00:02:09.280 --> 00:02:10.949 align:start position:0%
+But cramming it all into one 20,000 line
+text<00:02:09.520><c> file</c><00:02:09.759><c> means</c><00:02:10.000><c> you</c><00:02:10.160><c> take</c><00:02:10.319><c> up</c><00:02:10.479><c> a</c><00:02:10.720><c> lot</c><00:02:10.800><c> of</c>
+
+00:02:10.949 --> 00:02:10.959 align:start position:0%
+text file means you take up a lot of
+ 
+
+00:02:10.959 --> 00:02:13.510 align:start position:0%
+text file means you take up a lot of
+space<00:02:11.200><c> in</c><00:02:11.360><c> the</c><00:02:11.520><c> context</c><00:02:11.920><c> window.</c><00:02:13.040><c> And</c><00:02:13.280><c> let's</c>
+
+00:02:13.510 --> 00:02:13.520 align:start position:0%
+space in the context window. And let's
+ 
+
+00:02:13.520 --> 00:02:15.270 align:start position:0%
+space in the context window. And let's
+be<00:02:13.680><c> real</c><00:02:13.840><c> here,</c><00:02:14.239><c> it's</c><00:02:14.400><c> just</c><00:02:14.640><c> not</c><00:02:14.800><c> a</c><00:02:14.959><c> lot</c><00:02:15.040><c> of</c><00:02:15.120><c> fun</c>
+
+00:02:15.270 --> 00:02:15.280 align:start position:0%
+be real here, it's just not a lot of fun
+ 
+
+00:02:15.280 --> 00:02:17.270 align:start position:0%
+be real here, it's just not a lot of fun
+to<00:02:15.440><c> maintain</c><00:02:15.760><c> that.</c><00:02:16.640><c> This</c><00:02:16.879><c> is</c><00:02:17.040><c> where</c>
+
+00:02:17.270 --> 00:02:17.280 align:start position:0%
+to maintain that. This is where
+ 
+
+00:02:17.280 --> 00:02:19.270 align:start position:0%
+to maintain that. This is where
+progressive<00:02:17.760><c> disclosure</c><00:02:18.239><c> comes</c><00:02:18.480><c> in.</c><00:02:19.120><c> Put</c>
+
+00:02:19.270 --> 00:02:19.280 align:start position:0%
+progressive disclosure comes in. Put
+ 
+
+00:02:19.280 --> 00:02:21.510 align:start position:0%
+progressive disclosure comes in. Put
+your<00:02:19.520><c> essential</c><00:02:19.920><c> instructions</c><00:02:20.400><c> in</c><00:02:20.640><c> skill.mmp</c>
+
+00:02:21.510 --> 00:02:21.520 align:start position:0%
+your essential instructions in skill.mmp
+ 
+
+00:02:21.520 --> 00:02:23.270 align:start position:0%
+your essential instructions in skill.mmp
+and<00:02:21.760><c> detailed</c><00:02:22.239><c> reference</c><00:02:22.640><c> material</c><00:02:23.040><c> in</c>
+
+00:02:23.270 --> 00:02:23.280 align:start position:0%
+and detailed reference material in
+ 
+
+00:02:23.280 --> 00:02:25.350 align:start position:0%
+and detailed reference material in
+separate<00:02:23.599><c> files</c><00:02:24.000><c> that</c><00:02:24.239><c> Claude</c><00:02:24.720><c> reads</c><00:02:25.120><c> only</c>
+
+00:02:25.350 --> 00:02:25.360 align:start position:0%
+separate files that Claude reads only
+ 
+
+00:02:25.360 --> 00:02:27.670 align:start position:0%
+separate files that Claude reads only
+when<00:02:25.680><c> needed.</c><00:02:26.239><c> The</c><00:02:26.560><c> open</c><00:02:26.879><c> standard</c><00:02:27.360><c> also</c>
+
+00:02:27.670 --> 00:02:27.680 align:start position:0%
+when needed. The open standard also
+ 
+
+00:02:27.680 --> 00:02:29.670 align:start position:0%
+when needed. The open standard also
+suggests<00:02:28.080><c> having</c><00:02:28.319><c> a</c><00:02:28.560><c> scripts</c><00:02:28.879><c> folder</c><00:02:29.280><c> for</c>
+
+00:02:29.670 --> 00:02:29.680 align:start position:0%
+suggests having a scripts folder for
+ 
+
+00:02:29.680 --> 00:02:31.830 align:start position:0%
+suggests having a scripts folder for
+executable<00:02:30.319><c> code,</c><00:02:30.879><c> references</c><00:02:31.520><c> for</c>
+
+00:02:31.830 --> 00:02:31.840 align:start position:0%
+executable code, references for
+ 
+
+00:02:31.840 --> 00:02:34.869 align:start position:0%
+executable code, references for
+additional<00:02:32.319><c> documentation</c><00:02:33.519><c> and</c><00:02:33.840><c> assets</c><00:02:34.319><c> for</c>
+
+00:02:34.869 --> 00:02:34.879 align:start position:0%
+additional documentation and assets for
+ 
+
+00:02:34.879 --> 00:02:37.190 align:start position:0%
+additional documentation and assets for
+images,<00:02:35.519><c> templates</c><00:02:36.080><c> or</c><00:02:36.400><c> other</c><00:02:36.640><c> data</c><00:02:36.959><c> files</c>
+
+00:02:37.190 --> 00:02:37.200 align:start position:0%
+images, templates or other data files
+ 
+
+00:02:37.200 --> 00:02:39.910 align:start position:0%
+images, templates or other data files
+that<00:02:37.440><c> would</c><00:02:37.680><c> be</c><00:02:37.840><c> relevant</c><00:02:38.239><c> for</c><00:02:38.400><c> that</c><00:02:38.640><c> skill.</c>
+
+00:02:39.910 --> 00:02:39.920 align:start position:0%
+that would be relevant for that skill.
+ 
+
+00:02:39.920 --> 00:02:42.470 align:start position:0%
+that would be relevant for that skill.
+Then<00:02:40.239><c> in</c><00:02:40.480><c> skill.md</c><00:02:41.599><c> link</c><00:02:41.840><c> to</c><00:02:41.920><c> the</c><00:02:42.080><c> supporting</c>
+
+00:02:42.470 --> 00:02:42.480 align:start position:0%
+Then in skill.md link to the supporting
+ 
+
+00:02:42.480 --> 00:02:44.390 align:start position:0%
+Then in skill.md link to the supporting
+files.<00:02:43.200><c> Here,</c><00:02:43.680><c> Claude</c><00:02:44.080><c> reads</c>
+
+00:02:44.390 --> 00:02:44.400 align:start position:0%
+files. Here, Claude reads
+ 
+
+00:02:44.400 --> 00:02:46.869 align:start position:0%
+files. Here, Claude reads
+architecture.md<00:02:45.840><c> only</c><00:02:46.080><c> when</c><00:02:46.319><c> someone</c><00:02:46.560><c> asks</c>
+
+00:02:46.869 --> 00:02:46.879 align:start position:0%
+architecture.md only when someone asks
+ 
+
+00:02:46.879 --> 00:02:48.790 align:start position:0%
+architecture.md only when someone asks
+about<00:02:47.120><c> system</c><00:02:47.440><c> design.</c><00:02:48.000><c> If</c><00:02:48.239><c> they're</c><00:02:48.400><c> asking</c>
+
+00:02:48.790 --> 00:02:48.800 align:start position:0%
+about system design. If they're asking
+ 
+
+00:02:48.800 --> 00:02:51.190 align:start position:0%
+about system design. If they're asking
+where<00:02:48.959><c> to</c><00:02:49.120><c> add</c><00:02:49.360><c> a</c><00:02:49.680><c> component,</c><00:02:50.319><c> let's</c><00:02:50.560><c> say,</c><00:02:51.040><c> it</c>
+
+00:02:51.190 --> 00:02:51.200 align:start position:0%
+where to add a component, let's say, it
+ 
+
+00:02:51.200 --> 00:02:53.830 align:start position:0%
+where to add a component, let's say, it
+just<00:02:51.360><c> never</c><00:02:51.599><c> loads.</c><00:02:52.879><c> It's</c><00:02:53.120><c> like</c><00:02:53.280><c> having</c><00:02:53.519><c> a</c>
+
+00:02:53.830 --> 00:02:53.840 align:start position:0%
+just never loads. It's like having a
+ 
+
+00:02:53.840 --> 00:02:56.229 align:start position:0%
+just never loads. It's like having a
+table<00:02:54.080><c> of</c><00:02:54.319><c> contents</c><00:02:54.959><c> in</c><00:02:55.200><c> the</c><00:02:55.360><c> context</c><00:02:55.760><c> window</c>
+
+00:02:56.229 --> 00:02:56.239 align:start position:0%
+table of contents in the context window
+ 
+
+00:02:56.239 --> 00:02:57.910 align:start position:0%
+table of contents in the context window
+rather<00:02:56.560><c> than</c><00:02:56.800><c> fitting</c><00:02:57.120><c> the</c><00:02:57.360><c> whole</c><00:02:57.599><c> entire</c>
+
+00:02:57.910 --> 00:02:57.920 align:start position:0%
+rather than fitting the whole entire
+ 
+
+00:02:57.920 --> 00:03:00.550 align:start position:0%
+rather than fitting the whole entire
+document<00:02:58.319><c> in</c><00:02:58.480><c> there.</c><00:02:59.200><c> Keep</c><00:02:59.440><c> skill.md</c><00:03:00.239><c> under</c>
+
+00:03:00.550 --> 00:03:00.560 align:start position:0%
+document in there. Keep skill.md under
+ 
+
+00:03:00.560 --> 00:03:02.949 align:start position:0%
+document in there. Keep skill.md under
+500<00:03:00.959><c> lines.</c><00:03:01.760><c> If</c><00:03:02.000><c> you're</c><00:03:02.319><c> exceeding</c><00:03:02.720><c> that,</c>
+
+00:03:02.949 --> 00:03:02.959 align:start position:0%
+500 lines. If you're exceeding that,
+ 
+
+00:03:02.959 --> 00:03:05.350 align:start position:0%
+500 lines. If you're exceeding that,
+then<00:03:03.200><c> maybe</c><00:03:03.519><c> consider</c><00:03:04.480><c> should</c><00:03:04.720><c> this</c><00:03:04.879><c> be</c><00:03:05.040><c> split</c>
+
+00:03:05.350 --> 00:03:05.360 align:start position:0%
+then maybe consider should this be split
+ 
+
+00:03:05.360 --> 00:03:08.630 align:start position:0%
+then maybe consider should this be split
+up<00:03:05.519><c> into</c><00:03:05.760><c> different</c><00:03:06.080><c> content.</c>
+
+00:03:08.630 --> 00:03:08.640 align:start position:0%
+up into different content.
+ 
+
+00:03:08.640 --> 00:03:10.390 align:start position:0%
+up into different content.
+Scripts<00:03:09.040><c> in</c><00:03:09.120><c> your</c><00:03:09.280><c> skill</c><00:03:09.599><c> directory</c><00:03:10.000><c> can</c><00:03:10.239><c> run</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+Scripts in your skill directory can run
+ 
+
+00:03:10.400 --> 00:03:12.229 align:start position:0%
+Scripts in your skill directory can run
+without<00:03:10.720><c> loading</c><00:03:11.120><c> their</c><00:03:11.360><c> contents</c><00:03:11.840><c> into</c>
+
+00:03:12.229 --> 00:03:12.239 align:start position:0%
+without loading their contents into
+ 
+
+00:03:12.239 --> 00:03:14.309 align:start position:0%
+without loading their contents into
+context.<00:03:12.959><c> The</c><00:03:13.200><c> script</c><00:03:13.440><c> executes</c><00:03:13.920><c> and</c><00:03:14.159><c> only</c>
+
+00:03:14.309 --> 00:03:14.319 align:start position:0%
+context. The script executes and only
+ 
+
+00:03:14.319 --> 00:03:16.790 align:start position:0%
+context. The script executes and only
+the<00:03:14.560><c> output</c><00:03:14.959><c> consumes</c><00:03:15.360><c> tokens.</c><00:03:16.080><c> Tell</c><00:03:16.319><c> claw</c><00:03:16.720><c> to</c>
+
+00:03:16.790 --> 00:03:16.800 align:start position:0%
+the output consumes tokens. Tell claw to
+ 
+
+00:03:16.800 --> 00:03:19.509 align:start position:0%
+the output consumes tokens. Tell claw to
+run<00:03:16.959><c> the</c><00:03:17.120><c> script,</c><00:03:17.680><c> not</c><00:03:17.920><c> read</c><00:03:18.159><c> it.</c><00:03:18.720><c> This</c><00:03:19.120><c> is</c>
+
+00:03:19.509 --> 00:03:19.519 align:start position:0%
+run the script, not read it. This is
+ 
+
+00:03:19.519 --> 00:03:22.390 align:start position:0%
+run the script, not read it. This is
+very<00:03:19.840><c> useful</c><00:03:20.400><c> for</c><00:03:20.800><c> environment</c><00:03:21.360><c> validation,</c>
+
+00:03:22.390 --> 00:03:22.400 align:start position:0%
+very useful for environment validation,
+ 
+
+00:03:22.400 --> 00:03:23.990 align:start position:0%
+very useful for environment validation,
+data<00:03:22.720><c> transformations</c><00:03:23.360><c> that</c><00:03:23.599><c> need</c><00:03:23.760><c> to</c><00:03:23.920><c> be</c>
+
+00:03:23.990 --> 00:03:24.000 align:start position:0%
+data transformations that need to be
+ 
+
+00:03:24.000 --> 00:03:26.070 align:start position:0%
+data transformations that need to be
+consistent,<00:03:24.560><c> operations</c><00:03:25.120><c> that</c><00:03:25.440><c> are</c><00:03:25.760><c> more</c>
+
+00:03:26.070 --> 00:03:26.080 align:start position:0%
+consistent, operations that are more
+ 
+
+00:03:26.080 --> 00:03:28.470 align:start position:0%
+consistent, operations that are more
+reliable<00:03:26.560><c> as</c><00:03:26.879><c> tested</c><00:03:27.360><c> code</c><00:03:27.599><c> than</c><00:03:27.920><c> generated</c>
+
+00:03:28.470 --> 00:03:28.480 align:start position:0%
+reliable as tested code than generated
+ 
+
+00:03:28.480 --> 00:03:31.350 align:start position:0%
+reliable as tested code than generated
+code.
+
+00:03:31.350 --> 00:03:31.360 align:start position:0%
+code.
+ 
+
+00:03:31.360 --> 00:03:33.830 align:start position:0%
+code.
+Skills<00:03:31.760><c> support</c><00:03:32.159><c> metadata</c><00:03:32.799><c> fields.</c><00:03:33.360><c> Name</c><00:03:33.680><c> and</c>
+
+00:03:33.830 --> 00:03:33.840 align:start position:0%
+Skills support metadata fields. Name and
+ 
+
+00:03:33.840 --> 00:03:36.229 align:start position:0%
+Skills support metadata fields. Name and
+description<00:03:34.400><c> which</c><00:03:34.640><c> are</c><00:03:34.879><c> required.</c><00:03:35.760><c> Allowed</c>
+
+00:03:36.229 --> 00:03:36.239 align:start position:0%
+description which are required. Allowed
+ 
+
+00:03:36.239 --> 00:03:38.470 align:start position:0%
+description which are required. Allowed
+tools<00:03:36.640><c> restricts</c><00:03:37.040><c> available</c><00:03:37.519><c> tools</c><00:03:38.159><c> and</c>
+
+00:03:38.470 --> 00:03:38.480 align:start position:0%
+tools restricts available tools and
+ 
+
+00:03:38.480 --> 00:03:40.710 align:start position:0%
+tools restricts available tools and
+model<00:03:38.799><c> specifies</c><00:03:39.280><c> which</c><00:03:39.519><c> claw</c><00:03:39.840><c> to</c><00:03:40.000><c> use.</c>
+
+00:03:40.710 --> 00:03:40.720 align:start position:0%
+model specifies which claw to use.
+ 
+
+00:03:40.720 --> 00:03:42.550 align:start position:0%
+model specifies which claw to use.
+Descriptions<00:03:41.280><c> need</c><00:03:41.599><c> specific</c><00:03:42.000><c> actions</c><00:03:42.319><c> and</c>
+
+00:03:42.550 --> 00:03:42.560 align:start position:0%
+Descriptions need specific actions and
+ 
+
+00:03:42.560 --> 00:03:44.309 align:start position:0%
+Descriptions need specific actions and
+trigger<00:03:43.200><c> phrases</c><00:03:43.680><c> to</c><00:03:43.840><c> match</c><00:03:44.159><c> for</c>
+
+00:03:44.309 --> 00:03:44.319 align:start position:0%
+trigger phrases to match for
+ 
+
+00:03:44.319 --> 00:03:46.789 align:start position:0%
+trigger phrases to match for
+reliability.<00:03:45.519><c> For</c><00:03:45.760><c> larger</c><00:03:46.159><c> skills,</c><00:03:46.560><c> use</c>
+
+00:03:46.789 --> 00:03:46.799 align:start position:0%
+reliability. For larger skills, use
+ 
+
+00:03:46.799 --> 00:03:48.309 align:start position:0%
+reliability. For larger skills, use
+progressive<00:03:47.200><c> disclosure.</c><00:03:47.920><c> Keep</c><00:03:48.159><c> your</c>
+
+00:03:48.309 --> 00:03:48.319 align:start position:0%
+progressive disclosure. Keep your
+ 
+
+00:03:48.319 --> 00:03:50.949 align:start position:0%
+progressive disclosure. Keep your
+skill.md<00:03:49.200><c> file</c><00:03:49.440><c> under</c><00:03:49.840><c> 500</c><00:03:50.239><c> lines</c><00:03:50.560><c> and</c><00:03:50.720><c> link</c>
+
+00:03:50.949 --> 00:03:50.959 align:start position:0%
+skill.md file under 500 lines and link
+ 
+
+00:03:50.959 --> 00:03:52.949 align:start position:0%
+skill.md file under 500 lines and link
+to<00:03:51.040><c> the</c><00:03:51.280><c> supporting</c><00:03:51.680><c> files</c><00:03:51.920><c> that</c><00:03:52.159><c> load</c><00:03:52.640><c> only</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+to the supporting files that load only
+ 
+
+00:03:52.959 --> 00:03:55.430 align:start position:0%
+to the supporting files that load only
+when<00:03:53.200><c> needed.</c><00:03:54.480><c> Scripts</c><00:03:54.500><c> [music]</c><00:03:54.879><c> can</c><00:03:55.040><c> execute</c>
+
+00:03:55.430 --> 00:03:55.440 align:start position:0%
+when needed. Scripts [music] can execute
+ 
+
+00:03:55.440 --> 00:03:57.429 align:start position:0%
+when needed. Scripts [music] can execute
+without<00:03:55.840><c> loading</c><00:03:56.159><c> their</c><00:03:56.400><c> contents,</c><00:03:57.040><c> keeping</c>
+
+00:03:57.429 --> 00:03:57.439 align:start position:0%
+without loading their contents, keeping
+ 
+
+00:03:57.439 --> 00:04:01.000 align:start position:0%
+without loading their contents, keeping
+context<00:03:58.000><c> efficient.</c>
+

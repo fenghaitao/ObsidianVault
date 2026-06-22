@@ -1,0 +1,728 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.360 --> 00:00:05.990 align:start position:0%
+ 
+So,<00:00:04.000><c> let's</c><00:00:04.240><c> create</c><00:00:04.480><c> a</c><00:00:04.640><c> skill.</c><00:00:05.520><c> This</c><00:00:05.759><c> skill</c>
+
+00:00:05.990 --> 00:00:06.000 align:start position:0%
+So, let's create a skill. This skill
+ 
+
+00:00:06.000 --> 00:00:08.310 align:start position:0%
+So, let's create a skill. This skill
+will<00:00:06.240><c> teach</c><00:00:06.480><c> Claude</c><00:00:06.960><c> how</c><00:00:07.279><c> we</c><00:00:07.600><c> would</c><00:00:07.919><c> like</c><00:00:08.080><c> it</c>
+
+00:00:08.310 --> 00:00:08.320 align:start position:0%
+will teach Claude how we would like it
+ 
+
+00:00:08.320 --> 00:00:10.070 align:start position:0%
+will teach Claude how we would like it
+to<00:00:08.480><c> explain</c><00:00:08.800><c> code</c><00:00:09.040><c> using</c><00:00:09.360><c> visual</c><00:00:09.679><c> diagrams</c>
+
+00:00:10.070 --> 00:00:10.080 align:start position:0%
+to explain code using visual diagrams
+ 
+
+00:00:10.080 --> 00:00:11.910 align:start position:0%
+to explain code using visual diagrams
+and<00:00:10.320><c> analogies.</c><00:00:11.135><c> [music]</c>
+
+00:00:11.910 --> 00:00:11.920 align:start position:0%
+and analogies. [music]
+ 
+
+00:00:11.920 --> 00:00:14.390 align:start position:0%
+and analogies. [music]
+Then,<00:00:12.559><c> we'll</c><00:00:12.880><c> look</c><00:00:13.280><c> at</c><00:00:13.519><c> what</c><00:00:13.840><c> happens</c><00:00:14.160><c> under</c>
+
+00:00:14.390 --> 00:00:14.400 align:start position:0%
+Then, we'll look at what happens under
+ 
+
+00:00:14.400 --> 00:00:18.790 align:start position:0%
+Then, we'll look at what happens under
+the<00:00:14.559><c> hood</c><00:00:14.880><c> when</c><00:00:15.120><c> Claude</c><00:00:15.519><c> uses</c><00:00:15.920><c> it.</c>
+
+00:00:18.790 --> 00:00:18.800 align:start position:0%
+the hood when Claude uses it.
+ 
+
+00:00:18.800 --> 00:00:20.310 align:start position:0%
+the hood when Claude uses it.
+First,<00:00:18.995><c> [music]</c><00:00:19.199><c> let's</c><00:00:19.439><c> create</c><00:00:19.680><c> a</c><00:00:19.920><c> directory</c>
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+First, [music] let's create a directory
+ 
+
+00:00:20.320 --> 00:00:22.230 align:start position:0%
+First, [music] let's create a directory
+for<00:00:20.640><c> your</c><00:00:20.880><c> skill.</c><00:00:21.439><c> We're</c><00:00:21.680><c> going</c><00:00:21.760><c> to</c><00:00:21.840><c> be</c><00:00:22.000><c> making</c>
+
+00:00:22.230 --> 00:00:22.240 align:start position:0%
+for your skill. We're going to be making
+ 
+
+00:00:22.240 --> 00:00:24.390 align:start position:0%
+for your skill. We're going to be making
+a<00:00:22.480><c> personal</c><00:00:22.880><c> skill,</c><00:00:23.199><c> so</c><00:00:23.359><c> it'll</c><00:00:23.680><c> live</c><00:00:23.840><c> in</c><00:00:24.080><c> many</c>
+
+00:00:24.390 --> 00:00:24.400 align:start position:0%
+a personal skill, so it'll live in many
+ 
+
+00:00:24.400 --> 00:00:26.230 align:start position:0%
+a personal skill, so it'll live in many
+projects,<00:00:25.119><c> so</c><00:00:25.359><c> it</c><00:00:25.519><c> will</c><00:00:25.600><c> go</c><00:00:25.760><c> in</c><00:00:25.920><c> your</c><00:00:26.000><c> home</c>
+
+00:00:26.230 --> 00:00:26.240 align:start position:0%
+projects, so it will go in your home
+ 
+
+00:00:26.240 --> 00:00:28.310 align:start position:0%
+projects, so it will go in your home
+directory.<00:00:27.119><c> Take</c><00:00:27.279><c> into</c><00:00:27.599><c> consideration</c><00:00:28.080><c> that</c>
+
+00:00:28.310 --> 00:00:28.320 align:start position:0%
+directory. Take into consideration that
+ 
+
+00:00:28.320 --> 00:00:29.830 align:start position:0%
+directory. Take into consideration that
+we're<00:00:28.560><c> creating</c><00:00:28.800><c> a</c><00:00:29.039><c> directory</c><00:00:29.439><c> with</c><00:00:29.599><c> the</c>
+
+00:00:29.830 --> 00:00:29.840 align:start position:0%
+we're creating a directory with the
+ 
+
+00:00:29.840 --> 00:00:31.589 align:start position:0%
+we're creating a directory with the
+skill<00:00:30.160><c> name</c><00:00:30.480><c> inside</c><00:00:30.800><c> of</c><00:00:30.960><c> the</c><00:00:31.119><c> skills</c>
+
+00:00:31.589 --> 00:00:31.599 align:start position:0%
+skill name inside of the skills
+ 
+
+00:00:31.599 --> 00:00:33.910 align:start position:0%
+skill name inside of the skills
+directory.
+
+00:00:33.910 --> 00:00:33.920 align:start position:0%
+directory.
+ 
+
+00:00:33.920 --> 00:00:38.790 align:start position:0%
+directory.
+Now<00:00:34.320><c> create</c><00:00:34.559><c> the</c><00:00:34.800><c> skill.</c>
+
+00:00:38.790 --> 00:00:38.800 align:start position:0%
+ 
+ 
+
+00:00:38.800 --> 00:00:41.030 align:start position:0%
+ 
+The<00:00:39.040><c> name</c><00:00:39.440><c> identifies</c><00:00:39.840><c> your</c><00:00:40.000><c> skill.</c><00:00:40.800><c> The</c>
+
+00:00:41.030 --> 00:00:41.040 align:start position:0%
+The name identifies your skill. The
+ 
+
+00:00:41.040 --> 00:00:43.670 align:start position:0%
+The name identifies your skill. The
+description<00:00:41.520><c> tells</c><00:00:41.760><c> Claude</c><00:00:42.160><c> when</c><00:00:42.480><c> to</c><00:00:42.640><c> use</c><00:00:42.800><c> it.</c>
+
+00:00:43.670 --> 00:00:43.680 align:start position:0%
+description tells Claude when to use it.
+ 
+
+00:00:43.680 --> 00:00:46.709 align:start position:0%
+description tells Claude when to use it.
+This<00:00:44.079><c> is</c><00:00:44.239><c> the</c><00:00:44.559><c> matching</c><00:00:44.960><c> criteria.</c><00:00:46.320><c> And</c><00:00:46.480><c> then</c>
+
+00:00:46.709 --> 00:00:46.719 align:start position:0%
+This is the matching criteria. And then
+ 
+
+00:00:46.719 --> 00:00:49.029 align:start position:0%
+This is the matching criteria. And then
+everything<00:00:47.039><c> after</c><00:00:47.440><c> the</c><00:00:47.760><c> second</c><00:00:48.079><c> dashes</c><00:00:48.719><c> is</c>
+
+00:00:49.029 --> 00:00:49.039 align:start position:0%
+everything after the second dashes is
+ 
+
+00:00:49.039 --> 00:00:52.630 align:start position:0%
+everything after the second dashes is
+the<00:00:49.200><c> instructions</c><00:00:49.600><c> that</c><00:00:49.840><c> Claude</c><00:00:50.239><c> follows.</c>
+
+00:00:52.630 --> 00:00:52.640 align:start position:0%
+the instructions that Claude follows.
+ 
+
+00:00:52.640 --> 00:00:55.110 align:start position:0%
+the instructions that Claude follows.
+Cloud<00:00:52.960><c> code</c><00:00:53.199><c> loads</c><00:00:53.520><c> skills</c><00:00:53.840><c> at</c><00:00:54.079><c> startup.</c><00:00:54.800><c> So</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
+Cloud code loads skills at startup. So
+ 
+
+00:00:55.120 --> 00:00:57.750 align:start position:0%
+Cloud code loads skills at startup. So
+restart<00:00:55.520><c> your</c><00:00:55.680><c> session.</c><00:00:56.719><c> Then</c><00:00:57.120><c> verify</c><00:00:57.520><c> it's</c>
+
+00:00:57.750 --> 00:00:57.760 align:start position:0%
+restart your session. Then verify it's
+ 
+
+00:00:57.760 --> 00:01:00.389 align:start position:0%
+restart your session. Then verify it's
+available.
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+available.
+ 
+
+00:01:00.399 --> 00:01:02.310 align:start position:0%
+available.
+You<00:01:00.640><c> should</c><00:01:00.800><c> see</c><00:01:01.199><c> PR</c><00:01:01.520><c> description</c><00:01:02.000><c> in</c><00:01:02.160><c> the</c>
+
+00:01:02.310 --> 00:01:02.320 align:start position:0%
+You should see PR description in the
+ 
+
+00:01:02.320 --> 00:01:04.630 align:start position:0%
+You should see PR description in the
+list.
+
+00:01:04.630 --> 00:01:04.640 align:start position:0%
+list.
+ 
+
+00:01:04.640 --> 00:01:07.190 align:start position:0%
+list.
+Now<00:01:05.119><c> test</c><00:01:05.360><c> it.</c><00:01:06.080><c> Make</c><00:01:06.320><c> some</c><00:01:06.560><c> changes</c><00:01:06.880><c> on</c><00:01:07.040><c> a</c>
+
+00:01:07.190 --> 00:01:07.200 align:start position:0%
+Now test it. Make some changes on a
+ 
+
+00:01:07.200 --> 00:01:09.590 align:start position:0%
+Now test it. Make some changes on a
+branch<00:01:07.520><c> and</c><00:01:07.760><c> say,</c><00:01:08.320><c> "Write</c><00:01:08.640><c> a</c><00:01:08.880><c> PR</c><00:01:09.200><c> description</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+branch and say, "Write a PR description
+ 
+
+00:01:09.600 --> 00:01:11.750 align:start position:0%
+branch and say, "Write a PR description
+for<00:01:09.840><c> my</c><00:01:10.080><c> changes."</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+for my changes."
+ 
+
+00:01:11.760 --> 00:01:13.270 align:start position:0%
+for my changes."
+Claude<00:01:12.159><c> will</c><00:01:12.400><c> then</c><00:01:12.560><c> show</c><00:01:12.720><c> you</c><00:01:12.880><c> that</c><00:01:13.040><c> it's</c>
+
+00:01:13.270 --> 00:01:13.280 align:start position:0%
+Claude will then show you that it's
+ 
+
+00:01:13.280 --> 00:01:17.030 align:start position:0%
+Claude will then show you that it's
+using<00:01:13.520><c> the</c><00:01:13.680><c> PR</c><00:01:14.080><c> description</c><00:01:14.560><c> skill.</c>
+
+00:01:17.030 --> 00:01:17.040 align:start position:0%
+using the PR description skill.
+ 
+
+00:01:17.040 --> 00:01:18.950 align:start position:0%
+using the PR description skill.
+After<00:01:17.360><c> that,</c><00:01:17.759><c> it'll</c><00:01:18.080><c> check</c><00:01:18.240><c> your</c><00:01:18.400><c> diff</c><00:01:18.720><c> and</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+After that, it'll check your diff and
+ 
+
+00:01:18.960 --> 00:01:20.310 align:start position:0%
+After that, it'll check your diff and
+write<00:01:19.119><c> a</c><00:01:19.360><c> description</c><00:01:19.759><c> following</c><00:01:20.159><c> your</c>
+
+00:01:20.310 --> 00:01:20.320 align:start position:0%
+write a description following your
+ 
+
+00:01:20.320 --> 00:01:24.710 align:start position:0%
+write a description following your
+template.<00:01:21.280><c> Same</c><00:01:21.520><c> format</c><00:01:22.159><c> every</c><00:01:22.479><c> single</c><00:01:22.720><c> time.</c>
+
+00:01:24.710 --> 00:01:24.720 align:start position:0%
+template. Same format every single time.
+ 
+
+00:01:24.720 --> 00:01:26.789 align:start position:0%
+template. Same format every single time.
+When<00:01:24.960><c> Cloud</c><00:01:25.360><c> Code</c><00:01:25.600><c> starts,</c><00:01:25.920><c> it</c><00:01:26.159><c> scans</c><00:01:26.479><c> four</c>
+
+00:01:26.789 --> 00:01:26.799 align:start position:0%
+When Cloud Code starts, it scans four
+ 
+
+00:01:26.799 --> 00:01:29.270 align:start position:0%
+When Cloud Code starts, it scans four
+locations<00:01:27.200><c> for</c><00:01:27.439><c> skills.</c><00:01:28.159><c> Enterprise</c><00:01:28.720><c> paths,</c>
+
+00:01:29.270 --> 00:01:29.280 align:start position:0%
+locations for skills. Enterprise paths,
+ 
+
+00:01:29.280 --> 00:01:31.429 align:start position:0%
+locations for skills. Enterprise paths,
+your<00:01:29.600><c> personal</c><00:01:30.159><c> Claude</c><00:01:30.560><c> skills,</c><00:01:31.119><c> the</c>
+
+00:01:31.429 --> 00:01:31.439 align:start position:0%
+your personal Claude skills, the
+ 
+
+00:01:31.439 --> 00:01:33.270 align:start position:0%
+your personal Claude skills, the
+project's<00:01:31.840><c> Claude</c><00:01:32.240><c> skills,</c><00:01:32.640><c> and</c><00:01:32.880><c> installed</c>
+
+00:01:33.270 --> 00:01:33.280 align:start position:0%
+project's Claude skills, and installed
+ 
+
+00:01:33.280 --> 00:01:35.270 align:start position:0%
+project's Claude skills, and installed
+plugins.<00:01:34.000><c> It</c><00:01:34.240><c> loads</c><00:01:34.560><c> only</c><00:01:34.720><c> the</c><00:01:34.960><c> name</c><00:01:35.119><c> and</c>
+
+00:01:35.270 --> 00:01:35.280 align:start position:0%
+plugins. It loads only the name and
+ 
+
+00:01:35.280 --> 00:01:37.270 align:start position:0%
+plugins. It loads only the name and
+description<00:01:35.600><c> of</c><00:01:35.759><c> each</c><00:01:36.000><c> skill,</c><00:01:36.720><c> not</c><00:01:36.880><c> the</c><00:01:37.040><c> full</c>
+
+00:01:37.270 --> 00:01:37.280 align:start position:0%
+description of each skill, not the full
+ 
+
+00:01:37.280 --> 00:01:40.149 align:start position:0%
+description of each skill, not the full
+content.<00:01:38.320><c> This</c><00:01:38.560><c> is</c><00:01:38.799><c> important</c><00:01:39.200><c> later.</c><00:01:40.000><c> When</c>
+
+00:01:40.149 --> 00:01:40.159 align:start position:0%
+content. This is important later. When
+ 
+
+00:01:40.159 --> 00:01:41.830 align:start position:0%
+content. This is important later. When
+you<00:01:40.320><c> send</c><00:01:40.479><c> a</c><00:01:40.640><c> request,</c><00:01:41.040><c> Claude</c><00:01:41.439><c> compares</c><00:01:41.680><c> it</c>
+
+00:01:41.830 --> 00:01:41.840 align:start position:0%
+you send a request, Claude compares it
+ 
+
+00:01:41.840 --> 00:01:43.670 align:start position:0%
+you send a request, Claude compares it
+to<00:01:42.000><c> the</c><00:01:42.159><c> descriptions</c><00:01:42.560><c> of</c><00:01:42.720><c> your</c><00:01:42.880><c> skills.</c>
+
+00:01:43.670 --> 00:01:43.680 align:start position:0%
+to the descriptions of your skills.
+ 
+
+00:01:43.680 --> 00:01:45.670 align:start position:0%
+to the descriptions of your skills.
+Explain<00:01:44.079><c> what</c><00:01:44.240><c> this</c><00:01:44.400><c> function</c><00:01:44.799><c> does</c><00:01:45.360><c> matches</c>
+
+00:01:45.670 --> 00:01:45.680 align:start position:0%
+Explain what this function does matches
+ 
+
+00:01:45.680 --> 00:01:47.590 align:start position:0%
+Explain what this function does matches
+a<00:01:45.920><c> skill</c><00:01:46.159><c> described</c><00:01:46.479><c> as</c><00:01:46.799><c> explain</c><00:01:47.200><c> code</c><00:01:47.360><c> with</c>
+
+00:01:47.590 --> 00:01:47.600 align:start position:0%
+a skill described as explain code with
+ 
+
+00:01:47.600 --> 00:01:49.910 align:start position:0%
+a skill described as explain code with
+visual<00:01:48.000><c> diagrams</c><00:01:48.960><c> because</c><00:01:49.280><c> the</c><00:01:49.520><c> intent</c>
+
+00:01:49.910 --> 00:01:49.920 align:start position:0%
+visual diagrams because the intent
+ 
+
+00:01:49.920 --> 00:01:51.749 align:start position:0%
+visual diagrams because the intent
+overlaps.<00:01:50.720><c> It</c><00:01:50.960><c> will</c><00:01:51.119><c> then</c><00:01:51.280><c> ask</c><00:01:51.520><c> you</c><00:01:51.680><c> to</c>
+
+00:01:51.749 --> 00:01:51.759 align:start position:0%
+overlaps. It will then ask you to
+ 
+
+00:01:51.759 --> 00:01:53.670 align:start position:0%
+overlaps. It will then ask you to
+confirm<00:01:52.159><c> loading</c><00:01:52.479><c> up</c><00:01:52.640><c> the</c><00:01:52.799><c> skill.</c><00:01:53.360><c> This</c>
+
+00:01:53.670 --> 00:01:53.680 align:start position:0%
+confirm loading up the skill. This
+ 
+
+00:01:53.680 --> 00:01:55.510 align:start position:0%
+confirm loading up the skill. This
+confirmation<00:01:54.240><c> step</c><00:01:54.560><c> keeps</c><00:01:54.880><c> you</c><00:01:55.040><c> aware</c><00:01:55.280><c> of</c>
+
+00:01:55.510 --> 00:01:55.520 align:start position:0%
+confirmation step keeps you aware of
+ 
+
+00:01:55.520 --> 00:01:58.389 align:start position:0%
+confirmation step keeps you aware of
+what<00:01:55.759><c> context</c><00:01:56.159><c> Claude</c><00:01:56.640><c> is</c><00:01:56.799><c> using.</c><00:01:57.920><c> After</c><00:01:58.159><c> you</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+what context Claude is using. After you
+ 
+
+00:01:58.399 --> 00:02:00.469 align:start position:0%
+what context Claude is using. After you
+confirm,<00:01:58.960><c> Claude</c><00:01:59.280><c> reads</c><00:01:59.600><c> the</c><00:01:59.840><c> complete</c><00:02:00.159><c> file</c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+confirm, Claude reads the complete file
+ 
+
+00:02:00.479 --> 00:02:02.310 align:start position:0%
+confirm, Claude reads the complete file
+and<00:02:00.719><c> follows</c><00:02:01.040><c> its</c><00:02:01.280><c> instructions.</c><00:02:01.920><c> Now,</c><00:02:02.159><c> let's</c>
+
+00:02:02.310 --> 00:02:02.320 align:start position:0%
+and follows its instructions. Now, let's
+ 
+
+00:02:02.320 --> 00:02:04.550 align:start position:0%
+and follows its instructions. Now, let's
+say<00:02:02.479><c> you</c><00:02:02.719><c> clone</c><00:02:03.040><c> a</c><00:02:03.280><c> Git</c><00:02:03.600><c> repository</c><00:02:04.159><c> and</c><00:02:04.399><c> have</c>
+
+00:02:04.550 --> 00:02:04.560 align:start position:0%
+say you clone a Git repository and have
+ 
+
+00:02:04.560 --> 00:02:07.590 align:start position:0%
+say you clone a Git repository and have
+an<00:02:04.799><c> overlapping</c><00:02:05.360><c> skill</c><00:02:05.680><c> name.</c><00:02:06.320><c> Well,</c><00:02:07.360><c> which</c>
+
+00:02:07.590 --> 00:02:07.600 align:start position:0%
+an overlapping skill name. Well, which
+ 
+
+00:02:07.600 --> 00:02:11.190 align:start position:0%
+an overlapping skill name. Well, which
+one<00:02:07.840><c> wins?</c><00:02:09.039><c> Here's</c><00:02:09.280><c> the</c><00:02:09.440><c> priority</c><00:02:09.920><c> list.</c><00:02:10.959><c> The</c>
+
+00:02:11.190 --> 00:02:11.200 align:start position:0%
+one wins? Here's the priority list. The
+ 
+
+00:02:11.200 --> 00:02:13.030 align:start position:0%
+one wins? Here's the priority list. The
+highest<00:02:11.520><c> is</c><00:02:11.760><c> enterprise,</c><00:02:12.319><c> which</c><00:02:12.640><c> lives</c><00:02:12.879><c> in</c>
+
+00:02:13.030 --> 00:02:13.040 align:start position:0%
+highest is enterprise, which lives in
+ 
+
+00:02:13.040 --> 00:02:15.510 align:start position:0%
+highest is enterprise, which lives in
+the<00:02:13.360><c> manage</c><00:02:13.840><c> settings.</c><00:02:14.640><c> Two</c><00:02:14.959><c> is</c><00:02:15.200><c> the</c>
+
+00:02:15.510 --> 00:02:15.520 align:start position:0%
+the manage settings. Two is the
+ 
+
+00:02:15.520 --> 00:02:17.430 align:start position:0%
+the manage settings. Two is the
+personal,<00:02:16.080><c> which</c><00:02:16.400><c> lives</c><00:02:16.720><c> in</c><00:02:16.879><c> your</c><00:02:17.120><c> root</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+personal, which lives in your root
+ 
+
+00:02:17.440 --> 00:02:19.190 align:start position:0%
+personal, which lives in your root
+directory<00:02:17.920><c> configuration</c><00:02:18.640><c> like</c><00:02:18.879><c> we're</c><00:02:19.040><c> doing</c>
+
+00:02:19.190 --> 00:02:19.200 align:start position:0%
+directory configuration like we're doing
+ 
+
+00:02:19.200 --> 00:02:21.510 align:start position:0%
+directory configuration like we're doing
+right<00:02:19.440><c> now.</c><00:02:19.840><c> Three</c><00:02:20.160><c> is</c><00:02:20.400><c> the</c><00:02:20.720><c> project</c><00:02:21.200><c> which</c><00:02:21.360><c> is</c>
+
+00:02:21.510 --> 00:02:21.520 align:start position:0%
+right now. Three is the project which is
+ 
+
+00:02:21.520 --> 00:02:23.430 align:start position:0%
+right now. Three is the project which is
+the<00:02:21.680><c> claw</c><00:02:22.080><c> directory</c><00:02:22.720><c> inside</c><00:02:23.120><c> of</c><00:02:23.200><c> your</c>
+
+00:02:23.430 --> 00:02:23.440 align:start position:0%
+the claw directory inside of your
+ 
+
+00:02:23.440 --> 00:02:25.430 align:start position:0%
+the claw directory inside of your
+repository.<00:02:24.400><c> And</c><00:02:24.480><c> the</c><00:02:24.640><c> lowest</c><00:02:24.959><c> is</c><00:02:25.200><c> the</c>
+
+00:02:25.430 --> 00:02:25.440 align:start position:0%
+repository. And the lowest is the
+ 
+
+00:02:25.440 --> 00:02:27.430 align:start position:0%
+repository. And the lowest is the
+plugins<00:02:26.000><c> where</c><00:02:26.239><c> you</c><00:02:26.400><c> store</c><00:02:26.720><c> your</c><00:02:27.040><c> plugins</c>
+
+00:02:27.430 --> 00:02:27.440 align:start position:0%
+plugins where you store your plugins
+ 
+
+00:02:27.440 --> 00:02:29.350 align:start position:0%
+plugins where you store your plugins
+that<00:02:27.680><c> you</c><00:02:28.000><c> got</c><00:02:28.239><c> online.</c><00:02:28.800><c> This</c><00:02:29.040><c> lets</c>
+
+00:02:29.350 --> 00:02:29.360 align:start position:0%
+that you got online. This lets
+ 
+
+00:02:29.360 --> 00:02:31.510 align:start position:0%
+that you got online. This lets
+organizations<00:02:30.160><c> enforce</c><00:02:30.720><c> standards</c><00:02:31.120><c> while</c>
+
+00:02:31.510 --> 00:02:31.520 align:start position:0%
+organizations enforce standards while
+ 
+
+00:02:31.520 --> 00:02:33.589 align:start position:0%
+organizations enforce standards while
+allowing<00:02:32.000><c> individual</c><00:02:32.640><c> customization</c>
+
+00:02:33.589 --> 00:02:33.599 align:start position:0%
+allowing individual customization
+ 
+
+00:02:33.599 --> 00:02:35.750 align:start position:0%
+allowing individual customization
+through<00:02:34.160><c> differently</c><00:02:34.640><c> named</c><00:02:34.879><c> skills.</c><00:02:35.519><c> If</c>
+
+00:02:35.750 --> 00:02:35.760 align:start position:0%
+through differently named skills. If
+ 
+
+00:02:35.760 --> 00:02:37.990 align:start position:0%
+through differently named skills. If
+your<00:02:36.239><c> company</c><00:02:36.640><c> has</c><00:02:36.879><c> an</c><00:02:37.200><c> enterprise</c><00:02:37.680><c> code</c>
+
+00:02:37.990 --> 00:02:38.000 align:start position:0%
+your company has an enterprise code
+ 
+
+00:02:38.000 --> 00:02:40.309 align:start position:0%
+your company has an enterprise code
+review<00:02:38.319><c> skill</c><00:02:38.879><c> and</c><00:02:39.120><c> you</c><00:02:39.360><c> create</c><00:02:39.519><c> a</c><00:02:39.840><c> personal</c>
+
+00:02:40.309 --> 00:02:40.319 align:start position:0%
+review skill and you create a personal
+ 
+
+00:02:40.319 --> 00:02:42.550 align:start position:0%
+review skill and you create a personal
+code<00:02:40.640><c> review</c><00:02:40.959><c> skill,</c><00:02:41.680><c> the</c><00:02:42.000><c> enterprise</c>
+
+00:02:42.550 --> 00:02:42.560 align:start position:0%
+code review skill, the enterprise
+ 
+
+00:02:42.560 --> 00:02:44.790 align:start position:0%
+code review skill, the enterprise
+version<00:02:42.800><c> of</c><00:02:43.040><c> that</c><00:02:43.440><c> takes</c><00:02:43.760><c> precedence.</c><00:02:44.560><c> To</c>
+
+00:02:44.790 --> 00:02:44.800 align:start position:0%
+version of that takes precedence. To
+ 
+
+00:02:44.800 --> 00:02:47.589 align:start position:0%
+version of that takes precedence. To
+avoid<00:02:45.120><c> conflicts,</c><00:02:45.840><c> use</c><00:02:46.080><c> descriptive</c><00:02:46.640><c> names.</c>
+
+00:02:47.589 --> 00:02:47.599 align:start position:0%
+avoid conflicts, use descriptive names.
+ 
+
+00:02:47.599 --> 00:02:50.150 align:start position:0%
+avoid conflicts, use descriptive names.
+Instead<00:02:47.920><c> of</c><00:02:48.160><c> review,</c><00:02:48.800><c> use</c><00:02:49.200><c> front-end</c><00:02:49.840><c> PR</c>
+
+00:02:50.150 --> 00:02:50.160 align:start position:0%
+Instead of review, use front-end PR
+ 
+
+00:02:50.160 --> 00:02:53.030 align:start position:0%
+Instead of review, use front-end PR
+review<00:02:50.640><c> or</c><00:02:51.200><c> security</c><00:02:51.680><c> review.</c><00:02:52.239><c> To</c><00:02:52.560><c> update</c><00:02:52.879><c> a</c>
+
+00:02:53.030 --> 00:02:53.040 align:start position:0%
+review or security review. To update a
+ 
+
+00:02:53.040 --> 00:02:57.350 align:start position:0%
+review or security review. To update a
+skill,<00:02:53.519><c> edit</c><00:02:53.920><c> it</c><00:02:54.160><c> skill.md</c><00:02:55.040><c> file.</c><00:02:56.160><c> Simple.</c><00:02:57.120><c> To</c>
+
+00:02:57.350 --> 00:02:57.360 align:start position:0%
+skill, edit it skill.md file. Simple. To
+ 
+
+00:02:57.360 --> 00:03:00.550 align:start position:0%
+skill, edit it skill.md file. Simple. To
+remove<00:02:57.599><c> one,</c><00:02:58.080><c> delete</c><00:02:58.480><c> its</c><00:02:58.640><c> directory.</c>
+
+00:03:00.550 --> 00:03:00.560 align:start position:0%
+remove one, delete its directory.
+ 
+
+00:03:00.560 --> 00:03:02.869 align:start position:0%
+remove one, delete its directory.
+Restart<00:03:00.959><c> clock</c><00:03:01.360><c> code</c><00:03:01.840><c> after</c><00:03:02.159><c> changes</c><00:03:02.640><c> for</c>
+
+00:03:02.869 --> 00:03:02.879 align:start position:0%
+Restart clock code after changes for
+ 
+
+00:03:02.879 --> 00:03:06.470 align:start position:0%
+Restart clock code after changes for
+them<00:03:03.120><c> to</c><00:03:03.360><c> take</c><00:03:03.599><c> effect.</c>
+
+00:03:06.470 --> 00:03:06.480 align:start position:0%
+them to take effect.
+ 
+
+00:03:06.480 --> 00:03:08.229 align:start position:0%
+them to take effect.
+Creating<00:03:06.800><c> a</c><00:03:06.959><c> skill</c><00:03:07.360><c> means</c><00:03:07.680><c> making</c><00:03:08.000><c> a</c>
+
+00:03:08.229 --> 00:03:08.239 align:start position:0%
+Creating a skill means making a
+ 
+
+00:03:08.239 --> 00:03:10.550 align:start position:0%
+Creating a skill means making a
+directory<00:03:08.800><c> with</c><00:03:09.040><c> a</c><00:03:09.280><c> skill.md</c><00:03:10.159><c> file</c>
+
+00:03:10.550 --> 00:03:10.560 align:start position:0%
+directory with a skill.md file
+ 
+
+00:03:10.560 --> 00:03:13.750 align:start position:0%
+directory with a skill.md file
+containing<00:03:10.959><c> metadata</c><00:03:11.599><c> and</c><00:03:11.920><c> instructions.</c>
+
+00:03:13.750 --> 00:03:13.760 align:start position:0%
+containing metadata and instructions.
+ 
+
+00:03:13.760 --> 00:03:15.350 align:start position:0%
+containing metadata and instructions.
+Claude<00:03:14.159><c> loads</c><00:03:14.560><c> skill</c><00:03:14.879><c> names</c><00:03:15.120><c> and</c>
+
+00:03:15.350 --> 00:03:15.360 align:start position:0%
+Claude loads skill names and
+ 
+
+00:03:15.360 --> 00:03:17.270 align:start position:0%
+Claude loads skill names and
+descriptions<00:03:15.920><c> at</c><00:03:16.159><c> startup.</c><00:03:16.879><c> matches</c>
+
+00:03:17.270 --> 00:03:17.280 align:start position:0%
+descriptions at startup. matches
+ 
+
+00:03:17.280 --> 00:03:19.350 align:start position:0%
+descriptions at startup. matches
+incoming<00:03:17.840><c> requests</c><00:03:18.720><c> against</c><00:03:19.120><c> those</c>
+
+00:03:19.350 --> 00:03:19.360 align:start position:0%
+incoming requests against those
+ 
+
+00:03:19.360 --> 00:03:22.470 align:start position:0%
+incoming requests against those
+descriptions<00:03:20.159><c> and</c><00:03:20.640><c> asks</c><00:03:21.200><c> for</c><00:03:21.519><c> confirmation</c>
+
+00:03:22.470 --> 00:03:22.480 align:start position:0%
+descriptions and asks for confirmation
+ 
+
+00:03:22.480 --> 00:03:25.190 align:start position:0%
+descriptions and asks for confirmation
+before<00:03:22.879><c> loading</c><00:03:23.280><c> the</c><00:03:23.599><c> full</c><00:03:23.920><c> content.</c>
+
+00:03:25.190 --> 00:03:25.200 align:start position:0%
+before loading the full content.
+ 
+
+00:03:25.200 --> 00:03:27.430 align:start position:0%
+before loading the full content.
+Priority<00:03:25.680><c> rules</c><00:03:26.000><c> handling</c><00:03:26.319><c> name</c><00:03:26.640><c> conflicts.</c>
+
+00:03:27.430 --> 00:03:27.440 align:start position:0%
+Priority rules handling name conflicts.
+ 
+
+00:03:27.440 --> 00:03:29.430 align:start position:0%
+Priority rules handling name conflicts.
+Enterprise<00:03:28.080><c> overrides</c><00:03:28.560><c> personal</c><00:03:29.040><c> personal</c>
+
+00:03:29.430 --> 00:03:29.440 align:start position:0%
+Enterprise overrides personal personal
+ 
+
+00:03:29.440 --> 00:03:32.212 align:start position:0%
+Enterprise overrides personal personal
+overrides<00:03:30.000><c> project</c><00:03:30.959><c> overrides</c><00:03:31.519><c> plugins.</c>
+
+00:03:32.212 --> 00:03:32.222 align:start position:0%
+overrides project overrides plugins.
+ 
+
+00:03:32.222 --> 00:03:34.550 align:start position:0%
+overrides project overrides plugins.
+[music]<00:03:32.480><c> Edit</c><00:03:32.799><c> the</c><00:03:32.959><c> skill.md</c><00:03:33.840><c> file</c><00:03:34.080><c> to</c><00:03:34.319><c> update</c>
+
+00:03:34.550 --> 00:03:34.560 align:start position:0%
+[music] Edit the skill.md file to update
+ 
+
+00:03:34.560 --> 00:03:36.789 align:start position:0%
+[music] Edit the skill.md file to update
+a<00:03:34.799><c> skill</c><00:03:35.120><c> and</c><00:03:35.440><c> restart</c><00:03:35.840><c> cloud</c><00:03:36.239><c> code</c><00:03:36.480><c> for</c>
+
+00:03:36.789 --> 00:03:36.799 align:start position:0%
+a skill and restart cloud code for
+ 
+
+00:03:36.799 --> 00:03:40.680 align:start position:0%
+a skill and restart cloud code for
+changes<00:03:37.120><c> to</c><00:03:37.440><c> take</c><00:03:37.680><c> effect.</c>
+
