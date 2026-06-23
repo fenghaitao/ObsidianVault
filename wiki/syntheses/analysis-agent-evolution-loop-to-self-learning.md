@@ -2,17 +2,7 @@
 title: "The Agent Evolution: From Loop to Self-Learning"
 type: synthesis
 tags: [agents, agentic-loop, memory, dreaming, evolution, claude]
-sources:
-  - raw/03-transcripts/Claude/Claude Code 101/03 - How Claude Code Works.md
-  - raw/03-transcripts/Claude/Claude Code 101/05 - The CLAUDE.md file.md
-  - raw/03-transcripts/Claude/Claude Code 101/07 - Context Management in Claude Code.md
-  - raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md
-  - raw/03-transcripts/Claude/Claude Code subagents/03 - What are subagents.md
-  - raw/03-transcripts/Claude/Code with Claude 2026 - London/15 - The thinking lever.md
-  - raw/03-transcripts/Claude/Code with Claude 2026 - London/11 - Memory and dreaming for self learning agents.md
-  - raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/05 - Agents that remember.md
-  - raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/18 - Memory and dreaming for self-learning agents.md
-  - raw/03-transcripts/Claude/Code with Claude 2026 - Japan/01 - Code with Claude Tokyo 2026： Opening Keynote.md
+sources: []
 last_updated: 2026-06-23
 ---
 

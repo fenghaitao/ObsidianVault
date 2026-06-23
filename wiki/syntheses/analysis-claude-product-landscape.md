@@ -2,16 +2,7 @@
 title: "Claude Product Landscape: Code, Managed Agents, and Cowork"
 type: synthesis
 tags: [claude-code, managed-agents, cowork, product-comparison, anthropic]
-sources:
-  - raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md
-  - raw/03-transcripts/Claude/Claude Code 101/03 - How Claude Code Works.md
-  - raw/03-transcripts/Claude/Claude Code 101/05 - The CLAUDE.md file.md
-  - raw/03-transcripts/Claude/Code with Claude 2026 - Japan/01 - Code with Claude Tokyo 2026： Opening Keynote.md
-  - raw/03-transcripts/Claude/Code with Claude 2026 - London/13 - How to get to production faster with Claude Managed Agents.md
-  - raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/13 - Running an AI-native engineering org.md
-  - raw/03-transcripts/Claude/How Anthropic uses Claude Cowork/01 - Claude Cowork for legal teams.md
-  - raw/03-transcripts/Claude/How Anthropic uses Claude Cowork/02 - Claude Cowork for marketing ops.md
-  - raw/03-transcripts/Claude/How Anthropic uses Claude Cowork/03 - Claude Cowork for sales.md
+sources: []
 last_updated: 2026-06-23
 ---
 
