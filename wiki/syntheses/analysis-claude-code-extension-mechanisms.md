@@ -2,8 +2,7 @@
 title: "Choosing Between Skills, Sub-agents, Hooks, and CLAUDE.md"
 type: synthesis
 tags: [claude-code, extension-mechanisms, skills, subagents, hooks, claude-md, decision-guide]
-sources:
-  - raw/03-transcripts/Claude/Claude Code Skills/04 - How skills compare to other Claude Code features.md
+sources: []
 last_updated: 2026-06-23
 ---
 
