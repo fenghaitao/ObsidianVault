@@ -129,4 +129,6 @@ Format: `[[Page Name]] — One-sentence description.`
 
 *(Cross-document analyses and deep dives — kebab-case filenames)*
 
-*(empty)*
+- [[analysis-claude-product-landscape]] — Comparison of Claude Code, Managed Agents, and Cowork and when to use each.
+- [[analysis-claude-code-extension-mechanisms]] — Decision guide for choosing among Skills, Sub-agents, Hooks, and CLAUDE.md.
+- [[analysis-agent-evolution-loop-to-self-learning]] — The four phases of the Claude agent paradigm, from the agentic loop to memory and dreaming.

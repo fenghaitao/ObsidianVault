@@ -29,3 +29,4 @@ Agentic memory is the capability for AI agents to persistently learn from their 
 - [[summary-18 - Memory and dreaming for self-learning agents]] — San Francisco talk
 - [[ClaudeFable5]] — Opus 4.7 state-of-the-art at file-system memory
 - [[ContextWindow]] — related constraint that memory helps address
+- [[analysis-agent-evolution-loop-to-self-learning]] — the evolution culminating in memory and dreaming

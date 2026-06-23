@@ -25,3 +25,5 @@ Claude Managed Agents is Anthropic's product offering for building and deploying
 - [[ClaudeFable5]] — the model optimized for Managed Agents
 - [[ClaudeCode]] — the developer-facing agent tool
 - [[Anthropic]] — the company behind the platform
+- [[analysis-claude-product-landscape]] — comparison with Claude Code and Claude Cowork
+- [[analysis-agent-evolution-loop-to-self-learning]] — the evolution from agentic loop to self-learning agents

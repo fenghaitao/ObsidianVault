@@ -53,3 +53,4 @@ Claude Code skills are markdown-based instruction files that teach Claude specia
 - [[ClaudeCode]] — the tool skills extend
 - [[CLAUDE-md]] — the persistent alternative
 - [[ModelContextProtocol]] — similar tool integration mechanism
+- [[analysis-claude-code-extension-mechanisms]] — decision guide for choosing among extension mechanisms

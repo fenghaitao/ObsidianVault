@@ -39,3 +39,4 @@ Claude Code sub-agents are specialized assistants that run in isolated context w
 - [[ClaudeCode]] — the tool sub-agents extend
 - [[ContextWindow]] — the memory constraint sub-agents help manage
 - [[ClaudeCodeSkills]] — skills vs. sub-agents comparison
+- [[analysis-claude-code-extension-mechanisms]] — decision guide for choosing among extension mechanisms

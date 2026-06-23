@@ -146,4 +146,8 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Changes**: moved 71 source summaries from flat `wiki/sources/summary-*.md` to mirrored subpaths under `wiki/sources/03-transcripts/Claude/.../`, updated `.claude/skills/ingest/SKILL.md` (no-archive, mirrored paths), updated `.claude/skills/lint/SKILL.md` (mirrored path convention), updated [[CLAUDE.md]] (no-archive, mirrored paths), updated [[index.md]] (source description)
 - **Conflicts**: none
 
+## [2026-06-23] query | Proposed and authored 3 syntheses on Claude ingestion
+- **Changes**: created [[analysis-claude-product-landscape]] (Claude Code vs Managed Agents vs Cowork), created [[analysis-claude-code-extension-mechanisms]] (Skills/Sub-agents/Hooks/CLAUDE.md decision guide), created [[analysis-agent-evolution-loop-to-self-learning]] (4-phase agent paradigm evolution), added backlinks from [[ClaudeCode]], [[ClaudeManagedAgents]], [[ClaudeCowork]], [[AgenticLoop]], [[AgenticMemory]], [[ClaudeCodeSkills]], [[ClaudeCodeHooks]], [[ClaudeCodeSubagents]], updated [[index.md]] (filled empty Syntheses section)
+- **Conflicts**: none
+
 ---

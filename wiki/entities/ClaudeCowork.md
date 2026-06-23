@@ -29,3 +29,4 @@ Claude Cowork is Anthropic's product for knowledge workers that enables Claude t
 - [[ClaudeManagedAgents]] — the production agent platform
 - [[ClaudeCodeSkills]] — skills as the reusable process mechanism
 - [[Anthropic]] — the company behind the product
+- [[analysis-claude-product-landscape]] — comparison with Claude Code and Managed Agents

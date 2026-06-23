@@ -52,3 +52,5 @@ Claude Code is Anthropic's agentic coding tool that has direct access to a devel
 - [[AIAgent]] — the agent paradigm Claude Code embodies
 - [[AgenticLoop]] — the core operational pattern
 - [[ContextWindow]] — the memory constraint Claude Code operates within
+- [[analysis-claude-product-landscape]] — comparison with Managed Agents and Cowork
+- [[analysis-claude-code-extension-mechanisms]] — when to use Skills, Sub-agents, Hooks, or CLAUDE.md
