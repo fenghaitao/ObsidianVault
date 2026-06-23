@@ -23,4 +23,4 @@ Maya from Anthropic's applied AI team presents Claude Code Routines, a feature t
 
 - [[ClaudeCodeRoutines]] — the routines concept
 - [[ClaudeCode]] — the tool routines extend
-- [[summary-running-ai-native-engineering-org]] — related engineering practices
+- [[summary-03 - Running an AI-native engineering org]] — related engineering practices

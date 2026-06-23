@@ -23,7 +23,7 @@ Mahesh from Anthropic's platform team presents memory and dreaming as the next p
 
 ## Related
 
-- [[summary-memory-and-dreaming-for-self-learning-agents]] — London version of the same talk
+- [[summary-18 - Memory and dreaming for self-learning agents]] — London version of the same talk
 - [[ClaudeManagedAgents]] — the platform for memory and dreaming
 - [[AgenticMemory]] — the concept of persistent agent learning
 - [[ClaudeFable5]] — Opus 4.7 enabling file-system memory

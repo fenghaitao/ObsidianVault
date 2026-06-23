@@ -22,8 +22,8 @@ Replit is a vibe-coding platform that lets anyone build applications from natura
 
 ## Related
 
-- [[summary-evaluating-replit-agent-at-scale]] — evals and Telescope talk
-- [[summary-problem-solvers-replit]] — problem solvers profile
+- [[summary-16 - Evaluating and improving Replit Agent at scale]] — evals and Telescope talk
+- [[summary-04 - The Problem Solvers： Michele Catasta at Replit]] — problem solvers profile
 - [[ClaudeFable5]] — Opus as the workhorse model
 - [[ClaudeCode]] — related coding agent
 - [[Anthropic]] — model provider and partner

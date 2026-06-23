@@ -12,7 +12,7 @@ Lovable is a platform that lets anyone create software through conversation. Fou
 
 ## Related
 
-- [[summary-problem-solvers-lovable]] — source talk
+- [[summary-02 - The Problem Solvers ｜ Anton Osika at Lovable]] — source talk
 - [[Anthropic]] — model provider and partner
 - [[Emergent]] — related app-building platform
 - [[Replit]] — related vibe-coding platform

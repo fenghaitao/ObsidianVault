@@ -12,6 +12,6 @@ Cognition is the company behind Devin, the first AI software engineer. Founded b
 
 ## Related
 
-- [[summary-problem-solvers-cognition]] — source talk
+- [[summary-06 - The Problem Solvers： Scott Wu at Cognition]] — source talk
 - [[ClaudeCode]] — Anthropic's coding agent (overlapping product)
 - [[Anthropic]] — model provider and partner

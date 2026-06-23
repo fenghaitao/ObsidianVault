@@ -22,6 +22,6 @@ Claude Code hooks are deterministic lifecycle event handlers that run commands a
 
 ## Related
 
-- [[summary-hooks-in-claude-code]] — source summary
+- [[summary-09 - Hooks in Claude Code]] — source summary
 - [[ClaudeCode]] — the tool hooks extend
 - [[CLAUDE-md]] — the non-deterministic alternative

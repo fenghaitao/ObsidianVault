@@ -23,6 +23,6 @@ The recommended Claude Code workflow is Explore, Plan, Code, Commit. Most users 
 ## Related
 
 - [[ClaudeCode]] — the tool this workflow is for
-- [[summary-your-first-claude-code-prompt]] — plan mode walkthrough
-- [[summary-the-claude-md-file]] — saving solutions to CLAUDE.md
+- [[summary-04 - Your first Claude Code prompt]] — plan mode walkthrough
+- [[summary-05 - The CLAUDE.md file]] — saving solutions to CLAUDE.md
 - [[AgenticLoop]] — the loop that executes the plan

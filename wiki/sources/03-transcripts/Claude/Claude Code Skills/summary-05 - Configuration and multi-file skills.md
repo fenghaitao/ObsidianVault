@@ -23,5 +23,5 @@ Advanced skill configuration goes beyond name and description. Optional fields i
 ## Related
 
 - [[ClaudeCodeSkills]] — the skills system
-- [[summary-what-are-skills]] — introduction to skills
+- [[summary-01 - What are skills]] — introduction to skills
 - [[ContextWindow]] — the memory constraint progressive disclosure manages

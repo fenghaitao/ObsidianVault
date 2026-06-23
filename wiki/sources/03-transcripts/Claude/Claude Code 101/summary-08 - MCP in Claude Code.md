@@ -25,4 +25,4 @@ Model Context Protocol (MCP) is an open standard that lets Claude Code connect t
 
 - [[ClaudeCode]] — the tool MCP extends
 - [[ContextWindow]] — the memory constraint MCP tools consume
-- [[summary-context-management-in-claude-code]] — related context management strategies
+- [[summary-07 - Context Management in Claude Code]] — related context management strategies

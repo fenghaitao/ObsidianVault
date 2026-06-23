@@ -23,5 +23,5 @@ Sharan Fernando (Man Group, $200B+ AUM) presents how the firm uses Claude and sk
 
 - [[ClaudeCodeSkills]] — the skills system
 - [[ManGroup]] — the investment firm
-- [[summary-picking-the-right-model]] — related talk on evals
+- [[summary-10 - Picking the right model]] — related talk on evals
 - [[ClaudeCode]] — the tool skills run in

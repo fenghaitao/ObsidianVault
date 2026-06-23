@@ -22,5 +22,5 @@ When Claude Code skills don't work, the problem typically falls into one of four
 ## Related
 
 - [[ClaudeCodeSkills]] — the skills system being troubleshot
-- [[summary-what-are-skills]] — introduction to skills
+- [[summary-01 - What are skills]] — introduction to skills
 - [[ClaudeCode]] — the tool skills run in

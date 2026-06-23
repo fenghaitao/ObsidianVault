@@ -12,6 +12,6 @@ HubSpot is a CRM platform that uses Claude across customer success and internal 
 
 ## Related
 
-- [[summary-how-hubspot-uses-claude]] — source talk
+- [[summary-06 - How HubSpot uses Claude for customer success]] — source talk
 - [[Anthropic]] — model provider and mission-aligned partner
 - [[ClaudeCode]] — used internally for development

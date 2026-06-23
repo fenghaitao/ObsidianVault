@@ -20,6 +20,6 @@ Asana is a work management platform that uses Claude Managed Agents to power AI 
 ## Related
 
 - [[ClaudeManagedAgents]] — the platform powering AI teammates
-- [[summary-building-asana-ai-teammates]] — source talk
+- [[summary-12 - Building with Claude Managed Agents and Asana AI teammates]] — source talk
 - [[AgenticMemory]] — memory from user feedback
 - [[Anthropic]] — model provider

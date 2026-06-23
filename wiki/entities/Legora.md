@@ -12,6 +12,6 @@ Legora is a unified workspace where legal work happens — whether by humans, ag
 
 ## Related
 
-- [[summary-problem-solvers-legora]] — source talk
+- [[summary-03 - The Problem Solvers ｜ Max Junestrand at Legora]] — source talk
 - [[ClaudeFable5]] — Opus enabling fine legal drafting
 - [[Anthropic]] — model provider

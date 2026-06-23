@@ -22,7 +22,7 @@ Explore, Plan, Code, Commit (EPCC) is the recommended workflow for using Claude 
 
 ## Related
 
-- [[summary-explore-plan-code-commit-workflow]] — source summary
+- [[summary-06 - The Explore → Plan → Code → Commit workflow in Claude Code]] — source summary
 - [[ClaudeCode]] — the tool this workflow is designed for
 - [[CLAUDE-md]] — where repeated solutions are saved
 - [[AgenticLoop]] — the underlying execution pattern

@@ -19,8 +19,8 @@ An AI agent is software that can interact with its environment and perform actio
 
 ## Related
 
-- [[summary-what-is-claude-code]] — source summary
-- [[summary-how-claude-code-works]] — source on the agentic loop
+- [[summary-01 - What is Claude Code]] — source summary
+- [[summary-03 - How Claude Code Works]] — source on the agentic loop
 - [[ClaudeCode]] — an AI agent for coding
 - [[AgenticLoop]] — the core operational pattern
 - [[ContextWindow]] — the memory constraint agents must work within

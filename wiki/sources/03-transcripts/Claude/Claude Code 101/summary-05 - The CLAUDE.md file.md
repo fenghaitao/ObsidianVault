@@ -23,5 +23,5 @@ The CLAUDE.md file provides Claude Code with persistent project memory, acting a
 ## Related
 
 - [[ClaudeCode]] — the tool that reads CLAUDE.md
-- [[summary-your-first-claude-code-prompt]] — prompting best practices
+- [[summary-04 - Your first Claude Code prompt]] — prompting best practices
 - [[ContextWindow]] — related memory constraint concept

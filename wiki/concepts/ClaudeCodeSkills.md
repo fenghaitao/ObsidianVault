@@ -44,12 +44,12 @@ Claude Code skills are markdown-based instruction files that teach Claude specia
 
 ## Related
 
-- [[summary-what-are-skills]] — source summary
-- [[summary-troubleshooting-skills]] — troubleshooting guide
-- [[summary-sharing-skills]] — sharing and distribution
-- [[summary-skills-vs-other-features]] — comparison with other mechanisms
-- [[summary-configuration-and-multi-file-skills]] — advanced configuration
-- [[summary-creating-your-first-skill]] — creation tutorial
+- [[summary-01 - What are skills]] — source summary
+- [[summary-02 - Troubleshooting skills]] — troubleshooting guide
+- [[summary-03 - Sharing skills]] — sharing and distribution
+- [[summary-04 - How skills compare to other Claude Code features]] — comparison with other mechanisms
+- [[summary-05 - Configuration and multi-file skills]] — advanced configuration
+- [[summary-06 - Creating your first skill]] — creation tutorial
 - [[ClaudeCode]] — the tool skills extend
 - [[CLAUDE-md]] — the persistent alternative
 - [[ModelContextProtocol]] — similar tool integration mechanism

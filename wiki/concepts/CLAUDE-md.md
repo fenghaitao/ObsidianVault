@@ -21,6 +21,6 @@ CLAUDE.md is a markdown configuration file that provides Claude Code with persis
 
 ## Related
 
-- [[summary-the-claude-md-file]] — source summary
+- [[summary-05 - The CLAUDE.md file]] — source summary
 - [[ClaudeCode]] — the tool that consumes CLAUDE.md
 - [[ContextWindow]] — the memory constraint CLAUDE.md helps manage

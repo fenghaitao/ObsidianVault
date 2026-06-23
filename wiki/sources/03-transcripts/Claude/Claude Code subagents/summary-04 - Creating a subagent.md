@@ -24,6 +24,6 @@ Custom sub-agents are markdown files with YAML frontmatter containing configurat
 
 ## Related
 
-- [[summary-what-are-subagents]] — what sub-agents are
-- [[summary-designing-effective-subagents]] — design patterns
+- [[summary-03 - What are subagents]] — what sub-agents are
+- [[summary-02 - Designing effective subagents]] — design patterns
 - [[ClaudeCode]] — the tool sub-agents extend

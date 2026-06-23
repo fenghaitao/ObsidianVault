@@ -24,6 +24,6 @@ Canva is an Australian graphic design and visual communication platform used by 
 
 ## Related
 
-- [[summary-code-with-claude-tokyo-2026-full]] — Canva presentation source
+- [[summary-02 - Code with Claude 2026 ｜ Tokyo]] — Canva presentation source
 - [[ClaudeFable5]] — the model powering Canva AI
 - [[Anthropic]] — the company behind Claude

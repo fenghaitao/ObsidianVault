@@ -12,5 +12,5 @@ Genspark is an all-in-one AI workspace providing AI spreadsheets, slides, and do
 
 ## Related
 
-- [[summary-problem-solvers-genspark]] — source talk
+- [[summary-05 - The Problem Solvers： Kay Zhu at Genspark]] — source talk
 - [[Anthropic]] — model provider and partner

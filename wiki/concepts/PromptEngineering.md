@@ -24,7 +24,7 @@ Prompt engineering is the practice of designing effective instructions for AI mo
 ## Related
 
 - [[ClaudeCodeSkills]] — skills as the progressive disclosure mechanism
-- [[summary-how-we-claude-code]] — interview-based prompting and HTML specs
-- [[summary-evals-for-taste]] — eval-driven prompt refinement
+- [[summary-06 - How we Claude Code]] — interview-based prompting and HTML specs
+- [[summary-04 - Evals for taste： Hill-climbing a slide-generation agent]] — eval-driven prompt refinement
 - [[ClaudeFable5]] — smarter models reducing prompt engineering burden
 - [[CLAUDE-md]] — persistent project-level prompting

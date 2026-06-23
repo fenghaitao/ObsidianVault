@@ -22,4 +22,4 @@ Effective Claude Code usage starts with descriptive prompting and choosing the r
 
 - [[ClaudeCode]] — the tool being prompted
 - [[AgenticLoop]] — the loop that executes the plan
-- [[summary-how-claude-code-works]] — details on permission modes
+- [[summary-03 - How Claude Code Works]] — details on permission modes

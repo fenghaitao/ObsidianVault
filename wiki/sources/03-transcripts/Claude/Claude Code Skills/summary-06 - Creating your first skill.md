@@ -22,6 +22,6 @@ Creating a skill involves making a directory with a `skill.md` file containing Y
 ## Related
 
 - [[ClaudeCodeSkills]] — the skills system
-- [[summary-what-are-skills]] — introduction to skills
-- [[summary-configuration-and-multi-file-skills]] — advanced configuration
+- [[summary-01 - What are skills]] — introduction to skills
+- [[summary-05 - Configuration and multi-file skills]] — advanced configuration
 - [[ClaudeCode]] — the tool skills extend

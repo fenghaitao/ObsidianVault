@@ -20,7 +20,7 @@ Effective sub-agent design revolves around four principles: (1) define a structu
 
 ## Related
 
-- [[summary-what-are-subagents]] — what sub-agents are
-- [[summary-using-subagents-effectively]] — when to use sub-agents
-- [[summary-creating-a-subagent]] — creation tutorial
+- [[summary-03 - What are subagents]] — what sub-agents are
+- [[summary-01 - Using subagents effectively]] — when to use sub-agents
+- [[summary-04 - Creating a subagent]] — creation tutorial
 - [[ClaudeCode]] — the tool sub-agents extend

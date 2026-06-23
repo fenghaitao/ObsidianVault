@@ -1,14 +1,16 @@
 ---
 name: ingest
-description: Compile raw material into the wiki. Reads files from raw/ (excluding raw/09-archive/), extracts entities and concepts, creates/updates wiki pages with bidirectional links, registers them in wiki/index.md, appends to wiki/log.md, then moves the processed source file to raw/09-archive/. Triggered by /ingest (scan all unarchived raw files), /ingest <path> (process a specific file), or natural-language requests like "ingest this article", "import this into my knowledge base", "add this to the wiki".
+description: Compile raw material into the wiki. Reads files from raw/ (excluding raw/05-vtts/), extracts entities and concepts, creates/updates wiki pages with bidirectional links, registers them in wiki/index.md, and appends to wiki/log.md. Raw files are never moved — a source counts as processed when its mirrored summary exists under wiki/sources/. Triggered by /ingest (scan all un-summarized raw files), /ingest <path> (process a specific file), or natural-language requests like "ingest this article", "import this into my knowledge base", "add this to the wiki".
 user-invocable: true
 ---
 
 # ingest skill
 
-## Core workflow: inbox → archive
+## Core workflow: inbox → compiled, no archiving
 
 You are maintaining an LLM Wiki (Obsidian knowledge base). `raw/` is the inbox; `wiki/` is the compiled output layer.
+
+**Raw files are immutable and stay in place forever — never moved, never archived.** A raw file is "already processed" when its **mirrored summary** exists under `wiki/sources/` (see the path scheme in Step 3). The link between a summary and its source is therefore deterministic and reversible by path alone, and the `sources:` frontmatter stays valid permanently.
 
 **Directory map:**
 - `raw/01-articles/` — web clippings (markdown)
@@ -16,8 +18,7 @@ You are maintaining an LLM Wiki (Obsidian knowledge base). `raw/` is the inbox; 
 - `raw/03-transcripts/` — video/podcast transcripts (markdown)
 - `raw/04-meeting_notes/` — meeting notes, brainstorming
 - `raw/05-vtts/` — **raw WebVTT subtitle inputs. Never ingest these.** They are upstream artifacts used to *generate* the markdown transcripts in `raw/03-transcripts/`. Ignore the entire folder during scans.
-- `raw/09-archive/` — **already-processed sources. Never read from here.**
-- `wiki/sources/` — one summary per raw file (kebab-case filenames)
+- `wiki/sources/` — one summary per raw file, **mirroring the raw subpath** (e.g. `03-transcripts/Claude/Claude Code 101/summary-01 - What is Claude Code.md`)
 - `wiki/entities/` — people, companies, tools, products (TitleCase)
 - `wiki/concepts/` — frameworks, methodologies, theories (TitleCase)
 
@@ -27,9 +28,11 @@ You are maintaining an LLM Wiki (Obsidian knowledge base). `raw/` is the inbox; 
 - Dotfiles and bookkeeping files (e.g. `.keep`, `.download_archive.txt`, anything starting with `.`).
 - Any non-source extension (only `.md` and `.pdf` are ingestable).
 
+**Detecting what's already processed (replaces the old archive marker):** a raw file is already compiled iff its **mirrored summary** exists under `wiki/sources/` (path rule in Step 3). To list un-summarized sources, compute each candidate's mirrored summary path and check whether that file exists on disk.
+
 ## Trigger logic
 
-1. **`/ingest`** — scan all subdirectories of `raw/` (excluding `09-archive/` and `05-vtts/`), find unprocessed `.md`/`.pdf` files. If multiple are found, list them and ask the user which to process (or confirm batch processing).
+1. **`/ingest`** — scan all subdirectories of `raw/` (excluding `05-vtts/`), find raw `.md`/`.pdf` files whose mirrored summary does **not** yet exist. If multiple are found, list them and ask the user which to process (or confirm batch processing).
 2. **`/ingest <path>`** — process the specific file at `<path>`.
 3. **Implicit trigger** — when the user says "ingest this", "import this into my wiki", "add this article to the knowledge base", or similar, run the ingest pipeline on the named or current file.
 
@@ -38,7 +41,7 @@ You are maintaining an LLM Wiki (Obsidian knowledge base). `raw/` is the inbox; 
 When the user confirms processing multiple files in one run:
 - **De-duplicate first.** If the same source appears in more than one form (e.g. a transcript and its subtitle twin), keep only the canonical `.md`/`.pdf` content file and drop the rest. Never compile the same underlying source twice.
 - **Process oldest-first** (by filename date prefix where present) so the wiki accretes in chronological order.
-- **Run the full pipeline per file, one at a time** — finish Steps 1–6 (including archive) for a file before starting the next. Don't batch all reads then all writes; that loses the incremental-merge and conflict-pause guarantees.
+- **Run the full pipeline per file, one at a time** — finish Steps 1–6 for a file before starting the next. Don't batch all reads then all writes; that loses the incremental-merge and conflict-pause guarantees.
 - **A conflict pauses the whole batch.** If Step 4 hits a conflict on any file, stop, report it, and wait for the user's decision before resuming the remaining files (see Conflict handling). Already-completed files stay done; the rest wait.
 - **Summarize at the end**: list which files were ingested, which were skipped as duplicates, and any conflicts that paused.
 
@@ -51,7 +54,7 @@ For each source file, execute these steps strictly in order:
 - `.md` files: read the full content.
 - `.pdf` files: attempt text extraction with available tools. If extraction fails or returns empty, record file metadata only (filename, page count if known) and note in the source summary that body text wasn't extractable.
 - If a referenced image in a markdown source is critical to understanding, read it separately.
-- **Media handling:** if an image (or other attachment) is worth preserving in the wiki, copy it into `assets/` and reference it from the wiki page with an Obsidian embed: `![[filename.png]]`. Never hotlink an external URL as the permanent reference, and never leave the asset inside `raw/` (which gets archived). Keep a descriptive filename.
+- **Media handling:** if an image (or other attachment) is worth preserving in the wiki, copy it into `assets/` and reference it from the wiki page with an Obsidian embed: `![[filename.png]]`. Never hotlink an external URL as the permanent reference, and never store the wiki's asset copy inside `raw/` (raw is the immutable source layer). Keep a descriptive filename.
 
 ### Step 2: Extract & translate
 
@@ -64,14 +67,21 @@ If the source is in a non-English language, translate to English. Preserve origi
 
 ### Step 3: Create the source summary
 
-Create `wiki/sources/summary-{slug}.md`. Slug is kebab-case derived from the filename or title.
+Create the source summary at a **mirrored path** under `wiki/sources/`. The path mirrors the raw file's subpath: strip the `raw/` prefix, then prepend `summary-` to the raw filename.
+
+```
+raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md
+→ wiki/sources/03-transcripts/Claude/Claude Code 101/summary-01 - What is Claude Code.md
+```
+
+This makes the link between summary and source deterministic and reversible by path alone. The `sources:` frontmatter stays valid permanently because the raw file is never moved.
 
 ```markdown
 ---
-title: "summary-{slug}"
+title: "summary-{raw-basename}"
 type: source
 tags: [source, original-material]
-sources: [raw/01-articles/example.md]
+sources: [raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md]
 last_updated: YYYY-MM-DD
 ---
 
@@ -111,7 +121,7 @@ For each entity and concept extracted in Step 2:
 title: "PageName"
 type: entity | concept
 tags: [tag1, tag2]
-sources: [raw/01-articles/example.md]
+sources: [raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md]
 last_updated: YYYY-MM-DD
 ---
 
@@ -125,7 +135,7 @@ last_updated: YYYY-MM-DD
 
 ## Related
 
-- [[summary-{slug}]] — source summary
+- [[summary-{raw-basename}]] — source summary
 - [[OtherEntity]] — related entity
 - [[OtherConcept]] — related concept
 ```
@@ -138,23 +148,21 @@ last_updated: YYYY-MM-DD
 
 ```markdown
 ## [YYYY-MM-DD] ingest | <one-line summary of the source>
-- **Changes**: created [[summary-slug]], created [[NewEntity]], updated [[ExistingConcept]], updated [[index.md]]
+- **Changes**: created [[summary-{raw-basename}]], created [[NewEntity]], updated [[ExistingConcept]], updated [[index.md]]
 - **Conflicts**: none
 ```
 
 If conflicts were paused on, note: `**Conflicts**: paused on [[ConflictPage]] — awaiting user decision`.
 
-### Step 6: Archive the source
+### Step 6: Confirm completion (no archiving)
 
 Once **all** of the following are confirmed:
-- Source summary created in `wiki/sources/`
+- Source summary created at the mirrored path under `wiki/sources/`
 - All entity/concept pages created or updated
 - `wiki/index.md` updated
 - `wiki/log.md` updated
 
-…move the source file from its original location to `raw/09-archive/`, preserving the subfolder structure (e.g. `raw/01-articles/foo.md` → `raw/09-archive/01-articles/foo.md`).
-
-**Never modify the contents of the source file.** Only the path changes.
+…the ingest is complete. **The raw file stays in place — never moved, never archived.** The mirrored summary under `wiki/sources/` is the sole signal that a source has been processed.
 
 ## Conflict handling
 
@@ -169,14 +177,14 @@ When ingestion would contradict existing wiki content:
    - **A)** Keep both as a `## Knowledge Conflicts` section on the page (default for genuine debate or evolving understanding).
    - **B)** Replace the old claim with the new one (use when the old was incorrect).
    - **C)** Abort this ingest entirely.
-4. **Continue** based on the choice. If A, add the conflict block. If B, update and note the supersession in the source citation. If C, leave wiki unchanged and don't archive.
+4. **Continue** based on the choice. If A, add the conflict block. If B, update and note the supersession in the source citation. If C, leave wiki unchanged.
 
 ## Hard rules
 
-- Never read from `raw/09-archive/`.
-- Never modify the body of a `raw/` file. Only the move-to-archive operation is allowed.
+- **Never modify, move, rename, or delete `raw/` files.** Raw is strictly read-only and immutable; there is no archive.
+- **A source is "processed" when its mirrored summary exists** under `wiki/sources/` — that is the single dedup signal.
 - Every wiki page must have a `## Related` section. No orphans.
 - All wiki content is in English. Translate non-English sources.
-- Entity & concept filenames: `TitleCase.md`. Source & synthesis filenames: `kebab-case.md`.
+- Entity & concept filenames: `TitleCase.md`. Source filenames: mirror the raw subpath with `summary-` prefix. Synthesis filenames: `kebab-case.md`.
 - Always update `index.md` and `log.md` after any wiki mutation.
 - **Use the real current date** for every `last_updated` field and log entry — read it from the injected current-date context or run `date +%F`. Never guess or copy the `YYYY-MM-DD` placeholder literally.

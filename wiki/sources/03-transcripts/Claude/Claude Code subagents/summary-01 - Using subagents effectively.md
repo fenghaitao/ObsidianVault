@@ -20,6 +20,6 @@ Sub-agents help when intermediate work doesn't matter to the main thread, and hi
 
 ## Related
 
-- [[summary-what-are-subagents]] — what sub-agents are
-- [[summary-designing-effective-subagents]] — design patterns
+- [[summary-03 - What are subagents]] — what sub-agents are
+- [[summary-02 - Designing effective subagents]] — design patterns
 - [[ClaudeCode]] — the tool sub-agents extend

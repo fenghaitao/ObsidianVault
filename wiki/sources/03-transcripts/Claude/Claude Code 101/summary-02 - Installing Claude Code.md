@@ -23,4 +23,4 @@ Claude Code can be installed across multiple platforms: terminal (macOS/Linux/WS
 ## Related
 
 - [[ClaudeCode]] — the tool being installed
-- [[summary-what-is-claude-code]] — overview of what Claude Code is
+- [[summary-01 - What is Claude Code]] — overview of what Claude Code is

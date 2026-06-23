@@ -23,7 +23,7 @@ Claude Fable 5 is Anthropic's most capable generally available model, released a
 
 ## Related
 
-- [[summary-code-with-claude-tokyo-2026-keynote]] — launch keynote
+- [[summary-01 - Code with Claude Tokyo 2026： Opening Keynote]] — launch keynote
 - [[ClaudeCode]] — uses Fable 5 for coding tasks
 - [[ClaudeManagedAgents]] — platform optimized for Fable 5
 - [[Anthropic]] — the company behind the model

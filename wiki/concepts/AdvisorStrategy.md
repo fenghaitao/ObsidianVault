@@ -20,6 +20,6 @@ The advisor strategy is a Claude API pattern that splits execution from advising
 
 ## Related
 
-- [[summary-code-with-claude-london-2026-keynote]] — keynote where it was introduced
-- [[summary-picking-the-right-model]] — related model selection framework
+- [[summary-01 - Code with Claude London 2026： Opening Keynote]] — keynote where it was introduced
+- [[summary-10 - Picking the right model]] — related model selection framework
 - [[ClaudeManagedAgents]] — platform that can leverage this strategy

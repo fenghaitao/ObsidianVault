@@ -22,7 +22,7 @@ Matt Bleifer from Anthropic's research team presents on test-time compute scalin
 
 ## Related
 
-- [[summary-the-thinking-lever]] — London version of the same talk
+- [[summary-14 - The thinking lever]] — London version of the same talk
 - [[ClaudeFable5]] — Opus 4.7 enabling these capabilities
 - [[AdaptiveThinking]] — the concept of models choosing when to reason
 - [[ClaudeCode]] — defaults to extra high effort

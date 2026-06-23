@@ -22,4 +22,4 @@ Claude Code Routines are scheduled, cron-triggered autonomous runs of Claude Cod
 
 - [[ClaudeCode]] — the tool where routines are implemented
 - [[ClaudeCowork]] — scheduled tasks for knowledge workers
-- [[summary-running-ai-native-engineering-org]] — source talk mentioning routines
+- [[summary-03 - Running an AI-native engineering org]] — source talk mentioning routines

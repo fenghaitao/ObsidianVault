@@ -21,7 +21,7 @@ Claude Managed Agents is Anthropic's product offering for building and deploying
 
 ## Related
 
-- [[summary-code-with-claude-tokyo-2026-keynote]] — launch keynote
+- [[summary-01 - Code with Claude Tokyo 2026： Opening Keynote]] — launch keynote
 - [[ClaudeFable5]] — the model optimized for Managed Agents
 - [[ClaudeCode]] — the developer-facing agent tool
 - [[Anthropic]] — the company behind the platform

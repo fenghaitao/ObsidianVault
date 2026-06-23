@@ -24,4 +24,4 @@ Hooks provide deterministic control over Claude Code's lifecycle by running comm
 
 - [[ClaudeCode]] — the tool hooks control
 - [[CLAUDE-md]] — the non-deterministic alternative hooks replace
-- [[summary-the-claude-md-file]] — related source on CLAUDE.md
+- [[summary-05 - The CLAUDE.md file]] — related source on CLAUDE.md

@@ -12,6 +12,6 @@ Slack is a business communication platform that uses Claude for AI-powered searc
 
 ## Related
 
-- [[summary-how-slack-uses-claude]] — source talk
+- [[summary-04 - How Slack uses Claude for AI search and summaries]] — source talk
 - [[Anthropic]] — model provider
 - [[ClaudeCode]] — used internally for development

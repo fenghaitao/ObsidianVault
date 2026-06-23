@@ -22,6 +22,6 @@ Model Context Protocol (MCP) is an open standard that enables AI agents like Cla
 
 ## Related
 
-- [[summary-mcp-in-claude-code]] — source summary
+- [[summary-08 - MCP in Claude Code]] — source summary
 - [[ClaudeCode]] — the tool MCP extends
 - [[ContextWindow]] — the memory constraint MCP tools consume

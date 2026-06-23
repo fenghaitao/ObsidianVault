@@ -22,8 +22,8 @@ Adaptive thinking is Claude's capability to freely choose when to think, call to
 
 ## Related
 
-- [[summary-the-thinking-lever]] — London talk on thinking
-- [[summary-the-thinking-lever-sf]] — San Francisco talk on thinking
+- [[summary-14 - The thinking lever]] — London talk on thinking
+- [[summary-14 - The thinking lever]] — San Francisco talk on thinking
 - [[ClaudeFable5]] — Opus 4.7 enabling adaptive thinking
 - [[ClaudeCode]] — defaults to extra high effort with adaptive thinking
 - [[ContextWindow]] — related constraint on model reasoning

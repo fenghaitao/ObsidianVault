@@ -12,7 +12,7 @@ Figma is a collaborative design platform that uses Claude to power Figma Make, w
 
 ## Related
 
-- [[summary-how-figma-uses-claude]] — Figma Make talk
-- [[summary-anthropic-marketing]] — Anthropic's Figma plugin use
+- [[summary-07 - How Figma Make uses Claude to turn prompts into prototypes]] — Figma Make talk
+- [[summary-05 - How Anthropic uses Claude in Marketing]] — Anthropic's Figma plugin use
 - [[Anthropic]] — model provider
 - [[ClaudeCode]] — used to build Figma plugins

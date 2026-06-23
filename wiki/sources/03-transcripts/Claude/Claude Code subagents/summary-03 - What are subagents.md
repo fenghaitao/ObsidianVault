@@ -23,4 +23,4 @@ Sub-agents are specialized assistants that Claude can delegate tasks to. Each ru
 
 - [[ClaudeCode]] — the tool sub-agents extend
 - [[ContextWindow]] — the memory constraint sub-agents help manage
-- [[summary-using-subagents-effectively]] — when sub-agents help vs. hinder
+- [[summary-01 - Using subagents effectively]] — when sub-agents help vs. hinder

@@ -19,7 +19,7 @@ Bun is a fast JavaScript runtime and toolkit created by Jarred Sumner. The Bun p
 
 ## Related
 
-- [[summary-live-coding-boris-jarred]] — source talk
+- [[summary-04 - Live coding session with Boris Cherny and Jarred Sumner]] — source talk
 - [[ClaudeCode]] — the tool powering Robo Bun
 - [[ClaudeFable5]] — Opus 4.7 enabling autonomy
 - [[CLAUDE-md]] — compound engineering documentation

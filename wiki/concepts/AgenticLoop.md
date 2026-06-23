@@ -20,7 +20,7 @@ The agentic loop is the core operational pattern of AI agents: prompt intake, co
 
 ## Related
 
-- [[summary-how-claude-code-works]] — source summary
+- [[summary-03 - How Claude Code Works]] — source summary
 - [[ClaudeCode]] — the tool that implements the agentic loop
 - [[AIAgent]] — the broader agent paradigm
 - [[ContextWindow]] — the memory constraint within the loop

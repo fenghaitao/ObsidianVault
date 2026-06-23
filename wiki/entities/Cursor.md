@@ -21,8 +21,8 @@ Cursor is an AI-powered coding tool that helps professionals build software fast
 
 ## Related
 
-- [[summary-cursor-cloud-agents]] — cloud agents talk
-- [[summary-problem-solvers-cursor]] — problem solvers profile
+- [[summary-17 - Giving coding agents their own computers： How Cursor built cloud agents]] — cloud agents talk
+- [[summary-01 - The Problem Solvers ｜ Michael Truell at Cursor]] — problem solvers profile
 - [[ClaudeCode]] — Anthropic's coding agent
 - [[ClaudeFable5]] — Opus 4.7 as computer use model
 - [[Anthropic]] — model provider and partner

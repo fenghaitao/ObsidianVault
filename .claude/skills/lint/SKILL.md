@@ -64,10 +64,10 @@ Check that filenames match the schema's required style for their folder (`CLAUDE
 |---|---|---|
 | `wiki/concepts/` | `TitleCase.md` | `RetrievalAugmentedGeneration.md` |
 | `wiki/entities/` | `TitleCase.md` | `ClaudeCode.md` |
-| `wiki/sources/` | `summary-{slug}.md` (kebab-case) | `summary-karpathy-llm-wiki.md` |
+| `wiki/sources/` | mirrors raw subpath: `<subpath>/summary-<raw-basename>` | `03-transcripts/Cole Medin/Channel Only/summary-20260101 - AI Exploded.md` |
 | `wiki/syntheses/` | `{slug}.md` (kebab-case) | `analysis-rag-vs-wiki.md` |
 
-Flag violations as a **yellow** issue (e.g. a source file named `BuildingEffectiveAgents.md` instead of `summary-building-effective-agents.md`, or a concept in kebab-case). Renaming is a fix the user must approve — propose the corrected name, and remember that renaming a page also requires updating every inbound `[[wikilink]]` and its `index.md` entry, so list those downstream edits alongside the rename.
+Flag violations as a **yellow** issue (e.g. a concept in kebab-case, or a source summary whose path/name doesn't mirror its raw file — see below). Renaming is a fix the user must approve — propose the corrected name, and remember that renaming a page also requires updating every inbound `[[wikilink]]` and its `index.md` entry, so list those downstream edits alongside the rename. Renaming is a fix the user must approve — propose the corrected name, and remember that renaming a page also requires updating every inbound `[[wikilink]]` and its `index.md` entry, so list those downstream edits alongside the rename.
 
 ## Report format
 
@@ -97,8 +97,8 @@ Produce the report in this exact structure:
   - [[PageX]] — `type` is `concept` but file is in `wiki/entities/`.
 
 - **Filename-convention violations (N)**: filenames not matching the required style for their folder.
-  - `wiki/sources/BuildingEffectiveAgents.md` — should be kebab-case `summary-building-effective-agents.md`.
-  - Suggestion: rename + update inbound links and the `index.md` entry (I'll list the downstream edits before applying).
+  - `wiki/sources/summary-foo.md` (flat) — should mirror its raw subpath, e.g. `wiki/sources/03-transcripts/Cole Medin/Channel Only/summary-foo.md`. (Exception: external-reference summaries with empty `sources:` and no raw file legitimately stay flat.)
+  - Suggestion: rename/move + update inbound links and the `index.md` entry (I'll list the downstream edits before applying).
 
 ### ❌ Red
 

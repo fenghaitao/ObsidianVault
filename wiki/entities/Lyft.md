@@ -12,5 +12,5 @@ Lyft is a rideshare company that adopted Claude for customer support during rapi
 
 ## Related
 
-- [[summary-how-lyft-uses-claude]] — source talk
+- [[summary-05 - How Lyft uses Claude for faster, more human customer support]] — source talk
 - [[Anthropic]] — model provider

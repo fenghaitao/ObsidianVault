@@ -32,17 +32,17 @@ Claude Code is Anthropic's agentic coding tool that has direct access to a devel
 
 ## Related
 
-- [[summary-what-is-claude-code]] — source summary
-- [[summary-installing-claude-code]] — installation guide source
-- [[summary-how-claude-code-works]] — internals of the agentic loop
-- [[summary-your-first-claude-code-prompt]] — prompting and plan mode
-- [[summary-the-claude-md-file]] — persistent project memory via CLAUDE.md
-- [[summary-explore-plan-code-commit-workflow]] — the recommended workflow
-- [[summary-context-management-in-claude-code]] — context management strategies
-- [[summary-mcp-in-claude-code]] — MCP integration
-- [[summary-hooks-in-claude-code]] — deterministic lifecycle hooks
-- [[summary-what-are-skills]] — skills system introduction
-- [[summary-what-are-subagents]] — sub-agents introduction
+- [[summary-01 - What is Claude Code]] — source summary
+- [[summary-02 - Installing Claude Code]] — installation guide source
+- [[summary-03 - How Claude Code Works]] — internals of the agentic loop
+- [[summary-04 - Your first Claude Code prompt]] — prompting and plan mode
+- [[summary-05 - The CLAUDE.md file]] — persistent project memory via CLAUDE.md
+- [[summary-06 - The Explore → Plan → Code → Commit workflow in Claude Code]] — the recommended workflow
+- [[summary-07 - Context Management in Claude Code]] — context management strategies
+- [[summary-08 - MCP in Claude Code]] — MCP integration
+- [[summary-09 - Hooks in Claude Code]] — deterministic lifecycle hooks
+- [[summary-01 - What are skills]] — skills system introduction
+- [[summary-03 - What are subagents]] — sub-agents introduction
 - [[CLAUDE-md]] — the memory file concept
 - [[ExplorePlanCodeCommit]] — the EPCC workflow
 - [[ModelContextProtocol]] — the MCP standard

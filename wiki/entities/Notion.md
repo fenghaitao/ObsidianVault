@@ -20,5 +20,5 @@ Notion is a productivity and collaboration platform that uses Claude Managed Age
 ## Related
 
 - [[ClaudeManagedAgents]] — the platform powering orchestration
-- [[summary-how-notion-built-with-managed-agents]] — source talk
+- [[summary-03 - How Notion built with Claude Managed Agents]] — source talk
 - [[Anthropic]] — model provider

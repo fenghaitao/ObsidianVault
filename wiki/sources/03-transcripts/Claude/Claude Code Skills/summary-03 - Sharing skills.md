@@ -21,5 +21,5 @@ Skills become more valuable when shared across teams. Three sharing methods: (1)
 ## Related
 
 - [[ClaudeCodeSkills]] — the skills system
-- [[summary-what-are-skills]] — introduction to skills
+- [[summary-01 - What are skills]] — introduction to skills
 - [[ClaudeCode]] — the tool skills extend

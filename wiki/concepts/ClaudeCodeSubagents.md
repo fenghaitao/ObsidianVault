@@ -32,10 +32,10 @@ Claude Code sub-agents are specialized assistants that run in isolated context w
 
 ## Related
 
-- [[summary-what-are-subagents]] — source summary
-- [[summary-using-subagents-effectively]] — when to use
-- [[summary-designing-effective-subagents]] — design patterns
-- [[summary-creating-a-subagent]] — creation tutorial
+- [[summary-03 - What are subagents]] — source summary
+- [[summary-01 - Using subagents effectively]] — when to use
+- [[summary-02 - Designing effective subagents]] — design patterns
+- [[summary-04 - Creating a subagent]] — creation tutorial
 - [[ClaudeCode]] — the tool sub-agents extend
 - [[ContextWindow]] — the memory constraint sub-agents help manage
 - [[ClaudeCodeSkills]] — skills vs. sub-agents comparison

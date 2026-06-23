@@ -24,7 +24,7 @@ Extended coverage of Code with Claude Tokyo 2026, including the full opening key
 
 ## Related
 
-- [[summary-code-with-claude-tokyo-2026-keynote]] — the keynote portion
+- [[summary-01 - Code with Claude Tokyo 2026： Opening Keynote]] — the keynote portion
 - [[ClaudeCode]] — the developer tool
 - [[ClaudeFable5]] — the model powering these experiences
 - [[Canva]] — the design platform using Claude

@@ -29,4 +29,4 @@ Context is Claude's working memory; every file read, command run, and message se
 - [[ClaudeCode]] — the tool whose context is managed
 - [[ContextWindow]] — the underlying memory constraint
 - [[CLAUDE-md]] — persistent memory across sessions
-- [[summary-the-claude-md-file]] — related source on CLAUDE.md
+- [[summary-05 - The CLAUDE.md file]] — related source on CLAUDE.md

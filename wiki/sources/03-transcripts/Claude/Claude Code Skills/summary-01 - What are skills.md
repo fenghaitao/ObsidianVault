@@ -24,4 +24,4 @@ Skills are markdown files (or folders of instructions, scripts, and resources) t
 
 - [[ClaudeCode]] — the tool skills extend
 - [[CLAUDE-md]] — the persistent alternative to skills
-- [[summary-the-claude-md-file]] — related source on CLAUDE.md
+- [[summary-05 - The CLAUDE.md file]] — related source on CLAUDE.md

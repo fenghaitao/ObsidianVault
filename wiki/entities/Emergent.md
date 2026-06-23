@@ -22,7 +22,7 @@ Emergent is a text-to-app platform that democratizes software engineering for sm
 
 ## Related
 
-- [[summary-how-emergent-makes-app-building-accessible]] — source talk
+- [[summary-02 - How Emergent is making app building more accessible with Claude]] — source talk
 - [[ClaudeFable5]] — Opus as the workhorse model
 - [[AgenticMemory]] — long-term memory across apps
 - [[Replit]] — related vibe-coding platform

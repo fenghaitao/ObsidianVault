@@ -25,4 +25,4 @@ Kevin from Anthropic presents a hands-on workshop on building agents with persis
 
 - [[ClaudeManagedAgents]] — the platform for memory and dreaming
 - [[AgenticMemory]] — the concept of persistent agent learning
-- [[summary-memory-and-dreaming-for-self-learning-agents]] — London Day 1 talk on same topic
+- [[summary-18 - Memory and dreaming for self-learning agents]] — London Day 1 talk on same topic

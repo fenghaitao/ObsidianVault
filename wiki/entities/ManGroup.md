@@ -20,6 +20,6 @@ Man Group is an alternative investment manager managing over $200 billion in ass
 
 ## Related
 
-- [[summary-building-signals-that-trade-themselves]] — source presentation
+- [[summary-09 - Building signals that trade themselves]] — source presentation
 - [[ClaudeCodeSkills]] — the skills governance approach
 - [[ClaudeCode]] — the tool used

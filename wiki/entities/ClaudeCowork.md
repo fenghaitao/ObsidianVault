@@ -22,9 +22,9 @@ Claude Cowork is Anthropic's product for knowledge workers that enables Claude t
 
 ## Related
 
-- [[summary-cowork-legal-teams]] — legal team use case
-- [[summary-cowork-marketing-ops]] — marketing ops use case
-- [[summary-cowork-sales]] — sales use case
+- [[summary-01 - Claude Cowork for legal teams]] — legal team use case
+- [[summary-02 - Claude Cowork for marketing ops]] — marketing ops use case
+- [[summary-03 - Claude Cowork for sales]] — sales use case
 - [[ClaudeCode]] — the developer-focused agent tool
 - [[ClaudeManagedAgents]] — the production agent platform
 - [[ClaudeCodeSkills]] — skills as the reusable process mechanism

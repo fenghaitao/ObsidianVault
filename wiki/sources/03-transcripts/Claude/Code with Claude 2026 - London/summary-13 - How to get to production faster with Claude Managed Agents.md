@@ -23,5 +23,5 @@ Michael and Harrison from Anthropic present Claude Managed Agents as the solutio
 ## Related
 
 - [[ClaudeManagedAgents]] — the platform
-- [[summary-build-production-ready-agent]] — hands-on workshop
+- [[summary-14 - Build a production-ready agent with Claude Managed Agents]] — hands-on workshop
 - [[ClaudeCode]] — the tool with the Claude API skill

@@ -24,4 +24,4 @@ Margo van Laar presents a prompting playbook through two scenarios: debugging an
 
 - [[PromptEngineering]] — the broader discipline
 - [[ClaudeCode]] — the tool prompts are written for
-- [[summary-picking-the-right-model]] — related model selection talk
+- [[summary-10 - Picking the right model]] — related model selection talk

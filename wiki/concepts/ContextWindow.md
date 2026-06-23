@@ -31,8 +31,8 @@ The context window is an LLM's working memory -- the maximum amount of text (tok
 
 ## Related
 
-- [[summary-what-is-claude-code]] — source summary
-- [[summary-context-management-in-claude-code]] — source on context management
+- [[summary-01 - What is Claude Code]] — source summary
+- [[summary-07 - Context Management in Claude Code]] — source on context management
 - [[ClaudeCode]] — tool that operates within context window constraints
 - [[AIAgent]] — paradigm for working around context window limits
 - [[CLAUDE-md]] — persistent memory across sessions

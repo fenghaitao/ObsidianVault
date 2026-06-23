@@ -20,7 +20,7 @@ AirOps is a growth marketing platform for AI search (optimizing brand visibility
 
 ## Related
 
-- [[summary-how-airops-chases-friction]] — source talk
+- [[summary-10 - How AirOps chases friction to build AI products with Claude]] — source talk
 - [[ClaudeCodeSkills]] — playbooks as skill equivalents
 - [[ClaudeCodeSubagents]] — sub-agent decomposition patterns
 - [[Anthropic]] — model provider

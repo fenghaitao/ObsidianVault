@@ -23,5 +23,5 @@ A hands-on workshop for building with Claude Managed Agents. Covers the four bui
 ## Related
 
 - [[ClaudeManagedAgents]] — the platform
-- [[summary-get-to-production-faster-managed-agents]] — companion talk
+- [[summary-13 - How to get to production faster with Claude Managed Agents]] — companion talk
 - [[ClaudeCode]] — the tool used for development
