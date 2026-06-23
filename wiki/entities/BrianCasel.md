@@ -71,3 +71,5 @@ Brian Casel is a software developer with 20+ years of experience who now teaches
 - [[SparkDrop]] — his content pipeline app
 - [[BrainDown]] — his markdown editor
 - [[ResonanceRadar]] — his content radar app
+- [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches
+- [[cole-vs-brian-agent-autonomy]] — synthesis comparing Cole's and Brian's autonomy patterns

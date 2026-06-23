@@ -80,6 +80,7 @@ A typical project has one PRD that survives the project's lifetime, and dozens o
 - [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]], [[SystemEvolution]] — companion techniques
 - [[ColeMedin]] — author
 - [[PIVLoop]] — each PRD phase is executed as one PIV loop
+- [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches
 - [[summary-5-techniques-top-agentic-engineers]] — primary source
 - [[summary-complete-agentic-coding-workflow]] — the PRD creation flow in practice
 - [[summary-principled-agentic-engineer]] — PRD→stories→Jira; the PM planning role

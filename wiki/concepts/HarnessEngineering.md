@@ -98,5 +98,6 @@ PromptEngineering → ContextEngineering → HarnessEngineering
 - [[Archon]] — Cole's harness builder
 - [[ColeMedin]] — articulator
 - [[LoopEngineering]] — the 2026 "loops do the work" framing, folded into this discipline
+- [[cole-vs-brian-agent-autonomy]] — synthesis comparing Cole's and Brian's autonomy patterns
 - [[summary-harness-engineering]] — primary source
 - [[summary-loop-engineering]] — loop engineering as harness engineering

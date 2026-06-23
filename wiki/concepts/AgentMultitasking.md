@@ -42,3 +42,4 @@ Brian's current daily driver is [[SuperSet]] (native Claude Code CLI, worktree s
 - [[SuperSet]] — Brian's daily driver
 - [[NightShiftModel]] — the background agent complement
 - [[ClaudeCode]] — the primary agent
+- [[cole-vs-brian-agent-autonomy]] — synthesis comparing Cole's and Brian's autonomy patterns

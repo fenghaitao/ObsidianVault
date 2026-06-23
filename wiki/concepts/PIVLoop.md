@@ -56,6 +56,7 @@ Set real environment variables (via a `.env.example` the agent reads) *before* i
 - [[SubAgent]] — research sub-agents used in the Plan step
 - [[SystemEvolution]] — applied after each loop to improve the system
 - [[ColeMedin]] — articulator
+- [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches
 - [[summary-complete-agentic-coding-workflow]] — primary source
 - [[summary-self-healing-e2e-validation]] — the /e2e-test skill as the validate step
 - [[summary-principled-agentic-engineer]] — inner/outer loop framing; two planning layers

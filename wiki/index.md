@@ -221,6 +221,8 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[cole-medin-rag-playbook]] — Consolidated RAG strategies, tooling, cost controls, and Cole's actual recommendations; plus the RAG-vs-Wiki tension.
 - [[vault-architecture-mapped-to-cole-teachings]] — How this vault is itself an instance of the Karpathy LLM Wiki / Second Brain pattern it documents.
 - [[fighting-context-rot]] — Every technique Cole uses against context rot, organized by layer; the unifying thread of the corpus.
+- [[cole-vs-brian-planning-methodologies]] — How Cole Medin's and Brian Casel's planning methodologies compare: PRD-First + PIV Loop vs Spec-Driven + Milestones.
+- [[cole-vs-brian-agent-autonomy]] — How Cole Medin's and Brian Casel's agent autonomy patterns compare: harness engineering + Ralph Loops vs Night Shift + multitasking.
 
 - [[summary-claude-code-vs-cursor-vs-codex]] — Brian Casel compares Claude Code, Cursor, and Codex for cloud-based agent workflows.
 - [[summary-cursor-2-changed-work]] — Brian reviews Cursor 2.0: built-in browser, background agents, mobile access, agent sidebar.

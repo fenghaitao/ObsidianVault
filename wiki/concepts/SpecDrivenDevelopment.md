@@ -50,4 +50,5 @@ Brian uses his [[PRDCreator]] skill to automate the planning Q&A, producing a PR
 - [[ProductArchitect]] — the human role
 - [[VerificationCriteria]] — the definition-of-done pattern
 - [[PRPFramework]] — Cole Medin's related two-pass methodology
+- [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches
 - [[ClaudeCode]] — primary execution surface

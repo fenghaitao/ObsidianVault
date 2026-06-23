@@ -38,3 +38,4 @@ Brian Casel typically breaks projects into 3-7 milestones. His [[PRDCreator]] sk
 - [[BrianCasel]] — primary advocate
 - [[ContextRot]] — what milestones prevent
 - [[PIVLoop]] — Cole Medin's related per-phase unit of work
+- [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches

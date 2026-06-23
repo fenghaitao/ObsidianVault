@@ -8,6 +8,10 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 
 ---
 
+## [2026-06-23] query | Cross-cutting syntheses: Cole Medin vs Brian Casel on planning and autonomy
+- **Changes**: created [[cole-vs-brian-planning-methodologies]], created [[cole-vs-brian-agent-autonomy]], updated [[index]], updated [[SpecDrivenDevelopment]], updated [[PRDFirstDevelopment]], updated [[PIVLoop]], updated [[MilestoneBasedBuilding]], updated [[HarnessEngineering]], updated [[NightShiftModel]], updated [[AgentMultitasking]]
+- **Conflicts**: none
+
 ## [2026-06-19] ingest | Cole Medin "Archon - The AI Agent Builder" playlist (4 transcripts, batched)
 - **Sources processed**:
   - `raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How.md`

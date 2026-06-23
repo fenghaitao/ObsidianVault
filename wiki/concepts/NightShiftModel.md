@@ -44,3 +44,4 @@ The pattern works on any agent platform: Brian has built it on [[OpenClaw]], [[H
 - [[BrainDown]] — the report viewer
 - [[ClaudeCowork]] — one scheduling platform
 - [[HermesAgent]] — another scheduling platform
+- [[cole-vs-brian-agent-autonomy]] — synthesis comparing Cole's and Brian's autonomy patterns

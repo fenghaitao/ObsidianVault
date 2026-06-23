@@ -98,6 +98,8 @@ Per `summary-ai-youtube-claude-hype`, Cole deliberately resists the "Claude hype
 - [[SecondBrain]] — Cole's Jan-2026 personal-knowledge use case
 - [[SystemEvolution]] — Cole's "fix the system, not the bug" mindset
 - [[AgentEvaluation]], [[AgentObservability]], [[Guardrails]] — production-readiness pillars Cole emphasizes
+- [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches
+- [[cole-vs-brian-agent-autonomy]] — synthesis comparing Cole's and Brian's autonomy patterns
 - [[ContextualRetrieval]] — Cole-popularized RAG technique
 - [[ParallelAgentArchitecture]] — frequently demonstrated pattern
 - [[SubAgent]] — recurring architectural focus
