@@ -253,11 +253,13 @@ This vault's architecture and operational patterns were directly shaped by two b
 
 ### Content
 
-All ingested transcripts in this vault come from **[[ColeMedin]]**:
+All ingested transcripts in this vault come from **[[ColeMedin]]** and **[[BrianCasel]]**:
 
-- **[Cole Medin's YouTube Channel](https://www.youtube.com/@ColeMedin/videos)** — The source of all ingested transcripts. Cole's deep dives on AI agents, agentic engineering, context engineering, harness engineering, and the Karpathy LLM Wiki / Second Brain pattern form the content backbone of this knowledge base.
+- **[Cole Medin's YouTube Channel](https://www.youtube.com/@ColeMedin/videos)** — Cole's deep dives on AI agents, agentic engineering, context engineering, harness engineering, and the Karpathy LLM Wiki / Second Brain pattern form the content backbone of this knowledge base.
 
 - **[Archon - The AI Agent Builder](https://www.youtube.com/playlist?list=PLyrg3m7Ei-Mr_FkLdJFx2DCnEOiek4yqa)** — Cole's build-in-public playlist on [[Archon]], his open-source meta-agent. The four episodes in this series were the first batch ingested into this vault and introduced foundational concepts like [[ParallelAgentArchitecture]], [[SubAgent]], [[MetaAgent]], and the MCP-powered agent army pattern.
+
+- **[Brian Casel's YouTube Channel (Builder Methods)](https://www.youtube.com/@BrianCasel/videos)** — Brian's transcripts cover spec-driven development, agent orchestration, building internal tools with AI, and the product architect role. His 2025–2026 workflow evolution from hand-coding to agent multitasking introduces concepts like [[SpecDrivenDevelopment]], [[NightShiftModel]], [[MilestoneBasedBuilding]], and [[AgentMultitasking]].
 
 ---
 
