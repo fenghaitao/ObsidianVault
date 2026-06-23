@@ -8,7 +8,7 @@ author: "Claude"
 
 # The expanding toolkit
 
-[snorts] &gt;&gt; Hello everybody. How are folks doing today? My name is Lucas. I'm a research PM here at Anthropic. And today I'll be talking about the expanding toolkit. But first of all, I want to say thank you everybody for joining us at our code with Claude conference.
+[snorts] >> Hello everybody. How are folks doing today? My name is Lucas. I'm a research PM here at Anthropic. And today I'll be talking about the expanding toolkit. But first of all, I want to say thank you everybody for joining us at our code with Claude conference.
 
 We're very grateful you're here and we love speaking directly to our users. Cool. So, what am I going to talk about today? The overarching theme of today's talk is that the scaffolding that you had to build last year actually ships with the model today. So, I want you all to think of the model no longer as just an input-output LLM box, but rather as a series of tools around that model that expands its capabilities and leads to better performance. So, in other words, we see the model itself as an expanding toolkit.
 
@@ -66,4 +66,4 @@ We will continue to make Claude more reliable and more capable through this expa
 
 And we believe that the ecosystem is moving in the same direction. So, we believe that in the near future every agent every piece of software will be getting a front door for agents. And so, the interesting work is no longer making the model more reliable. The interesting work is what you put on the other side of your agent front door that nobody else can. Thank you very much for coming to my talk and for coming to the Code with Cloud conference. Uh my name is Lucas and I'll be walking around if you have any additional questions, definitely feel free to come say hi.
 
-Uh thank you all very much. &gt;&gt; [applause]
+Uh thank you all very much. >> [applause]

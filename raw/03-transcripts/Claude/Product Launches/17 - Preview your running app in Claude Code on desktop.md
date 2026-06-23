@@ -8,4 +8,4 @@ author: "Claude"
 
 # Preview your running app in Claude Code on desktop
 
-[music] Heat. Heat. [music] Heat. [music] Hey, heat. Hey, heat. &gt;&gt; [music]
+[music] Heat. Heat. [music] Heat. [music] Hey, heat. Hey, heat. >> [music]

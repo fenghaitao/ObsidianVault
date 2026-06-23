@@ -99,37 +99,15 @@ All issues are reported; fixes are applied only with your approval.
 
 ## Vault Content Overview
 
-### Current Scope
-- **44 source summaries** — Cole Medin's YouTube series (Jan–May 2026), Anthropic guides
-- **27 entities** — Tools (Claude Code, PydanticAI, LangGraph), people (Cole, Karpathy), companies
-- **30+ concepts** — Agent architecture, RAG patterns, harness engineering, 5 golden rules
-- **4 syntheses** — Cross-document analyses: RAG playbooks, context-rot countermeasures, vault self-description
-
-### Key Concepts (Start Here)
-- [[AIAgent]] — Fundamentals of what an AI agent is
-- [[AgentHarness]] — Multi-session orchestration for long-running tasks
-- [[ContextEngineering]] — Supplying context to agents for first-try success
-- [[PRPFramework]] — Rasmus's structured context-engineering methodology
-- [[ContextRot]] — The "dumb zone" problem and how to fight it
-
-### Key Entities
-- [[ColeMedin]] — Creator of Archon, vocal advocate for PydanticAI + MCP
-- [[ClaudeCode]] — Anthropic's AI coding agent (primary execution surface)
-- [[PydanticAI]] — Type-safe Python agent framework Cole champions
-- [[ModelContextProtocol]] — Standardized tool/MCP-server protocol
-
-### Sample Syntheses
-- [[evolution-vibe-coding-to-harness-engineering]] — The paradigm shift over 2025–2026
-- [[cole-medin-rag-playbook]] — Consolidated RAG strategies and recommendations
-- [[fighting-context-rot]] — Every technique to avoid the "dumb zone"
+The wiki is currently empty and ready for new ingests. Use `/ingest <path>` to process source files from `raw/` and populate the knowledge base.
 
 ---
 
 ## Quick Start
 
-1. **Explore the wiki**: Open [[wiki/index.md]] to see all pages
-2. **Ask a question**: Try `/query what is context engineering?`
-3. **Add new material**: Drop an article/transcript into `raw/01-articles/`, then `/ingest raw/01-articles/your-file.md`
+1. **Add new material**: Drop an article/transcript into `raw/01-articles/`, then `/ingest raw/01-articles/your-file.md`
+2. **Explore the wiki**: Open [[wiki/index.md]] to see all pages
+3. **Ask a question**: Try `/query <your question>` to search the knowledge base
 4. **Check health**: Run `/lint` periodically to catch orphans and dead links
 
 ---
@@ -174,7 +152,7 @@ If the default font is too small/large:
 ### 4. Verify the Setup
 - Open a note in the editor (should have cream background + dark text)
 - Open the **Lean Terminal** (should match the editor colors)
-- Run `/query what is an AI agent?` to test the system
+- Run `/ingest raw/01-articles/example.md` to test the ingest pipeline
 
 ---
 
@@ -253,16 +231,14 @@ This vault's architecture and operational patterns were directly shaped by two b
 
 ### Content
 
-All ingested transcripts in this vault come from **[[ColeMedin]]**:
+All ingested transcripts in this vault come from **Cole Medin**:
 
 - **[Cole Medin's YouTube Channel](https://www.youtube.com/@ColeMedin/videos)** — The source of all ingested transcripts. Cole's deep dives on AI agents, agentic engineering, context engineering, harness engineering, and the Karpathy LLM Wiki / Second Brain pattern form the content backbone of this knowledge base.
 
-- **[Archon - The AI Agent Builder](https://www.youtube.com/playlist?list=PLyrg3m7Ei-Mr_FkLdJFx2DCnEOiek4yqa)** — Cole's build-in-public playlist on [[Archon]], his open-source meta-agent. The four episodes in this series were the first batch ingested into this vault and introduced foundational concepts like [[ParallelAgentArchitecture]], [[SubAgent]], [[MetaAgent]], and the MCP-powered agent army pattern.
+- **[Archon - The AI Agent Builder](https://www.youtube.com/playlist?list=PLyrg3m7Ei-Mr_FkLdJFx2DCnEOiek4yqa)** — Cole's build-in-public playlist on Archon, his open-source meta-agent. The four episodes in this series were the first batch ingested into this vault and introduced foundational concepts like parallel agent architecture, sub-agents, meta-agents, and the MCP-powered agent army pattern.
 
 ---
 
 ## Related
 
-- [[KarpathyLLMWiki]] — The foundational pattern
-- [[SecondBrain]] — This vault as a personal knowledge engine
 - [[CLAUDE.md]] — Detailed schema, permissions, and hard rules

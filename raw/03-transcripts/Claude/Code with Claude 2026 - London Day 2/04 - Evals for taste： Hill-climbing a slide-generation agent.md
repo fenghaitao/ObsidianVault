@@ -8,7 +8,7 @@ author: "Claude"
 
 # Evals for taste： Hill-climbing a slide-generation agent
 
-[music] &gt;&gt; Hello. Hello. Hello. Good afternoon, everyone. I hope you all had a wonderful lunch. Um there's so many of you as well.
+[music] >> Hello. Hello. Hello. Good afternoon, everyone. I hope you all had a wonderful lunch. Um there's so many of you as well.
 
 I'm actually kind of surprised by this. Um happy to see that there's that much interest in talking about uh Evals. Um I personally am a big fan of anything Evals related. But I know not everyone's That's not everyone's cup of tea, right? Um so very happy to see this many people of you. Um So yeah, this So today's session is really going to be about Evals.
 
@@ -60,7 +60,7 @@ And then we also have like an environment which we've defined um with like few p
 
 What would be some good information that you want to get out of evals? Sorry? Number of words on slides is is it a useful uh thing to track? And anyone else with some ideas? Sorry? Yeah, absolutely valid.
 
-Absolutely valid. Yeah, yeah, yeah. Um I I And this actually I like these two examples because they immediately give you like a different sense of um how you can use the type of grades. Like for example, the number of words on a slide is quantifiable, right? It's like easy to say you can count the number of words with like a deterministic grader with like a code grader. &gt;&gt; [snorts] &gt;&gt; The one if it's like overlapping or if it's overspilling, that one is harder to at um encode in code, right?
+Absolutely valid. Yeah, yeah, yeah. Um I I And this actually I like these two examples because they immediately give you like a different sense of um how you can use the type of grades. Like for example, the number of words on a slide is quantifiable, right? It's like easy to say you can count the number of words with like a deterministic grader with like a code grader. >> [snorts] >> The one if it's like overlapping or if it's overspilling, that one is harder to at um encode in code, right?
 
 So for this one you might for example use a model grader. And that's exactly what we did, right? So we have actually defined for you guys already a few graders beforehand. Two specific directories we have the code and we have judge. So, the code one is as I said it's like these these code graders they're quite deterministic like for example if we take a look at emoji count for example is one that we have defined where we basically just count the number of emojis present in the slide deck. Um because we we just noticed that it's quite prevalent.
 

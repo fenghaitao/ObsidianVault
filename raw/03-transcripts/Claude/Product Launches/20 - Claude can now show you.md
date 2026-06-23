@@ -8,4 +8,4 @@ author: "Claude"
 
 # Claude can now show you
 
-Hey. &gt;&gt; [music] &gt;&gt; Hey. &gt;&gt; [music] &gt;&gt; Hey. &gt;&gt; [music] &gt;&gt; Hey. &gt;&gt; [music] &gt;&gt; Hey.
+Hey. >> [music] >> Hey. >> [music] >> Hey. >> [music] >> Hey. >> [music] >> Hey.

@@ -18,6 +18,6 @@ The command checks the file extension and runs the appropriate formatter. This c
 
 Exit code two means block. This is how you enforce hard rules. Block writes to a production config directory, block bash commands that contain rm -rf, block commits to main, whatever your team needs to be guaranteed, not suggested. Hooks configured in .Claude/settings.json are project level and can be checked into your repo. This means that your entire team gets the same hooks automatically. Use the Claude project dir environment variable in your commands to reference scripts stored in your project so they work regardless of Claude's current working directory.
 
-&gt;&gt; [music] &gt;&gt; Hooks gives you deterministic control over Claude code's behavior. &gt;&gt; [music] &gt;&gt; Use post-tool-use for auto-formatting and logging. Use pre-tool-use to block dangerous operations. Configure them in the /hooks or in settings.json &gt;&gt; [music] &gt;&gt; and check them into your repository so your team gets them, too. If something needs to happen every time without fail, don't put it in a prompt. Put it in a hook.
+>> [music] >> Hooks gives you deterministic control over Claude code's behavior. >> [music] >> Use post-tool-use for auto-formatting and logging. Use pre-tool-use to block dangerous operations. Configure them in the /hooks or in settings.json >> [music] >> and check them into your repository so your team gets them, too. If something needs to happen every time without fail, don't put it in a prompt. Put it in a hook.
 
-&gt;&gt; [music]
+>> [music]

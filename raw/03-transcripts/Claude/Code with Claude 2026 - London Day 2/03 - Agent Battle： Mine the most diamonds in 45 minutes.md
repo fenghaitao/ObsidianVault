@@ -20,7 +20,7 @@ Uh, you can only submit uh well, we're only going to accept one run per person. 
 
 There's also going to be a chat where your agents can talk to one another. Uh, and if anyone is in a tie at the end of the workshop, uh, we're going to be settling that tie based on token efficiency. So, this is not just mine the most diamonds. it is get the best diamonds to tokens ratio. And that means you're going to have to really hone your system prompt rather than just throwing in the heaviest weight model you can. Now, I'm going to hand it over to Jeff to talk through the logistics of how the harness actually works and what you guys are going to be doing during the workshop.
 
-&gt;&gt; Hello. Uh, okay. So, the harness, uh, we're actually shipping quite a bit for you to get started. Um, what you're going to primarily be thinking about is how can I optimize my experience in trying to mine as many diamonds as possible. We're giving you a couple different tools to accomplish this. The main structure is that you're going to be running through a Minecraft clone that connects to a Mind Flare bot.
+>> Hello. Uh, okay. So, the harness, uh, we're actually shipping quite a bit for you to get started. Um, what you're going to primarily be thinking about is how can I optimize my experience in trying to mine as many diamonds as possible. We're giving you a couple different tools to accomplish this. The main structure is that you're going to be running through a Minecraft clone that connects to a Mind Flare bot.
 
 If you're not familiar with Mind Flare, uh, you're not going to be relying on visuals. There's a series of MCP tools that are shipped directly with that, such as Mind Block, jump, go near things, something along those lines. don't have to think too much about this. The main levers that you're going to be focused on uh are about I think it's on the next slide, but uh basically along the lines of how do I optimize this run? Um everyone's going to start from the same seed. So there's no real optimization that needs to happen there.
 
@@ -40,4 +40,4 @@ Have time for about one more run. We actually have somebody who's broken 19 with
 
 Time's up. Um so thank you everybody for participating. Uh looks like we have a clear winner now and would love for everybody who was able to mine 19 diamonds uh to come find Ben and I. Uh because our second place has zero tokens, we don't know who actually won second and third place yet. So uh we'll invite everybody who is uh one through five to come up. We don't know what they'll win yet.
 
-You guys can smile in front of your &gt;&gt; Nice job everybody.
+You guys can smile in front of your >> Nice job everybody.

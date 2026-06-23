@@ -64,7 +64,7 @@ We wanted to ensure consistency. Imagine a library. It captures decades of insti
 
 The skill is owned by the workflow owner. They're all tested, usage is tracked, they're all reviewed. They have a life cycle. And they're all visible to everybody to install. It's really that care that makes this work. And it's the foundation that moves skills from individual productivity solves to a foundation that can set you up for the agent to cage.
 
-And it's through that that we were able to apply skills to systematic trading. So now, I will give you a bit of a flavor for what it's like to build a systematic signal. We've We've a demo and a video on that. &gt;&gt; This is Man a knowledge. It's where you'll find our collection of skills and Man Group's context store. The skill suggestions are tailored to each business unit.
+And it's through that that we were able to apply skills to systematic trading. So now, I will give you a bit of a flavor for what it's like to build a systematic signal. We've We've a demo and a video on that. >> This is Man a knowledge. It's where you'll find our collection of skills and Man Group's context store. The skill suggestions are tailored to each business unit.
 
 They have clear ownership and are organized into managed and community skills. Skills and plugins can easily be installed in Claude. Plugins are useful groups of skills. For example, here we have a data plugin which gives us access to Man Group's data sets. We can also skills individually. For example, this is the data set skill which allows me to search Man Group's alternative data sets.
 
@@ -74,7 +74,7 @@ Interestingly, in the graph, you can see spikes for seasonal spend such as Black
 
 Each company is running an individual worker, and then the findings are collected. In this case study, we leveraged four skills to create a systematic trading signal. In reality, our signal research is much more nuanced, accounting for things like seasonality, inflation, and broader sets of securities. We do this with agents as well as humans exploring these ideas. The key takeaway is that the governance of these skills is key. It ensures that everyone has access to the same data, and everyone uses the same workflows.
 
-&gt;&gt; Okay, so hopefully what you can see is that if you get that foundation right across the board, if you've got access to all of the data, you can start to leverage more capabilities. Everything from scaling your compute to getting alternative credit card data sets. And these are often owned by different teams. And it's really that that allows you to scale to the Agentech platform. So, what did we learn along the way? These are the things that I would tell past me, and that you can take away.
+>> Okay, so hopefully what you can see is that if you get that foundation right across the board, if you've got access to all of the data, you can start to leverage more capabilities. Everything from scaling your compute to getting alternative credit card data sets. And these are often owned by different teams. And it's really that that allows you to scale to the Agentech platform. So, what did we learn along the way? These are the things that I would tell past me, and that you can take away.
 
 Firstly, focus on that organizational context. That is your IP, it's your moat. It's one of the few safe spaces left in AI. The frontier labs are not going to solve context for you. It's not on the internet, they don't know your workflows, and you already have that context. You have decades of it.
 

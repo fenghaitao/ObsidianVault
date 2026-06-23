@@ -8,7 +8,7 @@ author: "Claude"
 
 # Code with Claude London 2026： Opening Keynote
 
-Heat. Morning London. &gt;&gt; Hello. &gt;&gt; This is uh this is the first time that we've taken Claude uh Code with Claude outside of San Francisco and uh I'm very excited to be here with everyone. Um before we jump in, can I take a quick selfie? &gt;&gt; Is that okay?
+Heat. Morning London. >> Hello. >> This is uh this is the first time that we've taken Claude uh Code with Claude outside of San Francisco and uh I'm very excited to be here with everyone. Um before we jump in, can I take a quick selfie? >> Is that okay?
 
 All right. Ready? All right. I think we got it. I um I want to start today by telling you how I originally got into coding. I actually learned on a scientific calculator and uh I found out that I could program my calculator to help me pass math tests and do well on homework.
 

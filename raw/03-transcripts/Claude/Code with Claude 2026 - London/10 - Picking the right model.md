@@ -8,7 +8,7 @@ author: "Claude"
 
 # Picking the right model
 
-[music] &gt;&gt; My name's Lucas. I'm in our applied AI team. And today we're going to be talking about picking the right model. So, what we're going to talk about today is picking the right model. And this is something I think conceptually seems very easy, right? But the more we dig into it, the sort of more difficult the problem tends to be.
+[music] >> My name's Lucas. I'm in our applied AI team. And today we're going to be talking about picking the right model. So, what we're going to talk about today is picking the right model. And this is something I think conceptually seems very easy, right? But the more we dig into it, the sort of more difficult the problem tends to be.
 
 And let's consider the following scenario. And we at Anthropic have just launched a new model. And as usual, there's a lot of noise. Alongside the model launch, we will release a model card. We will give prompting guides. We will give benchmark results.
 
@@ -96,4 +96,4 @@ So, Opus with high effort and thinking on was actually able to perform faster wi
 
 For those of you folks who who work with us in Anthropic and the applied AI team, like we're very much here to help you build those. Number two is really try and optimize for the things you care about in your use case. So, once you've built your eval and you're making these data-driven decisions, you can then pick, am I optimizing for intelligence? Am I optimizing for latency? Am I optimizing for cost? And then number three is you can shift that curve entirely by actually doing good context engineering, by using these strategies like prompt caching to get more out of the model itself.
 
-Thank you very much. &gt;&gt; [music]
+Thank you very much. >> [music]

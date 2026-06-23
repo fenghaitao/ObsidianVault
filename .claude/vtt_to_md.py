@@ -17,6 +17,7 @@ CLI:
     python3 vtt_to_md.py <vtt_dir> <out_dir> <playlist_name> [author]
 """
 
+import html
 import re
 import sys
 from pathlib import Path
@@ -111,6 +112,7 @@ def clean_vtt(vtt_text: str) -> str:
     words = _dedupe_rolling(text_lines)
 
     text = re.sub(r"\s+", " ", " ".join(words)).strip()
+    text = html.unescape(text)
     if not text:
         return ""
 

@@ -56,7 +56,7 @@ But again, this is just a demo so we have this degree of freedom. With that bein
 
 So, in a way that the app now is secure and once it is secure, you deploy the back uh the back end API, and you deploy the API itself. So, what we get at the end of this, it's an end point with our app. The app is live, so I will uh quickly unlock my laptop, and I will ask the backstage to share on my laptop. So, the uh the app, as you can see, is up and running on GCP. Uh for people that doesn't know GCP, this is Cloud Run, is a serverless uh service that you can use in order to deploy app, and uh the app at the end looks like this one. So, if you remember, I showed you the original I showed you the feedback uh frame at the beginning.
 
-So, what we can do now, live, I can just give me a score. What do you think the session is going so far? Give me &gt;&gt; Oh, five. &gt;&gt; Five? Oh, okay. Thank you, man.
+So, what we can do now, live, I can just give me a score. What do you think the session is going so far? Give me >> Oh, five. >> Five? Oh, okay. Thank you, man.
 
 I really appreciate that. Okay, cool session. Let's be Let's be simple. I saw me, and then uh in real time, it updates the number of response, the score, and uh you know, the visualization. And also, just for fun, I built a feedback analyzer. So, once I click this, it will run, it will call Cloud Code Cloud on Google Cloud, and uh based on the feedback and the comments that you sent, it will generate this summary.
 
@@ -74,4 +74,4 @@ I think I'm just in time. So, time to uh time to wrap up. What I tried to explai
 
 It was just a incredible. So, this is what you can get if you combine, you know, clock code with cloud models on on GCP. As I said, the the code is going to be available right after the session. We have a great quick start, and we have a very well maintained documentation both on Google Cloud side and Anthropic side. So, I highly recommend to just go there and check out. And then, I hope I covered everything, but if you still have questions or you want to provide additional feedback, just feel free to reach out.
 
-These are my social media accounts. point. So, with that being said, thank you so much, and it was a pleasure being here today. &gt;&gt; [snorts]
+These are my social media accounts. point. So, with that being said, thank you so much, and it was a pleasure being here today. >> [snorts]

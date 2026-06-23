@@ -8,7 +8,7 @@ author: "Claude"
 
 # Running an AI-native engineering org
 
-[music] &gt;&gt; Hey everyone. Aw, thank you. I didn't expect applause. Well, thank you so much for joining me today. I'm excited to speak with all of you about, you know, some lessons I've learned as I've been leading uh Claude Code and Co-work. So, actually first I should do an intro.
+[music] >> Hey everyone. Aw, thank you. I didn't expect applause. Well, thank you so much for joining me today. I'm excited to speak with all of you about, you know, some lessons I've learned as I've been leading uh Claude Code and Co-work. So, actually first I should do an intro.
 
 So, yeah, my name is Fiona Fung and I lead engineering and product for Claude Code and Co-work. And before Anthropic, I had also built and led teams at Meta and Microsoft. So, with that, let's dive into some lessons I'm excited to share with all of you. Hopefully, maybe you'll find a couple of tidbits that may be helpful to you. So, there are five topics I really want to cover today. The first is the bottlenecks have moved.
 
@@ -108,4 +108,4 @@ And that's why we're we're right now looking through verification is a big one. 
 
 So with that, this is what I would love to leave you all with. Pick your noisiest workflow. Or it could be just some workflow or team meeting that you don't particularly enjoy or is really high tax on the team. Like I remember it I was on another team where we would have this really expensive weekly meeting and I noticed everybody's on their laptop. And you know, except for when they have to pop their head up to give status and then they go back to their laptop. I'm like, this is when you count, you know, like how many people's in this room, this is a very expensive room.
 
-So always like kind of like pick a workflow and always ask yourself, "Is it still serving its purpose?" Or if it's like really expensive, is it something that Claude might be able to help you with? And kind of like do this one step at a time. And with that, thank you so much for listening to my talk. &gt;&gt; [applause] &gt;&gt; It's been a pleasure.
+So always like kind of like pick a workflow and always ask yourself, "Is it still serving its purpose?" Or if it's like really expensive, is it something that Claude might be able to help you with? And kind of like do this one step at a time. And with that, thank you so much for listening to my talk. >> [applause] >> It's been a pleasure.

@@ -8,9 +8,9 @@ author: "Claude"
 
 # Code with Claude 2026 ｜ Tokyo
 
-[music] Hey, hey, hey. &gt;&gt; [music] &gt;&gt; Please welcome to the stage head of engineering for the clogged platform at Enthropic. Caitlyn Leso Anthropic called Engineering Caitlyn Le. Good morning, Tokyo. This is the first time that we've brought Code with Claude to Japan and we're grateful to spend the next couple of days with all of you. This morning, we'll be talking about our models, our platform, and our products.
+[music] Hey, hey, hey. >> [music] >> Please welcome to the stage head of engineering for the clogged platform at Enthropic. Caitlyn Leso Anthropic called Engineering Caitlyn Le. Good morning, Tokyo. This is the first time that we've brought Code with Claude to Japan and we're grateful to spend the next couple of days with all of you. This morning, we'll be talking about our models, our platform, and our products.
 
-But before we get into it, I want to start by sharing that just a few hours ago, we released the fifth generation of Claude models, Claude Mythos 5 and Claude Fable 5. These are our two most capable models ever. &gt;&gt; [applause] &gt;&gt; Diane, our head of product for research, will join us shortly to share a lot more about why these models are so special. I lead engineering for the Claude platform. The platform gives developers the tools they need to build systems on top of Claude to harness its intelligence. This is the highest leverage way for us to help solve the world's most important problems.
+But before we get into it, I want to start by sharing that just a few hours ago, we released the fifth generation of Claude models, Claude Mythos 5 and Claude Fable 5. These are our two most capable models ever. >> [applause] >> Diane, our head of product for research, will join us shortly to share a lot more about why these models are so special. I lead engineering for the Claude platform. The platform gives developers the tools they need to build systems on top of Claude to harness its intelligence. This is the highest leverage way for us to help solve the world's most important problems.
 
 And this is why Anthropic is a platform company. Developers all over the world, many in this room today, produce far more value on top of the platform than we could ever build on our own. So, let's start with what I'm seeing from our customers lately. There's an incredible volume of powerful application shipping right now, and a lot of it is coming from right here in Japan. Rakutin is one of our favorite customers to work with. Their team went from using cloud code to accelerate development to building on cloud manage agents to power custom internal agents across engineering, product, sales, and finance.
 
@@ -30,7 +30,7 @@ You can now schedule deployments to have your agents run on whatever cadence tha
 
 They'll never open a terminal and type Claude. They'll experience AI through something that one of you built on the Claude platform like a saleserson walking into a highstakes meeting fully briefed by Slack agents or a lawyer getting a brief out the door faster than ever with Lagora. or a developer using any one of the world's best coding agents. This is why we're a platform company. Every day I'm amazed by the collective impact that you're all having building solutions to the world's most important problems. So, thank you for being here, for partnering with us, and for showing us what's possible.
 
-Aratu go. &gt;&gt; [applause] &gt;&gt; Please welcome Diane from our research product team for your first deep look at our newest models. &gt;&gt; Please welcome to the stage head of product management for research Diane Penn sto anthropic research product management Diane Penn sama &gt;&gt; [music and applause] &gt;&gt; Hi, good morning Tokyo. I'm Diane and I joined Anthropic in 2023 and I've been a part of every version of Claude since Claude 2. For those of you who are counting, that's bringing 21 versions of Claude across Haiku, Sonnet, Opus, and now Fable, and Mythos to end users and developers like you. Our most recent launch happened just a few hours ago.
+Aratu go. >> [applause] >> Please welcome Diane from our research product team for your first deep look at our newest models. >> Please welcome to the stage head of product management for research Diane Penn sto anthropic research product management Diane Penn sama >> [music and applause] >> Hi, good morning Tokyo. I'm Diane and I joined Anthropic in 2023 and I've been a part of every version of Claude since Claude 2. For those of you who are counting, that's bringing 21 versions of Claude across Haiku, Sonnet, Opus, and now Fable, and Mythos to end users and developers like you. Our most recent launch happened just a few hours ago.
 
 We released Claude Fable 5 and Claude Mythos 5, the first generation of our fifth models. Fable 5 is the most capable model we've ever made generally available. It's based on the same foundations as missile 5. These models are already accelerating our work at Enthropic. And for developers like you, Claude will be able to be stronger and your starting line will move forward. We talk a lot about the exponential at Enthropic, but what does this actually mean?
 
@@ -58,7 +58,7 @@ What we've seen is that countless times, the developers who win are the ones who
 
 And finally, as the pace continues to accelerate, the teams who win are the ones that get the most out of quad with model upgrades and treat them as business opportunities. You should make model upgrades easy. This means things like automated evals, testing processes, and making sure that you stay hands-on testing, pushing, creating new things with new versions of Claude. And this is how you'll know new capabilities will be enough to deliver new experiences for your customers. We're seeing the exponential continue, which means that Claude will get smarter and be able to pick up new capabilities at scale. And you as developers are some of the first people to feel that.
 
-You're the ones who actually can experiment, build new products, and are the first to find opportunities for new markets that others don't see. And we can't wait to see what you'll build next with Fable 5. And now, Angela and Caitlyn are going to show you a bit of how the Claude platform can make this a reality come to life. Thank you so much. &gt;&gt; [applause] &gt;&gt; Please welcome to the stage head of product for the Claude platform, Angela Jen. Stage platform, Angela Jang.
+You're the ones who actually can experiment, build new products, and are the first to find opportunities for new markets that others don't see. And we can't wait to see what you'll build next with Fable 5. And now, Angela and Caitlyn are going to show you a bit of how the Claude platform can make this a reality come to life. Thank you so much. >> [applause] >> Please welcome to the stage head of product for the Claude platform, Angela Jen. Stage platform, Angela Jang.
 
 [music] Last night, while we were all asleep, a product somewhere noticed that it was broken. This product read its own error reports. It found the bug and it wrote the fix and rolled it out to all the users. By the time the team actually woke up, the problem was gone and the change log was already written. Now, in this situation, there was no standup. There was no ticket.
 
@@ -76,7 +76,7 @@ Now, if you build really longunning autonomous agents, this requires extreme sca
 
 Notion actually used manage agents to power agent orchestration directly within their product. As a result, their users can delegate complex [music] longunning work to claw directly inside their workspace. And Notion isn't alone. ASA used managed agents to build AI teammates. These are collaborative AI agents that work alongside humans inside Asauna projects. And these agents can take on tasks and complete deliverables.
 
-Now, I'd love to welcome Caitlyn back to the stage to show what an AI native company can look like if you build on Cloud Manage agents. [cheering and applause] &gt;&gt; [music] &gt;&gt; Back in February, Claude became the official thinking partner of the Atlassian Williams Formula 1 racing team. Competing in F1 racing requires a great driver who knows the track really well. But it also takes a team of engineers and researchers to build a rocket ship on four wheels that can go almost 400 km hour. To show you an example of cloud managed agents in action, we worked with a fictional racing team called Shankiro Racing. Um, and we helped them build a dashboard to analyze their car.
+Now, I'd love to welcome Caitlyn back to the stage to show what an AI native company can look like if you build on Cloud Manage agents. [cheering and applause] >> [music] >> Back in February, Claude became the official thinking partner of the Atlassian Williams Formula 1 racing team. Competing in F1 racing requires a great driver who knows the track really well. But it also takes a team of engineers and researchers to build a rocket ship on four wheels that can go almost 400 km hour. To show you an example of cloud managed agents in action, we worked with a fictional racing team called Shankiro Racing. Um, and we helped them build a dashboard to analyze their car.
 
 Let's see it in action. So, here we have our dashboard for Shanki Racing. And the way we've set this up is we have these four research projects on the side. Each of these research projects is backed by an agent that was built using cloud managed agents. So, we have our aerodynamics, we have our tire temperature, power unit, and driver safety. And for each of these agents, what they're going to do is research what needs to change in order to make our car better on each of these fronts.
 
@@ -92,7 +92,7 @@ They're not using all the context they had from their past sessions in order to 
 
 Um, and this is going to be slow because the Wi-Fi again is not on my side. But, uh, what would happen is our agents will look back on their past sessions and write these learnings so that they can do better the next time around. All of the features here, everything to build a dashboard like this to help an F1 team build a really, really highly successful car are available today within cloud manage agents. So everything you just saw like outcomes, schedule deployments and dreaming are available today on the cloud platform. Developers everywhere can start building with Fable 5 and managed agents today. Now Cat will talk about how cloud code is making it even more fun to ship as a developer.
 
-&gt;&gt; [applause] &gt;&gt; Please welcome to the stage head of product for Cloud Code Cat Woo stage cloud code. [applause] Caitlyn and Angela just showed you how to build production agents on the Cloud Platform. With Cloud Code, we're bring that same leverage to your work as a developer. Not agents you ship to customers, but agents that ship code for you. First, I want to thank all of the developers in the room today here and watching online. Thank you for trusting Quad Code back when sonnet 3.7 was our frontier model and when our product was rough around the edges.
+>> [applause] >> Please welcome to the stage head of product for Cloud Code Cat Woo stage cloud code. [applause] Caitlyn and Angela just showed you how to build production agents on the Cloud Platform. With Cloud Code, we're bring that same leverage to your work as a developer. Not agents you ship to customers, but agents that ship code for you. First, I want to thank all of the developers in the room today here and watching online. Thank you for trusting Quad Code back when sonnet 3.7 was our frontier model and when our product was rough around the edges.
 
 Your support is what makes the team so excited to come in every day and make the product even better. Let's back up to why Quad Code exists. The mission of Quad Code is to bridge the difference between an idea and a shipped product. The way that we enable this is we build tools that elicit the frontier intelligence from our models and we make these tools accessible to every builder. And we we don't think of ourselves as having a finished road map to share with you. We think of ourselves more like mountaineers climbing alongside you in terrain that none of us has fully mapped yet, figuring out what works together as we go.
 
@@ -124,37 +124,37 @@ Any large job that requires running many agents at once in its terministic struc
 
 And this is really what every talk today was pointing at. Dian's capability curve, Anjo's agents that run on infrastructure that you control, and what I just showed you. These are three layers to one story. The remaining gap is just how fast we can put these great capabilities to work for us. I encourage you to spend the rest of today exploring these layers. Join research talks if you want to learn more about the latest model capabilities.
 
-Join cloud platform sessions if you're building your own agents for your end users or join quad code workshops if you want to learn more ways to bring quad code into your day-to-day development work. All of this runs on Quad Fable 5, the best model we've ever shipped for aentic work and it's live today. Thank you all and enjoy code with Claude. [applause] So good. &gt;&gt; [music] &gt;&gt; Hey, good to me. [music] Hey, hey, hey.
+Join cloud platform sessions if you're building your own agents for your end users or join quad code workshops if you want to learn more ways to bring quad code into your day-to-day development work. All of this runs on Quad Fable 5, the best model we've ever shipped for aentic work and it's live today. Thank you all and enjoy code with Claude. [applause] So good. >> [music] >> Hey, good to me. [music] Hey, hey, hey.
 
-[music] la. Mhm. Baby, baby. &gt;&gt; [music] &gt;&gt; Heat. Heat. &gt;&gt; [music] &gt;&gt; Hey.
+[music] la. Mhm. Baby, baby. >> [music] >> Heat. Heat. >> [music] >> Hey.
 
-Hey. Hey everybody. Hey Heat. Heat. Are you &gt;&gt; [music] &gt;&gt; Yeah. [music] Yeah.
+Hey. Hey everybody. Hey Heat. Heat. Are you >> [music] >> Yeah. [music] Yeah.
 
-&gt;&gt; [music] &gt;&gt; Oh yeah. [music] &gt;&gt; [music] &gt;&gt; Yeah, she's huh? &gt;&gt; [music] &gt;&gt; Hey, hey, hey. &gt;&gt; [music] &gt;&gt; Hey hey [music] oh hey oh hey oh hey oh hey oh Come on. Ouch. Hey, [music] hey, hey.
+>> [music] >> Oh yeah. [music] >> [music] >> Yeah, she's huh? >> [music] >> Hey, hey, hey. >> [music] >> Hey hey [music] oh hey oh hey oh hey oh hey oh Come on. Ouch. Hey, [music] hey, hey.
 
 Hey, hey, hey. Damn it. 1. Down down down down down 2 3 hey 3 2 1 I just want you. [music] Down down down down. Noo.
 
-[music] N. [music] Number n. [music] &gt;&gt; [music] &gt;&gt; Number [music] jing. Hello. N. Hey, hey, hey.
+[music] N. [music] Number n. [music] >> [music] >> Number [music] jing. Hello. N. Hey, hey, hey.
 
-&gt;&gt; [music] &gt;&gt; dick. Dick. Down down down [music] take down down. [music] Down. [music] Down. Everybody Sh.
+>> [music] >> dick. Dick. Down down down [music] take down down. [music] Down. [music] Down. Everybody Sh.
 
 [music] Down. Heat. Heat. N. Down. [music] Under.
 
-&gt;&gt; [music] &gt;&gt; That's all. &gt;&gt; [music] &gt;&gt; Hey. &gt;&gt; [music] &gt;&gt; Happy. Heat. [music] Heat. Come &gt;&gt; [music] &gt;&gt; on.
+>> [music] >> That's all. >> [music] >> Hey. >> [music] >> Happy. Heat. [music] Heat. Come >> [music] >> on.
 
 Come on. Hey, [music] for real. for real. For real. for real. For real.
 
-&gt;&gt; [music] &gt;&gt; for me. [music] He feel &gt;&gt; [music] &gt;&gt; Heat. [music] Hey, heat. Hey, heat. &gt;&gt; [music] &gt;&gt; We are talking. &gt;&gt; [music] &gt;&gt; Hey.
+>> [music] >> for me. [music] He feel >> [music] >> Heat. [music] Hey, heat. Hey, heat. >> [music] >> We are talking. >> [music] >> Hey.
 
-&gt;&gt; [music] &gt;&gt; Happy happy me. [music] Yeah. [music] Yeah. Yeah. &gt;&gt; [music] &gt;&gt; Hey, hey, hey. [music] Heat.
+>> [music] >> Happy happy me. [music] Yeah. [music] Yeah. Yeah. >> [music] >> Hey, hey, hey. [music] Heat.
 
-Heat. N. Mhm. &gt;&gt; [music] &gt;&gt; Hey. Hey. I'm happy.
+Heat. N. Mhm. >> [music] >> Hey. Hey. I'm happy.
 
-One, two, three, four. Hey, hey, hey. 1 2 3 4 Thank you. [music] Hello. [music] &gt;&gt; [music] &gt;&gt; Hey, come on. [music] Hey, [music] hey, [music] hey.
+One, two, three, four. Hey, hey, hey. 1 2 3 4 Thank you. [music] Hello. [music] >> [music] >> Hey, come on. [music] Hey, [music] hey, [music] hey.
 
 Hey, hey, hey. Yeah. [music] Heat. Hey girl. Hey I'm a [music] Okay. [music] Heat.
 
-[music] &gt;&gt; [music] &gt;&gt; I'm a [music] &gt;&gt; [music] [applause] &gt;&gt; Hi everyone, I'm Charmaine and I'm on the applied AI team here at Anthropic. Our team sits at the intersection of product research and all of our amazing customers. I'm really excited to be here today to tell you what's new in Claude Code, but I'm also very grateful to be here in Tokyo. I grew up in Hong Kong myself and so it always feels really nice to be closer to home. I used to work at places where we'd spend 45 minutes going over a deep dive of a feature that we built over the span of a quarter. This session is not that.
+[music] >> [music] >> I'm a [music] >> [music] [applause] >> Hi everyone, I'm Charmaine and I'm on the applied AI team here at Anthropic. Our team sits at the intersection of product research and all of our amazing customers. I'm really excited to be here today to tell you what's new in Claude Code, but I'm also very grateful to be here in Tokyo. I grew up in Hong Kong myself and so it always feels really nice to be closer to home. I used to work at places where we'd spend 45 minutes going over a deep dive of a feature that we built over the span of a quarter. This session is not that.
 
 The team shifts so quickly and there's so much to show you and so I'm excited to dive right into it. I'll quickly go over the agenda of what we're going to talk about today. Our new features have largely fallen into one of two categories. The first one being developer experience. How we're making quad code better for you as you spend more time in it. Second, autonomy.
 
@@ -234,19 +234,19 @@ Every feature I showed today started as someone on the team saying, "This is ann
 
 I'm Charmaine. I'm on the applied AI team here and I would love to chat with you after. It is an honor to be here. Enjoy the rest of code with Claude Tokyo. [applause] Heat. Heat.
 
-N. Hey, hey, hey. Hey, hey, hey. Heat. Heat. &gt;&gt; [crying] &gt;&gt; You're Hey, [music] hey, hey.
+N. Hey, hey, hey. Hey, hey, hey. Heat. Heat. >> [crying] >> You're Hey, [music] hey, hey.
 
 Hey. Hey. Heat. Hey, Heat. [music] Tell me what you do. Heat.
 
-Hey, Heat. Hey. Hey. Hey. &gt;&gt; [music] &gt;&gt; Dick dick. &gt;&gt; [music] &gt;&gt; D down.
+Hey, Heat. Hey. Hey. Hey. >> [music] >> Dick dick. >> [music] >> D down.
 
 Dick. Hey, don't Happy. [music] Hey. Hey. Hey. down.
 
-Down. Hey, hey, hey. Hey, hey, hey. Hey, Natal. [music] Natal. [music] &gt;&gt; [music] &gt;&gt; Hello.
+Down. Hey, hey, hey. Hey, hey, hey. Hey, Natal. [music] Natal. [music] >> [music] >> Hello.
 
 [music] Heat. Heat. N. Happy. Hey. Hey.
 
-&gt;&gt; [music] &gt;&gt; Heat. Heat. N. love. N love up love up love up love up love up love you got happy up happy up happy up happy up love up love up love up love up love up n Hey, one. Heat.
+>> [music] >> Heat. Heat. N. love. N love up love up love up love up love up love you got happy up happy up happy up happy up love up love up love up love up love up n Hey, one. Heat.
 
 Heat. N. Hey, one one Please welcome to the stage head of AI products at Canva, Danny Woo sto, Canva AI product, Danny Wu. [music] [applause] [music] And hello everyone. Thank you all so much for joining this session at Co with Quad. Um, I'm Danny and I'm head of AI products at Canva.
 
@@ -304,45 +304,45 @@ There's some um other other edge cases. And what we ultimately did is um pretty 
 
 And just because a minority of users, just because it's a few percent, even if your evals look good, even if your metrics look good, that doesn't necessarily mean you've always hit the spot. So very briefly um so you can go grab lunch um some key lessons. It's really about empowering the human and making sure that you are striving for what actually helps your users the most. Um harnesses are getting more and more disposable. Don't get attached. Don't fall in love with them.
 
-Evals are what really matters. Um cost control like task budgets like um if you haven't tried it, highly recommend you try out. It's incredibly powerful. effort levels um models using the right models for the right task and sub agents and finally listen to your community and all your feedback. Thank you and I got her cuz I'm [applause] &gt;&gt; [music] &gt;&gt; Hey, 1. Hey.
+Evals are what really matters. Um cost control like task budgets like um if you haven't tried it, highly recommend you try out. It's incredibly powerful. effort levels um models using the right models for the right task and sub agents and finally listen to your community and all your feedback. Thank you and I got her cuz I'm [applause] >> [music] >> Hey, 1. Hey.
 
-Down down down down [music] down down down 1. &gt;&gt; [music] &gt;&gt; Hey, hey, hey. Down down down down. Hey, hey, hey. down. Ah!
+Down down down down [music] down down down 1. >> [music] >> Hey, hey, hey. Down down down down. Hey, hey, hey. down. Ah!
 
-&gt;&gt; [music] &gt;&gt; Heat. Heat. &gt;&gt; [music] &gt;&gt; Hey. [music] Hey. Hey. &gt;&gt; [music] &gt;&gt; Heat.
+>> [music] >> Heat. Heat. >> [music] >> Hey. [music] Hey. Hey. >> [music] >> Heat.
 
-Heat. &gt;&gt; [music] &gt;&gt; Hey, hey, hey. &gt;&gt; [music] &gt;&gt; Hey. Hey. Oh, hey. &gt;&gt; [crying] &gt;&gt; Hey.
+Heat. >> [music] >> Hey, hey, hey. >> [music] >> Hey. Hey. Oh, hey. >> [crying] >> Hey.
 
-Hey. Beat one. 1 &gt;&gt; [music] &gt;&gt; Hey, hey, hey. One, one. One. Look at the repeat.
+Hey. Beat one. 1 >> [music] >> Hey, hey, hey. One, one. One. Look at the repeat.
 
-&gt;&gt; [music] &gt;&gt; One, one, one, one, one, one, for real. Don't for me. For me, for me. [music] For me, Keep [music] it. [music] of your day. Your day.
+>> [music] >> One, one, one, one, one, one, for real. Don't for me. For me, for me. [music] For me, Keep [music] it. [music] of your day. Your day.
 
-Number n. &gt;&gt; [music] &gt;&gt; Number n. Heat. Heat. N. &gt;&gt; [music] &gt;&gt; Please welcome to the stage.
+Number n. >> [music] >> Number n. Heat. Heat. N. >> [music] >> Please welcome to the stage.
 
-Members of technical staff at Enthropic, Jess Yen and Michael Cohen stage Yokoso. Enthropic technafu Jessen Sama Michael Cohen sama. [music] [applause] Welcome to code with cloud everyone. I'm Jess product for cloud manage agents &gt;&gt; and I'm Michael engineering for cloud managed agents. &gt;&gt; It has been so exciting to see the organic uptake on cloud manage agents and uh how we're accelerating meaningfully developer workflows. Uh this is a story that we want to share with you today.
+Members of technical staff at Enthropic, Jess Yen and Michael Cohen stage Yokoso. Enthropic technafu Jessen Sama Michael Cohen sama. [music] [applause] Welcome to code with cloud everyone. I'm Jess product for cloud manage agents >> and I'm Michael engineering for cloud managed agents. >> It has been so exciting to see the organic uptake on cloud manage agents and uh how we're accelerating meaningfully developer workflows. Uh this is a story that we want to share with you today.
 
 We've seen uptake from disruptive startups all the way to uh the largest enterprises and we want to make sure that you can all benefit from the kind of experiences that they they've had as well. So first we'll go over the exponential that we've seen in AI capabilities and what that implies for building agents. We'll talk through the patterns we saw in agentic development and why that motivated us to build cloud managed agents. We'll go through the building blocks for building an agent, including some of our more recently announced features. And we'll round things out with a fireside chat with one of our hero Japanese users, Rockutin. So, as we've all seen, models are getting exponentially more capable, and so are our expectations.
 
 The more advanced our model capabilities, the more sophisticated the work that we're delegating. We're now seeing that the bottleneck is increasingly the infrastructure and not actually the intelligence. So let's bring this to life. Two years ago when Opus 3 was announced, you might have it right and test a single component. It would take minutes of focused work. Last year when our claude 4 models came out, we leveled up and you could debug an entire set of files.
 
-You might be working for an hour or so, but you'd be steering heavily along the way. With our latest models this year, you're now seeing them run overnight across agent teams, listening to your linear backlog and actioning the whole thing before you wake up. And now we suspect that in the near-term future with models as capable as Fable, we'll enter a world where agents are capable enough to accomplish tasks that would have previously taken entire teams of people quarters to achieve. And agents will run this entirely autonomously. So you might see that multi- aent systems could coordinate and run an entire M&amp;A pipeline end to end in a fraction of the time it would take us. And so as tasks have graduated from low-level instructions towards endto-end outcome description, we now need far more than just prompts and tool loop.
+You might be working for an hour or so, but you'd be steering heavily along the way. With our latest models this year, you're now seeing them run overnight across agent teams, listening to your linear backlog and actioning the whole thing before you wake up. And now we suspect that in the near-term future with models as capable as Fable, we'll enter a world where agents are capable enough to accomplish tasks that would have previously taken entire teams of people quarters to achieve. And agents will run this entirely autonomously. So you might see that multi- aent systems could coordinate and run an entire M&A pipeline end to end in a fraction of the time it would take us. And so as tasks have graduated from low-level instructions towards endto-end outcome description, we now need far more than just prompts and tool loop.
 
-We need reliable and scalable agentic infrastructure. &gt;&gt; That's exactly right. And the more complex these tasks, the deeper the access we'll need to give these agents in order for them to be effective. With models like uh Fable, we really need these to to uh they're able to do very complex tasks. Um you can't run an effective agent without granting it access to your credentials, your internal knowledge bases or your databases. Um, if you want these agents to produce code for you, you need to give them access to your actual code bases so that they can push up PRs and uh go to production.
+We need reliable and scalable agentic infrastructure. >> That's exactly right. And the more complex these tasks, the deeper the access we'll need to give these agents in order for them to be effective. With models like uh Fable, we really need these to to uh they're able to do very complex tasks. Um you can't run an effective agent without granting it access to your credentials, your internal knowledge bases or your databases. Um, if you want these agents to produce code for you, you need to give them access to your actual code bases so that they can push up PRs and uh go to production.
 
 And finally, you need to grant them identity and authentication. Our agents are increasingly acting not just as Claude, but as me or Jess with our emails and our Slack. And as we grant agents these humanlike capabilities, we expect to interact with them in much more humanlike ways. The shape of interactions are changing, not just the duration of these interactions. Some agents are very conversational. You steer provide uh guidance along the way.
 
 You might even interrupt it if you think that it's going off path. Some agents uh on new models like Fable uh are really outcome oriented. And if you have strong signal or a rubric that of what you want to see get done, you can provide it that rubric and let it iterate until your exit criteria are met. And then finally, you might start a task uh a couple days ago and then want to pick it up much much later. A robust agent platform needs to support all these sorts of um interaction patterns. And the infrastructure and primitives that um that we provide have to give you all of this out of the box while still being very very flexible so that you can customize them to your needs.
 
-&gt;&gt; So it's now becoming clear that we expect a lot of our agents and historically this has meant that we've pushed the burden onto you the developer. In research we conducted prior to launching Cloud Manage agents, we saw that developers were genuinely eager to climb the exponential with us, but were struggling with a few key areas. So, first, context management. The right context at the right time is actually really difficult to tune even though it's completely necessary and providing context at the wrong time can be a huge distraction for your agents. Half of our developers are citing that infrastructure concerns are their number one production blocker. So agents create bursty workloads.
+>> So it's now becoming clear that we expect a lot of our agents and historically this has meant that we've pushed the burden onto you the developer. In research we conducted prior to launching Cloud Manage agents, we saw that developers were genuinely eager to climb the exponential with us, but were struggling with a few key areas. So, first, context management. The right context at the right time is actually really difficult to tune even though it's completely necessary and providing context at the wrong time can be a huge distraction for your agents. Half of our developers are citing that infrastructure concerns are their number one production blocker. So agents create bursty workloads.
 
 They have unpredictable compute patterns. It's super difficult to scale securely while also hitting latency targets. And lastly, observability is genuinely incredibly difficult. How do you know when your agent is producing quality outputs? These are non-deterministic models and they're producing huge amounts of unstructured data. And so enter claude manage agents.
 
-We did the platform work so that you don't have to. Managed agents combines infrastructure, agentic primitives, and out-of-the-box observability, all available in a package on the cloud platform. We'll dive into each of these components in more detail throughout the course of this presentation along with a couple of demos. &gt;&gt; So, let's talk about the very basic building blocks of cloud managed agents. At the very very core, you have an agent that you define. This would be the system prompt, the model you want to use, uh any skills that you might want to have loaded into uh your agent and tools with permissions for those tools that you want that agent to have.
+We did the platform work so that you don't have to. Managed agents combines infrastructure, agentic primitives, and out-of-the-box observability, all available in a package on the cloud platform. We'll dive into each of these components in more detail throughout the course of this presentation along with a couple of demos. >> So, let's talk about the very basic building blocks of cloud managed agents. At the very very core, you have an agent that you define. This would be the system prompt, the model you want to use, uh any skills that you might want to have loaded into uh your agent and tools with permissions for those tools that you want that agent to have.
 
 This is like the agent's identity. Next, you have the environment that you configure. This is like a template where you define a network allow list and any pre-install packages that you might want to have. This is like the world that the agent is going to live in. You take that the environment and the agent and you use that to run a session. A sandbox is provisioned for you.
 
 We set up the harness and cloud starts executing. Any credentials and resources that you might want to include in that session are uh mounted into it and are uh available for the cloud to use. Finally, we have events. These are anything that the agent um produces as it's doing actions or any events that you might want to provide upstream in order to steer the agent. And this is how you might want to stay in the loop. events and stateful awareness is really where we're able to um provide a platform so that you can build your own products on top of um and you can use primitives like memory um and other features that we have in order to really optimize the performance of these agents.
 
-&gt;&gt; So as Michael mentioned agent uh events are the heart and the crux of what an agentic in uh inter integration entails. So let's demystify what that means in practice. Everything in managed agents is event-based. So these are durable transcripts that are clearly structured to help you track your agents progress. So first there are user events. These are actually what you're sending to the agent to guide it.
+>> So as Michael mentioned agent uh events are the heart and the crux of what an agentic in uh inter integration entails. So let's demystify what that means in practice. Everything in managed agents is event-based. So these are durable transcripts that are clearly structured to help you track your agents progress. So first there are user events. These are actually what you're sending to the agent to guide it.
 
 Next there are agent events. This is what the agent is actually doing. So this is messaging. This is tool execution, context compaction and even delegation to other agents. Next there are session events. This is how you understand the progress of the unit of work that you've just delegated.
 
@@ -356,31 +356,31 @@ So, you might want to schedule your orders for a different time of the day. And 
 
 You just pick whichever one fits your workflow best. My favorite one is the cloud API skill that we have available in cloud code today. All you have to do is ask cloud hey I want to get started with using cloud manage agents and it'll help you with the onboarding flow into your existing code bases. Next, we also have the ANC CLI, which we released recently. Um, that makes it really, really easy to interact with our APIs for scripting and CI/CD pipelines that you might have. And then lastly, we have our developer docs and our cookbooks.
 
-These provide a lot of practical examples and copy paste ready um examples of the most common patterns that we have for cloud managed agents. &gt;&gt; So, now that we've covered the basics, I want to touch on some of the more advanced features that we've recently shipped. So first multi- aent orchestration here claude is able to delegate tasks to other agents with independent context windows enabling it to uh parallelize increasingly complex work with outcomes. Claude iterates on predefined exit criteria or a rubric uh until it satisfies its goal. You're in charge of this goal and Claude is in charge of completing it. With memory, Claude is able to read and write to memory stores.
+These provide a lot of practical examples and copy paste ready um examples of the most common patterns that we have for cloud managed agents. >> So, now that we've covered the basics, I want to touch on some of the more advanced features that we've recently shipped. So first multi- aent orchestration here claude is able to delegate tasks to other agents with independent context windows enabling it to uh parallelize increasingly complex work with outcomes. Claude iterates on predefined exit criteria or a rubric uh until it satisfies its goal. You're in charge of this goal and Claude is in charge of completing it. With memory, Claude is able to read and write to memory stores.
 
 By default, without memory, Claude would be starting fresh on every session. But with memory, it has an awareness of prior runs and can do better this next time. Dreaming is built on top of memory. And here, Claude is reflecting and codifying on the learnings and codifying it into new memories. And this ensures that it can continuously start with a tighter set of more curated and optimized memories. All of these are really exciting intelligence features and we're really excited to raise the ceiling of what agents can produce.
 
-However, we also have heard that we need to meet you where you are and that means making our infrastructure more modular. So with self-hosted sandboxes, you can run the agent loop and have tool execution directly in your infrastructure so files and packages never leave your perimeter. with MCV tunneling clock can access uh private MCP servers that you would not want to expose to the open internet. Each of these things are built so that you can deploy within your enterprise within your own security principles. &gt;&gt; And in addition to all these amazing features that we already have, like Caitlyn mentioned earlier today, we just released two new very exciting features. One is schedule deployments which allow you to set up a recurring schedule on which we'll trigger new sessions on your behalf um for any recurring work that you might have.
+However, we also have heard that we need to meet you where you are and that means making our infrastructure more modular. So with self-hosted sandboxes, you can run the agent loop and have tool execution directly in your infrastructure so files and packages never leave your perimeter. with MCV tunneling clock can access uh private MCP servers that you would not want to expose to the open internet. Each of these things are built so that you can deploy within your enterprise within your own security principles. >> And in addition to all these amazing features that we already have, like Caitlyn mentioned earlier today, we just released two new very exciting features. One is schedule deployments which allow you to set up a recurring schedule on which we'll trigger new sessions on your behalf um for any recurring work that you might have.
 
-And then next we have environment variables inside vaults which allow you to provide secure credentials for any APIs or CLIs that you might want claude to call without actually having any sort of risk about cloud um seeing the actual uh secret tokens. Diving a little bit deeper into how environment variables work in vaults. um we place an opaque placeholder token inside the container itself that Claude has access to. Um and whenever Claude uh it is trying to hit an API or use a CLI, it will just use that environment variable the way that it would use any other um environment variable. And as that network uh request is made, uh we will inject the real secret value as the request is made um so that Claude may never actually see the the value of the secret token. &gt;&gt; Thank you so much, Michael.
+And then next we have environment variables inside vaults which allow you to provide secure credentials for any APIs or CLIs that you might want claude to call without actually having any sort of risk about cloud um seeing the actual uh secret tokens. Diving a little bit deeper into how environment variables work in vaults. um we place an opaque placeholder token inside the container itself that Claude has access to. Um and whenever Claude uh it is trying to hit an API or use a CLI, it will just use that environment variable the way that it would use any other um environment variable. And as that network uh request is made, uh we will inject the real secret value as the request is made um so that Claude may never actually see the the value of the secret token. >> Thank you so much, Michael.
 
-It's been so much fun building this platform with you. I am now excited to welcome to stage Yusuke Kajisan, general manager at Rocketin for AI for business, so that we can talk through what he's been building. [applause and music] Welcome. Um so Rocketin calls its AI strategy AIization and agents are the next big phase of that. So what does that look like day-to-day? &gt;&gt; Yeah.
+It's been so much fun building this platform with you. I am now excited to welcome to stage Yusuke Kajisan, general manager at Rocketin for AI for business, so that we can talk through what he's been building. [applause and music] Welcome. Um so Rocketin calls its AI strategy AIization and agents are the next big phase of that. So what does that look like day-to-day? >> Yeah.
 
-Uh first of all uh thanks for having us uh in the stage and welcome to the Japan. And so for Rakuten uh we have theization uh activities which is basically uh our effort to fill in the gap between the capability C you mentioned and adoption in reality. So what we do is that we completely uh redesign our workflow from scratch as you release new models every month or every quarters and so that that we can you know basically uh fully unlock the potential of the intelligence or from the new models um by fully fully redesigning our workflows. Yep. &gt;&gt; Got it. Got it.
+Uh first of all uh thanks for having us uh in the stage and welcome to the Japan. And so for Rakuten uh we have theization uh activities which is basically uh our effort to fill in the gap between the capability C you mentioned and adoption in reality. So what we do is that we completely uh redesign our workflow from scratch as you release new models every month or every quarters and so that that we can you know basically uh fully unlock the potential of the intelligence or from the new models um by fully fully redesigning our workflows. Yep. >> Got it. Got it.
 
-And so what did it take for you to get agents into production at Rockin knowing that you've been on this journey for a while? And what would you skip if you were starting today from scratch? &gt;&gt; Yeah. Uh so when we started uh developing agent ourself, we spend tons of our time and effort uh to manage uh the infrastructure of the agent. Uh but if we uh if we were starting today's uh we would skip that process and fully put our focus on agent experience and building some uh loop uh and close the roof of the agent instead of spending time for the infrastructure. &gt;&gt; Got it.
+And so what did it take for you to get agents into production at Rockin knowing that you've been on this journey for a while? And what would you skip if you were starting today from scratch? >> Yeah. Uh so when we started uh developing agent ourself, we spend tons of our time and effort uh to manage uh the infrastructure of the agent. Uh but if we uh if we were starting today's uh we would skip that process and fully put our focus on agent experience and building some uh loop uh and close the roof of the agent instead of spending time for the infrastructure. >> Got it.
 
-So I'm excited to hear that manage agents is helping accelerate that work now. &gt;&gt; Um so what has made the biggest difference in the quality of your agents outputs over time? So I would say the self uh evolving capability uh would be the biggest uh differentiation factors. Um so um oh sorry I forget. Okay. So um basically uh in one day uh we deploy the agent and uh initially uh we have some mistake and our agent makes some mistake but by unlocking by enabling the memory and dreaming you just described uh we are able to let the agent improving their capability by checking their trace pass run and then field uh you know address the problem or the mistake they uh made uh last time.
+So I'm excited to hear that manage agents is helping accelerate that work now. >> Um so what has made the biggest difference in the quality of your agents outputs over time? So I would say the self uh evolving capability uh would be the biggest uh differentiation factors. Um so um oh sorry I forget. Okay. So um basically uh in one day uh we deploy the agent and uh initially uh we have some mistake and our agent makes some mistake but by unlocking by enabling the memory and dreaming you just described uh we are able to let the agent improving their capability by checking their trace pass run and then field uh you know address the problem or the mistake they uh made uh last time.
 
-So thanks to that we can actually address 90% of the problem we initially had in our real process and thanks to that our agent became more token efficient and also the latency and cost uh is decreased significantly. &gt;&gt; I'm really glad to hear how much value you're getting out of these features. Uh we just announced also the scheduled deployments feature this morning. So what recurring work at Rockin did you put on a schedule first? Yeah. So first uh we put a lot of uh reporting and analytics task uh into the schedule deployment.
+So thanks to that we can actually address 90% of the problem we initially had in our real process and thanks to that our agent became more token efficient and also the latency and cost uh is decreased significantly. >> I'm really glad to hear how much value you're getting out of these features. Uh we just announced also the scheduled deployments feature this morning. So what recurring work at Rockin did you put on a schedule first? Yeah. So first uh we put a lot of uh reporting and analytics task uh into the schedule deployment.
 
 So in our company we have a lot of the uh process uh or the task which require the repetitive the kind of the the work. So for example we have a lot of sales reporting or the marketing reporting which require the presentation uh deck or the spreadsheet and do some uh data analysis. So thanks to schedule deployment we are able to uh automate those repeated task and uh delegate those task to our agent and also sorry our power users also use it uh to take the log and metrics from uh our public cloud so that the our product manager can see the uh uh health status of the application without creating any new dashboard. Very exciting. And I guess similarly, we also released environment variables supported in vaults. So agents can use authenticated tools without ever seeing the keys.
 
-So what is this unlocking for you? &gt;&gt; So the use case I mentioned now is actually unlocked by this board. uh because uh you know in order to uh make sure that we can use agent safely and align with our governance and the compliance we want to make sure that you know those API key and the credential will not be exposed uh to the the the agent itself. So thanks to this uh board we can actually onboard this uh monitoring agent u so that uh you know uh we can uh see the status of our application in real time. &gt;&gt; Very very exciting. You guys have always been on the frontier of what we've been building and we can't wait to keep pushing this platform forward with you.
+So what is this unlocking for you? >> So the use case I mentioned now is actually unlocked by this board. uh because uh you know in order to uh make sure that we can use agent safely and align with our governance and the compliance we want to make sure that you know those API key and the credential will not be exposed uh to the the the agent itself. So thanks to this uh board we can actually onboard this uh monitoring agent u so that uh you know uh we can uh see the status of our application in real time. >> Very very exciting. You guys have always been on the frontier of what we've been building and we can't wait to keep pushing this platform forward with you.
 
-&gt;&gt; Yeah. &gt;&gt; Thank you. [applause] &gt;&gt; So today you've gotten to hear about cloud manage agents as a platform and how it's accelerating some of our most frontier users work and workflows. You also got to hear from Yusukean at Rockin on how his team's productivity has accelerated meaningfully because of cloud manage agents. If this has resonated with you today, and I hope it has, then please feel free to walk by our demo booths where we will be all day um to show you some demos and to help answer questions about cloud manage agents. And then additionally, these QR codes that you see on the screen right now point you to some of our more tactical resources such as our documentation and a rich experience in console that lets you build an agent from scratch in minutes.
+>> Yeah. >> Thank you. [applause] >> So today you've gotten to hear about cloud manage agents as a platform and how it's accelerating some of our most frontier users work and workflows. You also got to hear from Yusukean at Rockin on how his team's productivity has accelerated meaningfully because of cloud manage agents. If this has resonated with you today, and I hope it has, then please feel free to walk by our demo booths where we will be all day um to show you some demos and to help answer questions about cloud manage agents. And then additionally, these QR codes that you see on the screen right now point you to some of our more tactical resources such as our documentation and a rich experience in console that lets you build an agent from scratch in minutes.
 
-So really wanted to extend such a thank you to all of you for uh you know staying with us today and hearing about what we've built. Can't wait to see what you've built what you will build going forward. &gt;&gt; [applause] &gt;&gt; Hey, hey, hey. Give me hey. Follow me. Hey, hey, hey.
+So really wanted to extend such a thank you to all of you for uh you know staying with us today and hearing about what we've built. Can't wait to see what you've built what you will build going forward. >> [applause] >> Hey, hey, hey. Give me hey. Follow me. Hey, hey, hey.
 
 Hey, hey, hey. Hey, hey, hey. You good? Love me. Heat. Heat.
 
@@ -388,11 +388,11 @@ Baby, baby. Baby. Dick down. Dick down. Oh, Hey chick. D.
 
 Hey. Hey. Yeah, for real. For real. for real. For real.
 
-for me. &gt;&gt; [music] &gt;&gt; for real. Keep [music] your day. Love. [music] Heat. Heat.
+for me. >> [music] >> for real. Keep [music] your day. Love. [music] Heat. Heat.
 
-&gt;&gt; [music] &gt;&gt; 1 2 3 Hey, hey, hey. &gt;&gt; [music] &gt;&gt; Heat. Heat. Hey, hey, hey. Happy [music] happy. What?
+>> [music] >> 1 2 3 Hey, hey, hey. >> [music] >> Heat. Heat. Hey, hey, hey. Happy [music] happy. What?
 
-Baby, baby. Heat. Heat. N. &gt;&gt; [music] &gt;&gt; Hey, hey, hey. &gt;&gt; [music] &gt;&gt; Number n.
+Baby, baby. Heat. Heat. N. >> [music] >> Hey, hey, hey. >> [music] >> Number n.
 
 I'm a Hey, be turn over. One, one, one. One, one. One. Hey. Hey.
 
@@ -404,7 +404,7 @@ Damn it. Damn it. Here's Down down down down down. 1. Come on. Get drunk.
 
 down down down. Hey I'm a [music] Come on. [music] I'm a baby. Hey, hey, hey. Want [music] to be on about Yeah. [music] Hey.
 
-&gt;&gt; [music] &gt;&gt; Oh yeah. &gt;&gt; [music] &gt;&gt; Heat. Heat. [music] Hey hey Hey, let me Come on. Hey. Hey.
+>> [music] >> Oh yeah. >> [music] >> Heat. Heat. [music] Hey hey Hey, let me Come on. Hey. Hey.
 
 Hey, me. Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey. Fall party. Good. Good to me. Baby.
 
@@ -414,19 +414,19 @@ Hey, hey, hey. for Don't for me. For real, for real. Heat. Something. of your da
 
 3. Hey. Hey. Hello. Come on. [music] Heat.
 
-Hey. Hey. Hey, hey, hey. &gt;&gt; [music] &gt;&gt; Happy you hey. Magn happy love happy love happy love happy Hey, &gt;&gt; [music] &gt;&gt; Number one, Hey, ah hey. Natal.
+Hey. Hey. Hey, hey, hey. >> [music] >> Happy you hey. Magn happy love happy love happy love happy Hey, >> [music] >> Number one, Hey, ah hey. Natal.
 
-&gt;&gt; [music] &gt;&gt; Hello. Hey. Hey. One, one, One, one. Hey hey. One, one, one.
+>> [music] >> Hello. Hey. Hey. One, one, One, one. Hey hey. One, one, one.
 
 Hey, hey, hey. Dark. D. Hey. Hey, hey, hey. Take me.
 
 2 3 4 Hey, hey, hey. 2 3 Hey. Hey. Damn it. Damn it. Hey, hey, hey.
 
-Down down down down down. 1. Down down down down down down. I'm up. All right. [music] &gt;&gt; [music] &gt;&gt; Hey, hey, hey.
+Down down down down down. 1. Down down down down down down. I'm up. All right. [music] >> [music] >> Hey, hey, hey.
 
-Want to be? [music] &gt;&gt; [music] &gt;&gt; I want to be down. &gt;&gt; [music] &gt;&gt; Hey. Yeah. Heat. &gt;&gt; [music] &gt;&gt; Oh yeah.
+Want to be? [music] >> [music] >> I want to be down. >> [music] >> Hey. Yeah. Heat. >> [music] >> Oh yeah.
 
-Thank you. [music] &gt;&gt; [music] &gt;&gt; Hello. Hey, hey, hey. Please welcome to the stage general manager of AI at Rocken Yusuke Kaji St. Yokoso Raken AIU Malaysia. [music] Generalized.
+Thank you. [music] >> [music] >> Hello. Hey, hey, hey. Please welcome to the stage general manager of AI at Rocken Yusuke Kaji St. Yokoso Raken AIU Malaysia. [music] Generalized.
 
 Hi, this market operation. They must Agent Managed agent return value. software engineering benchmark. Fore market. benchmark. Production I don't know.
 
@@ -442,11 +442,11 @@ efficiency. So managed agent capability. Memorial Fore agent. agent compour. Wir
 
 Fore. [applause] Hey, hey, hey. [music] Natal la. I'm be over. Hey What? One.
 
-One. You ready? Hey. &gt;&gt; [music] &gt;&gt; Happy. [music] Hey. Hey.
+One. You ready? Hey. >> [music] >> Happy. [music] Hey. Hey.
 
-me. Happy la. Tonight, Oh yeah. Hey Heat. Heat. I'm a &gt;&gt; [music] &gt;&gt; Hey, hey, hey.
+me. Happy la. Tonight, Oh yeah. Hey Heat. Heat. I'm a >> [music] >> Hey, hey, hey.
 
-Hey, hey, hey. &gt;&gt; [music] &gt;&gt; I'm a Hey, hey, hey. Hey. Hey. Please welcome to the stage executive officer, head of digital strategy and chief AI officer at Mizuho, Tatsto Fuji and lab lead at Mizuho Kentaro Sa Yokosoyako Psycho AI &gt;&gt; [music] &gt;&gt; Hi. Hi.
+Hey, hey, hey. >> [music] >> I'm a Hey, hey, hey. Hey. Hey. Please welcome to the stage executive officer, head of digital strategy and chief AI officer at Mizuho, Tatsto Fuji and lab lead at Mizuho Kentaro Sa Yokosoyako Psycho AI >> [music] >> Hi. Hi.
 
 Hi. Fore! Foreign! Foreign! You know, it's not Incubation. All right.
 
@@ -456,27 +456,27 @@ Hi AI model. AI, AI oriented architecture. Agent agent. Agent factory. You This 
 
 Fore security engineering. for engineering team. for security. Favorite Enterprise Anthony. for Security.chech. agent.
 
-Enterprise for Fore speech. &gt;&gt; [snorts] &gt;&gt; Foreign speech. Foreign speech. Fore performance. Second opinion. Foreign speech.
+Enterprise for Fore speech. >> [snorts] >> Foreign speech. Foreign speech. Fore performance. Second opinion. Foreign speech.
 
 Foreign speech. Foreign speech. main Applic. It's Security.chech. Hi. What is this name?
 
-Hypers foreignch. Coronche. Agent agent. Fore speech. Foregos. [snorts] So &gt;&gt; [snorts] &gt;&gt; The human in the human transformation.
+Hypers foreignch. Coronche. Agent agent. Fore speech. Foregos. [snorts] So >> [snorts] >> The human in the human transformation.
 
-Empower agent. &gt;&gt; [applause] &gt;&gt; Hallelujah. &gt;&gt; [music] &gt;&gt; Hey, hey, hey. &gt;&gt; [music] &gt;&gt; Hey, [music] I'm a I'm going to be [music] &gt;&gt; [music] &gt;&gt; I'mma be on the ground. &gt;&gt; [music] &gt;&gt; Yeah. [music] Down.
+Empower agent. >> [applause] >> Hallelujah. >> [music] >> Hey, hey, hey. >> [music] >> Hey, [music] I'm a I'm going to be [music] >> [music] >> I'mma be on the ground. >> [music] >> Yeah. [music] Down.
 
 Damn it. Damn it. Come on. [music] Down down down down 1. Come on. Down down down down.
 
-[music] Hello. Hello. [music] Happy you happy happy happy you. Hey, wait. &gt;&gt; [music] &gt;&gt; Make me baby. [music] Heat.
+[music] Hello. Hello. [music] Happy you happy happy happy you. Hey, wait. >> [music] >> Make me baby. [music] Heat.
 
-Heat. N. Dick [music] dick. down. Down. [music] &gt;&gt; [music] &gt;&gt; Down.
+Heat. N. Dick [music] dick. down. Down. [music] >> [music] >> Down.
 
 Everybody tick tock. Hey, hey, hey. Hey. [music] Hey. Hey. Hey.
 
 I want you. Hey. Hey. Hey. [music] Hey, hey, hey. Hey.
 
-[music] &gt;&gt; [music] &gt;&gt; Yeah. Yeah. &gt;&gt; [music] &gt;&gt; Yeah. [music] Yeah. &gt;&gt; [music] &gt;&gt; Hey, hey, hey. &gt;&gt; [music] &gt;&gt; That time come Please welcome to the stage member of technical staff at Anthropic, Theo Chu Yokos, Enthropic Sha Theo Chu Sama.
+[music] >> [music] >> Yeah. Yeah. >> [music] >> Yeah. [music] Yeah. >> [music] >> Hey, hey, hey. >> [music] >> That time come Please welcome to the stage member of technical staff at Anthropic, Theo Chu Yokos, Enthropic Sha Theo Chu Sama.
 
-[music] Hi everyone. &gt;&gt; [applause] &gt;&gt; Hi everyone, my name is Theo. I'm a research product manager at Anthropic. Uh I work on our long horizon capabilities such as long context and memory capabilities uh in our models. I joined a little uh about two years ago right when sonnet 5 sonnet 35 had recently launched. At the time agents were barely a word that people were using.
+[music] Hi everyone. >> [applause] >> Hi everyone, my name is Theo. I'm a research product manager at Anthropic. Uh I work on our long horizon capabilities such as long context and memory capabilities uh in our models. I joined a little uh about two years ago right when sonnet 5 sonnet 35 had recently launched. At the time agents were barely a word that people were using.
 
 Um there were just signs of life that the models could even do coding uh at all. People were still focused on chat completions. Um autonomy and agent autonomy was something that was still kind of a new concept. Around this time last year, uh when I go back to code with claude, uh last year, Opus 4 had just launched. Cloud code was not even GA. Uh it was still a pretty nent thing.
 
@@ -532,7 +532,7 @@ Um, but doing it in this kind of classifier way allows us to uh to kind of strik
 
 It can click around. It can see if it actually works. And that way it can then get that feedback from its environment to understand if it should then go and update the code. So with that, thank you so much for listening to my talk on the capability curve. Hopefully you have learned how to think about models improving over time uh and how you can build for that future. [applause] Hey, hey, hey.
 
-It's a cruise. Heat. Hey, Heat. [music] &gt;&gt; [music] &gt;&gt; Heat. Hey. Hey.
+It's a cruise. Heat. Hey, Heat. [music] >> [music] >> Heat. Hey. Hey.
 
 Hey. [music] Hey. Hey. We are happy. Hey, hey, hey. me.
 
@@ -540,23 +540,23 @@ Hey. Three, four. One, two, 3. Thank you. [music] 1. Down it drop down Down down
 
 Down down down down down. Turn over. Hey, hey, hey. [music] One. One. 1.
 
-&gt;&gt; [music] one. I need hey. One, one, one, one, one, one. Number n. &gt;&gt; [music] &gt;&gt; Yeah. Yeah.
+>> [music] one. I need hey. One, one, one, one, one, one. Number n. >> [music] >> Yeah. Yeah.
 
-Oh yeah. &gt;&gt; [music] &gt;&gt; Heat. Heat. &gt;&gt; [music] [singing] &gt;&gt; For real. For me, for me, Oh no, for real. For real.
+Oh yeah. >> [music] >> Heat. Heat. >> [music] [singing] >> For real. For me, for me, Oh no, for real. For real.
 
-Keep it. of your day. We are [music] &gt;&gt; [music] &gt;&gt; Come on. Come on. Come on. Come on.
+Keep it. of your day. We are [music] >> [music] >> Come on. Come on. Come on. Come on.
 
-Come on. a beat. Hey [music] I'm a I'm a I'm a &gt;&gt; [music] &gt;&gt; Want [music] to be on the morning. Hey, [music] I love you. Hey. &gt;&gt; [music] &gt;&gt; Hey, hey, hey.
+Come on. a beat. Hey [music] I'm a I'm a I'm a >> [music] >> Want [music] to be on the morning. Hey, [music] I love you. Hey. >> [music] >> Hey, hey, hey.
 
-Please welcome to the stage general manager at NRI, Yuki Kitamura. &gt;&gt; [music] &gt;&gt; Soch. Fore speech. AI system. Fore! Foreign!
+Please welcome to the stage general manager at NRI, Yuki Kitamura. >> [music] >> Soch. Fore speech. AI system. Fore! Foreign!
 
-Foreign! You know, You know [snorts] mechan You know, Fore speech. Fore [snorts] speech. &gt;&gt; [snorts] &gt;&gt; for application. for &gt;&gt; [snorts] &gt;&gt; Foreign First party. &gt;&gt; [snorts] &gt;&gt; Fore speech.
+Foreign! You know, You know [snorts] mechan You know, Fore speech. Fore [snorts] speech. >> [snorts] >> for application. for >> [snorts] >> Foreign First party. >> [snorts] >> Fore speech.
 
-Fore speech. Fore impact. magical. benchmark. Okay. &gt;&gt; [snorts] &gt;&gt; Foreignech.
+Fore speech. Fore impact. magical. benchmark. Okay. >> [snorts] >> Foreignech.
 
-for YouTube. &gt;&gt; [snorts] &gt;&gt; Foreign speech. Foreign speech. Foreign speech. Okay. How come out?
+for YouTube. >> [snorts] >> Foreign speech. Foreign speech. Foreign speech. Okay. How come out?
 
-Fore speech. Fore transformation. forchech. Fore speech. &gt;&gt; [snorts] &gt;&gt; Fore! Foreign!
+Fore speech. Fore transformation. forchech. Fore speech. >> [snorts] >> Fore! Foreign!
 
 Foreign! Okay. Enterprise. Foreign speech. Foreign speech. Yes.
 
@@ -570,11 +570,11 @@ Hey. Hey. I'm a [music] Heat. Heat. I'm a baby. [music] Heat.
 
 Heat. Want [music] to be on the mountain. [music] Hey, dick. Dick down. Dick. Hey.
 
-Hey, I'm &gt;&gt; [music] &gt;&gt; Dick dick down. Hey, hey, hey. Down. [music] Hey. Hey. Heat.
+Hey, I'm >> [music] >> Dick dick down. Hey, hey, hey. Down. [music] Hey. Hey. Heat.
 
-Hey, Heat. Hey, hey, hey. For me, for me, for me. For me, &gt;&gt; [music] &gt;&gt; for me. Hello for real. He We are of your day.
+Hey, Heat. Hey, hey, hey. For me, for me, for me. For me, >> [music] >> for me. Hello for real. He We are of your day.
 
-Oh no. Please welcome to the stage product management lead for the cloud platform Brad Abrams and member of technical staff of Enthropic Rod Howworth. Claude, Brad Abrams, Enthropic Technafu, Rod Howworth, Sama. [music] &gt;&gt; Well, [music] good afternoon. Thank you for coming. Um, you've almost made it to the end of Code with Claude.
+Oh no. Please welcome to the stage product management lead for the cloud platform Brad Abrams and member of technical staff of Enthropic Rod Howworth. Claude, Brad Abrams, Enthropic Technafu, Rod Howworth, Sama. [music] >> Well, [music] good afternoon. Thank you for coming. Um, you've almost made it to the end of Code with Claude.
 
 Thank you so much for your hard work in pushing through this. Uh and this session is going to be well worth your effort because in this session we're going to talk about not just building agents but how you deploy agents that are secure, reliable, performant and most importantly cost effective. So you can actually do that at scale. I know many of you have started building agents already. A few of you maybe have agents in production, but only a very few are really happy with the performance, reliability, and cost effectiveness of their agents. So, this talk is really going to drill into that and that will make it well worth your time.
 
@@ -686,15 +686,15 @@ So now on the messages API you can just list a few other models. you can say, "O
 
 Hey. D. Hey. Hey. Hey, hey, hey. I feel a One, two, three, four.
 
-Hey. Hey. Hey. One 2 3 4 &gt;&gt; [music] &gt;&gt; I'm a [music] Want to be [music] a &gt;&gt; [music] &gt;&gt; Happy. [music] You want to be on for the world. Hey, [music] hey, hey.
+Hey. Hey. Hey. One 2 3 4 >> [music] >> I'm a [music] Want to be [music] a >> [music] >> Happy. [music] You want to be on for the world. Hey, [music] hey, hey.
 
 Hey, take it. Hey, hey, hey. Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey. Everything. Hey, it's funny. for real.
 
-[music] For real. &gt;&gt; [music] &gt;&gt; for real. For real. &gt;&gt; [music] &gt;&gt; for me. Oh no. for real.
+[music] For real. >> [music] >> for real. For real. >> [music] >> for me. Oh no. for real.
 
 For real. Keep real for real. We are on [music] your Hey. Hey. Hey, hey, hey. Hey, dick.
 
-Everything [music] down. Down down down. Don't rock. &gt;&gt; [music] &gt;&gt; Sh. D. Hey, hey, hey.
+Everything [music] down. Down down down. Don't rock. >> [music] >> Sh. D. Hey, hey, hey.
 
 [music] Good. So good. Please welcome to the stage Japan developer community lead at Enthropic Junichiro Tsuji stage. Anthropic develop community. [music] Relax. Hi PlayStation.
 
@@ -708,8 +708,8 @@ Foreign speech. Foreign speech. Fore company. Yeah. Bottom up. Extension Founder
 
 Community community. Ambassador program I'm speech. Hi. Evening reception. Fore! [applause] Feel Hey, hey, hey.
 
-Hey, hey, hey. Hey, hey, hey. Hey, hey, hey. Dick dick dick. Dick down. &gt;&gt; [music] &gt;&gt; down.
+Hey, hey, hey. Hey, hey, hey. Hey, hey, hey. Dick dick dick. Dick down. >> [music] >> down.
 
-Hey &gt;&gt; [music] &gt;&gt; Hey chick down. Take Yeah. Let's go. &gt;&gt; [music] &gt;&gt; Hello. [music] happy up happy up happy up happy up happy up Happy birthday. Hey, hey, hey.
+Hey >> [music] >> Hey chick down. Take Yeah. Let's go. >> [music] >> Hello. [music] happy up happy up happy up happy up happy up Happy birthday. Hey, hey, hey.
 
-Christmas happy. Hey, One, one, hey. One, one. One. &gt;&gt; [music] &gt;&gt; Round One. 1.
+Christmas happy. Hey, One, one, hey. One, one. One. >> [music] >> Round One. 1.

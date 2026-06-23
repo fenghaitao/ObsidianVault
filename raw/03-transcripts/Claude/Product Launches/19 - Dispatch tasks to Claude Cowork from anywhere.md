@@ -8,4 +8,4 @@ author: "Claude"
 
 # Dispatch tasks to Claude Cowork from anywhere
 
-[snorts] [music] &gt;&gt; Woo!
+[snorts] [music] >> Woo!

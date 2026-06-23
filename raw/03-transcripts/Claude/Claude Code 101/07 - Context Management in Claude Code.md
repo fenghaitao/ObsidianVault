@@ -18,4 +18,4 @@ For things that you do want Claude to remember in other sessions, put it in the 
 
 So, if you have a lot of MCP servers for things that are unrelated to the project, it might be worth turning them off. You can also try out skills, which works similarly to MCP servers, but doesn't put the entire thing into context, saving you space. Sub agents run in parallel with your main agent, but has a complete separate context window. So, for tasks that require an answer without the journey, like where is the authentication endpoints located, you can have the sub agent do the work and return just a summary to your main agent. Managing context within Claude code is crucial. Use /compact to summarize long sessions and /clear to start fresh.
 
-To use your context window effectively, be specific with what you want. &gt;&gt; [music] &gt;&gt; Check what's using your current context window and use sub agents to delegate tasks you only need the answer for.
+To use your context window effectively, be specific with what you want. >> [music] >> Check what's using your current context window and use sub agents to delegate tasks you only need the answer for.
