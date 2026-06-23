@@ -23,5 +23,5 @@ Antigravity is Google's agentic IDE, released alongside Gemini 3 (referenced in 
 - [[Pi]] — the other host for Gemini-powered design
 - [[AICodingAssistant]] — Antigravity's category (agentic IDE)
 - [[ColeMedin]] — evaluator
-- [[summary-claude-plans-gemini-designs]] — primary source
-- [[summary-ai-exploded-in-2025]] — Antigravity's launch context
+- [[summary-20260604 - Claude Plans, Gemini Designs： The Workflow to Build BEAUTIFUL Frontends]] — primary source
+- [[summary-20260101 - AI Exploded in 2025 - Here’s Everything That Happened]] — Antigravity's launch context

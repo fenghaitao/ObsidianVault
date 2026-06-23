@@ -74,4 +74,4 @@ These appear in Anthropic's article and combine multiplicatively with contextual
 - [[Crawl4AIRAG]] — Cole's reference Python implementation
 - [[N8N]] — visual implementation surface
 - [[ColeMedin]] — implementer/teacher
-- [[summary-easiest-strategy-for-accurate-rag]] — primary source
+- [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]] — primary source

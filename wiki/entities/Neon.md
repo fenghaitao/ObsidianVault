@@ -40,6 +40,6 @@ Both run Postgres with `pgvector`, so for RAG purposes they're largely interchan
 - [[ContextualRetrieval]] — implemented on Neon in Cole's demo
 - [[ModelContextProtocol]] — Neon ships an MCP server (database-management slot)
 - [[ColeMedin]] — advocate
-- [[summary-easiest-strategy-for-accurate-rag]], [[summary-every-rag-strategy-explained]] — sources
-- [[summary-self-healing-e2e-validation]] — Neon branching for test-data isolation
-- [[summary-parallel-claude-code-worktrees]] — Neon branch per worktree (parallel-dev DB isolation)
+- [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]], [[summary-20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff)]] — sources
+- [[summary-20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)]] — Neon branching for test-data isolation
+- [[summary-20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship]] — Neon branch per worktree (parallel-dev DB isolation)

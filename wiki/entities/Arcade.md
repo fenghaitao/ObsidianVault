@@ -25,4 +25,4 @@ Arcade is a platform that exposes third-party services (Linear, GitHub, Slack, a
 - [[AgentHarness]] — Cole's harness uses Arcade for service connectivity
 - [[ClaudeAgentSDK]] — the harness defines the Arcade MCP gateway in code
 - [[ColeMedin]] — uses it in the "full AI engineer" demo
-- [[summary-full-engineering-team-subagents]] — primary source
+- [[summary-20260202 - Turn Claude Code into Your Full Engineering Team with Subagents]] — primary source

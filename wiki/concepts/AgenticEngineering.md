@@ -110,6 +110,6 @@ A skill in your head is fragile. A workflow committed to `.claude/commands/` is 
 - [[ClaudeCode]] — primary execution surface
 - [[CapabilitiesOverTools]] — companion principle
 - [[ColeMedin]] — articulator
-- [[summary-5-techniques-top-agentic-engineers]] — primary source
-- [[summary-is-software-engineering-dead]] — the engineering-endures argument
-- [[summary-principled-agentic-engineer]] — the consolidated three-phase system; simple-vs-bloated framing
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — primary source
+- [[summary-20260305 - Is Software Engineering Finally Dead]] — the engineering-endures argument
+- [[summary-20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)]] — the consolidated three-phase system; simple-vs-bloated framing

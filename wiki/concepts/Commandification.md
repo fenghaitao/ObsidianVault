@@ -98,5 +98,5 @@ Don't commandify ad-hoc one-shot prompts or anything where the command would be 
 - [[PRPFramework]] — the canonical commandified workflow
 - [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[ContextReset]], [[SystemEvolution]] — companion techniques
 - [[ColeMedin]] — author
-- [[summary-5-techniques-top-agentic-engineers]] — primary source
-- [[summary-complete-agentic-coding-workflow]] — commands-vs-skills distinction; command suite in practice
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — primary source
+- [[summary-20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)]] — commands-vs-skills distinction; command suite in practice

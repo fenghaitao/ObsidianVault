@@ -114,6 +114,6 @@ Cole positions his open-source **[[Archon]]** as a harness *builder* — a way t
 - [[PRPFramework]] — PRP + Ralph combo
 - [[HumanInTheLoop]] — the ingredient Ralph lacks
 - [[Rasmus]] — added Ralph to the PRP framework
-- [[summary-harness-engineering]] — primary source
-- [[summary-ralph-wiggum-vibe-coding]] — the "final evolution of vibe coding" deep dive
-- [[summary-loop-engineering]] — `/goal` as a Ralph-style loop within loop engineering
+- [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]] — primary source
+- [[summary-20260115 - Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next)]] — the "final evolution of vibe coding" deep dive
+- [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]] — `/goal` as a Ralph-style loop within loop engineering

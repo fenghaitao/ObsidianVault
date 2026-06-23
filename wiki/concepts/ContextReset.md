@@ -68,4 +68,4 @@ Cole doesn't re-prime after a reset for execution — the plan document *is* the
 - [[PRPFramework]] — same pattern under different naming
 - [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[Commandification]], [[SystemEvolution]] — companion techniques
 - [[ColeMedin]] — author
-- [[summary-5-techniques-top-agentic-engineers]] — primary source
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — primary source

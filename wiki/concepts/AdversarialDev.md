@@ -87,5 +87,5 @@ Like all harnesses: token-expensive (long-running, multi-agent), and not for imm
 - [[HumanInTheLoop]] — what the evaluator automates
 - [[ColeMedin]] — author
 - [[ParallelAgenticDevelopment]] — uses cross-model fresh-context PR review
-- [[summary-adversarial-dev-technique]] — primary source
-- [[summary-parallel-claude-code-worktrees]] — Codex-plugin cross-model PR review
+- [[summary-20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)]] — primary source
+- [[summary-20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship]] — Codex-plugin cross-model PR review

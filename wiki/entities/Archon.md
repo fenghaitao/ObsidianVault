@@ -102,13 +102,13 @@ It also serves as a general **workflow engine** for non-coding pipelines (e.g. t
 - [[Supabase]] — Archon's RAG backend
 - [[RetrievalAugmentedGeneration]] — used for doc-grounded code generation
 - [[Windsurf]], [[Cursor]] — primary integration targets
-- [[summary-introducing-archon-ai-agent-builder]] — official intro
-- [[summary-build-an-army-of-ai-agents-archon]] — agent army demo
-- [[summary-10x-your-ai-agents-parallel-architecture]] — parallel architecture deep dive
-- [[summary-coding-subagents-mcp-evolution]] — MCP integration deep dive
-- [[summary-full-engineering-team-subagents]] — the "N8N for AI coding" pivot
-- [[summary-is-rag-dead-for-coding]] — why RAG-for-coding declined (reinforces the pivot)
-- [[summary-2000-hours-claude-code-wisk]] — the new Archon (command center / workflow builder) as demo codebase
-- [[summary-ai-generated-videos-claude-code]] — shipped Archon (arkon.diy, 21k stars, 3 workflows) as video-pipeline engine
-- [[summary-claude-plans-gemini-designs]] — Archon one-shots the cross-provider frontend workflow
-- [[summary-loop-engineering]] — Archon as the deterministic answer to naive loop engineering
+- [[summary-04 - Introducing Archon - an AI Agent that BUILDS AI Agents]] — official intro
+- [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]] — agent army demo
+- [[summary-02 - 10x Your AI Agents with this ONE Agent Architecture]] — parallel architecture deep dive
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — MCP integration deep dive
+- [[summary-20260202 - Turn Claude Code into Your Full Engineering Team with Subagents]] — the "N8N for AI coding" pivot
+- [[summary-20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead)]] — why RAG-for-coding declined (reinforces the pivot)
+- [[summary-20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It]] — the new Archon (command center / workflow builder) as demo codebase
+- [[summary-20260514 - Make the PERFECT Videos with Claude Code (Full Workflow)]] — shipped Archon (arkon.diy, 21k stars, 3 workflows) as video-pipeline engine
+- [[summary-20260604 - Claude Plans, Gemini Designs： The Workflow to Build BEAUTIFUL Frontends]] — Archon one-shots the cross-provider frontend workflow
+- [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]] — Archon as the deterministic answer to naive loop engineering

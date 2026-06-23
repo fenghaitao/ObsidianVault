@@ -44,4 +44,4 @@ He prefers [[PydanticAI]] + [[LangGraph]] precisely because they're closer to th
 - [[ColeMedin]] — explicit stance on LangChain
 - [[Archon]] — planned for multi-framework support including LangChain (v10)
 - [[Anthropic]] — author of the "Building Effective Agents" article that endorses LangGraph
-- [[summary-introducing-archon-ai-agent-builder]] — context for "abstraction distraction" framing
+- [[summary-04 - Introducing Archon - an AI Agent that BUILDS AI Agents]] — context for "abstraction distraction" framing

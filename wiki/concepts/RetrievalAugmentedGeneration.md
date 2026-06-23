@@ -133,9 +133,9 @@ A recurring theme across Cole's content (echoed in the Vectorize sponsor segment
 - [[N8N]] — visual surface where Cole prototypes RAG pipelines
 - [[ColeMedin]] — frequent advocate of robust RAG pipelines
 - [[ToolUse]] — agents can also expose RAG as a tool rather than building it into the prompt
-- [[summary-easiest-strategy-for-accurate-rag]] — the contextual-retrieval walkthrough
-- [[summary-3-must-have-mcp-servers-for-ai-coding]] — RAG as part of the AI-coding MCP triad
-- [[summary-every-rag-strategy-explained]] — the 11-strategies survey
+- [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]] — the contextual-retrieval walkthrough
+- [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — RAG as part of the AI-coding MCP triad
+- [[summary-20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff)]] — the 11-strategies survey
 - [[cole-medin-rag-playbook]] — synthesis: Cole's consolidated RAG playbook (strategies, tooling, cost controls)
-- [[summary-is-rag-dead-for-coding]] — the "RAG is dead?" structured-vs-unstructured resolution
-- [[summary-sdk-vs-framework-agents]] — small-corpus file search vs large-corpus RAG; agentic RAG
+- [[summary-20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead)]] — the "RAG is dead?" structured-vs-unstructured resolution
+- [[summary-20260326 - Everything You Thought About Building AI Agents is Wrong]] — small-corpus file search vs large-corpus RAG; agentic RAG

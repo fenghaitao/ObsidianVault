@@ -56,4 +56,4 @@ The separate evaluator:
 - [[ValidationGates]] — deterministic checks that sidestep sycophancy
 - [[AgentHarness]] — where adversarial evaluation lives
 - [[ColeMedin]] — articulator in this corpus
-- [[summary-adversarial-dev-technique]] — primary source
+- [[summary-20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)]] — primary source

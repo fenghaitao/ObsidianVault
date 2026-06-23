@@ -25,4 +25,4 @@ Excalidraw is a free, open-source diagramming tool with a hand-drawn aesthetic t
 - [[Obsidian]] — renders Excalidraw via its community plugin
 - [[SecondBrain]] — ships the Excalidraw diagram skill
 - [[ColeMedin]] — heavy user
-- [[summary-beautiful-diagrams-claude-code]] — primary source
+- [[summary-20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)]] — primary source

@@ -149,8 +149,8 @@ The unlock that's emerging:
 - [[ValidationGates]], [[HumanInTheLoop]], [[Guardrails]] — sub-patterns
 - [[SystemEvolution]] — how the harness improves over time
 - [[ColeMedin]] — articulator
-- [[summary-agent-harnesses-and-vibe-coding]] — primary source
-- [[summary-harness-engineering]] — the discipline; multi-session orchestration
-- [[summary-adversarial-dev-technique]] — a concrete harness
-- [[summary-ralph-wiggum-vibe-coding]] — Ralph as the most basic harness (Model T)
-- [[summary-full-engineering-team-subagents]] — extending a harness into a full AI engineer with a tool belt
+- [[summary-20251218 - Are Agent Harnesses Bringing Back Vibe Coding]] — primary source
+- [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]] — the discipline; multi-session orchestration
+- [[summary-20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)]] — a concrete harness
+- [[summary-20260115 - Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next)]] — Ralph as the most basic harness (Model T)
+- [[summary-20260202 - Turn Claude Code into Your Full Engineering Team with Subagents]] — extending a harness into a full AI engineer with a tool belt

@@ -58,4 +58,4 @@ The command takes a structured-plan path plus an optional agent count (omit it t
 - [[ParallelAgenticDevelopment]] — Cole's preferred (worktree-based) parallelism approach
 - [[VercelAgentBrowser]] — validation paired with team builds
 - [[ColeMedin]] — articulator
-- [[summary-agent-teams-live-build]] — primary source
+- [[summary-20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)]] — primary source

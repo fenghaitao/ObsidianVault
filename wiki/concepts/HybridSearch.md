@@ -26,4 +26,4 @@ Hybrid search is a [[RetrievalAugmentedGeneration]] strategy that combines **sem
 - [[ContextualRetrieval]] — frequently stacked with hybrid search
 - [[Reranking]] — complementary technique (hybrid retrieves, reranking reorders)
 - [[ColeMedin]] — surveyed it
-- [[summary-every-rag-strategy-explained]] — primary source
+- [[summary-20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff)]] — primary source

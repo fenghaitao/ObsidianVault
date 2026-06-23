@@ -79,7 +79,7 @@ ValidationGates are *code-correctness* checks (does the function do what its tes
 - [[Guardrails]] — runtime validation of agent inputs/outputs (similar spirit, different layer)
 - [[Rasmus]] — articulated the pattern
 - [[ColeMedin]] — popularized the pattern through his content
-- [[summary-context-engineering-101]] — primary source
-- [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI use case
-- [[summary-agent-teams-live-build]] — end-to-end browser validation in practice
-- [[summary-self-healing-e2e-validation]] — the packaged self-healing /e2e-test workflow
+- [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]] — primary source
+- [[summary-20250724 - Build ANY AI Agent with this Context Engineering Blueprint]] — PydanticAI use case
+- [[summary-20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)]] — end-to-end browser validation in practice
+- [[summary-20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)]] — the packaged self-healing /e2e-test workflow

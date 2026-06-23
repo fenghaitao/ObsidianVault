@@ -60,5 +60,5 @@ If meta-agents like Archon mature, software development reorganizes around "desc
 - [[ModelContextProtocol]] — transport layer making this composable
 - [[ColeMedin]] — author of the "agenteer" framing
 - [[AICodingAssistant]] — the generalist counterpart
-- [[summary-introducing-archon-ai-agent-builder]] — Archon intro that articulates the vision
-- [[summary-coding-subagents-mcp-evolution]] — meta-agent-as-sub-agent thesis
+- [[summary-04 - Introducing Archon - an AI Agent that BUILDS AI Agents]] — Archon intro that articulates the vision
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — meta-agent-as-sub-agent thesis

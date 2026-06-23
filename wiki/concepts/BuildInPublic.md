@@ -31,5 +31,5 @@ Note a deliberate nuance: Cole builds *some* things fully in public (Archon, tem
 - [[Archon]] — the flagship build-in-public project
 - [[PRPFramework]], [[Crawl4AIRAG]], [[SecondBrain]] — shared templates/resources
 - [[OpenClaw]] — the "don't just run someone else's code" counterpoint
-- [[summary-introducing-archon-ai-agent-builder]] — build-in-public articulated
-- [[summary-ai-youtube-claude-hype]] — building Archon / Dark Factory live on stream
+- [[summary-04 - Introducing Archon - an AI Agent that BUILDS AI Agents]] — build-in-public articulated
+- [[summary-20260507 - AI YouTube Is Only Claude Hype Now]] — building Archon / Dark Factory live on stream

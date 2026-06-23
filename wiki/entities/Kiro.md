@@ -45,5 +45,5 @@ Cole groups Kiro with [[ClaudeCode]] as agentic-first (long autonomous loops) ra
 - [[SubAgent]] — built-in delegation
 - [[ModelContextProtocol]] — MCP client support
 - [[ColeMedin]] — partnered for the hackathon
-- [[summary-kiro-hackathon]] — primary source
-- [[summary-ai-exploded-in-2025]] — Amazon's coding-agent push (2025 recap)
+- [[summary-20260105 - The Kiro AI Coding Hackathon has Officially Started! Build ANYTHING, Win Big Prizes]] — primary source
+- [[summary-20260101 - AI Exploded in 2025 - Here’s Everything That Happened]] — Amazon's coding-agent push (2025 recap)

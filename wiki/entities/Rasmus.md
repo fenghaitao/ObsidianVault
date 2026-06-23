@@ -52,6 +52,6 @@ Rasmus and Cole are colleagues in the Dynamis.ai community where Cole originally
 - [[ColeMedin]] — primary amplifier of his work
 - [[ClaudeCode]] — primary execution surface for PRPs
 - [[ValidationGates]] — sub-pattern central to PRP execution
-- [[summary-context-engineering-101]] — primary source (Rasmus appears as guest)
-- [[summary-context-engineering-is-new-vibe-coding]] — first introduction
-- [[summary-context-engineering-blueprint-for-ai-agents]] — collaborative use-case template
+- [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]] — primary source (Rasmus appears as guest)
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]] — first introduction
+- [[summary-20250724 - Build ANY AI Agent with this Context Engineering Blueprint]] — collaborative use-case template

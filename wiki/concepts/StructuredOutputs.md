@@ -77,4 +77,4 @@ This is harder than streaming text but valuable for chat UIs where the user expe
 - [[LangGraph]] — typical consumer of structured outputs (router functions branch on them)
 - [[AIAgent]] — what produces the structured output
 - [[ToolUse]] — adjacent but distinct mechanism
-- [[summary-10x-your-ai-agents-parallel-architecture]] — primary use case in this playlist
+- [[summary-02 - 10x Your AI Agents with this ONE Agent Architecture]] — primary use case in this playlist

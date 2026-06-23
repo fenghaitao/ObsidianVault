@@ -37,7 +37,7 @@ Investing in concepts pays off across framework migrations. Investing in framewo
 
 ### Practical applications across Cole's roadmap
 
-In every phase of his "[[summary-how-to-learn-ai-agents-roadmap]]":
+In every phase of his "[[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]]":
 - **Phase 2 (no-code)**: prototype in N8N — but learn the *RAG pattern*, not the N8N nodes specifically.
 - **Phase 4 (coded agents)**: pick a framework, but understand the *agent definition shape* (LLM + system prompt + tools + dependencies + structured outputs) that translates between PydanticAI/LangGraph/etc.
 - **Phase 5 (architecture)**: the [[ParallelAgentArchitecture]] is a concept; how each framework expresses it is implementation detail.
@@ -54,5 +54,5 @@ Cole still goes deep on his preferred tools ([[PydanticAI]], [[LangGraph]], [[Ar
 
 - [[ColeMedin]] — author of the heuristic
 - [[AIAgent]] — the broader subject
-- [[summary-how-to-learn-ai-agents-roadmap]] — primary source where the principle is articulated
+- [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]] — primary source where the principle is articulated
 - [[summary-building-effective-agents]] — Anthropic's overlapping warning

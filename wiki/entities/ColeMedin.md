@@ -103,19 +103,19 @@ Per `summary-ai-youtube-claude-hype`, Cole deliberately resists the "Claude hype
 - [[ContextualRetrieval]] — Cole-popularized RAG technique
 - [[ParallelAgentArchitecture]] — frequently demonstrated pattern
 - [[SubAgent]] — recurring architectural focus
-- [[summary-introducing-archon-ai-agent-builder]] — Archon intro
-- [[summary-build-an-army-of-ai-agents-archon]] — MCP agent army demo
-- [[summary-10x-your-ai-agents-parallel-architecture]] — parallel architecture
-- [[summary-coding-subagents-mcp-evolution]] — MCP sub-agent thesis
-- [[summary-build-your-own-mcp-servers-template]] — MCP template walkthrough
-- [[summary-easiest-strategy-for-accurate-rag]] — Contextual Retrieval guide
-- [[summary-3-must-have-mcp-servers-for-ai-coding]] — recommended MCP triad
-- [[summary-how-to-learn-ai-agents-roadmap]] — 10-phase learning roadmap
-- [[summary-context-engineering-is-new-vibe-coding]] — Context Engineering intro
-- [[summary-context-engineering-101]] — PRP framework deep dive with Rasmus
-- [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI use-case template
-- [[summary-every-rag-strategy-explained]] — 11-RAG-strategy survey
-- [[summary-agent-harnesses-and-vibe-coding]] — AgentHarness intro
-- [[summary-5-techniques-top-agentic-engineers]] — agentic engineering checklist
-- [[summary-second-brain-with-claude-code-obsidian-skills]] — Second Brain pattern
-- [[summary-ai-youtube-claude-hype]] — content philosophy; live-stream shift; Dark Factory
+- [[summary-04 - Introducing Archon - an AI Agent that BUILDS AI Agents]] — Archon intro
+- [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]] — MCP agent army demo
+- [[summary-02 - 10x Your AI Agents with this ONE Agent Architecture]] — parallel architecture
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — MCP sub-agent thesis
+- [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]] — MCP template walkthrough
+- [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]] — Contextual Retrieval guide
+- [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — recommended MCP triad
+- [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]] — 10-phase learning roadmap
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]] — Context Engineering intro
+- [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]] — PRP framework deep dive with Rasmus
+- [[summary-20250724 - Build ANY AI Agent with this Context Engineering Blueprint]] — PydanticAI use-case template
+- [[summary-20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff)]] — 11-RAG-strategy survey
+- [[summary-20251218 - Are Agent Harnesses Bringing Back Vibe Coding]] — AgentHarness intro
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — agentic engineering checklist
+- [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — Second Brain pattern
+- [[summary-20260507 - AI YouTube Is Only Claude Hype Now]] — content philosophy; live-stream shift; Dark Factory

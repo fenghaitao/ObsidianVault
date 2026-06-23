@@ -20,7 +20,7 @@ A consolidated view of everything [[ColeMedin]] teaches about [[RetrievalAugment
 
 ## Cole's recommended starter combo
 
-From [[summary-every-rag-strategy-explained]], if you do nothing else, combine these three:
+From [[summary-20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff)]], if you do nothing else, combine these three:
 
 1. **[[Reranking]]** — "the first strategy I use for almost every RAG implementation." Retrieve many candidates, a cross-encoder returns the best few. Avoids overwhelming the LLM ([[ContextRot]]).
 2. **Agentic RAG** — let the agent choose how to search (semantic vs. full-doc fetch) per query.
@@ -61,7 +61,7 @@ The cost concern (running an LLM call per chunk, each containing the whole docum
 
 ## How RAG fits into AI coding
 
-In [[summary-3-must-have-mcp-servers-for-ai-coding]], RAG is one of Cole's three must-have MCP server categories: **documentation RAG** ([[Crawl4AIRAG]] or Context7) lets the AI IDE query framework docs while coding, so it stops hallucinating APIs. Paired with Brave (web search) — query private docs first, fall back to web for examples.
+In [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]], RAG is one of Cole's three must-have MCP server categories: **documentation RAG** ([[Crawl4AIRAG]] or Context7) lets the AI IDE query framework docs while coding, so it stops hallucinating APIs. Paired with Brave (web search) — query private docs first, fall back to web for examples.
 
 [[Archon]] uses RAG internally over the [[PydanticAI]] docs to ground its code generation, and Cole plans to move it onto [[Crawl4AIRAG]].
 

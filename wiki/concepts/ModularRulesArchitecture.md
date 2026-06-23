@@ -87,5 +87,5 @@ Per `summary-large-codebases-claude-code`, [[Anthropic]] recommends a complement
 - [[PRDFirstDevelopment]], [[Commandification]], [[ContextReset]], [[SystemEvolution]] — companion techniques
 - [[ColeMedin]] — author
 - [[LargeCodebaseStrategies]] — layered subdirectory CLAUDE.md at scale
-- [[summary-5-techniques-top-agentic-engineers]] — primary source
-- [[summary-large-codebases-claude-code]] — subdirectory CLAUDE.md auto-loading
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — primary source
+- [[summary-20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases)]] — subdirectory CLAUDE.md auto-loading

@@ -46,4 +46,4 @@ Karpathy's broader content (lectures on building neural networks from scratch, t
 - [[SecondBrain]] — Cole Medin's implementation of the LLM-Wiki pattern
 - [[ColeMedin]] — interpreter and amplifier of these ideas in this corpus
 - [[OpenAI]] — Karpathy's prior affiliation
-- [[summary-context-engineering-is-new-vibe-coding]] — primary source for both attributions
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]] — primary source for both attributions

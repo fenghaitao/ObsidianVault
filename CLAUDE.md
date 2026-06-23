@@ -11,15 +11,15 @@ Always write all wiki content in **English**. If a source is in another language
 These permissions are non-negotiable.
 
 - **`/raw/`** — Immutable source layer.
-  - **Read-only.** Never modify, rewrite, or paraphrase files in `raw/`.
-  - The only allowed mutation is **moving** a fully-processed file to `raw/09-archive/` at the end of an `ingest` run.
+  - **Strictly read-only.** Never modify, rewrite, paraphrase, **move, rename, or delete** files in `raw/`. There is no archive; raw files stay in place permanently.
+  - A raw file counts as **processed** when its mirrored summary exists under `wiki/sources/` (see §3), not by being moved.
   - This is the single source of truth.
 
 - **`/assets/`** — Media (images, PDFs, attachments). Reference with Obsidian wikilink embed: `![[filename.png]]`.
 
 - **`/wiki/`** — Compiled output layer. **You own this directory.** Create, update, refine, and resolve contradictions here.
 
-- **`/raw/09-archive/`** — Processed-file archive. **Never read from this directory** during normal operations; it exists purely so `ingest` knows what's already been compiled.
+- **No archive.** Earlier versions moved processed files to `raw/09-archive/`; this is removed. The link between a source and its summary is now the **mirrored path** (§3) plus the summary's `sources:` frontmatter, which stays valid because raw files never move.
 
 ## Wiki schema
 
@@ -32,7 +32,8 @@ After adding any new wiki page, append it to `index.md` under the right category
 Format: `[[Page Name]] — one-sentence description.`
 
 - **Entities / Concepts** — `TitleCase` filenames (e.g. `ClaudeCode.md`, `RetrievalAugmentedGeneration.md`)
-- **Sources / Syntheses** — `kebab-case` filenames (e.g. `summary-karpathy-llm-wiki.md`, `analysis-rag-vs-wiki.md`)
+- **Sources** — mirror the raw subpath: `wiki/sources/<subpath>/summary-<raw-basename>` (e.g. `wiki/sources/03-transcripts/Cole Medin/Channel Only/summary-20260101 - AI Exploded.md`)
+- **Syntheses** — `kebab-case` filenames (e.g. `analysis-rag-vs-wiki.md`)
 
 Example structure:
 
@@ -72,7 +73,7 @@ The format is grep-friendly: `grep "^## \[" log.md | tail -10` shows the last 10
 |---|---|---|
 | `wiki/concepts/` | Frameworks, methodologies, theories, abstract patterns | `TitleCase.md` |
 | `wiki/entities/` | People, companies, tools, products, projects | `TitleCase.md` |
-| `wiki/sources/` | One-to-one summaries of `raw/` files | `summary-{slug}.md` (kebab-case) |
+| `wiki/sources/` | One-to-one summaries of `raw/` files | `<raw-subpath>/summary-<raw-basename>` (mirrors raw path) |
 | `wiki/syntheses/` | Cross-document analyses, comparisons, deep dives | `{slug}.md` (kebab-case) |
 
 ### 4. Mandatory bidirectional linking
@@ -112,7 +113,7 @@ last_updated: YYYY-MM-DD
 
 When asked to perform these operations, follow the corresponding skill in `.claude/skills/`:
 
-- **`/ingest <path>`** — Read a `raw/` file, distill its core value, integrate into relevant `wiki/` concept/entity pages, create a source summary, update index and log, then archive the source. See `.claude/skills/ingest/SKILL.md`.
+- **`/ingest <path>`** — Read a `raw/` file, distill its core value, integrate into relevant `wiki/` concept/entity pages, create a mirrored source summary, and update index and log. The raw file is left in place (no archiving). See `.claude/skills/ingest/SKILL.md`.
 
 - **`/query <question>`** — Read `wiki/index.md` to locate relevant pages, deep-read them, synthesize an answer with `[[wikilink]]` citations. Optionally save high-value answers as a synthesis page. See `.claude/skills/query/SKILL.md`.
 
@@ -126,8 +127,8 @@ When asked to perform these operations, follow the corresponding skill in `.clau
 
 ## Hard rules
 
-- **Never modify `raw/` files.** Read-only except for the archive move.
-- **Never read `raw/09-archive/`** during normal operations.
+- **Never modify, move, rename, or delete `raw/` files.** Raw is strictly read-only and immutable; there is no archive.
+- **A source is "processed" when its mirrored summary exists** under `wiki/sources/` — that is the single dedup signal.
 - **Never create orphan pages.** Every page links somewhere.
 - **Never silently resolve conflicts.** Surface them.
 - **Never invent citations.** If a claim isn't in the source files, mark it as inferred or omit it.

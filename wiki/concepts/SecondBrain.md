@@ -138,7 +138,7 @@ Cole reports the Second Brain "saves me dozens of hours every single week" and m
 - [[PRDFirstDevelopment]] — how Cole helps you scope your own build
 - [[ColeMedin]] — articulator
 - [[Excalidraw]] — the diagram-generator skill in the template
-- [[summary-second-brain-with-claude-code-obsidian-skills]] — intro source
-- [[summary-full-guide-ai-second-brain]] — comprehensive architecture source
-- [[summary-safer-openclaw-alternative]] — clone-and-rebuild method + Cole's VPS stack
-- [[summary-beautiful-diagrams-claude-code]] — the Excalidraw diagram skill in the template
+- [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — intro source
+- [[summary-20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code]] — comprehensive architecture source
+- [[summary-20260212 - I Built a Safer OpenClaw Alternative Using Claude Code]] — clone-and-rebuild method + Cole's VPS stack
+- [[summary-20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)]] — the Excalidraw diagram skill in the template

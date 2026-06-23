@@ -31,7 +31,7 @@ Karpathy frames the LLM Wiki as a compiler pipeline ([[KarpathyLLMWiki]]). Here'
 | Runtime | querying | `.claude/skills/query/SKILL.md` (this very skill) |
 | System description | `agents.md` | `CLAUDE.md` (the schema) |
 
-This is a near-perfect match to the architecture in [[summary-self-evolving-memory-karpathy-llm-wiki]]. The vault was deliberately built on this pattern.
+This is a near-perfect match to the architecture in [[summary-20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases]]. The vault was deliberately built on this pattern.
 
 ## Where we follow Cole exactly
 
@@ -52,7 +52,7 @@ This is a near-perfect match to the architecture in [[summary-self-evolving-memo
 
 ## The two variants of the pattern, and which we are
 
-[[summary-self-evolving-memory-karpathy-llm-wiki]] distinguishes:
+[[summary-20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases]] distinguishes:
 - **Karpathy's original** — external data (articles, papers) → compiled wiki. **← This is us.**
 - **Cole's variant** — internal data (agent conversations) → self-evolving memory.
 
@@ -76,5 +76,5 @@ Cole's compounding loop: ask → synthesize across pages → file the answer bac
 - [[ProgressiveDisclosure]] — why the skills scale
 - [[AndrejKarpathy]] — pattern originator
 - [[ColeMedin]] — the teacher whose content fills this vault
-- [[summary-self-evolving-memory-karpathy-llm-wiki]] — the canonical architecture source
-- [[summary-full-guide-ai-second-brain]] — the comprehensive second-brain build
+- [[summary-20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases]] — the canonical architecture source
+- [[summary-20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code]] — the comprehensive second-brain build

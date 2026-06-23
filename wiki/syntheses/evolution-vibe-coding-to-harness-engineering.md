@@ -27,7 +27,7 @@ A synthesis of how the dominant paradigm for AI coding evolved across 2025-2026,
 
 [[AndrejKarpathy]] coined [[VibeCoding]] in early 2025 — letting the AI write code with minimal planning and minimal review. It went viral because instant code generation is a dopamine hit and it genuinely shines for prototypes. But "intuition does not scale; structure does." [[ColeMedin]] cites a Codto survey: 76.4% of developers have low confidence shipping unreviewed AI code. Vibe coding builds prototypes that break at production.
 
-Sources: [[VibeCoding]], [[AndrejKarpathy]], [[summary-context-engineering-is-new-vibe-coding]]
+Sources: [[VibeCoding]], [[AndrejKarpathy]], [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]]
 
 ## Stage 2: Context Engineering (the antithesis)
 
@@ -37,7 +37,7 @@ The concrete toolkit is [[Rasmus]]'s [[PRPFramework]] (Product Requirements Prom
 
 By early 2026 Cole codified the practitioner side as [[AgenticEngineering]] — five techniques: [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]], and [[SystemEvolution]].
 
-Sources: [[ContextEngineering]], [[PRPFramework]], [[AgenticEngineering]], [[summary-context-engineering-101]]
+Sources: [[ContextEngineering]], [[PRPFramework]], [[AgenticEngineering]], [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]]
 
 ## Stage 3: Harness Engineering (the synthesis)
 
@@ -47,11 +47,11 @@ Cole is careful that this is an **evolution, not a replacement** — harnesses *
 1. **Control** — orchestrating sessions and sub-agents ([[RalphLoop]], [[AdversarialDev]]).
 2. **The mindset reframe** — [[SystemEvolution]]: "every mistake becomes a rule." Stop blaming the model / waiting for the next version; improve the [[AILayer]] you control.
 
-Sources: [[HarnessEngineering]], [[AgentHarness]], [[AILayer]], [[summary-harness-engineering]]
+Sources: [[HarnessEngineering]], [[AgentHarness]], [[AILayer]], [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]]
 
 ## The twist: vibe coding comes back (qualified)
 
-The most interesting arc-closing move ([[summary-agent-harnesses-and-vibe-coding]]): harnesses make vibe coding *viable again* — but inverted in philosophy.
+The most interesting arc-closing move ([[summary-20251218 - Are Agent Harnesses Bringing Back Vibe Coding]]): harnesses make vibe coding *viable again* — but inverted in philosophy.
 
 - **2025 vibe coding**: trust the LLM blindly, zero structure.
 - **2026 harness-mediated vibe coding**: delegate full feature implementation, but to a *heavily engineered* harness with [[HumanInTheLoop]] checkpoints.

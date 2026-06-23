@@ -10,76 +10,76 @@ Format: `[[Page Name]] — One-sentence description.`
 
 *(Summaries of `raw/` files — kebab-case filenames)*
 
-- [[summary-introducing-archon-ai-agent-builder]] — Cole Medin's official intro to Archon, an open-source meta-agent that builds other AI agents.
-- [[summary-build-an-army-of-ai-agents-archon]] — Demo of an "MCP Agent Army": primary agent + 6 specialized sub-agents each owning one MCP server.
-- [[summary-10x-your-ai-agents-parallel-architecture]] — Deep dive on the parallel agent architecture; Travel Planner demo with PydanticAI + LangGraph.
-- [[summary-coding-subagents-mcp-evolution]] — Argument that the next evolution of AI IDEs is generalists delegating to specialized sub-agents over MCP.
-- [[summary-build-your-own-mcp-servers-template]] — Cole's open-source MCP server template using FastMCP, demonstrated with a Mem0 long-term-memory server.
-- [[summary-easiest-strategy-for-accurate-rag]] — Walkthrough of Anthropic's Contextual Retrieval pattern in N8N and Python.
-- [[summary-3-must-have-mcp-servers-for-ai-coding]] — Cole's recommended MCP triad: documentation RAG, database management, web search.
-- [[summary-how-to-learn-ai-agents-roadmap]] — 10-phase roadmap for learning to build AI agents from scratch.
-- [[summary-context-engineering-is-new-vibe-coding]] — Cole introduces Context Engineering as the successor to Vibe Coding; demos Rasmus's PRP framework in Claude Code.
-- [[summary-context-engineering-101]] — Deep dive on the PRP framework with Rasmus as guest; ships an MCP-server use-case template.
-- [[summary-context-engineering-blueprint-for-ai-agents]] — Cole ships a PydanticAI-specific PRP template; builds a Research + Email-Draft agent end-to-end.
-- [[summary-every-rag-strategy-explained]] — 13-minute survey of 11 RAG strategies; recommends reranking + agentic RAG + context-aware chunking.
-- [[summary-agent-harnesses-and-vibe-coding]] — Agent harnesses as the next evolution after context engineering; the two unsolved problems (context rot, compounding errors).
-- [[summary-5-techniques-top-agentic-engineers]] — PRD-first dev, modular rules, commandification, context reset, system evolution.
-- [[summary-second-brain-with-claude-code-obsidian-skills]] — Claude Code + Obsidian + Skills as a personal knowledge/ideation/research engine.
-- [[summary-adversarial-dev-technique]] — GAN-inspired generator/evaluator harness that solves agent sycophancy; built a RAG app one-shot with Sonnet + harness.
-- [[summary-full-guide-ai-second-brain]] — Comprehensive second-brain build: memory layer, skills, heartbeat; the lethal-trifecta security argument.
-- [[summary-self-evolving-memory-karpathy-llm-wiki]] — Karpathy's LLM-Wiki pattern explained (compiler analogy); Cole's self-evolving internal-memory variant. THE source for this vault's architecture.
-- [[summary-harness-engineering]] — Harness engineering defined: the AI layer (6 components) + multi-session orchestration (Ralph loop).
+- [[summary-04 - Introducing Archon - an AI Agent that BUILDS AI Agents]] — Cole Medin's official intro to Archon, an open-source meta-agent that builds other AI agents.
+- [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]] — Demo of an "MCP Agent Army": primary agent + 6 specialized sub-agents each owning one MCP server.
+- [[summary-02 - 10x Your AI Agents with this ONE Agent Architecture]] — Deep dive on the parallel agent architecture; Travel Planner demo with PydanticAI + LangGraph.
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — Argument that the next evolution of AI IDEs is generalists delegating to specialized sub-agents over MCP.
+- [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]] — Cole's open-source MCP server template using FastMCP, demonstrated with a Mem0 long-term-memory server.
+- [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]] — Walkthrough of Anthropic's Contextual Retrieval pattern in N8N and Python.
+- [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — Cole's recommended MCP triad: documentation RAG, database management, web search.
+- [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]] — 10-phase roadmap for learning to build AI agents from scratch.
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]] — Cole introduces Context Engineering as the successor to Vibe Coding; demos Rasmus's PRP framework in Claude Code.
+- [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]] — Deep dive on the PRP framework with Rasmus as guest; ships an MCP-server use-case template.
+- [[summary-20250724 - Build ANY AI Agent with this Context Engineering Blueprint]] — Cole ships a PydanticAI-specific PRP template; builds a Research + Email-Draft agent end-to-end.
+- [[summary-20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff)]] — 13-minute survey of 11 RAG strategies; recommends reranking + agentic RAG + context-aware chunking.
+- [[summary-20251218 - Are Agent Harnesses Bringing Back Vibe Coding]] — Agent harnesses as the next evolution after context engineering; the two unsolved problems (context rot, compounding errors).
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — PRD-first dev, modular rules, commandification, context reset, system evolution.
+- [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — Claude Code + Obsidian + Skills as a personal knowledge/ideation/research engine.
+- [[summary-20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)]] — GAN-inspired generator/evaluator harness that solves agent sycophancy; built a RAG app one-shot with Sonnet + harness.
+- [[summary-20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code]] — Comprehensive second-brain build: memory layer, skills, heartbeat; the lethal-trifecta security argument.
+- [[summary-20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases]] — Karpathy's LLM-Wiki pattern explained (compiler analogy); Cole's self-evolving internal-memory variant. THE source for this vault's architecture.
+- [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]] — Harness engineering defined: the AI layer (6 components) + multi-session orchestration (Ralph loop).
 - [[summary-building-effective-agents]] — (external article) Anthropic's canonical taxonomy of agent architectures; cited across the corpus.
-- [[summary-ai-exploded-in-2025]] — Cole's ~50-item chronological recap of the 2025 AI industry; the timeline behind the corpus.
-- [[summary-kiro-hackathon]] — Announcement of the Dynamous × Kiro AI coding hackathon (Jan 2026); introduces Kiro and its workflow primitives.
-- [[summary-ralph-wiggum-vibe-coding]] — Ralph Wiggum (the Ralph loop) as the ceiling of vibe coding; why a real agent harness is the next step.
-- [[summary-build-skills-for-any-agent]] — Reimplementing Claude Skills / progressive disclosure in any framework (PydanticAI), plus evals and observability.
-- [[summary-full-engineering-team-subagents]] — Extending Anthropic's harness into a full AI engineer with Linear/GitHub/Slack sub-agents via Arcade + the Claude Agent SDK.
-- [[summary-safer-openclaw-alternative]] — OpenClaw's magic and its security failures; cloning its components into a controlled second brain with Claude Code.
-- [[summary-agent-teams-live-build]] — Live brownfield payment build using Claude Code Agent Teams; planning by clarifying questions + autonomous e2e validation.
-- [[summary-is-rag-dead-for-coding]] — Why traditional RAG is dead for code (agentic search) but alive for unstructured data; the structured-vs-unstructured distinction.
-- [[summary-complete-agentic-coding-workflow]] — Cole's dead-simple greenfield framework: AI layer + PRD phases + PIV loops + four golden rules.
-- [[summary-self-healing-e2e-validation]] — The /e2e-test skill: a six-step self-healing validation workflow that drives a browser and DB to test user journeys autonomously.
-- [[summary-beautiful-diagrams-claude-code]] — An Excalidraw diagram skill that teaches the agent to "argue visually" and self-validates by rendering and viewing the image.
-- [[summary-is-software-engineering-dead]] — Why SWE isn't dying: slow enterprise adoption + the prompt→context→intent-engineering evolution of the role.
-- [[summary-2000-hours-claude-code-wisk]] — The WISK framework (Write/Isolate/Select/Compress) for context management, from 2,000+ hours in Claude Code.
-- [[summary-subagent-era]] — The "sub-agent era": cheap fast models (GPT-5.4 Mini/Nano) built for sub-agents; research-only delegation at scale.
-- [[summary-sdk-vs-framework-agents]] — When to build agents on a coding-agent SDK vs a framework; the RAG-evolved-to-agentic-RAG clarification.
-- [[summary-parallel-claude-code-worktrees]] — A five-pillar playbook for parallel agentic development with git worktrees (ports, deps, Neon DB branching).
-- [[summary-principled-agentic-engineer]] — One-hour workshop consolidating the full system: ideate → PIV loop → system evolution; PRD→stories→Jira; inner/outer loops.
-- [[summary-ai-youtube-claude-hype]] — Channel-update: depth over Claude-hype, a live-stream shift, and the Dark Factory autonomy experiment.
-- [[summary-ai-generated-videos-claude-code]] — End-to-end AI video generation with Claude Code + HyperFrames + ElevenLabs, orchestrated by Archon.
-- [[summary-large-codebases-claude-code]] — Anthropic's playbook for Claude Code in large codebases: layered rules, self-improving hooks, LSP, scoped skills.
-- [[summary-claude-plans-gemini-designs]] — A cross-provider workflow: Gemini designs the UI, Opus plans/integrates; session-per-step with handoff docs.
-- [[summary-loop-engineering]] — A skeptical, practical take on "loop engineering" (/loop, /goal, /routines); fold it into harness engineering with durability + HITL.
-- [[summary-build-your-own-crm]] — Brian Casel builds a complete CRM from scratch with Claude Code, demonstrating spec-driven development end to end.
-- [[summary-claude-fable-build-app]] — Brian Casel stress-tests Anthropic's Claude Fable model on a real business tool expansion; model selection as a new skill.
-- [[summary-hermes-vs-claude-cowork]] — Brian Casel argues for platform-agnostic patterns over committing to any single agent platform; runs Hermes + Claude Co-work simultaneously.
-- [[summary-apps-built-with-ai-look-off]] — Brian Casel diagnoses "design drift" in AI-built apps and presents his free Design System skill as the fix.
-- [[summary-dont-need-to-learn-code]] — Brian Casel argues the real skill is becoming a product architect, not coding; demonstrates full PRD planning process.
-- [[summary-night-shift-agents]] — Brian Casel's three-part Night Shift pattern for delegating recurring business tasks to AI agents.
-- [[summary-multitasking-agents-2026]] — Brian Casel's evolution to agent orchestration in 2026: multitasking across features, mobile management, content pipeline.
-- [[summary-where-claude-design-fits]] — Brian Casel evaluates Claude Design: not for production, but useful for marketing assets and visual ideation.
-- [[summary-we-build-fast-but-does-it-work]] — Brian Casel demonstrates Kain AI for end-to-end QA testing by clicking through an app like a real user.
-- [[summary-4-agent-skills-marketing]] — Brian Casel's four agent skills for marketing: radar scan, brand visuals, newsletter writer, newsletter builder.
-- [[summary-skill-ai-cant-replace]] — Brian Casel argues "restraint" is the skill AI can't replace; provides pre-planning framework.
-- [[summary-claude-code-mobile-guide]] — Complete guide to using Claude Code from mobile: remote control, cloud sessions, new projects, power user setup.
-- [[summary-claude-code-changed-recently]] — Three under-the-radar Claude Code features: Auto Plan, Auto Memory, and Voice Mode.
-- [[summary-openclaw-vs-claude-agent-team]] — Brian Casel compares OpenClaw vs Claude for running autonomous agent teams; bets on portable skills.
-- [[summary-create-jobs-openclaw-agents]] — Brian Casel's framework for creating real jobs (not tasks) for OpenClaw agents; three systems needed.
-- [[summary-multi-agent-team-openclaw]] — Brian Casel's complete OpenClaw multi-agent setup: Mac mini, 4 agents, Slack bots, OpenRouter, custom dashboard.
-- [[summary-claude-code-slack-teams-ship]] — Three ideas from Anthropic for extending Claude Code into Slack: prototypes, Q&A, analytics.
-- [[summary-build-marketing-tools-claude-code]] — Colleen Schnettler built her own voice-to-LinkedIn tool in 2 days; Compound Engineering workflow.
-- [[summary-brennan-dunn-ai-developers]] — Brennan Dunn's sub-agent team with Linear integration and Fern Desk auto-documentation.
-- [[summary-agent-os-v3]] — Brian Casel releases Agent OS v3, stripped 70%, focusing on standards discovery and spec shaping.
-- [[summary-arvid-kahl-saas-claude]] — Arvid Kahl's Podscan is 98% Claude-coded; comprehension debt and super delayed TDD.
-- [[summary-claude-code-all-you-need-2026]] — Brian Casel argues vanilla Claude Code handles 90% of work in 2026; frameworks are overkill.
-- [[summary-replacing-n8n-with-claude-skill]] — Brian scrapped a week-long N8N workflow and rebuilt it as a Claude Code skill in 30 minutes.
-- [[summary-design-os]] — Brian Casel releases Design OS: guided design process filling the gap between idea and codebase.
-- [[summary-cursor-visual-editor]] — Brian evaluates Cursor's visual editor: a refinement tool, not a creation tool.
-- [[summary-google-antigravity-review]] — Brian tries Google Antigravity: good ideas, dysfunctional execution.
-- [[summary-opus-vs-gemini-app-build]] — Brian builds the same app with Opus 4.5 and Gemini 3; frontier models are converging.
-- [[summary-ai-skeptic-to-unfair-advantage]] — Five skills giving experienced builders an unfair advantage in the AI era.
+- [[summary-20260101 - AI Exploded in 2025 - Here’s Everything That Happened]] — Cole's ~50-item chronological recap of the 2025 AI industry; the timeline behind the corpus.
+- [[summary-20260105 - The Kiro AI Coding Hackathon has Officially Started! Build ANYTHING, Win Big Prizes]] — Announcement of the Dynamous × Kiro AI coding hackathon (Jan 2026); introduces Kiro and its workflow primitives.
+- [[summary-20260115 - Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next)]] — Ralph Wiggum (the Ralph loop) as the ceiling of vibe coding; why a real agent harness is the next step.
+- [[summary-20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent]] — Reimplementing Claude Skills / progressive disclosure in any framework (PydanticAI), plus evals and observability.
+- [[summary-20260202 - Turn Claude Code into Your Full Engineering Team with Subagents]] — Extending Anthropic's harness into a full AI engineer with Linear/GitHub/Slack sub-agents via Arcade + the Claude Agent SDK.
+- [[summary-20260212 - I Built a Safer OpenClaw Alternative Using Claude Code]] — OpenClaw's magic and its security failures; cloning its components into a controlled second brain with Claude Code.
+- [[summary-20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)]] — Live brownfield payment build using Claude Code Agent Teams; planning by clarifying questions + autonomous e2e validation.
+- [[summary-20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead)]] — Why traditional RAG is dead for code (agentic search) but alive for unstructured data; the structured-vs-unstructured distinction.
+- [[summary-20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)]] — Cole's dead-simple greenfield framework: AI layer + PRD phases + PIV loops + four golden rules.
+- [[summary-20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)]] — The /e2e-test skill: a six-step self-healing validation workflow that drives a browser and DB to test user journeys autonomously.
+- [[summary-20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)]] — An Excalidraw diagram skill that teaches the agent to "argue visually" and self-validates by rendering and viewing the image.
+- [[summary-20260305 - Is Software Engineering Finally Dead]] — Why SWE isn't dying: slow enterprise adoption + the prompt→context→intent-engineering evolution of the role.
+- [[summary-20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It]] — The WISK framework (Write/Isolate/Select/Compress) for context management, from 2,000+ hours in Claude Code.
+- [[summary-20260319 - The Subagent Era Is Officially Here - Learn this Now]] — The "sub-agent era": cheap fast models (GPT-5.4 Mini/Nano) built for sub-agents; research-only delegation at scale.
+- [[summary-20260326 - Everything You Thought About Building AI Agents is Wrong]] — When to build agents on a coding-agent SDK vs a framework; the RAG-evolved-to-agentic-RAG clarification.
+- [[summary-20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship]] — A five-pillar playbook for parallel agentic development with git worktrees (ports, deps, Neon DB branching).
+- [[summary-20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)]] — One-hour workshop consolidating the full system: ideate → PIV loop → system evolution; PRD→stories→Jira; inner/outer loops.
+- [[summary-20260507 - AI YouTube Is Only Claude Hype Now]] — Channel-update: depth over Claude-hype, a live-stream shift, and the Dark Factory autonomy experiment.
+- [[summary-20260514 - Make the PERFECT Videos with Claude Code (Full Workflow)]] — End-to-end AI video generation with Claude Code + HyperFrames + ElevenLabs, orchestrated by Archon.
+- [[summary-20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases)]] — Anthropic's playbook for Claude Code in large codebases: layered rules, self-improving hooks, LSP, scoped skills.
+- [[summary-20260604 - Claude Plans, Gemini Designs： The Workflow to Build BEAUTIFUL Frontends]] — A cross-provider workflow: Gemini designs the UI, Opus plans/integrates; session-per-step with handoff docs.
+- [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]] — A skeptical, practical take on "loop engineering" (/loop, /goal, /routines); fold it into harness engineering with durability + HITL.
+- [[summary-20260622 - How to build your own CRM (start to finish)]] — Brian Casel builds a complete CRM from scratch with Claude Code, demonstrating spec-driven development end to end.
+- [[summary-20260611 - Claude Fable： Build me an app]] — Brian Casel stress-tests Anthropic's Claude Fable model on a real business tool expansion; model selection as a new skill.
+- [[summary-20260609 - Hermes vs. Claude Cowork Wrong Question]] — Brian Casel argues for platform-agnostic patterns over committing to any single agent platform; runs Hermes + Claude Co-work simultaneously.
+- [[summary-20260605 - Why apps built with AI look a little... OFF]] — Brian Casel diagnoses "design drift" in AI-built apps and presents his free Design System skill as the fix.
+- [[summary-20260518 - You don't need to learn to code anymore]] — Brian Casel argues the real skill is becoming a product architect, not coding; demonstrates full PRD planning process.
+- [[summary-20260512 - How I build agents that work the night shift]] — Brian Casel's three-part Night Shift pattern for delegating recurring business tasks to AI agents.
+- [[summary-20260429 - Multitasking With Agents： My 2026 Workflow]] — Brian Casel's evolution to agent orchestration in 2026: multitasking across features, mobile management, content pipeline.
+- [[summary-20260424 - Where Claude Design actually fits]] — Brian Casel evaluates Claude Design: not for production, but useful for marketing assets and visual ideation.
+- [[summary-20260414 - We build fast. But does it work]] — Brian Casel demonstrates Kain AI for end-to-end QA testing by clicking through an app like a real user.
+- [[summary-20260406 - 4 Agent Skills I Use for Marketing]] — Brian Casel's four agent skills for marketing: radar scan, brand visuals, newsletter writer, newsletter builder.
+- [[summary-20260331 - The Skill AI Can't Replace]] — Brian Casel argues "restraint" is the skill AI can't replace; provides pre-planning framework.
+- [[summary-20260326 - Claude Code on Mobile： The Complete Guide]] — Complete guide to using Claude Code from mobile: remote control, cloud sessions, new projects, power user setup.
+- [[summary-20260312 - Claude Code changed recently]] — Three under-the-radar Claude Code features: Auto Plan, Auto Memory, and Voice Mode.
+- [[summary-20260306 - OpenClaw vs. Claude for Running an Agent Team]] — Brian Casel compares OpenClaw vs Claude for running autonomous agent teams; bets on portable skills.
+- [[summary-20260225 - How to create JOBS for OpenClaw agents]] — Brian Casel's framework for creating real jobs (not tasks) for OpenClaw agents; three systems needed.
+- [[summary-20260216 - My Multi-Agent Team with OpenClaw]] — Brian Casel's complete OpenClaw multi-agent setup: Mac mini, 4 agents, Slack bots, OpenRouter, custom dashboard.
+- [[summary-20260209 - Claude Code in Slack changes how teams SHIP]] — Three ideas from Anthropic for extending Claude Code into Slack: prototypes, Q&A, analytics.
+- [[summary-20260203 - Build your own marketing tools with Claude Code]] — Colleen Schnettler built her own voice-to-LinkedIn tool in 2 days; Compound Engineering workflow.
+- [[summary-20260126 - Brennan Dunn’s Team of (AI) Developers]] — Brennan Dunn's sub-agent team with Linear integration and Fern Desk auto-documentation.
+- [[summary-20260122 - Agent OS v3： Leaner & Smarter for Building in 2026]] — Brian Casel releases Agent OS v3, stripped 70%, focusing on standards discovery and spec shaping.
+- [[summary-20260119 - Arvid Kahl’s SaaS is 98% Coded by Claude]] — Arvid Kahl's Podscan is 98% Claude-coded; comprehension debt and super delayed TDD.
+- [[summary-20260114 - Claude Code is all you need in 2026]] — Brian Casel argues vanilla Claude Code handles 90% of work in 2026; frameworks are overkill.
+- [[summary-20260112 - Replacing my n8n workflow with a Claude Code Skill]] — Brian scrapped a week-long N8N workflow and rebuilt it as a Claude Code skill in 30 minutes.
+- [[summary-20251218 - Design OS： The Missing Design Process for AI-First Development]] — Brian Casel releases Design OS: guided design process filling the gap between idea and codebase.
+- [[summary-20251216 - Cursor's New Visual Editor： When It's Useful (And When It's Not)]] — Brian evaluates Cursor's visual editor: a refinement tool, not a creation tool.
+- [[summary-20251208 - I want to like Google Antigravity, but]] — Brian tries Google Antigravity: good ideas, dysfunctional execution.
+- [[summary-20251201 - Claude Opus 4.5 vs. Google Gemini 3： Design & build an app]] — Brian builds the same app with Opus 4.5 and Gemini 3; frontier models are converging.
+- [[summary-20251120 - From AI skeptic to UNFAIR advantage]] — Five skills giving experienced builders an unfair advantage in the AI era.
 
 ## Entities
 
@@ -224,30 +224,30 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[cole-vs-brian-planning-methodologies]] — How Cole Medin's and Brian Casel's planning methodologies compare: PRD-First + PIV Loop vs Spec-Driven + Milestones.
 - [[cole-vs-brian-agent-autonomy]] — How Cole Medin's and Brian Casel's agent autonomy patterns compare: harness engineering + Ralph Loops vs Night Shift + multitasking.
 
-- [[summary-claude-code-vs-cursor-vs-codex]] — Brian Casel compares Claude Code, Cursor, and Codex for cloud-based agent workflows.
-- [[summary-cursor-2-changed-work]] — Brian reviews Cursor 2.0: built-in browser, background agents, mobile access, agent sidebar.
-- [[summary-claude-code-skills-problem]] — Brian explains what problem Claude Code Skills solve: progressive disclosure and context pollution.
-- [[summary-agent-os-v2]] — Brian releases Agent OS v2, expanding spec-driven development to work with any AI tool.
-- [[summary-claude-code-2-features]] — Three Claude Code 2.0 features Brian uses daily: plan mode, skills, sub-agents.
-- [[summary-codex-cli-worth-switch]] — Brian evaluates whether OpenAI's Codex CLI is worth switching to from Claude Code.
-- [[summary-spec-driven-real-world]] — Brian demonstrates spec-driven development applied to a real-world project.
-- [[summary-day-one-claude-code]] — Brian's getting-started guide for Claude Code: installation, plan mode, first build.
-- [[summary-agent-os-v1]] — Brian introduces Agent OS v1, the original spec-driven development framework.
-- [[summary-finding-flow-ai-agents]] — Brian discusses achieving flow state while working with AI coding agents.
-- [[summary-claude-code-memory-problem]] — Brian addresses Claude Code's context limitations and presents milestone-based solutions.
-- [[summary-missing-system-coding-agents]] — Brian identifies the need for documented coding standards; groundwork for Agent OS.
-- [[summary-cursor-keyboard-shortcuts]] — Brian's essential Cursor keyboard shortcuts for staying fast without the mouse.
-- [[summary-claude-code-multitasking]] — Brian demonstrates multitasking with Claude Code using git worktrees.
-- [[summary-case-for-claude-code]] — Brian makes the case for adopting Claude Code as a primary development tool.
-- [[summary-crush-backlog-background-agents]] — Brian uses Cursor's background agents to work through a development backlog.
-- [[summary-vibe-coding-goes-pro]] — Brian explains transitioning from vibe coding to professional building with specs.
-- [[summary-openai-claude-rails-integrations]] — Brian demonstrates integrating OpenAI and Claude APIs into Rails applications.
-- [[summary-adding-search-rails]] — Brian demonstrates adding search functionality to Rails applications.
-- [[summary-saas-billing-rails-stripe]] — Brian builds a complete SaaS billing system with Rails and Stripe.
-- [[summary-build-rails-apps-fast]] — Brian shares his methodology for rapidly building Rails apps with AI assistance.
-- [[summary-ai-isnt-my-replacement]] — Brian argues AI amplifies developers rather than replacing them.
-- [[summary-hard-thing-hard-decisions]] — Brian discusses the difficulty of product decisions when everything is buildable.
-- [[summary-build-products-scratch-itch]] — Brian's philosophy of building products that solve his own problems first.
-- [[summary-linear-manage-saas]] — Brian demonstrates using Linear for project management in SaaS development.
-- [[summary-build-rails-components]] — Brian demonstrates faster Rails development using reusable components.
-- [[summary-vibe-coding-vs-coding-cursor]] — Brian contrasts vibe coding with professional coding in Cursor.
+- [[summary-20251112 - Claude Code vs. Cursor vs. Codex： Cloud Agents Showdown]] — Brian Casel compares Claude Code, Cursor, and Codex for cloud-based agent workflows.
+- [[summary-20251107 - Cursor 2.0 Changed How I Work]] — Brian reviews Cursor 2.0: built-in browser, background agents, mobile access, agent sidebar.
+- [[summary-20251030 - Claude Code Skills： What Problem Do They Solve]] — Brian explains what problem Claude Code Skills solve: progressive disclosure and context pollution.
+- [[summary-20251027 - Agent OS v2： Spec-Driven Development with ANY AI Tool]] — Brian releases Agent OS v2, expanding spec-driven development to work with any AI tool.
+- [[summary-20251010 - 3 New Features in Claude Code 2.0 I use DAILY]] — Three Claude Code 2.0 features Brian uses daily: plan mode, skills, sub-agents.
+- [[summary-20251006 - Is Codex CLI Worth The Switch (from Claude Code)]] — Brian evaluates whether OpenAI's Codex CLI is worth switching to from Claude Code.
+- [[summary-20250924 - Spec-Driven Development in the Real World]] — Brian demonstrates spec-driven development applied to a real-world project.
+- [[summary-20250901 - Day One with Claude Code (Start Here)]] — Brian's getting-started guide for Claude Code: installation, plan mode, first build.
+- [[summary-20250825 - Agent OS： The System for Spec-Driven Development]] — Brian introduces Agent OS v1, the original spec-driven development framework.
+- [[summary-20250818 - Finding FLOW with AI Coding Agents]] — Brian discusses achieving flow state while working with AI coding agents.
+- [[summary-20250806 - Solving Claude Code's (Short-Term) Memory Problem]] — Brian addresses Claude Code's context limitations and presents milestone-based solutions.
+- [[summary-20250721 - The Missing SYSTEM Your Coding Agents Need]] — Brian identifies the need for documented coding standards; groundwork for Agent OS.
+- [[summary-20250715 - Cursor Keyboard Shortcuts for POWER Users]] — Brian's essential Cursor keyboard shortcuts for staying fast without the mouse.
+- [[summary-20250707 - Claude Code Multitasking Made EASY]] — Brian demonstrates multitasking with Claude Code using git worktrees.
+- [[summary-20250623 - The Case for Claude Code]] — Brian makes the case for adopting Claude Code as a primary development tool.
+- [[summary-20250612 - CRUSH Your Backlog With Background Agents in Cursor]] — Brian uses Cursor's background agents to work through a development backlog.
+- [[summary-20250605 - How Vibe Coding Goes PRO]] — Brian explains transitioning from vibe coding to professional building with specs.
+- [[summary-20250603 - Instant OpenAI and Claude Integrations in Your Rails Apps]] — Brian demonstrates integrating OpenAI and Claude APIs into Rails applications.
+- [[summary-20250528 - Adding Search to Any Rails Application]] — Brian demonstrates adding search functionality to Rails applications.
+- [[summary-20250519 - Building a COMPLETE SaaS Billing System w⧸ Rails and Stripe]] — Brian builds a complete SaaS billing system with Rails and Stripe.
+- [[summary-20250514 - How I Build Rails Apps FAST]] — Brian shares his methodology for rapidly building Rails apps with AI assistance.
+- [[summary-20250428 - AI isn't my replacement. It's more]] — Brian argues AI amplifies developers rather than replacing them.
+- [[summary-20250421 - The hard thing about hard decisions]] — Brian discusses the difficulty of product decisions when everything is buildable.
+- [[summary-20250417 - Why I build products that scratch my itch]] — Brian's philosophy of building products that solve his own problems first.
+- [[summary-20250414 - How I use Linear to manage my SaaS]] — Brian demonstrates using Linear for project management in SaaS development.
+- [[summary-20250409 - Build Rails Apps FAST Using Components]] — Brian demonstrates faster Rails development using reusable components.
+- [[summary-20250404 - “Vibe” Coding vs Coding in Cursor]] — Brian contrasts vibe coding with professional coding in Cursor.

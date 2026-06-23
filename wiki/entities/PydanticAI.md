@@ -74,5 +74,5 @@ Per `summary-sdk-vs-framework-agents`, PydanticAI is Cole's go-to **framework** 
 - [[AgentSDKvsFramework]] — PydanticAI as the framework option vs SDKs
 - [[ClaudeAgentSDK]] — the batteries-included alternative
 - [[AgentEvaluation]], [[AgentObservability]] — built-in eval framework + Logfire
-- [[summary-build-skills-for-any-agent]] — skills agent, evals, and Logfire walkthrough
-- [[summary-sdk-vs-framework-agents]] — framework vs SDK decision
+- [[summary-20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent]] — skills agent, evals, and Logfire walkthrough
+- [[summary-20260326 - Everything You Thought About Building AI Agents is Wrong]] — framework vs SDK decision

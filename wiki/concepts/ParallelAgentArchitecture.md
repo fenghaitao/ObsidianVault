@@ -69,4 +69,4 @@ The pedagogical example built across the playlist: info-gatherer (gates on "do w
 - [[Archon]] — production example using this pattern
 - [[Anthropic]] — source of the original "parallelization" / "orchestrator-workers" naming
 - [[summary-building-effective-agents]] — Anthropic article
-- [[summary-10x-your-ai-agents-parallel-architecture]] — primary deep dive
+- [[summary-02 - 10x Your AI Agents with this ONE Agent Architecture]] — primary deep dive

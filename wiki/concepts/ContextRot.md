@@ -87,6 +87,6 @@ Context rot is *why* agent harnesses exist. If an LLM could just keep a 10M-toke
 - [[ModularRulesArchitecture]] — context-bloat avoidance via referencing
 - [[ValidationGates]], [[HumanInTheLoop]] — catch rot-induced mistakes
 - [[ColeMedin]] — articulator of the framing
-- [[summary-agent-harnesses-and-vibe-coding]] — primary source where Cole defines the term
-- [[summary-2000-hours-claude-code-wisk]] — Chroma report, distractors, the WISK response
+- [[summary-20251218 - Are Agent Harnesses Bringing Back Vibe Coding]] — primary source where Cole defines the term
+- [[summary-20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It]] — Chroma report, distractors, the WISK response
 - [[fighting-context-rot]] — synthesis: every technique in the corpus that fights context rot, by layer

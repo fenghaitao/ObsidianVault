@@ -40,4 +40,4 @@ The primary demo throughout the playlist is in Windsurf, but Cursor is mentioned
 - [[ModelContextProtocol]] — integration mechanism
 - [[AICodingAssistant]] — Cursor's category
 - [[SubAgent]] — pattern enabled when Cursor calls Archon
-- [[summary-coding-subagents-mcp-evolution]] — primary context
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — primary context

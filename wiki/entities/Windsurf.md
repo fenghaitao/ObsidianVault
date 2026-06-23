@@ -52,4 +52,4 @@ Windsurf's MCP server config uses the same JSON shape as Claude Desktop and Curs
 - [[Anthropic]] — provides Claude, Windsurf's default LLM
 - [[AICodingAssistant]] — Windsurf's category
 - [[SubAgent]] — pattern enabled when Windsurf calls Archon
-- [[summary-coding-subagents-mcp-evolution]] — primary demo source
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — primary demo source

@@ -24,4 +24,4 @@ Retool is a low-code platform for building and deploying internal tools / dashbo
 - [[Neon]] — the Postgres backend it connects to
 - [[HumanInTheLoop]] — Retool's approval/permission gating
 - [[ColeMedin]] — user
-- [[summary-loop-engineering]] — primary source
+- [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]] — primary source

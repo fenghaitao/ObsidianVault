@@ -12,7 +12,7 @@ last_updated: 2026-06-19
 
 ## Definition
 
-N8N is an open-source, self-hostable workflow automation platform with a visual node-based editor. [[ColeMedin]] uses it as his primary tool for **prototyping AI agents and RAG pipelines** before porting to Python — and recommends it as the starting point in his [[summary-how-to-learn-ai-agents-roadmap]] (Phase 2: no-code prototypes).
+N8N is an open-source, self-hostable workflow automation platform with a visual node-based editor. [[ColeMedin]] uses it as his primary tool for **prototyping AI agents and RAG pipelines** before porting to Python — and recommends it as the starting point in his [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]] (Phase 2: no-code prototypes).
 
 ## Key Information
 

@@ -26,4 +26,4 @@ Zapier is a workflow-automation platform connecting thousands of apps. In [[Cole
 - [[ProgressiveDisclosure]] — why wrapping-as-skill beats mounting-directly
 - [[LethalTrifecta]] — why Cole restricts Zapier to read-only
 - [[ColeMedin]] — user
-- [[summary-second-brain-with-claude-code-obsidian-skills]] — primary source
+- [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — primary source

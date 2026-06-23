@@ -72,5 +72,5 @@ The combination is **cooperative editing**: human and agent are both editors of 
 - [[SecondBrain]] — central pattern using Obsidian as canvas
 - [[KarpathyLLMWiki]] — the pattern Obsidian naturally hosts
 - [[ColeMedin]] — primary advocate in this corpus
-- [[summary-second-brain-with-claude-code-obsidian-skills]] — primary source
-- [[summary-beautiful-diagrams-claude-code]] — Excalidraw plugin as a diagram render target
+- [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — primary source
+- [[summary-20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)]] — Excalidraw plugin as a diagram render target

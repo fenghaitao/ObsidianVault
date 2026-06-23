@@ -57,6 +57,6 @@ Set real environment variables (via a `.env.example` the agent reads) *before* i
 - [[SystemEvolution]] — applied after each loop to improve the system
 - [[ColeMedin]] — articulator
 - [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches
-- [[summary-complete-agentic-coding-workflow]] — primary source
-- [[summary-self-healing-e2e-validation]] — the /e2e-test skill as the validate step
-- [[summary-principled-agentic-engineer]] — inner/outer loop framing; two planning layers
+- [[summary-20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)]] — primary source
+- [[summary-20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)]] — the /e2e-test skill as the validate step
+- [[summary-20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)]] — inner/outer loop framing; two planning layers

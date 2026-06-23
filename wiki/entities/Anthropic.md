@@ -68,6 +68,6 @@ Cole heavily uses Anthropic's Python tooling:
 - [[summary-building-effective-agents]] — Anthropic's article (planned wiki page; concept-level)
 - [[PromptCaching]] — Anthropic feature critical for contextual retrieval cost
 - [[Windsurf]], [[Cursor]] — AI IDEs that ship MCP support and use Claude as their default LLM
-- [[summary-easiest-strategy-for-accurate-rag]] — walkthrough of Anthropic's contextual retrieval article
-- [[summary-build-your-own-mcp-servers-template]] — uses Anthropic's `FastMCP`
-- [[summary-ai-exploded-in-2025]] — 2025 year-in-review; Anthropic's milestones
+- [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]] — walkthrough of Anthropic's contextual retrieval article
+- [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]] — uses Anthropic's `FastMCP`
+- [[summary-20260101 - AI Exploded in 2025 - Here’s Everything That Happened]] — 2025 year-in-review; Anthropic's milestones

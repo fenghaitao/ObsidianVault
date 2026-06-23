@@ -37,7 +37,7 @@ Cole's framing: with traditional automations, the inputs and outputs were typed.
 
 ### Where guardrails sit in the stack
 
-In Cole's [[summary-how-to-learn-ai-agents-roadmap]], guardrails appear in **Phase 5 (advanced architecture)** — after you've built coded agents but before deploying. Cole's framing: prototype agents don't need guardrails; production agents *cannot ship* without them.
+In Cole's [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]], guardrails appear in **Phase 5 (advanced architecture)** — after you've built coded agents but before deploying. Cole's framing: prototype agents don't need guardrails; production agents *cannot ship* without them.
 
 ### Connection to [[AgentObservability]] and [[AgentEvaluation]]
 
@@ -52,4 +52,4 @@ In Cole's [[summary-how-to-learn-ai-agents-roadmap]], guardrails appear in **Pha
 - [[AgentObservability]] — surfaces guardrail activity
 - [[StructuredOutputs]] — one form of output guardrail
 - [[ColeMedin]] — author of the framing here
-- [[summary-how-to-learn-ai-agents-roadmap]] — primary source (phase 5)
+- [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]] — primary source (phase 5)

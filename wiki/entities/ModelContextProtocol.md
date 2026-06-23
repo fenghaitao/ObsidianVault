@@ -52,7 +52,7 @@ PydanticAI's `mcp_servers=[...]` parameter on an agent connects it directly to o
 
 ### Building your own MCP server
 
-Cole's published template (covered in [[summary-build-your-own-mcp-servers-template]]) using `FastMCP` from Anthropic's Python SDK. Three structural pieces every well-built server has:
+Cole's published template (covered in [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]]) using `FastMCP` from Anthropic's Python SDK. Three structural pieces every well-built server has:
 
 1. **Lifespan management** — initialize shared resources (DB clients, vector store connections, [[Mem0]] clients) **once** at startup, expose them via context to every tool call. Many existing MCP servers in the wild miss this and re-initialize per call.
 2. **`FastMCP` instance + `@mcp.tool` decorators** — minimal boilerplate, the function docstring becomes the tool description sent to the LLM.
@@ -62,7 +62,7 @@ Cole's published template (covered in [[summary-build-your-own-mcp-servers-templ
 
 ### Cole's "3 must-have MCP servers" for AI coding
 
-From [[summary-3-must-have-mcp-servers-for-ai-coding]] — Cole's recommended slot fillers:
+From [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — Cole's recommended slot fillers:
 
 | Slot | Recommended | Purpose |
 |---|---|---|
@@ -83,7 +83,7 @@ Pairs commonly used together: **Crawl4AIRAG + Brave** — query private docs fir
 - [[Mem0]] — long-term-memory library Cole's MCP template uses as its example
 - [[SubAgent]] — pattern often realized via MCP
 - [[ToolUse]] — what MCP standardizes
-- [[summary-coding-subagents-mcp-evolution]] — MCP-as-sub-agent thesis
-- [[summary-build-an-army-of-ai-agents-archon]] — MCP Agent Army demo
-- [[summary-build-your-own-mcp-servers-template]] — building your own MCP server with best practices
-- [[summary-3-must-have-mcp-servers-for-ai-coding]] — recommended MCP server triad for AI coding
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — MCP-as-sub-agent thesis
+- [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]] — MCP Agent Army demo
+- [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]] — building your own MCP server with best practices
+- [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — recommended MCP server triad for AI coding

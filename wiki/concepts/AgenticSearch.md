@@ -47,5 +47,5 @@ Give an agent **both** modes and let it choose *what* and *how* to search per qu
 - [[ClaudeCode]] — moved from vector RAG to agentic search
 - [[ColeMedin]] — articulator
 - [[Archon]] — its RAG-for-coding purpose is what agentic search displaces
-- [[summary-is-rag-dead-for-coding]] — primary source
+- [[summary-20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead)]] — primary source
 - [[cole-medin-rag-playbook]] — the broader RAG playbook

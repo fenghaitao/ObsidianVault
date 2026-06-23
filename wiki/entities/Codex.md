@@ -48,5 +48,5 @@ Per `summary-subagent-era`, Codex is a first-class place to run sub-agents with 
 - [[AdversarialDev]] — Cole built Codex and Claude versions; cross-model mixing
 - [[AILayer]] — what you build on top of Codex
 - [[ColeMedin]] — uses Codex as the standard Claude Code alternative
-- [[summary-adversarial-dev-technique]], [[summary-harness-engineering]] — primary sources
-- [[summary-subagent-era]] — Codex + GPT-5.4 Mini sub-agents
+- [[summary-20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)]], [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]] — primary sources
+- [[summary-20260319 - The Subagent Era Is Officially Here - Learn this Now]] — Codex + GPT-5.4 Mini sub-agents

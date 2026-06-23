@@ -53,4 +53,4 @@ Loop engineering is essentially the **multi-session orchestration** layer of [[H
 - [[ClaudeCode]] — `/loop`, `/goal`, `/routines`
 - [[Pi]], [[Retool]] — dashboard drive + deployment
 - [[ColeMedin]] — articulator (skeptic)
-- [[summary-loop-engineering]] — primary source
+- [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]] — primary source

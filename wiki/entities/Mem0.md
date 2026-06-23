@@ -54,5 +54,5 @@ This is essentially the same problem the [[KarpathyLLMWiki]] pattern solves at t
 - [[ModelContextProtocol]] — protocol Mem0's MCP servers use
 - [[ColeMedin]] — built the alternative MCP server
 - [[Supabase]] — Cole's vector store backing the example
-- [[summary-build-your-own-mcp-servers-template]] — primary source
+- [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]] — primary source
 - [[AIAgent]] — what mem0 augments

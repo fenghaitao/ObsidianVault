@@ -109,10 +109,10 @@ A sub-agent's docstring (or, more generally, the description registered with the
 - [[AgentHarness]] — sub-agents as a service tool belt with context isolation
 - [[AgentTeams]] — communicating sub-agents (the 2026 evolution)
 - [[ClaudeAgentSDK]] — defines sub-agents (incl. per-agent model) in code
-- [[summary-build-an-army-of-ai-agents-archon]] — MCP Agent Army demo
-- [[summary-coding-subagents-mcp-evolution]] — MCP-as-sub-agent thesis
-- [[summary-full-engineering-team-subagents]] — sub-agents as a harness tool belt
-- [[summary-agent-teams-live-build]] — Agent Teams, the communicating evolution
-- [[summary-self-healing-e2e-validation]] — three parallel research sub-agents in practice
-- [[summary-2000-hours-claude-code-wisk]] — sub-agent isolation + the scout pattern (WISK "Isolate")
-- [[summary-subagent-era]] — the sub-agent era: cheap models, built-in everywhere, sidecar pattern
+- [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]] — MCP Agent Army demo
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — MCP-as-sub-agent thesis
+- [[summary-20260202 - Turn Claude Code into Your Full Engineering Team with Subagents]] — sub-agents as a harness tool belt
+- [[summary-20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)]] — Agent Teams, the communicating evolution
+- [[summary-20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)]] — three parallel research sub-agents in practice
+- [[summary-20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It]] — sub-agent isolation + the scout pattern (WISK "Isolate")
+- [[summary-20260319 - The Subagent Era Is Officially Here - Learn this Now]] — the sub-agent era: cheap models, built-in everywhere, sidecar pattern

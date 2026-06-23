@@ -116,8 +116,8 @@ Same idea, central to both.
 - [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]] — companion techniques
 - [[ValidationGates]] — surfaces the failures that drive evolution
 - [[AgentEvaluation]] — adjacent practice (evaluates the agent; System Evolution evaluates the *system*)
-- [[summary-5-techniques-top-agentic-engineers]] — primary source
-- [[summary-harness-engineering]] — the mindset framing
-- [[summary-complete-agentic-coding-workflow]] — parallel evolution of code/test/AI layer; git as memory
-- [[summary-parallel-claude-code-worktrees]] — the "self-healing layer" (pillar 5) in parallel dev
-- [[summary-principled-agentic-engineer]] — the outer loop; version-controlled AI-layer artifacts
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — primary source
+- [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]] — the mindset framing
+- [[summary-20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)]] — parallel evolution of code/test/AI layer; git as memory
+- [[summary-20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship]] — the "self-healing layer" (pillar 5) in parallel dev
+- [[summary-20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)]] — the outer loop; version-controlled AI-layer artifacts

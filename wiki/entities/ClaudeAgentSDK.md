@@ -45,6 +45,6 @@ Plus the **cost/ToS constraint**: subscriptions are licensed only when *you alon
 - [[OpenClaw]] — contrast: direct SDK use is ToS-compliant where subscription+OpenClaw is not
 - [[AgentSDKvsFramework]] — when to choose this SDK vs a framework
 - [[PydanticAI]] — the framework alternative for production scale
-- [[summary-full-engineering-team-subagents]] — primary source
-- [[summary-safer-openclaw-alternative]] — heartbeat / proactive use
-- [[summary-sdk-vs-framework-agents]] — SDK strengths, limitations, and the decision
+- [[summary-20260202 - Turn Claude Code into Your Full Engineering Team with Subagents]] — primary source
+- [[summary-20260212 - I Built a Safer OpenClaw Alternative Using Claude Code]] — heartbeat / proactive use
+- [[summary-20260326 - Everything You Thought About Building AI Agents is Wrong]] — SDK strengths, limitations, and the decision

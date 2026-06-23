@@ -51,4 +51,4 @@ Spend lots of tokens where they're cheap (UI on Gemini Flash) and reserve the ex
 - [[AdversarialDev]] — cross-model critique (sibling use of model diversity)
 - [[ContextRot]] — why one focused task per session
 - [[ColeMedin]] — articulator
-- [[summary-claude-plans-gemini-designs]] — primary source
+- [[summary-20260604 - Claude Plans, Gemini Designs： The Workflow to Build BEAUTIFUL Frontends]] — primary source

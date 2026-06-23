@@ -65,5 +65,5 @@ Cole isn't anti-generalist. He uses Windsurf throughout the playlist as his prim
 - [[PRPFramework]] — Cole's preferred concrete context-engineering toolkit
 - [[VibeCoding]] — the foil paradigm for ad-hoc AI coding
 - [[ColeMedin]] — author of the generalist-vs-specialist framing
-- [[summary-coding-subagents-mcp-evolution]] — primary source for sub-agent thesis
-- [[summary-context-engineering-is-new-vibe-coding]] — Claude Code era begins
+- [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — primary source for sub-agent thesis
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]] — Claude Code era begins

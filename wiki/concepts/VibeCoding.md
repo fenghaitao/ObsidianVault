@@ -72,6 +72,6 @@ The harness-era version isn't trust-the-LLM-blindly. It's trust-a-heavily-engine
 - [[AndrejKarpathy]] — coiner of the term
 - [[ColeMedin]] — author of the Cole-side framing in this corpus
 - [[AICodingAssistant]] — what vibe coding is done with
-- [[summary-context-engineering-is-new-vibe-coding]] — primary source for this framing
-- [[summary-agent-harnesses-and-vibe-coding]] — the harness-era reframe
-- [[summary-ralph-wiggum-vibe-coding]] — Ralph as the ceiling of vibe coding
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]] — primary source for this framing
+- [[summary-20251218 - Are Agent Harnesses Bringing Back Vibe Coding]] — the harness-era reframe
+- [[summary-20260115 - Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next)]] — Ralph as the ceiling of vibe coding

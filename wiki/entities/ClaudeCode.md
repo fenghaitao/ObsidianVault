@@ -92,12 +92,12 @@ By January 2026 Cole uses Claude Code for non-coding knowledge work. A coding ag
 - [[Commandification]], [[ModularRulesArchitecture]], [[ContextReset]], [[SystemEvolution]] — disciplines that shape Claude Code projects
 - [[AICodingAssistant]] — Claude Code's category (the agentic-default end of the spectrum)
 - [[Cursor]], [[Windsurf]] — interactive-first counterparts
-- [[summary-context-engineering-is-new-vibe-coding]], [[summary-context-engineering-101]], [[summary-context-engineering-blueprint-for-ai-agents]] — Context Engineering trilogy
-- [[summary-5-techniques-top-agentic-engineers]] — agentic engineering on Claude Code
-- [[summary-second-brain-with-claude-code-obsidian-skills]] — non-coding use case
-- [[summary-agent-harnesses-and-vibe-coding]] — Claude Code as harness substrate
-- [[summary-ai-exploded-in-2025]] — $1B revenue, Bun acquisition, Claude Code for web
-- [[summary-is-rag-dead-for-coding]] — Claude Code's move from vector RAG to agentic search
-- [[summary-is-software-engineering-dead]] — Boris Cherny's "coding largely solved" nuance
-- [[summary-parallel-claude-code-worktrees]] — native worktrees, /model, Codex plugin for parallel dev
-- [[summary-loop-engineering]] — /loop, /goal, /routines and the loop-engineering critique
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]], [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]], [[summary-20250724 - Build ANY AI Agent with this Context Engineering Blueprint]] — Context Engineering trilogy
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — agentic engineering on Claude Code
+- [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — non-coding use case
+- [[summary-20251218 - Are Agent Harnesses Bringing Back Vibe Coding]] — Claude Code as harness substrate
+- [[summary-20260101 - AI Exploded in 2025 - Here’s Everything That Happened]] — $1B revenue, Bun acquisition, Claude Code for web
+- [[summary-20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead)]] — Claude Code's move from vector RAG to agentic search
+- [[summary-20260305 - Is Software Engineering Finally Dead]] — Boris Cherny's "coding largely solved" nuance
+- [[summary-20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship]] — native worktrees, /model, Codex plugin for parallel dev
+- [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]] — /loop, /goal, /routines and the loop-engineering critique

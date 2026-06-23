@@ -102,9 +102,9 @@ This vault uses Claude Skills extensively — see `.claude/skills/{ingest,query,
 - [[ModelContextProtocol]] — alternative-and-counterpoint capability surface
 - [[Commandification]] — adjacent `.claude/` pattern
 - [[ColeMedin]] — popularizer in this corpus
-- [[summary-second-brain-with-claude-code-obsidian-skills]] — primary source
-- [[summary-ai-exploded-in-2025]] — Oct 2025 release; the emerging 2026 paradigm
-- [[summary-build-skills-for-any-agent]] — reimplementing skills in any framework
-- [[summary-agent-teams-live-build]] — SaaS platforms shipping integration skills
-- [[summary-beautiful-diagrams-claude-code]] — the Excalidraw diagram skill (visual self-validation)
-- [[summary-ai-generated-videos-claude-code]] — a video-generation skill (HyperFrames pipeline)
+- [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — primary source
+- [[summary-20260101 - AI Exploded in 2025 - Here’s Everything That Happened]] — Oct 2025 release; the emerging 2026 paradigm
+- [[summary-20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent]] — reimplementing skills in any framework
+- [[summary-20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)]] — SaaS platforms shipping integration skills
+- [[summary-20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)]] — the Excalidraw diagram skill (visual self-validation)
+- [[summary-20260514 - Make the PERFECT Videos with Claude Code (Full Workflow)]] — a video-generation skill (HyperFrames pipeline)

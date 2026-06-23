@@ -24,4 +24,4 @@ HyperFrames is an AI video-rendering tool that lets [[ClaudeCode]] (via a skill)
 - [[Archon]] — the workflow engine orchestrating the video pipeline
 - [[ClaudeSkills]] — the video workflow is delivered as a skill
 - [[ColeMedin]] — built the open-source video pipeline around it
-- [[summary-ai-generated-videos-claude-code]] — primary source
+- [[summary-20260514 - Make the PERFECT Videos with Claude Code (Full Workflow)]] — primary source

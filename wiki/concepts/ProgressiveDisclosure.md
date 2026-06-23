@@ -77,5 +77,5 @@ Skills invert this: the skill's existence is signaled by a 1-line description; t
 - [[ColeMedin]] — articulator in this corpus
 - [[Anthropic]] — Skills inventor
 - [[PydanticAI]] — framework used to reimplement progressive disclosure from scratch
-- [[summary-second-brain-with-claude-code-obsidian-skills]] — primary source
-- [[summary-build-skills-for-any-agent]] — universal from-scratch implementation
+- [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — primary source
+- [[summary-20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent]] — universal from-scratch implementation

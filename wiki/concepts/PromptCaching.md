@@ -55,4 +55,4 @@ Cole's primary citation is in the [[ContextualRetrieval]] walkthrough (`summary-
 - [[RetrievalAugmentedGeneration]] — broader context
 - [[Anthropic]], [[OpenAI]] — providers with the feature
 - [[ColeMedin]] — articulator in this corpus
-- [[summary-easiest-strategy-for-accurate-rag]] — primary source
+- [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]] — primary source

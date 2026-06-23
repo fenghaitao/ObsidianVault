@@ -27,4 +27,4 @@ Reranking is a two-step [[RetrievalAugmentedGeneration]] strategy: first pull a 
 - [[HybridSearch]] — complementary (hybrid retrieves broadly, reranking reorders)
 - [[ContextRot]] — what reranking avoids (don't dump 50 chunks on the LLM)
 - [[ColeMedin]] — advocate
-- [[summary-every-rag-strategy-explained]] — primary source
+- [[summary-20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff)]] — primary source

@@ -77,5 +77,5 @@ These appear in Cole's [[SecondBrain]] architecture, reimplemented on his own co
 - [[Obsidian]] — canvas of the alternative
 - [[N8N]] — OpenClaw surpassed its GitHub star count
 - [[ColeMedin]] — the inspiration-not-execution stance
-- [[summary-full-guide-ai-second-brain]] — primary source
-- [[summary-safer-openclaw-alternative]] — security deep dive + clone-and-rebuild method
+- [[summary-20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code]] — primary source
+- [[summary-20260212 - I Built a Safer OpenClaw Alternative Using Claude Code]] — security deep dive + clone-and-rebuild method

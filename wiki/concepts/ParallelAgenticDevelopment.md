@@ -52,4 +52,4 @@ A `w.sh` / `w.ps1` script bundles worktree creation + dependency install + Neon 
 - [[Archon]] — harness builder with worktree support
 - [[PIVLoop]] — the per-worktree build process
 - [[ColeMedin]] — articulator
-- [[summary-parallel-claude-code-worktrees]] — primary source
+- [[summary-20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship]] — primary source

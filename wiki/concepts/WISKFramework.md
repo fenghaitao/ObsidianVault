@@ -50,5 +50,5 @@ A 4-layer context model — load a piece only if you're confident it's needed no
 - [[ContextEngineering]] — the discipline WISK operationalizes
 - [[ColeMedin]] — articulator
 - [[fighting-context-rot]] — synthesis this framework anchors
-- [[summary-2000-hours-claude-code-wisk]] — primary source
-- [[summary-subagent-era]] — the "Isolate" pillar at industry scale (cheap sub-agent models)
+- [[summary-20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It]] — primary source
+- [[summary-20260319 - The Subagent Era Is Officially Here - Learn this Now]] — the "Isolate" pillar at industry scale (cheap sub-agent models)

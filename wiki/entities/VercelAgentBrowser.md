@@ -29,5 +29,5 @@ Per `summary-self-healing-e2e-validation`, within each user journey the agent ru
 - [[ClaudeCode]] — the agent that drives it
 - [[AgentTeams]] — implementation by a team, validation by this tool
 - [[ColeMedin]] — advocate
-- [[summary-agent-teams-live-build]] — primary source
-- [[summary-self-healing-e2e-validation]] — the /e2e-test skill built on this CLI
+- [[summary-20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)]] — primary source
+- [[summary-20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)]] — the /e2e-test skill built on this CLI

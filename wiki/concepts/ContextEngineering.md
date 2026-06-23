@@ -90,8 +90,8 @@ project/
 - [[CapabilitiesOverTools]] — Cole frames Context Engineering as the "capability" version of various tool-specific skills
 - [[ValidationGates]] — sub-pattern
 - [[AICodingAssistant]] — what context engineering is *for*
-- [[summary-context-engineering-is-new-vibe-coding]] — intro
-- [[summary-context-engineering-101]] — deeper dive with Rasmus
-- [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI use-case template
-- [[summary-is-software-engineering-dead]] — the prompt→context→intent evolution
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]] — intro
+- [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]] — deeper dive with Rasmus
+- [[summary-20250724 - Build ANY AI Agent with this Context Engineering Blueprint]] — PydanticAI use-case template
+- [[summary-20260305 - Is Software Engineering Finally Dead]] — the prompt→context→intent evolution
 - [[evolution-vibe-coding-to-harness-engineering]] — synthesis: where Context Engineering sits in the paradigm timeline

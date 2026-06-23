@@ -42,4 +42,4 @@ Per `summary-is-software-engineering-dead`, the prompt→context→intent progre
 - [[PRPFramework]] — clarifying-questions planning serves intent alignment
 - [[VibeCoding]] — the opposite end of the spectrum
 - [[ColeMedin]] — articulator in this corpus
-- [[summary-is-software-engineering-dead]] — primary source
+- [[summary-20260305 - Is Software Engineering Finally Dead]] — primary source

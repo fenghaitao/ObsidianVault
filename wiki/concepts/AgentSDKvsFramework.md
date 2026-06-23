@@ -48,4 +48,4 @@ Two forces push deployed, multi-user agents to frameworks: **cost** (SDK token-h
 - [[Codex]] — its SDK is the other batteries-included choice
 - [[RetrievalAugmentedGeneration]] — the RAG decision that accompanies this one
 - [[ColeMedin]] — articulator
-- [[summary-sdk-vs-framework-agents]] — primary source
+- [[summary-20260326 - Everything You Thought About Building AI Agents is Wrong]] — primary source

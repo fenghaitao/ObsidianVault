@@ -81,6 +81,6 @@ A typical project has one PRD that survives the project's lifetime, and dozens o
 - [[ColeMedin]] — author
 - [[PIVLoop]] — each PRD phase is executed as one PIV loop
 - [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches
-- [[summary-5-techniques-top-agentic-engineers]] — primary source
-- [[summary-complete-agentic-coding-workflow]] — the PRD creation flow in practice
-- [[summary-principled-agentic-engineer]] — PRD→stories→Jira; the PM planning role
+- [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — primary source
+- [[summary-20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)]] — the PRD creation flow in practice
+- [[summary-20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)]] — PRD→stories→Jira; the PM planning role

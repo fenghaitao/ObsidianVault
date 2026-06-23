@@ -51,4 +51,4 @@ Anthropic's adoption advice: assign a small team to **champion the initial AI-la
 - [[SystemEvolution]] — what the self-improving stop hook automates
 - [[ContextRot]] — why all of this (lean, scoped context) matters
 - [[Anthropic]], [[ColeMedin]] — source + demonstrator
-- [[summary-large-codebases-claude-code]] — primary source
+- [[summary-20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases)]] — primary source

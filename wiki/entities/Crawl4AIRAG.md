@@ -39,7 +39,7 @@ Cole has stated [[Archon]] (his AI-agent-builder) will integrate Crawl4AI-RAG as
 
 ### Role in Cole's "3 MCP" stack
 
-In [[summary-3-must-have-mcp-servers-for-ai-coding]], Cole's recommended MCP server triad:
+In [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]], Cole's recommended MCP server triad:
 
 | Slot | Cole's pick |
 |---|---|
@@ -62,5 +62,5 @@ The pairing of Crawl4AI-RAG (curated, deep) + Brave (web, broad) is Cole's stand
 - [[Supabase]] — vector store
 - [[Archon]] — planned integration
 - [[Cursor]], [[Windsurf]] — primary client surfaces
-- [[summary-easiest-strategy-for-accurate-rag]] — feature deep-dive
-- [[summary-3-must-have-mcp-servers-for-ai-coding]] — recommendation context
+- [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]] — feature deep-dive
+- [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — recommendation context

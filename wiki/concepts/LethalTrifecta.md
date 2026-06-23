@@ -63,5 +63,5 @@ The trifecta applies to *any* agent, not just second brains. Whenever you're des
 - [[Guardrails]] — input/output validation that limits the pillars
 - [[AIAgent]] — the general subject
 - [[ColeMedin]] — applies the model in this corpus
-- [[summary-full-guide-ai-second-brain]] — primary source
-- [[summary-safer-openclaw-alternative]] — OpenClaw's concrete vulnerabilities as evidence
+- [[summary-20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code]] — primary source
+- [[summary-20260212 - I Built a Safer OpenClaw Alternative Using Claude Code]] — OpenClaw's concrete vulnerabilities as evidence

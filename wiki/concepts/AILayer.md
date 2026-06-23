@@ -97,6 +97,6 @@ Like all of [[ColeMedin]]'s patterns, the AI layer is mostly **markdown** (rules
 - [[PIVLoop]] — the per-phase loop the AI layer is set up to run
 - [[LargeCodebaseStrategies]] — configuring the AI layer for scale (+LSP, layered rules, self-improving hooks)
 - [[ProgressiveDisclosure]] — the reference-folder / on-demand-context pattern
-- [[summary-harness-engineering]] — primary source
-- [[summary-complete-agentic-coding-workflow]] — the AI layer as a greenfield starter
-- [[summary-large-codebases-claude-code]] — the AI layer for large codebases (7 components, LSP)
+- [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]] — primary source
+- [[summary-20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)]] — the AI layer as a greenfield starter
+- [[summary-20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases)]] — the AI layer for large codebases (7 components, LSP)

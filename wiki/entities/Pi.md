@@ -24,4 +24,4 @@ Pi is a coding-agent harness (CLI) that [[ColeMedin]] uses as a provider-flexibl
 - [[CrossProviderWorkflow]] — where Pi runs the non-Claude nodes
 - [[ClaudeSkills]] — Pi invokes skills like Claude Code does
 - [[ColeMedin]] — user
-- [[summary-claude-plans-gemini-designs]] — primary source
+- [[summary-20260604 - Claude Plans, Gemini Designs： The Workflow to Build BEAUTIFUL Frontends]] — primary source

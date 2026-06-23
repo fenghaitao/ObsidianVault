@@ -19,7 +19,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - `raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/03 - Coding Subagents - The Next Evolution of AI IDEs.md`
   - `raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md`
 - **Changes**:
-  - Created sources: [[summary-introducing-archon-ai-agent-builder]], [[summary-build-an-army-of-ai-agents-archon]], [[summary-10x-your-ai-agents-parallel-architecture]], [[summary-coding-subagents-mcp-evolution]]
+  - Created sources: [[summary-04 - Introducing Archon - an AI Agent that BUILDS AI Agents]], [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]], [[summary-02 - 10x Your AI Agents with this ONE Agent Architecture]], [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]]
   - Created entities: [[Archon]], [[ColeMedin]], [[PydanticAI]], [[LangGraph]], [[LangChain]], [[ModelContextProtocol]], [[Anthropic]], [[OpenAI]], [[Windsurf]], [[Cursor]], [[Supabase]], [[Streamlit]]
   - Created concepts: [[AIAgent]], [[AgenticWorkflow]], [[SubAgent]], [[ParallelAgentArchitecture]], [[MetaAgent]], [[RetrievalAugmentedGeneration]], [[HumanInTheLoop]], [[ToolUse]], [[AICodingAssistant]], [[StructuredOutputs]]
   - Updated [[index.md]] (registered all 26 new pages)
@@ -38,7 +38,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - `raw/03-transcripts/Cole Medin/Channel Only/20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them).md`
   - `raw/03-transcripts/Cole Medin/Channel Only/20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap).md`
 - **Changes**:
-  - Created sources: [[summary-build-your-own-mcp-servers-template]], [[summary-easiest-strategy-for-accurate-rag]], [[summary-3-must-have-mcp-servers-for-ai-coding]], [[summary-how-to-learn-ai-agents-roadmap]]
+  - Created sources: [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]], [[summary-20250508 - The EASIEST Possible Strategy for Accurate RAG (Step by Step Guide)]], [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]], [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]]
   - Created entities: [[N8N]], [[Mem0]], [[Crawl4AIRAG]]
   - Created concepts: [[ContextualRetrieval]], [[CapabilitiesOverTools]], [[AgentEvaluation]], [[AgentObservability]], [[Guardrails]]
   - Updated entities: [[ModelContextProtocol]] (build-your-own + 3-must-have sections), [[ColeMedin]] (Crawl4AIRAG, Mem0, Dynamis course, expanded philosophy), [[Anthropic]] (Contextual Retrieval article + FastMCP), [[Archon]] (planned Crawl4AIRAG integration)
@@ -58,7 +58,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - `raw/03-transcripts/Cole Medin/Channel Only/20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding.md`
   - `raw/03-transcripts/Cole Medin/Channel Only/20250724 - Build ANY AI Agent with this Context Engineering Blueprint.md`
 - **Changes**:
-  - Created sources: [[summary-context-engineering-is-new-vibe-coding]], [[summary-context-engineering-101]], [[summary-context-engineering-blueprint-for-ai-agents]]
+  - Created sources: [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]], [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]], [[summary-20250724 - Build ANY AI Agent with this Context Engineering Blueprint]]
   - Created entities: [[ClaudeCode]], [[AndrejKarpathy]], [[Rasmus]]
   - Created concepts: [[ContextEngineering]], [[VibeCoding]], [[PRPFramework]], [[ValidationGates]]
   - Updated entities: [[ColeMedin]] (mid-2025 shift to Claude Code, Context Engineering frame, Rasmus collaboration)
@@ -78,7 +78,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - `raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md`
   - `raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md`
 - **Changes**:
-  - Created sources: [[summary-every-rag-strategy-explained]], [[summary-agent-harnesses-and-vibe-coding]], [[summary-5-techniques-top-agentic-engineers]], [[summary-second-brain-with-claude-code-obsidian-skills]]
+  - Created sources: [[summary-20251103 - Every RAG Strategy Explained in 13 Minutes (No Fluff)]], [[summary-20251218 - Are Agent Harnesses Bringing Back Vibe Coding]], [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]], [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]]
   - Created entities: [[ClaudeSkills]], [[Obsidian]]
   - Created concepts: [[AgentHarness]], [[ContextRot]], [[SecondBrain]], [[SystemEvolution]], [[AgenticEngineering]], [[PRDFirstDevelopment]], [[ModularRulesArchitecture]], [[Commandification]], [[ContextReset]], [[ProgressiveDisclosure]], [[KarpathyLLMWiki]]
   - Updated concepts: [[RetrievalAugmentedGeneration]] (11-strategy survey), [[VibeCoding]] (harness-era reframe)
@@ -98,7 +98,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - `raw/03-transcripts/Cole Medin/Channel Only/20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases.md`
   - `raw/03-transcripts/Cole Medin/Channel Only/20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now.md`
 - **Changes**:
-  - Created sources: [[summary-adversarial-dev-technique]], [[summary-full-guide-ai-second-brain]], [[summary-self-evolving-memory-karpathy-llm-wiki]], [[summary-harness-engineering]]
+  - Created sources: [[summary-20260330 - Coding Agent Reliability EXPLODES When They Argue (New Adversarial Dev Technique)]], [[summary-20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code]], [[summary-20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases]], [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]]
   - Created entities: [[Codex]], [[OpenClaw]]
   - Created concepts: [[HarnessEngineering]], [[AILayer]], [[AdversarialDev]], [[Sycophancy]], [[RalphLoop]], [[LethalTrifecta]]
   - **Major expansion**: [[KarpathyLLMWiki]] — promoted from batch-B stub to full page. The `20260406` video is its canonical source and describes THIS vault's exact architecture (raw → compiler → wiki → lint → query). Added the compiler analogy, Cole's self-evolving internal-memory variant, the compounding loop, and a section mapping the pattern to this vault's implementation.
@@ -122,92 +122,92 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Notes**: First population of wiki/syntheses/ — demonstrates the query→synthesize→file-back compounding loop. All four are analytical/comparative spanning 4+ pages each, so all met the save-worthy threshold. User pre-approved saving all four.
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 1/11: AI Exploded in 2025
-- **Changes**: created [[summary-ai-exploded-in-2025]]; updated [[Anthropic]] (2025 milestones), [[ClaudeCode]] ($1B revenue, Bun, Claude Code for web), [[ClaudeSkills]] (Oct 2025 release timeline), updated [[index.md]]
+- **Changes**: created [[summary-20260101 - AI Exploded in 2025 - Here’s Everything That Happened]]; updated [[Anthropic]] (2025 milestones), [[ClaudeCode]] ($1B revenue, Bun, Claude Code for web), [[ClaudeSkills]] (Oct 2025 release timeline), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 2/11: Kiro Hackathon announcement
-- **Changes**: created [[summary-kiro-hackathon]], created [[Kiro]]; updated [[AICodingAssistant]] (linked Kiro), updated [[index.md]]
+- **Changes**: created [[summary-20260105 - The Kiro AI Coding Hackathon has Officially Started! Build ANYTHING, Win Big Prizes]], created [[Kiro]]; updated [[AICodingAssistant]] (linked Kiro), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 3/11: Ralph Wiggum / final evolution of vibe coding
-- **Changes**: created [[summary-ralph-wiggum-vibe-coding]]; updated [[RalphLoop]] (plugin mechanics, use cases, failure modes, PRP+Ralph, Model T), [[VibeCoding]] (Ralph as ceiling), [[AgentHarness]] (Ralph as most basic harness), updated [[index.md]]
+- **Changes**: created [[summary-20260115 - Ralph Wiggum is the Final Evolution of Vibe Coding (Here's What Comes Next)]]; updated [[RalphLoop]] (plugin mechanics, use cases, failure modes, PRP+Ralph, Model T), [[VibeCoding]] (Ralph as ceiling), [[AgentHarness]] (Ralph as most basic harness), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 4/11: Claude Skills for ANY Agent
-- **Changes**: created [[summary-build-skills-for-any-agent]]; updated [[ClaudeSkills]] (universal impl + skill creator), [[ProgressiveDisclosure]] (from-scratch mechanics + sizing), [[PydanticAI]] (skills agent, evals, Logfire), [[AgentEvaluation]] (skill-usage eval example), [[AgentObservability]] (Logfire detail), updated [[index.md]]
+- **Changes**: created [[summary-20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent]]; updated [[ClaudeSkills]] (universal impl + skill creator), [[ProgressiveDisclosure]] (from-scratch mechanics + sizing), [[PydanticAI]] (skills agent, evals, Logfire), [[AgentEvaluation]] (skill-usage eval example), [[AgentObservability]] (Logfire detail), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 5/11: Full Engineering Team with Subagents
-- **Changes**: created [[summary-full-engineering-team-subagents]], created [[Arcade]], created [[ClaudeAgentSDK]]; updated [[AgentHarness]] (tool belt / full AI engineer), [[SubAgent]] (context isolation + per-model), [[Archon]] (N8N for AI coding pivot), updated [[index.md]]
+- **Changes**: created [[summary-20260202 - Turn Claude Code into Your Full Engineering Team with Subagents]], created [[Arcade]], created [[ClaudeAgentSDK]]; updated [[AgentHarness]] (tool belt / full AI engineer), [[SubAgent]] (context isolation + per-model), [[Archon]] (N8N for AI coding pivot), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 6/11: Safer OpenClaw Alternative
-- **Changes**: created [[summary-safer-openclaw-alternative]]; updated [[OpenClaw]] (security incidents, 4 components, Peter/185k stars, corrected Nano Claw, ToS), [[SecondBrain]] (clone-and-rebuild method + VPS stack), [[LethalTrifecta]] (concrete OpenClaw vulns), [[ClaudeAgentSDK]] (heartbeat use), updated [[index.md]]
+- **Changes**: created [[summary-20260212 - I Built a Safer OpenClaw Alternative Using Claude Code]]; updated [[OpenClaw]] (security incidents, 4 components, Peter/185k stars, corrected Nano Claw, ToS), [[SecondBrain]] (clone-and-rebuild method + VPS stack), [[LethalTrifecta]] (concrete OpenClaw vulns), [[ClaudeAgentSDK]] (heartbeat use), updated [[index.md]]
 - **Conflicts**: none (corrected a prior factual note: "Nemo Claw" → "Nano Claw", a separate tool not a fork)
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 7/11: Claude Code Agent Teams (live build)
-- **Changes**: created [[summary-agent-teams-live-build]], created [[AgentTeams]], created [[VercelAgentBrowser]]; updated [[PRPFramework]] (clarifying-questions planning), [[ValidationGates]] (e2e browser validation), [[SubAgent]] (Agent Teams evolution), [[ClaudeSkills]] (SaaS ships skills), updated [[index.md]]
+- **Changes**: created [[summary-20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)]], created [[AgentTeams]], created [[VercelAgentBrowser]]; updated [[PRPFramework]] (clarifying-questions planning), [[ValidationGates]] (e2e browser validation), [[SubAgent]] (Agent Teams evolution), [[ClaudeSkills]] (SaaS ships skills), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 8/11: Why the Best AI Tools Abandoned RAG
-- **Changes**: created [[summary-is-rag-dead-for-coding]], created [[AgenticSearch]]; updated [[RetrievalAugmentedGeneration]] (is-RAG-dead nuance), [[ClaudeCode]] (agentic search), [[Archon]] (RAG-for-coding decline), updated [[index.md]]
+- **Changes**: created [[summary-20260219 - Why the Best AI Coding Tools Abandoned RAG (And What They Use Instead)]], created [[AgenticSearch]]; updated [[RetrievalAugmentedGeneration]] (is-RAG-dead nuance), [[ClaudeCode]] (agentic search), [[Archon]] (RAG-for-coding decline), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 9/11: COMPLETE Agentic Coding Workflow
-- **Changes**: created [[summary-complete-agentic-coding-workflow]], created [[PIVLoop]]; updated [[AILayer]] (greenfield context-asset framing), [[Commandification]] (commands vs skills), [[PRDFirstDevelopment]] (PRD creation flow), [[SystemEvolution]] (parallel evolution + git memory), updated [[index.md]]
+- **Changes**: created [[summary-20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)]], created [[PIVLoop]]; updated [[AILayer]] (greenfield context-asset framing), [[Commandification]] (commands vs skills), [[PRDFirstDevelopment]] (PRD creation flow), [[SystemEvolution]] (parallel evolution + git memory), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 10/11: Self-healing e2e validation (/e2e-test)
-- **Changes**: created [[summary-self-healing-e2e-validation]]; updated [[ValidationGates]] (self-healing workflow), [[VercelAgentBrowser]] (validation micro-loop), [[PIVLoop]] (e2e-test as validate step), [[SubAgent]] (3 parallel research agents), [[Neon]] (test-data branching), updated [[index.md]]
+- **Changes**: created [[summary-20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)]]; updated [[ValidationGates]] (self-healing workflow), [[VercelAgentBrowser]] (validation micro-loop), [[PIVLoop]] (e2e-test as validate step), [[SubAgent]] (3 parallel research agents), [[Neon]] (test-data branching), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 2 (2026-H1), file 11/11: Beautiful Diagrams with Claude Code
-- **Changes**: created [[summary-beautiful-diagrams-claude-code]], created [[Excalidraw]]; updated [[ClaudeSkills]] (diagram skill), [[Obsidian]] (Excalidraw render target), [[SecondBrain]] (diagram-generator skill), updated [[index.md]]
+- **Changes**: created [[summary-20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)]], created [[Excalidraw]]; updated [[ClaudeSkills]] (diagram skill), [[Obsidian]] (Excalidraw render target), [[SecondBrain]] (diagram-generator skill), updated [[index.md]]
 - **Conflicts**: none
 - **Batch note**: Batch 2 (2026-H1) COMPLETE — all 11 files ingested and archived. Batches 1 (2025, 12 files) and 3 (2026-H2, 11 files) remain unprocessed in raw/03-transcripts/.
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 1/11: Is Software Engineering Finally Dead
-- **Changes**: created [[summary-is-software-engineering-dead]], created [[IntentEngineering]]; updated [[ContextEngineering]] (intent-engineering successor), [[AgenticEngineering]] (evolution chain), [[ClaudeCode]] (Boris Cherny nuance), updated [[index.md]]
+- **Changes**: created [[summary-20260305 - Is Software Engineering Finally Dead]], created [[IntentEngineering]]; updated [[ContextEngineering]] (intent-engineering successor), [[AgenticEngineering]] (evolution chain), [[ClaudeCode]] (Boris Cherny nuance), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 2/11: 2,000+ Hours of Claude Code (WISK)
-- **Changes**: created [[summary-2000-hours-claude-code-wisk]], created [[WISKFramework]]; updated [[ContextRot]] (Chroma report, distractors, 80% stat), [[SubAgent]] (scout pattern + 90.2% isolation), [[Archon]] (new command-center demo), [[fighting-context-rot]] (WISK), updated [[index.md]]
+- **Changes**: created [[summary-20260316 - I've Used Claude Code for 2,000+ Hours - Here's How I Build Anything With It]], created [[WISKFramework]]; updated [[ContextRot]] (Chroma report, distractors, 80% stat), [[SubAgent]] (scout pattern + 90.2% isolation), [[Archon]] (new command-center demo), [[fighting-context-rot]] (WISK), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 3/11: The Subagent Era Is Officially Here
-- **Changes**: created [[summary-subagent-era]]; updated [[SubAgent]] (sub-agent era, cheap models, sidecar pattern), [[Codex]] (GPT-5.4 Mini sub-agents), [[WISKFramework]] (backlink), updated [[index.md]]
+- **Changes**: created [[summary-20260319 - The Subagent Era Is Officially Here - Learn this Now]]; updated [[SubAgent]] (sub-agent era, cheap models, sidecar pattern), [[Codex]] (GPT-5.4 Mini sub-agents), [[WISKFramework]] (backlink), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 4/11: Everything About Building AI Agents is Wrong
-- **Changes**: created [[summary-sdk-vs-framework-agents]], created [[AgentSDKvsFramework]]; updated [[ClaudeAgentSDK]] (limitations, non-coding agents, ToS), [[RetrievalAugmentedGeneration]] (agentic-RAG arc, LlamaIndex), [[PydanticAI]] (framework-vs-SDK), updated [[index.md]]
+- **Changes**: created [[summary-20260326 - Everything You Thought About Building AI Agents is Wrong]], created [[AgentSDKvsFramework]]; updated [[ClaudeAgentSDK]] (limitations, non-coding agents, ToS), [[RetrievalAugmentedGeneration]] (agentic-RAG arc, LlamaIndex), [[PydanticAI]] (framework-vs-SDK), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 5/11: Parallel Claude Code + Git Worktrees
-- **Changes**: created [[summary-parallel-claude-code-worktrees]], created [[ParallelAgenticDevelopment]]; updated [[ClaudeCode]] (native worktrees/model/Codex plugin), [[Neon]] (branch-per-worktree), [[AgentTeams]] (worktrees-preferred contrast), [[AdversarialDev]] (cross-model PR review), [[SystemEvolution]] (self-healing layer), updated [[index.md]]
+- **Changes**: created [[summary-20260423 - Parallel Claude Code + Git Worktrees： This Setup Will Change How You Ship]], created [[ParallelAgenticDevelopment]]; updated [[ClaudeCode]] (native worktrees/model/Codex plugin), [[Neon]] (branch-per-worktree), [[AgentTeams]] (worktrees-preferred contrast), [[AdversarialDev]] (cross-model PR review), [[SystemEvolution]] (self-healing layer), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 6/11: Principled Agentic Engineer (workshop)
-- **Changes**: created [[summary-principled-agentic-engineer]] (consolidation, no new pages); updated [[PIVLoop]] (inner/outer loop), [[PRDFirstDevelopment]] (PRD→stories→Jira, PM role), [[SystemEvolution]] (outer loop, version-controlled AI layer), [[AgenticEngineering]] (simple-vs-bloated framing), updated [[index.md]]
+- **Changes**: created [[summary-20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)]] (consolidation, no new pages); updated [[PIVLoop]] (inner/outer loop), [[PRDFirstDevelopment]] (PRD→stories→Jira, PM role), [[SystemEvolution]] (outer loop, version-controlled AI layer), [[AgenticEngineering]] (simple-vs-bloated framing), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 7/11: AI YouTube Is Only Claude Hype Now
-- **Changes**: created [[summary-ai-youtube-claude-hype]] (thin source); updated [[ColeMedin]] (content philosophy, live streams, Dark Factory), [[BuildInPublic]] (live building), updated [[index.md]]
+- **Changes**: created [[summary-20260507 - AI YouTube Is Only Claude Hype Now]] (thin source); updated [[ColeMedin]] (content philosophy, live streams, Dark Factory), [[BuildInPublic]] (live building), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 8/11: Make the PERFECT Videos with Claude Code
-- **Changes**: created [[summary-ai-generated-videos-claude-code]], created [[HyperFrames]]; updated [[Archon]] (shipped: arkon.diy, 21k stars, PIV/Fix/Review workflows), [[ClaudeSkills]] (video skill backlink), updated [[index.md]]
+- **Changes**: created [[summary-20260514 - Make the PERFECT Videos with Claude Code (Full Workflow)]], created [[HyperFrames]]; updated [[Archon]] (shipped: arkon.diy, 21k stars, PIV/Fix/Review workflows), [[ClaudeSkills]] (video skill backlink), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-20] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 9/11: Anthropic Masterclass on Large Codebases
-- **Changes**: created [[summary-large-codebases-claude-code]], created [[LargeCodebaseStrategies]]; updated [[AILayer]] (7th component LSP, layered rules, self-improving hooks), [[ModularRulesArchitecture]] (subdirectory CLAUDE.md), [[AgenticSearch]] (LSP complement), updated [[index.md]]
+- **Changes**: created [[summary-20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases)]], created [[LargeCodebaseStrategies]]; updated [[AILayer]] (7th component LSP, layered rules, self-improving hooks), [[ModularRulesArchitecture]] (subdirectory CLAUDE.md), [[AgenticSearch]] (LSP complement), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-21] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 10/11: Claude Plans, Gemini Designs
-- **Changes**: created [[summary-claude-plans-gemini-designs]], created [[CrossProviderWorkflow]], created [[Pi]], created [[Antigravity]]; updated [[AILayer]] (Pi link), [[AICodingAssistant]] (Pi/Antigravity), [[Archon]] (cross-provider one-shot), [[summary-ai-exploded-in-2025]] (Antigravity link), updated [[index.md]]
+- **Changes**: created [[summary-20260604 - Claude Plans, Gemini Designs： The Workflow to Build BEAUTIFUL Frontends]], created [[CrossProviderWorkflow]], created [[Pi]], created [[Antigravity]]; updated [[AILayer]] (Pi link), [[AICodingAssistant]] (Pi/Antigravity), [[Archon]] (cross-provider one-shot), [[summary-20260101 - AI Exploded in 2025 - Here’s Everything That Happened]] (Antigravity link), updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-21] ingest | Cole Medin "Channel Only" — Batch 3 (2026-H2), file 11/11: Loop Engineering (Creators Don't Prompt Anymore)
-- **Changes**: created [[summary-loop-engineering]], created [[LoopEngineering]], created [[Retool]]; updated [[ClaudeCode]] (/loop, /goal, /routines), [[RalphLoop]] (/goal), [[HarnessEngineering]] (loop engineering folds in), [[Archon]] (deterministic loops), updated [[index.md]]
+- **Changes**: created [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]], created [[LoopEngineering]], created [[Retool]]; updated [[ClaudeCode]] (/loop, /goal, /routines), [[RalphLoop]] (/goal), [[HarnessEngineering]] (loop engineering folds in), [[Archon]] (deterministic loops), updated [[index.md]]
 - **Conflicts**: none
 - **Batch note**: Batch 3 (2026-H2) COMPLETE — all 11 files ingested and archived. Batch 1 (2025, 12 files) remains unprocessed in raw/03-transcripts/.
 
@@ -221,7 +221,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - `raw/03-transcripts/Brian Casel/Channel Only/20260512 - How I build agents that work the night shift.md`
   - `raw/03-transcripts/Brian Casel/Channel Only/20260429 - Multitasking With Agents： My 2026 Workflow.md`
 - **Changes**:
-  - Created sources: [[summary-build-your-own-crm]], [[summary-claude-fable-build-app]], [[summary-hermes-vs-claude-cowork]], [[summary-apps-built-with-ai-look-off]], [[summary-dont-need-to-learn-code]], [[summary-night-shift-agents]], [[summary-multitasking-agents-2026]]
+  - Created sources: [[summary-20260622 - How to build your own CRM (start to finish)]], [[summary-20260611 - Claude Fable： Build me an app]], [[summary-20260609 - Hermes vs. Claude Cowork Wrong Question]], [[summary-20260605 - Why apps built with AI look a little... OFF]], [[summary-20260518 - You don't need to learn to code anymore]], [[summary-20260512 - How I build agents that work the night shift]], [[summary-20260429 - Multitasking With Agents： My 2026 Workflow]]
   - Created entities: [[BrianCasel]], [[BuildNew]], [[PRDCreator]], [[DesignSystem]], [[HermesAgent]], [[ClaudeCowork]], [[SparkDrop]], [[BrainDown]], [[ResonanceRadar]], [[SuperSet]], [[Superconductor]], [[Consensus]]
   - Created concepts: [[SpecDrivenDevelopment]], [[MilestoneBasedBuilding]], [[ProductArchitect]], [[NightShiftModel]], [[AgentPlatformPortability]], [[AgentMultitasking]], [[InternalTools]], [[StarterKit]], [[DesignDrift]], [[VerificationCriteria]], [[IntakeProcessing]], [[ContentIdeation]], [[AgentSkills]]
   - Updated [[index.md]] (32 new pages registered)
@@ -243,7 +243,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
   - `raw/03-transcripts/Brian Casel/Channel Only/20260312 - Claude Code changed recently.md`
   - `raw/03-transcripts/Brian Casel/Channel Only/20260306 - OpenClaw vs. Claude for Running an Agent Team.md`
 - **Changes**:
-  - Created sources: [[summary-where-claude-design-fits]], [[summary-we-build-fast-but-does-it-work]], [[summary-4-agent-skills-marketing]], [[summary-skill-ai-cant-replace]], [[summary-claude-code-mobile-guide]], [[summary-claude-code-changed-recently]], [[summary-openclaw-vs-claude-agent-team]]
+  - Created sources: [[summary-20260424 - Where Claude Design actually fits]], [[summary-20260414 - We build fast. But does it work]], [[summary-20260406 - 4 Agent Skills I Use for Marketing]], [[summary-20260331 - The Skill AI Can't Replace]], [[summary-20260326 - Claude Code on Mobile： The Complete Guide]], [[summary-20260312 - Claude Code changed recently]], [[summary-20260306 - OpenClaw vs. Claude for Running an Agent Team]]
   - Created entities: [[ClaudeDesign]], [[KainAI]], [[NimbleList]]
   - Created concepts: [[Restraint]], [[VisualIdeation]], [[MobileAgentWorkflow]], [[AutoPlan]], [[AutoMemory]], [[VoiceMode]], [[ServerMode]], [[BrandVisuals]], [[EndToEndTesting]]
   - Updated [[index.md]] (19 new pages registered)
@@ -256,7 +256,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-06-22] ingest | Brian Casel "Channel Only" — Batch 3 of 8 (Feb-Jan 2026, 7 transcripts)
 - **Sources processed**: 7 transcripts (20260225 through 20260119)
 - **Changes**:
-  - Created sources: [[summary-create-jobs-openclaw-agents]], [[summary-multi-agent-team-openclaw]], [[summary-claude-code-slack-teams-ship]], [[summary-build-marketing-tools-claude-code]], [[summary-brennan-dunn-ai-developers]], [[summary-agent-os-v3]], [[summary-arvid-kahl-saas-claude]]
+  - Created sources: [[summary-20260225 - How to create JOBS for OpenClaw agents]], [[summary-20260216 - My Multi-Agent Team with OpenClaw]], [[summary-20260209 - Claude Code in Slack changes how teams SHIP]], [[summary-20260203 - Build your own marketing tools with Claude Code]], [[summary-20260126 - Brennan Dunn’s Team of (AI) Developers]], [[summary-20260122 - Agent OS v3： Leaner & Smarter for Building in 2026]], [[summary-20260119 - Arvid Kahl’s SaaS is 98% Coded by Claude]]
   - Created entities: [[AgentOS]], [[ColleenSchnettler]], [[ArvidKahl]], [[BrennanDunn]], [[Podscan]], [[FernDesk]], [[CompoundEngineering]]
   - Created concepts: [[ComprehensionDebt]], [[AgentJobs]], [[BuilderStories]], [[SlackIntegration]]
   - Updated [[index.md]] (18 new pages registered)

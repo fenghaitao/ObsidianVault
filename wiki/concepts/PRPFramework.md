@@ -86,7 +86,7 @@ Per [[Rasmus]]: the PRP framework was iterating for over a year before Claude 4 
 - [[ValidationGates]] — sub-pattern
 - [[ColeMedin]] — primary teacher in this corpus
 - [[ModelContextProtocol]], [[PydanticAI]] — domains with shipped templates
-- [[summary-context-engineering-is-new-vibe-coding]] — intro
-- [[summary-context-engineering-101]] — Rasmus on the framework, MCP-server template
-- [[summary-context-engineering-blueprint-for-ai-agents]] — PydanticAI template
-- [[summary-agent-teams-live-build]] — the clarifying-questions planning refinement
+- [[summary-20250703 - Context Engineering is the New Vibe Coding (Learn this Now)]] — intro
+- [[summary-20250717 - Context Engineering 101 - The Simple Strategy to 100x AI Coding]] — Rasmus on the framework, MCP-server template
+- [[summary-20250724 - Build ANY AI Agent with this Context Engineering Blueprint]] — PydanticAI template
+- [[summary-20260216 - How to Properly Use Claude Code Agent Teams (FULL LIVE BUILD)]] — the clarifying-questions planning refinement
