@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.bak
+*.bak-*
+
+# Obsidian — workspace state changes constantly with every click; don't track it
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Claudian — session state changes per conversation
+.claudian/sessions/*.meta.json
+.claudian/sessions/*.jsonl
+# Claudian settings carry per-device state (installationMethodsByHost keyed by
+# device UUID); it diverges across machines and can't cleanly sync.
+.claudian/claudian-settings.json
+
+# RealClaudian — open tabs / active conversation; pure per-machine UI state
+.obsidian/plugins/realclaudian/data.json
+
+# Lean Terminal — session buffer state; don't track
+.obsidian/plugins/lean-terminal/data.json
+.obsidian/plugins/lean-terminal/tmp/
+# Lean Terminal regenerates this shell-integration script on startup; the path
+# embedded inside it is machine-specific, so it shouldn't be tracked.
+.obsidian/plugins/lean-terminal/shell-integration/pwsh-init.ps1
+
+# Obsidian plugin dependencies — node_modules carries platform-specific native
+# binaries (node-pty: .node/.dll/.exe/.pdb) that conflict across Windows/Linux.
+# Each machine reinstalls its own; the plugin's own manifest.json/main.js stay tracked.
+.obsidian/plugins/*/node_modules/
+
+# obsidian-git — plugin reinstalls itself from the community registry on clone
+.obsidian/plugins/obsidian-git/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Cookies (if accidentally placed in vault)
+*cookies*.txt
+
+# Python venv for .claude download scripts
+.claude/.venv/

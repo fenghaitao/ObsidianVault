@@ -1,0 +1,133 @@
+/* Solarized Light Colors for Minimal Theme */
+/* https://ethanschoonover.com/solarized/ */
+
+:root {
+  /* Solarized Light Base Colors */
+  --base03: #fdf6e3;  /* background */
+  --base02: #eee8d5;  /* lighter background */
+  --base01: #93a1a1;  /* dark gray */
+  --base00: #839496;  /* medium gray */
+  --base0: #657b83;   /* medium dark gray */
+  --base1: #586e75;   /* darker gray */
+  --base2: #073642;   /* dark blue-gray */
+  --base3: #002b36;   /* darkest blue-gray */
+
+  /* Solarized Accents */
+  --red: #dc322f;
+  --orange: #cb4b16;
+  --yellow: #b58900;
+  --green: #859900;
+  --cyan: #2aa198;
+  --blue: #268bd2;
+  --violet: #6c71c4;
+  --magenta: #d33682;
+
+  /* Obsidian Semantic Colors */
+  --background-primary: var(--base03);
+  --background-secondary: var(--base02);
+  --background-secondary-alt: #f5f1e8;
+  --background-tertiary: #e8e3d6;
+
+  --text-normal: var(--base1);
+  --text-muted: var(--base0);
+  --text-faint: var(--base01);
+  --text-on-accent: var(--base03);
+
+  --interactive-normal: var(--base02);
+  --interactive-hover: var(--base01);
+  --interactive-accent: var(--blue);
+  --interactive-accent-hover: #1e88e5;
+
+  --accent-color: var(--blue);
+  --accent-color-1: var(--red);
+  --accent-color-2: var(--green);
+  --accent-color-3: var(--yellow);
+  --accent-color-4: var(--cyan);
+  --accent-color-5: var(--violet);
+  --accent-color-6: var(--magenta);
+
+  --blockquote-border-color: var(--base01);
+  --code-background: var(--base02);
+  --code-normal: var(--base1);
+
+  --border-color: var(--base02);
+}
+
+/* Syntax Highlighting */
+.cm-s-obsidian {
+  background-color: var(--background-primary);
+  color: var(--text-normal);
+}
+
+.cm-s-obsidian .cm-string { color: var(--green); }
+.cm-s-obsidian .cm-number { color: var(--cyan); }
+.cm-s-obsidian .cm-atom { color: var(--blue); }
+.cm-s-obsidian .cm-keyword { color: var(--green); }
+.cm-s-obsidian .cm-variable { color: var(--base1); }
+.cm-s-obsidian .cm-property { color: var(--blue); }
+.cm-s-obsidian .cm-comment { color: var(--base01); font-style: italic; }
+.cm-s-obsidian .cm-tag { color: var(--red); }
+.cm-s-obsidian .cm-attribute { color: var(--yellow); }
+
+/* Links */
+.internal-link,
+.internal-link-preview-text,
+a.tag {
+  color: var(--blue);
+}
+
+.internal-link:hover {
+  color: var(--cyan);
+}
+
+/* Checkboxes & Lists */
+input[type="checkbox"] {
+  accent-color: var(--blue);
+}
+
+/* Selection */
+::selection {
+  background-color: var(--base02);
+  color: var(--text-normal);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar-thumb {
+  background-color: var(--base01);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--base0);
+}
+
+/* Lean Terminal - Solarized Light */
+.lean-terminal-container,
+.lean-terminal-pane,
+.lean-terminal {
+  background-color: var(--base03) !important;
+  color: var(--text-normal) !important;
+}
+
+.lean-terminal-input,
+.lean-terminal-output,
+.terminal-input,
+.terminal-output {
+  background-color: var(--base03) !important;
+  color: var(--text-normal) !important;
+}
+
+.lean-terminal-prompt {
+  color: var(--blue) !important;
+}
+
+.lean-terminal-error {
+  color: var(--red) !important;
+}
+
+.lean-terminal-success {
+  color: var(--green) !important;
+}
+
+.lean-terminal-warning {
+  color: var(--yellow) !important;
+}
