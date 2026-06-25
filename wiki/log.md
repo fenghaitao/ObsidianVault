@@ -8,6 +8,30 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 
 ---
 
+## [2026-06-25] query | Three cross-cutting syntheses: Cole Medin, Brian Casel, and Pydantic on observability, infrastructure, and open source
+
+## [2026-06-25] lint | Full lint audit: 91 dead links -> 0, 68 orphans -> 0, created 51 new pages
+- **Changes**: created 36 entity stubs, 15 concept stubs, 1 source page; added backlinks to ~60 source summaries; fixed curly-quote mismatches in BrianCasel.md; updated index.md
+- **Conflicts**: none
+- **Output**: saved to [[cole-brian-pydantic-observability-evaluation]], [[cole-brian-pydantic-agent-infrastructure]], [[cole-brian-pydantic-open-source-crisis]]
+- **Pages consulted**: [[AgentObservability]], [[AgentEvaluation]], [[Logfire]], [[AgentHarness]], [[HarnessEngineering]], [[AgentInfrastructure]], [[NightShiftModel]], [[CodeExecution]], [[Monty]], [[AISlop]], [[OpenSourceSustainability]], [[EndToEndTesting]], [[VerificationCriteria]], [[AgentPlatformPortability]], [[DurableExecution]], [[PydanticAIGateway]], [[DBOS]], [[SamuelColvin]], [[JeremiahLowin]], [[SebastianRamirez]], [[GuidoVanRossum]], [[PabloGalindoSalgado]], [[DavidHewitt]], [[ColeMedin]], [[BrianCasel]], plus relevant source summaries
+- **Backlinks added**: [[AgentObservability]], [[AgentEvaluation]], [[HarnessEngineering]], [[AgentInfrastructure]], [[AISlop]]
+
+## [2026-06-25] ingest | Pydantic Channel Only — full batch (21 transcripts, oldest-first)
+- **Sources processed**: All 21 transcripts from `raw/03-transcripts/Pydantic/Channel Only/` (April 2025 - May 2026)
+- **Changes**:
+  - Created 21 source summaries in `wiki/sources/03-transcripts/Pydantic/Channel Only/`
+  - Created entities: [[Pydantic]], [[SamuelColvin]], [[Monty]], [[Logfire]], [[PydanticAIGateway]], [[PyAIConf2026]], [[GuidoVanRossum]], [[SebastianRamirez]], [[ArminRonacher]], [[JeremiahLowin]], [[PamelaFox]], [[DBOS]], [[Render]], [[FastAPI]]
+  - Created concepts: [[CodeExecution]], [[DurableExecution]], [[AISlop]], [[AgentInfrastructure]], [[OpenSourceSustainability]]
+  - Updated entities: [[PydanticAI]] (MCP sampling, Pydantic Graph, DBOS integration, Monty integration, Gateway integration)
+  - Updated [[index.md]] (21 source summaries + 14 entities + 5 concepts registered)
+- **Conflicts**: none
+- **Notes**:
+  - Full batch ingest of Pydantic's entire YouTube channel. Covers the Pydantic stack (validation, PydanticAI, Logfire, Gateway, Monty), PyAI Conf 2026 talks, PyAI London talks, and product demos.
+  - Key themes: code execution as the emerging agent paradigm, open source sustainability crisis from AI slop, agent infrastructure as the underinvested layer, MCP as universal tool protocol.
+  - 4 videos had no captions and were skipped during download. The 20250320, 20250324 (x2) videos were listed in the feed but produced no VTT files.
+  - Cross-referenced with existing Cole Medin and Brian Casel content where relevant (PydanticAI, MCP, agent infrastructure).
+
 ## [2026-06-23] query | Cross-cutting syntheses: Cole Medin vs Brian Casel on planning and autonomy
 - **Changes**: created [[cole-vs-brian-planning-methodologies]], created [[cole-vs-brian-agent-autonomy]], updated [[index]], updated [[SpecDrivenDevelopment]], updated [[PRDFirstDevelopment]], updated [[PIVLoop]], updated [[MilestoneBasedBuilding]], updated [[HarnessEngineering]], updated [[NightShiftModel]], updated [[AgentMultitasking]]
 - **Conflicts**: none

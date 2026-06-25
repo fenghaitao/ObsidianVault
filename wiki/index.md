@@ -10,6 +10,28 @@ Format: `[[Page Name]] — One-sentence description.`
 
 *(Summaries of `raw/` files — kebab-case filenames)*
 
+- [[summary-20250415 - Pydantic, Jason Liu & MCP Meetup - April 8, 2025]] — Pydantic's April 2025 London meetup: Jason Liu on RAG improvement, OpenAI Agents SDK, Samuel Colvin on PydanticAI+MCP, Anthropic on MCP.
+- [[summary-20250627 - MCP Sampling in Pydantic AI： How to Proxy LLM Calls]] — Tutorial on MCP sampling: proxying LLM calls through the MCP client instead of per-server API keys.
+- [[summary-20250806 - Pydantic @ Google London July Meetup - All Talks]] — Google London meetup: Paige Bailey on Gemini multimodality, David Hewitt on Logfire+Blue Sky agent, Samuel Colvin on MCP sampling.
+- [[summary-20260112 - One API Key for Every LLM Provider - Pydantic AI Gateway]] — Samuel Colvin introduces Pydantic AI Gateway: unified LLM inference at Cloudflare edge with budgeting and fallback.
+- [[summary-20260219 - Reliable and Observable AI Agents with Pydantic AI and DBOS]] — PydanticAI + DBOS integration for durable agent execution with checkpointing and workflow forking.
+- [[summary-20260312 - PyAI Conference 2026 Highlights]] — 30-second teaser for the first PyAI Conference organized by Pydantic.
+- [[summary-20260319 - Open Source in the age of AI Panel – PyAI Conf 2026]] — Panel with Guido van Rossum, Samuel Colvin, Sebastián Ramírez, and Jeremiah Lowin on AI slop, reputation, and open source sustainability.
+- [[summary-20260325 - Armin Ronacher Leaning In To Find Out - PyAI Conf 2026]] — Armin Ronacher on why coding agents dominate RL training and how to build systems that survive model evolution.
+- [[summary-20260326 - We refactored the Logfire Explorer view： here's what changed]] — Logfire product update: Jupyter-like Explorer with AI query assistant.
+- [[summary-20260330 - Pamela Fox Improving MCP tool schemas to increase agent reliability - PyAI Conf 2026]] — Pamela Fox's empirical research on MCP tool schema strictness and agent reliability across models.
+- [[summary-20260401 - Samuel Colvin Controlling the wild： Monty, from tool calling to computer use - PyAI Conf 2026]] — Samuel Colvin introduces Monty: a from-scratch secure Python interpreter in Rust for AI code execution.
+- [[summary-20260403 - Niamh Gavin AI Research Fails - Anecdotes from the Frontline - PyAI Conf 2026]] — Humorous AI research failure anecdotes: MS-13 naming incident, Immaculate Conception debate, Chihuahua vs muffin.
+- [[summary-20260407 - Zanie Blue Do developer tools matter to agents - PyAI Conf 2026]] — Zanie Blue (Astral) on how developer tools must evolve for agentic consumers.
+- [[summary-20260408 - Abhishyant Khare Agent Native Engineering With Cofounder⧸CTO - PyAI Conf 2026]] — Principles for resilient multi-agent systems: lifecycle control, async delegation, self-observability.
+- [[summary-20260507 - Samuel Colvin - Controlling the wild： from tool calling to computer use - PyAI London at AIE 2026]] — Samuel Colvin's PyAI London Monty talk: the continuum from tool calling to computer use.
+- [[summary-20260508 - Shifra Williams - What your AI pipeline does when you're not looking - PyAI London at AIE 2026]] — Observable RAG pipeline on Render with PydanticAI, Logfire, and claims verification.
+- [[summary-20260511 - Marlene Mhangami - A Practical Guide to Agentic Coding - PyAI London at AIE 2026]] — Agentic coding guide structured around the agentic loop: gather context, take action, verify results.
+- [[summary-20260512 - Pablo Galindo Salgado & David Hewitt - Maintaining OSS in the age of AI - PyAI London at AIE 2026]] — Raw talk on the open source maintainer crisis: AI slop, security DDoS, and the breaking contributor pipeline.
+- [[summary-20260513 - Sebastián Ramirez What's New in FastAPI - PyAI Conf 2026]] — FastAPI updates: Rust JSON serialization, streaming with yield, SSE support, bundled agent skill.
+- [[summary-20260514 - Hamza Tahir We Solved Building Agents. Now What - PyAI Conf 2026]] — Agent infrastructure is the underdeveloped layer; model-facing harness will be eaten by providers.
+- [[summary-20260515 - Pydantic at PyCon US 2026 - meet the team!]] — Pydantic team introductions at PyCon US 2026.
+
 - [[summary-04 - Introducing Archon - an AI Agent that BUILDS AI Agents]] — Cole Medin's official intro to Archon, an open-source meta-agent that builds other AI agents.
 - [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]] — Demo of an "MCP Agent Army": primary agent + 6 specialized sub-agents each owning one MCP server.
 - [[summary-02 - 10x Your AI Agents with this ONE Agent Architecture]] — Deep dive on the parallel agent architecture; Travel Planner demo with PydanticAI + LangGraph.
@@ -85,6 +107,20 @@ Format: `[[Page Name]] — One-sentence description.`
 
 *(People, companies, tools, products — TitleCase filenames)*
 
+- [[Pydantic]] — Company and Python data validation library (~300M downloads/month); builds PydanticAI, Logfire, Monty, and AI Gateway.
+- [[SamuelColvin]] — Creator of Pydantic, PydanticAI, Logfire, Monty, and Pydantic AI Gateway; founder/CEO of Pydantic.
+- [[Monty]] — Minimal secure Python interpreter in Rust for AI-generated code; from-scratch, white-list approach, ~1 microsecond startup.
+- [[Logfire]] — Pydantic's OpenTelemetry-based observability platform with AI-specific tracing, cost tracking, and MCP distributed tracing.
+- [[PydanticAIGateway]] — Unified LLM inference layer at Cloudflare edge; one API key for OpenAI, Anthropic, Google, Bedrock, Grok.
+- [[PyAIConf2026]] — First PyAI Conference organized by Pydantic; featured Guido van Rossum, Samuel Colvin, Sebastián Ramírez, Armin Ronacher.
+- [[GuidoVanRossum]] — Creator of Python; building Type Agent (long-term agent memory) with PydanticAI.
+- [[SebastianRamirez]] — Creator of FastAPI, Typer, SQLModel; building FastAPI Cloud.
+- [[ArminRonacher]] — Creator of Flask; analyzes why coding agents dominate RL training and how to build model-agnostic systems.
+- [[JeremiahLowin]] — CEO of Prefect; author of FastMCP; advocate for constructive friction against AI slop.
+- [[PamelaFox]] — Microsoft/GitHub developer advocate; empirical research on MCP tool schemas and agent reliability.
+- [[DBOS]] — Lightweight durable execution library on Postgres; one-line PydanticAI integration for checkpointed agent workflows.
+- [[Render]] — Cloud platform for deploying full-stack apps and agents; Render Workflows for durable long-running services.
+- [[FastAPI]] — Python web framework (~95K stars, 12M downloads/day); AI-ready streaming, SSE, bundled agent skill.
 - [[Archon]] — Open-source AI agent that builds other AI agents using PydanticAI and LangGraph.
 - [[ColeMedin]] — AI engineer and YouTube creator; built Archon, Crawl4AIRAG, the LocalAIPackage; advocate for PydanticAI + LangGraph + N8N-first prototyping.
 - [[Crawl4AIRAG]] — Cole's open-source MCP server that crawls websites and serves contextual-retrieval-enhanced RAG to AI IDEs.
@@ -130,11 +166,52 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[SuperSet]] — Agentic development tool with native Claude Code CLI integration; Brian Casel's current daily driver for multitasking.
 - [[Superconductor]] — Agentic development tool wrapping Claude Code in a GUI; evaluated by Brian Casel alongside SuperSet.
 - [[Consensus]] — MCP server searching 200M+ peer-reviewed academic papers with citable sources for AI agents.
+- [[PabloGalindoSalgado]] — CPython core developer; diagnosed the AI slop crisis as an asymmetric DDoS on maintainer attention.
+- [[DavidHewitt]] — Pydantic/Logfire developer and PyO3 maintainer; co-presented on the open source maintainer crisis.
+- [[JasonLiu]] — ML engineer and consultant; creator of Instructor (structured LLM outputs); RAG improvement framework.
+- [[CPython]] — Reference implementation of the Python programming language; maintained by a core team of volunteers.
+- [[Gemini]] — Google DeepMind's family of multimodal AI models; natively handles text, images, video, audio, and code.
+- [[Linear]] — Project management tool used as the task-tracking layer in AI agent harnesses.
+- [[FastMCP]] — Python framework for building MCP servers; created by Jeremiah Lowin (Prefect CEO).
+- [[Prefect]] — Workflow orchestration platform for data engineering and ML pipelines; founded by Jeremiah Lowin.
+- [[ZenML]] — ML Ops infrastructure company founded by Hamza Tahir; building Kitaru agent infrastructure layer.
+- [[OpenTelemetry]] — Open standard for observability (traces, metrics, logs); Logfire is built on it.
+- [[UV]] — Astral's fast Python package and project manager, written in Rust.
+- [[Ruff]] — Astral's fast Python linter and formatter, written in Rust.
+- [[TY]] — Astral's Python type checker, written in Rust; built into Monty for type-checking AI-generated code.
+- [[GitHubCopilot]] — Microsoft's AI coding assistant integrated into VS Code and GitHub.
+- [[GoogleDeepMind]] — Google's AI research lab; develops Gemini, Gemma, Veo, and Project Astra.
+- [[Python]] — High-level programming language created by Guido van Rossum; dominant language for AI/ML.
+- [[Flask]] — Lightweight Python web framework created by Armin Ronacher.
+- [[Sentry]] — Error tracking and performance monitoring platform; Armin Ronacher works there.
+- [[FastAPICloud]] — Deployment platform for FastAPI applications, in development by Sebastián Ramírez.
+- [[TypeAgent]] — Guido van Rossum's AI project: long-term agent memory system using PydanticAI.
+- [[PaigeBailey]] — Developer experience engineering lead at Google DeepMind; presented on Gemini.
+- [[ZanieBlue]] — Developer at Astral (Ruff, UV, TY); presented on developer tools for agentic consumers.
+- [[MarleneMhangami]] — Senior developer advocate at Microsoft/GitHub Copilot; presented guide to agentic coding.
+- [[AbhishyantKhare]] — Co-founder/CTO of General Intelligence Company; presented multi-agent orchestration principles.
+- [[NiamhGavin]] — AI researcher; presented humorous AI research failure anecdotes at PyAI Conf 2026.
+- [[ShifraWilliams]] — Founding Developer Advocate at Render; presented observable RAG pipeline demo.
+- [[HamzaTahir]] — Founder of ZenML; presented on agent infrastructure as the underinvested layer.
+- [[GeneralIntelligenceCompany]] — Startup building "Co-Founder CTO" agent orchestration system for autonomous businesses.
+- [[AugmentLibrary]] — AI-assisted code generation and library management tool used by Arvid Kahl and Podscan.
+- [[SuperWhisper]] — Voice transcription tool used by Colleen Schnettler for AI-assisted workflows.
+- [[WhisperFlow]] — Voice-based workflow tool referenced in Cole Medin's content.
+- [[Tailscale]] — Mesh VPN built on WireGuard; used for secure remote agent development environments.
+- [[Termius]] — SSH client with mobile support; used for remote agent access from mobile devices.
+- [[TMux]] — Terminal multiplexer for managing multiple agent sessions simultaneously.
+- [[PyConUS]] — Largest annual Python conference in the United States.
+- [[Google]] — Technology company; Google DeepMind develops Gemini, Google Antigravity is an AI coding tool.
 
 ## Concepts
 
 *(Frameworks, methodologies, theories — TitleCase filenames)*
 
+- [[CodeExecution]] — Paradigm of giving AI agents code writing/execution as primary interaction mode; sits between tool calling and full computer use.
+- [[DurableExecution]] — Checkpointing workflow progress for crash recovery; critical for long-running agent workflows.
+- [[AISlop]] — Low-quality AI-generated contributions flooding open source; described as a "DDoS on maintainer attention."
+- [[AgentInfrastructure]] — The world-facing harness layer: orchestration, durable execution, memory, sandboxes, observability for production agents.
+- [[OpenSourceSustainability]] — The challenge of keeping open source funded, maintained, and secure in the AI era.
 - [[AIAgent]] — A large language model given the ability to interact with the outside world via tool use.
 - [[AgenticWorkflow]] — Multi-step orchestration of one or more AI agents with explicit control flow and shared state.
 - [[SubAgent]] — A specialized agent invoked by a primary agent to handle a narrow part of a larger task; solves the LLM tool-overload problem.
@@ -212,11 +289,28 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[BuilderStories]] — Brian Casel's video series where builders share screens and demonstrate their AI-first workflows.
 - [[SlackIntegration]] — Extending Claude Code intelligence beyond terminals into Slack for the whole organization.
 - [[ModelConvergence]] — Frontier AI models becoming similarly capable; builder skill matters more than model choice.
+- [[SupplyChainSecurity]] — Protecting software from vulnerabilities introduced through dependencies, contributions, or build processes.
+- [[Sandboxing]] — Running untrusted code in isolated environments; critical for AI agents that execute generated code.
+- [[CodingAgents]] — AI agents specialized in writing, editing, and managing code; dominating RL training data.
+- [[ReinforcementLearning]] — Training process turning pre-trained models into agentic models; coding sessions provide measurable reward signals.
+- [[MLOps]] — Standardizing ML model deployment and lifecycle management; analogy for needed agent infrastructure standards.
+- [[ServerSentEvents]] — HTTP-based protocol for streaming data from server to client; FastAPI added EventSourceResponse class.
+- [[AgenticCoding]] — Paradigm where AI agents autonomously write, execute, and debug code in multi-step workflows.
+- [[AgenticProgramming]] — Emerging paradigm where AI agents are primary consumers of developer tools.
+- [[DeveloperTools]] — Abstractions for the software development lifecycle; must evolve for agentic consumers.
+- [[MultiAgentSystems]] — Coordinating multiple AI agents to accomplish complex tasks with delegation and lifecycle management.
+- [[AgentOrchestration]] — Practice of coordinating multiple AI agents with patterns for delegation, lifecycle, and self-observability.
+- [[AISafety]] — Ensuring AI systems behave as intended and don't cause harm.
+- [[GitWorktrees]] — Multiple working directories from a single Git repository; isolation mechanism for parallel agent execution.
+- [[CLAUDE.md]] — Instruction file pattern for persisting project-level rules and conventions across Claude Code sessions.
 
 ## Syntheses
 
 *(Cross-document analyses and deep dives — kebab-case filenames)*
 
+- [[cole-brian-pydantic-observability-evaluation]] — How Cole Medin, Brian Casel, and Pydantic each approach observability and evaluation of AI agents.
+- [[cole-brian-pydantic-agent-infrastructure]] — How Pydantic's stack, Cole's harness engineering, and Brian's Night Shift model approach agent infrastructure.
+- [[cole-brian-pydantic-open-source-crisis]] — How Cole, Brian, and Pydantic speakers diagnose the open source sustainability crisis and propose solutions.
 - [[evolution-vibe-coding-to-harness-engineering]] — The paradigm timeline: vibe coding → context engineering → harness engineering, and how vibe coding returns (qualified).
 - [[cole-medin-rag-playbook]] — Consolidated RAG strategies, tooling, cost controls, and Cole's actual recommendations; plus the RAG-vs-Wiki tension.
 - [[vault-architecture-mapped-to-cole-teachings]] — How this vault is itself an instance of the Karpathy LLM Wiki / Second Brain pattern it documents.

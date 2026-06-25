@@ -74,5 +74,6 @@ Together they form the production feedback loop: observability surfaces failure 
 - [[PydanticAI]] — ships the eval framework used in the worked example
 - [[ClaudeSkills]] — the capabilities being tested for correct invocation
 - [[ColeMedin]] — author of the framing here
+- [[cole-brian-pydantic-observability-evaluation]] — cross-cutting synthesis
 - [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]] — primary source (phase 8)
 - [[summary-20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent]] — skill-usage eval worked example

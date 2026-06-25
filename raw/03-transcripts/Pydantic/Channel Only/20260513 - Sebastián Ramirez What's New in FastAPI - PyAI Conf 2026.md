@@ -1,0 +1,113 @@
+---
+title: "Sebastián Ramirez What's New in FastAPI - PyAI Conf 2026"
+type: transcript
+source: youtube
+playlist: "Channel Only"
+author: "Pydantic"
+---
+
+# Sebastián Ramirez What's New in FastAPI - PyAI Conf 2026
+
+[music] &gt;&gt; Nice. Excellent. Thank you very much for being here. Super cool to see you all. We're going to see a little bit about what is new in FastAPI for AI. So, first, I'm Sebastián Ramírez.
+
+You can find me online as tiangolo. I'm from Colombia. That's why the accent. I created FastAPI, Typer, SQLModel, a bunch of open source things. Now, we are building FastAPI Cloud with a a bunch of cool people. Some of them are around here, some of my teammates.
+
+Hey, we're going to talk a little bit about FastAPI. First, let me uh trim my context. Who has heard about FastAPI? So, raise your hand. Nice. Great.
+
+Who has used FastAPI? Nice. A lot of people. That's awesome. Then we can speedrun this first part. Okay, so FastAPI open source framework for building web APIs in Python.
+
+It's been growing quite a bunch, a bunch of GitHub stars. Right now, it has like 95K. Thing is, now Python with FastAPI and Django has the most starred back-end framework. So, yay, Python. Hey, it has like around 12 million downloads a day. So, that's a bunch of downloads, which is like 280 million downloads a month, which is more than Brazil's population.
+
+Yay, kind of. Nice. Which is like around 10,000 downloads since I started talking. It's a lot of internet bytes we are consuming. It's been growing up in the developer service for Python, for Stack Overflow. So, FastAPI strong.
+
+Yay. It's being used by a bunch of companies. You might recognize some of the logos there, or maybe you work for one of those. It's being used for a bunch of cool things, like the data the science data from the website telescope is sent to Earth, not with FastAPI, but then uh from Earth is distributed around the world to all the scientists around the world using Fast API. They were talking about this recently. Also, like all Open AIs like a bunch of Fast API underneath.
+
+ChatGPT and all just like all that stuff. And they also use it to simulate galaxies. And they with that they were able in supercomputers and stuff and they were able to discover the first quasar. I have no idea what that means, but it sounds super cool, so I had to take the screenshot. And they use it to control particle accelerators at CERN like the Large Hadron Collider. It sounds super scary as well.
+
+I hope nothing breaks. Uh so, yay Fast API. Now, we're going to talk about what is new in Fast API. Let's just start with a little bit of the UX improvements for you as users of Fast API. So, first, let's say use pyproject.toml. You will probably define your uh dependencies for Fast API in a file like this.
+
+Now, you're going to be able to declare in the pyproject.toml where is your Fast API application. So, whenever you run the command line, this one Fast API dev or Fast API run, it's going to be able to know where is your Fast API application without you having to explicitly say that every time. Uh so, here's the thing that gives away what is happening. Let's zoom into that a little bit. So, this is saying this is string here that is the same that we have here is the equivalent of saying from backend.main import app. So, if you have a data uh file structure like this, so you have a backend directory which is actually a Python module because it's a double underscore in it, then in it you have a main.py and this main.py has a Fast API application.
+
+This backend main is this from backend.main or this backend main before the colon, and then the app after the colon is this one. This is what this means. The thing is it lets you define where is your Fast API application, so whenever you run it, it can just like work way easier. And then you can integrate other tools. This is what's actually all this was actually made by Patrick, that is around here. I don't see him, part of the team.
+
+So, Yay. Next, now there's a a VS Code extension, also Cursor extension or anti-gravity or like a family that you should probably use. We just released it like 1 2 weeks ago and people have been liking it. It's quite cool. We just like uh 30 minutes ago reached 2,000 users on the VS Code extension that we just released. So, that's quite cool.
+
+Uh I need allows you to do things like and this was made by Savannah that is over there. So, yay. Uh this this will allow you to have things like this like the path operation or endpoint, however you call it, explorer. So, you can see like all the endpoints or the path operations that you define and you can go and click each one of those and it will take you exactly to where in the code that path operation is. So, you can like navigate things faster. Uh there are the you also have like for example, when you have tests.
+
+This is a very simple test. Client will get blah blah blah, get items blah blah blah. Now you have this thing on the top. This little ghost text, this is called code lens. If you click it from the test, it will take you to the code where that endpoint or path operation was defined. So, you're going to get exactly where is this test uh talking with who is this test talking to in the code base.
+
+So, you can work more easily. This was the VS Code extension. There's there's a bunch of other features, but I just wanted to highlight a couple of things. Now, a little bit of FastAPI for AI, not also in terms of code itself. First, uh let's talk about the expectations for AI, the humanity expectations for AI. So, yesterday I I got into the elevator at the hotel.
+
+There were a couple of ladies having this very lively conversation. One was telling to the other, "Hey, no, it's like I'm telling you, is that Terminator is out there." And then like, you know like I was in the elevator and I sort of giggled and she looked at me and she said, "Yeah, right. Are you also coming for the HR conference?" And then I look at her and said, "I come for an AI conference." This was the most awkward silence in an elevator I have ever been to. You know, like elevators are supposed to be silent. This was silent, but it was awkward. And then like, you know, like before leaving the elevator, I was trying to make things better.
+
+So, I was trying to explain that I actually had made this slide. And but that didn't really help. So, as humanity, we have these expectations. So, we're going to have AI. It's going to be these powerful, scary machines that are like robots and blah blah. And then some more people say, "No, no, no, no.
+
+We're going to have powerful, scary machines that are powerful, cute machines that are like, you know, like This This were the expectations we had as humanity." Now, what was the reality that we had as humanity? Great question. What humanity truly got in Dutch. And I want to delve into this. Is an AI that helps you thrive in today's rapidly evolving landscape? Actually, I'm sorry.
+
+I hallucinated all that. So, we have uh machines. We have systems. We have, you know, like these giant pots of matrix multiplication systems that can output a ton of text that in many cases is useful. They can also output streams of video, uh images, audio. But in most of the cases, we are just like using text.
+
+The way that I tend to think about LLMs is like is very similar to, you know, like a young um white male politician. So, if the LLM knows something and really knows it and can like help you with that, it will try to do it and it will try to help it. If it doesn't know it, in many cases, it will just make it up and try to convince you and be super convincing. So, the thing is like, you know, but So, we're getting we're getting a ton of strings and text that in many cases we can make useful in many different ways. But, you know, like a long time ago a bunch of people were getting only ones and zeros and look all they did with that. So, there's a lot of stuff that we can do with this.
+
+Now, how can we make FastAPI better for this? For streaming data, streaming bytes. So, that's what we are going to see. First, and I actually don't have very fancy slides because I spent most of the time I had to prepare the conference to to prepare the talk preparing the features in FastAPI that I wanted to land before here. So, I'm telling you things I'm talking about things that were released 2 weeks ago or so. So, this is like all new stuff.
+
+Your LLM models don't have this yet into their training set. &gt;&gt; [snorts] &gt;&gt; First, we need to output a bunch of text, a bunch of stuff, a bunch of JSON. So, we want to improve the performance for that. The first thing is let's say that we have an endpoint of a FastAPI path operation like this one. We have a Pydantic model like this. We want to improve the performance of the stuff that we are returning.
+
+So, what we do we define the return type annotation. That's it. That's it. That's the performance trick. Now, FastAPI has been using this for a long while to do data validation, to do data documentation, to do data filtering, and data conversion if it's necessary. Now, it's using Pydantic and using Pydantic's core that is built in Rust to do the data serialization.
+
+So, you get the data right from Python, from the memory that is in Python, and it's converted to JSON on the Rust side by Pydantic. So, just by defining the return type of your path operations, you're going to have crazy improvement in performance, like two weeks or something like that. It might be that you're already doing this. So, you just need to install the latest version. This also works if you have it's not only by that equals you could have like list of by that equals or list of ints or dictionaries of floats or whatever. The point is if you have the data type in the return type is going to be used by by that equals or by fast API to tell by that equals hey serialize this with JSON using your very fancy high performance tricks.
+
+So, this is the first thing that you can now use. Next, stream data. So, when we talk about streaming, we're normally saying we are generating a bunch of things that we want to return to whoever is the client and we want to start returning that information and give it that information to the client even before we finish generating the content or acquiring the content. So, we are taking some data and then we are just like giving it back to the client even before the data is finished coming. So, you know like you're just like passing it directly, which is very convenient for LLMs because they just spit tokens one at a time and you don't want to wait and hold until you get like everything before sending it to the client. In many cases, not all cases, but in many cases.
+
+For this, a very convenient format is JSON lines that looks like this. I'm showing you the raw content of the HTTP response. So, this is a JSON object that is in one line. Then there's a new line character, so you're just like it's a new line and then the next one is another JSON. Look, there are no commas, there are no square brackets. So, this is not really a JSON array, it's lines of JSON.
+
+And this means that you can send one at a time to the user and you can actually send infinite lines of JSON, but then fast API will just like stream one by one and then your client can consume one by one. So, you are being like way faster because you're starting to return response so the client can start using it very quickly and you're also saving a bunch of memory and you might be dealing with even infinite amounts of data. The way that you do this in fast API is using yield. So, this is again, this is like released one to weeks ago. So, when you yield it, not only have to before you will have to return something, now you can just yield each one of the items. So, this is going to yield each each item in turn.
+
+FastAPI will know that it has to convert this item to JSON. Again, if you define the type annotation, FastAPI will know that it can use Pydantic to convert each one of these items to a JSON line using Pydantic underneath. So, it's like very high-performance stuff. Nice. In many cases, you are not dealing just with JSON data, so you are dealing with pure bytes. So, you can also stream pure bytes.
+
+And the way to do it is setting the response class to a streaming response, and then yield each one of the you know, like chunks of bytes that you want to send. And that's it. Just use yield. Before you will be able to use a streaming response manually, creating a response class instance, passing it an iterator. So, the whole way it was quite complex. So, the idea with this is so that you can have a very simple code that actually does everything that needs to do underneath.
+
+And you can also, for example, subclass this streaming response just to set the media type or the content type. So, you can say, "Okay, this is actually going to return an image PNG." so that the client knows what it's receiving. And then just use those responses class, and then just like, you know, like iterate as normally. Uh if this will be like if you have a giant PNG image that you want to return, but it will be probably way more useful if you're returning a video or a audio or maybe giant PDF or binary files or something that you want to start streaming. Or maybe it's such a large file that you don't want to read it in memory at all, like complete in memory before starting to send it to the client. So, you could use this just to stream pure bytes.
+
+In this case, you are in charge of serializing and making sure that the bytes are or actual correct thing. FastAPI will not try to do anything with this to convert this to JSON or anything. No, like you're in charge of like generating the bytes that you want to send. And next, the jewel of the crown, server-sent events. So, server-sent events are this format. It's very similar to JSON lines, but weird.
+
+So, each one of these lines is one of the events. They are separated by double new line, which is similar to part of the HTTP standard. And then, this is not JSON. Look that this is Look that this doesn't have quotes, and then it has a colon. This is a field in the standard. Uh data is one of the official fields.
+
+There are like a few official fields. Data is one of those, and then you can pass any string here as the contents of that data thing. In most of the cases, the string that you want to pass is just JSON. In most of the cases, you will be still like just sending JSON. But you pass it inside of this particular data format. The thing with server-sent events is browsers have an included API for reading server-sent events when you send when you request them using a get request.
+
+So, browsers have a way to just consume these server-sent events. If you don't use like the the default APIs from the browser, you can also use it with just like regular fetch or like whatever, but then you are in charge of parsing this specific format. And the way that you do this in FastAPI is that you set the response class to an event source response. And then you yield items. FastAPI will make sure that each one of these items to JSON and is that is put in the right place. There are also a bunch of things that need to be had in mind when using server-sent events.
+
+You should be sending uh You should be sending a ping comment, so there's a way to not only send data, but you can also send a comment. You can also set an ID for the event so that the client can say, "The last event that I received was uh this ID." And then that you can restart from that. You can send a retry. You can send the There are like a few other fields that you can set. So, uh by the standard it's suggested that you will send a ping every 15 seconds so that they, you know, like proxies and things don't cut the connection. FastAPI does that underneath by default.
+
+So, it will handle everything by default, set the proper classes, uh the proper headers, HTTP headers to prevent some proxies from buffering stuff. Like, you know, like there's a few things, a couple of things that need to be done so that this all works properly. Also, the browsers only support get, but for example, uh MCP, uh at least the latest versions, uh supports server-sent events with POST requests. It will work the same. In FastAPI, you just like set app.get or app.post, whatever, response class EventSourceResponse, and then you yield each one of the items. It's a bit weird that it's server-sent events, and then you have an EventSourceResponse, and each one of these is an event, and this whole thing is an event stream.
+
+So, it's like, let's have like a thousand terms for the same technology and put them all together. But in the end, it's just the same thing. Uh and then, if you define the type annotation for what is is what what is each one, I forgot to English. What is each one of the items that you're returning with Pydantic, then it's also going to be used to serialize the thing in the Rust side. Now, if you want to have more control and select each one of the other fields, you can also do that. You can set the specific data that you want to send, but you can also say like, this is an event of type blah.
+
+The default event is message, that's what you will normally use, but if you have a very fancy server-sent events system set up that needs to send other types of events, you can also configure this manually here. You can set the ID, and you can set the retry. You can also send even a comments, that is like, you know, part of the standard. So, if you have more you want to have more control over the server-sent event standard, you can also do that as well. And if you want to send a I, you know, like use pure strings, You want to serialize the things the way that you want without FastAPI trying to convert it to JSON, you can just use raw data. So, this will just send each one of these lines directly as they are.
+
+Now, a little bit of FastAPI for AI and skills. FastAPI now includes a bundle skill. The official skill of FastAPI comes with FastAPI. Whenever there's a new version of FastAPI, this skill is updated. Like I updated it so that it has like the information to use all these new features. So, if you have FastAPI installed and you can see this is part of the repository.
+
+If you check in the files that are installed, you're going to have the skill right there with telling the agent how to use all these new features that are not even in the in the training set. We are also working on setting up the tool so that you can just like have this installed and updated automatically inside of your system. I'm also trying to convince the agent providers or hiring necessities because we keep making up words to just like support this. Because the idea is that the libraries should be able to provide their own official skills that are like constantly up to date. But this is already, you know, like this already shipped. It's already bundled there.
+
+It's already there. You can just like sim link while we finish setting up the the skill tools. Now, I wanted to show you a quick demo. Let's see if we have enough time. So, I want to show you how to use this server sentiment things. Things.
+
+So, we are using a a Pydantic AI agent. This is a very simple agent. You don't have to read the prompt. And then we have a bunch of Pydantic models because as a wise man once said, Pydantic is all you need. Then we have we are saying, "Okay, we're going to receive some messages. So, this is regular Pydantic.
+
+We are again using the thing that I was telling you of defining what is the return type. We are just saving this to Redis. And you know, to we are just like using what what you would expect. And then we are defining the event source response. So this is a server sent event stream thing. And we are just yielding each one of the messages that is processed.
+
+So this will receive messages that we sent, will process them, we will send them and save them in Redis. Then with Pydantic AI is going to process them and generate more stuff and like generate the actual final amazing result that we want to have. It's going to save it on Redis and then from here we just going to start it and we're going to just going to send it. And then like we also define the type of the data. Now this is the point where I have to show you the actual code. Okay, so this is the code that we have here.
+
+This is the moment of the live demo and I have very bad signal so this is probably going to break. &gt;&gt; [snorts] &gt;&gt; But I wanted to show you this live so I'm going to deploy it. Fast API deploy. Eh. And I don't know if I have good signal so we'll see. Okay, yeah, this is deploying.
+
+We [snorts] find the deployment. And also this is also I wanted to show you the VS Code extension. So here it is. I can see I was telling you that we have a post thing to send the messages so we can see the messages here. We can also see where we are streaming the messages all this stuff and we can also deploy this with the CLI. And I was just saying it was before.
+
+Oh, this is this signed out automatically. Well, I'm not going to show you that. But this is what I wanted to show you the demo using server sent events. It loads. Yes, it loads. So now I can say okay, I'm Sebastian.
+
+And I'm going to say hello SF. &gt;&gt; [snorts] &gt;&gt; That's my post on LinkedIn influencer and now it's just like link identifying it. And now &gt;&gt; [laughter] &gt;&gt; yeah. Am I hiring? Am I vibe coding? I don't know.
+
+Now yes, we are hiring more. William in chicken to the happy funny. You believe in chicken. Okay, you can just scan it and just see it and it's just going to keep rolling on your phones. You can do it right now. That was the intention and I was expecting to handle whatever questions we had just as this.
+
+So, we will have to have like LinkedIn questions. Hey, I will hope you will fill more stuff there. Also, this this is actually deployed on Fast API Cloud. If you join the waiting list with this link, we have more stuff there. It's already pre-filled with a code so that you can skip. We have several thousand waiting list, but if you join with that link with the Pi AI code, we will let you in this or next week if you join today.
+
+So, yeah. What's next for Fast API and AI? As I reflect on my journey, I can help but ponder the intersection of Fast API and AI. Let that sink in. I think like that seagull is mocking me. Okay, anyway, that's what I have for you.
+
+Let's I don't know if we even have time for questions. Sorry, we don't have time for questions. So, you can ask me around if you want. Thank you very much everyone. &gt;&gt; [applause] [music]

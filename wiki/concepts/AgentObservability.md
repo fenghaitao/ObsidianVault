@@ -66,5 +66,6 @@ Cole says it's "not that hard to set up" — most observability tools are a sing
 - [[AgentEvaluation]] — companion practice
 - [[PydanticAI]] — Logfire's native home
 - [[ColeMedin]] — author of the framing here
+- [[cole-brian-pydantic-observability-evaluation]] — cross-cutting synthesis
 - [[summary-20250526 - How I'd Learn AI Agents FAST if I Had to Start Over (Full Roadmap)]] — primary source (phase 7)
 - [[summary-20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent]] — Logfire tracing demo

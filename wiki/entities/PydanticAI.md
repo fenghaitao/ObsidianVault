@@ -9,7 +9,11 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260326 - Everything You Thought About Building AI Agents is Wrong.md"
-last_updated: 2026-06-20
+  - "raw/03-transcripts/Pydantic/Channel Only/20250415 - Pydantic, Jason Liu & MCP Meetup - April 8, 2025.md"
+  - "raw/03-transcripts/Pydantic/Channel Only/20250627 - MCP Sampling in Pydantic AI： How to Proxy LLM Calls.md"
+  - "raw/03-transcripts/Pydantic/Channel Only/20260219 - Reliable and Observable AI Agents with Pydantic AI and DBOS.md"
+  - "raw/03-transcripts/Pydantic/Channel Only/20260401 - Samuel Colvin Controlling the wild： Monty, from tool calling to computer use - PyAI Conf 2026.md"
+last_updated: 2026-06-25
 ---
 
 ## Definition
@@ -60,6 +64,26 @@ Archon's primary code-generation target is PydanticAI agents. Archon ingests the
 
 Per `summary-sdk-vs-framework-agents`, PydanticAI is Cole's go-to **framework** when an agent must be fast, cheap, and scalable for production / multi-user use — where a batteries-included [[ClaudeAgentSDK]] is too slow, token-heavy, and subscription-ToS-limited. It buys sub-second responses and full control (including owning your own message history for [[AgentObservability]]). You give up "out of the box" convenience but can add modern niceties yourself (skills, MCP). See [[AgentSDKvsFramework]].
 
+### MCP Sampling (mid-2025)
+
+PydanticAI supports MCP sampling: MCP servers can proxy LLM calls through the client rather than requiring their own API keys. Enabled automatically when running as an MCP client. Distributed tracing in Logfire shows the full call chain across client/server boundaries.
+
+### Pydantic Graph
+
+Part of PydanticAI, Pydantic Graph provides finite state machine functionality for multi-step agent workflows. Uses type annotations to define graph structure (no separate edge-definition functions). Supports snapshotting between nodes for durable execution and debugging. Can generate Mermaid diagrams of graph structure.
+
+### DBOS Integration (early 2026)
+
+One-line durable execution: wrap any PydanticAI agent with `DBOSAgent` for automatic checkpointing of every tool call and agent step to Postgres. Supports parallel workflows and workflow forking.
+
+### Pydantic AI Gateway Integration
+
+Use `gateway/` prefix on model names to route through the unified inference layer. No other code changes needed.
+
+### Monty Integration
+
+PydanticAI agents can use Monty for safe code execution. External functions registered as callbacks enable DuckDB queries, Matplotlib plotting, and arbitrary host functionality from within the sandboxed interpreter.
+
 ## Related
 
 - [[LangGraph]] — typical pairing for multi-step workflows
@@ -74,5 +98,10 @@ Per `summary-sdk-vs-framework-agents`, PydanticAI is Cole's go-to **framework** 
 - [[AgentSDKvsFramework]] — PydanticAI as the framework option vs SDKs
 - [[ClaudeAgentSDK]] — the batteries-included alternative
 - [[AgentEvaluation]], [[AgentObservability]] — built-in eval framework + Logfire
+- [[Monty]] — secure code execution integration
+- [[DBOS]] — durable execution integration
+- [[PydanticAIGateway]] — unified inference integration
+- [[Logfire]] — native observability
+- [[SamuelColvin]] — creator
 - [[summary-20260129 - Claude Skills Aren't Just for Claude - Here's How to Build Them for ANY Agent]] — skills agent, evals, and Logfire walkthrough
 - [[summary-20260326 - Everything You Thought About Building AI Agents is Wrong]] — framework vs SDK decision

@@ -27,7 +27,7 @@ For agent integration, "the source of truth is markdown on disk" is a substantia
 
 | Feature | Role |
 |---|---|
-| **Wiki-style links** `[[Page Name]]` | Bidirectional linking; the agent can author them with no special syntax |
+| **Wiki-style links** \`\[\[Page Name\]\]\` | Bidirectional linking; the agent can author them with no special syntax |
 | **Graph view** | Human-side overview of the wiki structure; reveals orphans and clusters |
 | **YAML frontmatter** | Per-page metadata the agent can read and write |
 | **Plugins** | Community ecosystem (Dataview, Excalidraw, etc.) |

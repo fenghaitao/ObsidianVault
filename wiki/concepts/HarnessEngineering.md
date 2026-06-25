@@ -99,5 +99,6 @@ PromptEngineering → ContextEngineering → HarnessEngineering
 - [[ColeMedin]] — articulator
 - [[LoopEngineering]] — the 2026 "loops do the work" framing, folded into this discipline
 - [[cole-vs-brian-agent-autonomy]] — synthesis comparing Cole's and Brian's autonomy patterns
+- [[cole-brian-pydantic-agent-infrastructure]] — cross-cutting synthesis with Pydantic and Brian Casel
 - [[summary-20260528 - Harness Engineering： What Separates Top Agentic Engineers Right Now]] — primary source
 - [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]] — loop engineering as harness engineering

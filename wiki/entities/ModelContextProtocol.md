@@ -87,3 +87,4 @@ Pairs commonly used together: **Crawl4AIRAG + Brave** — query private docs fir
 - [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]] — MCP Agent Army demo
 - [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]] — building your own MCP server with best practices
 - [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — recommended MCP server triad for AI coding
+- [[summary-20250627 - MCP Sampling in Pydantic AI： How to Proxy LLM Calls]] — MCP sampling feature
