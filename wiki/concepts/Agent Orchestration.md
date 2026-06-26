@@ -2,7 +2,7 @@
 title: "Agent Orchestration"
 type: concept
 tags: [agents, orchestration, parallelism, architecture, openhands]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md"]
 last_updated: 2026-06-26
 ---
 
@@ -29,3 +29,6 @@ Agent orchestration is the practice of coordinating multiple AI coding agents wo
 - [[Human-in-the-Loop Orchestration]] — review pattern
 - [[Cloud-Based Agent Sandboxes]] — infrastructure for orchestration
 - [[CVE Remediation at Scale]] — example use case
+- [[Paperclip]] — agent orchestrator with org-chart-based multi-agent coordination
+- [[AgentOrgChart]] — Paperclip's hierarchical orchestration model
+- [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — source

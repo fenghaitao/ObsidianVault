@@ -1,27 +1,118 @@
 ---
 title: "OpenClaw"
 type: entity
-tags: [tool, ai, agent, safety, open-source, gemini, smart-glasses]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md"]
+tags: [tool, ai, agent, safety, open-source, gemini, smart-glasses, personal-agent]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md"]
 last_updated: 2026-06-26
 ---
 
 ## Definition
-OpenClaw is an open-source project that connects Gemini Live to devices like Meta Ray-Ban smart glasses. It is also part of Kilo Code's product ecosystem alongside KiloClaw, representing a focus on secure agent usage patterns.
+OpenClaw is the fastest-growing open-source project in GitHub history, created by Peter Steinberger. It is a general-purpose personal AI agent framework that works with any model (frontier or local), connects to messaging apps (WhatsApp, Telegram, Slack, MS Teams), smart glasses (Meta Ray-Ban via Gemini Live), and smart home devices. It is governed by the vendor-neutral Open Claw Foundation and supported by contributors from OpenAI, Nvidia, Microsoft, Red Hat, Tencent, ByteDance, and others.
 
 ## Key Information
-- Open-source project for connecting Gemini Live API to wearable devices
-- Used with Meta Ray-Ban smart glasses: glasses connect to phone, phone connects to Gemini Live via OpenClaw
-- Mentioned by Thor Schaeff as a "pretty fun open source project" at the Building Conversational Agents workshop
-- Also part of Kilo Code's product offerings, paired with KiloClaw for safe agent usage
-- Brendan O'Leary highlighted OpenClaw and KiloClaw as a "big focus" area for Kilo Code
-- Paige Bailey recommended Gemini + OpenClaw as a good path forward for integrating Gemini APIs with workspace actions
+
+### Project Scale & Growth
+- 5 months old at time of Peter's State of the Claw talk (April 2026)
+- Fastest-growing project in GitHub history — growth described as "stripper pole gross" (straight vertical line, not hockey stick)
+- ~30,000 commits, closing in on 2,000 contributors, soon 30,000 PRs — velocity not slowing down
+- Largest number of GitHub stars of any non-educational software project
+
+### Architecture & Extensibility
+- Evolved from "big spaghetti codebase mess" to a plugin/extension architecture — "everything is an extension, a plugin"
+- Users can replace memory, add wiki, add dreaming, add any custom component — "just make it your own"
+- "It's more like Linux where you just can install your own parts"
+- Works with any model: frontier models from major labs or local models (with warnings for small models)
+
+### Security & Advisories
+- Received 1,142 security advisories (~16.6/day), 99 critical, ~469 published, 60% closed — roughly double the rate of Linux kernel and curl
+- Most advisories are AI-generated; "the higher they're screaming how critical they are, the more likely it's slop"
+- Nvidia launched NeMo Claw, a security layer/sandbox plugin for OpenClaw
+- Nation-state attacks: Ghost Claw (likely North Korea) — fake NPM package distributing rootkits
+- Supply chain: affected by Axios vulnerability through Slack/MS Teams dependencies even though OpenClaw doesn't use Axios
+- Security recommendations: personal agent should not be in group chat; if team agent, enable sandboxing; personal agent should only be accessible by owner
+- Belgium cybersecurity agency issued alert about an RCE that was actually a feature requiring non-default, non-recommended setup
+- Warns users when they use small models that lack defenses against prompt injection
+
+### Device & Platform Integrations
+- Connects Gemini Live API to Meta Ray-Ban smart glasses: glasses → phone → Gemini Live via OpenClaw
+- WhatsApp relay — Peter iterated on personality because Claude Code's default didn't fit how people text on WhatsApp
+- Telegram, Slack, MS Teams integrations maintained by contributors from those companies
+- Smart home control: Andrej Karpathy and Maran Dre use OpenClaw to run their houses
+- Home automation possible because "most smart devices are terrible in security, which means OpenClaw can run them"
+- Canvas feature for projecting information on nearby displays (iPads in every room)
+- Kilo Code product ecosystem: OpenClaw paired with KiloClaw for safe agent usage
+
+### Agent Personality & Soul
+- Peter created the soul.md concept after noticing Claude Code's personality didn't fit WhatsApp conversations
+- Iterated on making the agent "write more like a human" — less wordy, fewer dots, matching how friends text
+- OpenClaw includes delightful details like roasting messages for users
+- Personality work is about "taste" — the agent shouldn't "stink like AI"
+
+### Dreaming Feature
+- A memory reconciliation feature: goes through session logs, converts local memories to long-term storage, drops others
+- Analogy: how humans learn during sleep — garbage collection and memory consolidation
+- First step shipped; Anthropic also working on similar concept
+
+### Governance: Open Claw Foundation
+- Vendor-neutral foundation inspired by Ghosty's model — "building Switzerland"
+- Key principle: for OpenClaw to succeed, it "cannot be under one company"
+- Peter deliberately limits OpenAI involvement to avoid perception of takeover
+- Contributors from Nvidia, Microsoft, Red Hat, Telegram, Salesforce, Tencent, ByteDance, Alibaba, MiniMax, Kimi
+- Will enable hiring full-time maintainers
+
+### Philosophy
+- Peter: OpenClaw "would have never been able to come out of an American company just because it would have been killed in legal"
+- Built with "madness with a touch of science fiction" — accepting risks that large companies can't
+- On initial risk assessment: "What's the worst that can happen? It could exfiltrate my token, my emails... I can live with that risk"
+- OpenClaw is a "hacker way" to work around data silos — consumer agent can click "I'm not a bot" and access data that startups need 6 months of API approval for
+
+### Pi Integration Issue
+- Peter (a collaborator) embedded Pi as Open Claw's agent core, which caused Pi to become the target of many Open Claw instances posting garbage issues and PRs
+- Half of Pi's issue tracker became Open Claw instances posting garbage — a key example in Mario Zechner's "OSS in the age of clankers" critique
+- **Malte Ubl's perspective**: Cited OpenClaw as evidence of Europe's leadership in AI engineering innovation and as an example of application-layer innovation that thrives in a world of model commoditization
 
 ## Related
+- [[summary-20260417 - State of the Claw — Peter Steinberger]] — primary source (creator's talk)
 - [[summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind]] — source (glasses integration)
 - [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — source
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[GeminiLiveAPI]] — API it connects to
-- [[MetaRayBan]] — smart glasses it works with
-- [[KiloCode]] — the company behind OpenClaw
+- [[summary-20260416 - Building pi in a World of Slop — Mario Zechner]] — source (Pi integration, clanker problem)
+- [[PeterSteinberger]] — creator
+- [[OpenAI]] — Peter's employer, supporter
+- [[Nvidia]] — NeMo Claw security layer, engineering resources
+- [[Microsoft]] — MS Teams integration, Windows app
+- [[RedHat]] — security and dockerization
+- [[GeminiLiveAPI]] — API used for smart glasses
+- [[MetaRayBan]] — smart glasses integration
+- [[KiloCode]] — product ecosystem partner
+- [[AndrejKarpathy]] — runs OpenClaw for home automation
+- [[SimonWillison]] — working on prompt injection solutions for agents
+- [[ClaudeCode]] — used as personality baseline for WhatsApp relay
+- [[WhatsApp]] — messaging integration
+- [[Telegram]] — messaging integration
+- [[Slack]] — messaging integration
 - [[AgenticEngineering]] — the paradigm it supports
+- [[Dreaming (Agents)]] — memory reconciliation feature
+- [[Ubiquitous Agents]] — vision for agents everywhere
+- [[AgentPersonality]] — soul.md concept
+- [[Sandboxing]] — key security mitigation
+- [[PromptInjection]] — security concern
+- [[LethalTriquetra]] — security risk model relevant to agent design
+- [[SupplyChainAttack]] — Ghost Claw and Axios incidents
+- [[AI-Generated Security Reports]] — flood of AI advisories
+- [[OpenSourceFoundation]] — governance model
+- [[CVSS]] — scoring system critiqued by Peter
+- [[Pi (coding agent)]] — embedded as agent core
+- [[MarioZechner]] — Pi's creator, affected by clanker traffic
+- [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (cited as European AI innovation leader)
+- [[Model Commoditization]] — context for OpenClaw's strategic position
+- [[summary-20260423 - The End of Apps — Kitze, Sizzy.co]] — source (Kitze's experience, agent fatigue, community decline)
+- [[Kitze]] — community member, created Open Claw logo, wore lobster suits
+- [[Tinker Club]] — community focused on OpenClaw
+- [[Agent Fatigue]] — community burnout documented by Kitze
+- [[Agent Unreliability]] — cron jobs, multi-agent, memory failures
+- [[Hermes]] — alternative agent framework
+- [[Wolfer]] — Kitze's alternative built on Codex
+- [[Telegram]] — messaging UI (not designed for Life OS)
+- [[Discord]] — messaging UI (not designed for Life OS)
+- [[Life OS]] — the purpose these UIs weren't designed for

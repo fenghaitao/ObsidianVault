@@ -2,7 +2,7 @@
 title: "Temporal"
 type: entity
 tags: [company, open-source, distributed-systems, workflow, durability, agents]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md"]
 last_updated: 2026-06-26
 ---
 
@@ -35,4 +35,6 @@ Temporal is an open-source distributed systems backing service that provides dur
 - [[OpenAIAgentsSDK]] — integration partner
 - [[Codex]] — runs on Temporal
 - [[OpenAI]] — Codex and image gen run on Temporal
-- [[summary-20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal]] — source
+- [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (Uber spinout)
+- [[Uber]] — origin company
+- [[Chronosphere]] — another Uber spinout

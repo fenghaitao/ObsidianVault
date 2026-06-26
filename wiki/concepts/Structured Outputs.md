@@ -2,7 +2,7 @@
 title: "Structured Outputs"
 type: concept
 tags: [llm, outputs, api, data]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md"]
 last_updated: 2026-06-26
 ---
 
@@ -18,6 +18,7 @@ Structured outputs are language model responses formatted in structured data for
 - Combined with Whisper for audio transcription in the language learning demo
 - Structured outputs allow agents to return typed data that applications can directly consume
 - Available as a configurable tool in Google's AI Studio for Gemini models
+- **MCP structured output**: MCP has a structured output feature that tells the client what the return value type will be, enabling programmatic tool calling — the model can use this type information to compose multiple tool calls in code
 
 ## Related
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source for Anthropic structured JSON output
@@ -27,3 +28,6 @@ Structured outputs are language model responses formatted in structured data for
 - [[Agent Sandbox]] — environment where structured outputs are generated
 - [[File Upload for Agents]] — input method paired with structured output analysis
 - [[AI Studio]] — platform with structured outputs tool
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (MCP structured output for programmatic tool calling)
+- [[ProgrammaticToolCalling]] — pattern enabled by MCP structured output
+- [[MCP]] — protocol with structured output feature

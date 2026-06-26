@@ -2,7 +2,7 @@
 title: "MultimodalAI"
 type: concept
 tags: [llm, multimodal, images, audio, dspy]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md"]
 last_updated: 2026-06-26
 ---
 
@@ -32,6 +32,12 @@ Multimodal AI refers to LLM applications that work with multiple input modalitie
 - Google DeepMind's embeddings model supports video, images, audio, text, and code in the same embedding space
 - Gemini Live supports real-time screen sharing, video feeds, and audio conversations
 
+## Key Information (Gemini Embeddings 2)
+- Fully omnimodal embedding model: single vector for text (up to 8K tokens), 128 seconds of video, 80 seconds of audio, full PDFs
+- Uses Matryoshka Representation Learning for dimension-scalable retrieval
+- Inspired by neuroscience "Jennifer Aniston cells" — modality-invariant concept encoding
+- Trained with contrastive losses for robust cross-modal retrieval and comparison
+
 ## Related
 - [[DSPy]] — framework with multimodal support
 - [[Gemma4]] — natively multimodal model family
@@ -40,7 +46,11 @@ Multimodal AI refers to LLM applications that work with multiple input modalitie
 - [[Conformer]] — audio encoder architecture
 - [[AudioTokenizer]] — audio preprocessing pipeline
 - [[summary-20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners]] — source
+- [[summary-20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research]] — source
 - [[summary-20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind]] — source
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[Gemini 3.1 Pro]] — multimodal model
 - [[Multimodal Embeddings]] — related concept
+- [[GeminiEmbeddings2]] — omnimodal embedding model
+- [[OmnimodalEmbeddings]] — stricter form of multimodal embeddings
+- [[JenniferAnistonCells]] — neuroscience inspiration

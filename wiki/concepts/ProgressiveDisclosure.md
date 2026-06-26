@@ -2,7 +2,7 @@
 title: "Progressive Disclosure"
 type: concept
 tags: [mcp, design-pattern, context, token-budget]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md"]
 last_updated: 2026-06-26
 ---
 
@@ -24,3 +24,6 @@ Progressive Disclosure is a design pattern for MCP servers where tool informatio
 - [[ErrorsAsPrompts]] — related form of progressive disclosure
 - [[ClaudeDesktop]] — client that breaks progressive disclosure
 - [[MCP]] — protocol
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (progressive discovery as client-side counterpart)
+- [[ProgressiveDiscovery]] — related client-side pattern for on-demand tool loading
+- [[ToolSearch]] — mechanism for progressive discovery

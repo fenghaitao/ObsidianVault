@@ -2,16 +2,24 @@
 title: "Agent Observability"
 type: concept
 category: methodology
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md"]
+last_updated: 2026-06-26
 ---
 
 # Agent Observability
 
 ## Definition
 
-Agent observability is the built-in capability to inspect AI agent runs, including every step (LLM call, tool call), its inputs, outputs, events, and timing. In the Workflow DevKit, this is provided through a web UI accessible via the `workflow web` CLI command, which works identically for local development and production deployments.
+Agent observability is the built-in capability to inspect AI agent runs, including every step (LLM call, tool call), its inputs, outputs, events, and timing. Mario Zechner cited the lack of observability as a primary reason for abandoning Claude Code: "There's zero observability because that's how the tool is constructed and I like knowing what my agents are doing."
 
 ## Key Information
 
+### Mario Zechner's Perspective
+- Claude Code has "zero observability" — a fundamental design limitation
+- Mario: "I like knowing what my agents are doing"
+- This lack of transparency was one of the key reasons he built Pi
+
+### Workflow DevKit Perspective
 - **What is observable**:
   - Every workflow run with its status (running, completed, failed, cancelled)
   - Every step within a run, displayed as spans with inputs and outputs
@@ -43,7 +51,11 @@ Key challenges of agent observability at scale:
 - [[WorkflowPattern]]
 - [[StepCaching]]
 - [[summary-20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust]] — source (Braintrust perspective)
+- [[summary-20260416 - Building pi in a World of Slop — Mario Zechner]] — source (Mario's critique)
 - [[Braintrust]] — agent quality platform
 - [[EvalFlywheel]] — observability-evals loop
 - [[TraceDataChallenges]] — data challenges of agent traces
 - [[OnlineEvals]] — scoring functions on observability traffic
+- [[ClaudeCode]] — criticized for zero observability
+- [[MarioZechner]] — critic of Claude Code's lack of observability
+- [[ContextOwnership]] — related transparency concern

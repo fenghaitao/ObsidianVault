@@ -30,3 +30,5 @@ Cross-App Access (XAA) is an authentication pattern where an identity provider a
 - [[WorkOS]]
 - [[ConsentScreens]]
 - [[summary-20260428 - One Login to Rule Them All： Cross-App Access for MCP — Garrett Galow, WorkOS]]
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (XAA as part of MCP roadmap)
+- [[DavidSoriaParra]] — announced XAA as an upcoming MCP feature

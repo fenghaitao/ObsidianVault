@@ -2,7 +2,7 @@
 title: "Anthropic"
 type: entity
 tags: [company, ai, frontier-models, claude]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Welcome to AIE CODE - Jed Borovik, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Cognitive Exhaust Fumes, or： Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gateways are All You Need — Karan Sampath, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Welcome to AIE CODE - Jed Borovik, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Cognitive Exhaust Fumes, or： Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gateways are All You Need — Karan Sampath, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md"]
 last_updated: 2026-06-26
 ---
 
@@ -39,6 +39,12 @@ Anthropic is an AI research company known for its Claude models, which pioneered
 - Created the MCP (Model Context Protocol) as an open standard, with an official registry containing thousands of servers
 - Karan Sampath, Forward Deployed Engineer, advocates for MCP Gateways as the solution to enterprise MCP adoption challenges (observability, access control, security)
 - Anthropic's vision: separate the agent harness from the data layer, with the MCP Gateway as the invariant layer
+- MCP reached 110 million monthly downloads, growing faster than React did — used by OpenAI's Agent SDK, Google's ADK, LangChain, and thousands of frameworks
+- MCP roadmap includes: stateless transport protocol (from Google), improved async tasks for agent-to-agent communication, TypeScript SDK v2 and Python SDK v2, cross-app access, server discovery via well-known URLs, skills over MCP, and MCP applications
+- David Soria Parra, MCP engineer, advocates for a connectivity stack approach: skills + MCP + CLI/computer use, used together seamlessly
+- Emphasizes progressive discovery and programmatic tool calling as essential client-side patterns for MCP
+- Acknowledged FastMCP as better than the official Python SDK, which he originally authored
+- **Agent product harness separation**: As of April 2026, Anthropic's new agent product separates where the harness runs from where generated code runs — a key architectural decision that Malte Ubl (CTO Vercel) praised as correcting the "fundamentally wrong architecture" of most current agent harnesses
 
 ## Related
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source
@@ -84,3 +90,23 @@ Anthropic is an AI research company known for its Claude models, which pioneered
 - [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]] — source (Claude 3 Haiku and Claude 3.5 Sonnet on Bedrock)
 - [[summary-20240719 - Lessons From A Year Building With LLMs]] — source (Sonnet as competitive alternative, model-as-moat discussion)
 - [[ModelIsNotTheMoat]] — concept Anthropic's mention supports
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (MCP roadmap and future)
+- [[DavidSoriaParra]] — MCP engineer at Anthropic
+- [[MCPApplications]] — experimental MCP feature
+- [[ProgressiveDiscovery]] — client-side MCP pattern advocated by Anthropic
+- [[ProgrammaticToolCalling]] — client-side MCP pattern advocated by Anthropic
+- [[ConnectivityStack]] — skills + MCP + CLI/computer use framework
+- [[SkillsOverMCP]] — upcoming MCP extension
+- [[StatelessTransportProtocol]] — Google's MCP transport proposal
+- [[AgentToAgentCommunication]] — MCP async task primitive
+- [[ServerDiscovery]] — upcoming MCP specification
+- [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (harness separation in new agent product)
+- [[AgentHarnessSeparation]] — architectural principle in their new agent product
+- **Mario Zechner's perspective**: Mario loved the Claude team ("brilliant people, talented, super high velocity") but criticized Claude Code's context control, system prompt instability, and lack of observability. He built Pi as an alternative. Mario called Amp and FactoryDroid the "Porsche and Lamborghini" of agent harnesses — excellent but not free.
+- [[summary-20260416 - Building pi in a World of Slop — Mario Zechner]] — source
+- [[MarioZechner]] — creator of Pi
+- [[Pi (coding agent)]] — alternative to Claude Code
+- [[ContextOwnership]] — Mario's core critique
+- **Tuomas Artman's critique**: Tuomas noted that Anthropic's claim of Claude Code being built by Claude is visible in the product — small bugs appear within seconds, it's slow, and behaves unexpectedly. He attributes this to Anthropic being in a winner-takes-all competition with OpenAI, forcing them to ship features at the expense of quality. "The side effect of that is that the quality just isn't there."
+- [[summary-20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer]] — source (critique)
+- [[TuomasArtman]] — critic who noted quality issues

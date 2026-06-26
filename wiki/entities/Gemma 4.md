@@ -2,7 +2,7 @@
 title: "Gemma 4"
 type: entity
 tags: [model, google, deepmind, open-source, apache2, mobile]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md"]
 last_updated: 2026-06-26
 ---
 
@@ -18,9 +18,14 @@ Gemma 4 is Google DeepMind's open model family, released under an Apache 2 licen
 - Planned integration with Pixel 10 and Chrome browser
 - Released shortly before April 2026 (after Gemini 3.1 training data cutoff)
 - Presented by Ian from the Gemma team at AIE conference
+- Runs on iPhone via MLX at 40 tokens/second with 4-bit quantization (demonstrated in Locally AI)
+- Available in multiple quantization variants on Hugging Face MLX community (4-bit, 5-bit, 6-bit, 8-bit, BF16, MXFP4)
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
+- [[summary-20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI]] — source
 - [[Google DeepMind]] — creator
 - [[AI Studio]] — platform for API access
 - [[Gemini 3.1 Pro]] — larger sibling model family
+- [[MLX]] — framework for running on iPhone
+- [[Locally AI]] — iOS app running Gemma 4 on-device

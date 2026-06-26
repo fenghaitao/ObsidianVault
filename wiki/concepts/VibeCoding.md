@@ -2,7 +2,7 @@
 title: "VibeCoding"
 type: concept
 tags: [ai-coding, development-methodology]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md"]
 last_updated: 2026-06-26
 ---
 
@@ -19,6 +19,7 @@ Vibe Coding is an AI-assisted coding approach where developers guide AI to write
 
 - Al Harris (Amazon Kiro) describes vibe coding as relying heavily on the operator getting things right and providing guardrails — Kiro's spec-driven development aims to add structure to improve reliability
 - Kiro was built in response to the observation that "vibe coding is great, but vibe coding relies a lot on me as the operator getting things right"
+- **Malte Ubl's usage**: Malte described his personal projects (chat SDK and just bash) as his "vibe coding stack" — side projects hacked on with AI assistance
 
 ## Related
 - [[summary-20251222 - No More Slop – swyx]] — source
@@ -28,4 +29,5 @@ Vibe Coding is an AI-assisted coding approach where developers guide AI to write
 - [[CodeSlop]] — the negative outcome of poor vibe coding
 - [[Kino]] — the positive outcome of good vibe coding
 - [[Slop]] — the broader quality problem
-- [[SpecificationDrivenDevelopment]] — the structured alternative Kiro offers
+- [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (Malte's vibe coding stack)
+- [[Malte Ubl]] — uses vibe coding for personal projects

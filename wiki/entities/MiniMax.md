@@ -2,7 +2,7 @@
 title: "MiniMax"
 type: entity
 tags: [company, ai, llm, china]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md"]
 last_updated: 2026-06-25
 ---
 
@@ -14,7 +14,10 @@ MiniMax is a Chinese AI lab behind MiniMax M2, a state-of-the-art open model tha
 - Deliberately chose not to use hybrid attention architectures (linear, sparse, sliding window)
 - Published a detailed explanation of why they stuck with quadratic attention: more efficient architectures have an inherent trade-off in computation vs. quality
 - Their findings support the argument that even if you can technically build models that don't break at millions of tokens, they aren't actually better at reasoning tasks
+- Model provider collaborating with OpenClaw — Peter Steinberger mentioned MiniMax as one of the companies "very much on board" with the Open Claw Foundation
 
 ## Related
 - [[summary-20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is]] — source
+- [[summary-20260417 - State of the Claw — Peter Steinberger]] — source (OpenClaw collaboration)
 - [[ContextBroad]] — related limitation they implicitly acknowledge
+- [[OpenClaw]] — project MiniMax collaborates with

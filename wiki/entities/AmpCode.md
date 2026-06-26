@@ -2,12 +2,12 @@
 title: "AmpCode"
 type: entity
 tags: [product, coding-agent, terminal, editor]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md"]
+last_updated: 2026-06-26
 ---
 
 ## Definition
-Amp Code (AMP) is an opinionated frontier coding agent that can be invoked from the terminal or integrated into editors (VS Code, Cursor, Windsurf, Anti-gravity, Emacs, Neovim, JetBrains). It features a custom TUI framework, specialized sub-agents, and a dual-agent architecture.
+Amp Code (AMP) is an opinionated frontier coding agent that can be invoked from the terminal or integrated into editors (VS Code, Cursor, Windsurf, Anti-gravity, Emacs, Neovim, JetBrains). It features a custom TUI framework, specialized sub-agents, and a dual-agent architecture. Mario Zechner called it the "Porsche" of coding agent harnesses.
 
 ## Key Information
 - Built a complete terminal UI framework from scratch to leverage modern terminal capabilities (including graceful degradation for basic terminals)
@@ -21,10 +21,13 @@ Amp Code (AMP) is an opinionated frontier coding agent that can be invoked from 
 - Positions itself as an "agentic research lab" targeting early adopters who "want to live a little bit in the future"
 - Notable users include Mitchell Hashimoto (Ghosty) and Hamill Hussein (AI evals authority)
 - Community of builders run by Ryan Carson (former Treehouse founder)
+- Mario Zechner: "Amp and FactoryDroid, the Porsche and Lamborghini of coding agent harnesses. So, if you can afford them, please use them."
 
 ## Related
 - [[summary-20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code]] — source
+- [[summary-20260416 - Building pi in a World of Slop — Mario Zechner]] — source (endorsement)
 - [[BeyangLiu]] — team member and presenter
+- [[MarioZechner]] — endorsed Amp
 - [[SubAgents]] — core architectural pattern
 - [[AgentOrientedArchitecture]] — Amp's architectural philosophy
 - [[Ghosty]] — terminal emulator; core contributor built Amp's TUI

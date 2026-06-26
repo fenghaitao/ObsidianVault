@@ -21,3 +21,5 @@ Jason Warner is the co-founder of Poolside and former CTO of GitHub (2017+). At 
 - [[NatFriedman]]
 - [[ReinforcementLearningWithLLMs]]
 - [[AGI]]
+- [[VerifiersRule]] — coined by Warner: if a task is solvable and easy to verify, AI will solve it
+- [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source where Verifier's Rule is discussed

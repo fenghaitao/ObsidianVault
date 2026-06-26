@@ -33,4 +33,4 @@ GitHub Copilot is an AI coding assistant that was the last product launched from
 - [[AI for Engineers]] — core design philosophy
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source
 - [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — source (historical context)
-- [[summary-20240719 - Lessons From A Year Building With LLMs]] — source (specific job titles as best practice)
+- [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (Shopify early access story)

@@ -2,7 +2,7 @@
 title: "MixtureOfExperts"
 type: concept
 tags: [architecture, llm, efficiency, moe]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md"]
 last_updated: 2026-06-26
 ---
 
@@ -15,7 +15,9 @@ Mixture of Experts (MoE) is a neural network architecture where multiple small f
 - Replaces the standard feedforward neural network in the decoder block with an MoE layer
 - Provides significant efficiency gains while maintaining high performance
 - First MoE model in the Gemma family
+- Described as "super fast, very low latency" — optimized for speed over raw intelligence compared to the 31B dense model
 
 ## Related
 - [[Gemma4]] — uses MoE in the 26B variant
 - [[summary-20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind]] — source
+- [[summary-20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind]] — source

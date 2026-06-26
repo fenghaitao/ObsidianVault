@@ -2,7 +2,7 @@
 title: "RoPE"
 type: concept
 tags: [architecture, positional-encoding, attention, llm]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md"]
 last_updated: 2026-06-26
 ---
 
@@ -22,3 +22,6 @@ Rotary Position Embeddings (RoPE) encode positional information into transformer
 - [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — source
 - [[SelfAttentionMechanism]] — attention mechanism using RoPE
 - [[GroupedQueryAttention]] — attention variant also using RoPE
+
+- **ModernBERT adaptation**: Uses different rotation speeds for local attention (faster rotation) and global attention (slower rotation) to avoid completing full cycles that would make distant tokens appear close
+- **Continuous context window**: Unlike absolute positional encodings, RoPE's context window is continuous and only limited by geometry, not training size

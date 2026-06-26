@@ -2,7 +2,7 @@
 title: "Task Decomposition"
 type: concept
 tags: [agents, orchestration, planning, methodology]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md"]
 last_updated: 2026-06-26
 ---
 
@@ -27,3 +27,7 @@ Task decomposition is the process of breaking down a large software engineering 
 - [[Scaffolding Pattern]] — scaffolding strategy
 - [[Parallel Agents]] — execution model
 - [[Sub-agent Orchestration]] — related pattern
+- [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (decomposition as a strategy to increase trust by making sub-tasks verifiable)
+- [[VerifiersRule]] — decomposition helps bring tasks into the "easy to verify" quadrant
+- [[Agent-Human Collaboration]] — decomposition increases trust by creating verifiable sub-tasks while leaving hard-to-verify decisions to humans
+- [[JacobLauritzen]] — presented decomposition in the context of legal AI (breaking contract writing into verifiable sub-tasks like formatting and definition checking)

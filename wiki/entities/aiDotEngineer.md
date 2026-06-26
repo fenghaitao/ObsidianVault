@@ -3,7 +3,7 @@ title: "aiDotEngineer"
 type: entity
 category: organization
 tags: [conference, youtube, ai-engineering]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260114 - Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gateways are All You Need — Karan Sampath, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260114 - Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gateways are All You Need — Karan Sampath, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md"]
 last_updated: 2026-06-26
 ---
 
@@ -29,3 +29,8 @@ aiDotEngineer is an AI engineering conference and YouTube channel that hosts tal
 - [[summary-20260427 - Gateways are All You Need — Karan Sampath, Anthropic]]
 - [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]]
 - [[summary-20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner]]
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]]
+- [[DavidSoriaParra]]
+- [[Paperclip]] — open-source agent orchestrator presented at the conference
+- [[DottaBippa]] — Paperclip creator, presented at the conference
+- [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]]

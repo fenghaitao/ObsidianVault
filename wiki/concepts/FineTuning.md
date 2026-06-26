@@ -2,7 +2,7 @@
 title: "FineTuning"
 type: concept
 tags: [technique, llm, training, optimization]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md"]
 last_updated: 2026-06-26
 ---
 ## Definition
@@ -22,3 +22,7 @@ Fine-tuning is the process of further training a pre-trained LLM on domain-speci
 - [[AIEngineer]] — the role that should precede ML engineering hires
 - [[DataFlywheel]] — the data collection cycle that should precede fine-tuning
 - [[ModelIsNotTheMoat]] — related strategic argument against over-investing in models
+
+- **Encoder fine-tuning for safety**: ModernBERT fine-tuned on InjectGuard (75K labeled examples) with a classification head achieves ~85% accuracy at 35ms latency for prompt safety classification
+- **Practical pipeline**: Dataset preparation → tokenization → add classification head → train with BF16 and Adam optimizer → inference on CPU or GPU with FlashAttention
+- **Memory optimization**: BF16 reduced training memory by ~40%, enabling batch size of 64; FlashAttention + alternating attention reduced memory by ~70%

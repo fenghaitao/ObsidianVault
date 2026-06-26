@@ -2,7 +2,7 @@
 title: "Human-in-the-Loop Workflows"
 type: concept
 tags: [agents, workflow, human-review, orchestration]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md"]
 last_updated: 2026-06-26
 ---
 
@@ -34,3 +34,10 @@ Human-in-the-loop workflows are a pattern where a workflow suspends execution at
 - [[StepCaching]]
 - [[Human-in-the-Loop Orchestration]] — broader orchestration-level pattern
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
+- [[Paperclip]] — implements reviewer/approver human-in-the-loop gates for agent tasks
+- [[AgentReviewerApprover]] — Paperclip's QA review and manager approval workflow pattern
+- [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — source
+- [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (agent-human collaboration framework with trust and control dimensions)
+- [[Agent-Human Collaboration]] — broader framework with trust and control dimensions
+- [[Decision Log]] — non-blocking alternative: agents make decisions and log them for later human review instead of blocking
+- [[Elicitation]] — asking the human at decision points, with non-blocking variant

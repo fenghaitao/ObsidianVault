@@ -2,7 +2,7 @@
 title: "MultiAgentArchitecture"
 type: concept
 tags: [concept, architecture, ai-agents, genbi, pipeline, crewai, orchestration]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240808 - Using agents to build an agent company： Joao Moura.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - Small Bets, Big Impact Building GenBI at a Fortune 100 – Asaf Bord, Northwestern Mutual.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240808 - Using agents to build an agent company： Joao Moura.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - Small Bets, Big Impact Building GenBI at a Fortune 100 – Asaf Bord, Northwestern Mutual.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md"]
 last_updated: 2026-06-26
 ---
 
@@ -35,3 +35,6 @@ Multi-Agent Architecture is a design pattern where multiple specialized AI agent
 - [[AgentCompanyPattern]] — business application using multi-agent crews
 - [[AgentVisualization]] — visual representation of multi-agent systems
 - [[NorthwesternMutual]] — company implementing the architecture
+- [[Paperclip]] — agent orchestrator using hierarchical multi-agent org charts
+- [[AgentOrgChart]] — Paperclip's org-chart-based multi-agent architecture
+- [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — source

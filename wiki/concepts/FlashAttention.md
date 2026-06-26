@@ -2,7 +2,7 @@
 title: "FlashAttention"
 type: concept
 tags: [optimization, attention, kernel, llm]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md"]
 last_updated: 2026-06-26
 ---
 
@@ -20,3 +20,7 @@ FlashAttention is an optimized attention kernel implementation that computes the
 - [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — source
 - [[SelfAttentionMechanism]] — the computation FlashAttention optimizes
 - [[Triton]] — kernel language for custom attention implementations
+
+- **GPU memory hierarchy**: On-chip memory (~30 TB/s) vs off-chip memory (~10x slower); FlashAttention keeps computation in on-chip memory by processing attention in blocks
+- **ModernBERT synergy**: Combined with alternating attention, FlashAttention reduced fine-tuning memory requirements by ~70%
+- **Key insight**: The bottleneck is memory transfers between GPU memory levels, not floating-point operations

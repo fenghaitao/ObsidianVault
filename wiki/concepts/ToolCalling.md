@@ -2,7 +2,7 @@
 title: "ToolCalling"
 type: concept
 tags: [llm, agent-architecture, function-calling, coding-agents, mcp]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md"]
 last_updated: 2026-06-26
 ---
 
@@ -22,6 +22,8 @@ Tool calling is the LLM capability that enables models to output structured func
 - Tool descriptions are injected into the system prompt to guide model behavior
 - **Third-party tool optimization**: Generic third-party tools often need curation (filtering irrelevant tools), wrapping (enhanced descriptions), deterministic guardrails, composition (new tools from existing ones), and deterministic usage outside the agent loop to work effectively for specific use cases.
 - **Description importance**: Tool descriptions are critical because they let agents know when to use the code and how to use it. Generic descriptions from third-party MCP servers are often too shallow for specific applications.
+- MLX Swift LM supports tool calling natively for on-device models on iOS/macOS
+- On-device models are getting better at tool calling over time (noted improvement from a year ago to April 2026)
 
 ## Related
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source for Anthropic Tool Use API

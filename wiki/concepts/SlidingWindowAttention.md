@@ -2,7 +2,7 @@
 title: "SlidingWindowAttention"
 type: concept
 tags: [architecture, attention, efficiency, llm]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md"]
 last_updated: 2026-06-26
 ---
 
@@ -21,3 +21,5 @@ Sliding Window Attention is an attention mechanism where each token attends only
 - [[InterleavedLocalGlobalAttention]] — broader attention pattern
 - [[GroupedQueryAttention]] — complementary optimization
 - [[summary-20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind]] — source
+
+- **ModernBERT local attention**: Uses 128-token sliding window (64 left + 64 right) in alternating attention pattern, capturing locally concentrated attack patterns like gibberish suffixes and short prompt injections

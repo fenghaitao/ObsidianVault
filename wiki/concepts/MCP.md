@@ -2,7 +2,7 @@
 title: "MCP"
 type: concept
 tags: [protocol, agent-integration, context, tools]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gateways are All You Need — Karan Sampath, Anthropic.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gateways are All You Need — Karan Sampath, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md"]
 last_updated: 2026-06-26
 ---
 
@@ -27,6 +27,11 @@ MCP (Model Context Protocol) is a protocol for providing context to AI agents, e
 - **Code mode**: Emerging technique where LLMs write code calling MCP tools in sequence, sidestepping iteration problems.
 - **Context overhead concern** (Brendan O'Leary): Every enabled MCP server adds tool descriptions to the system prompt on every interaction. Disable unused MCP servers to avoid wasted tokens and potential agent confusion. Example: a Postgres MCP connected to a database adds unnecessary context when doing front-end work. There are thousands of MCP servers available.
 - **Examples**: GitHub MCP (interact with GitHub API, pull requests, issues), Context7 (up-to-date framework documentation), Postgres MCP (database connectivity).
+
+- **Ecosystem growth**: Reached 110 million monthly downloads, growing faster than React did. Used by OpenAI's Agent SDK, Google's ADK, LangChain, and thousands of frameworks as a dependency — establishing one common standard across the industry.
+- **MCP roadmap** (from David Soria Parra, Anthropic): (1) Stateless transport protocol (from Google) for easier hyperscaler scaling — June 2026; (2) Improved async task primitive for agent-to-agent communication; (3) TypeScript SDK v2 and Python SDK v2; (4) Cross-app access — login once with company IdP, use all MCP servers; (5) Server discovery via well-known URLs; (6) Skills over MCP — ship domain knowledge with servers; (7) MCP applications — serving UI interfaces over MCP.
+- **Connectivity stack**: David Soria Parra advocates using skills, MCP, and CLI/computer use together — no single solution fits all connectivity problems. MCP is best when you need rich semantics, platform independence, authorization, governance, or enterprise features.
+- **Design for agents**: MCP servers should be designed for agent interaction, not just wrapped REST APIs. Use rich MCP semantics: applications, skills over MCP, tasks, elicitation.
 
 - **Enterprise challenges**: Three core problems for enterprise MCP adoption — observability (who is using which MCP, which tools aren't working), access control (scoping tools to correct users/groups), and security (verifying server safety, preventing data exfiltration, securing remote untrusted clients). Described as a "three-headed hydra."
 - **MCP Gateway**: Proposed solution for enterprise MCP deployment — a middleware layer centralizing authentication, access control, routing, observability, credential management, and deployment. Establishes a root of trust enabling decentralized MCP development across teams.
@@ -59,3 +64,14 @@ MCP (Model Context Protocol) is a protocol for providing context to AI agents, e
 - [[Context7]] — example MCP server for documentation
 - [[summary-20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro]] — source (Kiro's MCP integration)
 - [[AmazonKiro]] — IDE that extensively uses MCP across all spec phases
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (MCP roadmap, ecosystem growth, connectivity stack)
+- [[DavidSoriaParra]] — MCP engineer at Anthropic
+- [[MCPApplications]] — experimental feature for serving UI over MCP
+- [[ProgressiveDiscovery]] — client-side pattern for on-demand tool loading
+- [[ProgrammaticToolCalling]] — composing tool calls in code
+- [[ConnectivityStack]] — skills + MCP + CLI/computer use framework
+- [[SkillsOverMCP]] — upcoming extension for shipping skills with servers
+- [[StatelessTransportProtocol]] — Google's proposal for scalable MCP transport
+- [[AgentToAgentCommunication]] — async task primitive for agent-to-agent
+- [[ServerDiscovery]] — auto-discovery via well-known URLs
+- [[ToolSearch]] — mechanism for progressive discovery

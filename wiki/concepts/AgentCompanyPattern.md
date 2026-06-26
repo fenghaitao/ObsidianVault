@@ -2,7 +2,7 @@
 title: "AgentCompanyPattern"
 type: concept
 tags: [agents, ai-agents, automation, business, crewai, organization]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240808 - Using agents to build an agent company： Joao Moura.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240808 - Using agents to build an agent company： Joao Moura.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md"]
 last_updated: 2026-06-26
 ---
 
@@ -29,3 +29,7 @@ The Agent Company pattern is an organizational approach where AI agent crews han
 - [[AgentMarketingAutomation]] — specific application (marketing crew)
 - [[LeadQualificationAgents]] — specific application (lead qualification crew)
 - [[AgentProductionDeployment]] — deployment pattern for agent crews
+- [[Paperclip]] — agent orchestrator implementing org-chart-based agent companies
+- [[ZeroHumanCompany]] — Paperclip's vision of AI-run businesses
+- [[AgentOrgChart]] — Paperclip's hierarchical organizational structure for agents
+- [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — source

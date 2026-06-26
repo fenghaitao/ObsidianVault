@@ -2,7 +2,7 @@
 title: "ModelIsNotTheMoat"
 type: concept
 tags: [strategy, llm, business, product]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md"]
 last_updated: 2026-06-26
 ---
 ## Definition
@@ -16,6 +16,7 @@ last_updated: 2026-06-26
 - High benchmark scores (87% on Spider SQL, 67% on HumanEval) do not automatically translate to a product or automation of real user requests
 - An excellent LLM-powered application is first and foremost an excellent product — well-designed, solving a job to be done, enhancing user experience
 - The alternative to model-as-moat: build things that generalize to smarter and faster models, maintain product quality under uncertainty, and enable continuous improvement
+- **Malte Ubl's extension**: The model companies are commoditizing, which means the application layer (AI engineers, not model labs) captures the value. In this world, "we the AI engineers are the powerful ones." This extends the original thesis by arguing not just that models aren't a moat for application builders, but that model commoditization structurally shifts value to the application layer.
 
 ## Related
 - [[summary-20240719 - Lessons From A Year Building With LLMs]] — source
@@ -23,4 +24,6 @@ last_updated: 2026-06-26
 - [[ContinuousImprovement]] — the alternative strategy to model-as-moat
 - [[ZoneOfGenius]] — where companies should focus instead
 - [[OpenAI]] — model provider discussed
-- [[Anthropic]] — model provider discussed as competitive alternative
+- [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (model commoditization extension)
+- [[Model Commoditization]] — related thesis by Malte Ubl
+- [[Malte Ubl]] — extended the concept

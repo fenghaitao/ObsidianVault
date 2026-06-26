@@ -2,7 +2,7 @@
 title: "FastMCP"
 type: entity
 tags: [tool, mcp, python, framework, open-source]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi.md"]
 last_updated: 2026-06-26
 ---
 
@@ -21,6 +21,7 @@ FastMCP is the de facto standard Python framework for building MCP (Model Contex
 - Handles automatic string-to-object deserialization as a workaround for Claude Desktop's limitations with structured arguments
 - Plans to add an experiments/optimize flag to the CLI for features like code mode support
 - Lowin describes being "overwhelmed" and "back in an open source maintenance seat" due to its popularity
+- David Soria Parra (Anthropic, original Python SDK author) publicly acknowledged FastMCP is "way better than Python SDK that we're shipping" and that Anthropic is bringing in better Python developers to rewrite the official SDK
 
 ## Related
 - [[summary-20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect]] — source
@@ -28,3 +29,5 @@ FastMCP is the de facto standard Python framework for building MCP (Model Contex
 - [[PrefectTechnologies]] — maintaining company
 - [[MCP]] — protocol it implements
 - [[ClaudeDesktop]] — client with compatibility issues
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (public acknowledgment)
+- [[DavidSoriaParra]] — original Python SDK author who acknowledged FastMCP

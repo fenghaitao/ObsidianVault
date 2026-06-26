@@ -2,7 +2,7 @@
 title: "Unsloth"
 type: entity
 tags: [project, open-source, llm, tool]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Fixing bugs in Gemma, Llama, & Phi 3： Daniel Han.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Fixing bugs in Gemma, Llama, & Phi 3： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md"]
 last_updated: 2026-06-26
 ---
 
@@ -18,11 +18,14 @@ Unsloth is Daniel Han's open-source fine-tuning tool that automatically detects 
 - **Ollama Export**: Automatically generates correct Ollama model files with matching chat templates; supports multi-GGUF export
 - **Community**: Active Discord channel, blog posts documenting all bug fixes, and free Colab notebooks for getting started
 - Founded by Daniel Han and his brother
+- Collaborates with Google DeepMind on Gemma 4 support, ensuring community tools work with new models at launch
 
 ## Related
 - [[DanielHan]] — founder
+- [[Gemma4]] — supported model family
 - [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — source
 - [[summary-20240731 - Fixing bugs in Gemma, Llama, & Phi 3： Daniel Han]] — source
+- [[summary-20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind]] — source
 - [[LoRA]] — fine-tuning method used
 - [[Ollama]] — export target
 - [[GGUF]] — model format for export

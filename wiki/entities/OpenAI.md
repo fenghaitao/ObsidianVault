@@ -2,7 +2,7 @@
 title: "OpenAI"
 type: entity
 tags: [company, ai, frontier-models]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md"]
 last_updated: 2026-06-26
 ---
 
@@ -30,6 +30,11 @@ OpenAI is a leading AI research company co-founded by Greg Brockman, known for f
 
 - In the 2024 AI Engineer Summit keynote, OpenAI models were discussed as the reference point for LLM cost reduction trends: the DaVinci API (original GPT-3), text-davinci-002 (underlying ChatGPT), and GPT-4 each represented distinct capability tiers with ~15 months between each order-of-magnitude cost reduction. GPT-4 was noted as a model with high benchmark scores (87% on Spider SQL) that do not automatically translate to product success.
 - Sam Altman's "steamrolling" phrase was referenced — the idea that model providers will inevitably build features for all customers, so application builders should avoid competing on capabilities the providers will commoditize.
+- **OpenClaw relationship**: Peter Steinberger joined OpenAI to work on bringing agents to everyone. "OpenAI bought OpenClaw — that's not the truth. They might have bought my soul.md." OpenAI understands that supporting OpenClaw is strategically useful: users who play with OpenClaw at home will come to work asking "why don't we have AI at work?", creating demand for enterprise AI tools.
+- OpenAI is "moving more into the open direction" — Codex is open source, released Symphony orchestration layer. Peter contrasted this with "some other top tier labs that start with an A" that "very much will sue you if you leak any of their source or block you if you are too successful."
+- Peter deliberately limits OpenAI involvement in OpenClaw to avoid perception of takeover — "I could get a lot more people from OpenAI to help with the project, but that would just make a picture that they could have taken over the project and I don't want that."
+- Part of Peter's role at OpenAI is "to help them not make the same mistakes again" that were learned at OpenClaw
+- **Malte Ubl's perspective**: OpenAI is one of the three major model providers (alongside Anthropic and Google) in the model commoditization thesis. Codex is described as "amazing" and part of the competitive dynamic that drives prices down.
 
 ## Related
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
@@ -57,3 +62,14 @@ OpenAI is a leading AI research company co-founded by Greg Brockman, known for f
 - [[summary-20260428 - One Login to Rule Them All： Cross-App Access for MCP — Garrett Galow, WorkOS]] — source
 - [[summary-20240719 - Lessons From A Year Building With LLMs]] — source (cost reduction trends, model-as-moat discussion)
 - [[SamAltman]] — referenced for "steamrolling" concept
+- [[summary-20260417 - Harness Engineering： How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI]] — source
+- [[GPT 5.2]] — model release enabling "code is free"
+- [[Symphony]] — agent orchestrator treating code as disposable build artifact
+- [[RyanLopopolo]] — MTS at OpenAI, coined Harness Engineering
+- [[Harness Engineering]] — discipline coined by Ryan Lopopolo
+- [[summary-20260417 - State of the Claw — Peter Steinberger]] — source (OpenClaw relationship, open source direction)
+- [[PeterSteinberger]] — employee, OpenClaw creator
+- [[OpenClaw]] — project OpenAI supports
+- [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (model commoditization thesis)
+- [[Model Commoditization]] — strategic context
+- [[Google]] — commoditizing competitor

@@ -2,7 +2,7 @@
 title: "HuggingFaceTransformers"
 type: entity
 tags: [library, open-source, machine-learning, repository]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md"]
 last_updated: 2026-06-25
 ---
 
@@ -14,9 +14,12 @@ Hugging Face Transformers is a large, mature open-source machine learning librar
 - Characterized as having 1M+ lines of code and 10+ years of history
 - Developers working on this repository in the study were on average the third top contributor out of hundreds or thousands
 - Study participants had been contributing to the repository for ~5 years on average
+- Mentioned as a fine-tuning framework for Gemma models — Google DeepMind's philosophy is to support community tools rather than forcing framework adoption
 
 ## Related
 - [[summary-20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR]] — source
+- [[summary-20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind]] — source
 - [[ScikitLearn]] — another repository in the same RCT
 - [[HaskellCompiler]] — another repository in the same RCT
 - [[RandomizedControlledTrial]] — methodology of the study
+- [[Gemma4]] — model family supporting HuggingFace Transformers fine-tuning

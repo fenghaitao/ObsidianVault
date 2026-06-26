@@ -148,3 +148,43 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-06-26] ingest | Using agents to build an agent company — Joao Moura
 - **Changes**: created [[summary-20240808 - Using agents to build an agent company： Joao Moura]], created/updated 18 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-06-26] ingest | Running LLMs locally on DGX Spark — Mozhgan Kabiri Chimeh
+- **Changes**: created [[summary-20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Paperclip: Open Source Human Control Plane — Dotta Bippa
+- **Changes**: created [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]], created/updated 19 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | $1 AI Guardrails with ModernBERT — Diego Carpentero
+- **Changes**: created [[summary-20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero]], created/updated 25 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Building pi in a World of Slop — Mario Zechner
+- **Changes**: created [[summary-20260416 - Building pi in a World of Slop — Mario Zechner]], created/updated 25 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Harness Engineering at OpenAI — Ryan Lopopolo
+- **Changes**: created [[summary-20260417 - Harness Engineering： How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | State of the Claw — Peter Steinberger
+- **Changes**: created [[summary-20260417 - State of the Claw — Peter Steinberger]], created/updated 28 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Google DeepMind's next Frontier for Gemini — Raia Hadsell
+- **Changes**: created [[summary-20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research]], created/updated 20 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro
+- **Changes**: created [[summary-20260418 - The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil]], created/updated 17 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Code Mode: Let the Code do the Talking — Sunil Pai
+- **Changes**: created [[summary-20260419 - Code Mode： Let the Code do the Talking - Sunil Pai, Cloudflare]], created/updated 15 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | The Future of MCP — David Soria Parra
+- **Changes**: created [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]], created/updated 24 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none

@@ -2,7 +2,7 @@
 title: "Computer Use"
 type: concept
 tags: [testing, browser, agents, ui-automation, ai-capability]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md"]
 last_updated: 2026-06-25
 ---
 
@@ -28,3 +28,6 @@ Computer Use is an AI capability, debuted by Anthropic, that enables AI models t
 - [[Browser Use]] — alternative approach
 - [[CodeSlop]] — computer use can both produce and fight this
 - [[SubAgents]] — related agent-based approach
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (CLI/computer use as part of connectivity stack)
+- [[ConnectivityStack]] — skills + MCP + CLI/computer use framework
+- [[DavidSoriaParra]] — advocated for computer use as one of three connectivity tools
