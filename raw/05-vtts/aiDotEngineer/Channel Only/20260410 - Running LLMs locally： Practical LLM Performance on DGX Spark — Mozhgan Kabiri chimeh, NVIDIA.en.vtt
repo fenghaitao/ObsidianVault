@@ -1,0 +1,1776 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.520 --> 00:00:04.910 align:start position:0%
+ 
+Hello<00:00:01.760><c> everyone.</c><00:00:02.880><c> I'm</c><00:00:03.120><c> Moska</c><00:00:03.480><c> Gabricima,</c>
+
+00:00:04.910 --> 00:00:04.920 align:start position:0%
+Hello everyone. I'm Moska Gabricima,
+ 
+
+00:00:04.920 --> 00:00:07.990 align:start position:0%
+Hello everyone. I'm Moska Gabricima,
+developer<00:00:05.400><c> relations</c><00:00:05.960><c> manager</c><00:00:06.560><c> at</c><00:00:06.880><c> Nvidia,</c>
+
+00:00:07.990 --> 00:00:08.000 align:start position:0%
+developer relations manager at Nvidia,
+ 
+
+00:00:08.000 --> 00:00:10.150 align:start position:0%
+developer relations manager at Nvidia,
+where<00:00:08.160><c> I</c><00:00:08.240><c> work</c><00:00:08.560><c> closely</c><00:00:09.160><c> with</c><00:00:09.400><c> developers</c>
+
+00:00:10.150 --> 00:00:10.160 align:start position:0%
+where I work closely with developers
+ 
+
+00:00:10.160 --> 00:00:13.110 align:start position:0%
+where I work closely with developers
+building<00:00:10.760><c> and</c><00:00:10.960><c> deploying</c><00:00:11.560><c> AI</c><00:00:11.880><c> systems.</c>
+
+00:00:13.110 --> 00:00:13.120 align:start position:0%
+building and deploying AI systems.
+ 
+
+00:00:13.120 --> 00:00:16.350 align:start position:0%
+building and deploying AI systems.
+Today,<00:00:13.760><c> we're</c><00:00:13.960><c> looking</c><00:00:14.520><c> at</c><00:00:15.200><c> running</c><00:00:15.760><c> LLMs</c>
+
+00:00:16.350 --> 00:00:16.360 align:start position:0%
+Today, we're looking at running LLMs
+ 
+
+00:00:16.360 --> 00:00:19.070 align:start position:0%
+Today, we're looking at running LLMs
+locally,<00:00:17.040><c> practical</c><00:00:17.680><c> LLM</c><00:00:18.080><c> performance</c><00:00:18.920><c> on</c>
+
+00:00:19.070 --> 00:00:19.080 align:start position:0%
+locally, practical LLM performance on
+ 
+
+00:00:19.080 --> 00:00:20.750 align:start position:0%
+locally, practical LLM performance on
+the<00:00:19.200><c> Jetson</c><00:00:19.680><c> Spark.</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+the Jetson Spark.
+ 
+
+00:00:20.760 --> 00:00:23.830 align:start position:0%
+the Jetson Spark.
+This<00:00:21.040><c> isn't</c><00:00:21.480><c> a</c><00:00:21.520><c> theoretical</c><00:00:22.760><c> talk.</c><00:00:23.480><c> It's</c><00:00:23.760><c> a</c>
+
+00:00:23.830 --> 00:00:23.840 align:start position:0%
+This isn't a theoretical talk. It's a
+ 
+
+00:00:23.840 --> 00:00:25.510 align:start position:0%
+This isn't a theoretical talk. It's a
+data-backed<00:00:24.560><c> journey</c><00:00:24.960><c> through</c><00:00:25.360><c> the</c>
+
+00:00:25.510 --> 00:00:25.520 align:start position:0%
+data-backed journey through the
+ 
+
+00:00:25.520 --> 00:00:29.270 align:start position:0%
+data-backed journey through the
+trade-offs<00:00:26.280><c> of</c><00:00:26.600><c> modern</c><00:00:27.040><c> AI</c><00:00:27.520><c> infrastructure.</c>
+
+00:00:29.270 --> 00:00:29.280 align:start position:0%
+trade-offs of modern AI infrastructure.
+ 
+
+00:00:29.280 --> 00:00:31.070 align:start position:0%
+trade-offs of modern AI infrastructure.
+Findings<00:00:29.800><c> are</c><00:00:30.040><c> based</c><00:00:30.320><c> on</c><00:00:30.600><c> hands-on</c>
+
+00:00:31.070 --> 00:00:31.080 align:start position:0%
+Findings are based on hands-on
+ 
+
+00:00:31.080 --> 00:00:32.589 align:start position:0%
+Findings are based on hands-on
+experiments<00:00:31.920><c> with</c><00:00:32.080><c> the</c><00:00:32.200><c> goal</c><00:00:32.439><c> of</c>
+
+00:00:32.589 --> 00:00:32.599 align:start position:0%
+experiments with the goal of
+ 
+
+00:00:32.599 --> 00:00:35.390 align:start position:0%
+experiments with the goal of
+understanding<00:00:33.400><c> what's</c><00:00:33.640><c> actually</c><00:00:34.120><c> practical</c>
+
+00:00:35.390 --> 00:00:35.400 align:start position:0%
+understanding what's actually practical
+ 
+
+00:00:35.400 --> 00:00:38.430 align:start position:0%
+understanding what's actually practical
+on<00:00:35.520><c> a</c><00:00:35.600><c> single</c><00:00:36.120><c> system.</c>
+
+00:00:38.430 --> 00:00:38.440 align:start position:0%
+on a single system.
+ 
+
+00:00:38.440 --> 00:00:42.030 align:start position:0%
+on a single system.
+The<00:00:38.560><c> evolution</c><00:00:39.240><c> in</c><00:00:39.440><c> AI</c><00:00:39.920><c> puts</c><00:00:40.560><c> greater</c><00:00:41.160><c> demand</c>
+
+00:00:42.030 --> 00:00:42.040 align:start position:0%
+The evolution in AI puts greater demand
+ 
+
+00:00:42.040 --> 00:00:44.990 align:start position:0%
+The evolution in AI puts greater demand
+on<00:00:42.320><c> developer</c><00:00:42.840><c> systems,</c><00:00:43.880><c> creating</c><00:00:44.480><c> two</c><00:00:44.720><c> main</c>
+
+00:00:44.990 --> 00:00:45.000 align:start position:0%
+on developer systems, creating two main
+ 
+
+00:00:45.000 --> 00:00:46.390 align:start position:0%
+on developer systems, creating two main
+challenges.
+
+00:00:46.390 --> 00:00:46.400 align:start position:0%
+challenges.
+ 
+
+00:00:46.400 --> 00:00:49.230 align:start position:0%
+challenges.
+You<00:00:46.600><c> either</c><00:00:47.320><c> run</c><00:00:47.680><c> out</c><00:00:47.920><c> of</c><00:00:48.040><c> memory</c><00:00:48.680><c> or</c><00:00:48.920><c> you</c><00:00:49.080><c> do</c>
+
+00:00:49.230 --> 00:00:49.240 align:start position:0%
+You either run out of memory or you do
+ 
+
+00:00:49.240 --> 00:00:51.470 align:start position:0%
+You either run out of memory or you do
+not<00:00:49.520><c> have</c><00:00:49.800><c> access</c><00:00:50.280><c> to</c><00:00:50.480><c> the</c><00:00:50.640><c> right</c><00:00:50.960><c> software</c>
+
+00:00:51.470 --> 00:00:51.480 align:start position:0%
+not have access to the right software
+ 
+
+00:00:51.480 --> 00:00:54.150 align:start position:0%
+not have access to the right software
+stack.<00:00:52.480><c> Then</c><00:00:52.640><c> you</c><00:00:52.800><c> end</c><00:00:53.120><c> up</c><00:00:53.560><c> and</c><00:00:53.680><c> pushing</c>
+
+00:00:54.150 --> 00:00:54.160 align:start position:0%
+stack. Then you end up and pushing
+ 
+
+00:00:54.160 --> 00:00:57.750 align:start position:0%
+stack. Then you end up and pushing
+everything<00:00:54.760><c> to</c><00:00:54.880><c> the</c><00:00:55.040><c> cloud</c><00:00:55.680><c> or</c><00:00:55.920><c> data</c><00:00:56.280><c> center.</c>
+
+00:00:57.750 --> 00:00:57.760 align:start position:0%
+everything to the cloud or data center.
+ 
+
+00:00:57.760 --> 00:01:00.150 align:start position:0%
+everything to the cloud or data center.
+As<00:00:57.920><c> models</c><00:00:58.440><c> move</c><00:00:58.800><c> from</c><00:00:59.040><c> experiments</c><00:00:59.960><c> to</c>
+
+00:01:00.150 --> 00:01:00.160 align:start position:0%
+As models move from experiments to
+ 
+
+00:01:00.160 --> 00:01:02.470 align:start position:0%
+As models move from experiments to
+production,<00:01:01.320><c> concerns</c><00:01:01.840><c> like</c><00:01:02.120><c> cost</c>
+
+00:01:02.470 --> 00:01:02.480 align:start position:0%
+production, concerns like cost
+ 
+
+00:01:02.480 --> 00:01:04.150 align:start position:0%
+production, concerns like cost
+predictability,
+
+00:01:04.150 --> 00:01:04.160 align:start position:0%
+predictability,
+ 
+
+00:01:04.160 --> 00:01:06.430 align:start position:0%
+predictability,
+data<00:01:04.519><c> residency,</c><00:01:05.400><c> and</c><00:01:05.640><c> deterministic</c>
+
+00:01:06.430 --> 00:01:06.440 align:start position:0%
+data residency, and deterministic
+ 
+
+00:01:06.440 --> 00:01:09.430 align:start position:0%
+data residency, and deterministic
+latency<00:01:07.320><c> take</c><00:01:07.800><c> center</c><00:01:08.240><c> stage.</c>
+
+00:01:09.430 --> 00:01:09.440 align:start position:0%
+latency take center stage.
+ 
+
+00:01:09.440 --> 00:01:12.150 align:start position:0%
+latency take center stage.
+And<00:01:09.640><c> iteration</c><00:01:10.120><c> speed</c><00:01:10.560><c> often</c><00:01:11.000><c> depends</c><00:01:11.800><c> often</c>
+
+00:01:12.150 --> 00:01:12.160 align:start position:0%
+And iteration speed often depends often
+ 
+
+00:01:12.160 --> 00:01:14.470 align:start position:0%
+And iteration speed often depends often
+depends<00:01:12.840><c> on</c><00:01:13.320><c> access</c><00:01:13.800><c> to</c><00:01:13.960><c> shared</c>
+
+00:01:14.470 --> 00:01:14.480 align:start position:0%
+depends on access to shared
+ 
+
+00:01:14.480 --> 00:01:17.110 align:start position:0%
+depends on access to shared
+infrastructure.<00:01:15.920><c> And</c><00:01:16.080><c> since</c><00:01:16.320><c> your</c><00:01:16.480><c> work</c><00:01:16.920><c> will</c>
+
+00:01:17.110 --> 00:01:17.120 align:start position:0%
+infrastructure. And since your work will
+ 
+
+00:01:17.120 --> 00:01:19.470 align:start position:0%
+infrastructure. And since your work will
+be<00:01:17.320><c> scheduled</c><00:01:18.080><c> against</c><00:01:18.560><c> other</c><00:01:18.800><c> competing</c>
+
+00:01:19.470 --> 00:01:19.480 align:start position:0%
+be scheduled against other competing
+ 
+
+00:01:19.480 --> 00:01:22.070 align:start position:0%
+be scheduled against other competing
+workloads,<00:01:20.480><c> it</c><00:01:20.720><c> causes</c><00:01:21.200><c> delays</c><00:01:21.840><c> in</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+workloads, it causes delays in
+ 
+
+00:01:22.080 --> 00:01:24.310 align:start position:0%
+workloads, it causes delays in
+development<00:01:22.840><c> work</c><00:01:23.080><c> as</c><00:01:23.280><c> well.</c>
+
+00:01:24.310 --> 00:01:24.320 align:start position:0%
+development work as well.
+ 
+
+00:01:24.320 --> 00:01:26.550 align:start position:0%
+development work as well.
+So,<00:01:24.400><c> the</c><00:01:24.560><c> question</c><00:01:25.080><c> becomes,</c><00:01:25.920><c> can</c><00:01:26.120><c> we</c><00:01:26.240><c> bring</c>
+
+00:01:26.550 --> 00:01:26.560 align:start position:0%
+So, the question becomes, can we bring
+ 
+
+00:01:26.560 --> 00:01:29.390 align:start position:0%
+So, the question becomes, can we bring
+some<00:01:26.840><c> of</c><00:01:27.000><c> that</c><00:01:27.320><c> workflow</c><00:01:28.000><c> closer</c><00:01:28.600><c> to</c><00:01:29.200><c> where</c>
+
+00:01:29.390 --> 00:01:29.400 align:start position:0%
+some of that workflow closer to where
+ 
+
+00:01:29.400 --> 00:01:31.870 align:start position:0%
+some of that workflow closer to where
+development<00:01:30.200><c> actually</c><00:01:30.720><c> happens?</c>
+
+00:01:31.870 --> 00:01:31.880 align:start position:0%
+development actually happens?
+ 
+
+00:01:31.880 --> 00:01:34.590 align:start position:0%
+development actually happens?
+To<00:01:32.000><c> maximize</c><00:01:32.680><c> developer</c><00:01:33.200><c> productivity,</c>
+
+00:01:34.590 --> 00:01:34.600 align:start position:0%
+To maximize developer productivity,
+ 
+
+00:01:34.600 --> 00:01:36.750 align:start position:0%
+To maximize developer productivity,
+local<00:01:35.000><c> solutions</c><00:01:35.640><c> to</c><00:01:35.760><c> these</c><00:01:35.960><c> challenges</c><00:01:36.640><c> are</c>
+
+00:01:36.750 --> 00:01:36.760 align:start position:0%
+local solutions to these challenges are
+ 
+
+00:01:36.760 --> 00:01:39.110 align:start position:0%
+local solutions to these challenges are
+required.
+
+00:01:39.110 --> 00:01:39.120 align:start position:0%
+required.
+ 
+
+00:01:39.120 --> 00:01:41.470 align:start position:0%
+required.
+The<00:01:39.240><c> Jetson</c><00:01:39.640><c> Spark</c><00:01:40.200><c> is</c><00:01:40.360><c> designed</c><00:01:41.000><c> from</c><00:01:41.360><c> the</c>
+
+00:01:41.470 --> 00:01:41.480 align:start position:0%
+The Jetson Spark is designed from the
+ 
+
+00:01:41.480 --> 00:01:44.830 align:start position:0%
+The Jetson Spark is designed from the
+ground<00:01:41.960><c> up</c><00:01:42.240><c> to</c><00:01:42.440><c> build</c><00:01:42.800><c> and</c><00:01:43.000><c> run</c><00:01:43.400><c> AI</c><00:01:44.120><c> and</c><00:01:44.360><c> can</c><00:01:44.600><c> be</c>
+
+00:01:44.830 --> 00:01:44.840 align:start position:0%
+ground up to build and run AI and can be
+ 
+
+00:01:44.840 --> 00:01:48.470 align:start position:0%
+ground up to build and run AI and can be
+used<00:01:45.240><c> as</c><00:01:45.480><c> a</c><00:01:45.560><c> standalone</c><00:01:46.360><c> system.</c>
+
+00:01:48.470 --> 00:01:48.480 align:start position:0%
+used as a standalone system.
+ 
+
+00:01:48.480 --> 00:01:51.350 align:start position:0%
+used as a standalone system.
+It's<00:01:48.640><c> powered</c><00:01:49.200><c> by</c><00:01:49.400><c> the</c><00:01:49.560><c> GB10</c><00:01:50.400><c> Grace</c><00:01:50.760><c> Blackwell</c>
+
+00:01:51.350 --> 00:01:51.360 align:start position:0%
+It's powered by the GB10 Grace Blackwell
+ 
+
+00:01:51.360 --> 00:01:54.950 align:start position:0%
+It's powered by the GB10 Grace Blackwell
+superchip,<00:01:52.480><c> combining</c><00:01:53.160><c> CPU</c><00:01:53.920><c> and</c><00:01:54.120><c> GPU</c><00:01:54.640><c> with</c><00:01:54.880><c> a</c>
+
+00:01:54.950 --> 00:01:54.960 align:start position:0%
+superchip, combining CPU and GPU with a
+ 
+
+00:01:54.960 --> 00:01:59.550 align:start position:0%
+superchip, combining CPU and GPU with a
+unified<00:01:55.600><c> memory</c><00:01:56.040><c> architecture.</c><00:01:57.480><c> With</c><00:01:57.640><c> 128</c><00:01:58.960><c> GB</c>
+
+00:01:59.550 --> 00:01:59.560 align:start position:0%
+unified memory architecture. With 128 GB
+ 
+
+00:01:59.560 --> 00:02:03.470 align:start position:0%
+unified memory architecture. With 128 GB
+of<00:01:59.680><c> unified</c><00:02:00.400><c> memory</c><00:02:01.280><c> and</c><00:02:01.440><c> NV4</c><00:02:02.600><c> support,</c><00:02:03.280><c> it</c>
+
+00:02:03.470 --> 00:02:03.480 align:start position:0%
+of unified memory and NV4 support, it
+ 
+
+00:02:03.480 --> 00:02:05.950 align:start position:0%
+of unified memory and NV4 support, it
+enables<00:02:03.960><c> developers</c><00:02:04.640><c> to</c><00:02:04.800><c> work</c><00:02:05.080><c> with</c><00:02:05.280><c> models</c>
+
+00:02:05.950 --> 00:02:05.960 align:start position:0%
+enables developers to work with models
+ 
+
+00:02:05.960 --> 00:02:09.430 align:start position:0%
+enables developers to work with models
+of<00:02:06.280><c> up</c><00:02:06.560><c> to</c><00:02:07.160><c> around</c><00:02:07.720><c> 200</c><00:02:08.360><c> billion</c><00:02:08.720><c> parameters</c>
+
+00:02:09.430 --> 00:02:09.440 align:start position:0%
+of up to around 200 billion parameters
+ 
+
+00:02:09.440 --> 00:02:12.270 align:start position:0%
+of up to around 200 billion parameters
+locally<00:02:10.399><c> on</c><00:02:10.520><c> a</c><00:02:10.560><c> system</c><00:02:11.000><c> that</c><00:02:11.240><c> fits</c><00:02:11.680><c> under</c><00:02:12.000><c> the</c>
+
+00:02:12.270 --> 00:02:12.280 align:start position:0%
+locally on a system that fits under the
+ 
+
+00:02:12.280 --> 00:02:16.190 align:start position:0%
+locally on a system that fits under the
+under<00:02:12.600><c> a</c><00:02:12.680><c> desk</c><00:02:13.720><c> or</c><00:02:13.880><c> on</c><00:02:14.000><c> top</c><00:02:14.200><c> of</c><00:02:14.360><c> your</c><00:02:14.520><c> desk.</c>
+
+00:02:16.190 --> 00:02:16.200 align:start position:0%
+under a desk or on top of your desk.
+ 
+
+00:02:16.200 --> 00:02:19.150 align:start position:0%
+under a desk or on top of your desk.
+It<00:02:16.520><c> runs</c><00:02:17.000><c> the</c><00:02:17.120><c> same</c><00:02:17.600><c> Nvidia</c><00:02:18.240><c> AI</c><00:02:18.640><c> software</c>
+
+00:02:19.150 --> 00:02:19.160 align:start position:0%
+It runs the same Nvidia AI software
+ 
+
+00:02:19.160 --> 00:02:21.670 align:start position:0%
+It runs the same Nvidia AI software
+stack<00:02:19.680><c> used</c><00:02:19.960><c> in</c><00:02:20.080><c> production</c><00:02:20.720><c> environments,</c>
+
+00:02:21.670 --> 00:02:21.680 align:start position:0%
+stack used in production environments,
+ 
+
+00:02:21.680 --> 00:02:24.550 align:start position:0%
+stack used in production environments,
+meaning<00:02:22.400><c> workflows</c><00:02:23.160><c> can</c><00:02:23.480><c> move</c><00:02:23.760><c> from</c><00:02:24.000><c> desktop</c>
+
+00:02:24.550 --> 00:02:24.560 align:start position:0%
+meaning workflows can move from desktop
+ 
+
+00:02:24.560 --> 00:02:27.510 align:start position:0%
+meaning workflows can move from desktop
+to<00:02:24.680><c> data</c><00:02:25.040><c> center</c><00:02:25.960><c> or</c><00:02:26.200><c> cloud</c><00:02:26.760><c> with</c><00:02:27.000><c> minimal</c>
+
+00:02:27.510 --> 00:02:27.520 align:start position:0%
+to data center or cloud with minimal
+ 
+
+00:02:27.520 --> 00:02:28.870 align:start position:0%
+to data center or cloud with minimal
+changes.
+
+00:02:28.870 --> 00:02:28.880 align:start position:0%
+changes.
+ 
+
+00:02:28.880 --> 00:02:31.990 align:start position:0%
+changes.
+The<00:02:29.240><c> key</c><00:02:29.800><c> idea</c><00:02:30.400><c> here</c><00:02:30.800><c> is</c><00:02:31.040><c> not</c><00:02:31.320><c> replacing</c><00:02:31.880><c> the</c>
+
+00:02:31.990 --> 00:02:32.000 align:start position:0%
+The key idea here is not replacing the
+ 
+
+00:02:32.000 --> 00:02:34.350 align:start position:0%
+The key idea here is not replacing the
+cloud,<00:02:32.480><c> but</c><00:02:32.800><c> bringing</c>
+
+00:02:34.350 --> 00:02:34.360 align:start position:0%
+cloud, but bringing
+ 
+
+00:02:34.360 --> 00:02:37.270 align:start position:0%
+cloud, but bringing
+powerful<00:02:35.000><c> AI</c><00:02:35.320><c> development</c><00:02:36.400><c> closer</c><00:02:37.000><c> to</c><00:02:37.160><c> the</c>
+
+00:02:37.270 --> 00:02:37.280 align:start position:0%
+powerful AI development closer to the
+ 
+
+00:02:37.280 --> 00:02:40.510 align:start position:0%
+powerful AI development closer to the
+developer.
+
+00:02:40.510 --> 00:02:40.520 align:start position:0%
+ 
+ 
+
+00:02:40.520 --> 00:02:42.630 align:start position:0%
+ 
+This<00:02:40.720><c> is</c><00:02:40.880><c> my</c><00:02:41.040><c> setup.</c>
+
+00:02:42.630 --> 00:02:42.640 align:start position:0%
+This is my setup.
+ 
+
+00:02:42.640 --> 00:02:44.590 align:start position:0%
+This is my setup.
+Everything<00:02:43.240><c> runs</c><00:02:43.560><c> locally</c><00:02:44.160><c> and</c><00:02:44.400><c> is</c>
+
+00:02:44.590 --> 00:02:44.600 align:start position:0%
+Everything runs locally and is
+ 
+
+00:02:44.600 --> 00:02:47.430 align:start position:0%
+Everything runs locally and is
+reproducible.<00:02:45.960><c> To</c><00:02:46.120><c> serve</c><00:02:46.480><c> the</c><00:02:46.640><c> models,</c><00:02:47.320><c> I</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+reproducible. To serve the models, I
+ 
+
+00:02:47.440 --> 00:02:49.710 align:start position:0%
+reproducible. To serve the models, I
+used<00:02:47.800><c> vLLM</c>
+
+00:02:49.710 --> 00:02:49.720 align:start position:0%
+used vLLM
+ 
+
+00:02:49.720 --> 00:02:51.630 align:start position:0%
+used vLLM
+with<00:02:49.880><c> a</c><00:02:49.960><c> set</c><00:02:50.240><c> of</c><00:02:50.400><c> quant</c><00:02:50.680><c> models</c><00:02:51.240><c> across</c>
+
+00:02:51.630 --> 00:02:51.640 align:start position:0%
+with a set of quant models across
+ 
+
+00:02:51.640 --> 00:02:54.710 align:start position:0%
+with a set of quant models across
+different<00:02:52.040><c> sizes</c><00:02:52.680><c> and</c><00:02:52.920><c> precision</c><00:02:53.480><c> formats.</c>
+
+00:02:54.710 --> 00:02:54.720 align:start position:0%
+different sizes and precision formats.
+ 
+
+00:02:54.720 --> 00:02:57.030 align:start position:0%
+different sizes and precision formats.
+I<00:02:54.880><c> run</c><00:02:55.160><c> this</c><00:02:55.360><c> inside</c><00:02:55.800><c> an</c><00:02:55.960><c> Nvidia</c><00:02:56.520><c> optimized</c>
+
+00:02:57.030 --> 00:02:57.040 align:start position:0%
+I run this inside an Nvidia optimized
+ 
+
+00:02:57.040 --> 00:02:59.670 align:start position:0%
+I run this inside an Nvidia optimized
+container.<00:02:58.280><c> This</c><00:02:58.480><c> would</c><00:02:58.640><c> ensure</c><00:02:59.120><c> that</c><00:02:59.480><c> our</c>
+
+00:02:59.670 --> 00:02:59.680 align:start position:0%
+container. This would ensure that our
+ 
+
+00:02:59.680 --> 00:03:01.870 align:start position:0%
+container. This would ensure that our
+environment<00:03:00.320><c> is</c><00:03:00.520><c> identical</c><00:03:01.240><c> to</c><00:03:01.400><c> what</c><00:03:01.680><c> you</c>
+
+00:03:01.870 --> 00:03:01.880 align:start position:0%
+environment is identical to what you
+ 
+
+00:03:01.880 --> 00:03:04.630 align:start position:0%
+environment is identical to what you
+would<00:03:02.120><c> deploy</c><00:03:02.640><c> in</c><00:03:02.840><c> a</c><00:03:02.880><c> data</c><00:03:03.240><c> center.</c>
+
+00:03:04.630 --> 00:03:04.640 align:start position:0%
+would deploy in a data center.
+ 
+
+00:03:04.640 --> 00:03:05.990 align:start position:0%
+would deploy in a data center.
+And<00:03:04.712><c> [snorts]</c><00:03:04.800><c> instead</c><00:03:05.080><c> of</c><00:03:05.160><c> just</c><00:03:05.400><c> showing</c><00:03:05.800><c> raw</c>
+
+00:03:05.990 --> 00:03:06.000 align:start position:0%
+And [snorts] instead of just showing raw
+ 
+
+00:03:06.000 --> 00:03:09.390 align:start position:0%
+And [snorts] instead of just showing raw
+results,<00:03:06.760><c> I</c><00:03:06.880><c> want</c><00:03:07.160><c> to</c><00:03:07.280><c> show</c><00:03:07.560><c> you</c><00:03:07.720><c> the</c><00:03:07.880><c> how.</c>
+
+00:03:09.390 --> 00:03:09.400 align:start position:0%
+results, I want to show you the how.
+ 
+
+00:03:09.400 --> 00:03:11.470 align:start position:0%
+results, I want to show you the how.
+I<00:03:09.560><c> built</c><00:03:09.920><c> an</c><00:03:10.080><c> automated</c><00:03:10.760><c> benchmarking</c>
+
+00:03:11.470 --> 00:03:11.480 align:start position:0%
+I built an automated benchmarking
+ 
+
+00:03:11.480 --> 00:03:14.990 align:start position:0%
+I built an automated benchmarking
+harness.<00:03:12.320><c> Every</c><00:03:12.680><c> model</c><00:03:13.080><c> run</c><00:03:13.440><c> from</c><00:03:13.880><c> 1.5</c>
+
+00:03:14.990 --> 00:03:15.000 align:start position:0%
+harness. Every model run from 1.5
+ 
+
+00:03:15.000 --> 00:03:18.070 align:start position:0%
+harness. Every model run from 1.5
+billion<00:03:15.560><c> to</c><00:03:15.760><c> 14</c><00:03:16.400><c> billion</c><00:03:17.240><c> follows</c><00:03:17.600><c> the</c><00:03:17.720><c> same</c>
+
+00:03:18.070 --> 00:03:18.080 align:start position:0%
+billion to 14 billion follows the same
+ 
+
+00:03:18.080 --> 00:03:20.990 align:start position:0%
+billion to 14 billion follows the same
+strict<00:03:18.480><c> protocol.</c><00:03:19.720><c> Environment</c><00:03:20.360><c> isolation</c>
+
+00:03:20.990 --> 00:03:21.000 align:start position:0%
+strict protocol. Environment isolation
+ 
+
+00:03:21.000 --> 00:03:23.510 align:start position:0%
+strict protocol. Environment isolation
+via<00:03:21.240><c> Docker,</c><00:03:21.880><c> three</c><00:03:22.200><c> mandatory</c><00:03:22.960><c> warm-up</c>
+
+00:03:23.510 --> 00:03:23.520 align:start position:0%
+via Docker, three mandatory warm-up
+ 
+
+00:03:23.520 --> 00:03:26.150 align:start position:0%
+via Docker, three mandatory warm-up
+runs,<00:03:24.080><c> and</c><00:03:24.240><c> background</c><00:03:24.760><c> GPU</c><00:03:25.120><c> metrics</c><00:03:25.680><c> logging</c>
+
+00:03:26.150 --> 00:03:26.160 align:start position:0%
+runs, and background GPU metrics logging
+ 
+
+00:03:26.160 --> 00:03:28.670 align:start position:0%
+runs, and background GPU metrics logging
+at<00:03:26.440><c> 1-second</c><00:03:27.200><c> intervals.</c>
+
+00:03:28.670 --> 00:03:28.680 align:start position:0%
+at 1-second intervals.
+ 
+
+00:03:28.680 --> 00:03:31.550 align:start position:0%
+at 1-second intervals.
+On<00:03:28.880><c> the</c><00:03:29.000><c> left,</c><00:03:30.000><c> you're</c><00:03:30.320><c> looking</c><00:03:30.920><c> at</c><00:03:31.200><c> the</c>
+
+00:03:31.550 --> 00:03:31.560 align:start position:0%
+On the left, you're looking at the
+ 
+
+00:03:31.560 --> 00:03:33.950 align:start position:0%
+On the left, you're looking at the
+orchestrator<00:03:32.480><c> script.</c>
+
+00:03:33.950 --> 00:03:33.960 align:start position:0%
+orchestrator script.
+ 
+
+00:03:33.960 --> 00:03:36.470 align:start position:0%
+orchestrator script.
+For<00:03:34.240><c> every</c><00:03:34.560><c> execution,</c><00:03:35.800><c> the</c><00:03:35.960><c> script</c>
+
+00:03:36.470 --> 00:03:36.480 align:start position:0%
+For every execution, the script
+ 
+
+00:03:36.480 --> 00:03:38.270 align:start position:0%
+For every execution, the script
+automatically<00:03:37.160><c> generates</c><00:03:37.760><c> a</c><00:03:37.880><c> unique</c>
+
+00:03:38.270 --> 00:03:38.280 align:start position:0%
+automatically generates a unique
+ 
+
+00:03:38.280 --> 00:03:41.990 align:start position:0%
+automatically generates a unique
+directory<00:03:39.480><c> using</c><00:03:39.800><c> a</c><00:03:39.880><c> precise</c><00:03:40.600><c> timestamp</c><00:03:41.840><c> and</c>
+
+00:03:41.990 --> 00:03:42.000 align:start position:0%
+directory using a precise timestamp and
+ 
+
+00:03:42.000 --> 00:03:45.070 align:start position:0%
+directory using a precise timestamp and
+a<00:03:42.080><c> sanitized</c><00:03:42.760><c> model</c><00:03:43.120><c> ID.</c><00:03:44.080><c> For</c><00:03:44.360><c> every</c><00:03:44.720><c> model</c>
+
+00:03:45.070 --> 00:03:45.080 align:start position:0%
+a sanitized model ID. For every model
+ 
+
+00:03:45.080 --> 00:03:47.910 align:start position:0%
+a sanitized model ID. For every model
+run,<00:03:45.920><c> it</c><00:03:46.160><c> captures</c><00:03:46.800><c> the</c><00:03:46.960><c> full</c><00:03:47.400><c> model's</c>
+
+00:03:47.910 --> 00:03:47.920 align:start position:0%
+run, it captures the full model's
+ 
+
+00:03:47.920 --> 00:03:51.390 align:start position:0%
+run, it captures the full model's
+endpoint<00:03:48.520><c> response</c><00:03:49.080><c> and</c><00:03:49.280><c> necessary</c><00:03:49.880><c> metrics.</c>
+
+00:03:51.390 --> 00:03:51.400 align:start position:0%
+endpoint response and necessary metrics.
+ 
+
+00:03:51.400 --> 00:03:54.110 align:start position:0%
+endpoint response and necessary metrics.
+On<00:03:51.600><c> the</c><00:03:51.760><c> right,</c><00:03:52.440><c> you</c><00:03:52.760><c> see</c><00:03:53.040><c> the</c><00:03:53.240><c> result,</c><00:03:54.000><c> a</c>
+
+00:03:54.110 --> 00:03:54.120 align:start position:0%
+On the right, you see the result, a
+ 
+
+00:03:54.120 --> 00:03:57.750 align:start position:0%
+On the right, you see the result, a
+clean,<00:03:54.720><c> versioned</c><00:03:55.320><c> artifact</c><00:03:55.960><c> of</c><00:03:56.160><c> the</c><00:03:56.320><c> run.</c>
+
+00:03:57.750 --> 00:03:57.760 align:start position:0%
+clean, versioned artifact of the run.
+ 
+
+00:03:57.760 --> 00:04:00.230 align:start position:0%
+clean, versioned artifact of the run.
+It<00:03:57.920><c> contains</c><00:03:58.520><c> everything</c><00:03:59.320><c> to</c><00:03:59.480><c> verify</c><00:04:00.040><c> the</c>
+
+00:04:00.230 --> 00:04:00.240 align:start position:0%
+It contains everything to verify the
+ 
+
+00:04:00.240 --> 00:04:03.270 align:start position:0%
+It contains everything to verify the
+findings,<00:04:01.440><c> the</c><00:04:01.600><c> metadata,</c><00:04:02.600><c> and</c><00:04:02.800><c> the</c><00:04:02.920><c> text</c>
+
+00:04:03.270 --> 00:04:03.280 align:start position:0%
+findings, the metadata, and the text
+ 
+
+00:04:03.280 --> 00:04:05.870 align:start position:0%
+findings, the metadata, and the text
+results<00:04:03.760><c> from</c><00:04:04.000><c> the</c><00:04:04.120><c> benchmarks.</c>
+
+00:04:05.870 --> 00:04:05.880 align:start position:0%
+results from the benchmarks.
+ 
+
+00:04:05.880 --> 00:04:08.190 align:start position:0%
+results from the benchmarks.
+On<00:04:06.000><c> the</c><00:04:06.160><c> lower</c><00:04:06.560><c> right,</c><00:04:07.440><c> you</c><00:04:07.560><c> can</c><00:04:07.760><c> see</c><00:04:08.040><c> an</c>
+
+00:04:08.190 --> 00:04:08.200 align:start position:0%
+On the lower right, you can see an
+ 
+
+00:04:08.200 --> 00:04:10.350 align:start position:0%
+On the lower right, you can see an
+example<00:04:08.840><c> command</c><00:04:09.440><c> for</c><00:04:09.680><c> getting</c><00:04:10.040><c> things</c>
+
+00:04:10.350 --> 00:04:10.360 align:start position:0%
+example command for getting things
+ 
+
+00:04:10.360 --> 00:04:13.750 align:start position:0%
+example command for getting things
+started.
+
+00:04:13.750 --> 00:04:13.760 align:start position:0%
+ 
+ 
+
+00:04:13.760 --> 00:04:15.950 align:start position:0%
+ 
+Now,<00:04:14.440><c> let's</c><00:04:14.800><c> look</c><00:04:15.120><c> at</c><00:04:15.320><c> the</c><00:04:15.480><c> actual</c>
+
+00:04:15.950 --> 00:04:15.960 align:start position:0%
+Now, let's look at the actual
+ 
+
+00:04:15.960 --> 00:04:17.949 align:start position:0%
+Now, let's look at the actual
+measurement<00:04:16.560><c> logic.</c>
+
+00:04:17.949 --> 00:04:17.959 align:start position:0%
+measurement logic.
+ 
+
+00:04:17.959 --> 00:04:20.710 align:start position:0%
+measurement logic.
+In<00:04:18.120><c> an</c><00:04:18.280><c> AI</c><00:04:18.560><c> application,</c><00:04:19.519><c> end-to-end</c><00:04:20.079><c> latency</c>
+
+00:04:20.710 --> 00:04:20.720 align:start position:0%
+In an AI application, end-to-end latency
+ 
+
+00:04:20.720 --> 00:04:22.230 align:start position:0%
+In an AI application, end-to-end latency
+is<00:04:20.840><c> important,</c>
+
+00:04:22.230 --> 00:04:22.240 align:start position:0%
+is important,
+ 
+
+00:04:22.240 --> 00:04:24.430 align:start position:0%
+is important,
+but<00:04:22.480><c> time</c><00:04:22.960><c> to</c><00:04:23.200><c> first</c>
+
+00:04:24.430 --> 00:04:24.440 align:start position:0%
+but time to first
+ 
+
+00:04:24.440 --> 00:04:27.190 align:start position:0%
+but time to first
+token<00:04:25.120><c> is</c><00:04:25.360><c> the</c><00:04:25.480><c> metric</c><00:04:26.320><c> that</c><00:04:26.520><c> defines</c><00:04:27.080><c> the</c>
+
+00:04:27.190 --> 00:04:27.200 align:start position:0%
+token is the metric that defines the
+ 
+
+00:04:27.200 --> 00:04:29.950 align:start position:0%
+token is the metric that defines the
+user's<00:04:27.680><c> perceived</c><00:04:28.200><c> performance.</c><00:04:29.520><c> If</c><00:04:29.760><c> the</c>
+
+00:04:29.950 --> 00:04:29.960 align:start position:0%
+user's perceived performance. If the
+ 
+
+00:04:29.960 --> 00:04:32.030 align:start position:0%
+user's perceived performance. If the
+first<00:04:30.240><c> token</c><00:04:30.600><c> arrives</c><00:04:31.000><c> instantly,</c><00:04:31.880><c> the</c>
+
+00:04:32.030 --> 00:04:32.040 align:start position:0%
+first token arrives instantly, the
+ 
+
+00:04:32.040 --> 00:04:34.710 align:start position:0%
+first token arrives instantly, the
+application<00:04:32.840><c> feels</c><00:04:33.120><c> responsive.</c><00:04:34.360><c> And</c><00:04:34.520><c> this</c>
+
+00:04:34.710 --> 00:04:34.720 align:start position:0%
+application feels responsive. And this
+ 
+
+00:04:34.720 --> 00:04:37.470 align:start position:0%
+application feels responsive. And this
+script<00:04:35.080><c> here</c><00:04:35.360><c> shows</c><00:04:35.840><c> how</c><00:04:36.280><c> we</c><00:04:36.440><c> timestamp</c><00:04:37.280><c> the</c>
+
+00:04:37.470 --> 00:04:37.480 align:start position:0%
+script here shows how we timestamp the
+ 
+
+00:04:37.480 --> 00:04:39.750 align:start position:0%
+script here shows how we timestamp the
+very<00:04:37.880><c> first</c><00:04:38.440><c> chunk</c><00:04:38.800><c> of</c><00:04:39.000><c> a</c><00:04:39.080><c> streaming</c>
+
+00:04:39.750 --> 00:04:39.760 align:start position:0%
+very first chunk of a streaming
+ 
+
+00:04:39.760 --> 00:04:41.430 align:start position:0%
+very first chunk of a streaming
+response.
+
+00:04:41.430 --> 00:04:41.440 align:start position:0%
+response.
+ 
+
+00:04:41.440 --> 00:04:44.470 align:start position:0%
+response.
+In<00:04:41.560><c> this</c><00:04:41.800><c> script,</c><00:04:42.560><c> we're</c><00:04:42.800><c> not</c><00:04:43.720><c> just</c><00:04:44.040><c> calling</c>
+
+00:04:44.470 --> 00:04:44.480 align:start position:0%
+In this script, we're not just calling
+ 
+
+00:04:44.480 --> 00:04:47.310 align:start position:0%
+In this script, we're not just calling
+an<00:04:44.680><c> API</c><00:04:45.280><c> and</c><00:04:45.480><c> waiting</c><00:04:45.840><c> for</c><00:04:46.040><c> a</c><00:04:46.120><c> result.</c><00:04:47.120><c> We're</c>
+
+00:04:47.310 --> 00:04:47.320 align:start position:0%
+an API and waiting for a result. We're
+ 
+
+00:04:47.320 --> 00:04:50.910 align:start position:0%
+an API and waiting for a result. We're
+explicitly<00:04:48.640><c> handling</c><00:04:49.760><c> the</c><00:04:50.240><c> streaming</c>
+
+00:04:50.910 --> 00:04:50.920 align:start position:0%
+explicitly handling the streaming
+ 
+
+00:04:50.920 --> 00:04:54.670 align:start position:0%
+explicitly handling the streaming
+response<00:04:51.520><c> from</c><00:04:51.920><c> the</c><00:04:52.040><c> vLLM</c><00:04:53.000><c> server.</c>
+
+00:04:54.670 --> 00:04:54.680 align:start position:0%
+response from the vLLM server.
+ 
+
+00:04:54.680 --> 00:04:57.070 align:start position:0%
+response from the vLLM server.
+If<00:04:54.880><c> you</c><00:04:55.040><c> look</c><00:04:55.320><c> at</c><00:04:55.480><c> the</c><00:04:55.640><c> highlighted</c><00:04:56.400><c> block</c><00:04:56.960><c> in</c>
+
+00:04:57.070 --> 00:04:57.080 align:start position:0%
+If you look at the highlighted block in
+ 
+
+00:04:57.080 --> 00:04:58.830 align:start position:0%
+If you look at the highlighted block in
+the<00:04:57.240><c> stream_once</c>
+
+00:04:58.830 --> 00:04:58.840 align:start position:0%
+the stream_once
+ 
+
+00:04:58.840 --> 00:05:01.190 align:start position:0%
+the stream_once
+function,<00:04:59.800><c> you'll</c><00:05:00.040><c> see</c><00:05:00.200><c> the</c><00:05:00.400><c> timestamping</c>
+
+00:05:01.190 --> 00:05:01.200 align:start position:0%
+function, you'll see the timestamping
+ 
+
+00:05:01.200 --> 00:05:03.750 align:start position:0%
+function, you'll see the timestamping
+logic.
+
+00:05:03.750 --> 00:05:03.760 align:start position:0%
+logic.
+ 
+
+00:05:03.760 --> 00:05:05.910 align:start position:0%
+logic.
+To<00:05:03.880><c> explore</c><00:05:04.360><c> this</c><00:05:04.600><c> in</c><00:05:04.720><c> practice,</c><00:05:05.400><c> I</c><00:05:05.560><c> ran</c><00:05:05.840><c> a</c>
+
+00:05:05.910 --> 00:05:05.920 align:start position:0%
+To explore this in practice, I ran a
+ 
+
+00:05:05.920 --> 00:05:08.830 align:start position:0%
+To explore this in practice, I ran a
+series<00:05:06.400><c> of</c><00:05:06.600><c> experiments</c><00:05:07.480><c> using</c><00:05:07.840><c> vLLM</c><00:05:08.520><c> on</c><00:05:08.720><c> the</c>
+
+00:05:08.830 --> 00:05:08.840 align:start position:0%
+series of experiments using vLLM on the
+ 
+
+00:05:08.840 --> 00:05:10.590 align:start position:0%
+series of experiments using vLLM on the
+Jetson<00:05:09.360><c> Spark.</c>
+
+00:05:10.590 --> 00:05:10.600 align:start position:0%
+Jetson Spark.
+ 
+
+00:05:10.600 --> 00:05:12.750 align:start position:0%
+Jetson Spark.
+I<00:05:10.680><c> tested</c><00:05:11.280><c> different</c><00:05:11.800><c> models,</c><00:05:12.400><c> from</c><00:05:12.680><c> a</c>
+
+00:05:12.750 --> 00:05:12.760 align:start position:0%
+I tested different models, from a
+ 
+
+00:05:12.760 --> 00:05:15.430 align:start position:0%
+I tested different models, from a
+smaller<00:05:13.200><c> instruction</c><00:05:13.880><c> model</c><00:05:14.560><c> to</c><00:05:14.880><c> larger</c>
+
+00:05:15.430 --> 00:05:15.440 align:start position:0%
+smaller instruction model to larger
+ 
+
+00:05:15.440 --> 00:05:18.150 align:start position:0%
+smaller instruction model to larger
+optimized<00:05:16.040><c> variants,</c><00:05:17.080><c> all</c><00:05:17.360><c> under</c><00:05:17.680><c> the</c><00:05:17.840><c> same</c>
+
+00:05:18.150 --> 00:05:18.160 align:start position:0%
+optimized variants, all under the same
+ 
+
+00:05:18.160 --> 00:05:19.470 align:start position:0%
+optimized variants, all under the same
+setup.
+
+00:05:19.470 --> 00:05:19.480 align:start position:0%
+setup.
+ 
+
+00:05:19.480 --> 00:05:22.150 align:start position:0%
+setup.
+Everything<00:05:20.240><c> was</c><00:05:20.520><c> served</c><00:05:20.880><c> locally.</c>
+
+00:05:22.150 --> 00:05:22.160 align:start position:0%
+Everything was served locally.
+ 
+
+00:05:22.160 --> 00:05:24.350 align:start position:0%
+Everything was served locally.
+The<00:05:22.280><c> goal</c><00:05:22.520><c> here</c><00:05:22.840><c> wasn't</c><00:05:23.240><c> to</c><00:05:23.360><c> push</c><00:05:23.640><c> theoretical</c>
+
+00:05:24.350 --> 00:05:24.360 align:start position:0%
+The goal here wasn't to push theoretical
+ 
+
+00:05:24.360 --> 00:05:26.670 align:start position:0%
+The goal here wasn't to push theoretical
+limits,<00:05:24.960><c> but</c><00:05:25.240><c> to</c><00:05:25.320><c> understand</c><00:05:26.040><c> realistic</c>
+
+00:05:26.670 --> 00:05:26.680 align:start position:0%
+limits, but to understand realistic
+ 
+
+00:05:26.680 --> 00:05:30.230 align:start position:0%
+limits, but to understand realistic
+behavior<00:05:27.520><c> in</c><00:05:27.680><c> a</c><00:05:27.720><c> developer</c><00:05:28.400><c> workflow.</c>
+
+00:05:30.230 --> 00:05:30.240 align:start position:0%
+behavior in a developer workflow.
+ 
+
+00:05:30.240 --> 00:05:32.910 align:start position:0%
+behavior in a developer workflow.
+Let's<00:05:30.560><c> dive</c><00:05:30.880><c> into</c><00:05:31.160><c> the</c><00:05:31.320><c> raw</c><00:05:31.520><c> performance</c><00:05:32.160><c> data</c>
+
+00:05:32.910 --> 00:05:32.920 align:start position:0%
+Let's dive into the raw performance data
+ 
+
+00:05:32.920 --> 00:05:34.698 align:start position:0%
+Let's dive into the raw performance data
+I<00:05:33.040><c> captured.</c>
+
+00:05:34.698 --> 00:05:34.708 align:start position:0%
+I captured.
+ 
+
+00:05:34.708 --> 00:05:34.710 align:start position:0%
+I captured.
+&gt;&gt; [snorts]
+
+00:05:34.710 --> 00:05:34.720 align:start position:0%
+&gt;&gt; [snorts]
+ 
+
+00:05:34.720 --> 00:05:37.430 align:start position:0%
+&gt;&gt; [snorts]
+&gt;&gt; This<00:05:34.920><c> bar</c><00:05:35.160><c> chart</c><00:05:35.600><c> represents</c><00:05:36.240><c> the</c><00:05:36.360><c> completion</c>
+
+00:05:37.430 --> 00:05:37.440 align:start position:0%
+&gt;&gt; This bar chart represents the completion
+ 
+
+00:05:37.440 --> 00:05:42.270 align:start position:0%
+&gt;&gt; This bar chart represents the completion
+token<00:05:37.880><c> per</c><00:05:38.080><c> second</c><00:05:39.160><c> across</c><00:05:39.840><c> the</c><00:05:40.160><c> test</c><00:05:40.600><c> set.</c>
+
+00:05:42.270 --> 00:05:42.280 align:start position:0%
+token per second across the test set.
+ 
+
+00:05:42.280 --> 00:05:46.430 align:start position:0%
+token per second across the test set.
+At<00:05:42.440><c> the</c><00:05:42.600><c> far</c><00:05:43.040><c> left,</c><00:05:44.040><c> you</c><00:05:44.240><c> see</c><00:05:44.560><c> the</c><00:05:44.800><c> 1.5</c>
+
+00:05:46.430 --> 00:05:46.440 align:start position:0%
+At the far left, you see the 1.5
+ 
+
+00:05:46.440 --> 00:05:48.910 align:start position:0%
+At the far left, you see the 1.5
+billion<00:05:46.880><c> instruct</c><00:05:47.520><c> model</c>
+
+00:05:48.910 --> 00:05:48.920 align:start position:0%
+billion instruct model
+ 
+
+00:05:48.920 --> 00:05:52.950 align:start position:0%
+billion instruct model
+delivering<00:05:49.560><c> a</c><00:05:49.640><c> massive</c><00:05:50.600><c> 61.73</c>
+
+00:05:52.950 --> 00:05:52.960 align:start position:0%
+delivering a massive 61.73
+ 
+
+00:05:52.960 --> 00:05:54.830 align:start position:0%
+delivering a massive 61.73
+tokens<00:05:53.560><c> per</c><00:05:53.760><c> second.</c>
+
+00:05:54.830 --> 00:05:54.840 align:start position:0%
+tokens per second.
+ 
+
+00:05:54.840 --> 00:05:58.710 align:start position:0%
+tokens per second.
+But<00:05:55.000><c> the</c><00:05:55.160><c> most</c><00:05:55.520><c> interesting</c><00:05:56.240><c> data</c><00:05:56.720><c> point</c><00:05:57.240><c> for</c>
+
+00:05:58.710 --> 00:05:58.720 align:start position:0%
+But the most interesting data point for
+ 
+
+00:05:58.720 --> 00:06:03.190 align:start position:0%
+But the most interesting data point for
+us<00:05:59.360><c> is</c><00:05:59.680><c> the</c><00:05:59.920><c> 14</c><00:06:00.840><c> billion</c><00:06:01.680><c> NVFB4</c>
+
+00:06:03.190 --> 00:06:03.200 align:start position:0%
+us is the 14 billion NVFB4
+ 
+
+00:06:03.200 --> 00:06:06.230 align:start position:0%
+us is the 14 billion NVFB4
+model.<00:06:04.160><c> Despite</c><00:06:04.800><c> being</c><00:06:05.040><c> nearly</c><00:06:05.480><c> 10</c><00:06:05.800><c> times</c>
+
+00:06:06.230 --> 00:06:06.240 align:start position:0%
+model. Despite being nearly 10 times
+ 
+
+00:06:06.240 --> 00:06:09.550 align:start position:0%
+model. Despite being nearly 10 times
+larger<00:06:06.840><c> than</c><00:06:07.120><c> the</c><00:06:07.320><c> 1.5</c><00:06:08.240><c> billion</c><00:06:08.640><c> model,</c><00:06:09.440><c> it</c>
+
+00:06:09.550 --> 00:06:09.560 align:start position:0%
+larger than the 1.5 billion model, it
+ 
+
+00:06:09.560 --> 00:06:12.910 align:start position:0%
+larger than the 1.5 billion model, it
+still<00:06:09.920><c> achieves</c><00:06:10.960><c> 20.19</c>
+
+00:06:12.910 --> 00:06:12.920 align:start position:0%
+still achieves 20.19
+ 
+
+00:06:12.920 --> 00:06:16.750 align:start position:0%
+still achieves 20.19
+tokens<00:06:13.680><c> per</c><00:06:13.920><c> second.</c>
+
+00:06:16.750 --> 00:06:16.760 align:start position:0%
+ 
+ 
+
+00:06:16.760 --> 00:06:18.790 align:start position:0%
+ 
+I<00:06:16.880><c> would</c><00:06:17.160><c> say</c><00:06:17.680><c> this</c><00:06:17.880><c> is</c><00:06:18.000><c> a</c><00:06:18.080><c> critical</c>
+
+00:06:18.790 --> 00:06:18.800 align:start position:0%
+I would say this is a critical
+ 
+
+00:06:18.800 --> 00:06:21.550 align:start position:0%
+I would say this is a critical
+engineering<00:06:19.440><c> sweet</c><00:06:19.760><c> spot.</c><00:06:20.760><c> By</c><00:06:20.880><c> leveraging</c>
+
+00:06:21.550 --> 00:06:21.560 align:start position:0%
+engineering sweet spot. By leveraging
+ 
+
+00:06:21.560 --> 00:06:24.430 align:start position:0%
+engineering sweet spot. By leveraging
+Nvidia's<00:06:22.320><c> NVFB4</c>
+
+00:06:24.430 --> 00:06:24.440 align:start position:0%
+Nvidia's NVFB4
+ 
+
+00:06:24.440 --> 00:06:27.390 align:start position:0%
+Nvidia's NVFB4
+4-bit<00:06:25.080><c> floating-point</c><00:06:25.840><c> quantization,</c><00:06:27.280><c> we</c>
+
+00:06:27.390 --> 00:06:27.400 align:start position:0%
+4-bit floating-point quantization, we
+ 
+
+00:06:27.400 --> 00:06:29.550 align:start position:0%
+4-bit floating-point quantization, we
+were<00:06:27.800><c> we</c><00:06:27.960><c> are</c><00:06:28.200><c> able</c><00:06:28.800><c> to</c><00:06:29.000><c> maintain</c><00:06:29.480><c> a</c>
+
+00:06:29.550 --> 00:06:29.560 align:start position:0%
+were we are able to maintain a
+ 
+
+00:06:29.560 --> 00:06:32.590 align:start position:0%
+were we are able to maintain a
+sophisticated,<00:06:30.760><c> high-intelligent</c><00:06:32.000><c> model</c><00:06:32.480><c> at</c>
+
+00:06:32.590 --> 00:06:32.600 align:start position:0%
+sophisticated, high-intelligent model at
+ 
+
+00:06:32.600 --> 00:06:34.830 align:start position:0%
+sophisticated, high-intelligent model at
+a<00:06:32.640><c> throughput</c><00:06:33.200><c> that</c><00:06:33.400><c> is</c><00:06:33.600><c> still</c><00:06:34.000><c> faster</c><00:06:34.640><c> than</c>
+
+00:06:34.830 --> 00:06:34.840 align:start position:0%
+a throughput that is still faster than
+ 
+
+00:06:34.840 --> 00:06:38.910 align:start position:0%
+a throughput that is still faster than
+the<00:06:35.040><c> average</c><00:06:35.520><c> human</c><00:06:35.880><c> reading</c><00:06:36.240><c> speed.</c>
+
+00:06:38.910 --> 00:06:38.920 align:start position:0%
+ 
+ 
+
+00:06:38.920 --> 00:06:41.390 align:start position:0%
+ 
+What<00:06:39.120><c> becomes</c><00:06:39.520><c> very</c><00:06:39.800><c> clear</c><00:06:40.280><c> here</c><00:06:40.800><c> is</c><00:06:41.080><c> how</c>
+
+00:06:41.390 --> 00:06:41.400 align:start position:0%
+What becomes very clear here is how
+ 
+
+00:06:41.400 --> 00:06:44.430 align:start position:0%
+What becomes very clear here is how
+aggressively<00:06:42.400><c> throughput</c><00:06:43.000><c> drops</c><00:06:43.800><c> as</c><00:06:44.040><c> model</c>
+
+00:06:44.430 --> 00:06:44.440 align:start position:0%
+aggressively throughput drops as model
+ 
+
+00:06:44.440 --> 00:06:45.710 align:start position:0%
+aggressively throughput drops as model
+is<00:06:44.600><c> scaled</c>
+
+00:06:45.710 --> 00:06:45.720 align:start position:0%
+is scaled
+ 
+
+00:06:45.720 --> 00:06:47.750 align:start position:0%
+is scaled
+as<00:06:45.880><c> models</c><00:06:46.360><c> scale.</c>
+
+00:06:47.750 --> 00:06:47.760 align:start position:0%
+as models scale.
+ 
+
+00:06:47.760 --> 00:06:50.990 align:start position:0%
+as models scale.
+And<00:06:47.960><c> how</c><00:06:48.240><c> much</c><00:06:48.520><c> quantization</c><00:06:49.480><c> helps.</c>
+
+00:06:50.990 --> 00:06:51.000 align:start position:0%
+And how much quantization helps.
+ 
+
+00:06:51.000 --> 00:06:54.310 align:start position:0%
+And how much quantization helps.
+Have<00:06:51.160><c> a</c><00:06:51.240><c> look</c><00:06:51.520><c> at</c><00:06:51.800><c> the</c><00:06:52.240><c> 14</c><00:06:52.960><c> billion</c><00:06:53.880><c> base</c>
+
+00:06:54.310 --> 00:06:54.320 align:start position:0%
+Have a look at the 14 billion base
+ 
+
+00:06:54.320 --> 00:06:56.350 align:start position:0%
+Have a look at the 14 billion base
+model.
+
+00:06:56.350 --> 00:06:56.360 align:start position:0%
+model.
+ 
+
+00:06:56.360 --> 00:07:01.750 align:start position:0%
+model.
+It<00:06:56.520><c> drops</c><00:06:57.000><c> to</c><00:06:57.200><c> just</c><00:06:57.800><c> 8.40</c><00:06:59.120><c> tokens</c><00:06:59.600><c> per</c><00:06:59.800><c> second.</c>
+
+00:07:01.750 --> 00:07:01.760 align:start position:0%
+It drops to just 8.40 tokens per second.
+ 
+
+00:07:01.760 --> 00:07:04.310 align:start position:0%
+It drops to just 8.40 tokens per second.
+This<00:07:02.000><c> proves</c><00:07:02.400><c> that</c><00:07:02.640><c> on</c><00:07:02.800><c> Blackwell</c><00:07:03.360><c> archi-</c><00:07:04.080><c> on</c>
+
+00:07:04.310 --> 00:07:04.320 align:start position:0%
+This proves that on Blackwell archi- on
+ 
+
+00:07:04.320 --> 00:07:06.270 align:start position:0%
+This proves that on Blackwell archi- on
+Blackwell<00:07:04.920><c> hardware,</c><00:07:05.640><c> the</c><00:07:05.800><c> choice</c><00:07:06.120><c> of</c>
+
+00:07:06.270 --> 00:07:06.280 align:start position:0%
+Blackwell hardware, the choice of
+ 
+
+00:07:06.280 --> 00:07:09.550 align:start position:0%
+Blackwell hardware, the choice of
+quantization<00:07:07.120><c> format</c><00:07:07.720><c> is</c><00:07:07.920><c> just</c><00:07:08.120><c> as</c><00:07:08.280><c> important</c>
+
+00:07:09.550 --> 00:07:09.560 align:start position:0%
+quantization format is just as important
+ 
+
+00:07:09.560 --> 00:07:11.750 align:start position:0%
+quantization format is just as important
+as<00:07:09.760><c> the</c><00:07:09.880><c> hardware</c><00:07:10.320><c> itself.</c>
+
+00:07:11.750 --> 00:07:11.760 align:start position:0%
+as the hardware itself.
+ 
+
+00:07:11.760 --> 00:07:13.910 align:start position:0%
+as the hardware itself.
+It's<00:07:11.960><c> what</c><00:07:12.240><c> allows</c><00:07:12.640><c> the</c><00:07:12.760><c> Jetson</c><00:07:13.320><c> Spark</c><00:07:13.800><c> to</c>
+
+00:07:13.910 --> 00:07:13.920 align:start position:0%
+It's what allows the Jetson Spark to
+ 
+
+00:07:13.920 --> 00:07:16.910 align:start position:0%
+It's what allows the Jetson Spark to
+bridge<00:07:14.240><c> the</c><00:07:14.360><c> gap</c><00:07:14.760><c> between</c><00:07:15.160><c> research</c><00:07:15.680><c> work</c><00:07:16.600><c> and</c>
+
+00:07:16.910 --> 00:07:16.920 align:start position:0%
+bridge the gap between research work and
+ 
+
+00:07:16.920 --> 00:07:20.590 align:start position:0%
+bridge the gap between research work and
+production<00:07:18.360><c> prototyping</c><00:07:19.440><c> engine.</c>
+
+00:07:20.590 --> 00:07:20.600 align:start position:0%
+production prototyping engine.
+ 
+
+00:07:20.600 --> 00:07:23.270 align:start position:0%
+production prototyping engine.
+The<00:07:20.760><c> Spark</c><00:07:21.280><c> allowed</c><00:07:21.600><c> me</c><00:07:21.720><c> to</c><00:07:21.840><c> experiment</c><00:07:23.080><c> with</c>
+
+00:07:23.270 --> 00:07:23.280 align:start position:0%
+The Spark allowed me to experiment with
+ 
+
+00:07:23.280 --> 00:07:25.710 align:start position:0%
+The Spark allowed me to experiment with
+different<00:07:23.840><c> precision</c><00:07:24.480><c> formats</c><00:07:25.000><c> locally</c><00:07:25.520><c> and</c>
+
+00:07:25.710 --> 00:07:25.720 align:start position:0%
+different precision formats locally and
+ 
+
+00:07:25.720 --> 00:07:27.750 align:start position:0%
+different precision formats locally and
+understand<00:07:26.320><c> the</c><00:07:26.440><c> trade-offs</c>
+
+00:07:27.750 --> 00:07:27.760 align:start position:0%
+understand the trade-offs
+ 
+
+00:07:27.760 --> 00:07:31.630 align:start position:0%
+understand the trade-offs
+in<00:07:27.840><c> the</c><00:07:27.960><c> real</c><00:07:28.280><c> time.</c>
+
+00:07:31.630 --> 00:07:31.640 align:start position:0%
+ 
+ 
+
+00:07:31.640 --> 00:07:33.350 align:start position:0%
+ 
+While<00:07:31.960><c> throughput</c><00:07:32.520><c> is</c><00:07:32.680><c> a</c><00:07:32.720><c> measure</c><00:07:33.040><c> of</c><00:07:33.200><c> raw</c>
+
+00:07:33.350 --> 00:07:33.360 align:start position:0%
+While throughput is a measure of raw
+ 
+
+00:07:33.360 --> 00:07:37.230 align:start position:0%
+While throughput is a measure of raw
+power,<00:07:34.560><c> time</c><00:07:35.000><c> to</c><00:07:35.200><c> first</c><00:07:35.640><c> token</c><00:07:36.280><c> is</c><00:07:36.480><c> the</c><00:07:36.640><c> metric</c>
+
+00:07:37.230 --> 00:07:37.240 align:start position:0%
+power, time to first token is the metric
+ 
+
+00:07:37.240 --> 00:07:40.270 align:start position:0%
+power, time to first token is the metric
+that<00:07:37.480><c> defines</c><00:07:38.360><c> user</c><00:07:38.720><c> experience.</c>
+
+00:07:40.270 --> 00:07:40.280 align:start position:0%
+that defines user experience.
+ 
+
+00:07:40.280 --> 00:07:42.310 align:start position:0%
+that defines user experience.
+It<00:07:40.440><c> determines</c><00:07:41.040><c> whether</c><00:07:41.360><c> an</c><00:07:41.520><c> application</c>
+
+00:07:42.310 --> 00:07:42.320 align:start position:0%
+It determines whether an application
+ 
+
+00:07:42.320 --> 00:07:44.910 align:start position:0%
+It determines whether an application
+feels<00:07:42.800><c> instant</c><00:07:43.480><c> or</c><00:07:43.680><c> broken.</c>
+
+00:07:44.910 --> 00:07:44.920 align:start position:0%
+feels instant or broken.
+ 
+
+00:07:44.920 --> 00:07:47.430 align:start position:0%
+feels instant or broken.
+In<00:07:45.080><c> other</c><00:07:45.360><c> words,</c><00:07:45.840><c> it</c><00:07:46.040><c> reflects</c><00:07:46.680><c> how</c><00:07:46.920><c> quickly</c>
+
+00:07:47.430 --> 00:07:47.440 align:start position:0%
+In other words, it reflects how quickly
+ 
+
+00:07:47.440 --> 00:07:51.350 align:start position:0%
+In other words, it reflects how quickly
+the<00:07:47.600><c> model</c><00:07:47.960><c> is</c><00:07:48.080><c> starts</c><00:07:48.480><c> responding.</c>
+
+00:07:51.350 --> 00:07:51.360 align:start position:0%
+ 
+ 
+
+00:07:51.360 --> 00:07:53.790 align:start position:0%
+ 
+As<00:07:51.600><c> we</c><00:07:51.760><c> see</c><00:07:52.120><c> in</c><00:07:52.240><c> the</c><00:07:52.400><c> results,</c><00:07:52.960><c> the</c><00:07:53.120><c> Jetson</c>
+
+00:07:53.790 --> 00:07:53.800 align:start position:0%
+As we see in the results, the Jetson
+ 
+
+00:07:53.800 --> 00:07:55.510 align:start position:0%
+As we see in the results, the Jetson
+Spark<00:07:54.200><c> delivers</c><00:07:54.800><c> exceptional</c>
+
+00:07:55.510 --> 00:07:55.520 align:start position:0%
+Spark delivers exceptional
+ 
+
+00:07:55.520 --> 00:07:57.870 align:start position:0%
+Spark delivers exceptional
+responsiveness.
+
+00:07:57.870 --> 00:07:57.880 align:start position:0%
+responsiveness.
+ 
+
+00:07:57.880 --> 00:07:59.990 align:start position:0%
+responsiveness.
+The<00:07:58.080><c> increase</c><00:07:58.680><c> for</c><00:07:58.920><c> larger</c><00:07:59.320><c> models</c><00:07:59.840><c> is</c>
+
+00:07:59.990 --> 00:08:00.000 align:start position:0%
+The increase for larger models is
+ 
+
+00:08:00.000 --> 00:08:03.150 align:start position:0%
+The increase for larger models is
+expected.<00:08:00.840><c> More</c><00:08:01.080><c> parameters</c><00:08:01.920><c> mean</c><00:08:02.280><c> more</c>
+
+00:08:03.150 --> 00:08:03.160 align:start position:0%
+expected. More parameters mean more
+ 
+
+00:08:03.160 --> 00:08:05.670 align:start position:0%
+expected. More parameters mean more
+computation<00:08:04.080><c> before</c><00:08:04.480><c> the</c><00:08:04.640><c> first</c><00:08:05.000><c> token</c><00:08:05.480><c> is</c>
+
+00:08:05.670 --> 00:08:05.680 align:start position:0%
+computation before the first token is
+ 
+
+00:08:05.680 --> 00:08:07.710 align:start position:0%
+computation before the first token is
+generated.
+
+00:08:07.710 --> 00:08:07.720 align:start position:0%
+generated.
+ 
+
+00:08:07.720 --> 00:08:10.630 align:start position:0%
+generated.
+Out<00:08:08.080><c> of</c><00:08:08.320><c> all</c><00:08:08.960><c> from</c><00:08:09.280><c> this</c><00:08:09.520><c> chart,</c><00:08:10.520><c> the</c>
+
+00:08:10.630 --> 00:08:10.640 align:start position:0%
+Out of all from this chart, the
+ 
+
+00:08:10.640 --> 00:08:13.150 align:start position:0%
+Out of all from this chart, the
+interesting<00:08:11.360><c> ones</c><00:08:12.160><c> are</c><00:08:12.240><c> the</c><00:08:12.360><c> comparison</c>
+
+00:08:13.150 --> 00:08:13.160 align:start position:0%
+interesting ones are the comparison
+ 
+
+00:08:13.160 --> 00:08:17.470 align:start position:0%
+interesting ones are the comparison
+between<00:08:13.720><c> the</c><00:08:13.880><c> 14</c><00:08:14.680><c> billion</c><00:08:15.680><c> parameter</c><00:08:16.280><c> models,</c>
+
+00:08:17.470 --> 00:08:17.480 align:start position:0%
+between the 14 billion parameter models,
+ 
+
+00:08:17.480 --> 00:08:21.310 align:start position:0%
+between the 14 billion parameter models,
+the<00:08:17.600><c> base</c><00:08:17.960><c> model</c><00:08:18.840><c> and</c><00:08:19.200><c> the</c><00:08:19.760><c> NVFB4</c>
+
+00:08:21.310 --> 00:08:21.320 align:start position:0%
+the base model and the NVFB4
+ 
+
+00:08:21.320 --> 00:08:22.430 align:start position:0%
+the base model and the NVFB4
+model.
+
+00:08:22.430 --> 00:08:22.440 align:start position:0%
+model.
+ 
+
+00:08:22.440 --> 00:08:24.230 align:start position:0%
+model.
+As<00:08:22.600><c> we</c><00:08:22.720><c> can</c><00:08:22.960><c> see,</c>
+
+00:08:24.230 --> 00:08:24.240 align:start position:0%
+As we can see,
+ 
+
+00:08:24.240 --> 00:08:27.870 align:start position:0%
+As we can see,
+as<00:08:24.320><c> we</c><00:08:24.440><c> can</c><00:08:24.640><c> see,</c><00:08:24.800><c> the</c><00:08:24.960><c> 14</c><00:08:25.440><c> billion</c><00:08:25.920><c> NVFB4</c>
+
+00:08:27.870 --> 00:08:27.880 align:start position:0%
+as we can see, the 14 billion NVFB4
+ 
+
+00:08:27.880 --> 00:08:33.070 align:start position:0%
+as we can see, the 14 billion NVFB4
+is<00:08:28.080><c> 3.4</c><00:08:29.280><c> times</c><00:08:29.760><c> faster</c><00:08:31.000><c> to</c><00:08:31.200><c> first</c><00:08:31.640><c> token</c><00:08:32.039><c> than</c>
+
+00:08:33.070 --> 00:08:33.080 align:start position:0%
+is 3.4 times faster to first token than
+ 
+
+00:08:33.080 --> 00:08:37.390 align:start position:0%
+is 3.4 times faster to first token than
+the<00:08:33.560><c> unoptimized</c><00:08:34.479><c> 14</c><00:08:35.000><c> base</c><00:08:35.360><c> model.</c>
+
+00:08:37.390 --> 00:08:37.400 align:start position:0%
+the unoptimized 14 base model.
+ 
+
+00:08:37.400 --> 00:08:40.589 align:start position:0%
+the unoptimized 14 base model.
+A<00:08:37.479><c> key</c><00:08:37.719><c> takeaway</c><00:08:38.599><c> here</c><00:08:39.200><c> from</c><00:08:39.520><c> this</c><00:08:39.800><c> data</c><00:08:40.360><c> is</c>
+
+00:08:40.589 --> 00:08:40.599 align:start position:0%
+A key takeaway here from this data is
+ 
+
+00:08:40.599 --> 00:08:43.670 align:start position:0%
+A key takeaway here from this data is
+that<00:08:41.080><c> memory</c><00:08:41.520><c> capacity</c><00:08:42.599><c> is</c><00:08:42.800><c> not</c><00:08:43.039><c> the</c><00:08:43.159><c> same</c><00:08:43.520><c> as</c>
+
+00:08:43.670 --> 00:08:43.680 align:start position:0%
+that memory capacity is not the same as
+ 
+
+00:08:43.680 --> 00:08:45.670 align:start position:0%
+that memory capacity is not the same as
+the<00:08:43.800><c> memory</c><00:08:44.280><c> bandwidth.</c>
+
+00:08:45.670 --> 00:08:45.680 align:start position:0%
+the memory bandwidth.
+ 
+
+00:08:45.680 --> 00:08:49.230 align:start position:0%
+the memory bandwidth.
+While<00:08:45.880><c> the</c><00:08:46.000><c> Jetson</c><00:08:46.560><c> Spark's</c><00:08:46.960><c> 128</c><00:08:48.080><c> GB</c><00:08:48.800><c> of</c>
+
+00:08:49.230 --> 00:08:49.240 align:start position:0%
+While the Jetson Spark's 128 GB of
+ 
+
+00:08:49.240 --> 00:08:51.990 align:start position:0%
+While the Jetson Spark's 128 GB of
+unified<00:08:49.760><c> memory</c><00:08:50.240><c> allows</c><00:08:50.600><c> us</c><00:08:50.800><c> to</c><00:08:50.960><c> fit</c><00:08:51.360><c> massive</c>
+
+00:08:51.990 --> 00:08:52.000 align:start position:0%
+unified memory allows us to fit massive
+ 
+
+00:08:52.000 --> 00:08:55.350 align:start position:0%
+unified memory allows us to fit massive
+models<00:08:52.600><c> up</c><00:08:52.880><c> to</c><00:08:53.520><c> 200</c><00:08:54.160><c> billion</c>
+
+00:08:55.350 --> 00:08:55.360 align:start position:0%
+models up to 200 billion
+ 
+
+00:08:55.360 --> 00:08:57.150 align:start position:0%
+models up to 200 billion
+parameters,
+
+00:08:57.150 --> 00:08:57.160 align:start position:0%
+parameters,
+ 
+
+00:08:57.160 --> 00:08:59.590 align:start position:0%
+parameters,
+our<00:08:57.400><c> throughput</c><00:08:58.040><c> is</c><00:08:58.160><c> still</c><00:08:58.560><c> governed</c><00:08:59.040><c> by</c><00:08:59.280><c> how</c>
+
+00:08:59.590 --> 00:08:59.600 align:start position:0%
+our throughput is still governed by how
+ 
+
+00:08:59.600 --> 00:09:01.190 align:start position:0%
+our throughput is still governed by how
+efficiently
+
+00:09:01.190 --> 00:09:01.200 align:start position:0%
+efficiently
+ 
+
+00:09:01.200 --> 00:09:04.070 align:start position:0%
+efficiently
+we<00:09:01.360><c> can</c><00:09:01.640><c> move</c><00:09:02.000><c> data.</c>
+
+00:09:04.070 --> 00:09:04.080 align:start position:0%
+we can move data.
+ 
+
+00:09:04.080 --> 00:09:06.990 align:start position:0%
+we can move data.
+This<00:09:04.360><c> is</c><00:09:04.560><c> why</c><00:09:05.160><c> NVFB4</c>
+
+00:09:06.990 --> 00:09:07.000 align:start position:0%
+This is why NVFB4
+ 
+
+00:09:07.000 --> 00:09:09.990 align:start position:0%
+This is why NVFB4
+is<00:09:07.240><c> the</c><00:09:07.400><c> hero</c><00:09:07.880><c> here.</c>
+
+00:09:09.990 --> 00:09:10.000 align:start position:0%
+is the hero here.
+ 
+
+00:09:10.000 --> 00:09:12.630 align:start position:0%
+is the hero here.
+It<00:09:10.280><c> effectively</c><00:09:11.360><c> increases</c><00:09:12.400><c> our</c>
+
+00:09:12.630 --> 00:09:12.640 align:start position:0%
+It effectively increases our
+ 
+
+00:09:12.640 --> 00:09:15.190 align:start position:0%
+It effectively increases our
+intelligence<00:09:13.680><c> per</c><00:09:13.960><c> byte,</c>
+
+00:09:15.190 --> 00:09:15.200 align:start position:0%
+intelligence per byte,
+ 
+
+00:09:15.200 --> 00:09:18.470 align:start position:0%
+intelligence per byte,
+allowing<00:09:15.680><c> a</c><00:09:15.760><c> 14</c><00:09:16.400><c> billion</c><00:09:16.880><c> model</c><00:09:17.800><c> to</c><00:09:18.000><c> feel</c><00:09:18.320><c> as</c>
+
+00:09:18.470 --> 00:09:18.480 align:start position:0%
+allowing a 14 billion model to feel as
+ 
+
+00:09:18.480 --> 00:09:23.430 align:start position:0%
+allowing a 14 billion model to feel as
+responsive<00:09:19.600><c> as</c><00:09:19.920><c> much</c><00:09:20.480><c> smaller</c><00:09:21.000><c> one.</c>
+
+00:09:23.430 --> 00:09:23.440 align:start position:0%
+ 
+ 
+
+00:09:23.440 --> 00:09:25.870 align:start position:0%
+ 
+After<00:09:23.800><c> running</c><00:09:24.240><c> all</c><00:09:24.520><c> of</c><00:09:24.720><c> these,</c><00:09:25.360><c> two</c><00:09:25.520><c> things</c>
+
+00:09:25.870 --> 00:09:25.880 align:start position:0%
+After running all of these, two things
+ 
+
+00:09:25.880 --> 00:09:27.670 align:start position:0%
+After running all of these, two things
+stood<00:09:26.360><c> out</c><00:09:26.600><c> to</c><00:09:26.760><c> me.</c>
+
+00:09:27.670 --> 00:09:27.680 align:start position:0%
+stood out to me.
+ 
+
+00:09:27.680 --> 00:09:31.110 align:start position:0%
+stood out to me.
+On<00:09:27.960><c> when</c><00:09:28.360><c> to</c><00:09:28.640><c> use</c><00:09:29.120><c> the</c><00:09:29.240><c> Jetson</c><00:09:29.920><c> Spark.</c><00:09:30.880><c> For</c>
+
+00:09:31.110 --> 00:09:31.120 align:start position:0%
+On when to use the Jetson Spark. For
+ 
+
+00:09:31.120 --> 00:09:33.070 align:start position:0%
+On when to use the Jetson Spark. For
+steady-state<00:09:32.120><c> workloads,</c>
+
+00:09:33.070 --> 00:09:33.080 align:start position:0%
+steady-state workloads,
+ 
+
+00:09:33.080 --> 00:09:36.110 align:start position:0%
+steady-state workloads,
+privacy-sensitive<00:09:34.520><c> data,</c>
+
+00:09:36.110 --> 00:09:36.120 align:start position:0%
+privacy-sensitive data,
+ 
+
+00:09:36.120 --> 00:09:38.350 align:start position:0%
+privacy-sensitive data,
+and<00:09:36.360><c> rapid</c><00:09:36.760><c> prototyping.</c>
+
+00:09:38.350 --> 00:09:38.360 align:start position:0%
+and rapid prototyping.
+ 
+
+00:09:38.360 --> 00:09:40.750 align:start position:0%
+and rapid prototyping.
+It<00:09:38.520><c> allows</c><00:09:38.960><c> you</c><00:09:39.080><c> to</c><00:09:39.320><c> build</c><00:09:39.800><c> and</c><00:09:40.040><c> fine-tune</c>
+
+00:09:40.750 --> 00:09:40.760 align:start position:0%
+It allows you to build and fine-tune
+ 
+
+00:09:40.760 --> 00:09:43.390 align:start position:0%
+It allows you to build and fine-tune
+locally<00:09:41.560><c> with</c><00:09:41.760><c> the</c><00:09:41.880><c> exact</c><00:09:42.520><c> same</c><00:09:42.840><c> software</c>
+
+00:09:43.390 --> 00:09:43.400 align:start position:0%
+locally with the exact same software
+ 
+
+00:09:43.400 --> 00:09:47.150 align:start position:0%
+locally with the exact same software
+stack<00:09:44.000><c> used</c><00:09:44.440><c> in</c><00:09:44.600><c> Jetson</c><00:09:45.080><c> cloud.</c>
+
+00:09:47.150 --> 00:09:47.160 align:start position:0%
+stack used in Jetson cloud.
+ 
+
+00:09:47.160 --> 00:09:50.430 align:start position:0%
+stack used in Jetson cloud.
+Visit<00:09:47.560><c> build.nvidia.com/spark</c>
+
+00:09:50.430 --> 00:09:50.440 align:start position:0%
+Visit build.nvidia.com/spark
+ 
+
+00:09:50.440 --> 00:09:52.790 align:start position:0%
+Visit build.nvidia.com/spark
+to<00:09:50.640><c> access</c><00:09:51.120><c> the</c><00:09:51.240><c> playbooks</c><00:09:52.040><c> and</c><00:09:52.240><c> software</c>
+
+00:09:52.790 --> 00:09:52.800 align:start position:0%
+to access the playbooks and software
+ 
+
+00:09:52.800 --> 00:09:55.870 align:start position:0%
+to access the playbooks and software
+stack<00:09:53.280><c> I</c><00:09:53.440><c> used</c><00:09:53.720><c> for</c><00:09:53.880><c> these</c><00:09:54.160><c> benchmarks.</c>
+
+00:09:55.870 --> 00:09:55.880 align:start position:0%
+stack I used for these benchmarks.
+ 
+
+00:09:55.880 --> 00:09:58.110 align:start position:0%
+stack I used for these benchmarks.
+And<00:09:56.480><c> in</c><00:09:56.680><c> one</c>
+
+00:09:58.110 --> 00:09:58.120 align:start position:0%
+And in one
+ 
+
+00:09:58.120 --> 00:10:01.190 align:start position:0%
+And in one
+run<00:09:58.440><c> locally,</c><00:09:59.440><c> iterate</c><00:10:00.000><c> quickly,</c><00:10:00.760><c> and</c><00:10:00.920><c> when</c>
+
+00:10:01.190 --> 00:10:01.200 align:start position:0%
+run locally, iterate quickly, and when
+ 
+
+00:10:01.200 --> 00:10:04.790 align:start position:0%
+run locally, iterate quickly, and when
+ready,<00:10:02.080><c> scale</c><00:10:02.520><c> to</c><00:10:02.680><c> data</c><00:10:03.040><c> center</c><00:10:03.560><c> or</c><00:10:03.760><c> cloud.</c>
+
+00:10:04.790 --> 00:10:04.800 align:start position:0%
+ready, scale to data center or cloud.
+ 
+
+00:10:04.800 --> 00:10:07.110 align:start position:0%
+ready, scale to data center or cloud.
+That's<00:10:05.080><c> the</c><00:10:05.240><c> workflow</c><00:10:06.080><c> that</c><00:10:06.240><c> J</c><00:10:06.360><c> uses</c><00:10:06.680><c> Spark</c>
+
+00:10:07.110 --> 00:10:07.120 align:start position:0%
+That's the workflow that J uses Spark
+ 
+
+00:10:07.120 --> 00:10:09.880 align:start position:0%
+That's the workflow that J uses Spark
+enables.
+

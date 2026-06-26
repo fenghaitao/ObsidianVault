@@ -39,11 +39,23 @@ You are maintaining an LLM Wiki (Obsidian knowledge base). `raw/` is the inbox; 
 ### Batch processing
 
 When the user confirms processing multiple files in one run:
-- **De-duplicate first.** If the same source appears in more than one form (e.g. a transcript and its subtitle twin), keep only the canonical `.md`/`.pdf` content file and drop the rest. Never compile the same underlying source twice.
+- **De-duplicate first.** If the same source appears in more than one form (e.g. a transcript and its subtitle twin), keep only the canonical .md/.pdf content file and drop the rest. Never compile the same underlying source twice.
 - **Process oldest-first** (by filename date prefix where present) so the wiki accretes in chronological order.
-- **Run the full pipeline per file, one at a time** — finish Steps 1–6 for a file before starting the next. Don't batch all reads then all writes; that loses the incremental-merge and conflict-pause guarantees.
-- **A conflict pauses the whole batch.** If Step 4 hits a conflict on any file, stop, report it, and wait for the user's decision before resuming the remaining files (see Conflict handling). Already-completed files stay done; the rest wait.
-- **Summarize at the end**: list which files were ingested, which were skipped as duplicates, and any conflicts that paused.
+- **Use parallel workers for content creation (Steps 1–4 only).** Each file gets its own subagent that reads the source, extracts entities/concepts, creates the mirrored source summary, and creates/updates entity and concept pages. Workers must **never** touch index.md or log.md — those are shared state edited in the consolidation step below. For entity/concept pages, workers may safely read and write their own pages in parallel since each entity/concept page is a distinct file.
+- **A conflict pauses the whole batch.** If Step 4 hits a conflict on any file, the worker stops, reports it, and the orchestrator waits for the user's decision before resuming the remaining files (see Conflict handling). Already-completed files stay done; the rest wait.
+- **Consolidate registries after the batch (Steps 5–6 once).** After all workers finish, a single sequential process updates index.md and log.md once for the entire batch. This eliminates race conditions on shared state.
+
+#### Batch orchestration protocol
+
+1. **Dispatch workers in parallel** — one subagent per file. Each worker executes Steps 1–4 only. Workers create source summaries, entity pages, and concept pages. Workers must NOT read or write wiki/index.md or wiki/log.md.
+2. **Collect results** — wait for all workers to finish. Gather the list of created/updated pages from each worker's summary.
+3. **Run consolidation** — a single sequential process:
+   a. Read wiki/index.md once.
+   b. Add every new source summary, entity, and concept entry to the appropriate section. Check for duplicates (parallel workers may have created the same entity/concept pages — pick one entry per page).
+   c. Write wiki/index.md once.
+   d. Append one log entry per ingested file to wiki/log.md.
+4. **Summarize at the end**: list which files were ingested, total pages created/updated, any conflicts that paused, and any workers that failed.
+
 
 ## Compilation pipeline
 

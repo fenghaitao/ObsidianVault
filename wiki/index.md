@@ -10,19 +10,466 @@ Format: `[[Page Name]] — One-sentence description.`
 
 *(Summaries of `raw/` files — kebab-case filenames)*
 
-*(empty)*
+- [[summary-20251219 - From Arc to Dia： Lessons learned building AI Browsers – Samir Mody, The Browser Company of New York]] — Samir Mody on lessons from building Arc and Dia browsers.
+- [[summary-20251222 - Making Codebases Agent Ready – Eno Reyes, Factory AI]] — Eno Reyes on how automated validation criteria unlock AI coding agent effectiveness.
+- [[summary-20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code]] — Beyang Liu presents Amp Code's contrarian agent-oriented architecture with specialized sub-agents.
+- [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — Aparna Dhinakaran on using prompt learning and LLM-as-judge evals to improve coding agents.
+- [[summary-20251223 - Developer Experience in the Age of AI Coding Agents – Max Kanat-Alexander, Capital One]] — Max Kanat-Alexander argues that "what's good for humans is good for AI" and identifies no-regrets DX investments for the agentic coding era.
+- [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — Michele Catasta presents Replit's three pillars for building fully autonomous coding agents for non-technical users.
+- [[summary-20251223 - Small Bets, Big Impact Building GenBI at a Fortune 100 – Asaf Bord, Northwestern Mutual]] — Asaf Bord presents Northwestern Mutual's incremental approach to building GenBI at a risk-averse Fortune 100 company.
+- [[summary-20251220 - The Infinite Software Crisis – Jake Nations, Netflix]] — Jake Nations on AI code generation outpacing human understanding and a three-phase approach to maintain control.
+- [[summary-20251219 - Leadership in AI Assisted Engineering – Justin Reock, DX (acq. Atlassian)]] — Justin Reock presents data-driven findings on GenAI adoption volatility, psychological safety, and SDLC-wide AI integration strategies.
+- [[summary-20251222 - No More Slop – swyx]] — swyx declares war on slop at the AI Engineer Summit, arguing that taste must scale to fight low-quality content.
+- [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — Thariq Shihipar presents a full workshop on building agents with the Claude Agent SDK.
+- [[summary-20260105 - Welcome to AIE CODE - Jed Borovik, Google DeepMind]] — Jed Borovik opens the AI Engineering Code Summit, framing AI as technology's most important problem and code as applied AI's most important problem.
+- [[summary-20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel]] — Peter Wielander demonstrates how the Workflow DevKit adds durability, resumability, observability, and human-in-the-loop to AI agents with minimal code changes.
+- [[summary-20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal]] — Cornelia Davis demonstrates how Temporal brings durability to AI agents built with the OpenAI Agents SDK via workflows and activities.
+- [[summary-20260408 - Cognitive Exhaust Fumes, or： Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint]] — Šimon Podhajský presents Fulan, a read-only personal AI system that analyzes digital exhaust fumes across six data sources to surface intention-action gaps, attention drift, and relationship decay.
+- [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — SallyAnn DeLucia and Fuad Ali present a hands-on workshop on building prompt optimization loops with English-language feedback.
+- [[summary-20251227 - AGI： The Path Forward – Jason Warner & Eiso Kant, Poolside]] — Jason Warner and Eiso Kant present Poolside's RL+LLM approach to closing the gap between models and human intelligence.
+- [[summary-20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR]] — Joel Becker reconciles benchmark evidence (exponential AI progress) with an RCT showing AI tools slowed top developers by 19%.
+- [[summary-20260114 - Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0]] — Patrick Riley and Carlos Galan present Auth0's four-pillar framework for AI agent identity with Token Vault, async CIBA authorization, and MCP server integration.
+- [[summary-20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect]] — Jeremiah Lowin on five MCP best practices: outcomes over operations, flatten arguments, instructions as context, respect the token budget, curate ruthlessly.
+- [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — Robert Brennan presents agent orchestration for large-scale refactors, including the OpenHands Refactor SDK and verifier-fixer pipeline.
+- [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — Nimrod Hauser presents five best practices for optimizing third-party MCP server tools for specific agentic workflows.
+- [[summary-20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro]] — Al Harris presents Amazon Kiro's spec-driven development workflow with EARS requirements, property-based testing, and neurosymbolic reasoning.
+- [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — Brendan O'Leary presents agentic engineering: the paradigm shift from using AI to working with AI as a collaborator, emphasizing context engineering and the research-plan-implement workflow.
+- [[summary-20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners]] — Kevin Madura presents DSPy as a declarative framework for programming LLMs with signatures, modules, and optimizers.
+- [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — Aman Khan presents an evaluation framework for product managers shipping AI features.
+- [[summary-20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer]] — Jared Zoneraich explains Claude Code's architecture and PromptLayer's observability tooling.
+- [[summary-20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)]] — Ivan Leo presents Manus AI's approach to building intelligent research agents.
+- [[summary-20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is]] — Jack Morris on the distinction between context stuffing and true memory via weight updates.
+- [[summary-20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR]] — Joel Becker on compute-capability proportionality, J-curve debate, and triangulating AI capabilities with multiple evidence sources.
+- [[summary-20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind]] — Cassidy Hardin presents Gemma 4's architectural innovations: interleaved local/global attention, grouped query attention, MoE, per-layer embeddings, and native multimodality under Apache 2.0.
+- [[summary-20260427 - Gateways are All You Need — Karan Sampath, Anthropic]] — Karan Sampath presents MCP Gateways as the enterprise solution to the three-headed hydra of observability, access control, and security, establishing a root of trust for decentralized MCP development.
 
+- [[summary-20260428 - One Login to Rule Them All： Cross-App Access for MCP — Garrett Galow, WorkOS]] — Garrett Galow presents Cross-App Access (XAA) built on ID JAG to eliminate MCP consent screen fatigue and restore SSO for agent authentication.
 ## Entities
 
 *(People, companies, tools, products — TitleCase filenames)*
 
-*(empty)*
+- [[SamirMody]] — CEO of The Browser Company of New York.
+- [[TheBrowserCompany]] — Company behind Arc and Dia browsers.
+- [[ArcBrowser]] — The Browser Company's first browser product.
+- [[DiaBrowser]] — The Browser Company's AI-native browser.
+- [[EnoReyes]] — Speaker from Factory AI, advocate for agent-ready codebases.
+- [[FactoryAI]] — Company building autonomous software engineering tools including Droid coding agent.
+- [[AndrejKarpathy]] — AI researcher who coined Software 2.0.
+- [[BrowserBase]] — Company building browser automation and computer-use validation tools.
+- [[BeyangLiu]] — Amp Code team member and presenter on next-generation AI coding.
+- [[BookingCom]] — Travel e-commerce company and Arize client, example of subjective eval use cases.
+- [[AmpCode]] — Opinionated frontier coding agent with specialized sub-agents and dual-agent architecture.
+- [[ADA]] — Programming language used by government for critical infrastructure, featured in Poolside's demo.
+- [[AmazonBedrock]] — AWS managed service where Poolside's next-generation models will be available.
+- [[EisoKant]] — Co-founder of Poolside, early pioneer in neural code completion using LSTMs.
+- [[GitHub]] — Code hosting platform transformed into an end-to-end development platform under Jason Warner's CTO tenure.
+- [[GitHubCopilot]] — AI coding assistant incubated in GitHub's Office of the CTO by Jason Warner and Nat Friedman.
+- [[Harvey]] — Legal AI application referenced as a non-engineering consumer of AI models.
+- [[JasonWarner]] — Co-founder of Poolside, former CTO of GitHub where he helped launch Copilot.
+- [[MalibuAgent]] — Poolside's second-generation AI model trained from scratch with proprietary RL+LLM techniques.
+- [[MiniMax]] — Open-source model provider referenced as a popular base for RL and fine-tuning work.
+- [[NatFriedman]] — Technology executive who co-developed GitHub Copilot with Jason Warner.
+- [[Poolside]] — AI company building proprietary models from scratch using RL+LLM to close the gap to human intelligence.
+- [[Qwen]] — Open-source model family referenced as a popular base for RL and fine-tuning work.
+- [[Rust]] — Systems programming language used as the target in Poolside's ADA-to-Rust codebase conversion demo.
+- [[VisualStudioCode]] — Microsoft code editor used as the interface for Poolside's coding agent demo.
+- [[Windsurf]] — AI coding tool referenced as a potential consumer of Poolside's models.
+- [[Ghosty]] — Open-source terminal emulator; core contributor built Amp Code's TUI framework.
+- [[MitchellHashimoto]] — Founder of Ghosty and notable Amp Code user.
+- [[HamillHussein]] — Leading authority on AI evals and Amp Code user.
+- [[RyanCarson]] — Former Treehouse founder, runs Amp Code's builder community.
+- [[Treehouse]] — Education startup that taught over a million people to code.
+- [[Gemini3]] — Google LLM adopted by Amp Code for its Smart Agent.
+- [[MaxKanatAlexander]] — Developer experience expert at Capital One with 20+ years in DX.
+- [[CapitalOne]] — Major financial services company with significant software engineering operations.
+- [[AsafBord]] — GenBI research lead at Northwestern Mutual, speaker at aiDotEngineer.
+- [[NorthwesternMutual]] — 160-year-old Fortune 100 financial services company (life insurance, wealth management).
+- [[DatabricksGenie]] — Third-party GenBI solution from Databricks, evaluated as an alternative to in-house development.
+- [[JakeNations]] — Netflix engineer, creator of context compression methodology.
+- [[Netflix]] — Global streaming company; case study site for AI-assisted refactoring.
+- [[FredBrooks]] — Author of "The Mythical Man-Month" and "No Silver Bullet."
+- [[RichHickey]] — Creator of Clojure, author of "Simple Made Easy."
+- [[EdsgerDijkstra]] — Pioneering computer scientist who observed the first software crisis.
+- [[Clojure]] — Functional programming language created by Rich Hickey.
+- [[CloudFlare]] — Web infrastructure company; referenced as example of production system failure.
+- [[AparnaDhinakaran]] — Speaker at Arize, works on prompt learning and LLM evaluation.
+- [[SallyAnnDeLucia]] — Director of RISE at Arize, presented the prompt learning loop workshop.
+- [[FuadAli]] — Product Manager at Arize, co-presented the prompt learning loop workshop.
+- [[Arize]] — AI observability and evaluation platform.
+- [[ClaudeCode]] — Anthropic's coding agent.
+- [[Cline]] — Open-source coding agent.
+- [[SWE-bench]] — Software engineering benchmark for coding agents.
+- [[DSPy]] — Stanford framework for programming language models, includes GEA prompt optimizer.
+- [[Cursor]] — AI-powered code editor.
+- [[JustinReock]] — Speaker and thought leader at DX (acquired by Atlassian), presented on AI-assisted engineering leadership.
+- [[DX]] — Developer productivity measurement company acquired by Atlassian, creator of the DXAI Measurement Framework.
+- [[DORA]] — DevOps Research and Assessment group publishing benchmarks on AI adoption impact in engineering.
+- [[MorganStanley]] — Financial services company saving ~300,000 hours annually with AI-driven legacy code modernization.
+- [[Zapier]] — Automation company using AI bots to reduce developer onboarding time to 2 weeks.
+- [[Spotify]] — Music streaming company using AI to improve SRE incident response and MTTR.
+- [[Atlassian]] — Software company (Jira, Confluence) that acquired DX.
+- [[swyx]] — Organizer of the AI Engineer Summit, declared war on slop and advocates using AI to fight low-quality content.
+- [[GregBrockman]] — OpenAI co-founder who preaches modularity in AI system design.
+- [[Devin]] — AI coding tool from Cognition capable of autonomous development tasks.
+- [[Cognition]] — Company behind Devin, the AI coding agent.
+- [[Anthropic]] — AI research company that debuted computer use capability.
+- [[KaranSampath]] — Forward Deployed Engineer at Anthropic, first outside the US, advocate for MCP Gateways in enterprise deployments.
+- [[OpenAI]] — Leading AI research company co-founded by Greg Brockman, creator of Sora.
+- [[MicheleCatasta]] — Leader at Replit working on autonomous coding agents for non-technical users.
+- [[Replit]] — Company building an autonomous coding agent designed for non-technical users.
+- [[ReplitAgent]] — Replit's autonomous coding agent product, evolved through multiple generations.
+- [[Playwright]] — Browser automation library used by Replit for autonomous testing of web applications.
+- [[Stagehand]] — Browser automation library for tool-based browser use in testing.
+- [[PeterWielander]] — Speaker from Vercel, presented the Workflow DevKit.
+- [[Vercel]] — Company behind the Workflow DevKit, AI SDK, Next.js, and Vercel Sandbox.
+- [[WorkflowDevKit]] — Open-source TypeScript library for building durable, observable workflows and agents.
+- [[AISDK]] — Vercel's AI SDK providing `streamText`, `Agent`, and `useChat` for AI applications.
+- [[NextJS]] — React framework by Vercel for full-stack web applications.
+- [[VercelSandbox]] — Vercel's isolated VM service for running agent-generated code.
+- [[JedBorovik]] — Gemini assistant at Google DeepMind, leads the Jules coding agent product engineering team.
+- [[GoogleDeepMind]] — Google's AI research division, presenting sponsor of the 2025 AI Engineering Code Summit.
+- [[RichardHamming]] — Mathematician known for "You and Your Research" talk and the "most important problem" question.
+- [[AIECodeSummit]] — Single-track AI coding conference event in New York, part of the AI Engineering Conference brand.
+- [[NanoBananaPro]] — Product launched by Google DeepMind alongside Gemini 3 in early January 2026.
+- [[Jules]] — Google DeepMind's coding agent product, led by Jed Borovik.
+- [[JoelBecker]] — Researcher at METR studying AI capabilities and the gap between benchmarks and real-world productivity.
+- [[METR]] — Model Evaluation and Threat Research nonprofit measuring AI capabilities and catastrophic risk.
+- [[HuggingFaceTransformers]] — Large open-source ML library; one of the repositories in METR's developer productivity RCT.
+- [[ScikitLearn]] — Popular Python ML library; one of the repositories in METR's developer productivity RCT.
+- [[HaskellCompiler]] — Glasgow Haskell Compiler (GHC); one of the repositories in METR's developer productivity RCT.
+- [[HCAST]] — METR's software task distribution requiring tool interaction and autonomous problem-solving.
+- [[SWAR]] — METR's suite of atomic problems spanning a wide difficulty range for AI evaluation.
+- [[RE-Bench]] — METR's challenging ML research engineering benchmark, very difficult even for top human experts.
+- [[ThariqShihipar]] — Anthropic engineer who presented the Claude Agent SDK workshop.
+- [[ClaudeAgentSDK]] — Anthropic's SDK for building AI agents.
+- [[CorneliaDavis]] — Developer Advocate at Temporal, former Pivotal/Cloud Foundry engineer.
+- [[Temporal]] — Open-source distributed systems backing service providing durability for long-running workflows and agents.
+- [[OpenAIAgentsSDK]] — OpenAI agent framework (Python/TypeScript) with tools, handoffs, guardrails, and tracing.
+- [[Johan]] — Head of AI Engineering at Temporal, led the OpenAI Agents SDK integration.
+- [[CloudFoundry]] — Early container technology incubated at VMware, predating Docker and Kubernetes.
+- [[Cadence]] — Uber workflow orchestration project that Temporal was forked from.
+- [[ŠimonPodhajský]] — Head of AI at Waypoint, creator of the Fulan read-only personal AI system.
+- [[Waypoint]] — Company where Šimon Podhajský works, building read-only personal AI.
+- [[Fulan]] — Read-only personal AI system that analyzes cognitive exhaust fumes across six data sources.
+- [[Clay]] — CRM/friend relationship management tool used as a data source in Fulan for cross-source queries.
+- [[Vivaldi]] — Web browser whose SQLite database stores reading history for Fulan's cross-source analysis.
+- [[DavidAllen]] — Author of Getting Things Done (GTD), whose weekly review inspired Fulan's reflection feature.
+- [[SimonWillison]] — Security researcher, creator of the lethal triquetra security risk model.
+- [[Obsidian]] — Note-taking app used as the separate output vault in Fulan's read-only architecture.
+- [[PatrickRiley]] — Auth0/Okta engineer, formerly at Red Hat, presenter of the Identity for AI Agents workshop.
+- [[CarlosGalan]] — Auth0/Okta engineer from Spain, co-presenter of the Identity for AI Agents workshop.
+- [[Auth0]] — Identity platform (Okta product) providing AI agent authorization features including Token Vault and async CIBA.
+- [[Okta]] — Identity and access management company, parent of Auth0, providing enterprise AI agent governance.
+- [[Abhyek]] — Auth0 architect (nicknamed Shrek) who prepared the AI agent identity workshop material.
+- [[Guardian]] — Okta's MFA application used for push notification approval flows in AI agent async authorization.
+- [[RedHat]] — Enterprise open-source software company, previous employer of Patrick Riley.
+- [[Upstash]] — Serverless database service used for MCP server state management in Auth0's demo.
+- [[JeremiahLowin]] — Founder and CEO of Prefect Technologies, creator of FastMCP, advocate for agentic product design.
+- [[PrefectTechnologies]] — Data automation and orchestration software company, creator of FastMCP.
+- [[FastMCP]] — De facto standard Python framework for building MCP servers, ~1.5M downloads/day.
+- [[Figma]] — Collaborative design tool; designs serve as multimodal requirements for AI agents.
+- [[ApacheAirflow]] — Open-source workflow orchestration platform; Jeremiah Lowin was a PMC member.
+- [[Marvin]] — Agent framework developed by Jeremiah Lowin, his entry point into AI developer experience.
+- [[Block]] — Fintech company (formerly Square) with an influential MCP best practices playbook.
+- [[ClaudeDesktop]] — Anthropic's desktop MCP client, criticized for caching tool lists in SQLite.
+- [[KellyKFL]] — Engineer at Fiverr who curated an MCP server from 188 tools down to 5.
+- [[Fiverr]] — Freelance marketplace; case study for MCP server curation.
+- [[RobertBrennan]] — Co-founder and CEO of OpenHands, advocate for agent orchestration in software engineering.
+- [[OpenHands]] — MIT-licensed autonomous coding agent and orchestration platform for large-scale refactors using parallel agents.
+- [[OpenDevin]] — Original name of the OpenHands project, launched as an open-source alternative to Devin in early 2024.
+- [[Redux]] — JavaScript state management library; OpenHands migrated from Redux to Zustand using parallel agent orchestration.
+- [[Zustand]] — Lightweight React state management library; OpenHands migrated from Redux to Zustand using parallel agents.
+- [[Calvin]] — Engineer at OpenHands who demonstrated the Refactor SDK's verifier-fixer pipeline for eliminating code smells.
+- [[Trivy]] — Open-source vulnerability scanner used by OpenHands agents for CVE detection in container images.
+- [[Spark]] — Apache Spark distributed data processing engine; OpenHands client used agents to migrate Spark 2 to Spark 3.
+- [[Docker]] — Containerization platform used by OpenHands to provide isolated agent sandboxes in the cloud.
+- [[Kubernetes]] — Container orchestration platform used by OpenHands to scale agent sandboxes to thousands of concurrent agents.
+- [[NimrodHauser]] — Speaker from Baz, presented best practices for optimizing third-party MCP servers.
+- [[Baz]] — Company where Nimrod Hauser works, focused on MCP server optimization.
+- [[AlHarris]] — Principal Engineer at Amazon, working on the Kiro agentic IDE.
+- [[Amazon]] — FAANG technology company, parent of AWS and Amazon Kiro.
+- [[AmazonKiro]] — Amazon's agentic IDE implementing spec-driven development with EARS, property-based testing, and neurosymbolic reasoning.
+- [[AmazonS3]] — AWS object storage service, used as a persistence backend in Kiro demos.
+- [[AmazonDynamoDB]] — AWS NoSQL database service, mentioned as an alternative to S3 for agent persistence.
+- [[AgentCore]] — AWS service for deploying and running AI agents, used in Kiro demos.
+- [[BrendanOLeary]] — Speaker and advocate for agentic engineering, works at Kilo Code, formerly at GitLab.
+- [[KiloCode]] — AI coding agent company building tools for agentic engineering with ask/code/architect modes.
+- [[ArminRonacher]] — Creator of Flask, articulated the shift from "using" to "working with" AI.
+- [[DexHorthy]] — Thought leader on AI-assisted development, known for "AI can't replace thinking."
+- [[GitLab]] — DevOps platform and Brendan O'Leary's former employer of many years.
+- [[Flask]] — Popular Python web framework created by Armin Ronacher.
+- [[Balsamiq]] — Wireframing tool used in Brendan O'Leary's anecdote about providing proper context.
+- [[Context7]] — MCP server for up-to-date framework documentation.
+- [[OpenClaw]] — Safe AI agent usage tool from Kilo Code, paired with KiloClaw.
+- [[KevinMadura]] — Technical consultant at AlixPartners, advocate for DSPy as a framework for building AI applications.
+- [[AlixPartners]] — Consulting firm where Kevin Madura applies DSPy to diverse client AI problems.
+- [[BAML]] — Prompt formatting notation and adapter for LLMs, supported in DSPy for more readable prompts.
+- [[GRPO]] — Group Relative Policy Optimization, a fine-tuning method that DSPy optimizers have been shown to match or exceed.
+- [[ChrisPotts]] — Researcher comparing DSPy optimizers to fine-tuning methods like GRPO.
+- [[AmanKhan]] — Product manager at Arize, presented evaluation framework for shipping AI features.
+- [[JaredZoneraich]] — Founder of PromptLayer, explained Claude Code's architecture.
+- [[PromptLayer]] — AI observability platform founded by Jared Zoneraich.
+- [[IvanLeo]] — Speaker from Manus AI, presented on building intelligent research agents.
+- [[ManusAI]] — Company building intelligent research agents, now Meta Superintelligence.
+- [[ManusAPI]] — API for Manus AI's research agent platform.
+- [[JackMorris]] — Researcher on memory and context in LLMs.
+- [[aiDotEngineer]] — AI engineering conference and YouTube channel hosting talks on AI agents and engineering.
+- [[Epoch]] — AI forecasting organization tracking compute trends and constraints on AI scaling.
+- [[Meta]] — Large technology company with best-in-class developer experience measurement infrastructure.
+- [[SimonMarlow]] — Haskell compiler (GHC) maintainer known for rigorous PR review standards.
+- [[AgentVillage]] — Research project where AI agents attempt fuzzy real-world goals in a simulated village.
+- [[LangChain]] — LLM application framework; provides load_mcp_tools for importing MCP server tools into agent workflows.
+- [[Linear]] — Modern ticketing system for software teams; used as a requirements source for AI agents.
+- [[LinkedIn]] — Professional social network; example of extreme corporate data complexity challenging AI.
+- [[Nvidia]] — Leading GPU and AI chip manufacturer; example of chip binning by manufacturing quality.
+- [[HazelHopper]] — Researcher co-authoring a paper on the full capability set required for AGI.
+- [[ArjunRamani]] — Researcher co-authoring a paper on the full capability set required for AGI.
+- - [[CassidyHardin]] — Researcher at Google DeepMind, presented Gemma 4 deep dive.
+- [[Gemma4]] — Google DeepMind's latest open-source model family (31B, 26B MoE, E4B, E2B) with Apache 2.0 license.
+- [[Gemma3]] — Previous generation Gemma models that introduced vision and paved the way for Gemma 4.
+- [[HuggingFace]] — Model hosting platform where Gemma 4 models are available for self-hosting.
+- [[Kaggle]] — Data science and model hosting platform for Gemma 4 self-hosting.
+- [[Ollama]] — Local model runner for self-hosting Gemma 4 models.
+- [[AIStudio]] — Google's AI prototyping platform with cloud-hosted Gemma 4 access.
+- [[VertexAI]] — Google Cloud's enterprise AI platform with cloud-hosted Gemma 4 access.
+[[Waymo]] — Self-driving car company (Alphabet subsidiary); analogy for eval-driven development and physical-world AI challenges.
 
+- [[GarrettGalow]] — Runs product at WorkOS, previously at Microsoft Azure and Cloudflare, presented XAA for MCP.
+- [[WorkOS]] — Platform that makes apps and agents enterprise-ready, powers auth for Anthropic, Cursor, and OpenAI.
+- [[MicrosoftEntra]] — Microsoft identity platform, does not yet support XAA/ID JAG or DCR.
+- [[MicrosoftAzure]] — Microsoft cloud platform, Garrett Galow's previous employer.
+- [[DeepSeek]] — AI company whose models could be used as uncontrolled MCP clients in enterprises.
+- [[SCIM]] — System for Cross-domain Identity Management, used for access revocation but not universally adopted.
 ## Concepts
 
 *(Frameworks, methodologies, theories — TitleCase filenames)*
 
-*(empty)*
+- [[ModelBehavior]] — AI model behavioral patterns and characteristics.
+- [[PromptInjection]] — Security vulnerability in LLM-powered applications.
+- [[Jeba]] — Concept related to AI interaction patterns.
+- [[Jira]] — Ticketing system by Atlassian; used as a requirements source for AI agents.
+- [[AIBrowsers]] — Browser products built with AI-native architecture.
+- [[AgentReadyCodebases]] — Codebases instrumented with validation criteria enabling reliable AI agent operation.
+- [[SpecificationDrivenDevelopment]] — Development paradigm where developers specify constraints and agents generate verified solutions.
+- [[AutomatedValidation]] — Programmatic checks verifying code correctness, quality, and standards adherence.
+- [[VerificationAsymmetry]] — Principle that verifying solutions is easier than generating them, enabling AI agent leverage.
+- [[DevXFeedbackLoop]] — Self-reinforcing cycle where better agents improve the environment, which improves agents.
+- [[Software2.0]] — Andrej Karpathy's paradigm of building software via objective specification and verification.
+- [[SubAgents]] — Architectural pattern using isolated sub-agents to manage context windows in coding agents.
+- [[AgentOrientedArchitecture]] — Design philosophy favoring purpose-built agents over model selectors.
+- [[ContextExhaustion]] — Failure mode where agent context window fills before editing can begin.
+- [[DoomLoop]] — Failure mode where insufficient context causes repeated failed attempts.
+- [[AdSponsoredInference]] — Economic model using non-intrusive ads to subsidize agent inference costs.
+- [[MCP]] — Model Context Protocol for standardized agent-tool integration.
+- [[DeveloperExperience]] — The practice of improving tools, processes, and environments for software developers.
+- [[AICodingAgents]] — AI-powered tools that autonomously write, modify, and review code.
+- [[CodeReviewVelocity]] — Speed and efficiency of code review processes, critical in agentic development.
+- [[CodebaseTestability]] — Degree to which a codebase supports effective automated testing.
+- [[TribalKnowledge]] — Unwritten system knowledge that exists only in team members' minds.
+- [[NoRegretsInvestments]] — Strategic DX investments that remain valuable regardless of AI evolution.
+- [[DevelopmentEnvironmentStandardization]] — Using industry-standard tools to maximize AI agent compatibility.
+- [[Validation]] — Deterministic checks with clear error messages that enable agent iteration.
+- [[GenBI]] — Fusion of Gen AI and Business Intelligence; an AI agent that answers business questions with data.
+- [[CrawlWalkRun]] — Phased rollout methodology: release to experts first, then broader audiences as system matures.
+- [[IncrementalDelivery]] — Six-week sprint strategy delivering tangible, productizable outcomes at each phase.
+- [[MetadataEnrichment]] — Improving data documentation and context to boost LLM performance on data tasks.
+- [[MultiAgentArchitecture]] — Pipeline of specialized AI agents (metadata, RAG, SQL, BI) collaborating on data queries.
+- [[DataDemocratization]] — Making data insights accessible to everyone without BI team dependency.
+- [[SunkCostBias]] — Cognitive bias addressed by allowing leadership to stop funding at any phase boundary.
+- [[SemanticLayer]] — Abstraction layer enriching data metadata for human and machine consumption.
+- [[SimpleVsEasy]] — Rich Hickey's distinction between structural simplicity and ease of access.
+- [[EssentialVsAccidentalComplexity]] — Fred Brooks' taxonomy: essential (problem-inherent) vs. accidental (added) complexity.
+- [[NoSilverBullet]] — Fred Brooks' 1986 paper arguing no single innovation yields order-of-magnitude productivity gains.
+- [[SoftwareCrisis]] — Recurring historical pattern where software complexity outpaces manageability.
+- [[ContextCompression]] — Jake Nations' methodology of compressing large codebase context into concise specs.
+- [[ThreePhaseApproach]] — Research → Planning → Implementation workflow for AI-assisted development.
+- [[InfiniteSoftwareCrisis]] — The AI-era acceleration of the software crisis where code generation outpaces understanding.
+- [[PromptLearning]] — Iteratively refining system prompts using English-language feedback from evals.
+- [[LLM-as-Judge]] — Using LLMs to evaluate and explain the quality of other model outputs.
+- [[MetaPrompt]] — A prompt that synthesizes improved system prompt rules from evaluation feedback.
+- [[EvalEngineering]] — The practice of crafting high-quality evaluation prompts for actionable feedback.
+- [[CoEvolvingLoops]] — Two parallel optimization loops: one for agent prompts and one for eval prompts, both requiring continuous refinement.
+- [[RuleBasedPrompting]] — Adding explicit, structured rules to system prompts to encode best practices and domain-specific guidance.
+- [[OverfittingAsExpertise]] — Reframing overfitting as building domain-specific expertise rather than a flaw in prompt learning.
+- [[PromptOptimizationLoop]] — Three-part iterative process: generate & evaluate, train & optimize, iterate until target accuracy is met.
+- [[HumanAnnotationFeedback]] — Subject matter experts providing detailed English explanations of why agent outputs failed.
+- [[GEA]] — DSPy's Genetic Evolutionary Algorithm for prompt optimization using parent-based candidate selection and probabilistic merging.
+- [[PsychologicalSafety]] — Google's Project Aristotle finding that team psychological safety is the biggest productivity indicator, critical for AI adoption.
+- [[TheoryOfConstraints]] — Eli Goldratt's framework: target the system bottleneck; an hour saved on a non-bottleneck is worthless.
+- [[AIAdoptionPatterns]] — Organizational patterns of GenAI adoption showing extreme per-company volatility masked by innocuous averages.
+- [[SystemPromptFeedbackLoop]] — Governance mechanism with a gatekeeper maintaining and improving AI system prompts continuously.
+- [[TemperatureInAI]] — LLM setting (0 to 1) controlling determinism vs. creativity in token selection.
+- [[ChangeConfidence]] — Qualitative metric measuring engineer confidence in production changes; shows extreme AI adoption volatility.
+- [[ChangeFailureRate]] — DORA metric tracking deployment failures; AI adoption can increase it by up to 50% in some orgs.
+- [[SDLCIntegration]] — Applying AI across the full software development lifecycle beyond code completion to target actual bottlenecks.
+- [[DXAIMeasurementFramework]] — DX's three-dimensional framework (Utilization, Impact, Cost) for measuring GenAI impact.
+- [[ExperienceSampling]] — Metric collection method capturing developer experience at the moment of activity (e.g., PR form fields).
+- [[Three Pillars of Autonomy]] — Replit's framework for building autonomous coding agents: frontier models, verification, and context management.
+- [[Autonomous Coding Agents]] — AI systems that independently write, test, and deploy software with minimal human intervention.
+- [[Verification in Agentic Loops]] — Testing for local correctness at every agent step to prevent compounding errors and painted doors.
+- [[Painted Doors]] — Features in agent-generated code that appear functional but are actually broken, eroding user trust.
+- [[Context Management]] — Techniques for maintaining agent coherence and intent alignment while efficiently managing context windows.
+- [[Sub-agent Orchestration]] — Architecture pattern where specialized sub-agents run with isolated context and return results to the main loop.
+- [[Parallel Agents]] — Multiple AI agents running concurrently to trade compute for reduced wall-clock time.
+- [[Core Loop as Orchestrator]] — Architecture where the main agentic loop determines task decomposition and dispatches parallel sub-agents on the fly.
+- [[Browser-based Autonomous Testing]] — Methodology where AI agents test web apps through browser interaction, using Playwright or computer use.
+- [[Computer Use]] — Browser testing approach where models interact via screenshots; more expensive but serves as fallback.
+- [[Browser Use]] — Testing approach simulating UI and interacting through DOM abstractions, middle-ground between computer use and programmatic testing.
+- [[Reducible Runtime]] — Metric for agent autonomy: the span of time where the user makes no technical decisions.
+- [[Slop]] — Low-quality, inauthentic, or inaccurate content produced by humans or AI; candidate for Oxford 2024 Word of the Year.
+- [[Kino]] — The opposite of slop; high-quality, tasteful, creative, and authentic content.
+- [[CodeSlop]] — AI-generated code that creates disproportionate tech debt or security vulnerabilities.
+- [[VibeCoding]] — AI-assisted coding approach where developers guide AI based on intent rather than precise specifications.
+- [[Modularity]] — Design principle where humans define clear boundaries and AI codes everything in between.
+- [[ContextRot]] — Degradation of context quality in AI systems over extended interactions, leading to lower quality outputs.
+- [[SemiSyncValueOfDepth]] — Framework keeping human attention on hardest problems while AI handles commoditized work asynchronously.
+- [[BrandoliniLaw]] — The energy needed to refute BS is orders of magnitude larger than needed to produce it.
+- [[WorkflowPattern]] — Orchestration architecture separating code into deterministic orchestration and isolated, retryable steps.
+- [[DurableAgents]] — AI agents built on workflow infrastructure for durability, resumability, and production reliability.
+- [[ResumableStreams]] — Streams decoupled from API handlers that can be reconnected at any point using a workflow ID.
+- [[HumanInTheLoopWorkflows]] — Workflow suspension pattern using webhooks to pause execution until human approval.
+- [[DeterministicWorkflows]] — Workflow orchestration compiled into side-effect-free bundles for deterministic replay.
+- [[DeterministicGuardrails]] — Non-agentic validation checks that intercept tool invocations to enforce safety constraints.
+- [[DeterministicToolUsage]] — Calling agentic tools as plain functions outside the agent loop for always-required operations.
+- [[StepCaching]] — Automatic caching of step inputs/outputs enabling retry without re-execution and state rehydration.
+- [[AGI]] — Artificial General Intelligence; Poolside describes current era as the awkward teenage years ahead of AGI.
+- [[AsynchronousAgentOperation]] — AI agents working independently on tasks for hours without real-time human supervision.
+- [[FullVerticalIntegration]] — Strategy of controlling the entire stack from data centers to models to end-user interfaces.
+- [[HighConsequenceCode]] — Software in defense and government environments requiring strict agent permission controls.
+- [[LongHorizonKnowledgeWork]] — AI agents performing complex knowledge work over extended periods, progressing from hours to days.
+- [[ModelScaling]] — Increasing model capability by scaling compute resources, with Poolside deploying 40,000+ GPUs.
+- [[NextTokenPrediction]] — The base mechanism of LLMs that Poolside argues must be paired with reinforcement learning.
+- [[ReinforcementLearningWithLLMs]] — Combining RL with LLMs to produce more capable intelligence, Poolside's founding thesis.
+- [[AgentObservability]] — Built-in inspection of agent runs, steps, inputs, outputs, and events via a web UI.
+- [[HammingsQuestion]] — Richard Hamming's framing device: what's the most important problem in your field and why aren't you working on it?
+- [[AIEngineeringConference]] — Two-brand conference format (World's Fair and Summit) for the AI engineering community.
+- [[TimeHorizon]] — METR's metric: the human-time-to-complete at which AI succeeds 50% of the time, showing exponential growth.
+- [[BenchmarkSaturation]] — Benchmarks losing signal as models approach ceiling performance, requiring ever harder tasks.
+- [[AIReliability]] — AI must reach 95-99% correctness for developers to trust outputs without costly verification.
+- [[ContextBaselines]] — Distinction between low-context (first-week expert) and high-context (5-year contributor) human baselines in AI evaluation.
+- [[SuboptimalCapabilityElicitation]] — Gap between what a model can do and what a given tool or deployment actually achieves.
+- [[TaskInterdependence]] — When subtasks depend on each other, delegating individual tasks to AI may not save time due to context needs.
+- [[OveroptimismAboutAI]] — Developers and experts consistently overestimate AI productivity gains, leading to overuse and disappointment.
+- [[MergeabilityScoring]] — Holistic code evaluation beyond unit tests, considering maintainability and reviewer acceptance.
+- [[RandomizedControlledTrial]] — Experimental methodology used by METR to measure causal effect of AI on developer productivity.
+- [[CognitiveExhaustFumes]] — Digital activity as a byproduct of cognition; individually waste, collectively diagnostic of how you think.
+- [[ReadOnlyAI]] — AI design philosophy where systems observe and reflect without ever writing back to source systems.
+- [[MosaicEffect]] — Security risk where combining many small pieces of information reveals a larger sensitive picture.
+- [[LethalTriquetra]] — Simon Willison's security model: private data + untrusted content + external communications.
+- [[CognitivePollution]] — Contamination of digital exhaust when AI writes to data sources, obscuring authentic human patterns.
+- [[CrossSourceSignal]] — Insights derived from combining data across multiple disconnected sources that were never designed to talk to each other.
+- [[IntentionActionGaps]] — Discrepancies between what you intend to do and what you actually do, revealed by exhaust analysis.
+- [[AttentionDrift]] — How your focus shifts over time, revealed by digital exhaust analysis.
+- [[RelationshipDecay]] — Deterioration of relationships detectable through cross-source analysis of communication patterns.
+- [[ObserverVsAgent]] — Distinction between AI that observes/reflects and AI that acts on your behalf; different product categories.
+- [[AgentIdentity]] — Auth0's four-pillar framework for AI agent identity: user identity, delegated API access, user confirmation, and fine-grained access.
+- [[AsyncAuthorization]] — Feature enabling AI agents to request user approval for risky operations via push notifications using CIBA.
+- [[CIBA]] — Client Initiated Backchannel Authentication protocol for async agent-to-user authorization flows.
+- [[ConnectedAccounts]] — Auth0 API for managing federated connections between user identities and upstream services for agent access.
+- [[CustomAPIClient]] — Auth0 linked client mechanism allowing MCP servers and agents to access remote APIs with proper authentication.
+- [[DynamicClientRegistration]] — OAuth mechanism for MCP servers to dynamically register as clients with authorization servers.
+- [[FineGrainedAuthorization]] — Access control approach giving resource owners precise control over what AI agents can access.
+- [[TokenVault]] — Auth0 mechanism for persisting upstream refresh tokens and managing token exchange for AI agents.
+- [[TokenExchange]] — OAuth mechanism for exchanging one token for another with different scopes, enabling agent API access.
+- [[RichAuthorizationRequests]] — OAuth extension carrying structured consent details (symbol, quantity, price) in authorization requests.
+- [[ProtectedResourceMetadata]] — Well-known endpoint advertising supported scopes and authorization server details for MCP servers.
+- [[ScopeBasedAccessControl]] — Fine-grained API access control using OAuth scopes for AI agent permissions.
+- [[AgenticProductDesign]] — Designing interfaces optimized for AI agents rather than humans, accounting for differences in discovery, iteration, and context.
+- [[OutcomesOverOperations]] — Composing atomic API calls into outcome-oriented agent tools rather than exposing operations individually.
+- [[FlattenArguments]] — Using top-level primitives instead of complex nested arguments in MCP tools to reduce agent confusion.
+- [[ErrorsAsPrompts]] — Treating error messages as context that becomes part of the agent's next prompt, an opportunity for progressive disclosure.
+- [[TokenBudget]] — The finite context window constraining how much tool documentation agents can consume on handshake.
+- [[ToolComposition]] — Creating new specialized agentic tools by building on existing third-party tools.
+- [[ToolCuration]] — Filtering out unnecessary third-party tools to reduce context window load and agent confusion.
+- [[ToolWrapping]] — Replacing generic third-party tool descriptions with use-case-specific enhanced descriptions.
+- [[CurateRuthlessly]] — Aggressively pruning MCP tools to essential outcomes for agent performance; start with what works, then tear down.
+- [[AgentStory]] — A user story framed for a programmatic autonomous agent with limited context, used to scope MCP tools.
+- [[ReadonlyHint]] — MCP annotation marking tools as read-only for client permission handling and reduced confirmation prompts.
+- [[Elicitation]] — MCP protocol feature allowing tools to request additional structured input mid-execution.
+- [[CodeMode]] — Technique where LLMs write code calling MCP tools in sequence to reduce iteration overhead.
+- [[ProgressiveDisclosure]] — Revealing tool information incrementally rather than all at handshake to save token budget.
+- [[PromptCaching]] — Technique achieving 90-95% cache hit rate to keep agent interactions fast by caching repeated prompt prefixes.
+- [[FiftyToolRule]] — Heuristic that agent performance degrades beyond ~50 tools per agent; ideal range is 5-15.
+- [[Agent Orchestration]] — Coordinating multiple AI coding agents working in parallel on decomposed sub-tasks of a larger problem.
+- [[Task Decomposition]] — Breaking large problems into sub-tasks that a single agent can solve in one shot, fitting in a single commit.
+- [[Verifier-Fixer Pipeline]] — Two-step agent orchestration pattern where a verifier identifies problems and a fixer addresses them via PRs.
+- [[Dependency Graph Refactoring]] — Strategy using file dependency graphs to batch related files and order work from leaf nodes upward.
+- [[Batch Graph]] — Simplified dependency graph where nodes are file batches and edges are inherited dependencies, used in the OpenHands Refactor SDK.
+- [[Scaffolding Pattern]] — Migration strategy where temporary code allows old and new systems to coexist during large-scale refactors.
+- [[CVE Remediation at Scale]] — Using parallel AI agents to scan repositories for vulnerabilities, fix them, and open pull requests.
+- [[Cloud-Based Agent Sandboxes]] — Containerized cloud execution environments providing isolated, secure workspaces for AI coding agents.
+- [[Context Sharing Between Agents]] — Strategies for passing learned information across multiple agents working on related sub-tasks.
+- [[Human-in-the-Loop Orchestration]] — Maintaining human review at intermediate steps during parallel agent workflows, targeting ~90% automation.
+- [[ThirdPartyToolOptimization]] — Best practices for optimizing third-party MCP server tools for specific agentic workflows.
+- [[SpecAsLivingDocumentation]] — Treating specifications as mutable, evolving documents rather than one-off plans.
+- [[Steering]] — Amazon Kiro's persistent memory and rules system (like Cursor rules) for consistent agent behavior across sessions.
+- [[EARS]] — Easy Approach to Requirement Syntax: structured natural language format for software requirements.
+- [[PropertyBasedTesting]] — Testing approach that attempts to falsify system invariants to prove correctness.
+- [[NeurosymbolicReasoning]] — Combining neural (LLM) and symbolic (classic automated reasoning) approaches for more reliable results.
+- [[AgentHooks]] — Event-driven extension points in Amazon Kiro that fire at specific moments in the agent loop for deterministic verification.
+- [[AgenticEngineering]] — Paradigm of working with AI as a collaborator rather than merely using it as a tool.
+- [[ContextEngineering]] — The deliberate art and science of curating what goes into an AI agent's context window, coined by Andrej Karpathy.
+- [[ResearchPlanImplement]] — Structured three-phase workflow (Research → Plan → Implement) for AI-assisted development using agent modes.
+- [[AIasJuniorDeveloper]] — Mental model treating AI agents as energetic, well-read, confidently wrong junior developers lacking judgment.
+- [[AgentModes]] — Role-based configurations for AI agents (ask, code, architect) that specialize behavior for different development phases.
+- [[AgentsDotMd]] — De facto standard file for always-on AI agent project configuration with conventions, commands, and requirements.
+- [[IncrementalDisclosure]] — Context management pattern where an AI agent discovers relevant context progressively rather than loading everything upfront.
+- [[DSPySignatures]] — Declarative input/output specifications that replace hand-written prompts in DSPy.
+- [[DSPyModules]] — Composable building blocks in DSPy that encapsulate prompting techniques.
+- [[DSPyOptimizers]] — Algorithms in DSPy that automatically tune prompts and weights.
+- [[DSPyAdapters]] — Formatting layer in DSPy that translates signatures into provider-specific prompt formats.
+- [[DeclarativePromptProgramming]] — DSPy's paradigm of declaring what you want rather than how to prompt for it.
+- [[AgenticLoop]] — The core execution pattern where an LLM has agency, deciding which tools to call and when to stop.
+- [[DurableAgenticLoop]] — The combination of agentic loops with Temporal durability for crash recovery and scaling.
+- [[DynamicActivity]] — Temporal feature allowing activities to be called by name at runtime without static registration.
+- [[EventSourcing]] — Temporal underlying mechanism: recording state changes as events to enable replay and crash recovery.
+- [[HappyPathProgramming]] — Temporal philosophy: developers write only the success path, platform handles failures.
+- [[MicroAgents]] — Small, single-purpose AI agents that do one thing well, analogous to microservices.
+- [[TemporalActivities]] — Chunks of work in Temporal wrapped with decorators for retries, state recording, and durability.
+- [[TemporalWorkflows]] — Business logic orchestrations in Temporal that compose activities with built-in durability.
+- [[AgentHandoffs]] — OpenAI Agents SDK feature where one agent transfers control to another within the same agentic loop.
+- [[OWASPLLMTop10]] — Updated OWASP top 10 list addressing LLM-specific application security threats.
+- [[ComputeCapabilityProportionality]] — Thesis that compute growth and AI capability growth are causally proportional under standard economic assumptions.
+- [[JCurveFamiliarityEffect]] — Hypothesis that AI tool productivity follows a J-curve: initial slowdown, then speedup with familiarity after 3-6 months.
+- [[BrownfieldVsGreenfield]] — Distinction between modifying existing codebases vs. building new projects; critical for AI tool evaluation.
+- [[SoftwareOnlySingularity]] — Idea that AI could automate AI research without also automating hardware; skeptics argue compute bottlenecks constrain this.
+- [[ComputerUseVsCLI]] — Computer use (GUI) capabilities lag far behind text/CLI capabilities at present.
+- [[DataScienceAIGap]] — AI struggles with real corporate data science due to messy, contradictory data and undocumented tacit knowledge.
+- [[NeurodivergentAI]] — Analogy: AI models are like neurodivergent individuals, highly capable in narrow domains but struggling with real-world complexity.
+- [[CapabilityExtrapolation]] — Projecting AI capability trends forward using multiple independent evidence sources with different strengths and weaknesses.
+- [[MonitoredVsUnmonitoredCapabilities]] — Safety monitoring may reduce effective time horizon by 1-2 orders of magnitude.
+- [[InTheWildTranscripts]] — Using real agent traces from production environments as an evidence source for capability measurement.
+- [[FuzzyGoalCompletion]] — AI agents attempting real-world objectives that aren't clearly specified; reveals failure modes.
+- [[RoboticsLag]] — Robotics capabilities lag LLM capabilities by ~2 orders of magnitude in compute investment.
+- - [[MixtureOfExperts]] — Architecture with shared router expert and multiple experts selectively activated per forward pass.
+- [[PerLayerEmbeddings]] — Per-layer embedding tables stored in flash memory for on-device efficiency.
+- [[InterleavedLocalGlobalAttention]] — Alternating local (sliding window) and global attention layers with last layer always global.
+- [[GroupedQueryAttention]] — Multiple query heads sharing key/value heads to reduce memory cost.
+- [[VariableAspectRatios]] — Vision capability supporting different image aspect ratios with spatial positional encoding.
+- [[VariableResolution]] — Developer-selectable resolution and soft token budget for image processing.
+- [[OnDeviceAI]] — AI models optimized to run locally on phones, iPads, and laptops without cloud calls.
+- [[Apache2License]] — Permissive open-source license adopted by Gemma 4 for developer accessibility.
+- [[EffectiveModels]] — Models with fewer operating parameters than total representational parameters.
+- [[SlidingWindowAttention]] — Local attention attending to a fixed window of preceding tokens for efficiency.
+- [[Conformer]] — Audio encoder combining transformer and convolutional layers for speech processing.
+- [[AudioTokenizer]] — Pipeline converting raw audio through mel spectrogram into soft tokens.
+- [[AgenticWorkflows]] — Autonomous multi-step task execution supported by larger Gemma models.
+- [[OpenSourceModels]] — AI models with publicly available weights for self-hosting and customization.
+[[ChipProductionAutomation]] — Debate on whether AI and robotics can fully automate semiconductor fabrication.
+
+- [[CrossAppAccess]] — XAA: identity provider as trust broker between MCP client and server, eliminating consent screens.
+- [[IDJAG]] — Identity JWT Authorization Grant spec for cross-service token issuance without user intervention.
+- [[SingleSignOn]] — SSO: one login for all applications, broken by MCP OAuth model, restored by XAA.
+- [[OAuth]] — Open standard for access delegation used by MCP, source of consent screen friction.
+- [[SAML]] — XML-based SSO protocol, ID JAG spec supports SAML assertions as credential type.
+- [[JWT]] — JSON Web Token format used for ID JAG tokens in the XAA flow.
+- [[ConsentScreens]] — OAuth authorization prompts creating UX friction in MCP, eliminated by XAA.
+- [[ClientIDMetadata]] — CIMD: newer OAuth spec superseding DCR by pre-defining client metadata upfront.- [[MCPGateway]] — Middleware layer centralizing authentication, access control, routing, and observability for enterprise MCP deployments.
+- [[MCPEnterpriseChallenges]] — The three-headed hydra of observability, access control, and security facing enterprise MCP adoption.
+- [[RootOfTrust]] — Architectural principle of blessing a single platform to enable decentralized MCP development across an organization.
+- [[AgentHarnessSeparation]] — Decoupling agent runtimes from data layers so agents are not tightly coupled to MCP implementation details.
+- [[DecentralizedMCPDevelopment]] — Organizational pattern where non-technical domain teams build MCP servers focusing only on business logic.
+- [[DelegatedAgentIdentity]] — Novel identity definitions for AI agents, distinct from human user identity, scoped through MCP Gateways.
 
 ## Syntheses
 

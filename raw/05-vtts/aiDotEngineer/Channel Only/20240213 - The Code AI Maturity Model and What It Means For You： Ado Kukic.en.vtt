@@ -1,0 +1,1456 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.040 --> 00:00:14.190 align:start position:0%
+ 
+[Music]
+
+00:00:14.190 --> 00:00:14.200 align:start position:0%
+ 
+ 
+
+00:00:14.200 --> 00:00:17.029 align:start position:0%
+ 
+hello<00:00:14.759><c> and</c><00:00:14.960><c> welcome</c><00:00:15.320><c> to</c><00:00:15.519><c> my</c><00:00:15.719><c> talk</c><00:00:16.240><c> on</c><00:00:16.880><c> how</c>
+
+00:00:17.029 --> 00:00:17.039 align:start position:0%
+hello and welcome to my talk on how
+ 
+
+00:00:17.039 --> 00:00:19.470 align:start position:0%
+hello and welcome to my talk on how
+we're<00:00:17.320><c> thinking</c><00:00:17.880><c> about</c><00:00:18.119><c> the</c><00:00:18.320><c> levels</c><00:00:18.760><c> of</c><00:00:19.000><c> code</c>
+
+00:00:19.470 --> 00:00:19.480 align:start position:0%
+we're thinking about the levels of code
+ 
+
+00:00:19.480 --> 00:00:22.630 align:start position:0%
+we're thinking about the levels of code
+AI<00:00:20.480><c> my</c><00:00:20.640><c> name</c><00:00:20.800><c> is</c><00:00:20.960><c> Otto</c><00:00:21.320><c> cookit</c><00:00:21.920><c> and</c><00:00:22.080><c> I</c><00:00:22.199><c> am</c><00:00:22.400><c> the</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+AI my name is Otto cookit and I am the
+ 
+
+00:00:22.640 --> 00:00:25.670 align:start position:0%
+AI my name is Otto cookit and I am the
+director<00:00:23.080><c> of</c><00:00:23.279><c> devil</c><00:00:23.800><c> at</c><00:00:24.000><c> source</c><00:00:24.560><c> graph</c><00:00:25.560><c> at</c>
+
+00:00:25.670 --> 00:00:25.680 align:start position:0%
+director of devil at source graph at
+ 
+
+00:00:25.680 --> 00:00:28.189 align:start position:0%
+director of devil at source graph at
+source<00:00:26.080><c> graph</c><00:00:26.439><c> we're</c><00:00:26.640><c> building</c><00:00:27.080><c> Cody</c><00:00:28.039><c> the</c>
+
+00:00:28.189 --> 00:00:28.199 align:start position:0%
+source graph we're building Cody the
+ 
+
+00:00:28.199 --> 00:00:31.109 align:start position:0%
+source graph we're building Cody the
+only<00:00:28.720><c> AI</c><00:00:29.080><c> coding</c><00:00:29.480><c> assistant</c><00:00:30.240><c> that</c><00:00:30.400><c> knows</c><00:00:30.880><c> your</c>
+
+00:00:31.109 --> 00:00:31.119 align:start position:0%
+only AI coding assistant that knows your
+ 
+
+00:00:31.119 --> 00:00:32.110 align:start position:0%
+only AI coding assistant that knows your
+entire
+
+00:00:32.110 --> 00:00:32.120 align:start position:0%
+entire
+ 
+
+00:00:32.120 --> 00:00:34.910 align:start position:0%
+entire
+codebase<00:00:33.120><c> to</c><00:00:33.320><c> help</c><00:00:33.640><c> educate</c><00:00:34.040><c> our</c><00:00:34.239><c> customers</c>
+
+00:00:34.910 --> 00:00:34.920 align:start position:0%
+codebase to help educate our customers
+ 
+
+00:00:34.920 --> 00:00:37.190 align:start position:0%
+codebase to help educate our customers
+and<00:00:35.160><c> users</c><00:00:35.879><c> as</c><00:00:35.960><c> well</c><00:00:36.120><c> as</c><00:00:36.239><c> shape</c><00:00:36.559><c> our</c><00:00:36.760><c> thinking</c>
+
+00:00:37.190 --> 00:00:37.200 align:start position:0%
+and users as well as shape our thinking
+ 
+
+00:00:37.200 --> 00:00:40.029 align:start position:0%
+and users as well as shape our thinking
+of<00:00:37.360><c> code</c><00:00:37.640><c> AI</c><00:00:38.440><c> we've</c><00:00:38.640><c> been</c><00:00:38.800><c> using</c><00:00:39.239><c> a</c><00:00:39.440><c> concept</c>
+
+00:00:40.029 --> 00:00:40.039 align:start position:0%
+of code AI we've been using a concept
+ 
+
+00:00:40.039 --> 00:00:43.029 align:start position:0%
+of code AI we've been using a concept
+that<00:00:40.200><c> we</c><00:00:40.440><c> call</c><00:00:41.039><c> levels</c><00:00:41.520><c> of</c><00:00:41.719><c> code</c><00:00:42.000><c> AI</c>
+
+00:00:43.029 --> 00:00:43.039 align:start position:0%
+that we call levels of code AI
+ 
+
+00:00:43.039 --> 00:00:45.229 align:start position:0%
+that we call levels of code AI
+internally<00:00:44.039><c> these</c><00:00:44.239><c> levels</c><00:00:44.760><c> have</c><00:00:44.960><c> really</c>
+
+00:00:45.229 --> 00:00:45.239 align:start position:0%
+internally these levels have really
+ 
+
+00:00:45.239 --> 00:00:47.470 align:start position:0%
+internally these levels have really
+resonated<00:00:45.800><c> with</c><00:00:46.039><c> our</c><00:00:46.239><c> community</c><00:00:47.160><c> so</c><00:00:47.360><c> we</c>
+
+00:00:47.470 --> 00:00:47.480 align:start position:0%
+resonated with our community so we
+ 
+
+00:00:47.480 --> 00:00:49.470 align:start position:0%
+resonated with our community so we
+wanted<00:00:47.719><c> to</c><00:00:47.920><c> publicize</c><00:00:48.520><c> them</c><00:00:48.800><c> and</c><00:00:48.960><c> start</c><00:00:49.320><c> a</c>
+
+00:00:49.470 --> 00:00:49.480 align:start position:0%
+wanted to publicize them and start a
+ 
+
+00:00:49.480 --> 00:00:51.750 align:start position:0%
+wanted to publicize them and start a
+conversation<00:00:50.480><c> with</c><00:00:50.600><c> the</c><00:00:50.760><c> broader</c><00:00:51.239><c> developer</c>
+
+00:00:51.750 --> 00:00:51.760 align:start position:0%
+conversation with the broader developer
+ 
+
+00:00:51.760 --> 00:00:54.110 align:start position:0%
+conversation with the broader developer
+community<00:00:52.719><c> and</c><00:00:52.840><c> we're</c><00:00:53.120><c> better</c><00:00:53.359><c> to</c><00:00:53.559><c> do</c><00:00:53.719><c> it</c><00:00:53.960><c> than</c>
+
+00:00:54.110 --> 00:00:54.120 align:start position:0%
+community and we're better to do it than
+ 
+
+00:00:54.120 --> 00:00:57.229 align:start position:0%
+community and we're better to do it than
+at<00:00:54.280><c> the</c><00:00:54.440><c> AI</c><00:00:54.840><c> engineer</c><00:00:55.719><c> Summit</c><00:00:56.719><c> when</c><00:00:56.879><c> we</c><00:00:57.039><c> talk</c>
+
+00:00:57.229 --> 00:00:57.239 align:start position:0%
+at the AI engineer Summit when we talk
+ 
+
+00:00:57.239 --> 00:01:00.389 align:start position:0%
+at the AI engineer Summit when we talk
+about<00:00:57.480><c> code</c><00:00:57.800><c> AI</c><00:00:58.519><c> we</c><00:00:58.719><c> refer</c><00:00:59.199><c> to</c><00:00:59.440><c> Software</c><00:01:00.239><c> that</c>
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+about code AI we refer to Software that
+ 
+
+00:01:00.399 --> 00:01:04.789 align:start position:0%
+about code AI we refer to Software that
+builds<00:01:01.440><c> software</c><00:01:02.440><c> today</c><00:01:03.160><c> 92%</c><00:01:03.960><c> of</c><00:01:04.159><c> developers</c>
+
+00:01:04.789 --> 00:01:04.799 align:start position:0%
+builds software today 92% of developers
+ 
+
+00:01:04.799 --> 00:01:07.550 align:start position:0%
+builds software today 92% of developers
+are<00:01:05.000><c> using</c><00:01:05.479><c> Code</c><00:01:05.760><c> a</c><00:01:06.119><c> tools</c><00:01:07.040><c> whereas</c><00:01:07.400><c> this</c>
+
+00:01:07.550 --> 00:01:07.560 align:start position:0%
+are using Code a tools whereas this
+ 
+
+00:01:07.560 --> 00:01:11.070 align:start position:0%
+are using Code a tools whereas this
+number<00:01:08.000><c> was</c><00:01:08.280><c> just</c><00:01:08.560><c> 1%</c><00:01:09.400><c> a</c><00:01:09.600><c> year</c><00:01:09.880><c> ago</c><00:01:10.880><c> our</c>
+
+00:01:11.070 --> 00:01:11.080 align:start position:0%
+number was just 1% a year ago our
+ 
+
+00:01:11.080 --> 00:01:14.030 align:start position:0%
+number was just 1% a year ago our
+founder<00:01:11.520><c> and</c><00:01:11.720><c> CEO</c><00:01:12.360><c> Quinn</c><00:01:12.640><c> slack</c><00:01:13.320><c> has</c><00:01:13.479><c> shared</c><00:01:13.880><c> a</c>
+
+00:01:14.030 --> 00:01:14.040 align:start position:0%
+founder and CEO Quinn slack has shared a
+ 
+
+00:01:14.040 --> 00:01:17.789 align:start position:0%
+founder and CEO Quinn slack has shared a
+bold<00:01:14.439><c> prediction</c><00:01:15.439><c> that</c><00:01:15.600><c> in</c><00:01:15.920><c> 5</c><00:01:16.240><c> years</c><00:01:16.759><c> 99%</c><00:01:17.600><c> of</c>
+
+00:01:17.789 --> 00:01:17.799 align:start position:0%
+bold prediction that in 5 years 99% of
+ 
+
+00:01:17.799 --> 00:01:21.350 align:start position:0%
+bold prediction that in 5 years 99% of
+code<00:01:18.439><c> will</c><00:01:18.640><c> be</c><00:01:18.799><c> written</c><00:01:19.439><c> by</c><00:01:20.000><c> AI</c><00:01:21.000><c> while</c><00:01:21.200><c> we</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+code will be written by AI while we
+ 
+
+00:01:21.360 --> 00:01:24.109 align:start position:0%
+code will be written by AI while we
+await<00:01:21.720><c> that</c><00:01:21.880><c> future</c><00:01:22.520><c> let's</c><00:01:22.840><c> talk</c><00:01:23.079><c> about</c><00:01:23.880><c> how</c>
+
+00:01:24.109 --> 00:01:24.119 align:start position:0%
+await that future let's talk about how
+ 
+
+00:01:24.119 --> 00:01:27.310 align:start position:0%
+await that future let's talk about how
+we<00:01:24.240><c> see</c><00:01:24.560><c> the</c><00:01:24.680><c> levels</c><00:01:24.960><c> of</c><00:01:25.159><c> code</c><00:01:25.400><c> AI</c><00:01:26.159><c> today</c><00:01:27.159><c> we</c>
+
+00:01:27.310 --> 00:01:27.320 align:start position:0%
+we see the levels of code AI today we
+ 
+
+00:01:27.320 --> 00:01:29.590 align:start position:0%
+we see the levels of code AI today we
+see<00:01:27.759><c> six</c><00:01:28.119><c> distinct</c><00:01:28.600><c> levels</c><00:01:29.079><c> across</c><00:01:29.400><c> three</c>
+
+00:01:29.590 --> 00:01:29.600 align:start position:0%
+see six distinct levels across three
+ 
+
+00:01:29.600 --> 00:01:30.390 align:start position:0%
+see six distinct levels across three
+different
+
+00:01:30.390 --> 00:01:30.400 align:start position:0%
+different
+ 
+
+00:01:30.400 --> 00:01:33.749 align:start position:0%
+different
+categories<00:01:31.400><c> human</c><00:01:31.759><c> initiated</c><00:01:32.680><c> where</c><00:01:33.280><c> humans</c>
+
+00:01:33.749 --> 00:01:33.759 align:start position:0%
+categories human initiated where humans
+ 
+
+00:01:33.759 --> 00:01:37.149 align:start position:0%
+categories human initiated where humans
+are<00:01:34.159><c> the</c><00:01:34.439><c> primary</c><00:01:34.880><c> coders</c><00:01:35.880><c> AI</c><00:01:36.280><c> initiated</c>
+
+00:01:37.149 --> 00:01:37.159 align:start position:0%
+are the primary coders AI initiated
+ 
+
+00:01:37.159 --> 00:01:39.990 align:start position:0%
+are the primary coders AI initiated
+where<00:01:37.680><c> AI</c><00:01:38.119><c> starts</c><00:01:38.399><c> to</c><00:01:38.600><c> take</c><00:01:38.960><c> a</c><00:01:39.240><c> proactive</c><00:01:39.720><c> role</c>
+
+00:01:39.990 --> 00:01:40.000 align:start position:0%
+where AI starts to take a proactive role
+ 
+
+00:01:40.000 --> 00:01:42.870 align:start position:0%
+where AI starts to take a proactive role
+in<00:01:40.159><c> software</c><00:01:40.560><c> development</c><00:01:41.479><c> an</c><00:01:41.720><c> AI</c><00:01:42.079><c> Le</c><00:01:42.399><c> code</c>
+
+00:01:42.870 --> 00:01:42.880 align:start position:0%
+in software development an AI Le code
+ 
+
+00:01:42.880 --> 00:01:45.950 align:start position:0%
+in software development an AI Le code
+where<00:01:43.280><c> AI</c><00:01:43.759><c> has</c><00:01:43.960><c> full</c><00:01:44.200><c> autonomy</c><00:01:44.880><c> over</c><00:01:45.119><c> a</c><00:01:45.280><c> code</c>
+
+00:01:45.950 --> 00:01:45.960 align:start position:0%
+where AI has full autonomy over a code
+ 
+
+00:01:45.960 --> 00:01:48.910 align:start position:0%
+where AI has full autonomy over a code
+base<00:01:46.960><c> we'll</c><00:01:47.240><c> contrast</c><00:01:47.759><c> these</c><00:01:47.960><c> levels</c><00:01:48.200><c> of</c><00:01:48.399><c> code</c>
+
+00:01:48.910 --> 00:01:48.920 align:start position:0%
+base we'll contrast these levels of code
+ 
+
+00:01:48.920 --> 00:01:51.630 align:start position:0%
+base we'll contrast these levels of code
+with<00:01:49.119><c> the</c><00:01:49.360><c> SAE</c><00:01:50.000><c> levels</c><00:01:50.360><c> of</c><00:01:50.560><c> autonomy</c><00:01:51.119><c> for</c>
+
+00:01:51.630 --> 00:01:51.640 align:start position:0%
+with the SAE levels of autonomy for
+ 
+
+00:01:51.640 --> 00:01:53.830 align:start position:0%
+with the SAE levels of autonomy for
+vehicles<00:01:52.640><c> let's</c><00:01:52.960><c> dive</c>
+
+00:01:53.830 --> 00:01:53.840 align:start position:0%
+vehicles let's dive
+ 
+
+00:01:53.840 --> 00:01:57.149 align:start position:0%
+vehicles let's dive
+in<00:01:54.840><c> at</c><00:01:55.040><c> level</c><00:01:55.320><c> zero</c><00:01:55.840><c> the</c><00:01:56.000><c> developer</c><00:01:56.719><c> writes</c>
+
+00:01:57.149 --> 00:01:57.159 align:start position:0%
+in at level zero the developer writes
+ 
+
+00:01:57.159 --> 00:02:00.149 align:start position:0%
+in at level zero the developer writes
+all<00:01:57.439><c> code</c><00:01:57.719><c> manually</c><00:01:58.399><c> without</c><00:01:58.840><c> any</c><00:01:59.159><c> AI</c>
+
+00:02:00.149 --> 00:02:00.159 align:start position:0%
+all code manually without any AI
+ 
+
+00:02:00.159 --> 00:02:02.590 align:start position:0%
+all code manually without any AI
+assistance<00:02:01.159><c> the</c><00:02:01.320><c> developer</c><00:02:01.840><c> is</c><00:02:02.079><c> responsible</c>
+
+00:02:02.590 --> 00:02:02.600 align:start position:0%
+assistance the developer is responsible
+ 
+
+00:02:02.600 --> 00:02:05.190 align:start position:0%
+assistance the developer is responsible
+for<00:02:02.840><c> writing</c><00:02:03.399><c> testing</c><00:02:04.000><c> and</c><00:02:04.159><c> debugging</c><00:02:04.759><c> a</c><00:02:04.920><c> code</c>
+
+00:02:05.190 --> 00:02:05.200 align:start position:0%
+for writing testing and debugging a code
+ 
+
+00:02:05.200 --> 00:02:08.630 align:start position:0%
+for writing testing and debugging a code
+base<00:02:06.200><c> AI</c><00:02:06.560><c> does</c><00:02:06.799><c> not</c><00:02:07.159><c> generate</c><00:02:07.600><c> or</c><00:02:07.880><c> modify</c><00:02:08.440><c> any</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+base AI does not generate or modify any
+ 
+
+00:02:08.640 --> 00:02:11.070 align:start position:0%
+base AI does not generate or modify any
+part<00:02:08.800><c> of</c><00:02:08.920><c> the</c><00:02:09.039><c> code</c><00:02:09.319><c> base</c><00:02:09.840><c> but</c><00:02:10.039><c> IDE</c><00:02:10.520><c> features</c>
+
+00:02:11.070 --> 00:02:11.080 align:start position:0%
+part of the code base but IDE features
+ 
+
+00:02:11.080 --> 00:02:13.869 align:start position:0%
+part of the code base but IDE features
+like<00:02:11.319><c> symbol</c><00:02:11.720><c> name</c><00:02:12.520><c> completion</c><00:02:13.280><c> can</c><00:02:13.520><c> provide</c>
+
+00:02:13.869 --> 00:02:13.879 align:start position:0%
+like symbol name completion can provide
+ 
+
+00:02:13.879 --> 00:02:16.750 align:start position:0%
+like symbol name completion can provide
+a<00:02:14.040><c> bit</c><00:02:14.239><c> of</c><00:02:14.720><c> assistance</c><00:02:15.720><c> this</c><00:02:15.920><c> level</c><00:02:16.239><c> reflects</c>
+
+00:02:16.750 --> 00:02:16.760 align:start position:0%
+a bit of assistance this level reflects
+ 
+
+00:02:16.760 --> 00:02:18.550 align:start position:0%
+a bit of assistance this level reflects
+the<00:02:16.959><c> traditional</c><00:02:17.560><c> software</c><00:02:18.000><c> development</c>
+
+00:02:18.550 --> 00:02:18.560 align:start position:0%
+the traditional software development
+ 
+
+00:02:18.560 --> 00:02:20.949 align:start position:0%
+the traditional software development
+process<00:02:19.120><c> before</c><00:02:19.480><c> introducing</c><00:02:20.200><c> any</c><00:02:20.560><c> AI</c>
+
+00:02:20.949 --> 00:02:20.959 align:start position:0%
+process before introducing any AI
+ 
+
+00:02:20.959 --> 00:02:23.869 align:start position:0%
+process before introducing any AI
+assistance<00:02:21.840><c> into</c><00:02:22.160><c> the</c><00:02:22.400><c> development</c>
+
+00:02:23.869 --> 00:02:23.879 align:start position:0%
+assistance into the development
+ 
+
+00:02:23.879 --> 00:02:26.470 align:start position:0%
+assistance into the development
+workflow<00:02:24.879><c> a</c><00:02:25.080><c> vehicle</c><00:02:25.560><c> operating</c><00:02:26.040><c> at</c><00:02:26.200><c> level</c>
+
+00:02:26.470 --> 00:02:26.480 align:start position:0%
+workflow a vehicle operating at level
+ 
+
+00:02:26.480 --> 00:02:28.390 align:start position:0%
+workflow a vehicle operating at level
+zero<00:02:26.879><c> is</c><00:02:27.040><c> fully</c><00:02:27.360><c> reliant</c><00:02:27.840><c> on</c><00:02:27.959><c> the</c><00:02:28.120><c> human</c>
+
+00:02:28.390 --> 00:02:28.400 align:start position:0%
+zero is fully reliant on the human
+ 
+
+00:02:28.400 --> 00:02:30.270 align:start position:0%
+zero is fully reliant on the human
+driver<00:02:29.000><c> for</c><00:02:29.280><c> acceleration</c>
+
+00:02:30.270 --> 00:02:30.280 align:start position:0%
+driver for acceleration
+ 
+
+00:02:30.280 --> 00:02:33.070 align:start position:0%
+driver for acceleration
+steering<00:02:30.959><c> braking</c><00:02:31.680><c> and</c><00:02:31.959><c> everything</c><00:02:32.440><c> in</c>
+
+00:02:33.070 --> 00:02:33.080 align:start position:0%
+steering braking and everything in
+ 
+
+00:02:33.080 --> 00:02:35.509 align:start position:0%
+steering braking and everything in
+between<00:02:34.080><c> at</c><00:02:34.239><c> level</c><00:02:34.480><c> one</c><00:02:34.879><c> the</c><00:02:35.000><c> developer</c>
+
+00:02:35.509 --> 00:02:35.519 align:start position:0%
+between at level one the developer
+ 
+
+00:02:35.519 --> 00:02:37.910 align:start position:0%
+between at level one the developer
+begins<00:02:35.920><c> to</c><00:02:36.120><c> use</c><00:02:36.599><c> AI</c><00:02:37.200><c> that</c><00:02:37.319><c> can</c><00:02:37.440><c> generate</c>
+
+00:02:37.910 --> 00:02:37.920 align:start position:0%
+begins to use AI that can generate
+ 
+
+00:02:37.920 --> 00:02:40.190 align:start position:0%
+begins to use AI that can generate
+single<00:02:38.200><c> lines</c><00:02:38.519><c> or</c><00:02:38.720><c> whole</c><00:02:38.959><c> blocks</c><00:02:39.280><c> of</c><00:02:39.480><c> code</c>
+
+00:02:40.190 --> 00:02:40.200 align:start position:0%
+single lines or whole blocks of code
+ 
+
+00:02:40.200 --> 00:02:43.309 align:start position:0%
+single lines or whole blocks of code
+based<00:02:40.480><c> on</c><00:02:40.720><c> developer</c><00:02:41.440><c> intent</c><00:02:42.440><c> for</c><00:02:42.640><c> example</c><00:02:43.159><c> a</c>
+
+00:02:43.309 --> 00:02:43.319 align:start position:0%
+based on developer intent for example a
+ 
+
+00:02:43.319 --> 00:02:45.309 align:start position:0%
+based on developer intent for example a
+developer<00:02:43.840><c> might</c><00:02:44.040><c> write</c><00:02:44.360><c> the</c><00:02:44.560><c> signature</c><00:02:45.040><c> of</c><00:02:45.159><c> a</c>
+
+00:02:45.309 --> 00:02:45.319 align:start position:0%
+developer might write the signature of a
+ 
+
+00:02:45.319 --> 00:02:47.430 align:start position:0%
+developer might write the signature of a
+function<00:02:46.000><c> and</c><00:02:46.159><c> the</c><00:02:46.319><c> AI</c><00:02:46.640><c> will</c><00:02:46.840><c> infert</c><00:02:47.239><c> the</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+function and the AI will infert the
+ 
+
+00:02:47.440 --> 00:02:50.070 align:start position:0%
+function and the AI will infert the
+context<00:02:48.000><c> and</c><00:02:48.200><c> generate</c><00:02:49.120><c> the</c><00:02:49.360><c> implementation</c>
+
+00:02:50.070 --> 00:02:50.080 align:start position:0%
+context and generate the implementation
+ 
+
+00:02:50.080 --> 00:02:53.470 align:start position:0%
+context and generate the implementation
+details<00:02:50.599><c> for</c><00:02:50.800><c> set</c><00:02:51.560><c> function</c><00:02:52.560><c> at</c><00:02:52.720><c> level</c><00:02:53.000><c> one</c>
+
+00:02:53.470 --> 00:02:53.480 align:start position:0%
+details for set function at level one
+ 
+
+00:02:53.480 --> 00:02:55.589 align:start position:0%
+details for set function at level one
+the<00:02:53.800><c> AI</c><00:02:54.159><c> assistant</c><00:02:54.640><c> has</c><00:02:54.760><c> been</c><00:02:54.920><c> trained</c><00:02:55.400><c> on</c>
+
+00:02:55.589 --> 00:02:55.599 align:start position:0%
+the AI assistant has been trained on
+ 
+
+00:02:55.599 --> 00:02:57.990 align:start position:0%
+the AI assistant has been trained on
+millions<00:02:56.000><c> of</c><00:02:56.159><c> lines</c><00:02:56.519><c> of</c><00:02:56.720><c> Open</c><00:02:57.000><c> Source</c><00:02:57.319><c> Code</c>
+
+00:02:57.990 --> 00:02:58.000 align:start position:0%
+millions of lines of Open Source Code
+ 
+
+00:02:58.000 --> 00:02:59.750 align:start position:0%
+millions of lines of Open Source Code
+and<00:02:58.159><c> can</c><00:02:58.319><c> leverage</c><00:02:58.800><c> this</c><00:02:59.000><c> to</c><00:02:59.200><c> provide</c>
+
+00:02:59.750 --> 00:02:59.760 align:start position:0%
+and can leverage this to provide
+ 
+
+00:02:59.760 --> 00:03:02.270 align:start position:0%
+and can leverage this to provide
+Superior<00:03:00.280><c> completions</c><00:03:01.280><c> based</c><00:03:01.640><c> on</c><00:03:02.080><c> the</c>
+
+00:03:02.270 --> 00:03:02.280 align:start position:0%
+Superior completions based on the
+ 
+
+00:03:02.280 --> 00:03:03.869 align:start position:0%
+Superior completions based on the
+developer
+
+00:03:03.869 --> 00:03:03.879 align:start position:0%
+developer
+ 
+
+00:03:03.879 --> 00:03:06.910 align:start position:0%
+developer
+guidance<00:03:04.879><c> sa</c><00:03:05.440><c> level</c><00:03:05.680><c> one</c><00:03:05.959><c> Vehicles</c><00:03:06.599><c> still</c>
+
+00:03:06.910 --> 00:03:06.920 align:start position:0%
+guidance sa level one Vehicles still
+ 
+
+00:03:06.920 --> 00:03:08.949 align:start position:0%
+guidance sa level one Vehicles still
+require<00:03:07.440><c> the</c><00:03:07.720><c> full</c><00:03:07.920><c> attention</c><00:03:08.360><c> of</c><00:03:08.519><c> the</c><00:03:08.680><c> human</c>
+
+00:03:08.949 --> 00:03:08.959 align:start position:0%
+require the full attention of the human
+ 
+
+00:03:08.959 --> 00:03:11.710 align:start position:0%
+require the full attention of the human
+driver<00:03:09.799><c> but</c><00:03:10.000><c> offer</c><00:03:10.319><c> features</c><00:03:10.959><c> such</c><00:03:11.159><c> as</c><00:03:11.400><c> cruise</c>
+
+00:03:11.710 --> 00:03:11.720 align:start position:0%
+driver but offer features such as cruise
+ 
+
+00:03:11.720 --> 00:03:13.869 align:start position:0%
+driver but offer features such as cruise
+control<00:03:12.200><c> or</c><00:03:12.360><c> Lane</c><00:03:12.640><c> centering</c><00:03:13.480><c> that</c><00:03:13.599><c> make</c>
+
+00:03:13.869 --> 00:03:13.879 align:start position:0%
+control or Lane centering that make
+ 
+
+00:03:13.879 --> 00:03:16.430 align:start position:0%
+control or Lane centering that make
+driving<00:03:14.360><c> an</c><00:03:14.640><c> easier</c><00:03:15.280><c> safer</c><00:03:16.040><c> and</c><00:03:16.200><c> more</c>
+
+00:03:16.430 --> 00:03:16.440 align:start position:0%
+driving an easier safer and more
+ 
+
+00:03:16.440 --> 00:03:19.030 align:start position:0%
+driving an easier safer and more
+comfortable
+
+00:03:19.030 --> 00:03:19.040 align:start position:0%
+comfortable
+ 
+
+00:03:19.040 --> 00:03:21.630 align:start position:0%
+comfortable
+experience<00:03:20.040><c> at</c><00:03:20.200><c> level</c><00:03:20.440><c> two</c><00:03:20.760><c> the</c><00:03:20.920><c> AI</c><00:03:21.239><c> coding</c>
+
+00:03:21.630 --> 00:03:21.640 align:start position:0%
+experience at level two the AI coding
+ 
+
+00:03:21.640 --> 00:03:24.229 align:start position:0%
+experience at level two the AI coding
+assistant<00:03:22.239><c> has</c><00:03:22.480><c> Superior</c><00:03:23.360><c> understanding</c><00:03:23.920><c> and</c>
+
+00:03:24.229 --> 00:03:24.239 align:start position:0%
+assistant has Superior understanding and
+ 
+
+00:03:24.239 --> 00:03:26.350 align:start position:0%
+assistant has Superior understanding and
+context<00:03:25.080><c> of</c><00:03:25.239><c> the</c><00:03:25.360><c> codebase</c><00:03:26.040><c> it</c><00:03:26.159><c> is</c>
+
+00:03:26.350 --> 00:03:26.360 align:start position:0%
+context of the codebase it is
+ 
+
+00:03:26.360 --> 00:03:29.070 align:start position:0%
+context of the codebase it is
+interacting<00:03:27.040><c> with</c><00:03:28.040><c> where</c><00:03:28.239><c> at</c><00:03:28.400><c> level</c><00:03:28.640><c> one</c><00:03:28.920><c> the</c>
+
+00:03:29.070 --> 00:03:29.080 align:start position:0%
+interacting with where at level one the
+ 
+
+00:03:29.080 --> 00:03:32.149 align:start position:0%
+interacting with where at level one the
+context<00:03:29.480><c> is</c><00:03:29.840><c> Broad</c><00:03:30.159><c> and</c><00:03:30.400><c> general</c><00:03:31.080><c> a</c><00:03:31.239><c> level</c><00:03:31.519><c> two</c>
+
+00:03:32.149 --> 00:03:32.159 align:start position:0%
+context is Broad and general a level two
+ 
+
+00:03:32.159 --> 00:03:35.190 align:start position:0%
+context is Broad and general a level two
+AI<00:03:32.480><c> coding</c><00:03:32.879><c> assistant</c><00:03:33.840><c> has</c><00:03:34.080><c> specific</c><00:03:34.599><c> context</c>
+
+00:03:35.190 --> 00:03:35.200 align:start position:0%
+AI coding assistant has specific context
+ 
+
+00:03:35.200 --> 00:03:37.270 align:start position:0%
+AI coding assistant has specific context
+about<00:03:35.439><c> the</c><00:03:35.599><c> code</c><00:03:35.879><c> base</c><00:03:36.280><c> that</c><00:03:36.439><c> it</c><00:03:36.560><c> is</c><00:03:36.760><c> working</c>
+
+00:03:37.270 --> 00:03:37.280 align:start position:0%
+about the code base that it is working
+ 
+
+00:03:37.280 --> 00:03:40.229 align:start position:0%
+about the code base that it is working
+in<00:03:38.280><c> this</c><00:03:38.400><c> allows</c><00:03:38.760><c> the</c><00:03:38.879><c> AI</c><00:03:39.280><c> assistant</c><00:03:39.799><c> to</c><00:03:40.000><c> make</c>
+
+00:03:40.229 --> 00:03:40.239 align:start position:0%
+in this allows the AI assistant to make
+ 
+
+00:03:40.239 --> 00:03:42.949 align:start position:0%
+in this allows the AI assistant to make
+better<00:03:40.560><c> suggestions</c><00:03:41.159><c> for</c><00:03:41.400><c> code</c><00:03:41.959><c> completions</c>
+
+00:03:42.949 --> 00:03:42.959 align:start position:0%
+better suggestions for code completions
+ 
+
+00:03:42.959 --> 00:03:44.789 align:start position:0%
+better suggestions for code completions
+for<00:03:43.200><c> example</c><00:03:43.760><c> if</c><00:03:43.840><c> you</c><00:03:43.959><c> were</c><00:03:44.120><c> working</c><00:03:44.480><c> in</c><00:03:44.640><c> a</c>
+
+00:03:44.789 --> 00:03:44.799 align:start position:0%
+for example if you were working in a
+ 
+
+00:03:44.799 --> 00:03:47.270 align:start position:0%
+for example if you were working in a
+node.js<00:03:45.200><c> code</c><00:03:45.720><c> base</c><00:03:46.280><c> and</c><00:03:46.400><c> we're</c><00:03:46.599><c> using</c><00:03:47.040><c> the</c>
+
+00:03:47.270 --> 00:03:47.280 align:start position:0%
+node.js code base and we're using the
+ 
+
+00:03:47.280 --> 00:03:50.710 align:start position:0%
+node.js code base and we're using the
+axom<00:03:47.840><c> library</c><00:03:48.319><c> to</c><00:03:48.519><c> handle</c><00:03:48.920><c> HTTP</c><00:03:49.599><c> requests</c><00:03:50.519><c> a</c>
+
+00:03:50.710 --> 00:03:50.720 align:start position:0%
+axom library to handle HTTP requests a
+ 
+
+00:03:50.720 --> 00:03:53.030 align:start position:0%
+axom library to handle HTTP requests a
+level<00:03:50.959><c> two</c><00:03:51.280><c> AI</c><00:03:51.680><c> assistant</c><00:03:52.400><c> would</c><00:03:52.680><c> provide</c>
+
+00:03:53.030 --> 00:03:53.040 align:start position:0%
+level two AI assistant would provide
+ 
+
+00:03:53.040 --> 00:03:55.390 align:start position:0%
+level two AI assistant would provide
+autocomplete<00:03:53.760><c> suggestions</c><00:03:54.720><c> based</c><00:03:55.000><c> on</c><00:03:55.239><c> the</c>
+
+00:03:55.390 --> 00:03:55.400 align:start position:0%
+autocomplete suggestions based on the
+ 
+
+00:03:55.400 --> 00:03:57.630 align:start position:0%
+autocomplete suggestions based on the
+axium<00:03:55.879><c> library</c><00:03:56.680><c> as</c><00:03:56.840><c> opposed</c><00:03:57.159><c> to</c><00:03:57.280><c> a</c><00:03:57.400><c> different</c>
+
+00:03:57.630 --> 00:03:57.640 align:start position:0%
+axium library as opposed to a different
+ 
+
+00:03:57.640 --> 00:04:01.229 align:start position:0%
+axium library as opposed to a different
+node<00:03:58.000><c> HTTP</c><00:03:58.680><c> Library</c><00:03:59.239><c> like</c><00:03:59.400><c> fed</c><00:03:59.920><c> or</c><00:04:00.079><c> super</c>
+
+00:04:01.229 --> 00:04:01.239 align:start position:0%
+node HTTP Library like fed or super
+ 
+
+00:04:01.239 --> 00:04:04.670 align:start position:0%
+node HTTP Library like fed or super
+agent<00:04:02.239><c> at</c><00:04:02.439><c> SAE</c><00:04:03.000><c> level</c><00:04:03.280><c> two</c><00:04:03.840><c> we</c><00:04:04.000><c> get</c><00:04:04.239><c> partial</c>
+
+00:04:04.670 --> 00:04:04.680 align:start position:0%
+agent at SAE level two we get partial
+ 
+
+00:04:04.680 --> 00:04:07.069 align:start position:0%
+agent at SAE level two we get partial
+automation<00:04:05.680><c> the</c><00:04:05.799><c> human</c><00:04:06.040><c> driver</c><00:04:06.480><c> is</c><00:04:06.640><c> still</c><00:04:06.840><c> in</c>
+
+00:04:07.069 --> 00:04:07.079 align:start position:0%
+automation the human driver is still in
+ 
+
+00:04:07.079 --> 00:04:09.069 align:start position:0%
+automation the human driver is still in
+control<00:04:07.519><c> and</c><00:04:07.720><c> can</c><00:04:07.920><c> override</c><00:04:08.560><c> anything</c><00:04:08.920><c> the</c>
+
+00:04:09.069 --> 00:04:09.079 align:start position:0%
+control and can override anything the
+ 
+
+00:04:09.079 --> 00:04:11.910 align:start position:0%
+control and can override anything the
+car<00:04:09.319><c> does</c><00:04:09.680><c> at</c><00:04:09.879><c> any</c><00:04:10.239><c> time</c><00:04:10.959><c> but</c><00:04:11.159><c> features</c><00:04:11.720><c> such</c>
+
+00:04:11.910 --> 00:04:11.920 align:start position:0%
+car does at any time but features such
+ 
+
+00:04:11.920 --> 00:04:13.869 align:start position:0%
+car does at any time but features such
+as<00:04:12.079><c> traffic</c><00:04:12.400><c> aware</c><00:04:12.760><c> cruise</c><00:04:13.079><c> control</c><00:04:13.680><c> or</c>
+
+00:04:13.869 --> 00:04:13.879 align:start position:0%
+as traffic aware cruise control or
+ 
+
+00:04:13.879 --> 00:04:15.949 align:start position:0%
+as traffic aware cruise control or
+automatic<00:04:14.319><c> Lane</c><00:04:14.599><c> changes</c><00:04:15.079><c> can</c><00:04:15.200><c> make</c><00:04:15.400><c> driving</c>
+
+00:04:15.949 --> 00:04:15.959 align:start position:0%
+automatic Lane changes can make driving
+ 
+
+00:04:15.959 --> 00:04:17.430 align:start position:0%
+automatic Lane changes can make driving
+a<00:04:16.120><c> much</c><00:04:16.320><c> smoother</c>
+
+00:04:17.430 --> 00:04:17.440 align:start position:0%
+a much smoother
+ 
+
+00:04:17.440 --> 00:04:20.390 align:start position:0%
+a much smoother
+experience<00:04:18.440><c> at</c><00:04:18.639><c> level</c><00:04:18.880><c> three</c><00:04:19.479><c> the</c><00:04:19.680><c> developer</c>
+
+00:04:20.390 --> 00:04:20.400 align:start position:0%
+experience at level three the developer
+ 
+
+00:04:20.400 --> 00:04:23.270 align:start position:0%
+experience at level three the developer
+provides<00:04:21.400><c> highle</c><00:04:21.919><c> requirements</c><00:04:22.600><c> and</c><00:04:22.759><c> the</c><00:04:22.919><c> AI</c>
+
+00:04:23.270 --> 00:04:23.280 align:start position:0%
+provides highle requirements and the AI
+ 
+
+00:04:23.280 --> 00:04:26.629 align:start position:0%
+provides highle requirements and the AI
+assistant<00:04:23.919><c> delivers</c><00:04:24.479><c> a</c><00:04:24.639><c> code-based</c><00:04:25.639><c> solution</c>
+
+00:04:26.629 --> 00:04:26.639 align:start position:0%
+assistant delivers a code-based solution
+ 
+
+00:04:26.639 --> 00:04:28.670 align:start position:0%
+assistant delivers a code-based solution
+the<00:04:26.800><c> AI</c><00:04:27.120><c> coding</c><00:04:27.479><c> assistant</c><00:04:28.040><c> goes</c><00:04:28.280><c> beyond</c>
+
+00:04:28.670 --> 00:04:28.680 align:start position:0%
+the AI coding assistant goes beyond
+ 
+
+00:04:28.680 --> 00:04:30.909 align:start position:0%
+the AI coding assistant goes beyond
+generating<00:04:29.160><c> singular</c><00:04:29.680><c> Snippets</c><00:04:30.039><c> of</c><00:04:30.199><c> code</c><00:04:30.720><c> to</c>
+
+00:04:30.909 --> 00:04:30.919 align:start position:0%
+generating singular Snippets of code to
+ 
+
+00:04:30.919 --> 00:04:32.909 align:start position:0%
+generating singular Snippets of code to
+building<00:04:31.240><c> out</c><00:04:31.520><c> full</c><00:04:31.840><c> components</c><00:04:32.520><c> and</c><00:04:32.680><c> even</c>
+
+00:04:32.909 --> 00:04:32.919 align:start position:0%
+building out full components and even
+ 
+
+00:04:32.919 --> 00:04:35.590 align:start position:0%
+building out full components and even
+Integrations<00:04:33.919><c> with</c><00:04:34.160><c> other</c><00:04:34.440><c> pieces</c><00:04:34.840><c> of</c>
+
+00:04:35.590 --> 00:04:35.600 align:start position:0%
+Integrations with other pieces of
+ 
+
+00:04:35.600 --> 00:04:37.870 align:start position:0%
+Integrations with other pieces of
+software<00:04:36.600><c> rather</c><00:04:36.840><c> than</c><00:04:37.000><c> writing</c><00:04:37.320><c> the</c><00:04:37.440><c> code</c>
+
+00:04:37.870 --> 00:04:37.880 align:start position:0%
+software rather than writing the code
+ 
+
+00:04:37.880 --> 00:04:39.790 align:start position:0%
+software rather than writing the code
+themselves<00:04:38.280><c> a</c><00:04:38.440><c> developer</c><00:04:38.880><c> could</c><00:04:39.080><c> instruct</c><00:04:39.680><c> a</c>
+
+00:04:39.790 --> 00:04:39.800 align:start position:0%
+themselves a developer could instruct a
+ 
+
+00:04:39.800 --> 00:04:42.510 align:start position:0%
+themselves a developer could instruct a
+level<00:04:40.080><c> three</c><00:04:40.400><c> code</c><00:04:40.680><c> a</c><00:04:41.039><c> assistant</c><00:04:41.800><c> to</c><00:04:42.080><c> add</c><00:04:42.320><c> a</c>
+
+00:04:42.510 --> 00:04:42.520 align:start position:0%
+level three code a assistant to add a
+ 
+
+00:04:42.520 --> 00:04:44.790 align:start position:0%
+level three code a assistant to add a
+user<00:04:42.919><c> authentication</c><00:04:43.919><c> to</c><00:04:44.080><c> an</c><00:04:44.280><c> application</c>
+
+00:04:44.790 --> 00:04:44.800 align:start position:0%
+user authentication to an application
+ 
+
+00:04:44.800 --> 00:04:46.790 align:start position:0%
+user authentication to an application
+that<00:04:44.919><c> they</c><00:04:45.039><c> are</c><00:04:45.160><c> building</c><00:04:46.160><c> and</c><00:04:46.280><c> the</c><00:04:46.440><c> coding</c>
+
+00:04:46.790 --> 00:04:46.800 align:start position:0%
+that they are building and the coding
+ 
+
+00:04:46.800 --> 00:04:49.070 align:start position:0%
+that they are building and the coding
+assistant<00:04:47.360><c> would</c><00:04:47.560><c> generate</c><00:04:48.160><c> all</c><00:04:48.280><c> of</c><00:04:48.440><c> the</c><00:04:48.600><c> code</c>
+
+00:04:49.070 --> 00:04:49.080 align:start position:0%
+assistant would generate all of the code
+ 
+
+00:04:49.080 --> 00:04:51.510 align:start position:0%
+assistant would generate all of the code
+required<00:04:50.080><c> the</c><00:04:50.199><c> coding</c><00:04:50.560><c> assistant</c><00:04:51.039><c> could</c><00:04:51.280><c> then</c>
+
+00:04:51.510 --> 00:04:51.520 align:start position:0%
+required the coding assistant could then
+ 
+
+00:04:51.520 --> 00:04:53.230 align:start position:0%
+required the coding assistant could then
+explain<00:04:51.919><c> to</c><00:04:52.080><c> the</c><00:04:52.240><c> developer</c><00:04:52.680><c> the</c><00:04:52.840><c> code</c><00:04:53.039><c> it</c>
+
+00:04:53.230 --> 00:04:53.240 align:start position:0%
+explain to the developer the code it
+ 
+
+00:04:53.240 --> 00:04:55.590 align:start position:0%
+explain to the developer the code it
+wrote<00:04:53.880><c> how</c><00:04:54.039><c> it</c><00:04:54.199><c> works</c><00:04:54.600><c> and</c><00:04:54.800><c> how</c><00:04:54.919><c> it</c><00:04:55.080><c> integrates</c>
+
+00:04:55.590 --> 00:04:55.600 align:start position:0%
+wrote how it works and how it integrates
+ 
+
+00:04:55.600 --> 00:04:57.950 align:start position:0%
+wrote how it works and how it integrates
+with<00:04:55.759><c> the</c><00:04:55.880><c> rest</c><00:04:56.080><c> of</c><00:04:56.240><c> the</c><00:04:56.440><c> application</c><00:04:57.440><c> SAE</c>
+
+00:04:57.950 --> 00:04:57.960 align:start position:0%
+with the rest of the application SAE
+ 
+
+00:04:57.960 --> 00:05:00.110 align:start position:0%
+with the rest of the application SAE
+level<00:04:58.240><c> 3</c><00:04:58.680><c> is</c><00:04:58.840><c> also</c><00:04:59.080><c> the</c><00:04:59.199><c> first</c><00:04:59.600><c> level</c><00:04:59.919><c> where</c>
+
+00:05:00.110 --> 00:05:00.120 align:start position:0%
+level 3 is also the first level where
+ 
+
+00:05:00.120 --> 00:05:02.510 align:start position:0%
+level 3 is also the first level where
+the<00:05:00.280><c> vehicle</c><00:05:00.720><c> itself</c><00:05:01.160><c> takes</c><00:05:01.440><c> on</c><00:05:01.840><c> the</c><00:05:02.080><c> primary</c>
+
+00:05:02.510 --> 00:05:02.520 align:start position:0%
+the vehicle itself takes on the primary
+ 
+
+00:05:02.520 --> 00:05:05.070 align:start position:0%
+the vehicle itself takes on the primary
+role<00:05:02.880><c> of</c><00:05:03.160><c> driving</c><00:05:04.160><c> with</c><00:05:04.320><c> the</c><00:05:04.440><c> human</c><00:05:04.680><c> driver</c>
+
+00:05:05.070 --> 00:05:05.080 align:start position:0%
+role of driving with the human driver
+ 
+
+00:05:05.080 --> 00:05:07.029 align:start position:0%
+role of driving with the human driver
+being<00:05:05.360><c> a</c><00:05:05.520><c> fallback</c><00:05:06.120><c> in</c><00:05:06.280><c> case</c><00:05:06.479><c> the</c><00:05:06.639><c> vehicle</c>
+
+00:05:07.029 --> 00:05:07.039 align:start position:0%
+being a fallback in case the vehicle
+ 
+
+00:05:07.039 --> 00:05:10.070 align:start position:0%
+being a fallback in case the vehicle
+cannot<00:05:07.520><c> drive</c><00:05:07.800><c> itself</c><00:05:08.560><c> safely</c><00:05:09.560><c> the</c><00:05:09.720><c> vehicle</c>
+
+00:05:10.070 --> 00:05:10.080 align:start position:0%
+cannot drive itself safely the vehicle
+ 
+
+00:05:10.080 --> 00:05:12.469 align:start position:0%
+cannot drive itself safely the vehicle
+can<00:05:10.280><c> perform</c><00:05:10.840><c> most</c><00:05:11.039><c> of</c><00:05:11.160><c> the</c><00:05:11.320><c> driving</c><00:05:11.800><c> tasks</c>
+
+00:05:12.469 --> 00:05:12.479 align:start position:0%
+can perform most of the driving tasks
+ 
+
+00:05:12.479 --> 00:05:14.270 align:start position:0%
+can perform most of the driving tasks
+but<00:05:12.639><c> may</c><00:05:12.840><c> encounter</c><00:05:13.280><c> situations</c><00:05:14.000><c> where</c><00:05:14.160><c> it</c>
+
+00:05:14.270 --> 00:05:14.280 align:start position:0%
+but may encounter situations where it
+ 
+
+00:05:14.280 --> 00:05:16.830 align:start position:0%
+but may encounter situations where it
+cannot<00:05:14.680><c> adequately</c><00:05:15.160><c> perform</c><00:05:15.639><c> these</c><00:05:15.840><c> tasks</c><00:05:16.600><c> so</c>
+
+00:05:16.830 --> 00:05:16.840 align:start position:0%
+cannot adequately perform these tasks so
+ 
+
+00:05:16.840 --> 00:05:18.629 align:start position:0%
+cannot adequately perform these tasks so
+it's<00:05:17.000><c> forced</c><00:05:17.320><c> to</c><00:05:17.440><c> give</c><00:05:17.680><c> control</c><00:05:18.080><c> back</c><00:05:18.319><c> to</c><00:05:18.479><c> the</c>
+
+00:05:18.629 --> 00:05:18.639 align:start position:0%
+it's forced to give control back to the
+ 
+
+00:05:18.639 --> 00:05:19.430 align:start position:0%
+it's forced to give control back to the
+human
+
+00:05:19.430 --> 00:05:19.440 align:start position:0%
+human
+ 
+
+00:05:19.440 --> 00:05:22.029 align:start position:0%
+human
+driver<00:05:20.440><c> at</c><00:05:20.600><c> level</c><00:05:20.840><c> four</c><00:05:21.240><c> the</c><00:05:21.400><c> code</c><00:05:21.680><c> AI</c>
+
+00:05:22.029 --> 00:05:22.039 align:start position:0%
+driver at level four the code AI
+ 
+
+00:05:22.039 --> 00:05:24.510 align:start position:0%
+driver at level four the code AI
+assistant<00:05:22.560><c> can</c><00:05:22.800><c> proactively</c><00:05:23.360><c> handle</c><00:05:24.039><c> coding</c>
+
+00:05:24.510 --> 00:05:24.520 align:start position:0%
+assistant can proactively handle coding
+ 
+
+00:05:24.520 --> 00:05:27.830 align:start position:0%
+assistant can proactively handle coding
+tasks<00:05:25.199><c> without</c><00:05:25.720><c> developer</c><00:05:26.639><c> oversight</c><00:05:27.639><c> let's</c>
+
+00:05:27.830 --> 00:05:27.840 align:start position:0%
+tasks without developer oversight let's
+ 
+
+00:05:27.840 --> 00:05:30.029 align:start position:0%
+tasks without developer oversight let's
+imagine<00:05:28.160><c> a</c><00:05:28.319><c> few</c><00:05:28.520><c> scenarios</c><00:05:29.160><c> where</c><00:05:29.600><c> level</c><00:05:29.759><c> four</c>
+
+00:05:30.029 --> 00:05:30.039 align:start position:0%
+imagine a few scenarios where level four
+ 
+
+00:05:30.039 --> 00:05:33.189 align:start position:0%
+imagine a few scenarios where level four
+codee<00:05:30.280><c> AI</c><00:05:30.600><c> assistant</c><00:05:31.039><c> would</c><00:05:31.240><c> play</c><00:05:31.400><c> a</c><00:05:32.039><c> role</c><00:05:33.039><c> a</c>
+
+00:05:33.189 --> 00:05:33.199 align:start position:0%
+codee AI assistant would play a role a
+ 
+
+00:05:33.199 --> 00:05:35.710 align:start position:0%
+codee AI assistant would play a role a
+level<00:05:33.440><c> four</c><00:05:33.759><c> capable</c><00:05:34.240><c> code</c><00:05:34.560><c> AI</c><00:05:34.919><c> assistant</c>
+
+00:05:35.710 --> 00:05:35.720 align:start position:0%
+level four capable code AI assistant
+ 
+
+00:05:35.720 --> 00:05:37.830 align:start position:0%
+level four capable code AI assistant
+could<00:05:35.960><c> continuously</c><00:05:36.600><c> monitor</c><00:05:37.199><c> your</c><00:05:37.520><c> code</c>
+
+00:05:37.830 --> 00:05:37.840 align:start position:0%
+could continuously monitor your code
+ 
+
+00:05:37.840 --> 00:05:40.830 align:start position:0%
+could continuously monitor your code
+changes<00:05:38.840><c> and</c><00:05:39.120><c> autonomously</c><00:05:39.800><c> submit</c><00:05:40.199><c> PRS</c><00:05:40.680><c> to</c>
+
+00:05:40.830 --> 00:05:40.840 align:start position:0%
+changes and autonomously submit PRS to
+ 
+
+00:05:40.840 --> 00:05:43.390 align:start position:0%
+changes and autonomously submit PRS to
+ensure<00:05:41.240><c> your</c><00:05:41.560><c> documentation</c><00:05:42.560><c> stays</c><00:05:42.880><c> up</c><00:05:43.080><c> to</c>
+
+00:05:43.390 --> 00:05:43.400 align:start position:0%
+ensure your documentation stays up to
+ 
+
+00:05:43.400 --> 00:05:46.469 align:start position:0%
+ensure your documentation stays up to
+date<00:05:44.400><c> even</c><00:05:44.720><c> better</c><00:05:45.240><c> the</c><00:05:45.400><c> coding</c><00:05:45.800><c> assistant</c>
+
+00:05:46.469 --> 00:05:46.479 align:start position:0%
+date even better the coding assistant
+ 
+
+00:05:46.479 --> 00:05:48.909 align:start position:0%
+date even better the coding assistant
+could<00:05:46.680><c> monitor</c><00:05:47.120><c> bug</c><00:05:47.400><c> reports</c><00:05:47.800><c> from</c><00:05:48.080><c> customers</c>
+
+00:05:48.909 --> 00:05:48.919 align:start position:0%
+could monitor bug reports from customers
+ 
+
+00:05:48.919 --> 00:05:51.909 align:start position:0%
+could monitor bug reports from customers
+and<00:05:49.080><c> submit</c><00:05:49.479><c> PRS</c><00:05:50.000><c> to</c><00:05:50.160><c> fix</c><00:05:50.440><c> the</c><00:05:50.800><c> issues</c><00:05:51.800><c> the</c>
+
+00:05:51.909 --> 00:05:51.919 align:start position:0%
+and submit PRS to fix the issues the
+ 
+
+00:05:51.919 --> 00:05:54.070 align:start position:0%
+and submit PRS to fix the issues the
+human<00:05:52.240><c> developer</c><00:05:52.720><c> could</c><00:05:52.919><c> then</c><00:05:53.120><c> simply</c><00:05:53.720><c> review</c>
+
+00:05:54.070 --> 00:05:54.080 align:start position:0%
+human developer could then simply review
+ 
+
+00:05:54.080 --> 00:05:56.270 align:start position:0%
+human developer could then simply review
+the<00:05:54.199><c> pull</c><00:05:54.520><c> requests</c><00:05:55.039><c> and</c><00:05:55.199><c> merge</c>
+
+00:05:56.270 --> 00:05:56.280 align:start position:0%
+the pull requests and merge
+ 
+
+00:05:56.280 --> 00:05:59.670 align:start position:0%
+the pull requests and merge
+them<00:05:57.280><c> level</c><00:05:57.520><c> four</c><00:05:57.880><c> SAE</c><00:05:58.440><c> Vehicles</c><00:05:58.960><c> can</c><00:05:59.080><c> perform</c>
+
+00:05:59.670 --> 00:05:59.680 align:start position:0%
+them level four SAE Vehicles can perform
+ 
+
+00:05:59.680 --> 00:06:02.029 align:start position:0%
+them level four SAE Vehicles can perform
+virtually<00:06:00.199><c> all</c><00:06:00.479><c> driving</c><00:06:00.960><c> tasks</c><00:06:01.639><c> under</c>
+
+00:06:02.029 --> 00:06:02.039 align:start position:0%
+virtually all driving tasks under
+ 
+
+00:06:02.039 --> 00:06:05.550 align:start position:0%
+virtually all driving tasks under
+specific<00:06:02.800><c> conditions</c><00:06:03.800><c> for</c><00:06:04.039><c> example</c><00:06:04.919><c> weo</c>
+
+00:06:05.550 --> 00:06:05.560 align:start position:0%
+specific conditions for example weo
+ 
+
+00:06:05.560 --> 00:06:07.670 align:start position:0%
+specific conditions for example weo
+operates<00:06:06.080><c> a</c><00:06:06.199><c> fleet</c><00:06:06.639><c> of</c><00:06:06.800><c> fully</c><00:06:07.120><c> automated</c>
+
+00:06:07.670 --> 00:06:07.680 align:start position:0%
+operates a fleet of fully automated
+ 
+
+00:06:07.680 --> 00:06:10.189 align:start position:0%
+operates a fleet of fully automated
+self-driving<00:06:08.319><c> taxis</c><00:06:09.160><c> in</c><00:06:09.360><c> cities</c><00:06:09.759><c> where</c><00:06:10.000><c> they</c>
+
+00:06:10.189 --> 00:06:10.199 align:start position:0%
+self-driving taxis in cities where they
+ 
+
+00:06:10.199 --> 00:06:12.510 align:start position:0%
+self-driving taxis in cities where they
+have<00:06:10.440><c> highquality</c><00:06:11.120><c> mapping</c><00:06:11.520><c> data</c><00:06:12.160><c> and</c><00:06:12.280><c> can</c>
+
+00:06:12.510 --> 00:06:12.520 align:start position:0%
+have highquality mapping data and can
+ 
+
+00:06:12.520 --> 00:06:14.510 align:start position:0%
+have highquality mapping data and can
+provide<00:06:12.919><c> a</c><00:06:13.080><c> safe</c><00:06:13.360><c> driving</c><00:06:13.800><c> experience</c><00:06:14.240><c> for</c>
+
+00:06:14.510 --> 00:06:14.520 align:start position:0%
+provide a safe driving experience for
+ 
+
+00:06:14.520 --> 00:06:17.830 align:start position:0%
+provide a safe driving experience for
+passengers<00:06:15.440><c> without</c><00:06:15.880><c> human</c><00:06:16.639><c> drivers</c><00:06:17.639><c> a</c>
+
+00:06:17.830 --> 00:06:17.840 align:start position:0%
+passengers without human drivers a
+ 
+
+00:06:17.840 --> 00:06:20.749 align:start position:0%
+passengers without human drivers a
+customer<00:06:18.280><c> simply</c><00:06:18.639><c> hails</c><00:06:19.080><c> a</c><00:06:19.240><c> wayo</c><00:06:19.759><c> taxi</c><00:06:20.440><c> using</c>
+
+00:06:20.749 --> 00:06:20.759 align:start position:0%
+customer simply hails a wayo taxi using
+ 
+
+00:06:20.759 --> 00:06:23.230 align:start position:0%
+customer simply hails a wayo taxi using
+a<00:06:20.919><c> mobile</c><00:06:21.280><c> app</c><00:06:21.639><c> provides</c><00:06:21.960><c> a</c><00:06:22.199><c> destination</c><00:06:23.080><c> and</c>
+
+00:06:23.230 --> 00:06:23.240 align:start position:0%
+a mobile app provides a destination and
+ 
+
+00:06:23.240 --> 00:06:25.189 align:start position:0%
+a mobile app provides a destination and
+the<00:06:23.440><c> vehicle</c><00:06:23.919><c> is</c><00:06:24.160><c> responsible</c><00:06:24.680><c> for</c><00:06:24.919><c> taking</c>
+
+00:06:25.189 --> 00:06:25.199 align:start position:0%
+the vehicle is responsible for taking
+ 
+
+00:06:25.199 --> 00:06:27.870 align:start position:0%
+the vehicle is responsible for taking
+the<00:06:25.400><c> passenger</c><00:06:26.120><c> to</c><00:06:26.319><c> their</c><00:06:26.520><c> final</c><00:06:26.880><c> destination</c>
+
+00:06:27.870 --> 00:06:27.880 align:start position:0%
+the passenger to their final destination
+ 
+
+00:06:27.880 --> 00:06:30.270 align:start position:0%
+the passenger to their final destination
+without<00:06:28.240><c> any</c><00:06:28.520><c> additional</c><00:06:29.039><c> human</c>
+
+00:06:30.270 --> 00:06:30.280 align:start position:0%
+without any additional human
+ 
+
+00:06:30.280 --> 00:06:33.469 align:start position:0%
+without any additional human
+input<00:06:31.280><c> at</c><00:06:31.479><c> level</c><00:06:31.840><c> five</c><00:06:32.400><c> the</c><00:06:32.560><c> AI</c><00:06:32.919><c> assistant</c>
+
+00:06:33.469 --> 00:06:33.479 align:start position:0%
+input at level five the AI assistant
+ 
+
+00:06:33.479 --> 00:06:35.909 align:start position:0%
+input at level five the AI assistant
+requires<00:06:33.960><c> minimal</c><00:06:34.440><c> human</c><00:06:34.800><c> guidance</c><00:06:35.400><c> on</c><00:06:35.639><c> code</c>
+
+00:06:35.909 --> 00:06:35.919 align:start position:0%
+requires minimal human guidance on code
+ 
+
+00:06:35.919 --> 00:06:38.469 align:start position:0%
+requires minimal human guidance on code
+generation<00:06:36.680><c> and</c><00:06:36.800><c> is</c><00:06:37.039><c> capable</c><00:06:37.800><c> of</c><00:06:38.000><c> handling</c>
+
+00:06:38.469 --> 00:06:38.479 align:start position:0%
+generation and is capable of handling
+ 
+
+00:06:38.479 --> 00:06:40.589 align:start position:0%
+generation and is capable of handling
+the<00:06:38.639><c> entire</c><00:06:39.120><c> software</c><00:06:39.560><c> development</c><00:06:40.080><c> life</c>
+
+00:06:40.589 --> 00:06:40.599 align:start position:0%
+the entire software development life
+ 
+
+00:06:40.599 --> 00:06:43.309 align:start position:0%
+the entire software development life
+cycle<00:06:41.599><c> the</c><00:06:41.759><c> developer</c><00:06:42.280><c> provides</c><00:06:42.759><c> high</c><00:06:43.000><c> level</c>
+
+00:06:43.309 --> 00:06:43.319 align:start position:0%
+cycle the developer provides high level
+ 
+
+00:06:43.319 --> 00:06:44.670 align:start position:0%
+cycle the developer provides high level
+requirements<00:06:43.919><c> and</c>
+
+00:06:44.670 --> 00:06:44.680 align:start position:0%
+requirements and
+ 
+
+00:06:44.680 --> 00:06:47.270 align:start position:0%
+requirements and
+specifications<00:06:45.680><c> the</c><00:06:45.880><c> AI</c><00:06:46.319><c> then</c><00:06:46.639><c> designs</c><00:06:47.080><c> the</c>
+
+00:06:47.270 --> 00:06:47.280 align:start position:0%
+specifications the AI then designs the
+ 
+
+00:06:47.280 --> 00:06:49.469 align:start position:0%
+specifications the AI then designs the
+architecture<00:06:48.199><c> writes</c><00:06:48.560><c> production</c><00:06:49.000><c> quality</c>
+
+00:06:49.469 --> 00:06:49.479 align:start position:0%
+architecture writes production quality
+ 
+
+00:06:49.479 --> 00:06:52.270 align:start position:0%
+architecture writes production quality
+code<00:06:50.120><c> handles</c><00:06:50.520><c> deployment</c><00:06:51.160><c> and</c><00:06:51.400><c> continuously</c>
+
+00:06:52.270 --> 00:06:52.280 align:start position:0%
+code handles deployment and continuously
+ 
+
+00:06:52.280 --> 00:06:53.870 align:start position:0%
+code handles deployment and continuously
+improves<00:06:52.759><c> the</c><00:06:52.880><c> code</c>
+
+00:06:53.870 --> 00:06:53.880 align:start position:0%
+improves the code
+ 
+
+00:06:53.880 --> 00:06:56.749 align:start position:0%
+improves the code
+base<00:06:54.880><c> the</c><00:06:55.039><c> developer's</c><00:06:55.560><c> role</c><00:06:55.879><c> is</c><00:06:56.000><c> to</c><00:06:56.199><c> validate</c>
+
+00:06:56.749 --> 00:06:56.759 align:start position:0%
+base the developer's role is to validate
+ 
+
+00:06:56.759 --> 00:06:58.629 align:start position:0%
+base the developer's role is to validate
+that<00:06:56.919><c> the</c><00:06:57.000><c> end</c><00:06:57.319><c> product</c><00:06:57.720><c> meets</c><00:06:58.080><c> the</c><00:06:58.240><c> stated</c>
+
+00:06:58.629 --> 00:06:58.639 align:start position:0%
+that the end product meets the stated
+ 
+
+00:06:58.639 --> 00:07:00.790 align:start position:0%
+that the end product meets the stated
+requirements<00:06:59.639><c> but</c><00:06:59.759><c> the</c><00:06:59.919><c> developer</c><00:07:00.360><c> does</c><00:07:00.560><c> not</c>
+
+00:07:00.790 --> 00:07:00.800 align:start position:0%
+requirements but the developer does not
+ 
+
+00:07:00.800 --> 00:07:03.270 align:start position:0%
+requirements but the developer does not
+necessarily<00:07:01.400><c> look</c><00:07:01.560><c> at</c><00:07:01.680><c> the</c><00:07:01.840><c> generated</c>
+
+00:07:03.270 --> 00:07:03.280 align:start position:0%
+necessarily look at the generated
+ 
+
+00:07:03.280 --> 00:07:06.430 align:start position:0%
+necessarily look at the generated
+code<00:07:04.280><c> the</c><00:07:04.440><c> code</c><00:07:04.720><c> AI</c><00:07:05.120><c> assistant</c><00:07:05.639><c> has</c><00:07:05.879><c> complete</c>
+
+00:07:06.430 --> 00:07:06.440 align:start position:0%
+code the code AI assistant has complete
+ 
+
+00:07:06.440 --> 00:07:10.270 align:start position:0%
+code the code AI assistant has complete
+autonomy<00:07:07.440><c> to</c><00:07:07.680><c> take</c><00:07:08.000><c> code</c><00:07:08.319><c> from</c><00:07:08.639><c> concept</c><00:07:09.160><c> to</c>
+
+00:07:10.270 --> 00:07:10.280 align:start position:0%
+autonomy to take code from concept to
+ 
+
+00:07:10.280 --> 00:07:13.309 align:start position:0%
+autonomy to take code from concept to
+production<00:07:11.280><c> a</c><00:07:11.440><c> self-driving</c><00:07:12.120><c> car</c><00:07:12.479><c> capable</c><00:07:13.039><c> of</c>
+
+00:07:13.309 --> 00:07:13.319 align:start position:0%
+production a self-driving car capable of
+ 
+
+00:07:13.319 --> 00:07:15.830 align:start position:0%
+production a self-driving car capable of
+level<00:07:13.680><c> five</c><00:07:14.440><c> driving</c><00:07:14.840><c> automation</c><00:07:15.599><c> can</c>
+
+00:07:15.830 --> 00:07:15.840 align:start position:0%
+level five driving automation can
+ 
+
+00:07:15.840 --> 00:07:18.469 align:start position:0%
+level five driving automation can
+perform<00:07:16.319><c> all</c><00:07:16.560><c> driving</c><00:07:17.080><c> tasks</c><00:07:17.639><c> under</c><00:07:18.000><c> all</c>
+
+00:07:18.469 --> 00:07:18.479 align:start position:0%
+perform all driving tasks under all
+ 
+
+00:07:18.479 --> 00:07:21.510 align:start position:0%
+perform all driving tasks under all
+conditions<00:07:19.319><c> humans</c><00:07:19.960><c> optional</c><00:07:20.960><c> the</c><00:07:21.120><c> car</c><00:07:21.319><c> is</c>
+
+00:07:21.510 --> 00:07:21.520 align:start position:0%
+conditions humans optional the car is
+ 
+
+00:07:21.520 --> 00:07:24.390 align:start position:0%
+conditions humans optional the car is
+responsible<00:07:22.080><c> for</c><00:07:22.280><c> making</c><00:07:22.720><c> all</c><00:07:22.960><c> the</c><00:07:23.400><c> decisions</c>
+
+00:07:24.390 --> 00:07:24.400 align:start position:0%
+responsible for making all the decisions
+ 
+
+00:07:24.400 --> 00:07:26.830 align:start position:0%
+responsible for making all the decisions
+at<00:07:24.560><c> this</c><00:07:24.800><c> level</c><00:07:25.479><c> a</c><00:07:25.639><c> steering</c><00:07:26.039><c> wheel</c><00:07:26.360><c> or</c><00:07:26.599><c> any</c>
+
+00:07:26.830 --> 00:07:26.840 align:start position:0%
+at this level a steering wheel or any
+ 
+
+00:07:26.840 --> 00:07:29.430 align:start position:0%
+at this level a steering wheel or any
+ability<00:07:27.240><c> for</c><00:07:27.440><c> a</c><00:07:27.599><c> human</c><00:07:27.879><c> to</c><00:07:28.039><c> override</c><00:07:28.520><c> the</c><00:07:28.720><c> car</c>
+
+00:07:29.430 --> 00:07:29.440 align:start position:0%
+ability for a human to override the car
+ 
+
+00:07:29.440 --> 00:07:32.070 align:start position:0%
+ability for a human to override the car
+is<00:07:29.840><c> unnecessary</c><00:07:30.840><c> so</c><00:07:31.080><c> there</c><00:07:31.199><c> you</c><00:07:31.360><c> have</c><00:07:31.520><c> it</c><00:07:31.919><c> the</c>
+
+00:07:32.070 --> 00:07:32.080 align:start position:0%
+is unnecessary so there you have it the
+ 
+
+00:07:32.080 --> 00:07:34.550 align:start position:0%
+is unnecessary so there you have it the
+six<00:07:32.319><c> levels</c><00:07:32.639><c> of</c><00:07:32.800><c> code</c><00:07:33.080><c> AI</c><00:07:33.800><c> are</c><00:07:34.000><c> at</c><00:07:34.160><c> least</c><00:07:34.400><c> how</c>
+
+00:07:34.550 --> 00:07:34.560 align:start position:0%
+six levels of code AI are at least how
+ 
+
+00:07:34.560 --> 00:07:36.150 align:start position:0%
+six levels of code AI are at least how
+we're<00:07:34.759><c> thinking</c><00:07:35.120><c> about</c><00:07:35.400><c> them</c><00:07:35.639><c> at</c><00:07:35.759><c> source</c>
+
+00:07:36.150 --> 00:07:36.160 align:start position:0%
+we're thinking about them at source
+ 
+
+00:07:36.160 --> 00:07:39.710 align:start position:0%
+we're thinking about them at source
+graph<00:07:37.080><c> do</c><00:07:37.280><c> you</c><00:07:37.560><c> agree</c><00:07:38.400><c> disagree</c><00:07:39.199><c> we'd</c><00:07:39.440><c> love</c><00:07:39.599><c> to</c>
+
+00:07:39.710 --> 00:07:39.720 align:start position:0%
+graph do you agree disagree we'd love to
+ 
+
+00:07:39.720 --> 00:07:42.589 align:start position:0%
+graph do you agree disagree we'd love to
+hear<00:07:39.879><c> your</c><00:07:40.120><c> thoughts</c><00:07:40.960><c> find</c><00:07:41.199><c> us</c><00:07:41.400><c> at</c><00:07:41.599><c> Booth</c><00:07:41.919><c> G5</c>
+
+00:07:42.589 --> 00:07:42.599 align:start position:0%
+hear your thoughts find us at Booth G5
+ 
+
+00:07:42.599 --> 00:07:44.830 align:start position:0%
+hear your thoughts find us at Booth G5
+and<00:07:42.759><c> let's</c><00:07:43.039><c> chat</c><00:07:43.879><c> and</c><00:07:44.000><c> if</c><00:07:44.080><c> you'd</c><00:07:44.319><c> like</c><00:07:44.440><c> to</c><00:07:44.560><c> try</c>
+
+00:07:44.830 --> 00:07:44.840 align:start position:0%
+and let's chat and if you'd like to try
+ 
+
+00:07:44.840 --> 00:07:47.510 align:start position:0%
+and let's chat and if you'd like to try
+Cody<00:07:45.120><c> for</c><00:07:45.360><c> yourself</c><00:07:46.120><c> get</c><00:07:46.280><c> it</c><00:07:46.440><c> for</c><00:07:46.680><c> your</c><00:07:46.919><c> IDE</c><00:07:47.319><c> of</c>
+
+00:07:47.510 --> 00:07:47.520 align:start position:0%
+Cody for yourself get it for your IDE of
+ 
+
+00:07:47.520 --> 00:07:50.350 align:start position:0%
+Cody for yourself get it for your IDE of
+choice<00:07:47.879><c> at</c><00:07:48.120><c> cod.</c><00:07:48.840><c> deev</c><00:07:49.599><c> thank</c><00:07:49.800><c> you</c><00:07:50.080><c> and</c><00:07:50.199><c> I'll</c>
+
+00:07:50.350 --> 00:07:50.360 align:start position:0%
+choice at cod. deev thank you and I'll
+ 
+
+00:07:50.360 --> 00:07:52.140 align:start position:0%
+choice at cod. deev thank you and I'll
+see<00:07:50.520><c> you</c><00:07:50.639><c> on</c><00:07:50.759><c> the</c><00:07:50.879><c> show</c>
+
+00:07:52.140 --> 00:07:52.150 align:start position:0%
+see you on the show
+ 
+
+00:07:52.150 --> 00:07:56.830 align:start position:0%
+see you on the show
+[Music]
+
+00:07:56.830 --> 00:07:56.840 align:start position:0%
+ 
+ 
+
+00:07:56.840 --> 00:07:59.840 align:start position:0%
+ 
+floor
+

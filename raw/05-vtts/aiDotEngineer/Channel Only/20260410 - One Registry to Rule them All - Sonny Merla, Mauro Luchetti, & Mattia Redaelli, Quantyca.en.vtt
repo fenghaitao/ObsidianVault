@@ -1,0 +1,4432 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.720 --> 00:00:05.430 align:start position:0%
+ 
+What<00:00:03.920><c> happens</c><00:00:04.440><c> when</c><00:00:04.600><c> you</c><00:00:04.720><c> have</c><00:00:04.960><c> dozen</c><00:00:05.320><c> of</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+What happens when you have dozen of
+ 
+
+00:00:05.440 --> 00:00:07.390 align:start position:0%
+What happens when you have dozen of
+teams<00:00:05.960><c> across</c><00:00:06.280><c> three</c><00:00:06.440><c> continents</c><00:00:07.120><c> all</c>
+
+00:00:07.390 --> 00:00:07.400 align:start position:0%
+teams across three continents all
+ 
+
+00:00:07.400 --> 00:00:09.910 align:start position:0%
+teams across three continents all
+building<00:00:07.800><c> AI</c><00:00:08.160><c> agents,</c><00:00:08.960><c> each</c><00:00:09.240><c> one</c><00:00:09.440><c> wiring</c><00:00:09.800><c> up</c>
+
+00:00:09.910 --> 00:00:09.920 align:start position:0%
+building AI agents, each one wiring up
+ 
+
+00:00:09.920 --> 00:00:11.710 align:start position:0%
+building AI agents, each one wiring up
+their<00:00:10.080><c> own</c><00:00:10.200><c> connections,</c><00:00:11.080><c> reinventing</c><00:00:11.600><c> their</c>
+
+00:00:11.710 --> 00:00:11.720 align:start position:0%
+their own connections, reinventing their
+ 
+
+00:00:11.720 --> 00:00:13.590 align:start position:0%
+their own connections, reinventing their
+own<00:00:11.840><c> security</c><00:00:12.320><c> model,</c><00:00:12.960><c> deploying</c><00:00:13.320><c> their</c><00:00:13.480><c> own</c>
+
+00:00:13.590 --> 00:00:13.600 align:start position:0%
+own security model, deploying their own
+ 
+
+00:00:13.600 --> 00:00:15.910 align:start position:0%
+own security model, deploying their own
+infrastructures?<00:00:14.600><c> You</c><00:00:14.720><c> get</c><00:00:14.920><c> chaos.</c>
+
+00:00:15.910 --> 00:00:15.920 align:start position:0%
+infrastructures? You get chaos.
+ 
+
+00:00:15.920 --> 00:00:18.270 align:start position:0%
+infrastructures? You get chaos.
+Hi,<00:00:16.360><c> I'm</c><00:00:16.520><c> Sonny</c><00:00:16.760><c> Merla,</c><00:00:17.320><c> Global</c><00:00:17.600><c> Data</c><00:00:17.840><c> Science</c>
+
+00:00:18.270 --> 00:00:18.280 align:start position:0%
+Hi, I'm Sonny Merla, Global Data Science
+ 
+
+00:00:18.280 --> 00:00:20.510 align:start position:0%
+Hi, I'm Sonny Merla, Global Data Science
+and<00:00:18.400><c> AI</c><00:00:18.640><c> Manager</c><00:00:19.000><c> at</c><00:00:19.160><c> Amplifon,</c><00:00:19.880><c> and</c><00:00:20.040><c> I'm</c><00:00:20.200><c> here</c>
+
+00:00:20.510 --> 00:00:20.520 align:start position:0%
+and AI Manager at Amplifon, and I'm here
+ 
+
+00:00:20.520 --> 00:00:22.630 align:start position:0%
+and AI Manager at Amplifon, and I'm here
+today<00:00:20.880><c> with</c><00:00:21.080><c> Mauro</c><00:00:21.360><c> Luchetti,</c><00:00:21.960><c> AI</c><00:00:22.280><c> Center</c><00:00:22.560><c> of</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+today with Mauro Luchetti, AI Center of
+ 
+
+00:00:22.640 --> 00:00:25.270 align:start position:0%
+today with Mauro Luchetti, AI Center of
+Excellence<00:00:23.680><c> Manager,</c><00:00:24.240><c> and</c><00:00:24.360><c> Mattia</c><00:00:24.680><c> Redaelli,</c>
+
+00:00:25.270 --> 00:00:25.280 align:start position:0%
+Excellence Manager, and Mattia Redaelli,
+ 
+
+00:00:25.280 --> 00:00:27.430 align:start position:0%
+Excellence Manager, and Mattia Redaelli,
+AI<00:00:25.560><c> Engineer</c><00:00:26.000><c> at</c><00:00:26.120><c> Quantica,</c><00:00:26.960><c> the</c><00:00:27.080><c> team</c><00:00:27.280><c> that</c>
+
+00:00:27.430 --> 00:00:27.440 align:start position:0%
+AI Engineer at Quantica, the team that
+ 
+
+00:00:27.440 --> 00:00:29.150 align:start position:0%
+AI Engineer at Quantica, the team that
+design<00:00:27.920><c> and</c><00:00:28.040><c> build</c><00:00:28.280><c> the</c><00:00:28.320><c> technical</c><00:00:28.760><c> solution</c>
+
+00:00:29.150 --> 00:00:29.160 align:start position:0%
+design and build the technical solution
+ 
+
+00:00:29.160 --> 00:00:31.150 align:start position:0%
+design and build the technical solution
+that<00:00:29.360><c> we</c><00:00:29.440><c> are</c><00:00:29.480><c> about</c><00:00:29.800><c> to</c><00:00:29.880><c> describe.</c>
+
+00:00:31.150 --> 00:00:31.160 align:start position:0%
+that we are about to describe.
+ 
+
+00:00:31.160 --> 00:00:32.910 align:start position:0%
+that we are about to describe.
+Today,<00:00:31.680><c> we</c><00:00:31.800><c> are</c><00:00:31.880><c> going</c><00:00:32.040><c> to</c><00:00:32.160><c> show</c><00:00:32.320><c> you</c><00:00:32.480><c> how</c>
+
+00:00:32.910 --> 00:00:32.920 align:start position:0%
+Today, we are going to show you how
+ 
+
+00:00:32.920 --> 00:00:35.150 align:start position:0%
+Today, we are going to show you how
+Amplifon<00:00:33.400><c> tackled</c><00:00:33.720><c> down</c><00:00:33.880><c> this</c><00:00:34.040><c> problem</c><00:00:34.720><c> by</c>
+
+00:00:35.150 --> 00:00:35.160 align:start position:0%
+Amplifon tackled down this problem by
+ 
+
+00:00:35.160 --> 00:00:38.110 align:start position:0%
+Amplifon tackled down this problem by
+launching<00:00:35.680><c> their</c><00:00:35.960><c> own</c><00:00:36.200><c> Amplify</c><00:00:36.760><c> program,</c><00:00:37.720><c> and</c>
+
+00:00:38.110 --> 00:00:38.120 align:start position:0%
+launching their own Amplify program, and
+ 
+
+00:00:38.120 --> 00:00:40.230 align:start position:0%
+launching their own Amplify program, and
+specifically<00:00:39.120><c> how</c><00:00:39.400><c> we</c><00:00:39.560><c> design</c><00:00:40.120><c> an</c>
+
+00:00:40.230 --> 00:00:40.240 align:start position:0%
+specifically how we design an
+ 
+
+00:00:40.240 --> 00:00:42.990 align:start position:0%
+specifically how we design an
+enterprise-grade<00:00:41.160><c> registry</c><00:00:41.600><c> system</c><00:00:42.160><c> for</c><00:00:42.440><c> MCP</c>
+
+00:00:42.990 --> 00:00:43.000 align:start position:0%
+enterprise-grade registry system for MCP
+ 
+
+00:00:43.000 --> 00:00:45.070 align:start position:0%
+enterprise-grade registry system for MCP
+and<00:00:43.240><c> A2A</c><00:00:43.800><c> agents.</c>
+
+00:00:45.070 --> 00:00:45.080 align:start position:0%
+and A2A agents.
+ 
+
+00:00:45.080 --> 00:00:46.790 align:start position:0%
+and A2A agents.
+For<00:00:45.200><c> who</c><00:00:45.360><c> don't</c><00:00:45.520><c> know</c><00:00:45.640><c> Amplifon,</c><00:00:46.200><c> Amplifon</c><00:00:46.640><c> is</c>
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+For who don't know Amplifon, Amplifon is
+ 
+
+00:00:46.800 --> 00:00:48.950 align:start position:0%
+For who don't know Amplifon, Amplifon is
+the<00:00:47.160><c> world</c><00:00:47.480><c> leader</c><00:00:48.240><c> in</c><00:00:48.480><c> hearing</c><00:00:48.800><c> care</c>
+
+00:00:48.950 --> 00:00:48.960 align:start position:0%
+the world leader in hearing care
+ 
+
+00:00:48.960 --> 00:00:51.470 align:start position:0%
+the world leader in hearing care
+solutions.<00:00:49.960><c> We</c><00:00:50.320><c> operate</c><00:00:50.720><c> across</c><00:00:51.000><c> 26</c>
+
+00:00:51.470 --> 00:00:51.480 align:start position:0%
+solutions. We operate across 26
+ 
+
+00:00:51.480 --> 00:00:53.750 align:start position:0%
+solutions. We operate across 26
+countries<00:00:51.920><c> around</c><00:00:52.160><c> the</c><00:00:52.240><c> globe.</c><00:00:52.880><c> We</c><00:00:53.080><c> are</c><00:00:53.600><c> more</c>
+
+00:00:53.750 --> 00:00:53.760 align:start position:0%
+countries around the globe. We are more
+ 
+
+00:00:53.760 --> 00:00:56.230 align:start position:0%
+countries around the globe. We are more
+than<00:00:53.920><c> 20,000</c><00:00:54.480><c> people,</c><00:00:54.960><c> and</c><00:00:55.200><c> we</c><00:00:55.400><c> operate</c><00:00:55.880><c> over</c>
+
+00:00:56.230 --> 00:00:56.240 align:start position:0%
+than 20,000 people, and we operate over
+ 
+
+00:00:56.240 --> 00:00:58.950 align:start position:0%
+than 20,000 people, and we operate over
+10,000<00:00:56.880><c> stores</c><00:00:57.560><c> across</c><00:00:57.840><c> the</c><00:00:57.920><c> globe.</c>
+
+00:00:58.950 --> 00:00:58.960 align:start position:0%
+10,000 stores across the globe.
+ 
+
+00:00:58.960 --> 00:01:01.230 align:start position:0%
+10,000 stores across the globe.
+We<00:00:59.160><c> are</c><00:00:59.320><c> in</c><00:00:59.440><c> the</c><00:00:59.720><c> AI</c><00:01:00.160><c> transformation.</c><00:01:01.040><c> Right</c>
+
+00:01:01.230 --> 00:01:01.240 align:start position:0%
+We are in the AI transformation. Right
+ 
+
+00:01:01.240 --> 00:01:03.270 align:start position:0%
+We are in the AI transformation. Right
+now,<00:01:01.600><c> we</c><00:01:01.840><c> are</c><00:01:01.920><c> experimenting</c><00:01:02.560><c> with</c><00:01:03.040><c> AI</c>
+
+00:01:03.270 --> 00:01:03.280 align:start position:0%
+now, we are experimenting with AI
+ 
+
+00:01:03.280 --> 00:01:05.670 align:start position:0%
+now, we are experimenting with AI
+solutions,<00:01:04.080><c> technologies,</c><00:01:05.120><c> and</c><00:01:05.280><c> so</c><00:01:05.440><c> we</c><00:01:05.560><c> are</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+solutions, technologies, and so we are
+ 
+
+00:01:05.680 --> 00:01:07.950 align:start position:0%
+solutions, technologies, and so we are
+facing<00:01:06.120><c> challenges</c><00:01:06.880><c> like</c><00:01:07.640><c> building</c>
+
+00:01:07.950 --> 00:01:07.960 align:start position:0%
+facing challenges like building
+ 
+
+00:01:07.960 --> 00:01:10.110 align:start position:0%
+facing challenges like building
+solutions<00:01:08.480><c> that</c><00:01:08.680><c> are</c><00:01:08.840><c> stable</c><00:01:09.200><c> over</c><00:01:09.400><c> time,</c><00:01:10.000><c> and</c>
+
+00:01:10.110 --> 00:01:10.120 align:start position:0%
+solutions that are stable over time, and
+ 
+
+00:01:10.120 --> 00:01:12.670 align:start position:0%
+solutions that are stable over time, and
+understanding<00:01:10.640><c> how</c><00:01:11.280><c> to</c><00:01:11.440><c> make</c><00:01:11.680><c> them</c><00:01:12.000><c> scale</c>
+
+00:01:12.670 --> 00:01:12.680 align:start position:0%
+understanding how to make them scale
+ 
+
+00:01:12.680 --> 00:01:15.150 align:start position:0%
+understanding how to make them scale
+responsibly<00:01:13.400><c> accordingly</c><00:01:14.000><c> to</c><00:01:14.640><c> guidelines</c>
+
+00:01:15.150 --> 00:01:15.160 align:start position:0%
+responsibly accordingly to guidelines
+ 
+
+00:01:15.160 --> 00:01:17.110 align:start position:0%
+responsibly accordingly to guidelines
+that<00:01:15.360><c> are</c><00:01:15.480><c> defined</c><00:01:15.880><c> centrally.</c>
+
+00:01:17.110 --> 00:01:17.120 align:start position:0%
+that are defined centrally.
+ 
+
+00:01:17.120 --> 00:01:19.750 align:start position:0%
+that are defined centrally.
+So,<00:01:17.200><c> how</c><00:01:17.480><c> Amplifon</c><00:01:18.080><c> decided</c><00:01:18.640><c> to</c><00:01:19.000><c> adopt</c><00:01:19.360><c> AI</c><00:01:19.600><c> at</c>
+
+00:01:19.750 --> 00:01:19.760 align:start position:0%
+So, how Amplifon decided to adopt AI at
+ 
+
+00:01:19.760 --> 00:01:22.630 align:start position:0%
+So, how Amplifon decided to adopt AI at
+scale?<00:01:20.400><c> We</c><00:01:20.720><c> launched</c><00:01:21.280><c> in</c><00:01:21.400><c> January</c><00:01:21.680><c> 2025</c><00:01:22.520><c> the</c>
+
+00:01:22.630 --> 00:01:22.640 align:start position:0%
+scale? We launched in January 2025 the
+ 
+
+00:01:22.640 --> 00:01:24.070 align:start position:0%
+scale? We launched in January 2025 the
+Amplify<00:01:23.000><c> program.</c>
+
+00:01:24.070 --> 00:01:24.080 align:start position:0%
+Amplify program.
+ 
+
+00:01:24.080 --> 00:01:25.430 align:start position:0%
+Amplify program.
+It's<00:01:24.280><c> a</c><00:01:24.360><c> global</c><00:01:24.680><c> and</c><00:01:24.800><c> cross-functional</c>
+
+00:01:25.430 --> 00:01:25.440 align:start position:0%
+It's a global and cross-functional
+ 
+
+00:01:25.440 --> 00:01:28.630 align:start position:0%
+It's a global and cross-functional
+program<00:01:26.000><c> designed</c><00:01:26.440><c> to</c><00:01:27.320><c> set</c><00:01:27.600><c> the</c><00:01:27.720><c> rules</c><00:01:28.320><c> for</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+program designed to set the rules for
+ 
+
+00:01:28.640 --> 00:01:31.070 align:start position:0%
+program designed to set the rules for
+the<00:01:28.840><c> AI</c><00:01:29.080><c> adoption.</c><00:01:30.120><c> And</c><00:01:30.280><c> it</c><00:01:30.400><c> is</c><00:01:30.560><c> basic</c>
+
+00:01:31.070 --> 00:01:31.080 align:start position:0%
+the AI adoption. And it is basic
+ 
+
+00:01:31.080 --> 00:01:34.270 align:start position:0%
+the AI adoption. And it is basic
+basically<00:01:31.520><c> composed</c><00:01:32.080><c> by</c><00:01:33.000><c> an</c><00:01:33.160><c> operating</c><00:01:33.600><c> model</c>
+
+00:01:34.270 --> 00:01:34.280 align:start position:0%
+basically composed by an operating model
+ 
+
+00:01:34.280 --> 00:01:36.150 align:start position:0%
+basically composed by an operating model
+and<00:01:34.480><c> an</c><00:01:34.600><c> execution</c><00:01:35.160><c> plan.</c><00:01:35.720><c> The</c><00:01:35.800><c> operating</c>
+
+00:01:36.150 --> 00:01:36.160 align:start position:0%
+and an execution plan. The operating
+ 
+
+00:01:36.160 --> 00:01:39.030 align:start position:0%
+and an execution plan. The operating
+model<00:01:36.600><c> is</c><00:01:37.160><c> based</c><00:01:37.480><c> on</c><00:01:37.680><c> two</c><00:01:37.880><c> main</c><00:01:38.440><c> sources,</c><00:01:38.920><c> the</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+model is based on two main sources, the
+ 
+
+00:01:39.040 --> 00:01:40.830 align:start position:0%
+model is based on two main sources, the
+control<00:01:39.400><c> tower</c><00:01:39.760><c> and</c><00:01:39.920><c> the</c><00:01:40.000><c> committee.</c><00:01:40.760><c> The</c>
+
+00:01:40.830 --> 00:01:40.840 align:start position:0%
+control tower and the committee. The
+ 
+
+00:01:40.840 --> 00:01:42.790 align:start position:0%
+control tower and the committee. The
+control<00:01:41.160><c> tower</c><00:01:41.440><c> is</c><00:01:41.600><c> a</c><00:01:41.680><c> limited</c><00:01:42.040><c> set</c><00:01:42.240><c> of</c><00:01:42.360><c> people</c>
+
+00:01:42.790 --> 00:01:42.800 align:start position:0%
+control tower is a limited set of people
+ 
+
+00:01:42.800 --> 00:01:45.310 align:start position:0%
+control tower is a limited set of people
+including<00:01:43.240><c> chief</c><00:01:44.040><c> decide</c><00:01:44.440><c> deciding</c><00:01:44.960><c> what</c><00:01:45.160><c> are</c>
+
+00:01:45.310 --> 00:01:45.320 align:start position:0%
+including chief decide deciding what are
+ 
+
+00:01:45.320 --> 00:01:47.150 align:start position:0%
+including chief decide deciding what are
+the<00:01:45.440><c> guidelines</c><00:01:45.960><c> for</c><00:01:46.240><c> security,</c><00:01:46.800><c> legal,</c>
+
+00:01:47.150 --> 00:01:47.160 align:start position:0%
+the guidelines for security, legal,
+ 
+
+00:01:47.160 --> 00:01:49.670 align:start position:0%
+the guidelines for security, legal,
+technology,<00:01:47.880><c> but</c><00:01:48.160><c> also</c><00:01:49.160><c> what</c><00:01:49.400><c> are</c><00:01:49.520><c> the</c>
+
+00:01:49.670 --> 00:01:49.680 align:start position:0%
+technology, but also what are the
+ 
+
+00:01:49.680 --> 00:01:52.390 align:start position:0%
+technology, but also what are the
+strategy<00:01:50.720><c> the</c><00:01:50.920><c> the</c><00:01:51.080><c> focus</c><00:01:51.480><c> for</c><00:01:51.720><c> the</c><00:01:51.800><c> strategy,</c>
+
+00:01:52.390 --> 00:01:52.400 align:start position:0%
+strategy the the focus for the strategy,
+ 
+
+00:01:52.400 --> 00:01:54.270 align:start position:0%
+strategy the the focus for the strategy,
+and<00:01:52.560><c> so</c><00:01:52.680><c> the</c><00:01:52.840><c> use</c><00:01:53.080><c> cases</c>
+
+00:01:54.270 --> 00:01:54.280 align:start position:0%
+and so the use cases
+ 
+
+00:01:54.280 --> 00:01:56.390 align:start position:0%
+and so the use cases
+to<00:01:54.440><c> develop</c><00:01:54.800><c> us</c><00:01:54.960><c> first.</c><00:01:55.760><c> Then</c><00:01:56.000><c> there</c><00:01:56.120><c> is</c><00:01:56.280><c> the</c>
+
+00:01:56.390 --> 00:01:56.400 align:start position:0%
+to develop us first. Then there is the
+ 
+
+00:01:56.400 --> 00:01:59.310 align:start position:0%
+to develop us first. Then there is the
+committee<00:01:57.640><c> that</c><00:01:57.920><c> has</c><00:01:58.160><c> the</c><00:01:58.320><c> responsibility</c>
+
+00:01:59.310 --> 00:01:59.320 align:start position:0%
+committee that has the responsibility
+ 
+
+00:01:59.320 --> 00:02:01.790 align:start position:0%
+committee that has the responsibility
+for<00:02:00.000><c> running</c><00:02:00.560><c> the</c><00:02:00.680><c> strategy</c><00:02:01.600><c> in</c><00:02:01.720><c> the</c>
+
+00:02:01.790 --> 00:02:01.800 align:start position:0%
+for running the strategy in the
+ 
+
+00:02:01.800 --> 00:02:03.750 align:start position:0%
+for running the strategy in the
+countries,<00:02:02.360><c> but</c><00:02:02.520><c> also</c><00:02:02.760><c> in</c><00:02:02.840><c> the</c><00:02:03.200><c> the</c><00:02:03.320><c> corporate</c>
+
+00:02:03.750 --> 00:02:03.760 align:start position:0%
+countries, but also in the the corporate
+ 
+
+00:02:03.760 --> 00:02:06.590 align:start position:0%
+countries, but also in the the corporate
+side.<00:02:04.480><c> So,</c><00:02:05.040><c> prioritizing</c><00:02:05.960><c> also</c><00:02:06.240><c> the</c><00:02:06.360><c> use</c>
+
+00:02:06.590 --> 00:02:06.600 align:start position:0%
+side. So, prioritizing also the use
+ 
+
+00:02:06.600 --> 00:02:09.109 align:start position:0%
+side. So, prioritizing also the use
+cases<00:02:07.200><c> more</c><00:02:07.360><c> granularly,</c><00:02:08.440><c> those</c><00:02:08.679><c> are</c><00:02:08.759><c> to</c><00:02:09.000><c> to</c>
+
+00:02:09.109 --> 00:02:09.119 align:start position:0%
+cases more granularly, those are to to
+ 
+
+00:02:09.119 --> 00:02:11.350 align:start position:0%
+cases more granularly, those are to to
+release<00:02:09.399><c> the</c><00:02:09.520><c> value</c><00:02:09.759><c> to</c><00:02:09.880><c> the</c><00:02:09.960><c> organization.</c>
+
+00:02:11.350 --> 00:02:11.360 align:start position:0%
+release the value to the organization.
+ 
+
+00:02:11.360 --> 00:02:13.190 align:start position:0%
+release the value to the organization.
+Which<00:02:11.600><c> are</c><00:02:11.720><c> the</c><00:02:11.840><c> main</c><00:02:12.040><c> focus</c><00:02:12.400><c> of</c><00:02:12.560><c> the</c><00:02:12.800><c> Amplify</c>
+
+00:02:13.190 --> 00:02:13.200 align:start position:0%
+Which are the main focus of the Amplify
+ 
+
+00:02:13.200 --> 00:02:15.110 align:start position:0%
+Which are the main focus of the Amplify
+program?<00:02:13.840><c> We</c><00:02:14.000><c> have</c><00:02:14.200><c> three</c><00:02:14.400><c> of</c><00:02:14.520><c> them,</c>
+
+00:02:15.110 --> 00:02:15.120 align:start position:0%
+program? We have three of them,
+ 
+
+00:02:15.120 --> 00:02:17.390 align:start position:0%
+program? We have three of them,
+governance,<00:02:15.680><c> platform,</c><00:02:16.200><c> and</c><00:02:16.360><c> factory.</c><00:02:17.320><c> So,</c>
+
+00:02:17.390 --> 00:02:17.400 align:start position:0%
+governance, platform, and factory. So,
+ 
+
+00:02:17.400 --> 00:02:18.910 align:start position:0%
+governance, platform, and factory. So,
+the<00:02:17.520><c> governance,</c><00:02:18.040><c> we</c><00:02:18.160><c> want</c><00:02:18.360><c> to</c><00:02:18.440><c> ensure</c><00:02:18.800><c> the</c>
+
+00:02:18.910 --> 00:02:18.920 align:start position:0%
+the governance, we want to ensure the
+ 
+
+00:02:18.920 --> 00:02:21.270 align:start position:0%
+the governance, we want to ensure the
+alignment<00:02:19.400><c> with</c><00:02:19.600><c> AI</c><00:02:19.920><c> regulatory,</c>
+
+00:02:21.270 --> 00:02:21.280 align:start position:0%
+alignment with AI regulatory,
+ 
+
+00:02:21.280 --> 00:02:23.110 align:start position:0%
+alignment with AI regulatory,
+also<00:02:21.560><c> the</c><00:02:21.680><c> strategy</c><00:02:22.320><c> and</c><00:02:22.480><c> the</c><00:02:22.560><c> guidelines</c>
+
+00:02:23.110 --> 00:02:23.120 align:start position:0%
+also the strategy and the guidelines
+ 
+
+00:02:23.120 --> 00:02:25.550 align:start position:0%
+also the strategy and the guidelines
+that<00:02:23.400><c> we</c><00:02:23.480><c> define</c><00:02:23.960><c> centrally.</c><00:02:25.000><c> So,</c><00:02:25.120><c> it's</c><00:02:25.320><c> also</c>
+
+00:02:25.550 --> 00:02:25.560 align:start position:0%
+that we define centrally. So, it's also
+ 
+
+00:02:25.560 --> 00:02:28.510 align:start position:0%
+that we define centrally. So, it's also
+a<00:02:25.600><c> matter</c><00:02:26.000><c> of</c><00:02:26.560><c> make</c><00:02:26.800><c> the</c><00:02:26.880><c> people</c><00:02:27.200><c> aware</c><00:02:27.800><c> of</c><00:02:28.440><c> the</c>
+
+00:02:28.510 --> 00:02:28.520 align:start position:0%
+a matter of make the people aware of the
+ 
+
+00:02:28.520 --> 00:02:30.710 align:start position:0%
+a matter of make the people aware of the
+existence<00:02:29.000><c> of</c><00:02:29.240><c> a</c><00:02:29.400><c> program,</c><00:02:30.040><c> the</c><00:02:30.320><c> also</c><00:02:30.600><c> the</c>
+
+00:02:30.710 --> 00:02:30.720 align:start position:0%
+existence of a program, the also the
+ 
+
+00:02:30.720 --> 00:02:33.470 align:start position:0%
+existence of a program, the also the
+rules<00:02:31.200><c> of</c><00:02:31.520><c> the</c><00:02:31.600><c> play,</c><00:02:31.960><c> and</c><00:02:32.160><c> also</c><00:02:32.440><c> then</c>
+
+00:02:33.470 --> 00:02:33.480 align:start position:0%
+rules of the play, and also then
+ 
+
+00:02:33.480 --> 00:02:36.030 align:start position:0%
+rules of the play, and also then
+make<00:02:33.720><c> all</c><00:02:33.880><c> the</c><00:02:33.960><c> people</c><00:02:34.360><c> informed</c><00:02:35.360><c> of</c><00:02:35.720><c> how</c><00:02:35.880><c> we</c>
+
+00:02:36.030 --> 00:02:36.040 align:start position:0%
+make all the people informed of how we
+ 
+
+00:02:36.040 --> 00:02:38.310 align:start position:0%
+make all the people informed of how we
+deliver<00:02:36.600><c> and</c><00:02:36.800><c> roll</c><00:02:37.000><c> out</c><00:02:37.200><c> the</c><00:02:37.280><c> value.</c><00:02:38.080><c> Then</c>
+
+00:02:38.310 --> 00:02:38.320 align:start position:0%
+deliver and roll out the value. Then
+ 
+
+00:02:38.320 --> 00:02:41.030 align:start position:0%
+deliver and roll out the value. Then
+there<00:02:38.440><c> is</c><00:02:38.560><c> the</c><00:02:38.640><c> platform</c><00:02:39.120><c> side.</c><00:02:39.560><c> So,</c><00:02:39.760><c> we</c><00:02:39.960><c> have</c>
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+there is the platform side. So, we have
+ 
+
+00:02:41.040 --> 00:02:43.550 align:start position:0%
+there is the platform side. So, we have
+to<00:02:41.680><c> set</c><00:02:41.960><c> up</c><00:02:42.080><c> the</c><00:02:42.200><c> infrastructure</c><00:02:42.960><c> on</c><00:02:43.160><c> which</c><00:02:43.400><c> we</c>
+
+00:02:43.550 --> 00:02:43.560 align:start position:0%
+to set up the infrastructure on which we
+ 
+
+00:02:43.560 --> 00:02:46.310 align:start position:0%
+to set up the infrastructure on which we
+operate<00:02:44.200><c> as</c><00:02:44.640><c> developers</c><00:02:45.320><c> and</c><00:02:45.520><c> implementation</c>
+
+00:02:46.310 --> 00:02:46.320 align:start position:0%
+operate as developers and implementation
+ 
+
+00:02:46.320 --> 00:02:49.430 align:start position:0%
+operate as developers and implementation
+teams.<00:02:47.120><c> So,</c><00:02:47.560><c> certifying</c><00:02:48.320><c> infrastructures</c>
+
+00:02:49.430 --> 00:02:49.440 align:start position:0%
+teams. So, certifying infrastructures
+ 
+
+00:02:49.440 --> 00:02:52.590 align:start position:0%
+teams. So, certifying infrastructures
+and<00:02:49.880><c> way</c><00:02:50.080><c> of</c><00:02:50.240><c> working</c><00:02:50.960><c> to</c><00:02:51.120><c> deliver</c><00:02:51.640><c> processes</c>
+
+00:02:52.590 --> 00:02:52.600 align:start position:0%
+and way of working to deliver processes
+ 
+
+00:02:52.600 --> 00:02:55.470 align:start position:0%
+and way of working to deliver processes
+and<00:02:52.840><c> also</c><00:02:53.440><c> services</c><00:02:54.400><c> to</c>
+
+00:02:55.470 --> 00:02:55.480 align:start position:0%
+and also services to
+ 
+
+00:02:55.480 --> 00:02:57.950 align:start position:0%
+and also services to
+scale<00:02:55.800><c> AI</c><00:02:56.040><c> application.</c><00:02:57.200><c> Then</c><00:02:57.400><c> we</c><00:02:57.520><c> have</c><00:02:57.720><c> the</c>
+
+00:02:57.950 --> 00:02:57.960 align:start position:0%
+scale AI application. Then we have the
+ 
+
+00:02:57.960 --> 00:02:59.790 align:start position:0%
+scale AI application. Then we have the
+the<00:02:58.080><c> factory.</c><00:02:58.640><c> So,</c><00:02:58.920><c> this</c><00:02:59.120><c> is</c><00:02:59.280><c> the</c><00:02:59.440><c> most</c>
+
+00:02:59.790 --> 00:02:59.800 align:start position:0%
+the factory. So, this is the most
+ 
+
+00:02:59.800 --> 00:03:00.950 align:start position:0%
+the factory. So, this is the most
+practical
+
+00:03:00.950 --> 00:03:00.960 align:start position:0%
+practical
+ 
+
+00:03:00.960 --> 00:03:02.590 align:start position:0%
+practical
+part<00:03:01.320><c> of</c><00:03:01.400><c> the</c><00:03:01.520><c> story.</c><00:03:01.880><c> So,</c><00:03:02.080><c> we</c><00:03:02.240><c> have</c><00:03:02.520><c> the</c>
+
+00:03:02.590 --> 00:03:02.600 align:start position:0%
+part of the story. So, we have the
+ 
+
+00:03:02.600 --> 00:03:05.710 align:start position:0%
+part of the story. So, we have the
+development<00:03:03.200><c> teams</c><00:03:03.920><c> that</c><00:03:04.120><c> needs</c><00:03:04.440><c> to</c><00:03:04.600><c> have</c>
+
+00:03:05.710 --> 00:03:05.720 align:start position:0%
+development teams that needs to have
+ 
+
+00:03:05.720 --> 00:03:08.750 align:start position:0%
+development teams that needs to have
+a<00:03:05.800><c> focus</c><00:03:06.440><c> on</c><00:03:06.880><c> rolling</c><00:03:07.320><c> out</c><00:03:07.800><c> solutions</c><00:03:08.520><c> to</c><00:03:08.640><c> the</c>
+
+00:03:08.750 --> 00:03:08.760 align:start position:0%
+a focus on rolling out solutions to the
+ 
+
+00:03:08.760 --> 00:03:12.270 align:start position:0%
+a focus on rolling out solutions to the
+market,<00:03:09.640><c> also</c><00:03:10.360><c> caring</c><00:03:10.640><c> about</c><00:03:11.080><c> the</c><00:03:11.760><c> rollout</c>
+
+00:03:12.270 --> 00:03:12.280 align:start position:0%
+market, also caring about the rollout
+ 
+
+00:03:12.280 --> 00:03:14.270 align:start position:0%
+market, also caring about the rollout
+across<00:03:12.600><c> countries</c><00:03:13.000><c> that</c><00:03:13.320><c> is</c><00:03:13.560><c> very</c><00:03:13.760><c> important</c>
+
+00:03:14.270 --> 00:03:14.280 align:start position:0%
+across countries that is very important
+ 
+
+00:03:14.280 --> 00:03:16.590 align:start position:0%
+across countries that is very important
+for<00:03:14.480><c> for</c><00:03:14.720><c> Amplifon.</c><00:03:15.200><c> So,</c><00:03:15.880><c> thinking</c><00:03:16.200><c> about</c><00:03:16.520><c> the</c>
+
+00:03:16.590 --> 00:03:16.600 align:start position:0%
+for for Amplifon. So, thinking about the
+ 
+
+00:03:16.600 --> 00:03:19.430 align:start position:0%
+for for Amplifon. So, thinking about the
+solution<00:03:17.360><c> as</c><00:03:17.560><c> a</c><00:03:17.600><c> scalable</c><00:03:18.400><c> scalable</c><00:03:18.960><c> and</c><00:03:19.160><c> also</c>
+
+00:03:19.430 --> 00:03:19.440 align:start position:0%
+solution as a scalable scalable and also
+ 
+
+00:03:19.440 --> 00:03:22.470 align:start position:0%
+solution as a scalable scalable and also
+reusable<00:03:20.360><c> across</c><00:03:20.680><c> different</c><00:03:21.000><c> domains.</c>
+
+00:03:22.470 --> 00:03:22.480 align:start position:0%
+reusable across different domains.
+ 
+
+00:03:22.480 --> 00:03:24.030 align:start position:0%
+reusable across different domains.
+So,<00:03:22.680><c> which</c><00:03:22.880><c> are</c><00:03:23.000><c> the</c><00:03:23.080><c> main</c><00:03:23.280><c> problems</c><00:03:23.720><c> that</c><00:03:23.920><c> we</c>
+
+00:03:24.030 --> 00:03:24.040 align:start position:0%
+So, which are the main problems that we
+ 
+
+00:03:24.040 --> 00:03:26.270 align:start position:0%
+So, which are the main problems that we
+see<00:03:24.680><c> as</c><00:03:24.840><c> an</c><00:03:24.920><c> organization</c><00:03:25.520><c> that</c><00:03:25.680><c> tries</c><00:03:26.000><c> to</c>
+
+00:03:26.270 --> 00:03:26.280 align:start position:0%
+see as an organization that tries to
+ 
+
+00:03:26.280 --> 00:03:28.510 align:start position:0%
+see as an organization that tries to
+roll<00:03:26.480><c> out</c><00:03:26.680><c> AI</c><00:03:26.920><c> at</c><00:03:27.080><c> scale</c><00:03:27.560><c> in</c><00:03:27.680><c> a</c><00:03:27.760><c> pervasive</c><00:03:28.360><c> way</c>
+
+00:03:28.510 --> 00:03:28.520 align:start position:0%
+roll out AI at scale in a pervasive way
+ 
+
+00:03:28.520 --> 00:03:30.510 align:start position:0%
+roll out AI at scale in a pervasive way
+in<00:03:28.640><c> the</c><00:03:28.720><c> organization?</c><00:03:29.720><c> So,</c><00:03:29.920><c> we</c><00:03:30.040><c> foresee</c><00:03:30.400><c> for</c>
+
+00:03:30.510 --> 00:03:30.520 align:start position:0%
+in the organization? So, we foresee for
+ 
+
+00:03:30.520 --> 00:03:32.950 align:start position:0%
+in the organization? So, we foresee for
+sure<00:03:31.320><c> maintenance</c><00:03:31.840><c> and</c><00:03:31.960><c> operations</c>
+
+00:03:32.950 --> 00:03:32.960 align:start position:0%
+sure maintenance and operations
+ 
+
+00:03:32.960 --> 00:03:35.430 align:start position:0%
+sure maintenance and operations
+problems,<00:03:33.920><c> governance</c><00:03:34.440><c> and</c><00:03:34.520><c> compliance</c>
+
+00:03:35.430 --> 00:03:35.440 align:start position:0%
+problems, governance and compliance
+ 
+
+00:03:35.440 --> 00:03:37.430 align:start position:0%
+problems, governance and compliance
+problems,<00:03:35.800><c> but</c><00:03:35.960><c> also</c><00:03:36.240><c> enterprise</c><00:03:36.880><c> scaling.</c>
+
+00:03:37.430 --> 00:03:37.440 align:start position:0%
+problems, but also enterprise scaling.
+ 
+
+00:03:37.440 --> 00:03:39.510 align:start position:0%
+problems, but also enterprise scaling.
+So,<00:03:37.680><c> how</c><00:03:37.960><c> the</c><00:03:38.240><c> developers</c>
+
+00:03:39.510 --> 00:03:39.520 align:start position:0%
+So, how the developers
+ 
+
+00:03:39.520 --> 00:03:40.710 align:start position:0%
+So, how the developers
+needs<00:03:39.800><c> to</c>
+
+00:03:40.710 --> 00:03:40.720 align:start position:0%
+needs to
+ 
+
+00:03:40.720 --> 00:03:42.670 align:start position:0%
+needs to
+develop<00:03:41.160><c> to</c><00:03:41.280><c> make</c><00:03:41.600><c> the</c><00:03:41.880><c> the</c><00:03:42.000><c> solution</c><00:03:42.360><c> stable</c>
+
+00:03:42.670 --> 00:03:42.680 align:start position:0%
+develop to make the the solution stable
+ 
+
+00:03:42.680 --> 00:03:43.990 align:start position:0%
+develop to make the the solution stable
+over<00:03:42.880><c> time.</c>
+
+00:03:43.990 --> 00:03:44.000 align:start position:0%
+over time.
+ 
+
+00:03:44.000 --> 00:03:44.950 align:start position:0%
+over time.
+Um
+
+00:03:44.950 --> 00:03:44.960 align:start position:0%
+Um
+ 
+
+00:03:44.960 --> 00:03:46.110 align:start position:0%
+Um
+Starting<00:03:45.280><c> from</c><00:03:45.400><c> the</c><00:03:45.520><c> maintenance</c><00:03:46.000><c> and</c>
+
+00:03:46.110 --> 00:03:46.120 align:start position:0%
+Starting from the maintenance and
+ 
+
+00:03:46.120 --> 00:03:48.110 align:start position:0%
+Starting from the maintenance and
+operations<00:03:46.680><c> side,</c><00:03:47.520><c> uh</c>
+
+00:03:48.110 --> 00:03:48.120 align:start position:0%
+operations side, uh
+ 
+
+00:03:48.120 --> 00:03:50.190 align:start position:0%
+operations side, uh
+even<00:03:48.320><c> the</c><00:03:48.560><c> short</c><00:03:49.040><c> life</c><00:03:49.280><c> cycle</c><00:03:49.640><c> of</c><00:03:49.760><c> the</c><00:03:49.880><c> LLM</c>
+
+00:03:50.190 --> 00:03:50.200 align:start position:0%
+even the short life cycle of the LLM
+ 
+
+00:03:50.200 --> 00:03:51.990 align:start position:0%
+even the short life cycle of the LLM
+models<00:03:50.520><c> that</c><00:03:50.720><c> are</c><00:03:50.840><c> at</c><00:03:50.960><c> the</c><00:03:51.080><c> core</c><00:03:51.480><c> of</c><00:03:51.640><c> the</c><00:03:51.760><c> AI</c>
+
+00:03:51.990 --> 00:03:52.000 align:start position:0%
+models that are at the core of the AI
+ 
+
+00:03:52.000 --> 00:03:53.670 align:start position:0%
+models that are at the core of the AI
+application<00:03:52.600><c> and</c><00:03:52.720><c> the</c><00:03:52.800><c> AI</c><00:03:53.080><c> agents</c><00:03:53.440><c> that</c><00:03:53.600><c> we</c>
+
+00:03:53.670 --> 00:03:53.680 align:start position:0%
+application and the AI agents that we
+ 
+
+00:03:53.680 --> 00:03:56.110 align:start position:0%
+application and the AI agents that we
+develop<00:03:54.160><c> and</c><00:03:54.280><c> roll</c><00:03:54.480><c> out,</c><00:03:55.120><c> we</c><00:03:55.280><c> want</c><00:03:55.520><c> to</c><00:03:55.600><c> be</c><00:03:55.760><c> sure</c>
+
+00:03:56.110 --> 00:03:56.120 align:start position:0%
+develop and roll out, we want to be sure
+ 
+
+00:03:56.120 --> 00:03:59.230 align:start position:0%
+develop and roll out, we want to be sure
+that<00:03:56.360><c> we</c><00:03:56.480><c> are</c><00:03:56.720><c> able</c><00:03:57.080><c> to</c><00:03:57.520><c> address</c>
+
+00:03:59.230 --> 00:03:59.240 align:start position:0%
+that we are able to address
+ 
+
+00:03:59.240 --> 00:04:02.630 align:start position:0%
+that we are able to address
+the<00:03:59.640><c> the</c><00:03:59.760><c> usage</c><00:04:00.960><c> of</c><00:04:01.200><c> this</c><00:04:01.240><c> kind</c><00:04:01.480><c> of</c><00:04:01.600><c> LLM</c><00:04:02.040><c> LLMs</c>
+
+00:04:02.630 --> 00:04:02.640 align:start position:0%
+the the usage of this kind of LLM LLMs
+ 
+
+00:04:02.640 --> 00:04:05.190 align:start position:0%
+the the usage of this kind of LLM LLMs
+across<00:04:03.000><c> the</c><00:04:03.480><c> the</c><00:04:03.640><c> use</c><00:04:03.840><c> cases</c><00:04:04.200><c> that</c><00:04:04.520><c> we</c><00:04:04.840><c> we</c><00:04:05.000><c> roll</c>
+
+00:04:05.190 --> 00:04:05.200 align:start position:0%
+across the the use cases that we we roll
+ 
+
+00:04:05.200 --> 00:04:07.470 align:start position:0%
+across the the use cases that we we roll
+out.<00:04:05.880><c> So,</c><00:04:06.040><c> we</c><00:04:06.160><c> want</c><00:04:06.400><c> to</c><00:04:06.520><c> be</c><00:04:07.000><c> ready</c><00:04:07.360><c> and</c>
+
+00:04:07.470 --> 00:04:07.480 align:start position:0%
+out. So, we want to be ready and
+ 
+
+00:04:07.480 --> 00:04:09.990 align:start position:0%
+out. So, we want to be ready and
+prepared<00:04:07.960><c> to</c><00:04:08.160><c> act</c><00:04:08.520><c> promptly</c><00:04:09.280><c> every</c><00:04:09.520><c> time</c><00:04:09.800><c> we</c>
+
+00:04:09.990 --> 00:04:10.000 align:start position:0%
+prepared to act promptly every time we
+ 
+
+00:04:10.000 --> 00:04:12.310 align:start position:0%
+prepared to act promptly every time we
+we<00:04:10.160><c> see</c><00:04:10.440><c> a</c><00:04:10.480><c> disruption</c><00:04:11.080><c> in</c><00:04:11.160><c> the</c><00:04:11.280><c> model</c><00:04:11.920><c> we</c><00:04:12.080><c> use</c>
+
+00:04:12.310 --> 00:04:12.320 align:start position:0%
+we see a disruption in the model we use
+ 
+
+00:04:12.320 --> 00:04:14.830 align:start position:0%
+we see a disruption in the model we use
+in<00:04:12.440><c> the</c><00:04:12.560><c> use</c><00:04:12.800><c> case.</c><00:04:13.720><c> Um</c><00:04:14.080><c> on</c><00:04:14.240><c> the</c><00:04:14.280><c> other</c><00:04:14.480><c> side</c>
+
+00:04:14.830 --> 00:04:14.840 align:start position:0%
+in the use case. Um on the other side
+ 
+
+00:04:14.840 --> 00:04:16.310 align:start position:0%
+in the use case. Um on the other side
+with<00:04:15.000><c> the</c><00:04:15.120><c> governance</c><00:04:15.560><c> and</c><00:04:15.640><c> compliance,</c><00:04:16.160><c> we</c>
+
+00:04:16.310 --> 00:04:16.320 align:start position:0%
+with the governance and compliance, we
+ 
+
+00:04:16.320 --> 00:04:18.470 align:start position:0%
+with the governance and compliance, we
+we<00:04:16.480><c> need</c><00:04:16.720><c> to</c><00:04:16.840><c> be</c><00:04:17.239><c> sure</c>
+
+00:04:18.470 --> 00:04:18.480 align:start position:0%
+we need to be sure
+ 
+
+00:04:18.480 --> 00:04:20.910 align:start position:0%
+we need to be sure
+to<00:04:18.680><c> know</c><00:04:19.040><c> about</c><00:04:19.959><c> where</c><00:04:20.120><c> we</c><00:04:20.280><c> use</c><00:04:20.480><c> AI</c><00:04:20.760><c> in</c><00:04:20.840><c> the</c>
+
+00:04:20.910 --> 00:04:20.920 align:start position:0%
+to know about where we use AI in the
+ 
+
+00:04:20.920 --> 00:04:22.230 align:start position:0%
+to know about where we use AI in the
+organization,<00:04:21.519><c> what</c><00:04:21.680><c> are</c><00:04:21.799><c> the</c><00:04:21.880><c> main</c><00:04:22.079><c> use</c>
+
+00:04:22.230 --> 00:04:22.240 align:start position:0%
+organization, what are the main use
+ 
+
+00:04:22.240 --> 00:04:24.670 align:start position:0%
+organization, what are the main use
+cases,<00:04:22.920><c> also</c><00:04:23.160><c> for</c><00:04:23.280><c> the</c><00:04:23.400><c> regulatory</c>
+
+00:04:24.670 --> 00:04:24.680 align:start position:0%
+cases, also for the regulatory
+ 
+
+00:04:24.680 --> 00:04:27.550 align:start position:0%
+cases, also for the regulatory
+point<00:04:24.840><c> of</c><00:04:24.920><c> view,</c><00:04:25.080><c> but</c><00:04:25.240><c> also</c><00:04:25.480><c> for</c><00:04:25.640><c> the</c><00:04:25.760><c> usage</c>
+
+00:04:27.550 --> 00:04:27.560 align:start position:0%
+point of view, but also for the usage
+ 
+
+00:04:27.560 --> 00:04:29.390 align:start position:0%
+point of view, but also for the usage
+across<00:04:27.880><c> the</c><00:04:27.920><c> organization.</c><00:04:28.840><c> So,</c><00:04:29.000><c> we</c><00:04:29.120><c> want</c><00:04:29.280><c> to</c>
+
+00:04:29.390 --> 00:04:29.400 align:start position:0%
+across the organization. So, we want to
+ 
+
+00:04:29.400 --> 00:04:31.910 align:start position:0%
+across the organization. So, we want to
+have<00:04:29.640><c> a</c><00:04:29.720><c> catalog.</c><00:04:30.280><c> We</c><00:04:30.400><c> want</c><00:04:30.600><c> to</c><00:04:30.720><c> have</c><00:04:30.960><c> a</c><00:04:31.040><c> way</c><00:04:31.800><c> to</c>
+
+00:04:31.910 --> 00:04:31.920 align:start position:0%
+have a catalog. We want to have a way to
+ 
+
+00:04:31.920 --> 00:04:33.990 align:start position:0%
+have a catalog. We want to have a way to
+understand<00:04:32.320><c> also</c><00:04:32.560><c> the</c><00:04:32.840><c> assets</c><00:04:33.360><c> used</c><00:04:33.680><c> by</c><00:04:33.840><c> the</c>
+
+00:04:33.990 --> 00:04:34.000 align:start position:0%
+understand also the assets used by the
+ 
+
+00:04:34.000 --> 00:04:36.190 align:start position:0%
+understand also the assets used by the
+single<00:04:34.880><c> use</c><00:04:35.160><c> cases.</c><00:04:35.720><c> So,</c><00:04:35.880><c> what</c><00:04:36.080><c> they</c>
+
+00:04:36.190 --> 00:04:36.200 align:start position:0%
+single use cases. So, what they
+ 
+
+00:04:36.200 --> 00:04:38.430 align:start position:0%
+single use cases. So, what they
+implemented,<00:04:36.800><c> what</c><00:04:36.920><c> they</c><00:04:37.120><c> used</c>
+
+00:04:38.430 --> 00:04:38.440 align:start position:0%
+implemented, what they used
+ 
+
+00:04:38.440 --> 00:04:41.470 align:start position:0%
+implemented, what they used
+to<00:04:38.680><c> also</c><00:04:39.040><c> create</c><00:04:39.440><c> a</c><00:04:39.480><c> sort</c><00:04:39.920><c> of</c>
+
+00:04:41.470 --> 00:04:41.480 align:start position:0%
+to also create a sort of
+ 
+
+00:04:41.480 --> 00:04:43.670 align:start position:0%
+to also create a sort of
+lineage<00:04:41.960><c> of</c><00:04:42.120><c> the</c><00:04:42.240><c> information.</c><00:04:43.320><c> On</c><00:04:43.440><c> the</c><00:04:43.520><c> other</c>
+
+00:04:43.670 --> 00:04:43.680 align:start position:0%
+lineage of the information. On the other
+ 
+
+00:04:43.680 --> 00:04:46.310 align:start position:0%
+lineage of the information. On the other
+side<00:04:44.000><c> then</c><00:04:44.200><c> there</c><00:04:44.360><c> is</c><00:04:44.600><c> a</c><00:04:44.920><c> a</c><00:04:44.960><c> point</c><00:04:45.760><c> related</c><00:04:46.160><c> to</c>
+
+00:04:46.310 --> 00:04:46.320 align:start position:0%
+side then there is a a point related to
+ 
+
+00:04:46.320 --> 00:04:48.750 align:start position:0%
+side then there is a a point related to
+the<00:04:46.720><c> the</c><00:04:46.840><c> way</c><00:04:47.000><c> we</c><00:04:47.120><c> develop</c><00:04:47.760><c> AI</c><00:04:48.080><c> solution</c><00:04:48.640><c> in</c>
+
+00:04:48.750 --> 00:04:48.760 align:start position:0%
+the the way we develop AI solution in
+ 
+
+00:04:48.760 --> 00:04:50.470 align:start position:0%
+the the way we develop AI solution in
+the<00:04:48.840><c> organization</c><00:04:49.440><c> across</c><00:04:49.760><c> multiple</c><00:04:50.240><c> teams</c>
+
+00:04:50.470 --> 00:04:50.480 align:start position:0%
+the organization across multiple teams
+ 
+
+00:04:50.480 --> 00:04:51.710 align:start position:0%
+the organization across multiple teams
+that<00:04:50.680><c> operates</c><00:04:51.200><c> on</c><00:04:51.360><c> different</c>
+
+00:04:51.710 --> 00:04:51.720 align:start position:0%
+that operates on different
+ 
+
+00:04:51.720 --> 00:04:54.070 align:start position:0%
+that operates on different
+infrastructures.<00:04:52.920><c> So,</c><00:04:53.080><c> we</c><00:04:53.240><c> want</c><00:04:53.560><c> to</c><00:04:53.640><c> make</c><00:04:53.920><c> the</c>
+
+00:04:54.070 --> 00:04:54.080 align:start position:0%
+infrastructures. So, we want to make the
+ 
+
+00:04:54.080 --> 00:04:55.430 align:start position:0%
+infrastructures. So, we want to make the
+developments
+
+00:04:55.430 --> 00:04:55.440 align:start position:0%
+developments
+ 
+
+00:04:55.440 --> 00:04:56.830 align:start position:0%
+developments
+at<00:04:55.640><c> least</c>
+
+00:04:56.830 --> 00:04:56.840 align:start position:0%
+at least
+ 
+
+00:04:56.840 --> 00:04:59.390 align:start position:0%
+at least
+in<00:04:56.920><c> terms</c><00:04:57.160><c> of</c><00:04:57.320><c> governance</c><00:04:58.080><c> centralized.</c><00:04:59.160><c> Then</c>
+
+00:04:59.390 --> 00:04:59.400 align:start position:0%
+in terms of governance centralized. Then
+ 
+
+00:04:59.400 --> 00:05:01.750 align:start position:0%
+in terms of governance centralized. Then
+so<00:04:59.640><c> with</c><00:05:00.040><c> clear</c><00:05:00.640><c> guidelines,</c>
+
+00:05:01.750 --> 00:05:01.760 align:start position:0%
+so with clear guidelines,
+ 
+
+00:05:01.760 --> 00:05:03.430 align:start position:0%
+so with clear guidelines,
+reusable<00:05:02.480><c> also</c><00:05:02.920><c> on</c><00:05:03.080><c> different</c>
+
+00:05:03.430 --> 00:05:03.440 align:start position:0%
+reusable also on different
+ 
+
+00:05:03.440 --> 00:05:05.510 align:start position:0%
+reusable also on different
+infrastructures<00:05:04.200><c> and</c><00:05:04.360><c> different</c><00:05:04.720><c> teams.</c>
+
+00:05:05.510 --> 00:05:05.520 align:start position:0%
+infrastructures and different teams.
+ 
+
+00:05:05.520 --> 00:05:08.270 align:start position:0%
+infrastructures and different teams.
+This<00:05:05.680><c> is</c><00:05:05.840><c> the</c><00:05:06.240><c> the</c><00:05:06.360><c> goal.</c><00:05:06.960><c> So,</c><00:05:07.400><c> we</c><00:05:07.760><c> we</c><00:05:07.920><c> want</c><00:05:08.160><c> to</c>
+
+00:05:08.270 --> 00:05:08.280 align:start position:0%
+This is the the goal. So, we we want to
+ 
+
+00:05:08.280 --> 00:05:10.830 align:start position:0%
+This is the the goal. So, we we want to
+make<00:05:08.800><c> easy</c><00:05:09.400><c> the</c><00:05:09.520><c> life</c><00:05:09.800><c> of</c><00:05:10.080><c> developers</c><00:05:10.720><c> to</c>
+
+00:05:10.830 --> 00:05:10.840 align:start position:0%
+make easy the life of developers to
+ 
+
+00:05:10.840 --> 00:05:12.710 align:start position:0%
+make easy the life of developers to
+focus<00:05:11.160><c> on</c><00:05:11.280><c> the</c><00:05:11.400><c> business</c><00:05:11.840><c> logic</c><00:05:12.200><c> inside</c><00:05:12.600><c> the</c>
+
+00:05:12.710 --> 00:05:12.720 align:start position:0%
+focus on the business logic inside the
+ 
+
+00:05:12.720 --> 00:05:14.910 align:start position:0%
+focus on the business logic inside the
+use<00:05:12.960><c> cases,</c><00:05:13.720><c> avoiding</c><00:05:14.200><c> to</c><00:05:14.480><c> reinvent</c><00:05:14.840><c> the</c>
+
+00:05:14.910 --> 00:05:14.920 align:start position:0%
+use cases, avoiding to reinvent the
+ 
+
+00:05:14.920 --> 00:05:16.910 align:start position:0%
+use cases, avoiding to reinvent the
+wheel<00:05:15.080><c> every</c><00:05:15.320><c> time</c><00:05:15.560><c> we</c><00:05:15.680><c> need</c><00:05:15.960><c> to</c><00:05:16.240><c> to</c><00:05:16.400><c> take</c><00:05:16.800><c> to</c>
+
+00:05:16.910 --> 00:05:16.920 align:start position:0%
+wheel every time we need to to take to
+ 
+
+00:05:16.920 --> 00:05:19.430 align:start position:0%
+wheel every time we need to to take to
+take<00:05:17.160><c> care</c><00:05:17.400><c> about</c><00:05:17.760><c> the</c><00:05:17.960><c> security,</c>
+
+00:05:19.430 --> 00:05:19.440 align:start position:0%
+take care about the security,
+ 
+
+00:05:19.440 --> 00:05:21.430 align:start position:0%
+take care about the security,
+but<00:05:19.680><c> also</c><00:05:19.960><c> the</c><00:05:20.080><c> deployment</c>
+
+00:05:21.430 --> 00:05:21.440 align:start position:0%
+but also the deployment
+ 
+
+00:05:21.440 --> 00:05:24.670 align:start position:0%
+but also the deployment
+and<00:05:21.600><c> maintenance</c><00:05:22.160><c> of</c><00:05:22.480><c> the</c><00:05:22.920><c> the</c><00:05:23.080><c> use</c><00:05:23.320><c> cases.</c>
+
+00:05:24.670 --> 00:05:24.680 align:start position:0%
+and maintenance of the the use cases.
+ 
+
+00:05:24.680 --> 00:05:27.150 align:start position:0%
+and maintenance of the the use cases.
+So,<00:05:24.760><c> now</c><00:05:25.160><c> I</c><00:05:25.240><c> let</c><00:05:25.480><c> Mauro</c><00:05:26.040><c> to</c><00:05:26.120><c> introduce</c><00:05:26.680><c> how</c><00:05:26.920><c> we</c>
+
+00:05:27.150 --> 00:05:27.160 align:start position:0%
+So, now I let Mauro to introduce how we
+ 
+
+00:05:27.160 --> 00:05:30.430 align:start position:0%
+So, now I let Mauro to introduce how we
+address<00:05:27.840><c> these</c><00:05:28.000><c> topics</c><00:05:29.040><c> at</c><00:05:29.200><c> Amplifon.</c>
+
+00:05:30.430 --> 00:05:30.440 align:start position:0%
+address these topics at Amplifon.
+ 
+
+00:05:30.440 --> 00:05:32.870 align:start position:0%
+address these topics at Amplifon.
+Thank<00:05:30.640><c> you,</c><00:05:30.840><c> Sonny,</c><00:05:31.240><c> and</c><00:05:31.760><c> let's</c><00:05:31.920><c> try</c><00:05:32.080><c> to</c><00:05:32.320><c> bring</c>
+
+00:05:32.870 --> 00:05:32.880 align:start position:0%
+Thank you, Sonny, and let's try to bring
+ 
+
+00:05:32.880 --> 00:05:35.230 align:start position:0%
+Thank you, Sonny, and let's try to bring
+more<00:05:33.120><c> technical</c><00:05:33.560><c> point</c><00:05:33.800><c> of</c><00:05:33.880><c> view</c><00:05:34.120><c> in</c><00:05:34.320><c> this.</c>
+
+00:05:35.230 --> 00:05:35.240 align:start position:0%
+more technical point of view in this.
+ 
+
+00:05:35.240 --> 00:05:38.110 align:start position:0%
+more technical point of view in this.
+The<00:05:35.440><c> first</c><00:05:35.840><c> component</c><00:05:36.960><c> that</c><00:05:37.160><c> we</c><00:05:37.360><c> built</c><00:05:38.000><c> in</c>
+
+00:05:38.110 --> 00:05:38.120 align:start position:0%
+The first component that we built in
+ 
+
+00:05:38.120 --> 00:05:40.790 align:start position:0%
+The first component that we built in
+order<00:05:38.320><c> to,</c><00:05:39.120><c> you</c><00:05:39.200><c> know,</c><00:05:39.360><c> let's</c><00:05:39.600><c> try</c><00:05:40.200><c> try</c><00:05:40.400><c> to</c><00:05:40.600><c> to</c>
+
+00:05:40.790 --> 00:05:40.800 align:start position:0%
+order to, you know, let's try try to to
+ 
+
+00:05:40.800 --> 00:05:43.630 align:start position:0%
+order to, you know, let's try try to to
+address<00:05:41.160><c> those</c><00:05:41.360><c> problems</c><00:05:42.320><c> are</c><00:05:42.880><c> an</c><00:05:43.320><c> AI</c>
+
+00:05:43.630 --> 00:05:43.640 align:start position:0%
+address those problems are an AI
+ 
+
+00:05:43.640 --> 00:05:44.910 align:start position:0%
+address those problems are an AI
+gateway.
+
+00:05:44.910 --> 00:05:44.920 align:start position:0%
+gateway.
+ 
+
+00:05:44.920 --> 00:05:47.110 align:start position:0%
+gateway.
+First<00:05:45.200><c> of</c><00:05:45.280><c> all,</c><00:05:45.520><c> it</c><00:05:45.760><c> brings</c><00:05:46.120><c> us</c><00:05:46.640><c> unified</c>
+
+00:05:47.110 --> 00:05:47.120 align:start position:0%
+First of all, it brings us unified
+ 
+
+00:05:47.120 --> 00:05:50.150 align:start position:0%
+First of all, it brings us unified
+access.<00:05:48.240><c> So,</c><00:05:48.640><c> all</c><00:05:48.880><c> the</c>
+
+00:05:50.150 --> 00:05:50.160 align:start position:0%
+access. So, all the
+ 
+
+00:05:50.160 --> 00:05:52.390 align:start position:0%
+access. So, all the
+developers<00:05:50.800><c> that</c><00:05:51.000><c> want</c><00:05:51.200><c> to</c><00:05:51.320><c> use</c><00:05:51.480><c> a</c><00:05:51.520><c> model,</c>
+
+00:05:52.390 --> 00:05:52.400 align:start position:0%
+developers that want to use a model,
+ 
+
+00:05:52.400 --> 00:05:53.750 align:start position:0%
+developers that want to use a model,
+they<00:05:52.600><c> can</c>
+
+00:05:53.750 --> 00:05:53.760 align:start position:0%
+they can
+ 
+
+00:05:53.760 --> 00:05:55.150 align:start position:0%
+they can
+use<00:05:54.200><c> this</c>
+
+00:05:55.150 --> 00:05:55.160 align:start position:0%
+use this
+ 
+
+00:05:55.160 --> 00:05:58.270 align:start position:0%
+use this
+gateway,<00:05:55.960><c> and</c><00:05:56.440><c> they</c><00:05:56.720><c> can</c><00:05:56.960><c> point</c><00:05:57.400><c> to</c>
+
+00:05:58.270 --> 00:05:58.280 align:start position:0%
+gateway, and they can point to
+ 
+
+00:05:58.280 --> 00:06:01.470 align:start position:0%
+gateway, and they can point to
+the<00:05:58.800><c> unified</c><00:05:59.320><c> endpoint,</c><00:06:00.480><c> and</c>
+
+00:06:01.470 --> 00:06:01.480 align:start position:0%
+the unified endpoint, and
+ 
+
+00:06:01.480 --> 00:06:05.950 align:start position:0%
+the unified endpoint, and
+use<00:06:02.640><c> all</c><00:06:02.840><c> the</c><00:06:02.960><c> models</c><00:06:03.480><c> that</c><00:06:03.840><c> Amplifon</c><00:06:04.360><c> has</c><00:06:05.000><c> in</c>
+
+00:06:05.950 --> 00:06:05.960 align:start position:0%
+use all the models that Amplifon has in
+ 
+
+00:06:05.960 --> 00:06:06.910 align:start position:0%
+use all the models that Amplifon has in
+in
+
+00:06:06.910 --> 00:06:06.920 align:start position:0%
+in
+ 
+
+00:06:06.920 --> 00:06:09.750 align:start position:0%
+in
+its<00:06:07.160><c> catalog.</c><00:06:08.240><c> Then</c><00:06:08.480><c> there's</c><00:06:09.040><c> a</c><00:06:09.080><c> security</c>
+
+00:06:09.750 --> 00:06:09.760 align:start position:0%
+its catalog. Then there's a security
+ 
+
+00:06:09.760 --> 00:06:12.230 align:start position:0%
+its catalog. Then there's a security
+aspect.
+
+00:06:12.230 --> 00:06:12.240 align:start position:0%
+aspect.
+ 
+
+00:06:12.240 --> 00:06:13.950 align:start position:0%
+aspect.
+If<00:06:12.480><c> you</c><00:06:12.640><c> want</c><00:06:12.880><c> to</c><00:06:12.960><c> use</c><00:06:13.080><c> the</c><00:06:13.160><c> models,</c><00:06:13.600><c> you</c><00:06:13.720><c> have</c>
+
+00:06:13.950 --> 00:06:13.960 align:start position:0%
+If you want to use the models, you have
+ 
+
+00:06:13.960 --> 00:06:16.630 align:start position:0%
+If you want to use the models, you have
+to,<00:06:14.680><c> you</c><00:06:14.760><c> know,</c><00:06:14.920><c> connect</c><00:06:15.520><c> to</c><00:06:15.840><c> the</c><00:06:16.120><c> gateway.</c>
+
+00:06:16.630 --> 00:06:16.640 align:start position:0%
+to, you know, connect to the gateway.
+ 
+
+00:06:16.640 --> 00:06:17.870 align:start position:0%
+to, you know, connect to the gateway.
+You<00:06:16.800><c> have</c><00:06:17.040><c> to</c>
+
+00:06:17.870 --> 00:06:17.880 align:start position:0%
+You have to
+ 
+
+00:06:17.880 --> 00:06:21.070 align:start position:0%
+You have to
+authenticate<00:06:18.560><c> yourself,</c><00:06:19.520><c> and</c><00:06:20.440><c> we</c><00:06:20.600><c> have</c><00:06:20.800><c> done</c>
+
+00:06:21.070 --> 00:06:21.080 align:start position:0%
+authenticate yourself, and we have done
+ 
+
+00:06:21.080 --> 00:06:24.190 align:start position:0%
+authenticate yourself, and we have done
+this<00:06:21.880><c> with</c><00:06:22.160><c> the</c><00:06:22.400><c> intra</c><00:06:23.120><c> intra</c><00:06:23.400><c> ID</c>
+
+00:06:24.190 --> 00:06:24.200 align:start position:0%
+this with the intra intra ID
+ 
+
+00:06:24.200 --> 00:06:25.790 align:start position:0%
+this with the intra intra ID
+integration.
+
+00:06:25.790 --> 00:06:25.800 align:start position:0%
+integration.
+ 
+
+00:06:25.800 --> 00:06:28.710 align:start position:0%
+integration.
+Then<00:06:26.040><c> there's</c><00:06:26.960><c> a</c><00:06:27.000><c> budgeting</c><00:06:27.640><c> aspect</c><00:06:28.120><c> because</c>
+
+00:06:28.710 --> 00:06:28.720 align:start position:0%
+Then there's a budgeting aspect because
+ 
+
+00:06:28.720 --> 00:06:30.910 align:start position:0%
+Then there's a budgeting aspect because
+obviously<00:06:29.200><c> Amplifon</c><00:06:29.800><c> has</c><00:06:30.160><c> lots</c><00:06:30.480><c> of</c><00:06:30.720><c> use</c>
+
+00:06:30.910 --> 00:06:30.920 align:start position:0%
+obviously Amplifon has lots of use
+ 
+
+00:06:30.920 --> 00:06:33.910 align:start position:0%
+obviously Amplifon has lots of use
+cases,<00:06:31.720><c> and</c><00:06:32.000><c> if</c><00:06:32.480><c> a</c><00:06:32.560><c> use</c><00:06:32.760><c> case</c><00:06:32.920><c> came</c><00:06:33.120><c> to</c><00:06:33.240><c> you</c><00:06:33.800><c> and</c>
+
+00:06:33.910 --> 00:06:33.920 align:start position:0%
+cases, and if a use case came to you and
+ 
+
+00:06:33.920 --> 00:06:35.630 align:start position:0%
+cases, and if a use case came to you and
+asked<00:06:34.200><c> for,</c><00:06:34.680><c> you</c><00:06:34.760><c> know,</c><00:06:34.880><c> for</c><00:06:35.040><c> budget</c><00:06:35.440><c> for</c>
+
+00:06:35.630 --> 00:06:35.640 align:start position:0%
+asked for, you know, for budget for
+ 
+
+00:06:35.640 --> 00:06:39.230 align:start position:0%
+asked for, you know, for budget for
+using<00:06:36.040><c> those</c><00:06:36.840><c> those</c><00:06:37.080><c> models,</c><00:06:38.080><c> you</c><00:06:38.240><c> can</c><00:06:38.440><c> set</c><00:06:39.040><c> in</c>
+
+00:06:39.230 --> 00:06:39.240 align:start position:0%
+using those those models, you can set in
+ 
+
+00:06:39.240 --> 00:06:40.950 align:start position:0%
+using those those models, you can set in
+this<00:06:39.520><c> AI</c><00:06:39.800><c> gateway</c>
+
+00:06:40.950 --> 00:06:40.960 align:start position:0%
+this AI gateway
+ 
+
+00:06:40.960 --> 00:06:43.710 align:start position:0%
+this AI gateway
+a<00:06:41.040><c> budget.</c><00:06:41.680><c> So,</c>
+
+00:06:43.710 --> 00:06:43.720 align:start position:0%
+a budget. So,
+ 
+
+00:06:43.720 --> 00:06:46.670 align:start position:0%
+a budget. So,
+a<00:06:43.760><c> cost</c><00:06:44.720><c> monthly</c><00:06:45.120><c> cost,</c><00:06:45.680><c> or</c><00:06:46.040><c> I</c><00:06:46.160><c> mean,</c><00:06:46.480><c> yeah,</c>
+
+00:06:46.670 --> 00:06:46.680 align:start position:0%
+a cost monthly cost, or I mean, yeah,
+ 
+
+00:06:46.680 --> 00:06:48.590 align:start position:0%
+a cost monthly cost, or I mean, yeah,
+you<00:06:46.800><c> can</c><00:06:46.920><c> set</c><00:06:47.120><c> it</c><00:06:47.240><c> monthly,</c><00:06:47.720><c> weekly,</c><00:06:48.280><c> and</c><00:06:48.440><c> so</c>
+
+00:06:48.590 --> 00:06:48.600 align:start position:0%
+you can set it monthly, weekly, and so
+ 
+
+00:06:48.600 --> 00:06:52.270 align:start position:0%
+you can set it monthly, weekly, and so
+on,<00:06:48.760><c> but</c><00:06:49.320><c> you</c><00:06:49.400><c> can</c><00:06:49.560><c> set</c><00:06:49.840><c> a</c><00:06:49.880><c> budget,</c><00:06:50.800><c> and</c>
+
+00:06:52.270 --> 00:06:52.280 align:start position:0%
+on, but you can set a budget, and
+ 
+
+00:06:52.280 --> 00:06:55.070 align:start position:0%
+on, but you can set a budget, and
+while<00:06:52.680><c> the</c><00:06:52.960><c> developers</c><00:06:53.680><c> are</c><00:06:53.880><c> using</c>
+
+00:06:55.070 --> 00:06:55.080 align:start position:0%
+while the developers are using
+ 
+
+00:06:55.080 --> 00:06:58.190 align:start position:0%
+while the developers are using
+those<00:06:55.320><c> budgets,</c><00:06:55.920><c> it</c><00:06:56.160><c> erodes,</c><00:06:56.800><c> and</c><00:06:57.160><c> it</c><00:06:57.360><c> can</c>
+
+00:06:58.190 --> 00:06:58.200 align:start position:0%
+those budgets, it erodes, and it can
+ 
+
+00:06:58.200 --> 00:07:00.670 align:start position:0%
+those budgets, it erodes, and it can
+brings<00:06:58.720><c> to</c><00:06:58.960><c> developers</c><00:07:00.120><c> you</c><00:07:00.400><c> know,</c><00:07:00.520><c> the</c>
+
+00:07:00.670 --> 00:07:00.680 align:start position:0%
+brings to developers you know, the
+ 
+
+00:07:00.680 --> 00:07:02.910 align:start position:0%
+brings to developers you know, the
+remaining<00:07:01.160><c> part</c><00:07:01.440><c> of</c><00:07:01.600><c> those</c><00:07:01.800><c> budgets.</c><00:07:02.240><c> So,</c>
+
+00:07:02.910 --> 00:07:02.920 align:start position:0%
+remaining part of those budgets. So,
+ 
+
+00:07:02.920 --> 00:07:05.190 align:start position:0%
+remaining part of those budgets. So,
+they<00:07:03.040><c> can</c><00:07:03.480><c> they</c><00:07:03.560><c> can</c><00:07:03.720><c> control</c><00:07:04.200><c> it.</c><00:07:04.840><c> And</c><00:07:05.000><c> then</c>
+
+00:07:05.190 --> 00:07:05.200 align:start position:0%
+they can they can control it. And then
+ 
+
+00:07:05.200 --> 00:07:08.670 align:start position:0%
+they can they can control it. And then
+there's<00:07:05.560><c> the</c><00:07:06.360><c> the</c><00:07:06.600><c> the</c><00:07:06.760><c> control</c><00:07:07.400><c> aspect.</c>
+
+00:07:08.670 --> 00:07:08.680 align:start position:0%
+there's the the the control aspect.
+ 
+
+00:07:08.680 --> 00:07:10.430 align:start position:0%
+there's the the the control aspect.
+So,<00:07:09.160><c> all</c><00:07:09.400><c> the</c>
+
+00:07:10.430 --> 00:07:10.440 align:start position:0%
+So, all the
+ 
+
+00:07:10.440 --> 00:07:12.550 align:start position:0%
+So, all the
+you<00:07:10.560><c> know,</c><00:07:10.680><c> all</c><00:07:10.880><c> the</c>
+
+00:07:12.550 --> 00:07:12.560 align:start position:0%
+you know, all the
+ 
+
+00:07:12.560 --> 00:07:14.590 align:start position:0%
+you know, all the
+requests<00:07:13.200><c> that</c>
+
+00:07:14.590 --> 00:07:14.600 align:start position:0%
+requests that
+ 
+
+00:07:14.600 --> 00:07:17.510 align:start position:0%
+requests that
+are<00:07:15.000><c> are</c><00:07:15.160><c> done</c><00:07:15.440><c> through</c><00:07:16.120><c> LLM</c><00:07:16.520><c> models</c><00:07:17.320><c> or</c>
+
+00:07:17.510 --> 00:07:17.520 align:start position:0%
+are are done through LLM models or
+ 
+
+00:07:17.520 --> 00:07:21.270 align:start position:0%
+are are done through LLM models or
+responses,<00:07:18.640><c> all</c><00:07:19.160><c> those</c><00:07:19.760><c> all</c><00:07:19.920><c> the</c><00:07:20.160><c> analytics</c>
+
+00:07:21.270 --> 00:07:21.280 align:start position:0%
+responses, all those all the analytics
+ 
+
+00:07:21.280 --> 00:07:24.470 align:start position:0%
+responses, all those all the analytics
+that<00:07:21.600><c> we</c><00:07:21.880><c> need</c><00:07:22.200><c> to</c><00:07:22.320><c> put</c><00:07:22.480><c> in</c><00:07:22.600><c> place</c>
+
+00:07:24.470 --> 00:07:24.480 align:start position:0%
+that we need to put in place
+ 
+
+00:07:24.480 --> 00:07:26.830 align:start position:0%
+that we need to put in place
+on<00:07:24.640><c> top</c><00:07:24.920><c> of</c><00:07:25.160><c> all</c><00:07:25.320><c> the</c><00:07:25.520><c> requests</c><00:07:26.200><c> are</c><00:07:26.400><c> done</c>
+
+00:07:26.830 --> 00:07:26.840 align:start position:0%
+on top of all the requests are done
+ 
+
+00:07:26.840 --> 00:07:28.150 align:start position:0%
+on top of all the requests are done
+using
+
+00:07:28.150 --> 00:07:28.160 align:start position:0%
+using
+ 
+
+00:07:28.160 --> 00:07:31.270 align:start position:0%
+using
+a<00:07:28.240><c> central</c><00:07:29.200><c> auditing</c><00:07:30.040><c> monitoring</c><00:07:30.920><c> and</c>
+
+00:07:31.270 --> 00:07:31.280 align:start position:0%
+a central auditing monitoring and
+ 
+
+00:07:31.280 --> 00:07:34.070 align:start position:0%
+a central auditing monitoring and
+analysis<00:07:31.800><c> tools</c><00:07:32.560><c> obviously</c><00:07:32.960><c> connected</c><00:07:33.760><c> to</c>
+
+00:07:34.070 --> 00:07:34.080 align:start position:0%
+analysis tools obviously connected to
+ 
+
+00:07:34.080 --> 00:07:37.630 align:start position:0%
+analysis tools obviously connected to
+this<00:07:34.840><c> AI</c><00:07:35.080><c> gateway.</c><00:07:35.840><c> And</c><00:07:36.000><c> then</c><00:07:36.480><c> for</c><00:07:36.800><c> the</c>
+
+00:07:37.630 --> 00:07:37.640 align:start position:0%
+this AI gateway. And then for the
+ 
+
+00:07:37.640 --> 00:07:39.590 align:start position:0%
+this AI gateway. And then for the
+governance<00:07:38.160><c> part,</c><00:07:38.760><c> I</c><00:07:38.840><c> mean,</c><00:07:39.040><c> this</c><00:07:39.240><c> is</c><00:07:39.360><c> the</c>
+
+00:07:39.590 --> 00:07:39.600 align:start position:0%
+governance part, I mean, this is the
+ 
+
+00:07:39.600 --> 00:07:41.750 align:start position:0%
+governance part, I mean, this is the
+entry<00:07:39.880><c> point.</c><00:07:40.320><c> This</c><00:07:40.480><c> is</c><00:07:40.640><c> the</c><00:07:41.080><c> top</c><00:07:41.320><c> layer,</c><00:07:41.680><c> I</c>
+
+00:07:41.750 --> 00:07:41.760 align:start position:0%
+entry point. This is the top layer, I
+ 
+
+00:07:41.760 --> 00:07:43.550 align:start position:0%
+entry point. This is the top layer, I
+would<00:07:41.920><c> say.</c><00:07:42.480><c> And</c><00:07:42.640><c> then</c><00:07:42.800><c> we</c><00:07:42.920><c> have</c><00:07:43.080><c> three</c>
+
+00:07:43.550 --> 00:07:43.560 align:start position:0%
+would say. And then we have three
+ 
+
+00:07:43.560 --> 00:07:46.910 align:start position:0%
+would say. And then we have three
+different<00:07:44.720><c> registries.</c><00:07:46.000><c> The</c><00:07:46.080><c> first</c><00:07:46.400><c> one</c><00:07:46.640><c> is</c>
+
+00:07:46.910 --> 00:07:46.920 align:start position:0%
+different registries. The first one is
+ 
+
+00:07:46.920 --> 00:07:49.830 align:start position:0%
+different registries. The first one is
+the<00:07:47.080><c> MCP</c><00:07:47.520><c> registry.</c><00:07:48.040><c> So,</c><00:07:48.360><c> as</c><00:07:48.600><c> you</c><00:07:48.880><c> as</c><00:07:49.040><c> you</c><00:07:49.120><c> can</c>
+
+00:07:49.830 --> 00:07:49.840 align:start position:0%
+the MCP registry. So, as you as you can
+ 
+
+00:07:49.840 --> 00:07:51.670 align:start position:0%
+the MCP registry. So, as you as you can
+imagine,<00:07:50.400><c> all</c><00:07:50.640><c> the</c><00:07:50.800><c> tools,</c><00:07:51.320><c> all</c><00:07:51.520><c> the</c>
+
+00:07:51.670 --> 00:07:51.680 align:start position:0%
+imagine, all the tools, all the
+ 
+
+00:07:51.680 --> 00:07:54.950 align:start position:0%
+imagine, all the tools, all the
+integration<00:07:52.600><c> with</c><00:07:53.200><c> Amplifon</c><00:07:53.640><c> systems,</c><00:07:54.800><c> all</c>
+
+00:07:54.950 --> 00:07:54.960 align:start position:0%
+integration with Amplifon systems, all
+ 
+
+00:07:54.960 --> 00:07:56.590 align:start position:0%
+integration with Amplifon systems, all
+the<00:07:55.080><c> functionalities</c><00:07:55.920><c> that</c><00:07:56.200><c> we</c><00:07:56.320><c> want</c><00:07:56.520><c> to</c>
+
+00:07:56.590 --> 00:07:56.600 align:start position:0%
+the functionalities that we want to
+ 
+
+00:07:56.600 --> 00:07:58.510 align:start position:0%
+the functionalities that we want to
+provide<00:07:56.920><c> to</c><00:07:57.040><c> LLM</c><00:07:57.440><c> models</c><00:07:57.880><c> are</c><00:07:58.000><c> exposed</c>
+
+00:07:58.510 --> 00:07:58.520 align:start position:0%
+provide to LLM models are exposed
+ 
+
+00:07:58.520 --> 00:08:01.350 align:start position:0%
+provide to LLM models are exposed
+through<00:07:58.800><c> this</c><00:07:59.360><c> MCP</c><00:07:59.720><c> registry,</c><00:08:00.680><c> which</c><00:08:00.880><c> is</c><00:08:01.120><c> the</c>
+
+00:08:01.350 --> 00:08:01.360 align:start position:0%
+through this MCP registry, which is the
+ 
+
+00:08:01.360 --> 00:08:04.190 align:start position:0%
+through this MCP registry, which is the
+the<00:08:01.720><c> the</c><00:08:01.880><c> central</c><00:08:02.320><c> catalog</c><00:08:02.880><c> of</c><00:08:03.080><c> all</c><00:08:03.320><c> all</c>
+
+00:08:04.190 --> 00:08:04.200 align:start position:0%
+the the central catalog of all all
+ 
+
+00:08:04.200 --> 00:08:05.630 align:start position:0%
+the the central catalog of all all
+available<00:08:04.640><c> tools.</c>
+
+00:08:05.630 --> 00:08:05.640 align:start position:0%
+available tools.
+ 
+
+00:08:05.640 --> 00:08:08.070 align:start position:0%
+available tools.
+Then<00:08:05.840><c> there's</c><00:08:06.120><c> the</c><00:08:06.800><c> A2A</c>
+
+00:08:08.070 --> 00:08:08.080 align:start position:0%
+Then there's the A2A
+ 
+
+00:08:08.080 --> 00:08:10.590 align:start position:0%
+Then there's the A2A
+agent-to-agent<00:08:09.000><c> registry.</c><00:08:09.600><c> So,</c>
+
+00:08:10.590 --> 00:08:10.600 align:start position:0%
+agent-to-agent registry. So,
+ 
+
+00:08:10.600 --> 00:08:12.110 align:start position:0%
+agent-to-agent registry. So,
+it<00:08:10.760><c> brings</c>
+
+00:08:12.110 --> 00:08:12.120 align:start position:0%
+it brings
+ 
+
+00:08:12.120 --> 00:08:15.390 align:start position:0%
+it brings
+it's<00:08:12.400><c> a</c><00:08:12.440><c> full</c><00:08:12.720><c> catalog</c><00:08:13.280><c> of</c><00:08:13.520><c> all</c><00:08:14.280><c> implemented</c>
+
+00:08:15.390 --> 00:08:15.400 align:start position:0%
+it's a full catalog of all implemented
+ 
+
+00:08:15.400 --> 00:08:18.910 align:start position:0%
+it's a full catalog of all implemented
+of<00:08:15.520><c> all</c><00:08:15.960><c> available</c><00:08:17.120><c> agents,</c><00:08:17.880><c> and</c><00:08:18.200><c> it</c><00:08:18.440><c> uses</c>
+
+00:08:18.910 --> 00:08:18.920 align:start position:0%
+of all available agents, and it uses
+ 
+
+00:08:18.920 --> 00:08:21.670 align:start position:0%
+of all available agents, and it uses
+agent<00:08:19.280><c> card</c><00:08:20.160><c> standard.</c><00:08:20.640><c> It</c><00:08:20.800><c> exposes</c><00:08:21.400><c> agent</c>
+
+00:08:21.670 --> 00:08:21.680 align:start position:0%
+agent card standard. It exposes agent
+ 
+
+00:08:21.680 --> 00:08:24.750 align:start position:0%
+agent card standard. It exposes agent
+card,<00:08:22.000><c> and</c><00:08:22.200><c> also</c><00:08:23.120><c> it</c><00:08:23.360><c> can</c>
+
+00:08:24.750 --> 00:08:24.760 align:start position:0%
+card, and also it can
+ 
+
+00:08:24.760 --> 00:08:25.950 align:start position:0%
+card, and also it can
+it<00:08:24.960><c> can</c>
+
+00:08:25.950 --> 00:08:25.960 align:start position:0%
+it can
+ 
+
+00:08:25.960 --> 00:08:27.950 align:start position:0%
+it can
+give<00:08:26.200><c> the</c><00:08:26.360><c> developer</c><00:08:26.920><c> the</c><00:08:27.280><c> ability</c><00:08:27.760><c> to</c>
+
+00:08:27.950 --> 00:08:27.960 align:start position:0%
+give the developer the ability to
+ 
+
+00:08:27.960 --> 00:08:31.910 align:start position:0%
+give the developer the ability to
+connect<00:08:28.720><c> to</c><00:08:29.000><c> already</c><00:08:29.840><c> developed</c><00:08:30.800><c> agents.</c><00:08:31.760><c> And</c>
+
+00:08:31.910 --> 00:08:31.920 align:start position:0%
+connect to already developed agents. And
+ 
+
+00:08:31.920 --> 00:08:33.950 align:start position:0%
+connect to already developed agents. And
+then<00:08:32.120><c> there's</c><00:08:32.479><c> the</c><00:08:32.840><c> use</c><00:08:33.120><c> case</c><00:08:33.440><c> registry,</c>
+
+00:08:33.950 --> 00:08:33.960 align:start position:0%
+then there's the use case registry,
+ 
+
+00:08:33.960 --> 00:08:36.550 align:start position:0%
+then there's the use case registry,
+which<00:08:34.200><c> is</c><00:08:34.479><c> the</c><00:08:35.200><c> you</c><00:08:35.280><c> know,</c><00:08:35.440><c> the</c><00:08:35.599><c> registry</c><00:08:36.280><c> that</c>
+
+00:08:36.550 --> 00:08:36.560 align:start position:0%
+which is the you know, the registry that
+ 
+
+00:08:36.560 --> 00:08:37.909 align:start position:0%
+which is the you know, the registry that
+connects
+
+00:08:37.909 --> 00:08:37.919 align:start position:0%
+connects
+ 
+
+00:08:37.919 --> 00:08:40.750 align:start position:0%
+connects
+connects<00:08:38.479><c> all</c><00:08:38.719><c> those</c><00:08:39.400><c> all</c><00:08:39.599><c> those</c><00:08:40.200><c> information</c>
+
+00:08:40.750 --> 00:08:40.760 align:start position:0%
+connects all those all those information
+ 
+
+00:08:40.760 --> 00:08:42.630 align:start position:0%
+connects all those all those information
+together,<00:08:41.200><c> all</c><00:08:41.320><c> those</c><00:08:41.520><c> metadata</c><00:08:42.120><c> together,</c>
+
+00:08:42.630 --> 00:08:42.640 align:start position:0%
+together, all those metadata together,
+ 
+
+00:08:42.640 --> 00:08:43.750 align:start position:0%
+together, all those metadata together,
+and
+
+00:08:43.750 --> 00:08:43.760 align:start position:0%
+and
+ 
+
+00:08:43.760 --> 00:08:45.590 align:start position:0%
+and
+bring<00:08:44.000><c> out</c><00:08:44.360><c> the</c><00:08:44.600><c> real</c><00:08:45.080><c> governance</c>
+
+00:08:45.590 --> 00:08:45.600 align:start position:0%
+bring out the real governance
+ 
+
+00:08:45.600 --> 00:08:47.070 align:start position:0%
+bring out the real governance
+functionality,<00:08:46.400><c> the</c><00:08:46.600><c> lineage</c>
+
+00:08:47.070 --> 00:08:47.080 align:start position:0%
+functionality, the lineage
+ 
+
+00:08:47.080 --> 00:08:49.270 align:start position:0%
+functionality, the lineage
+functionality,<00:08:48.280><c> and</c>
+
+00:08:49.270 --> 00:08:49.280 align:start position:0%
+functionality, and
+ 
+
+00:08:49.280 --> 00:08:51.710 align:start position:0%
+functionality, and
+again<00:08:49.560><c> connects</c><00:08:50.120><c> all</c><00:08:50.440><c> those</c><00:08:50.720><c> aspects</c>
+
+00:08:51.710 --> 00:08:51.720 align:start position:0%
+again connects all those aspects
+ 
+
+00:08:51.720 --> 00:08:52.910 align:start position:0%
+again connects all those aspects
+together.
+
+00:08:52.910 --> 00:08:52.920 align:start position:0%
+together.
+ 
+
+00:08:52.920 --> 00:08:55.750 align:start position:0%
+together.
+Let's<00:08:53.120><c> try</c><00:08:53.280><c> to</c><00:08:53.440><c> go</c><00:08:54.240><c> in</c><00:08:54.480><c> more</c><00:08:54.760><c> detail</c><00:08:55.320><c> about</c>
+
+00:08:55.750 --> 00:08:55.760 align:start position:0%
+Let's try to go in more detail about
+ 
+
+00:08:55.760 --> 00:08:57.950 align:start position:0%
+Let's try to go in more detail about
+each<00:08:56.000><c> of</c><00:08:56.160><c> those</c><00:08:56.680><c> registry.</c>
+
+00:08:57.950 --> 00:08:57.960 align:start position:0%
+each of those registry.
+ 
+
+00:08:57.960 --> 00:09:00.230 align:start position:0%
+each of those registry.
+I<00:08:58.040><c> don't</c><00:08:58.200><c> want</c><00:08:58.400><c> to</c><00:08:58.920><c> obviously</c><00:08:59.680><c> tell</c><00:08:59.880><c> anybody</c>
+
+00:09:00.230 --> 00:09:00.240 align:start position:0%
+I don't want to obviously tell anybody
+ 
+
+00:09:00.240 --> 00:09:02.950 align:start position:0%
+I don't want to obviously tell anybody
+what<00:09:00.400><c> MCP</c><00:09:00.800><c> is</c><00:09:00.920><c> not</c><00:09:01.120><c> at</c><00:09:01.240><c> this</c><00:09:01.440><c> conference,</c>
+
+00:09:02.950 --> 00:09:02.960 align:start position:0%
+what MCP is not at this conference,
+ 
+
+00:09:02.960 --> 00:09:06.230 align:start position:0%
+what MCP is not at this conference,
+but<00:09:03.360><c> we</c><00:09:03.520><c> started</c><00:09:04.040><c> from</c><00:09:04.400><c> the</c><00:09:04.880><c> official</c><00:09:05.760><c> MCP</c>
+
+00:09:06.230 --> 00:09:06.240 align:start position:0%
+but we started from the official MCP
+ 
+
+00:09:06.240 --> 00:09:09.870 align:start position:0%
+but we started from the official MCP
+registry<00:09:07.360><c> maintained</c><00:09:07.760><c> by</c><00:09:07.960><c> the</c><00:09:08.280><c> community.</c>
+
+00:09:09.870 --> 00:09:09.880 align:start position:0%
+registry maintained by the community.
+ 
+
+00:09:09.880 --> 00:09:11.910 align:start position:0%
+registry maintained by the community.
+This<00:09:10.040><c> is</c><00:09:10.240><c> the</c><00:09:10.600><c> you</c><00:09:10.720><c> know,</c><00:09:10.840><c> the</c><00:09:11.120><c> the</c><00:09:11.200><c> public</c>
+
+00:09:11.910 --> 00:09:11.920 align:start position:0%
+This is the you know, the the public
+ 
+
+00:09:11.920 --> 00:09:14.670 align:start position:0%
+This is the you know, the the public
+community-wide<00:09:12.800><c> catalog</c><00:09:13.520><c> of</c><00:09:13.840><c> all</c><00:09:14.080><c> available</c>
+
+00:09:14.670 --> 00:09:14.680 align:start position:0%
+community-wide catalog of all available
+ 
+
+00:09:14.680 --> 00:09:17.030 align:start position:0%
+community-wide catalog of all available
+MCP<00:09:15.040><c> servers,</c>
+
+00:09:17.030 --> 00:09:17.040 align:start position:0%
+MCP servers,
+ 
+
+00:09:17.040 --> 00:09:19.590 align:start position:0%
+MCP servers,
+and<00:09:17.480><c> we</c><00:09:18.000><c> essentially</c><00:09:18.400><c> build</c><00:09:18.760><c> on</c><00:09:18.920><c> top</c><00:09:19.120><c> of</c><00:09:19.240><c> that.</c>
+
+00:09:19.590 --> 00:09:19.600 align:start position:0%
+and we essentially build on top of that.
+ 
+
+00:09:19.600 --> 00:09:20.750 align:start position:0%
+and we essentially build on top of that.
+So,
+
+00:09:20.750 --> 00:09:20.760 align:start position:0%
+So,
+ 
+
+00:09:20.760 --> 00:09:22.550 align:start position:0%
+So,
+Amplifon<00:09:21.160><c> has</c><00:09:21.320><c> built</c>
+
+00:09:22.550 --> 00:09:22.560 align:start position:0%
+Amplifon has built
+ 
+
+00:09:22.560 --> 00:09:25.670 align:start position:0%
+Amplifon has built
+its<00:09:23.080><c> own</c><00:09:23.600><c> private</c><00:09:24.080><c> MCP</c><00:09:24.480><c> registry</c><00:09:25.360><c> as</c><00:09:25.560><c> an</c>
+
+00:09:25.670 --> 00:09:25.680 align:start position:0%
+its own private MCP registry as an
+ 
+
+00:09:25.680 --> 00:09:27.750 align:start position:0%
+its own private MCP registry as an
+extension
+
+00:09:27.750 --> 00:09:27.760 align:start position:0%
+extension
+ 
+
+00:09:27.760 --> 00:09:29.950 align:start position:0%
+extension
+in<00:09:28.040><c> functionalities,</c><00:09:29.000><c> and</c><00:09:29.160><c> also</c><00:09:29.440><c> in</c><00:09:29.880><c> you</c>
+
+00:09:29.950 --> 00:09:29.960 align:start position:0%
+in functionalities, and also in you
+ 
+
+00:09:29.960 --> 00:09:32.030 align:start position:0%
+in functionalities, and also in you
+know,<00:09:30.120><c> enterprise</c><00:09:30.760><c> context</c><00:09:31.280><c> that</c><00:09:31.480><c> we</c><00:09:31.640><c> want</c><00:09:31.880><c> to</c>
+
+00:09:32.030 --> 00:09:32.040 align:start position:0%
+know, enterprise context that we want to
+ 
+
+00:09:32.040 --> 00:09:33.710 align:start position:0%
+know, enterprise context that we want to
+add<00:09:32.280><c> to</c><00:09:32.440><c> each</c><00:09:32.720><c> of</c><00:09:32.880><c> the</c>
+
+00:09:33.710 --> 00:09:33.720 align:start position:0%
+add to each of the
+ 
+
+00:09:33.720 --> 00:09:36.270 align:start position:0%
+add to each of the
+registered<00:09:34.760><c> servers.</c>
+
+00:09:36.270 --> 00:09:36.280 align:start position:0%
+registered servers.
+ 
+
+00:09:36.280 --> 00:09:38.510 align:start position:0%
+registered servers.
+It<00:09:36.440><c> contains</c><00:09:36.920><c> two</c><00:09:37.080><c> main</c><00:09:37.320><c> things.</c><00:09:38.160><c> As</c><00:09:38.320><c> you</c><00:09:38.400><c> can</c>
+
+00:09:38.510 --> 00:09:38.520 align:start position:0%
+It contains two main things. As you can
+ 
+
+00:09:38.520 --> 00:09:41.230 align:start position:0%
+It contains two main things. As you can
+imagine,<00:09:39.520><c> the</c><00:09:40.200><c> you</c><00:09:40.320><c> know,</c><00:09:40.400><c> the</c><00:09:40.560><c> custom</c>
+
+00:09:41.230 --> 00:09:41.240 align:start position:0%
+imagine, the you know, the custom
+ 
+
+00:09:41.240 --> 00:09:44.230 align:start position:0%
+imagine, the you know, the custom
+internal<00:09:41.840><c> servers</c><00:09:43.080><c> that</c>
+
+00:09:44.230 --> 00:09:44.240 align:start position:0%
+internal servers that
+ 
+
+00:09:44.240 --> 00:09:46.310 align:start position:0%
+internal servers that
+the<00:09:44.440><c> the</c><00:09:44.640><c> the</c><00:09:44.880><c> the</c><00:09:45.080><c> internal</c><00:09:45.680><c> Amplifon</c><00:09:46.080><c> team</c>
+
+00:09:46.310 --> 00:09:46.320 align:start position:0%
+the the the the internal Amplifon team
+ 
+
+00:09:46.320 --> 00:09:49.590 align:start position:0%
+the the the the internal Amplifon team
+have<00:09:46.560><c> built</c><00:09:47.320><c> for</c><00:09:47.800><c> specific</c><00:09:48.440><c> system,</c><00:09:49.120><c> specific</c>
+
+00:09:49.590 --> 00:09:49.600 align:start position:0%
+have built for specific system, specific
+ 
+
+00:09:49.600 --> 00:09:51.550 align:start position:0%
+have built for specific system, specific
+integration,<00:09:50.280><c> specific</c><00:09:50.760><c> tool</c><00:09:50.960><c> that</c><00:09:51.160><c> Amplifon</c>
+
+00:09:51.550 --> 00:09:51.560 align:start position:0%
+integration, specific tool that Amplifon
+ 
+
+00:09:51.560 --> 00:09:54.670 align:start position:0%
+integration, specific tool that Amplifon
+want<00:09:51.800><c> to</c><00:09:52.000><c> provide,</c><00:09:53.000><c> and</c><00:09:53.440><c> also</c><00:09:53.760><c> a</c><00:09:53.800><c> curated</c><00:09:54.320><c> set</c>
+
+00:09:54.670 --> 00:09:54.680 align:start position:0%
+want to provide, and also a curated set
+ 
+
+00:09:54.680 --> 00:09:55.510 align:start position:0%
+want to provide, and also a curated set
+of
+
+00:09:55.510 --> 00:09:55.520 align:start position:0%
+of
+ 
+
+00:09:55.520 --> 00:09:57.670 align:start position:0%
+of
+public<00:09:55.880><c> server</c><00:09:56.400><c> that</c><00:09:56.600><c> have</c><00:09:56.840><c> been</c><00:09:57.160><c> approved</c>
+
+00:09:57.670 --> 00:09:57.680 align:start position:0%
+public server that have been approved
+ 
+
+00:09:57.680 --> 00:09:59.270 align:start position:0%
+public server that have been approved
+that<00:09:57.800><c> have</c><00:09:58.040><c> been,</c><00:09:58.360><c> you</c><00:09:58.440><c> know,</c>
+
+00:09:59.270 --> 00:09:59.280 align:start position:0%
+that have been, you know,
+ 
+
+00:09:59.280 --> 00:10:01.870 align:start position:0%
+that have been, you know,
+certified<00:10:00.040><c> by</c><00:10:00.280><c> Amplifone</c><00:10:01.200><c> for</c><00:10:01.360><c> for</c><00:10:01.680><c> for</c>
+
+00:10:01.870 --> 00:10:01.880 align:start position:0%
+certified by Amplifone for for for
+ 
+
+00:10:01.880 --> 00:10:05.030 align:start position:0%
+certified by Amplifone for for for
+Amplifone<00:10:02.320><c> use</c><00:10:02.520><c> cases.</c><00:10:03.400><c> And</c><00:10:04.040><c> both</c><00:10:04.440><c> these</c>
+
+00:10:05.030 --> 00:10:05.040 align:start position:0%
+Amplifone use cases. And both these
+ 
+
+00:10:05.040 --> 00:10:07.710 align:start position:0%
+Amplifone use cases. And both these
+servers<00:10:05.560><c> that</c><00:10:05.760><c> we</c><00:10:05.920><c> want</c><00:10:06.280><c> that</c><00:10:06.480><c> we</c><00:10:06.720><c> register</c><00:10:07.200><c> in</c>
+
+00:10:07.710 --> 00:10:07.720 align:start position:0%
+servers that we want that we register in
+ 
+
+00:10:07.720 --> 00:10:11.070 align:start position:0%
+servers that we want that we register in
+in<00:10:07.920><c> this</c><00:10:08.120><c> catalog</c><00:10:09.040><c> are</c><00:10:09.240><c> enriched</c><00:10:09.840><c> with</c><00:10:10.160><c> some</c>
+
+00:10:11.070 --> 00:10:11.080 align:start position:0%
+in this catalog are enriched with some
+ 
+
+00:10:11.080 --> 00:10:14.030 align:start position:0%
+in this catalog are enriched with some
+additional<00:10:12.040><c> enterprise</c><00:10:12.640><c> metadata.</c>
+
+00:10:14.030 --> 00:10:14.040 align:start position:0%
+additional enterprise metadata.
+ 
+
+00:10:14.040 --> 00:10:16.790 align:start position:0%
+additional enterprise metadata.
+Let's<00:10:14.440><c> let's</c><00:10:14.760><c> see</c><00:10:14.920><c> what</c><00:10:15.240><c> are</c><00:10:15.440><c> those</c><00:10:15.840><c> metadata.</c>
+
+00:10:16.790 --> 00:10:16.800 align:start position:0%
+Let's let's see what are those metadata.
+ 
+
+00:10:16.800 --> 00:10:19.830 align:start position:0%
+Let's let's see what are those metadata.
+First<00:10:17.080><c> of</c><00:10:17.160><c> all,</c><00:10:17.560><c> the</c><00:10:17.800><c> ownership.</c><00:10:19.000><c> Each</c><00:10:19.240><c> server</c>
+
+00:10:19.830 --> 00:10:19.840 align:start position:0%
+First of all, the ownership. Each server
+ 
+
+00:10:19.840 --> 00:10:21.990 align:start position:0%
+First of all, the ownership. Each server
+has<00:10:20.120><c> an</c><00:10:20.320><c> owner.</c><00:10:21.160><c> So,</c>
+
+00:10:21.990 --> 00:10:22.000 align:start position:0%
+has an owner. So,
+ 
+
+00:10:22.000 --> 00:10:25.070 align:start position:0%
+has an owner. So,
+which<00:10:22.240><c> is</c><00:10:22.920><c> which</c><00:10:23.200><c> team,</c><00:10:24.160><c> which</c><00:10:24.440><c> use</c><00:10:24.640><c> case,</c>
+
+00:10:25.070 --> 00:10:25.080 align:start position:0%
+which is which team, which use case,
+ 
+
+00:10:25.080 --> 00:10:28.350 align:start position:0%
+which is which team, which use case,
+which<00:10:25.400><c> project</c><00:10:26.320><c> is</c><00:10:26.680><c> in</c><00:10:26.840><c> a</c><00:10:26.880><c> way</c><00:10:27.720><c> owner</c><00:10:28.080><c> is</c>
+
+00:10:28.350 --> 00:10:28.360 align:start position:0%
+which project is in a way owner is
+ 
+
+00:10:28.360 --> 00:10:31.550 align:start position:0%
+which project is in a way owner is
+responsible<00:10:29.160><c> for</c><00:10:29.320><c> that</c><00:10:29.560><c> specific</c><00:10:30.080><c> server.</c>
+
+00:10:31.550 --> 00:10:31.560 align:start position:0%
+responsible for that specific server.
+ 
+
+00:10:31.560 --> 00:10:33.870 align:start position:0%
+responsible for that specific server.
+What<00:10:31.720><c> are</c><00:10:31.880><c> the</c><00:10:32.040><c> environment</c><00:10:33.080><c> in</c><00:10:33.280><c> in</c><00:10:33.480><c> which</c><00:10:33.760><c> the</c>
+
+00:10:33.870 --> 00:10:33.880 align:start position:0%
+What are the environment in in which the
+ 
+
+00:10:33.880 --> 00:10:36.070 align:start position:0%
+What are the environment in in which the
+server<00:10:34.280><c> is</c><00:10:34.480><c> running.</c><00:10:34.840><c> So,</c><00:10:35.000><c> it</c><00:10:35.160><c> is</c><00:10:35.360><c> running</c><00:10:35.960><c> is</c>
+
+00:10:36.070 --> 00:10:36.080 align:start position:0%
+server is running. So, it is running is
+ 
+
+00:10:36.080 --> 00:10:38.190 align:start position:0%
+server is running. So, it is running is
+it<00:10:36.160><c> running</c><00:10:36.520><c> in</c><00:10:36.760><c> dev,</c><00:10:37.160><c> test,</c><00:10:37.520><c> prod,</c><00:10:37.880><c> and</c><00:10:38.000><c> so</c>
+
+00:10:38.190 --> 00:10:38.200 align:start position:0%
+it running in dev, test, prod, and so
+ 
+
+00:10:38.200 --> 00:10:39.070 align:start position:0%
+it running in dev, test, prod, and so
+on.
+
+00:10:39.070 --> 00:10:39.080 align:start position:0%
+on.
+ 
+
+00:10:39.080 --> 00:10:41.390 align:start position:0%
+on.
+What<00:10:39.280><c> are</c><00:10:39.440><c> the</c><00:10:39.680><c> authentication</c><00:10:40.320><c> model?</c>
+
+00:10:41.390 --> 00:10:41.400 align:start position:0%
+What are the authentication model?
+ 
+
+00:10:41.400 --> 00:10:42.470 align:start position:0%
+What are the authentication model?
+So,
+
+00:10:42.470 --> 00:10:42.480 align:start position:0%
+So,
+ 
+
+00:10:42.480 --> 00:10:44.870 align:start position:0%
+So,
+how<00:10:43.000><c> I</c><00:10:43.120><c> can</c><00:10:43.640><c> effect</c>
+
+00:10:44.870 --> 00:10:44.880 align:start position:0%
+how I can effect
+ 
+
+00:10:44.880 --> 00:10:47.190 align:start position:0%
+how I can effect
+how<00:10:45.120><c> I</c><00:10:45.200><c> can</c><00:10:45.440><c> as</c><00:10:45.560><c> a</c><00:10:45.600><c> developer</c><00:10:46.120><c> use</c>
+
+00:10:47.190 --> 00:10:47.200 align:start position:0%
+how I can as a developer use
+ 
+
+00:10:47.200 --> 00:10:49.990 align:start position:0%
+how I can as a developer use
+that<00:10:47.440><c> server?</c><00:10:47.920><c> What</c><00:10:48.080><c> are</c><00:10:48.280><c> the</c><00:10:49.040><c> mechanism</c><00:10:49.800><c> that</c>
+
+00:10:49.990 --> 00:10:50.000 align:start position:0%
+that server? What are the mechanism that
+ 
+
+00:10:50.000 --> 00:10:52.910 align:start position:0%
+that server? What are the mechanism that
+I<00:10:50.440><c> need</c><00:10:50.600><c> to</c><00:10:50.680><c> put</c><00:10:50.800><c> in</c><00:10:50.920><c> place?</c><00:10:51.920><c> The</c><00:10:52.720><c> cost</c>
+
+00:10:52.910 --> 00:10:52.920 align:start position:0%
+I need to put in place? The cost
+ 
+
+00:10:52.920 --> 00:10:55.710 align:start position:0%
+I need to put in place? The cost
+attribution.<00:10:53.800><c> So,</c><00:10:54.520><c> this</c><00:10:54.720><c> is</c><00:10:54.920><c> linked</c><00:10:55.240><c> to</c><00:10:55.400><c> the</c>
+
+00:10:55.710 --> 00:10:55.720 align:start position:0%
+attribution. So, this is linked to the
+ 
+
+00:10:55.720 --> 00:10:57.790 align:start position:0%
+attribution. So, this is linked to the
+AI<00:10:55.960><c> gateway</c><00:10:56.360><c> functionality,</c><00:10:57.120><c> the</c><00:10:57.240><c> budgeting</c>
+
+00:10:57.790 --> 00:10:57.800 align:start position:0%
+AI gateway functionality, the budgeting
+ 
+
+00:10:57.800 --> 00:11:00.150 align:start position:0%
+AI gateway functionality, the budgeting
+aspect<00:10:58.360><c> that</c><00:10:58.640><c> we</c><00:10:58.840><c> have</c><00:10:59.040><c> described</c><00:10:59.360><c> before.</c>
+
+00:11:00.150 --> 00:11:00.160 align:start position:0%
+aspect that we have described before.
+ 
+
+00:11:00.160 --> 00:11:03.510 align:start position:0%
+aspect that we have described before.
+And<00:11:01.120><c> this</c><00:11:01.320><c> is</c><00:11:01.440><c> done</c><00:11:01.839><c> in</c><00:11:02.000><c> order</c><00:11:02.200><c> to</c><00:11:02.360><c> see</c>
+
+00:11:03.510 --> 00:11:03.520 align:start position:0%
+And this is done in order to see
+ 
+
+00:11:03.520 --> 00:11:05.710 align:start position:0%
+And this is done in order to see
+what<00:11:03.800><c> server</c>
+
+00:11:05.710 --> 00:11:05.720 align:start position:0%
+what server
+ 
+
+00:11:05.720 --> 00:11:09.070 align:start position:0%
+what server
+spending<00:11:06.160><c> what</c><00:11:06.400><c> essentially.</c><00:11:07.440><c> And</c><00:11:07.960><c> then</c><00:11:08.480><c> the</c>
+
+00:11:09.070 --> 00:11:09.080 align:start position:0%
+spending what essentially. And then the
+ 
+
+00:11:09.080 --> 00:11:11.550 align:start position:0%
+spending what essentially. And then the
+use<00:11:09.320><c> case</c><00:11:09.560><c> linkage.</c><00:11:10.120><c> So,</c><00:11:10.800><c> what</c><00:11:11.000><c> are</c><00:11:11.120><c> the</c><00:11:11.320><c> use</c>
+
+00:11:11.550 --> 00:11:11.560 align:start position:0%
+use case linkage. So, what are the use
+ 
+
+00:11:11.560 --> 00:11:14.950 align:start position:0%
+use case linkage. So, what are the use
+cases<00:11:12.080><c> that</c><00:11:12.280><c> are</c><00:11:13.040><c> effect</c><00:11:14.120><c> that</c><00:11:14.240><c> are</c><00:11:14.440><c> actually</c>
+
+00:11:14.950 --> 00:11:14.960 align:start position:0%
+cases that are effect that are actually
+ 
+
+00:11:14.960 --> 00:11:17.190 align:start position:0%
+cases that are effect that are actually
+using<00:11:15.600><c> that</c><00:11:15.839><c> specific</c><00:11:16.520><c> that</c><00:11:16.720><c> specific</c>
+
+00:11:17.190 --> 00:11:17.200 align:start position:0%
+using that specific that specific
+ 
+
+00:11:17.200 --> 00:11:19.750 align:start position:0%
+using that specific that specific
+server.<00:11:17.839><c> And</c><00:11:18.000><c> these</c><00:11:18.200><c> are</c><00:11:18.360><c> not</c><00:11:19.040><c> simply,</c><00:11:19.680><c> you</c>
+
+00:11:19.750 --> 00:11:19.760 align:start position:0%
+server. And these are not simply, you
+ 
+
+00:11:19.760 --> 00:11:21.950 align:start position:0%
+server. And these are not simply, you
+know,<00:11:20.240><c> metadata</c><00:11:20.960><c> that</c><00:11:21.160><c> are</c><00:11:21.320><c> nice</c><00:11:21.600><c> to</c><00:11:21.720><c> have.</c>
+
+00:11:21.950 --> 00:11:21.960 align:start position:0%
+know, metadata that are nice to have.
+ 
+
+00:11:21.960 --> 00:11:24.910 align:start position:0%
+know, metadata that are nice to have.
+This<00:11:22.120><c> is</c><00:11:22.280><c> something</c><00:11:22.720><c> that</c><00:11:23.240><c> really</c>
+
+00:11:24.910 --> 00:11:24.920 align:start position:0%
+This is something that really
+ 
+
+00:11:24.920 --> 00:11:26.470 align:start position:0%
+This is something that really
+bring<00:11:25.200><c> out</c><00:11:25.440><c> the</c><00:11:25.600><c> impact</c><00:11:26.000><c> analysis</c>
+
+00:11:26.470 --> 00:11:26.480 align:start position:0%
+bring out the impact analysis
+ 
+
+00:11:26.480 --> 00:11:28.910 align:start position:0%
+bring out the impact analysis
+functionality.<00:11:27.240><c> This</c><00:11:27.480><c> is</c><00:11:27.720><c> where</c>
+
+00:11:28.910 --> 00:11:28.920 align:start position:0%
+functionality. This is where
+ 
+
+00:11:28.920 --> 00:11:31.630 align:start position:0%
+functionality. This is where
+effectively<00:11:29.720><c> we</c><00:11:29.920><c> enable</c><00:11:30.520><c> the</c><00:11:30.680><c> governance</c><00:11:31.400><c> and</c>
+
+00:11:31.630 --> 00:11:31.640 align:start position:0%
+effectively we enable the governance and
+ 
+
+00:11:31.640 --> 00:11:33.670 align:start position:0%
+effectively we enable the governance and
+the<00:11:32.080><c> auditability.</c>
+
+00:11:33.670 --> 00:11:33.680 align:start position:0%
+the auditability.
+ 
+
+00:11:33.680 --> 00:11:36.630 align:start position:0%
+the auditability.
+And<00:11:33.880><c> we</c><00:11:34.000><c> have</c><00:11:34.160><c> the</c><00:11:34.280><c> complete</c><00:11:35.280><c> trail</c><00:11:35.680><c> of</c><00:11:36.280><c> what</c>
+
+00:11:36.630 --> 00:11:36.640 align:start position:0%
+And we have the complete trail of what
+ 
+
+00:11:36.640 --> 00:11:39.230 align:start position:0%
+And we have the complete trail of what
+AI<00:11:36.880><c> tooling</c><00:11:37.320><c> exist</c><00:11:37.880><c> and</c><00:11:38.120><c> how</c>
+
+00:11:39.230 --> 00:11:39.240 align:start position:0%
+AI tooling exist and how
+ 
+
+00:11:39.240 --> 00:11:41.710 align:start position:0%
+AI tooling exist and how
+they<00:11:39.360><c> are</c><00:11:39.680><c> they</c><00:11:39.800><c> are</c><00:11:40.000><c> being</c><00:11:40.520><c> used</c><00:11:40.880><c> by</c>
+
+00:11:41.710 --> 00:11:41.720 align:start position:0%
+they are they are being used by
+ 
+
+00:11:41.720 --> 00:11:43.510 align:start position:0%
+they are they are being used by
+Amplifone<00:11:42.160><c> developers.</c>
+
+00:11:43.510 --> 00:11:43.520 align:start position:0%
+Amplifone developers.
+ 
+
+00:11:43.520 --> 00:11:45.630 align:start position:0%
+Amplifone developers.
+And<00:11:43.600><c> then</c><00:11:43.760><c> we</c><00:11:43.880><c> have</c><00:11:44.440><c> second</c><00:11:44.839><c> registry</c><00:11:45.360><c> which</c>
+
+00:11:45.630 --> 00:11:45.640 align:start position:0%
+And then we have second registry which
+ 
+
+00:11:45.640 --> 00:11:48.350 align:start position:0%
+And then we have second registry which
+is<00:11:45.760><c> the</c><00:11:46.000><c> eight</c><00:11:46.200><c> way</c><00:11:46.520><c> registry.</c><00:11:47.720><c> This</c><00:11:47.920><c> is</c><00:11:48.120><c> fully</c>
+
+00:11:48.350 --> 00:11:48.360 align:start position:0%
+is the eight way registry. This is fully
+ 
+
+00:11:48.360 --> 00:11:50.950 align:start position:0%
+is the eight way registry. This is fully
+based<00:11:48.760><c> on</c><00:11:49.080><c> the</c><00:11:49.440><c> agent</c><00:11:49.760><c> card</c>
+
+00:11:50.950 --> 00:11:50.960 align:start position:0%
+based on the agent card
+ 
+
+00:11:50.960 --> 00:11:52.990 align:start position:0%
+based on the agent card
+that,<00:11:51.520><c> you</c><00:11:51.600><c> know,</c><00:11:51.800><c> describe</c><00:11:52.360><c> the</c><00:11:52.600><c> agent's</c>
+
+00:11:52.990 --> 00:11:53.000 align:start position:0%
+that, you know, describe the agent's
+ 
+
+00:11:53.000 --> 00:11:56.630 align:start position:0%
+that, you know, describe the agent's
+identity,<00:11:54.040><c> its</c><00:11:54.240><c> endpoint,</c>
+
+00:11:56.630 --> 00:11:56.640 align:start position:0%
+identity, its endpoint,
+ 
+
+00:11:56.640 --> 00:11:59.030 align:start position:0%
+identity, its endpoint,
+the<00:11:56.880><c> agent</c><00:11:57.160><c> capabilities,</c><00:11:57.839><c> the</c><00:11:58.040><c> supported</c>
+
+00:11:59.030 --> 00:11:59.040 align:start position:0%
+the agent capabilities, the supported
+ 
+
+00:11:59.040 --> 00:12:01.030 align:start position:0%
+the agent capabilities, the supported
+modalities,<00:11:59.720><c> authentication</c><00:12:00.440><c> requirements,</c>
+
+00:12:01.030 --> 00:12:01.040 align:start position:0%
+modalities, authentication requirements,
+ 
+
+00:12:01.040 --> 00:12:03.750 align:start position:0%
+modalities, authentication requirements,
+and<00:12:01.200><c> so</c><00:12:01.360><c> on.</c><00:12:02.040><c> We</c>
+
+00:12:03.750 --> 00:12:03.760 align:start position:0%
+and so on. We
+ 
+
+00:12:03.760 --> 00:12:06.310 align:start position:0%
+and so on. We
+have<00:12:04.000><c> built</c><00:12:04.320><c> some</c><00:12:04.600><c> blueprints</c><00:12:05.600><c> and</c><00:12:05.760><c> then</c><00:12:06.040><c> we</c>
+
+00:12:06.310 --> 00:12:06.320 align:start position:0%
+have built some blueprints and then we
+ 
+
+00:12:06.320 --> 00:12:08.590 align:start position:0%
+have built some blueprints and then we
+talk<00:12:07.160><c> about</c><00:12:07.480><c> those</c><00:12:07.680><c> blueprints.</c><00:12:08.360><c> But</c>
+
+00:12:08.590 --> 00:12:08.600 align:start position:0%
+talk about those blueprints. But
+ 
+
+00:12:08.600 --> 00:12:12.190 align:start position:0%
+talk about those blueprints. But
+essentially,<00:12:09.080><c> when</c><00:12:09.320><c> an</c><00:12:09.440><c> agent</c><00:12:09.800><c> is</c><00:12:10.120><c> deployed,</c>
+
+00:12:12.190 --> 00:12:12.200 align:start position:0%
+essentially, when an agent is deployed,
+ 
+
+00:12:12.200 --> 00:12:14.990 align:start position:0%
+essentially, when an agent is deployed,
+it<00:12:12.440><c> automatically</c><00:12:13.200><c> publish</c><00:12:14.160><c> publishes</c><00:12:14.680><c> its</c>
+
+00:12:14.990 --> 00:12:15.000 align:start position:0%
+it automatically publish publishes its
+ 
+
+00:12:15.000 --> 00:12:18.030 align:start position:0%
+it automatically publish publishes its
+agent<00:12:15.320><c> card</c><00:12:15.720><c> to</c><00:12:15.839><c> the</c><00:12:16.000><c> registry</c><00:12:16.560><c> via</c><00:12:16.839><c> CICD</c>
+
+00:12:18.030 --> 00:12:18.040 align:start position:0%
+agent card to the registry via CICD
+ 
+
+00:12:18.040 --> 00:12:20.870 align:start position:0%
+agent card to the registry via CICD
+integration.<00:12:19.040><c> So,</c><00:12:19.720><c> in</c><00:12:19.880><c> this</c><00:12:20.080><c> way</c><00:12:20.360><c> any</c><00:12:20.600><c> other</c>
+
+00:12:20.870 --> 00:12:20.880 align:start position:0%
+integration. So, in this way any other
+ 
+
+00:12:20.880 --> 00:12:24.430 align:start position:0%
+integration. So, in this way any other
+agent,<00:12:21.320><c> any</c><00:12:21.520><c> other</c><00:12:22.120><c> developer</c><00:12:22.839><c> can</c><00:12:23.720><c> discover</c>
+
+00:12:24.430 --> 00:12:24.440 align:start position:0%
+agent, any other developer can discover
+ 
+
+00:12:24.440 --> 00:12:26.470 align:start position:0%
+agent, any other developer can discover
+this<00:12:24.680><c> new</c><00:12:24.920><c> agent</c><00:12:25.520><c> and</c><00:12:25.760><c> obviously</c><00:12:26.200><c> can</c>
+
+00:12:26.470 --> 00:12:26.480 align:start position:0%
+this new agent and obviously can
+ 
+
+00:12:26.480 --> 00:12:28.430 align:start position:0%
+this new agent and obviously can
+interact<00:12:27.120><c> with</c><00:12:27.320><c> it.</c>
+
+00:12:28.430 --> 00:12:28.440 align:start position:0%
+interact with it.
+ 
+
+00:12:28.440 --> 00:12:31.230 align:start position:0%
+interact with it.
+So,<00:12:28.800><c> in</c><00:12:28.920><c> a</c><00:12:28.960><c> way</c><00:12:29.280><c> we</c><00:12:29.960><c> are</c><00:12:30.080><c> trying</c><00:12:30.360><c> to</c><00:12:30.480><c> make</c><00:12:31.040><c> all</c>
+
+00:12:31.230 --> 00:12:31.240 align:start position:0%
+So, in a way we are trying to make all
+ 
+
+00:12:31.240 --> 00:12:32.270 align:start position:0%
+So, in a way we are trying to make all
+those
+
+00:12:32.270 --> 00:12:32.280 align:start position:0%
+those
+ 
+
+00:12:32.280 --> 00:12:36.310 align:start position:0%
+those
+agent<00:12:32.600><c> development</c><00:12:33.480><c> self-documenting.</c>
+
+00:12:36.310 --> 00:12:36.320 align:start position:0%
+agent development self-documenting.
+ 
+
+00:12:36.320 --> 00:12:39.750 align:start position:0%
+agent development self-documenting.
+Now,<00:12:36.839><c> we</c><00:12:37.360><c> will</c><00:12:37.560><c> see</c><00:12:37.880><c> how</c><00:12:38.640><c> use</c><00:12:38.920><c> case</c><00:12:39.160><c> registry</c>
+
+00:12:39.750 --> 00:12:39.760 align:start position:0%
+Now, we will see how use case registry
+ 
+
+00:12:39.760 --> 00:12:42.670 align:start position:0%
+Now, we will see how use case registry
+connects<00:12:40.800><c> those</c><00:12:41.160><c> two</c><00:12:41.600><c> other</c><00:12:41.920><c> registry</c>
+
+00:12:42.670 --> 00:12:42.680 align:start position:0%
+connects those two other registry
+ 
+
+00:12:42.680 --> 00:12:46.350 align:start position:0%
+connects those two other registry
+together.<00:12:43.680><c> How</c><00:12:44.000><c> do</c><00:12:44.120><c> we</c><00:12:44.240><c> can</c><00:12:44.520><c> use</c><00:12:45.520><c> the</c><00:12:45.920><c> MCP</c>
+
+00:12:46.350 --> 00:12:46.360 align:start position:0%
+together. How do we can use the MCP
+ 
+
+00:12:46.360 --> 00:12:49.190 align:start position:0%
+together. How do we can use the MCP
+registry<00:12:46.839><c> and</c><00:12:47.320><c> eight</c><00:12:47.520><c> way</c><00:12:47.760><c> registry</c><00:12:48.880><c> from</c><00:12:49.080><c> a</c>
+
+00:12:49.190 --> 00:12:49.200 align:start position:0%
+registry and eight way registry from a
+ 
+
+00:12:49.200 --> 00:12:51.070 align:start position:0%
+registry and eight way registry from a
+business<00:12:49.680><c> point</c><00:12:49.960><c> of</c><00:12:50.040><c> view?</c>
+
+00:12:51.070 --> 00:12:51.080 align:start position:0%
+business point of view?
+ 
+
+00:12:51.080 --> 00:12:53.990 align:start position:0%
+business point of view?
+We<00:12:51.320><c> want</c><00:12:51.680><c> to</c><00:12:51.800><c> have</c><00:12:52.040><c> a</c><00:12:52.120><c> use</c><00:12:52.400><c> case</c><00:12:52.839><c> registry.</c><00:12:53.400><c> So,</c>
+
+00:12:53.990 --> 00:12:54.000 align:start position:0%
+We want to have a use case registry. So,
+ 
+
+00:12:54.000 --> 00:12:56.590 align:start position:0%
+We want to have a use case registry. So,
+to<00:12:54.200><c> map</c><00:12:54.640><c> the</c><00:12:54.839><c> agents</c><00:12:55.280><c> and</c><00:12:55.400><c> the</c><00:12:55.480><c> tools</c><00:12:56.200><c> in</c>
+
+00:12:56.590 --> 00:12:56.600 align:start position:0%
+to map the agents and the tools in
+ 
+
+00:12:56.600 --> 00:12:58.829 align:start position:0%
+to map the agents and the tools in
+specific<00:12:57.200><c> use</c><00:12:57.400><c> case</c><00:12:57.839><c> adopted</c><00:12:58.400><c> across</c><00:12:58.760><c> the</c>
+
+00:12:58.829 --> 00:12:58.839 align:start position:0%
+specific use case adopted across the
+ 
+
+00:12:58.839 --> 00:13:01.110 align:start position:0%
+specific use case adopted across the
+organization.<00:13:00.160><c> And</c><00:13:00.200><c> this</c><00:13:00.360><c> is</c><00:13:00.480><c> the</c><00:13:00.560><c> reason</c><00:13:00.880><c> why</c>
+
+00:13:01.110 --> 00:13:01.120 align:start position:0%
+organization. And this is the reason why
+ 
+
+00:13:01.120 --> 00:13:04.270 align:start position:0%
+organization. And this is the reason why
+we<00:13:01.240><c> designed</c><00:13:02.400><c> this</c><00:13:02.560><c> specific</c><00:13:03.160><c> building</c><00:13:03.520><c> block</c>
+
+00:13:04.270 --> 00:13:04.280 align:start position:0%
+we designed this specific building block
+ 
+
+00:13:04.280 --> 00:13:07.630 align:start position:0%
+we designed this specific building block
+that<00:13:04.760><c> aims</c><00:13:05.080><c> to</c><00:13:05.200><c> contain</c><00:13:05.640><c> the</c><00:13:05.720><c> information</c><00:13:06.440><c> of</c>
+
+00:13:07.630 --> 00:13:07.640 align:start position:0%
+that aims to contain the information of
+ 
+
+00:13:07.640 --> 00:13:10.270 align:start position:0%
+that aims to contain the information of
+what<00:13:07.880><c> are</c><00:13:08.000><c> the</c><00:13:08.200><c> assets</c><00:13:08.560><c> used</c><00:13:08.880><c> by</c><00:13:09.200><c> the</c><00:13:09.360><c> single</c>
+
+00:13:10.270 --> 00:13:10.280 align:start position:0%
+what are the assets used by the single
+ 
+
+00:13:10.280 --> 00:13:12.270 align:start position:0%
+what are the assets used by the single
+use<00:13:10.520><c> case,</c><00:13:10.880><c> what</c><00:13:11.000><c> they</c><00:13:11.120><c> implement,</c><00:13:11.960><c> what</c><00:13:12.120><c> are</c>
+
+00:13:12.270 --> 00:13:12.280 align:start position:0%
+use case, what they implement, what are
+ 
+
+00:13:12.280 --> 00:13:14.510 align:start position:0%
+use case, what they implement, what are
+the<00:13:12.400><c> models</c><00:13:13.160><c> they</c><00:13:13.320><c> used</c><00:13:14.000><c> also</c><00:13:14.280><c> for</c><00:13:14.400><c> the</c>
+
+00:13:14.510 --> 00:13:14.520 align:start position:0%
+the models they used also for the
+ 
+
+00:13:14.520 --> 00:13:16.110 align:start position:0%
+the models they used also for the
+maintenance<00:13:15.080><c> topic</c><00:13:15.440><c> that</c><00:13:15.640><c> we</c><00:13:15.760><c> mentioned</c>
+
+00:13:16.110 --> 00:13:16.120 align:start position:0%
+maintenance topic that we mentioned
+ 
+
+00:13:16.120 --> 00:13:17.110 align:start position:0%
+maintenance topic that we mentioned
+before.
+
+00:13:17.110 --> 00:13:17.120 align:start position:0%
+before.
+ 
+
+00:13:17.120 --> 00:13:18.350 align:start position:0%
+before.
+And<00:13:17.280><c> also</c>
+
+00:13:18.350 --> 00:13:18.360 align:start position:0%
+And also
+ 
+
+00:13:18.360 --> 00:13:21.350 align:start position:0%
+And also
+understand<00:13:18.880><c> how</c><00:13:19.800><c> and</c><00:13:20.000><c> where</c><00:13:20.440><c> we</c><00:13:20.600><c> develop</c><00:13:21.240><c> and</c>
+
+00:13:21.350 --> 00:13:21.360 align:start position:0%
+understand how and where we develop and
+ 
+
+00:13:21.360 --> 00:13:23.710 align:start position:0%
+understand how and where we develop and
+deployed<00:13:22.160><c> this</c><00:13:22.400><c> kind</c><00:13:22.680><c> of</c><00:13:22.800><c> use</c><00:13:22.920><c> cases.</c><00:13:23.600><c> For</c>
+
+00:13:23.710 --> 00:13:23.720 align:start position:0%
+deployed this kind of use cases. For
+ 
+
+00:13:23.720 --> 00:13:25.790 align:start position:0%
+deployed this kind of use cases. For
+example,<00:13:24.160><c> which</c><00:13:24.360><c> is</c><00:13:24.480><c> the</c><00:13:24.600><c> system</c><00:13:25.040><c> that</c><00:13:25.280><c> serve</c>
+
+00:13:25.790 --> 00:13:25.800 align:start position:0%
+example, which is the system that serve
+ 
+
+00:13:25.800 --> 00:13:28.390 align:start position:0%
+example, which is the system that serve
+the<00:13:25.920><c> use</c><00:13:26.080><c> case</c><00:13:26.320><c> the</c><00:13:26.400><c> specific</c><00:13:26.920><c> use</c><00:13:27.080><c> case</c><00:13:27.960><c> and</c>
+
+00:13:28.390 --> 00:13:28.400 align:start position:0%
+the use case the specific use case and
+ 
+
+00:13:28.400 --> 00:13:31.710 align:start position:0%
+the use case the specific use case and
+what<00:13:28.600><c> are</c><00:13:28.800><c> all</c><00:13:29.000><c> the</c><00:13:29.200><c> other</c><00:13:29.760><c> impacted</c><00:13:30.400><c> by</c>
+
+00:13:31.710 --> 00:13:31.720 align:start position:0%
+what are all the other impacted by
+ 
+
+00:13:31.720 --> 00:13:33.350 align:start position:0%
+what are all the other impacted by
+this<00:13:32.000><c> use</c><00:13:32.160><c> case.</c><00:13:32.440><c> So,</c><00:13:32.600><c> for</c><00:13:32.720><c> example,</c><00:13:33.080><c> if</c><00:13:33.240><c> we</c>
+
+00:13:33.350 --> 00:13:33.360 align:start position:0%
+this use case. So, for example, if we
+ 
+
+00:13:33.360 --> 00:13:36.190 align:start position:0%
+this use case. So, for example, if we
+have<00:13:33.640><c> connection</c><00:13:34.560><c> among</c><00:13:34.920><c> multiple</c><00:13:35.960><c> use</c>
+
+00:13:36.190 --> 00:13:36.200 align:start position:0%
+have connection among multiple use
+ 
+
+00:13:36.200 --> 00:13:39.110 align:start position:0%
+have connection among multiple use
+cases,<00:13:36.680><c> we</c><00:13:36.839><c> want</c><00:13:37.120><c> to</c><00:13:37.240><c> see</c><00:13:37.440><c> that</c><00:13:37.960><c> clearly</c><00:13:38.800><c> in</c>
+
+00:13:39.110 --> 00:13:39.120 align:start position:0%
+cases, we want to see that clearly in
+ 
+
+00:13:39.120 --> 00:13:41.390 align:start position:0%
+cases, we want to see that clearly in
+interface<00:13:39.760><c> that</c><00:13:39.920><c> can</c><00:13:40.080><c> be</c><00:13:40.200><c> a</c><00:13:40.280><c> catalog</c><00:13:40.839><c> for</c><00:13:41.120><c> for</c>
+
+00:13:41.390 --> 00:13:41.400 align:start position:0%
+interface that can be a catalog for for
+ 
+
+00:13:41.400 --> 00:13:42.710 align:start position:0%
+interface that can be a catalog for for
+everyone.
+
+00:13:42.710 --> 00:13:42.720 align:start position:0%
+everyone.
+ 
+
+00:13:42.720 --> 00:13:45.710 align:start position:0%
+everyone.
+Let's<00:13:43.640><c> see</c><00:13:43.760><c> now</c><00:13:44.280><c> how</c><00:13:44.440><c> it</c><00:13:44.640><c> works</c><00:13:44.960><c> in</c><00:13:45.120><c> practice.</c>
+
+00:13:45.710 --> 00:13:45.720 align:start position:0%
+Let's see now how it works in practice.
+ 
+
+00:13:45.720 --> 00:13:48.590 align:start position:0%
+Let's see now how it works in practice.
+So,<00:13:46.440><c> let's</c><00:13:46.720><c> go</c><00:13:47.040><c> in</c><00:13:47.200><c> a</c><00:13:47.360><c> walk</c><00:13:47.560><c> through</c><00:13:47.800><c> of</c><00:13:47.920><c> the</c>
+
+00:13:48.590 --> 00:13:48.600 align:start position:0%
+So, let's go in a walk through of the
+ 
+
+00:13:48.600 --> 00:13:50.310 align:start position:0%
+So, let's go in a walk through of the
+the<00:13:48.680><c> platform</c><00:13:49.080><c> that</c><00:13:49.280><c> we</c><00:13:49.360><c> developed</c><00:13:49.880><c> and</c><00:13:50.040><c> that</c>
+
+00:13:50.310 --> 00:13:50.320 align:start position:0%
+the platform that we developed and that
+ 
+
+00:13:50.320 --> 00:13:52.710 align:start position:0%
+the platform that we developed and that
+implement<00:13:51.000><c> all</c><00:13:51.160><c> these</c><00:13:51.400><c> registries</c>
+
+00:13:52.710 --> 00:13:52.720 align:start position:0%
+implement all these registries
+ 
+
+00:13:52.720 --> 00:13:54.470 align:start position:0%
+implement all these registries
+for<00:13:52.920><c> the</c><00:13:53.000><c> organization.</c>
+
+00:13:54.470 --> 00:13:54.480 align:start position:0%
+for the organization.
+ 
+
+00:13:54.480 --> 00:13:56.270 align:start position:0%
+for the organization.
+Okay,<00:13:54.720><c> so</c><00:13:54.960><c> we</c><00:13:55.080><c> wanted</c><00:13:55.440><c> also</c><00:13:55.720><c> to</c><00:13:55.839><c> give</c><00:13:56.080><c> you</c><00:13:56.200><c> a</c>
+
+00:13:56.270 --> 00:13:56.280 align:start position:0%
+Okay, so we wanted also to give you a
+ 
+
+00:13:56.280 --> 00:13:58.950 align:start position:0%
+Okay, so we wanted also to give you a
+brief<00:13:56.560><c> overview</c><00:13:57.000><c> of</c><00:13:57.200><c> our</c><00:13:57.480><c> platform.</c>
+
+00:13:58.950 --> 00:13:58.960 align:start position:0%
+brief overview of our platform.
+ 
+
+00:13:58.960 --> 00:14:02.070 align:start position:0%
+brief overview of our platform.
+Here<00:13:59.280><c> you</c><00:13:59.400><c> can</c><00:13:59.560><c> see</c><00:13:59.720><c> that</c><00:13:59.920><c> is</c><00:14:00.080><c> the</c><00:14:00.800><c> home</c><00:14:01.000><c> page.</c>
+
+00:14:02.070 --> 00:14:02.080 align:start position:0%
+Here you can see that is the home page.
+ 
+
+00:14:02.080 --> 00:14:04.510 align:start position:0%
+Here you can see that is the home page.
+You<00:14:02.240><c> can</c><00:14:02.560><c> go</c><00:14:02.800><c> into</c><00:14:03.080><c> the</c><00:14:03.360><c> catalog,</c><00:14:03.880><c> so</c><00:14:04.120><c> what</c><00:14:04.360><c> we</c>
+
+00:14:04.510 --> 00:14:04.520 align:start position:0%
+You can go into the catalog, so what we
+ 
+
+00:14:04.520 --> 00:14:07.350 align:start position:0%
+You can go into the catalog, so what we
+described<00:14:05.520><c> in</c><00:14:05.720><c> detail</c><00:14:06.040><c> before,</c><00:14:06.520><c> so</c><00:14:06.800><c> MCP,</c>
+
+00:14:07.350 --> 00:14:07.360 align:start position:0%
+described in detail before, so MCP,
+ 
+
+00:14:07.360 --> 00:14:10.470 align:start position:0%
+described in detail before, so MCP,
+eight<00:14:07.560><c> way,</c><00:14:07.839><c> use</c><00:14:08.040><c> cases.</c><00:14:09.040><c> We</c><00:14:09.240><c> also</c><00:14:09.520><c> have</c><00:14:09.720><c> the</c>
+
+00:14:10.470 --> 00:14:10.480 align:start position:0%
+eight way, use cases. We also have the
+ 
+
+00:14:10.480 --> 00:14:13.470 align:start position:0%
+eight way, use cases. We also have the
+AI<00:14:10.680><c> gateway</c><00:14:11.079><c> part</c><00:14:11.480><c> where</c><00:14:11.720><c> we</c><00:14:11.920><c> define</c><00:14:13.040><c> what</c>
+
+00:14:13.470 --> 00:14:13.480 align:start position:0%
+AI gateway part where we define what
+ 
+
+00:14:13.480 --> 00:14:15.470 align:start position:0%
+AI gateway part where we define what
+LLMs<00:14:14.160><c> are</c>
+
+00:14:15.470 --> 00:14:15.480 align:start position:0%
+LLMs are
+ 
+
+00:14:15.480 --> 00:14:17.270 align:start position:0%
+LLMs are
+available
+
+00:14:17.270 --> 00:14:17.280 align:start position:0%
+available
+ 
+
+00:14:17.280 --> 00:14:20.710 align:start position:0%
+available
+in<00:14:17.400><c> the</c><00:14:17.520><c> enterprise</c><00:14:18.560><c> right</c><00:14:18.720><c> now.</c>
+
+00:14:20.710 --> 00:14:20.720 align:start position:0%
+in the enterprise right now.
+ 
+
+00:14:20.720 --> 00:14:22.710 align:start position:0%
+in the enterprise right now.
+Going<00:14:21.000><c> back</c><00:14:21.200><c> to</c><00:14:21.320><c> the</c><00:14:21.400><c> dashboard,</c><00:14:22.120><c> if</c><00:14:22.320><c> we</c><00:14:22.440><c> move</c>
+
+00:14:22.710 --> 00:14:22.720 align:start position:0%
+Going back to the dashboard, if we move
+ 
+
+00:14:22.720 --> 00:14:25.110 align:start position:0%
+Going back to the dashboard, if we move
+on<00:14:22.880><c> to</c><00:14:23.000><c> the</c><00:14:23.280><c> catalog,</c>
+
+00:14:25.110 --> 00:14:25.120 align:start position:0%
+on to the catalog,
+ 
+
+00:14:25.120 --> 00:14:26.630 align:start position:0%
+on to the catalog,
+this<00:14:25.320><c> is</c><00:14:25.480><c> the</c><00:14:25.600><c> platform</c><00:14:26.000><c> that</c><00:14:26.200><c> we</c><00:14:26.280><c> are</c><00:14:26.360><c> going</c>
+
+00:14:26.630 --> 00:14:26.640 align:start position:0%
+this is the platform that we are going
+ 
+
+00:14:26.640 --> 00:14:30.150 align:start position:0%
+this is the platform that we are going
+to<00:14:27.600><c> deploy</c><00:14:27.920><c> in</c><00:14:28.000><c> production</c><00:14:28.560><c> soon.</c><00:14:29.480><c> Here</c><00:14:30.040><c> we</c>
+
+00:14:30.150 --> 00:14:30.160 align:start position:0%
+to deploy in production soon. Here we
+ 
+
+00:14:30.160 --> 00:14:32.710 align:start position:0%
+to deploy in production soon. Here we
+have<00:14:30.800><c> demo</c><00:14:31.079><c> data.</c>
+
+00:14:32.710 --> 00:14:32.720 align:start position:0%
+have demo data.
+ 
+
+00:14:32.720 --> 00:14:35.750 align:start position:0%
+have demo data.
+So,<00:14:32.959><c> we</c><00:14:33.079><c> have</c><00:14:33.280><c> six</c><00:14:33.600><c> entities</c><00:14:34.000><c> defined</c>
+
+00:14:35.750 --> 00:14:35.760 align:start position:0%
+So, we have six entities defined
+ 
+
+00:14:35.760 --> 00:14:37.710 align:start position:0%
+So, we have six entities defined
+until<00:14:36.000><c> this</c><00:14:36.200><c> point.</c>
+
+00:14:37.710 --> 00:14:37.720 align:start position:0%
+until this point.
+ 
+
+00:14:37.720 --> 00:14:40.350 align:start position:0%
+until this point.
+We<00:14:37.839><c> have</c><00:14:38.040><c> use</c><00:14:38.240><c> cases,</c><00:14:38.839><c> MCP,</c><00:14:39.480><c> and</c><00:14:39.959><c> eight</c><00:14:40.160><c> way</c>
+
+00:14:40.350 --> 00:14:40.360 align:start position:0%
+We have use cases, MCP, and eight way
+ 
+
+00:14:40.360 --> 00:14:43.870 align:start position:0%
+We have use cases, MCP, and eight way
+agents.<00:14:41.360><c> Going</c><00:14:42.480><c> into</c><00:14:42.800><c> the</c>
+
+00:14:43.870 --> 00:14:43.880 align:start position:0%
+agents. Going into the
+ 
+
+00:14:43.880 --> 00:14:45.750 align:start position:0%
+agents. Going into the
+use<00:14:44.120><c> cases</c><00:14:44.560><c> part,</c>
+
+00:14:45.750 --> 00:14:45.760 align:start position:0%
+use cases part,
+ 
+
+00:14:45.760 --> 00:14:47.829 align:start position:0%
+use cases part,
+if<00:14:45.959><c> we</c><00:14:46.120><c> open</c><00:14:46.600><c> a</c><00:14:46.720><c> sample</c><00:14:47.120><c> use</c><00:14:47.320><c> case</c><00:14:47.640><c> for</c>
+
+00:14:47.829 --> 00:14:47.839 align:start position:0%
+if we open a sample use case for
+ 
+
+00:14:47.839 --> 00:14:49.949 align:start position:0%
+if we open a sample use case for
+instance,<00:14:48.320><c> we</c><00:14:48.440><c> can</c><00:14:48.600><c> define</c>
+
+00:14:49.949 --> 00:14:49.959 align:start position:0%
+instance, we can define
+ 
+
+00:14:49.959 --> 00:14:52.310 align:start position:0%
+instance, we can define
+its<00:14:50.200><c> status,</c><00:14:51.160><c> its</c><00:14:51.400><c> version,</c><00:14:52.160><c> its</c>
+
+00:14:52.310 --> 00:14:52.320 align:start position:0%
+its status, its version, its
+ 
+
+00:14:52.320 --> 00:14:53.870 align:start position:0%
+its status, its version, its
+description,
+
+00:14:53.870 --> 00:14:53.880 align:start position:0%
+description,
+ 
+
+00:14:53.880 --> 00:14:56.030 align:start position:0%
+description,
+assets<00:14:54.360><c> used.</c><00:14:54.800><c> So,</c><00:14:55.000><c> for</c><00:14:55.120><c> instance,</c><00:14:55.520><c> an</c><00:14:55.680><c> agent</c>
+
+00:14:56.030 --> 00:14:56.040 align:start position:0%
+assets used. So, for instance, an agent
+ 
+
+00:14:56.040 --> 00:14:57.750 align:start position:0%
+assets used. So, for instance, an agent
+and<00:14:56.120><c> then</c><00:14:56.240><c> MCP</c><00:14:56.680><c> server,</c>
+
+00:14:57.750 --> 00:14:57.760 align:start position:0%
+and then MCP server,
+ 
+
+00:14:57.760 --> 00:15:00.270 align:start position:0%
+and then MCP server,
+what<00:14:58.000><c> AI</c><00:14:58.200><c> models</c><00:14:58.720><c> it's</c><00:14:59.000><c> using,</c>
+
+00:15:00.270 --> 00:15:00.280 align:start position:0%
+what AI models it's using,
+ 
+
+00:15:00.280 --> 00:15:03.990 align:start position:0%
+what AI models it's using,
+and<00:15:00.600><c> the</c><00:15:00.920><c> life</c><00:15:01.120><c> cycle</c><00:15:01.560><c> history</c><00:15:02.200><c> of</c><00:15:02.440><c> the</c>
+
+00:15:03.990 --> 00:15:04.000 align:start position:0%
+and the life cycle history of the
+ 
+
+00:15:04.000 --> 00:15:06.110 align:start position:0%
+and the life cycle history of the
+of<00:15:04.160><c> the</c><00:15:04.360><c> use</c><00:15:04.600><c> case.</c>
+
+00:15:06.110 --> 00:15:06.120 align:start position:0%
+of the use case.
+ 
+
+00:15:06.120 --> 00:15:08.990 align:start position:0%
+of the use case.
+If<00:15:06.560><c> you</c><00:15:06.640><c> go</c><00:15:06.839><c> on</c><00:15:07.079><c> to</c><00:15:07.240><c> the</c>
+
+00:15:08.990 --> 00:15:09.000 align:start position:0%
+If you go on to the
+ 
+
+00:15:09.000 --> 00:15:11.430 align:start position:0%
+If you go on to the
+create<00:15:09.320><c> use</c><00:15:09.520><c> case</c><00:15:09.800><c> page,</c><00:15:10.560><c> you</c><00:15:10.720><c> can</c><00:15:10.959><c> see</c><00:15:11.160><c> that</c>
+
+00:15:11.430 --> 00:15:11.440 align:start position:0%
+create use case page, you can see that
+ 
+
+00:15:11.440 --> 00:15:14.350 align:start position:0%
+create use case page, you can see that
+we<00:15:11.520><c> can</c><00:15:11.720><c> define</c><00:15:12.360><c> a</c><00:15:12.440><c> name,</c><00:15:12.880><c> a</c><00:15:12.959><c> description,</c><00:15:14.200><c> the</c>
+
+00:15:14.350 --> 00:15:14.360 align:start position:0%
+we can define a name, a description, the
+ 
+
+00:15:14.360 --> 00:15:17.550 align:start position:0%
+we can define a name, a description, the
+status<00:15:14.880><c> of</c><00:15:15.000><c> the</c><00:15:15.120><c> use</c><00:15:15.320><c> case,</c><00:15:16.160><c> the</c><00:15:16.400><c> ownership,</c>
+
+00:15:17.550 --> 00:15:17.560 align:start position:0%
+status of the use case, the ownership,
+ 
+
+00:15:17.560 --> 00:15:21.390 align:start position:0%
+status of the use case, the ownership,
+and<00:15:17.839><c> also</c><00:15:18.120><c> the</c><00:15:18.320><c> assets</c><00:15:18.880><c> linked</c><00:15:19.200><c> to</c><00:15:19.280><c> that.</c>
+
+00:15:21.390 --> 00:15:21.400 align:start position:0%
+and also the assets linked to that.
+ 
+
+00:15:21.400 --> 00:15:24.870 align:start position:0%
+and also the assets linked to that.
+If<00:15:22.120><c> we</c><00:15:22.280><c> move</c><00:15:22.600><c> to</c><00:15:22.800><c> the</c><00:15:23.480><c> AI</c><00:15:23.760><c> tool</c><00:15:24.079><c> section,</c><00:15:24.640><c> so</c>
+
+00:15:24.870 --> 00:15:24.880 align:start position:0%
+If we move to the AI tool section, so
+ 
+
+00:15:24.880 --> 00:15:26.829 align:start position:0%
+If we move to the AI tool section, so
+MCP<00:15:25.320><c> servers,</c>
+
+00:15:26.829 --> 00:15:26.839 align:start position:0%
+MCP servers,
+ 
+
+00:15:26.839 --> 00:15:31.550 align:start position:0%
+MCP servers,
+you<00:15:27.040><c> can</c><00:15:27.880><c> see</c><00:15:28.200><c> that</c><00:15:28.480><c> we</c><00:15:28.839><c> have</c><00:15:29.200><c> two</c><00:15:29.560><c> sample</c>
+
+00:15:31.550 --> 00:15:31.560 align:start position:0%
+you can see that we have two sample
+ 
+
+00:15:31.560 --> 00:15:34.510 align:start position:0%
+you can see that we have two sample
+MCP<00:15:32.000><c> servers.</c><00:15:32.880><c> So,</c>
+
+00:15:34.510 --> 00:15:34.520 align:start position:0%
+MCP servers. So,
+ 
+
+00:15:34.520 --> 00:15:38.110 align:start position:0%
+MCP servers. So,
+the<00:15:35.320><c> actual</c><00:15:36.040><c> server</c><00:15:36.480><c> JSON</c><00:15:37.040><c> is</c><00:15:37.360><c> is</c><00:15:37.560><c> described</c>
+
+00:15:38.110 --> 00:15:38.120 align:start position:0%
+the actual server JSON is is described
+ 
+
+00:15:38.120 --> 00:15:41.430 align:start position:0%
+the actual server JSON is is described
+here.<00:15:39.079><c> We</c><00:15:39.200><c> can</c><00:15:39.360><c> also</c><00:15:39.680><c> see</c><00:15:40.040><c> into</c><00:15:40.440><c> the</c><00:15:41.040><c> eight</c><00:15:41.280><c> way</c>
+
+00:15:41.430 --> 00:15:41.440 align:start position:0%
+here. We can also see into the eight way
+ 
+
+00:15:41.440 --> 00:15:43.270 align:start position:0%
+here. We can also see into the eight way
+agents<00:15:41.920><c> the</c><00:15:42.079><c> same</c>
+
+00:15:43.270 --> 00:15:43.280 align:start position:0%
+agents the same
+ 
+
+00:15:43.280 --> 00:15:46.670 align:start position:0%
+agents the same
+thing<00:15:43.600><c> for</c><00:15:44.200><c> agent</c><00:15:44.560><c> cards.</c><00:15:45.320><c> So,</c><00:15:45.440><c> for</c><00:15:45.640><c> instance,</c>
+
+00:15:46.670 --> 00:15:46.680 align:start position:0%
+thing for agent cards. So, for instance,
+ 
+
+00:15:46.680 --> 00:15:49.750 align:start position:0%
+thing for agent cards. So, for instance,
+here<00:15:47.120><c> we</c><00:15:47.240><c> can</c><00:15:47.440><c> define</c><00:15:47.839><c> the</c><00:15:48.280><c> we</c><00:15:48.360><c> can</c><00:15:48.560><c> have</c><00:15:48.839><c> the</c>
+
+00:15:49.750 --> 00:15:49.760 align:start position:0%
+here we can define the we can have the
+ 
+
+00:15:49.760 --> 00:15:52.910 align:start position:0%
+here we can define the we can have the
+long<00:15:49.959><c> chain</c><00:15:50.240><c> test</c><00:15:50.520><c> agent</c><00:15:50.959><c> that</c><00:15:51.120><c> test</c><00:15:52.000><c> these</c>
+
+00:15:52.910 --> 00:15:52.920 align:start position:0%
+long chain test agent that test these
+ 
+
+00:15:52.920 --> 00:15:54.590 align:start position:0%
+long chain test agent that test these
+capabilities<00:15:53.640><c> and</c><00:15:53.760><c> description</c><00:15:54.280><c> from</c><00:15:54.520><c> the</c>
+
+00:15:54.590 --> 00:15:54.600 align:start position:0%
+capabilities and description from the
+ 
+
+00:15:54.600 --> 00:15:56.270 align:start position:0%
+capabilities and description from the
+agent<00:15:54.959><c> card.</c>
+
+00:15:56.270 --> 00:15:56.280 align:start position:0%
+agent card.
+ 
+
+00:15:56.280 --> 00:15:59.310 align:start position:0%
+agent card.
+We<00:15:56.959><c> also</c><00:15:57.240><c> define</c><00:15:57.680><c> the</c><00:15:57.880><c> inspector</c><00:15:58.600><c> page</c><00:15:59.040><c> where</c>
+
+00:15:59.310 --> 00:15:59.320 align:start position:0%
+We also define the inspector page where
+ 
+
+00:15:59.320 --> 00:16:01.750 align:start position:0%
+We also define the inspector page where
+you<00:15:59.440><c> can</c>
+
+00:16:01.750 --> 00:16:01.760 align:start position:0%
+you can
+ 
+
+00:16:01.760 --> 00:16:03.190 align:start position:0%
+you can
+select
+
+00:16:03.190 --> 00:16:03.200 align:start position:0%
+select
+ 
+
+00:16:03.200 --> 00:16:05.630 align:start position:0%
+select
+an<00:16:03.360><c> MCP</c><00:16:03.720><c> server</c><00:16:04.200><c> and</c><00:16:04.360><c> you</c><00:16:04.480><c> can</c><00:16:04.760><c> launch</c><00:16:05.560><c> the</c>
+
+00:16:05.630 --> 00:16:05.640 align:start position:0%
+an MCP server and you can launch the
+ 
+
+00:16:05.640 --> 00:16:08.550 align:start position:0%
+an MCP server and you can launch the
+inspector<00:16:06.600><c> in</c><00:16:06.800><c> another</c><00:16:07.320><c> tab.</c><00:16:08.000><c> So,</c><00:16:08.200><c> you</c><00:16:08.320><c> can</c>
+
+00:16:08.550 --> 00:16:08.560 align:start position:0%
+inspector in another tab. So, you can
+ 
+
+00:16:08.560 --> 00:16:12.710 align:start position:0%
+inspector in another tab. So, you can
+also<00:16:08.920><c> connect</c><00:16:09.480><c> and</c><00:16:10.240><c> check</c><00:16:10.640><c> what</c><00:16:11.040><c> that</c><00:16:11.280><c> MCP</c><00:16:11.800><c> is</c>
+
+00:16:12.710 --> 00:16:12.720 align:start position:0%
+also connect and check what that MCP is
+ 
+
+00:16:12.720 --> 00:16:14.430 align:start position:0%
+also connect and check what that MCP is
+providing<00:16:13.280><c> you.</c>
+
+00:16:14.430 --> 00:16:14.440 align:start position:0%
+providing you.
+ 
+
+00:16:14.440 --> 00:16:17.670 align:start position:0%
+providing you.
+We<00:16:15.000><c> also</c><00:16:15.320><c> have</c><00:16:15.520><c> the</c><00:16:15.680><c> same</c><00:16:16.000><c> inspector</c><00:16:17.240><c> that</c><00:16:17.440><c> is</c>
+
+00:16:17.670 --> 00:16:17.680 align:start position:0%
+We also have the same inspector that is
+ 
+
+00:16:17.680 --> 00:16:20.470 align:start position:0%
+We also have the same inspector that is
+just<00:16:18.000><c> checking</c><00:16:18.480><c> for</c>
+
+00:16:20.470 --> 00:16:20.480 align:start position:0%
+just checking for
+ 
+
+00:16:20.480 --> 00:16:23.829 align:start position:0%
+just checking for
+compatibility<00:16:21.560><c> with</c><00:16:21.839><c> the</c><00:16:22.480><c> eight</c><00:16:22.680><c> way</c><00:16:23.480><c> agent</c>
+
+00:16:23.829 --> 00:16:23.839 align:start position:0%
+compatibility with the eight way agent
+ 
+
+00:16:23.839 --> 00:16:25.230 align:start position:0%
+compatibility with the eight way agent
+card.
+
+00:16:25.230 --> 00:16:25.240 align:start position:0%
+card.
+ 
+
+00:16:25.240 --> 00:16:27.190 align:start position:0%
+card.
+And<00:16:25.400><c> you</c><00:16:25.520><c> can</c><00:16:25.720><c> do</c><00:16:25.880><c> the</c><00:16:26.000><c> same</c><00:16:26.280><c> here.</c>
+
+00:16:27.190 --> 00:16:27.200 align:start position:0%
+And you can do the same here.
+ 
+
+00:16:27.200 --> 00:16:29.230 align:start position:0%
+And you can do the same here.
+We<00:16:27.520><c> also</c><00:16:27.800><c> have</c><00:16:28.000><c> widgets.</c>
+
+00:16:29.230 --> 00:16:29.240 align:start position:0%
+We also have widgets.
+ 
+
+00:16:29.240 --> 00:16:33.069 align:start position:0%
+We also have widgets.
+So,<00:16:29.680><c> you</c><00:16:29.880><c> can</c><00:16:30.839><c> in</c><00:16:31.400><c> order</c><00:16:31.800><c> to</c><00:16:32.280><c> make</c><00:16:32.600><c> the</c><00:16:32.720><c> life</c><00:16:32.959><c> of</c>
+
+00:16:33.069 --> 00:16:33.079 align:start position:0%
+So, you can in order to make the life of
+ 
+
+00:16:33.079 --> 00:16:35.350 align:start position:0%
+So, you can in order to make the life of
+the<00:16:33.200><c> developer</c><00:16:33.760><c> easier,</c>
+
+00:16:35.350 --> 00:16:35.360 align:start position:0%
+the developer easier,
+ 
+
+00:16:35.360 --> 00:16:39.310 align:start position:0%
+the developer easier,
+define<00:16:35.959><c> the</c><00:16:36.320><c> server.json</c><00:16:37.760><c> for</c><00:16:38.240><c> MCP</c><00:16:38.880><c> and</c><00:16:39.160><c> the</c>
+
+00:16:39.310 --> 00:16:39.320 align:start position:0%
+define the server.json for MCP and the
+ 
+
+00:16:39.320 --> 00:16:42.590 align:start position:0%
+define the server.json for MCP and the
+agent<00:16:39.640><c> card</c><00:16:40.040><c> for</c><00:16:40.360><c> eight</c><00:16:40.480><c> way</c><00:16:40.760><c> with</c><00:16:41.040><c> a</c><00:16:41.480><c> form</c>
+
+00:16:42.590 --> 00:16:42.600 align:start position:0%
+agent card for eight way with a form
+ 
+
+00:16:42.600 --> 00:16:45.110 align:start position:0%
+agent card for eight way with a form
+and<00:16:42.760><c> then</c><00:16:42.959><c> preview</c><00:16:43.520><c> it</c><00:16:44.160><c> here</c><00:16:44.600><c> instead</c><00:16:45.000><c> of</c>
+
+00:16:45.110 --> 00:16:45.120 align:start position:0%
+and then preview it here instead of
+ 
+
+00:16:45.120 --> 00:16:48.470 align:start position:0%
+and then preview it here instead of
+starting<00:16:45.680><c> from</c><00:16:46.600><c> the</c><00:16:47.280><c> actual</c><00:16:47.680><c> JSON</c><00:16:48.240><c> on</c><00:16:48.360><c> the</c>
+
+00:16:48.470 --> 00:16:48.480 align:start position:0%
+starting from the actual JSON on the
+ 
+
+00:16:48.480 --> 00:16:50.949 align:start position:0%
+starting from the actual JSON on the
+repo<00:16:48.800><c> if</c><00:16:49.000><c> it's</c><00:16:49.320><c> the</c><00:16:49.760><c> first,</c><00:16:50.560><c> let's</c><00:16:50.760><c> say,</c>
+
+00:16:50.949 --> 00:16:50.959 align:start position:0%
+repo if it's the first, let's say,
+ 
+
+00:16:50.959 --> 00:16:54.430 align:start position:0%
+repo if it's the first, let's say,
+server<00:16:51.320><c> for</c><00:16:51.520><c> you.</c>
+
+00:16:54.430 --> 00:16:54.440 align:start position:0%
+ 
+ 
+
+00:16:54.440 --> 00:16:55.390 align:start position:0%
+ 
+We<00:16:54.560><c> can</c>
+
+00:16:55.390 --> 00:16:55.400 align:start position:0%
+We can
+ 
+
+00:16:55.400 --> 00:16:58.270 align:start position:0%
+We can
+also<00:16:56.400><c> check</c><00:16:56.839><c> the</c><00:16:57.160><c> lineage</c>
+
+00:16:58.270 --> 00:16:58.280 align:start position:0%
+also check the lineage
+ 
+
+00:16:58.280 --> 00:17:00.030 align:start position:0%
+also check the lineage
+because,<00:16:58.600><c> for</c><00:16:58.760><c> instance,</c><00:16:59.200><c> you</c><00:16:59.320><c> can</c><00:16:59.520><c> go</c><00:16:59.760><c> on</c><00:16:59.959><c> to</c>
+
+00:17:00.030 --> 00:17:00.040 align:start position:0%
+because, for instance, you can go on to
+ 
+
+00:17:00.040 --> 00:17:02.350 align:start position:0%
+because, for instance, you can go on to
+the<00:17:00.240><c> use</c><00:17:00.480><c> case,</c><00:17:01.280><c> open</c>
+
+00:17:02.350 --> 00:17:02.360 align:start position:0%
+the use case, open
+ 
+
+00:17:02.360 --> 00:17:04.230 align:start position:0%
+the use case, open
+a<00:17:02.480><c> use</c><00:17:02.680><c> case</c><00:17:02.880><c> that</c><00:17:03.079><c> you</c><00:17:03.160><c> want</c><00:17:03.360><c> to</c><00:17:03.440><c> check,</c><00:17:03.959><c> open</c>
+
+00:17:04.230 --> 00:17:04.240 align:start position:0%
+a use case that you want to check, open
+ 
+
+00:17:04.240 --> 00:17:05.790 align:start position:0%
+a use case that you want to check, open
+the<00:17:04.320><c> object</c><00:17:04.720><c> lineage.</c>
+
+00:17:05.790 --> 00:17:05.800 align:start position:0%
+the object lineage.
+ 
+
+00:17:05.800 --> 00:17:08.350 align:start position:0%
+the object lineage.
+In<00:17:05.920><c> this</c><00:17:06.120><c> lineage</c><00:17:06.520><c> view,</c><00:17:06.959><c> you</c><00:17:07.120><c> can</c><00:17:07.360><c> see</c><00:17:07.600><c> that,</c>
+
+00:17:08.350 --> 00:17:08.360 align:start position:0%
+In this lineage view, you can see that,
+ 
+
+00:17:08.360 --> 00:17:12.790 align:start position:0%
+In this lineage view, you can see that,
+for<00:17:08.520><c> instance,</c><00:17:09.439><c> the</c><00:17:09.920><c> use</c><00:17:10.199><c> case</c>
+
+00:17:12.790 --> 00:17:12.800 align:start position:0%
+for instance, the use case
+ 
+
+00:17:12.800 --> 00:17:16.390 align:start position:0%
+for instance, the use case
+here<00:17:13.720><c> that</c><00:17:13.920><c> is</c><00:17:14.079><c> ticket</c><00:17:14.400><c> optimization</c><00:17:15.079><c> with</c><00:17:15.320><c> AI</c>
+
+00:17:16.390 --> 00:17:16.400 align:start position:0%
+here that is ticket optimization with AI
+ 
+
+00:17:16.400 --> 00:17:19.390 align:start position:0%
+here that is ticket optimization with AI
+is<00:17:16.600><c> connected</c><00:17:17.280><c> to</c><00:17:17.760><c> an</c><00:17:17.959><c> agent,</c><00:17:18.679><c> is</c><00:17:18.839><c> connected</c>
+
+00:17:19.390 --> 00:17:19.400 align:start position:0%
+is connected to an agent, is connected
+ 
+
+00:17:19.400 --> 00:17:22.870 align:start position:0%
+is connected to an agent, is connected
+to<00:17:19.600><c> another</c><00:17:20.120><c> agent</c><00:17:20.560><c> here,</c><00:17:21.199><c> and</c><00:17:21.439><c> also</c><00:17:21.839><c> has</c><00:17:22.560><c> AI</c>
+
+00:17:22.870 --> 00:17:22.880 align:start position:0%
+to another agent here, and also has AI
+ 
+
+00:17:22.880 --> 00:17:26.630 align:start position:0%
+to another agent here, and also has AI
+models<00:17:23.760><c> connected</c><00:17:24.400><c> to</c><00:17:24.520><c> it.</c><00:17:25.360><c> So,</c><00:17:25.800><c> we</c><00:17:25.920><c> can</c><00:17:26.280><c> have</c>
+
+00:17:26.630 --> 00:17:26.640 align:start position:0%
+models connected to it. So, we can have
+ 
+
+00:17:26.640 --> 00:17:27.630 align:start position:0%
+models connected to it. So, we can have
+the
+
+00:17:27.630 --> 00:17:27.640 align:start position:0%
+the
+ 
+
+00:17:27.640 --> 00:17:30.350 align:start position:0%
+the
+full<00:17:28.000><c> lineage</c><00:17:28.560><c> of</c><00:17:28.760><c> the</c><00:17:28.880><c> use</c><00:17:29.080><c> case</c><00:17:29.480><c> and</c><00:17:29.720><c> also</c><00:17:30.160><c> be</c>
+
+00:17:30.350 --> 00:17:30.360 align:start position:0%
+full lineage of the use case and also be
+ 
+
+00:17:30.360 --> 00:17:35.270 align:start position:0%
+full lineage of the use case and also be
+able,<00:17:30.880><c> as</c><00:17:31.080><c> Maurice</c><00:17:31.400><c> said</c><00:17:31.560><c> before,</c><00:17:32.280><c> to</c>
+
+00:17:35.270 --> 00:17:35.280 align:start position:0%
+ 
+ 
+
+00:17:35.280 --> 00:17:38.390 align:start position:0%
+ 
+be<00:17:35.400><c> sure</c><00:17:35.840><c> and</c><00:17:36.080><c> also</c><00:17:37.120><c> make</c><00:17:37.520><c> modifications</c><00:17:38.280><c> in</c>
+
+00:17:38.390 --> 00:17:38.400 align:start position:0%
+be sure and also make modifications in
+ 
+
+00:17:38.400 --> 00:17:40.950 align:start position:0%
+be sure and also make modifications in
+case<00:17:38.760><c> some</c><00:17:39.280><c> parts</c><00:17:39.840><c> of</c><00:17:40.040><c> the</c><00:17:40.280><c> lineage</c><00:17:40.840><c> are</c>
+
+00:17:40.950 --> 00:17:40.960 align:start position:0%
+case some parts of the lineage are
+ 
+
+00:17:40.960 --> 00:17:43.830 align:start position:0%
+case some parts of the lineage are
+affected<00:17:41.520><c> by</c><00:17:41.800><c> an</c><00:17:41.960><c> outage</c><00:17:42.360><c> or</c><00:17:42.560><c> a</c><00:17:42.640><c> problem</c><00:17:43.400><c> and</c>
+
+00:17:43.830 --> 00:17:43.840 align:start position:0%
+affected by an outage or a problem and
+ 
+
+00:17:43.840 --> 00:17:47.390 align:start position:0%
+affected by an outage or a problem and
+go<00:17:44.000><c> back</c><00:17:44.240><c> to</c><00:17:44.400><c> the</c><00:17:44.600><c> use</c><00:17:44.800><c> case</c><00:17:45.000><c> affected.</c>
+
+00:17:47.390 --> 00:17:47.400 align:start position:0%
+go back to the use case affected.
+ 
+
+00:17:47.400 --> 00:17:49.950 align:start position:0%
+go back to the use case affected.
+So,<00:17:48.040><c> moving</c><00:17:48.640><c> into</c><00:17:49.080><c> the</c><00:17:49.440><c> enterprise</c>
+
+00:17:49.950 --> 00:17:49.960 align:start position:0%
+So, moving into the enterprise
+ 
+
+00:17:49.960 --> 00:17:52.710 align:start position:0%
+So, moving into the enterprise
+development<00:17:50.480><c> cycle,</c><00:17:51.040><c> so</c><00:17:51.920><c> we</c><00:17:52.040><c> talked</c><00:17:52.400><c> a</c><00:17:52.480><c> lot</c>
+
+00:17:52.710 --> 00:17:52.720 align:start position:0%
+development cycle, so we talked a lot
+ 
+
+00:17:52.720 --> 00:17:53.750 align:start position:0%
+development cycle, so we talked a lot
+about
+
+00:17:53.750 --> 00:17:53.760 align:start position:0%
+about
+ 
+
+00:17:53.760 --> 00:17:56.430 align:start position:0%
+about
+metadata<00:17:54.600><c> and</c><00:17:55.120><c> registries,</c>
+
+00:17:56.430 --> 00:17:56.440 align:start position:0%
+metadata and registries,
+ 
+
+00:17:56.440 --> 00:18:00.470 align:start position:0%
+metadata and registries,
+but<00:17:57.000><c> how</c><00:17:57.520><c> do</c><00:17:57.760><c> actually</c><00:17:58.800><c> Amplifone</c><00:17:59.240><c> developers</c>
+
+00:18:00.470 --> 00:18:00.480 align:start position:0%
+but how do actually Amplifone developers
+ 
+
+00:18:00.480 --> 00:18:04.070 align:start position:0%
+but how do actually Amplifone developers
+develop<00:18:01.520><c> MCP</c><00:18:01.960><c> servers</c><00:18:02.520><c> and</c><00:18:02.960><c> agent</c><00:18:03.280><c> to</c><00:18:03.400><c> agent</c>
+
+00:18:04.070 --> 00:18:04.080 align:start position:0%
+develop MCP servers and agent to agent
+ 
+
+00:18:04.080 --> 00:18:06.030 align:start position:0%
+develop MCP servers and agent to agent
+servers<00:18:04.800><c> to</c>
+
+00:18:06.030 --> 00:18:06.040 align:start position:0%
+servers to
+ 
+
+00:18:06.040 --> 00:18:09.510 align:start position:0%
+servers to
+deploy<00:18:06.440><c> them</c><00:18:06.679><c> in</c><00:18:06.800><c> production?</c><00:18:07.880><c> We</c><00:18:08.760><c> deployed</c>
+
+00:18:09.510 --> 00:18:09.520 align:start position:0%
+deploy them in production? We deployed
+ 
+
+00:18:09.520 --> 00:18:12.669 align:start position:0%
+deploy them in production? We deployed
+and<00:18:09.720><c> developed</c><00:18:10.360><c> two</c><00:18:10.679><c> repositories,</c><00:18:12.040><c> one</c><00:18:12.400><c> for</c>
+
+00:18:12.669 --> 00:18:12.679 align:start position:0%
+and developed two repositories, one for
+ 
+
+00:18:12.679 --> 00:18:16.470 align:start position:0%
+and developed two repositories, one for
+MCP<00:18:13.400><c> and</c><00:18:13.640><c> one</c><00:18:13.840><c> for</c><00:18:14.200><c> agent</c><00:18:14.480><c> to</c><00:18:14.600><c> agent</c><00:18:15.200><c> protocol.</c>
+
+00:18:16.470 --> 00:18:16.480 align:start position:0%
+MCP and one for agent to agent protocol.
+ 
+
+00:18:16.480 --> 00:18:18.310 align:start position:0%
+MCP and one for agent to agent protocol.
+These<00:18:17.000><c> two</c><00:18:17.160><c> repositories</c><00:18:17.800><c> are</c><00:18:17.920><c> template</c>
+
+00:18:18.310 --> 00:18:18.320 align:start position:0%
+These two repositories are template
+ 
+
+00:18:18.320 --> 00:18:20.830 align:start position:0%
+These two repositories are template
+repositories<00:18:18.960><c> on</c><00:18:19.120><c> GitHub.</c><00:18:19.960><c> So,</c><00:18:20.160><c> then</c>
+
+00:18:20.830 --> 00:18:20.840 align:start position:0%
+repositories on GitHub. So, then
+ 
+
+00:18:20.840 --> 00:18:23.790 align:start position:0%
+repositories on GitHub. So, then
+developers<00:18:21.480><c> and</c><00:18:21.679><c> teams</c><00:18:22.040><c> can</c><00:18:22.400><c> start</c><00:18:22.800><c> from</c><00:18:23.560><c> from</c>
+
+00:18:23.790 --> 00:18:23.800 align:start position:0%
+developers and teams can start from from
+ 
+
+00:18:23.800 --> 00:18:27.710 align:start position:0%
+developers and teams can start from from
+them<00:18:24.200><c> and</c><00:18:24.760><c> work</c><00:18:25.120><c> their</c><00:18:25.440><c> way</c><00:18:25.640><c> up</c><00:18:25.840><c> to</c><00:18:26.560><c> production</c>
+
+00:18:27.710 --> 00:18:27.720 align:start position:0%
+them and work their way up to production
+ 
+
+00:18:27.720 --> 00:18:31.190 align:start position:0%
+them and work their way up to production
+environment.<00:18:29.000><c> The</c><00:18:29.800><c> idea</c><00:18:30.080><c> is</c><00:18:30.200><c> that</c><00:18:30.720><c> these</c><00:18:30.960><c> two</c>
+
+00:18:31.190 --> 00:18:31.200 align:start position:0%
+environment. The idea is that these two
+ 
+
+00:18:31.200 --> 00:18:34.230 align:start position:0%
+environment. The idea is that these two
+blueprints<00:18:31.919><c> actually</c><00:18:32.360><c> have</c><00:18:33.159><c> boilerplate</c>
+
+00:18:34.230 --> 00:18:34.240 align:start position:0%
+blueprints actually have boilerplate
+ 
+
+00:18:34.240 --> 00:18:35.590 align:start position:0%
+blueprints actually have boilerplate
+provided
+
+00:18:35.590 --> 00:18:35.600 align:start position:0%
+provided
+ 
+
+00:18:35.600 --> 00:18:37.630 align:start position:0%
+provided
+and<00:18:36.040><c> also</c>
+
+00:18:37.630 --> 00:18:37.640 align:start position:0%
+and also
+ 
+
+00:18:37.640 --> 00:18:39.710 align:start position:0%
+and also
+infrastructure<00:18:38.600><c> and</c><00:18:38.760><c> tooling</c>
+
+00:18:39.710 --> 00:18:39.720 align:start position:0%
+infrastructure and tooling
+ 
+
+00:18:39.720 --> 00:18:41.470 align:start position:0%
+infrastructure and tooling
+already<00:18:40.120><c> present.</c><00:18:40.679><c> So,</c><00:18:40.919><c> for</c><00:18:41.080><c> instance,</c>
+
+00:18:41.470 --> 00:18:41.480 align:start position:0%
+already present. So, for instance,
+ 
+
+00:18:41.480 --> 00:18:42.990 align:start position:0%
+already present. So, for instance,
+Docker<00:18:41.720><c> files,</c>
+
+00:18:42.990 --> 00:18:43.000 align:start position:0%
+Docker files,
+ 
+
+00:18:43.000 --> 00:18:44.790 align:start position:0%
+Docker files,
+package<00:18:43.360><c> manager,</c>
+
+00:18:44.790 --> 00:18:44.800 align:start position:0%
+package manager,
+ 
+
+00:18:44.800 --> 00:18:47.430 align:start position:0%
+package manager,
+both<00:18:45.240><c> are</c><00:18:45.480><c> fast</c><00:18:45.760><c> API</c><00:18:46.080><c> servers,</c><00:18:46.720><c> so</c><00:18:47.000><c> they</c><00:18:47.240><c> are</c>
+
+00:18:47.430 --> 00:18:47.440 align:start position:0%
+both are fast API servers, so they are
+ 
+
+00:18:47.440 --> 00:18:49.790 align:start position:0%
+both are fast API servers, so they are
+exposed<00:18:48.000><c> in</c><00:18:48.120><c> the</c><00:18:48.240><c> same</c><00:18:48.520><c> way.</c>
+
+00:18:49.790 --> 00:18:49.800 align:start position:0%
+exposed in the same way.
+ 
+
+00:18:49.800 --> 00:18:52.390 align:start position:0%
+exposed in the same way.
+And<00:18:50.040><c> also</c><00:18:50.400><c> the</c><00:18:50.640><c> authentication</c>
+
+00:18:52.390 --> 00:18:52.400 align:start position:0%
+And also the authentication
+ 
+
+00:18:52.400 --> 00:18:54.430 align:start position:0%
+And also the authentication
+and<00:18:52.600><c> cost</c><00:18:52.800><c> tracking</c><00:18:53.440><c> cost</c><00:18:53.640><c> tracking</c><00:18:54.159><c> is</c>
+
+00:18:54.430 --> 00:18:54.440 align:start position:0%
+and cost tracking cost tracking is
+ 
+
+00:18:54.440 --> 00:18:57.030 align:start position:0%
+and cost tracking cost tracking is
+handled<00:18:55.000><c> inside</c><00:18:55.360><c> the</c><00:18:55.640><c> blueprint.</c>
+
+00:18:57.030 --> 00:18:57.040 align:start position:0%
+handled inside the blueprint.
+ 
+
+00:18:57.040 --> 00:18:59.030 align:start position:0%
+handled inside the blueprint.
+We<00:18:57.159><c> also</c><00:18:57.440><c> have</c><00:18:57.600><c> an</c><00:18:57.679><c> integration</c>
+
+00:18:59.030 --> 00:18:59.040 align:start position:0%
+We also have an integration
+ 
+
+00:18:59.040 --> 00:19:01.110 align:start position:0%
+We also have an integration
+to<00:18:59.159><c> LongFuse,</c><00:19:00.000><c> which</c><00:19:00.240><c> is</c><00:19:00.360><c> an</c><00:19:00.440><c> observability</c>
+
+00:19:01.110 --> 00:19:01.120 align:start position:0%
+to LongFuse, which is an observability
+ 
+
+00:19:01.120 --> 00:19:03.830 align:start position:0%
+to LongFuse, which is an observability
+tool<00:19:02.040><c> that</c><00:19:02.240><c> we</c><00:19:02.360><c> deployed</c><00:19:02.919><c> at</c><00:19:03.240><c> the</c><00:19:03.360><c> platform</c>
+
+00:19:03.830 --> 00:19:03.840 align:start position:0%
+tool that we deployed at the platform
+ 
+
+00:19:03.840 --> 00:19:04.830 align:start position:0%
+tool that we deployed at the platform
+level.
+
+00:19:04.830 --> 00:19:04.840 align:start position:0%
+level.
+ 
+
+00:19:04.840 --> 00:19:06.390 align:start position:0%
+level.
+So,
+
+00:19:06.390 --> 00:19:06.400 align:start position:0%
+So,
+ 
+
+00:19:06.400 --> 00:19:10.550 align:start position:0%
+So,
+the<00:19:07.400><c> development</c><00:19:07.880><c> teams</c><00:19:08.679><c> can</c><00:19:08.960><c> also</c><00:19:09.880><c> trace</c>
+
+00:19:10.550 --> 00:19:10.560 align:start position:0%
+the development teams can also trace
+ 
+
+00:19:10.560 --> 00:19:12.310 align:start position:0%
+the development teams can also trace
+their<00:19:10.880><c> agents,</c>
+
+00:19:12.310 --> 00:19:12.320 align:start position:0%
+their agents,
+ 
+
+00:19:12.320 --> 00:19:15.950 align:start position:0%
+their agents,
+run<00:19:12.560><c> evaluations,</c><00:19:14.040><c> and</c><00:19:14.280><c> check</c><00:19:15.240><c> how</c><00:19:15.440><c> the</c><00:19:15.600><c> agent</c>
+
+00:19:15.950 --> 00:19:15.960 align:start position:0%
+run evaluations, and check how the agent
+ 
+
+00:19:15.960 --> 00:19:17.470 align:start position:0%
+run evaluations, and check how the agent
+is<00:19:16.080><c> performing.</c>
+
+00:19:17.470 --> 00:19:17.480 align:start position:0%
+is performing.
+ 
+
+00:19:17.480 --> 00:19:20.590 align:start position:0%
+is performing.
+Also,<00:19:18.800><c> the</c>
+
+00:19:20.590 --> 00:19:20.600 align:start position:0%
+Also, the
+ 
+
+00:19:20.600 --> 00:19:22.950 align:start position:0%
+Also, the
+eight<00:19:20.800><c> way</c><00:19:21.080><c> server</c><00:19:21.520><c> blueprint</c><00:19:22.080><c> is</c><00:19:22.280><c> agnostic,</c>
+
+00:19:22.950 --> 00:19:22.960 align:start position:0%
+eight way server blueprint is agnostic,
+ 
+
+00:19:22.960 --> 00:19:24.710 align:start position:0%
+eight way server blueprint is agnostic,
+so<00:19:23.120><c> it's</c><00:19:23.400><c> not</c><00:19:23.640><c> based</c><00:19:24.040><c> on</c><00:19:24.159><c> a</c><00:19:24.240><c> particular</c>
+
+00:19:24.710 --> 00:19:24.720 align:start position:0%
+so it's not based on a particular
+ 
+
+00:19:24.720 --> 00:19:29.110 align:start position:0%
+so it's not based on a particular
+framework,<00:19:25.720><c> so</c><00:19:26.320><c> LongChain</c><00:19:27.000><c> or</c><00:19:27.320><c> Agno</c><00:19:27.800><c> or</c>
+
+00:19:29.110 --> 00:19:29.120 align:start position:0%
+framework, so LongChain or Agno or
+ 
+
+00:19:29.120 --> 00:19:31.390 align:start position:0%
+framework, so LongChain or Agno or
+any<00:19:29.400><c> other</c><00:19:29.679><c> framework,</c><00:19:30.520><c> but</c><00:19:30.720><c> actually</c><00:19:31.159><c> is</c>
+
+00:19:31.390 --> 00:19:31.400 align:start position:0%
+any other framework, but actually is
+ 
+
+00:19:31.400 --> 00:19:34.149 align:start position:0%
+any other framework, but actually is
+composed<00:19:31.919><c> of</c><00:19:32.240><c> interfaces</c><00:19:33.040><c> and</c>
+
+00:19:34.149 --> 00:19:34.159 align:start position:0%
+composed of interfaces and
+ 
+
+00:19:34.159 --> 00:19:36.710 align:start position:0%
+composed of interfaces and
+ports<00:19:35.200><c> so</c><00:19:35.360><c> that</c><00:19:35.600><c> every</c><00:19:35.800><c> team</c><00:19:36.040><c> can</c><00:19:36.240><c> implement</c>
+
+00:19:36.710 --> 00:19:36.720 align:start position:0%
+ports so that every team can implement
+ 
+
+00:19:36.720 --> 00:19:39.070 align:start position:0%
+ports so that every team can implement
+their<00:19:37.080><c> own</c><00:19:37.280><c> solution</c>
+
+00:19:39.070 --> 00:19:39.080 align:start position:0%
+their own solution
+ 
+
+00:19:39.080 --> 00:19:42.190 align:start position:0%
+their own solution
+in<00:19:39.600><c> their</c><00:19:39.800><c> framework</c><00:19:40.240><c> of</c><00:19:40.360><c> choice.</c>
+
+00:19:42.190 --> 00:19:42.200 align:start position:0%
+in their framework of choice.
+ 
+
+00:19:42.200 --> 00:19:44.390 align:start position:0%
+in their framework of choice.
+The<00:19:42.320><c> important</c><00:19:42.760><c> thing</c><00:19:42.960><c> is</c><00:19:43.080><c> that</c><00:19:43.400><c> they</c><00:19:43.919><c> provide</c>
+
+00:19:44.390 --> 00:19:44.400 align:start position:0%
+The important thing is that they provide
+ 
+
+00:19:44.400 --> 00:19:46.550 align:start position:0%
+The important thing is that they provide
+the<00:19:44.520><c> same</c><00:19:45.120><c> interface</c>
+
+00:19:46.550 --> 00:19:46.560 align:start position:0%
+the same interface
+ 
+
+00:19:46.560 --> 00:19:48.270 align:start position:0%
+the same interface
+that<00:19:46.720><c> we</c>
+
+00:19:48.270 --> 00:19:48.280 align:start position:0%
+that we
+ 
+
+00:19:48.280 --> 00:19:50.750 align:start position:0%
+that we
+saved<00:19:48.640><c> in</c><00:19:48.800><c> the</c><00:19:49.280><c> in</c><00:19:49.400><c> the</c><00:19:49.480><c> blueprint.</c>
+
+00:19:50.750 --> 00:19:50.760 align:start position:0%
+saved in the in the blueprint.
+ 
+
+00:19:50.760 --> 00:19:54.350 align:start position:0%
+saved in the in the blueprint.
+So,<00:19:50.880><c> that</c><00:19:51.480><c> uh</c><00:19:51.560><c> the</c><00:19:52.400><c> development</c><00:19:53.080><c> is</c><00:19:53.520><c> uh</c><00:19:53.920><c> easy</c>
+
+00:19:54.350 --> 00:19:54.360 align:start position:0%
+So, that uh the development is uh easy
+ 
+
+00:19:54.360 --> 00:19:56.630 align:start position:0%
+So, that uh the development is uh easy
+on<00:19:54.480><c> the</c><00:19:54.560><c> developers</c><00:19:55.240><c> and</c><00:19:55.440><c> they</c><00:19:55.600><c> can</c><00:19:55.840><c> focus</c><00:19:56.400><c> on</c>
+
+00:19:56.630 --> 00:19:56.640 align:start position:0%
+on the developers and they can focus on
+ 
+
+00:19:56.640 --> 00:20:00.150 align:start position:0%
+on the developers and they can focus on
+the<00:19:57.160><c> actual</c><00:19:57.560><c> value</c><00:19:58.080><c> of</c><00:19:58.320><c> the</c><00:19:58.600><c> agent.</c>
+
+00:20:00.150 --> 00:20:00.160 align:start position:0%
+the actual value of the agent.
+ 
+
+00:20:00.160 --> 00:20:01.230 align:start position:0%
+the actual value of the agent.
+So<00:20:00.640><c> um</c>
+
+00:20:01.230 --> 00:20:01.240 align:start position:0%
+So um
+ 
+
+00:20:01.240 --> 00:20:04.990 align:start position:0%
+So um
+Mauro<00:20:01.640><c> talked</c><00:20:01.960><c> about</c><00:20:02.440><c> the</c><00:20:03.200><c> um</c><00:20:03.600><c> CICD</c><00:20:04.760><c> uh</c><00:20:04.840><c> that</c>
+
+00:20:04.990 --> 00:20:05.000 align:start position:0%
+Mauro talked about the um CICD uh that
+ 
+
+00:20:05.000 --> 00:20:07.390 align:start position:0%
+Mauro talked about the um CICD uh that
+is<00:20:05.120><c> in</c><00:20:05.240><c> place</c><00:20:05.640><c> in</c><00:20:05.840><c> the</c><00:20:06.760><c> um</c>
+
+00:20:07.390 --> 00:20:07.400 align:start position:0%
+is in place in the um
+ 
+
+00:20:07.400 --> 00:20:08.030 align:start position:0%
+is in place in the um
+uh
+
+00:20:08.030 --> 00:20:08.040 align:start position:0%
+uh
+ 
+
+00:20:08.040 --> 00:20:11.230 align:start position:0%
+uh
+A2A<00:20:09.200><c> uh</c><00:20:09.440><c> blueprint</c><00:20:10.000><c> and</c><00:20:10.200><c> also</c><00:20:10.480><c> the</c><00:20:10.680><c> MCP</c>
+
+00:20:11.230 --> 00:20:11.240 align:start position:0%
+A2A uh blueprint and also the MCP
+ 
+
+00:20:11.240 --> 00:20:12.470 align:start position:0%
+A2A uh blueprint and also the MCP
+blueprint.
+
+00:20:12.470 --> 00:20:12.480 align:start position:0%
+blueprint.
+ 
+
+00:20:12.480 --> 00:20:15.910 align:start position:0%
+blueprint.
+Uh<00:20:12.800><c> the</c><00:20:12.960><c> idea</c><00:20:13.440><c> is</c><00:20:13.640><c> that</c><00:20:14.600><c> uh</c><00:20:14.840><c> once</c><00:20:15.320><c> you</c><00:20:15.680><c> are</c>
+
+00:20:15.910 --> 00:20:15.920 align:start position:0%
+Uh the idea is that uh once you are
+ 
+
+00:20:15.920 --> 00:20:19.110 align:start position:0%
+Uh the idea is that uh once you are
+ready<00:20:16.360><c> with</c><00:20:16.880><c> your</c><00:20:17.520><c> development,</c><00:20:18.640><c> uh</c><00:20:18.760><c> you</c><00:20:18.880><c> can</c>
+
+00:20:19.110 --> 00:20:19.120 align:start position:0%
+ready with your development, uh you can
+ 
+
+00:20:19.120 --> 00:20:22.470 align:start position:0%
+ready with your development, uh you can
+tag<00:20:19.880><c> um</c><00:20:20.240><c> a</c><00:20:20.360><c> certain</c><00:20:20.760><c> branch</c><00:20:21.480><c> and</c><00:20:22.040><c> uh</c><00:20:22.120><c> GitHub</c>
+
+00:20:22.470 --> 00:20:22.480 align:start position:0%
+tag um a certain branch and uh GitHub
+ 
+
+00:20:22.480 --> 00:20:24.470 align:start position:0%
+tag um a certain branch and uh GitHub
+action<00:20:22.960><c> so</c><00:20:23.840><c> uh</c>
+
+00:20:24.470 --> 00:20:24.480 align:start position:0%
+action so uh
+ 
+
+00:20:24.480 --> 00:20:28.790 align:start position:0%
+action so uh
+starts<00:20:25.160><c> and</c><00:20:25.840><c> uh</c><00:20:26.320><c> uh</c><00:20:26.600><c> all</c><00:20:27.160><c> not</c><00:20:27.440><c> only</c><00:20:27.840><c> publishes</c>
+
+00:20:28.790 --> 00:20:28.800 align:start position:0%
+starts and uh uh all not only publishes
+ 
+
+00:20:28.800 --> 00:20:30.990 align:start position:0%
+starts and uh uh all not only publishes
+the<00:20:28.880><c> Docker</c><00:20:29.200><c> image</c><00:20:29.680><c> on</c><00:20:30.040><c> our</c><00:20:30.400><c> artifact</c>
+
+00:20:30.990 --> 00:20:31.000 align:start position:0%
+the Docker image on our artifact
+ 
+
+00:20:31.000 --> 00:20:32.310 align:start position:0%
+the Docker image on our artifact
+repository,
+
+00:20:32.310 --> 00:20:32.320 align:start position:0%
+repository,
+ 
+
+00:20:32.320 --> 00:20:35.230 align:start position:0%
+repository,
+uh<00:20:32.600><c> but</c><00:20:32.840><c> also</c><00:20:33.320><c> publishes</c><00:20:33.840><c> the</c><00:20:33.920><c> metadata</c><00:20:35.040><c> of</c>
+
+00:20:35.230 --> 00:20:35.240 align:start position:0%
+uh but also publishes the metadata of
+ 
+
+00:20:35.240 --> 00:20:38.470 align:start position:0%
+uh but also publishes the metadata of
+that<00:20:35.440><c> agent</c><00:20:35.920><c> so</c><00:20:36.120><c> the</c><00:20:36.480><c> agent</c><00:20:36.840><c> card</c><00:20:37.600><c> for</c><00:20:38.400><c> uh</c>
+
+00:20:38.470 --> 00:20:38.480 align:start position:0%
+that agent so the agent card for uh
+ 
+
+00:20:38.480 --> 00:20:40.390 align:start position:0%
+that agent so the agent card for uh
+agent-to-agent<00:20:39.040><c> protocol</c><00:20:39.600><c> and</c><00:20:39.800><c> the</c>
+
+00:20:40.390 --> 00:20:40.400 align:start position:0%
+agent-to-agent protocol and the
+ 
+
+00:20:40.400 --> 00:20:41.990 align:start position:0%
+agent-to-agent protocol and the
+server.json
+
+00:20:41.990 --> 00:20:42.000 align:start position:0%
+server.json
+ 
+
+00:20:42.000 --> 00:20:43.550 align:start position:0%
+server.json
+uh<00:20:42.080><c> for</c><00:20:42.280><c> MCP</c>
+
+00:20:43.550 --> 00:20:43.560 align:start position:0%
+uh for MCP
+ 
+
+00:20:43.560 --> 00:20:46.390 align:start position:0%
+uh for MCP
+uh<00:20:43.760><c> onto</c><00:20:44.160><c> the</c><00:20:44.760><c> uh</c><00:20:44.840><c> backend</c><00:20:45.720><c> uh</c><00:20:46.040><c> let's</c><00:20:46.240><c> say</c>
+
+00:20:46.390 --> 00:20:46.400 align:start position:0%
+uh onto the uh backend uh let's say
+ 
+
+00:20:46.400 --> 00:20:48.950 align:start position:0%
+uh onto the uh backend uh let's say
+proxy<00:20:47.040><c> of</c><00:20:47.320><c> the</c><00:20:47.800><c> the</c><00:20:47.880><c> catalog</c><00:20:48.480><c> of</c><00:20:48.680><c> the</c>
+
+00:20:48.950 --> 00:20:48.960 align:start position:0%
+proxy of the the catalog of the
+ 
+
+00:20:48.960 --> 00:20:50.390 align:start position:0%
+proxy of the the catalog of the
+registries.
+
+00:20:50.390 --> 00:20:50.400 align:start position:0%
+registries.
+ 
+
+00:20:50.400 --> 00:20:51.670 align:start position:0%
+registries.
+Um
+
+00:20:51.670 --> 00:20:51.680 align:start position:0%
+Um
+ 
+
+00:20:51.680 --> 00:20:54.750 align:start position:0%
+Um
+in<00:20:51.800><c> this</c><00:20:52.000><c> image</c><00:20:52.280><c> we</c><00:20:52.400><c> can</c><00:20:52.560><c> also</c><00:20:52.840><c> see</c><00:20:53.080><c> that</c><00:20:53.800><c> um</c>
+
+00:20:54.750 --> 00:20:54.760 align:start position:0%
+in this image we can also see that um
+ 
+
+00:20:54.760 --> 00:20:58.910 align:start position:0%
+in this image we can also see that um
+in<00:20:54.880><c> case</c><00:20:55.480><c> any</c><00:20:55.720><c> AI</c><00:20:55.960><c> agents</c><00:20:56.720><c> uh</c><00:20:56.960><c> needs</c><00:20:57.320><c> to</c><00:20:57.440><c> call</c>
+
+00:20:58.910 --> 00:20:58.920 align:start position:0%
+in case any AI agents uh needs to call
+ 
+
+00:20:58.920 --> 00:21:02.870 align:start position:0%
+in case any AI agents uh needs to call
+either<00:20:59.440><c> an</c><00:20:59.600><c> MCP</c><00:21:00.240><c> or</c><00:21:00.640><c> an</c><00:21:00.760><c> A2A</c><00:21:01.120><c> proxy,</c><00:21:02.320><c> um</c>
+
+00:21:02.870 --> 00:21:02.880 align:start position:0%
+either an MCP or an A2A proxy, um
+ 
+
+00:21:02.880 --> 00:21:06.070 align:start position:0%
+either an MCP or an A2A proxy, um
+the<00:21:03.040><c> idea</c><00:21:03.600><c> is</c><00:21:03.800><c> that</c><00:21:04.120><c> they</c><00:21:04.240><c> can</c><00:21:04.520><c> go</c><00:21:04.760><c> through</c><00:21:05.160><c> the</c>
+
+00:21:06.070 --> 00:21:06.080 align:start position:0%
+the idea is that they can go through the
+ 
+
+00:21:06.080 --> 00:21:07.150 align:start position:0%
+the idea is that they can go through the
+um
+
+00:21:07.150 --> 00:21:07.160 align:start position:0%
+um
+ 
+
+00:21:07.160 --> 00:21:11.310 align:start position:0%
+um
+APG<00:21:07.800><c> AI</c><00:21:08.040><c> gateway</c><00:21:08.440><c> that</c><00:21:08.680><c> we</c><00:21:08.760><c> deployed</c><00:21:09.880><c> and</c><00:21:10.640><c> um</c>
+
+00:21:11.310 --> 00:21:11.320 align:start position:0%
+APG AI gateway that we deployed and um
+ 
+
+00:21:11.320 --> 00:21:14.430 align:start position:0%
+APG AI gateway that we deployed and um
+these<00:21:11.680><c> two</c><00:21:11.920><c> proxies,</c><00:21:12.840><c> so</c><00:21:13.000><c> the</c><00:21:13.160><c> MCP</c><00:21:13.640><c> one</c><00:21:14.000><c> and</c>
+
+00:21:14.430 --> 00:21:14.440 align:start position:0%
+these two proxies, so the MCP one and
+ 
+
+00:21:14.440 --> 00:21:16.870 align:start position:0%
+these two proxies, so the MCP one and
+the<00:21:15.080><c> uh</c><00:21:15.160><c> A2A</c><00:21:15.520><c> one,</c>
+
+00:21:16.870 --> 00:21:16.880 align:start position:0%
+the uh A2A one,
+ 
+
+00:21:16.880 --> 00:21:17.950 align:start position:0%
+the uh A2A one,
+um
+
+00:21:17.950 --> 00:21:17.960 align:start position:0%
+um
+ 
+
+00:21:17.960 --> 00:21:21.550 align:start position:0%
+um
+go<00:21:18.600><c> uh</c><00:21:18.680><c> look</c><00:21:19.120><c> up</c><00:21:19.440><c> into</c><00:21:19.760><c> the</c><00:21:20.400><c> uh</c><00:21:20.520><c> actual</c><00:21:20.920><c> catalog</c>
+
+00:21:21.550 --> 00:21:21.560 align:start position:0%
+go uh look up into the uh actual catalog
+ 
+
+00:21:21.560 --> 00:21:25.150 align:start position:0%
+go uh look up into the uh actual catalog
+of<00:21:22.400><c> uh</c><00:21:22.480><c> agents</c><00:21:23.160><c> and</c><00:21:23.400><c> MCPs</c><00:21:24.320><c> to</c><00:21:24.440><c> retrieve</c><00:21:24.880><c> the</c>
+
+00:21:25.150 --> 00:21:25.160 align:start position:0%
+of uh agents and MCPs to retrieve the
+ 
+
+00:21:25.160 --> 00:21:28.950 align:start position:0%
+of uh agents and MCPs to retrieve the
+actual<00:21:25.640><c> URL</c><00:21:26.200><c> of</c><00:21:26.400><c> the</c><00:21:26.720><c> backend</c><00:21:27.280><c> that</c><00:21:27.600><c> the</c><00:21:27.880><c> agent</c>
+
+00:21:28.950 --> 00:21:28.960 align:start position:0%
+actual URL of the backend that the agent
+ 
+
+00:21:28.960 --> 00:21:31.150 align:start position:0%
+actual URL of the backend that the agent
+uh<00:21:29.040><c> wants</c><00:21:29.280><c> to</c><00:21:29.400><c> call</c><00:21:30.120><c> and</c><00:21:30.320><c> then</c><00:21:30.520><c> the</c><00:21:30.680><c> agent</c>
+
+00:21:31.150 --> 00:21:31.160 align:start position:0%
+uh wants to call and then the agent
+ 
+
+00:21:31.160 --> 00:21:33.550 align:start position:0%
+uh wants to call and then the agent
+authenticate<00:21:31.920><c> itself</c><00:21:32.960><c> uh</c>
+
+00:21:33.550 --> 00:21:33.560 align:start position:0%
+authenticate itself uh
+ 
+
+00:21:33.560 --> 00:21:35.350 align:start position:0%
+authenticate itself uh
+with<00:21:33.760><c> another</c><00:21:34.160><c> header</c>
+
+00:21:35.350 --> 00:21:35.360 align:start position:0%
+with another header
+ 
+
+00:21:35.360 --> 00:21:36.190 align:start position:0%
+with another header
+um
+
+00:21:36.190 --> 00:21:36.200 align:start position:0%
+um
+ 
+
+00:21:36.200 --> 00:21:38.830 align:start position:0%
+um
+onto<00:21:36.520><c> the</c><00:21:36.960><c> the</c><00:21:37.080><c> actual</c><00:21:37.440><c> server.</c>
+
+00:21:38.830 --> 00:21:38.840 align:start position:0%
+onto the the actual server.
+ 
+
+00:21:38.840 --> 00:21:40.230 align:start position:0%
+onto the the actual server.
+So<00:21:38.960><c> to</c><00:21:39.040><c> bring</c><00:21:39.280><c> it</c><00:21:39.400><c> back</c><00:21:39.680><c> to</c><00:21:39.800><c> the</c><00:21:39.880><c> business</c>
+
+00:21:40.230 --> 00:21:40.240 align:start position:0%
+So to bring it back to the business
+ 
+
+00:21:40.240 --> 00:21:42.310 align:start position:0%
+So to bring it back to the business
+perspective,<00:21:41.240><c> what</c><00:21:41.520><c> we</c><00:21:41.640><c> achieved</c><00:21:42.080><c> with</c><00:21:42.200><c> the</c>
+
+00:21:42.310 --> 00:21:42.320 align:start position:0%
+perspective, what we achieved with the
+ 
+
+00:21:42.320 --> 00:21:44.870 align:start position:0%
+perspective, what we achieved with the
+amplify<00:21:42.760><c> platform</c><00:21:43.320><c> and</c><00:21:43.480><c> the</c><00:21:43.560><c> registry</c><00:21:44.640><c> uh</c><00:21:44.760><c> we</c>
+
+00:21:44.870 --> 00:21:44.880 align:start position:0%
+amplify platform and the registry uh we
+ 
+
+00:21:44.880 --> 00:21:47.670 align:start position:0%
+amplify platform and the registry uh we
+developed,<00:21:45.840><c> we</c><00:21:46.120><c> have</c><00:21:46.360><c> right</c><00:21:46.480><c> now</c><00:21:46.720><c> a</c><00:21:46.840><c> catalog</c>
+
+00:21:47.670 --> 00:21:47.680 align:start position:0%
+developed, we have right now a catalog
+ 
+
+00:21:47.680 --> 00:21:49.950 align:start position:0%
+developed, we have right now a catalog
+uh<00:21:47.840><c> to</c><00:21:48.240><c> to</c><00:21:48.400><c> make</c><00:21:48.640><c> the</c><00:21:48.720><c> governance</c><00:21:49.440><c> happen.</c><00:21:49.760><c> So</c>
+
+00:21:49.950 --> 00:21:49.960 align:start position:0%
+uh to to make the governance happen. So
+ 
+
+00:21:49.960 --> 00:21:52.470 align:start position:0%
+uh to to make the governance happen. So
+we<00:21:50.080><c> see</c><00:21:50.400><c> the</c><00:21:50.640><c> MCP</c><00:21:51.240><c> and</c><00:21:51.480><c> A2A</c><00:21:51.800><c> server</c><00:21:52.200><c> that</c><00:21:52.400><c> we</c>
+
+00:21:52.470 --> 00:21:52.480 align:start position:0%
+we see the MCP and A2A server that we
+ 
+
+00:21:52.480 --> 00:21:53.990 align:start position:0%
+we see the MCP and A2A server that we
+deploy<00:21:52.880><c> across</c><00:21:53.160><c> the</c><00:21:53.240><c> organization</c><00:21:53.880><c> and</c>
+
+00:21:53.990 --> 00:21:54.000 align:start position:0%
+deploy across the organization and
+ 
+
+00:21:54.000 --> 00:21:55.910 align:start position:0%
+deploy across the organization and
+across<00:21:54.360><c> multiple</c><00:21:54.800><c> teams.</c>
+
+00:21:55.910 --> 00:21:55.920 align:start position:0%
+across multiple teams.
+ 
+
+00:21:55.920 --> 00:21:58.590 align:start position:0%
+across multiple teams.
+Uh<00:21:56.000><c> we</c><00:21:56.200><c> have</c><00:21:56.400><c> a</c><00:21:56.440><c> full</c><00:21:56.640><c> traceability</c><00:21:57.400><c> of</c><00:21:57.680><c> the</c>
+
+00:21:58.590 --> 00:21:58.600 align:start position:0%
+Uh we have a full traceability of the
+ 
+
+00:21:58.600 --> 00:22:01.390 align:start position:0%
+Uh we have a full traceability of the
+use<00:21:58.920><c> cases,</c><00:21:59.640><c> agents,</c><00:22:00.240><c> tools,</c><00:22:00.840><c> and</c><00:22:01.120><c> also</c>
+
+00:22:01.390 --> 00:22:01.400 align:start position:0%
+use cases, agents, tools, and also
+ 
+
+00:22:01.400 --> 00:22:04.750 align:start position:0%
+use cases, agents, tools, and also
+models<00:22:01.920><c> adopted</c><00:22:02.920><c> um</c><00:22:03.400><c> across</c><00:22:04.120><c> across</c><00:22:04.440><c> the</c><00:22:04.560><c> use</c>
+
+00:22:04.750 --> 00:22:04.760 align:start position:0%
+models adopted um across across the use
+ 
+
+00:22:04.760 --> 00:22:06.990 align:start position:0%
+models adopted um across across the use
+cases.<00:22:05.560><c> Then</c><00:22:05.720><c> we</c><00:22:05.840><c> have</c><00:22:06.160><c> the</c><00:22:06.280><c> production</c><00:22:06.800><c> ready</c>
+
+00:22:06.990 --> 00:22:07.000 align:start position:0%
+cases. Then we have the production ready
+ 
+
+00:22:07.000 --> 00:22:08.950 align:start position:0%
+cases. Then we have the production ready
+blueprints<00:22:07.480><c> for</c><00:22:07.840><c> developers</c><00:22:08.160><c> to</c><00:22:08.320><c> start</c><00:22:08.760><c> from</c>
+
+00:22:08.950 --> 00:22:08.960 align:start position:0%
+blueprints for developers to start from
+ 
+
+00:22:08.960 --> 00:22:11.150 align:start position:0%
+blueprints for developers to start from
+something<00:22:09.440><c> standard</c><00:22:09.920><c> across</c><00:22:10.440><c> across</c><00:22:10.760><c> teams,</c>
+
+00:22:11.150 --> 00:22:11.160 align:start position:0%
+something standard across across teams,
+ 
+
+00:22:11.160 --> 00:22:13.910 align:start position:0%
+something standard across across teams,
+but<00:22:12.040><c> uh</c><00:22:12.200><c> ready</c><00:22:12.520><c> for</c><00:22:12.840><c> building</c><00:22:13.240><c> and</c><00:22:13.360><c> focusing</c>
+
+00:22:13.910 --> 00:22:13.920 align:start position:0%
+but uh ready for building and focusing
+ 
+
+00:22:13.920 --> 00:22:14.790 align:start position:0%
+but uh ready for building and focusing
+on
+
+00:22:14.790 --> 00:22:14.800 align:start position:0%
+on
+ 
+
+00:22:14.800 --> 00:22:17.270 align:start position:0%
+on
+um<00:22:15.200><c> the</c><00:22:15.280><c> business</c><00:22:15.760><c> logic</c><00:22:16.080><c> in</c><00:22:16.160><c> the</c><00:22:16.280><c> use</c><00:22:16.520><c> cases.</c>
+
+00:22:17.270 --> 00:22:17.280 align:start position:0%
+um the business logic in the use cases.
+ 
+
+00:22:17.280 --> 00:22:20.110 align:start position:0%
+um the business logic in the use cases.
+Then<00:22:17.440><c> we</c><00:22:17.560><c> have</c><00:22:17.920><c> the</c><00:22:18.240><c> CICD</c><00:22:19.200><c> pipelines</c><00:22:19.960><c> that</c>
+
+00:22:20.110 --> 00:22:20.120 align:start position:0%
+Then we have the CICD pipelines that
+ 
+
+00:22:20.120 --> 00:22:22.590 align:start position:0%
+Then we have the CICD pipelines that
+ties<00:22:20.480><c> for</c><00:22:21.200><c> deploying</c><00:22:21.960><c> the</c><00:22:22.080><c> servers</c><00:22:22.480><c> to</c>
+
+00:22:22.590 --> 00:22:22.600 align:start position:0%
+ties for deploying the servers to
+ 
+
+00:22:22.600 --> 00:22:24.270 align:start position:0%
+ties for deploying the servers to
+production,<00:22:23.080><c> but</c><00:22:23.240><c> also</c><00:22:23.480><c> the</c><00:22:23.600><c> metadata</c><00:22:24.080><c> into</c>
+
+00:22:24.270 --> 00:22:24.280 align:start position:0%
+production, but also the metadata into
+ 
+
+00:22:24.280 --> 00:22:26.870 align:start position:0%
+production, but also the metadata into
+the<00:22:24.400><c> registry.</c><00:22:25.440><c> Of</c><00:22:25.600><c> course,</c><00:22:25.880><c> it</c><00:22:26.000><c> is</c><00:22:26.200><c> still</c><00:22:26.679><c> in</c>
+
+00:22:26.870 --> 00:22:26.880 align:start position:0%
+the registry. Of course, it is still in
+ 
+
+00:22:26.880 --> 00:22:28.870 align:start position:0%
+the registry. Of course, it is still in
+progress<00:22:27.240><c> the</c><00:22:27.360><c> the</c><00:22:27.640><c> work</c><00:22:28.120><c> on</c><00:22:28.280><c> this</c><00:22:28.440><c> platform,</c>
+
+00:22:28.870 --> 00:22:28.880 align:start position:0%
+progress the the work on this platform,
+ 
+
+00:22:28.880 --> 00:22:32.230 align:start position:0%
+progress the the work on this platform,
+so<00:22:29.120><c> we</c><00:22:29.280><c> are</c><00:22:29.440><c> keep</c><00:22:30.080><c> growing</c><00:22:30.560><c> the</c><00:22:30.640><c> capabilities.</c>
+
+00:22:32.230 --> 00:22:32.240 align:start position:0%
+so we are keep growing the capabilities.
+ 
+
+00:22:32.240 --> 00:22:34.390 align:start position:0%
+so we are keep growing the capabilities.
+Uh<00:22:32.560><c> so</c><00:22:32.720><c> feel</c><00:22:32.920><c> free</c><00:22:33.160><c> to</c><00:22:33.440><c> to</c><00:22:33.560><c> reach</c><00:22:33.800><c> out</c><00:22:33.960><c> to</c><00:22:34.120><c> us</c>
+
+00:22:34.390 --> 00:22:34.400 align:start position:0%
+Uh so feel free to to reach out to us
+ 
+
+00:22:34.400 --> 00:22:36.390 align:start position:0%
+Uh so feel free to to reach out to us
+and<00:22:34.679><c> keep</c><00:22:34.880><c> in</c><00:22:35.000><c> touch</c><00:22:35.280><c> if</c><00:22:35.440><c> you</c><00:22:35.560><c> have</c><00:22:35.880><c> any</c>
+
+00:22:36.390 --> 00:22:36.400 align:start position:0%
+and keep in touch if you have any
+ 
+
+00:22:36.400 --> 00:22:39.310 align:start position:0%
+and keep in touch if you have any
+similar<00:22:37.280><c> uh</c><00:22:37.360><c> point</c><00:22:37.679><c> of</c><00:22:37.760><c> view</c><00:22:38.000><c> or</c><00:22:38.240><c> also</c>
+
+00:22:39.310 --> 00:22:39.320 align:start position:0%
+similar uh point of view or also
+ 
+
+00:22:39.320 --> 00:22:40.710 align:start position:0%
+similar uh point of view or also
+uh<00:22:39.400><c> something</c><00:22:39.760><c> different</c><00:22:40.160><c> that</c><00:22:40.360><c> you</c><00:22:40.480><c> want</c><00:22:40.640><c> to</c>
+
+00:22:40.710 --> 00:22:40.720 align:start position:0%
+uh something different that you want to
+ 
+
+00:22:40.720 --> 00:22:42.990 align:start position:0%
+uh something different that you want to
+discuss,<00:22:41.520><c> more</c><00:22:41.679><c> than</c><00:22:41.840><c> welcome.</c>
+
+00:22:42.990 --> 00:22:43.000 align:start position:0%
+discuss, more than welcome.
+ 
+
+00:22:43.000 --> 00:22:46.840 align:start position:0%
+discuss, more than welcome.
+Thank<00:22:43.160><c> you.</c><00:22:43.760><c> Feel</c><00:22:43.920><c> free</c><00:22:44.120><c> to</c><00:22:44.200><c> reach</c><00:22:44.440><c> out.</c>
+

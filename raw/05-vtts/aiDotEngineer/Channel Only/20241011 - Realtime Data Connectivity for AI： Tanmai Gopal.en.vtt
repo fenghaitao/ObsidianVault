@@ -1,0 +1,1368 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.350 --> 00:00:13.629 align:start position:0%
+ 
+[Music]
+
+00:00:13.629 --> 00:00:13.639 align:start position:0%
+[Music]
+ 
+
+00:00:13.639 --> 00:00:16.950 align:start position:0%
+[Music]
+cool<00:00:13.960><c> I'd</c><00:00:14.120><c> originally</c><00:00:14.480><c> titled</c><00:00:14.799><c> this</c><00:00:14.960><c> talk</c><00:00:15.960><c> um</c>
+
+00:00:16.950 --> 00:00:16.960 align:start position:0%
+cool I'd originally titled this talk um
+ 
+
+00:00:16.960 --> 00:00:20.230 align:start position:0%
+cool I'd originally titled this talk um
+connect<00:00:17.359><c> realtime</c><00:00:17.920><c> data</c><00:00:18.199><c> to</c><00:00:18.439><c> your</c><00:00:18.680><c> AI</c><00:00:19.039><c> etc</c><00:00:19.439><c> etc</c>
+
+00:00:20.230 --> 00:00:20.240 align:start position:0%
+connect realtime data to your AI etc etc
+ 
+
+00:00:20.240 --> 00:00:21.870 align:start position:0%
+connect realtime data to your AI etc etc
+but<00:00:20.439><c> really</c><00:00:20.680><c> it's</c><00:00:20.840><c> more</c><00:00:21.080><c> existential</c><00:00:21.720><c> right</c>
+
+00:00:21.870 --> 00:00:21.880 align:start position:0%
+but really it's more existential right
+ 
+
+00:00:21.880 --> 00:00:24.269 align:start position:0%
+but really it's more existential right
+the<00:00:22.000><c> AI</c><00:00:22.240><c> overlords</c><00:00:22.720><c> are</c><00:00:22.880><c> coming</c><00:00:23.119><c> for</c><00:00:23.359><c> us</c><00:00:24.119><c> and</c>
+
+00:00:24.269 --> 00:00:24.279 align:start position:0%
+the AI overlords are coming for us and
+ 
+
+00:00:24.279 --> 00:00:27.390 align:start position:0%
+the AI overlords are coming for us and
+to<00:00:24.480><c> help</c><00:00:24.680><c> them</c><00:00:24.880><c> be</c><00:00:25.080><c> good</c><00:00:25.400><c> rulers</c><00:00:26.400><c> to</c><00:00:26.599><c> help</c><00:00:26.840><c> us</c>
+
+00:00:27.390 --> 00:00:27.400 align:start position:0%
+to help them be good rulers to help us
+ 
+
+00:00:27.400 --> 00:00:30.029 align:start position:0%
+to help them be good rulers to help us
+let's<00:00:27.720><c> just</c><00:00:28.160><c> give</c><00:00:28.359><c> them</c><00:00:28.560><c> the</c><00:00:28.679><c> data</c><00:00:28.960><c> they</c><00:00:29.119><c> need</c>
+
+00:00:30.029 --> 00:00:30.039 align:start position:0%
+let's just give them the data they need
+ 
+
+00:00:30.039 --> 00:00:31.589 align:start position:0%
+let's just give them the data they need
+so<00:00:30.240><c> that</c><00:00:30.439><c> you</c><00:00:30.560><c> know</c><00:00:30.720><c> they</c><00:00:30.880><c> can</c><00:00:31.080><c> they</c><00:00:31.199><c> can</c><00:00:31.320><c> do</c><00:00:31.439><c> a</c>
+
+00:00:31.589 --> 00:00:31.599 align:start position:0%
+so that you know they can they can do a
+ 
+
+00:00:31.599 --> 00:00:34.709 align:start position:0%
+so that you know they can they can do a
+good<00:00:31.800><c> job</c><00:00:32.320><c> right</c><00:00:33.040><c> um</c><00:00:33.879><c> hopefully</c><00:00:34.239><c> this</c><00:00:34.399><c> talk</c><00:00:34.640><c> is</c>
+
+00:00:34.709 --> 00:00:34.719 align:start position:0%
+good job right um hopefully this talk is
+ 
+
+00:00:34.719 --> 00:00:35.869 align:start position:0%
+good job right um hopefully this talk is
+going<00:00:34.840><c> to</c><00:00:34.960><c> be</c><00:00:35.040><c> the</c><00:00:35.160><c> simplest</c><00:00:35.520><c> talk</c><00:00:35.719><c> that</c><00:00:35.800><c> you</c>
+
+00:00:35.869 --> 00:00:35.879 align:start position:0%
+going to be the simplest talk that you
+ 
+
+00:00:35.879 --> 00:00:38.590 align:start position:0%
+going to be the simplest talk that you
+he<00:00:36.079><c> at</c><00:00:36.200><c> this</c><00:00:36.399><c> conference</c><00:00:37.399><c> um</c><00:00:37.719><c> if</c><00:00:37.840><c> it's</c><00:00:38.120><c> not</c>
+
+00:00:38.590 --> 00:00:38.600 align:start position:0%
+he at this conference um if it's not
+ 
+
+00:00:38.600 --> 00:00:40.470 align:start position:0%
+he at this conference um if it's not
+I'll<00:00:38.800><c> go</c><00:00:38.920><c> back</c><00:00:39.040><c> to</c><00:00:39.160><c> using</c><00:00:39.399><c> gp4</c><00:00:39.960><c> for</c><00:00:40.160><c> coding</c>
+
+00:00:40.470 --> 00:00:40.480 align:start position:0%
+I'll go back to using gp4 for coding
+ 
+
+00:00:40.480 --> 00:00:45.549 align:start position:0%
+I'll go back to using gp4 for coding
+instead<00:00:40.680><c> of</c><00:00:40.800><c> sonnet</c><00:00:41.640><c> um</c><00:00:42.719><c> but</c><00:00:43.719><c> the</c><00:00:43.960><c> real</c><00:00:44.760><c> pain</c>
+
+00:00:45.549 --> 00:00:45.559 align:start position:0%
+instead of sonnet um but the real pain
+ 
+
+00:00:45.559 --> 00:00:49.990 align:start position:0%
+instead of sonnet um but the real pain
+that<00:00:45.719><c> I</c><00:00:46.000><c> have</c><00:00:46.960><c> as</c><00:00:47.160><c> I</c><00:00:47.600><c> work</c><00:00:47.840><c> with</c><00:00:48.000><c> LMS</c><00:00:48.680><c> is</c><00:00:49.000><c> that</c>
+
+00:00:49.990 --> 00:00:50.000 align:start position:0%
+that I have as I work with LMS is that
+ 
+
+00:00:50.000 --> 00:00:51.790 align:start position:0%
+that I have as I work with LMS is that
+they<00:00:50.120><c> can</c><00:00:50.280><c> write</c><00:00:50.480><c> a</c><00:00:50.600><c> Flappy</c><00:00:50.920><c> Bird</c><00:00:51.160><c> for</c><00:00:51.320><c> me</c><00:00:51.600><c> with</c>
+
+00:00:51.790 --> 00:00:51.800 align:start position:0%
+they can write a Flappy Bird for me with
+ 
+
+00:00:51.800 --> 00:00:55.189 align:start position:0%
+they can write a Flappy Bird for me with
+my<00:00:52.039><c> face</c><00:00:52.399><c> going</c><00:00:52.640><c> up</c><00:00:52.760><c> and</c><00:00:52.960><c> down</c><00:00:53.760><c> in</c><00:00:53.960><c> 30</c><00:00:54.280><c> seconds</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+my face going up and down in 30 seconds
+ 
+
+00:00:55.199 --> 00:00:57.910 align:start position:0%
+my face going up and down in 30 seconds
+but<00:00:55.399><c> they</c><00:00:55.600><c> can't</c><00:00:55.960><c> talk</c><00:00:56.199><c> to</c><00:00:56.399><c> my</c><00:00:56.640><c> data</c>
+
+00:00:57.910 --> 00:00:57.920 align:start position:0%
+but they can't talk to my data
+ 
+
+00:00:57.920 --> 00:01:02.950 align:start position:0%
+but they can't talk to my data
+intelligently<00:00:58.920><c> it's</c><00:00:59.160><c> a</c><00:01:00.399><c> it's</c><00:01:00.640><c> really</c><00:01:01.280><c> stupid</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+intelligently it's a it's really stupid
+ 
+
+00:01:02.960 --> 00:01:06.149 align:start position:0%
+intelligently it's a it's really stupid
+um<00:01:03.960><c> if</c><00:01:04.320><c> I</c><00:01:05.320><c> want</c><00:01:05.439><c> to</c><00:01:05.600><c> connect</c><00:01:05.840><c> it</c><00:01:05.920><c> to</c><00:01:06.000><c> my</c>
+
+00:01:06.149 --> 00:01:06.159 align:start position:0%
+um if I want to connect it to my
+ 
+
+00:01:06.159 --> 00:01:08.390 align:start position:0%
+um if I want to connect it to my
+calendar<00:01:06.720><c> and</c><00:01:06.840><c> I</c><00:01:06.960><c> just</c><00:01:07.080><c> want</c><00:01:07.159><c> to</c><00:01:07.360><c> say</c><00:01:08.119><c> how</c><00:01:08.240><c> many</c>
+
+00:01:08.390 --> 00:01:08.400 align:start position:0%
+calendar and I just want to say how many
+ 
+
+00:01:08.400 --> 00:01:10.070 align:start position:0%
+calendar and I just want to say how many
+one-on<00:01:08.720><c> ones</c><00:01:08.920><c> did</c><00:01:09.040><c> I</c><00:01:09.119><c> have</c><00:01:09.320><c> last</c>
+
+00:01:10.070 --> 00:01:10.080 align:start position:0%
+one-on ones did I have last
+ 
+
+00:01:10.080 --> 00:01:13.710 align:start position:0%
+one-on ones did I have last
+week<00:01:11.080><c> what's</c><00:01:11.439><c> a</c><00:01:11.720><c> good</c><00:01:12.119><c> number</c><00:01:13.119><c> to</c><00:01:13.360><c> have</c><00:01:13.560><c> with</c>
+
+00:01:13.710 --> 00:01:13.720 align:start position:0%
+week what's a good number to have with
+ 
+
+00:01:13.720 --> 00:01:16.469 align:start position:0%
+week what's a good number to have with
+my<00:01:13.880><c> team</c><00:01:14.159><c> given</c><00:01:14.520><c> their</c><00:01:14.720><c> roles</c><00:01:15.439><c> help</c><00:01:15.720><c> me</c>
+
+00:01:16.469 --> 00:01:16.479 align:start position:0%
+my team given their roles help me
+ 
+
+00:01:16.479 --> 00:01:19.830 align:start position:0%
+my team given their roles help me
+stagger<00:01:17.000><c> them</c><00:01:17.479><c> better</c><00:01:18.000><c> and</c><00:01:18.159><c> plan</c><00:01:18.400><c> it</c><00:01:18.720><c> out</c><00:01:19.720><c> I</c>
+
+00:01:19.830 --> 00:01:19.840 align:start position:0%
+stagger them better and plan it out I
+ 
+
+00:01:19.840 --> 00:01:21.429 align:start position:0%
+stagger them better and plan it out I
+want<00:01:19.960><c> to</c><00:01:20.119><c> connect</c><00:01:20.360><c> it</c><00:01:20.479><c> to</c><00:01:20.600><c> my</c><00:01:20.680><c> Salesforce</c><00:01:21.240><c> and</c>
+
+00:01:21.429 --> 00:01:21.439 align:start position:0%
+want to connect it to my Salesforce and
+ 
+
+00:01:21.439 --> 00:01:24.310 align:start position:0%
+want to connect it to my Salesforce and
+say<00:01:22.159><c> why</c><00:01:22.320><c> is</c><00:01:22.640><c> this</c><00:01:22.840><c> deal</c><00:01:23.240><c> with</c><00:01:23.439><c> Acme</c><00:01:23.960><c> stuck</c><00:01:24.159><c> in</c>
+
+00:01:24.310 --> 00:01:24.320 align:start position:0%
+say why is this deal with Acme stuck in
+ 
+
+00:01:24.320 --> 00:01:26.190 align:start position:0%
+say why is this deal with Acme stuck in
+stage<00:01:24.640><c> three</c><00:01:25.079><c> and</c><00:01:25.200><c> I</c><00:01:25.280><c> needed</c><00:01:25.520><c> to</c><00:01:25.600><c> do</c><00:01:25.759><c> the</c><00:01:25.960><c> right</c>
+
+00:01:26.190 --> 00:01:26.200 align:start position:0%
+stage three and I needed to do the right
+ 
+
+00:01:26.200 --> 00:01:27.990 align:start position:0%
+stage three and I needed to do the right
+thing<00:01:26.520><c> I</c><00:01:26.600><c> needed</c><00:01:26.840><c> to</c><00:01:27.000><c> figure</c><00:01:27.280><c> out</c><00:01:27.600><c> the</c><00:01:27.720><c> things</c>
+
+00:01:27.990 --> 00:01:28.000 align:start position:0%
+thing I needed to figure out the things
+ 
+
+00:01:28.000 --> 00:01:30.270 align:start position:0%
+thing I needed to figure out the things
+between<00:01:28.320><c> stage</c><00:01:28.560><c> two</c><00:01:28.720><c> and</c><00:01:28.880><c> stage</c><00:01:29.159><c> three</c><00:01:30.000><c> in</c><00:01:30.119><c> my</c>
+
+00:01:30.270 --> 00:01:30.280 align:start position:0%
+between stage two and stage three in my
+ 
+
+00:01:30.280 --> 00:01:32.469 align:start position:0%
+between stage two and stage three in my
+sales<00:01:30.720><c> Pipeline</c><00:01:31.640><c> and</c><00:01:31.759><c> tell</c><00:01:31.960><c> me</c><00:01:32.159><c> why</c><00:01:32.320><c> that</c>
+
+00:01:32.469 --> 00:01:32.479 align:start position:0%
+sales Pipeline and tell me why that
+ 
+
+00:01:32.479 --> 00:01:34.749 align:start position:0%
+sales Pipeline and tell me why that
+particular<00:01:32.840><c> deal</c><00:01:33.040><c> is</c><00:01:33.240><c> blocked</c><00:01:34.240><c> I</c><00:01:34.360><c> wanted</c><00:01:34.600><c> to</c>
+
+00:01:34.749 --> 00:01:34.759 align:start position:0%
+particular deal is blocked I wanted to
+ 
+
+00:01:34.759 --> 00:01:36.510 align:start position:0%
+particular deal is blocked I wanted to
+connect<00:01:35.159><c> my</c><00:01:35.320><c> tickets</c><00:01:35.640><c> and</c><00:01:35.799><c> my</c><00:01:35.920><c> product</c><00:01:36.280><c> data</c>
+
+00:01:36.510 --> 00:01:36.520 align:start position:0%
+connect my tickets and my product data
+ 
+
+00:01:36.520 --> 00:01:37.950 align:start position:0%
+connect my tickets and my product data
+and<00:01:36.680><c> say</c><00:01:37.159><c> is</c><00:01:37.320><c> this</c><00:01:37.479><c> ticket</c><00:01:37.720><c> from</c><00:01:37.880><c> an</c>
+
+00:01:37.950 --> 00:01:37.960 align:start position:0%
+and say is this ticket from an
+ 
+
+00:01:37.960 --> 00:01:39.870 align:start position:0%
+and say is this ticket from an
+Enterprise<00:01:38.360><c> customer</c><00:01:39.079><c> what's</c><00:01:39.360><c> the</c><00:01:39.520><c> name</c><00:01:39.720><c> of</c>
+
+00:01:39.870 --> 00:01:39.880 align:start position:0%
+Enterprise customer what's the name of
+ 
+
+00:01:39.880 --> 00:01:41.749 align:start position:0%
+Enterprise customer what's the name of
+their<00:01:40.200><c> project</c><00:01:40.640><c> can</c><00:01:40.799><c> you</c><00:01:40.960><c> tell</c><00:01:41.119><c> me</c><00:01:41.439><c> like</c><00:01:41.600><c> what</c>
+
+00:01:41.749 --> 00:01:41.759 align:start position:0%
+their project can you tell me like what
+ 
+
+00:01:41.759 --> 00:01:44.429 align:start position:0%
+their project can you tell me like what
+the<00:01:41.880><c> status</c><00:01:42.200><c> of</c><00:01:42.320><c> that</c><00:01:42.520><c> project</c><00:01:42.920><c> is</c><00:01:43.240><c> and</c><00:01:44.240><c> what</c>
+
+00:01:44.429 --> 00:01:44.439 align:start position:0%
+the status of that project is and what
+ 
+
+00:01:44.439 --> 00:01:46.109 align:start position:0%
+the status of that project is and what
+part<00:01:44.640><c> of</c><00:01:44.759><c> the</c><00:01:44.880><c> product</c><00:01:45.159><c> funnel</c><00:01:45.560><c> this</c><00:01:45.719><c> project</c>
+
+00:01:46.109 --> 00:01:46.119 align:start position:0%
+part of the product funnel this project
+ 
+
+00:01:46.119 --> 00:01:50.069 align:start position:0%
+part of the product funnel this project
+is<00:01:46.479><c> in</c><00:01:47.880><c> um</c><00:01:48.880><c> I</c><00:01:49.000><c> went</c><00:01:49.159><c> to</c><00:01:49.320><c> Amazon</c><00:01:49.680><c> today</c><00:01:49.920><c> in</c><00:01:50.000><c> the</c>
+
+00:01:50.069 --> 00:01:50.079 align:start position:0%
+is in um I went to Amazon today in the
+ 
+
+00:01:50.079 --> 00:01:52.550 align:start position:0%
+is in um I went to Amazon today in the
+morning<00:01:50.680><c> and</c><00:01:50.799><c> they</c><00:01:50.920><c> have</c><00:01:51.079><c> this</c><00:01:51.240><c> rofus</c><00:01:51.799><c> thing</c>
+
+00:01:52.550 --> 00:01:52.560 align:start position:0%
+morning and they have this rofus thing
+ 
+
+00:01:52.560 --> 00:01:55.149 align:start position:0%
+morning and they have this rofus thing
+and<00:01:52.680><c> I</c><00:01:52.759><c> was</c><00:01:52.920><c> like</c><00:01:53.159><c> okay</c><00:01:53.399><c> cool</c><00:01:54.159><c> um</c><00:01:54.560><c> is</c><00:01:54.799><c> this</c>
+
+00:01:55.149 --> 00:01:55.159 align:start position:0%
+and I was like okay cool um is this
+ 
+
+00:01:55.159 --> 00:01:56.789 align:start position:0%
+and I was like okay cool um is this
+product<00:01:56.079><c> I'm</c><00:01:56.159><c> going</c><00:01:56.280><c> to</c><00:01:56.360><c> tell</c><00:01:56.439><c> you</c><00:01:56.560><c> what</c><00:01:56.680><c> that</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+product I'm going to tell you what that
+ 
+
+00:01:56.799 --> 00:01:58.910 align:start position:0%
+product I'm going to tell you what that
+product<00:01:57.039><c> is</c><00:01:57.159><c> in</c><00:01:57.240><c> a</c><00:01:57.360><c> second</c><00:01:58.039><c> uh</c><00:01:58.200><c> but</c><00:01:58.360><c> is</c><00:01:58.560><c> this</c>
+
+00:01:58.910 --> 00:01:58.920 align:start position:0%
+product is in a second uh but is this
+ 
+
+00:01:58.920 --> 00:02:01.510 align:start position:0%
+product is in a second uh but is this
+product<00:01:59.360><c> available</c><00:02:00.039><c> for</c><00:02:00.560><c> one</c><00:02:00.799><c> day</c><00:02:01.000><c> delivery</c>
+
+00:02:01.510 --> 00:02:01.520 align:start position:0%
+product available for one day delivery
+ 
+
+00:02:01.520 --> 00:02:04.310 align:start position:0%
+product available for one day delivery
+at<00:02:01.680><c> my</c><00:02:01.840><c> Harrison</c><00:02:02.200><c> street</c><00:02:02.479><c> address</c><00:02:03.280><c> right</c><00:02:03.960><c> and</c>
+
+00:02:04.310 --> 00:02:04.320 align:start position:0%
+at my Harrison street address right and
+ 
+
+00:02:04.320 --> 00:02:07.590 align:start position:0%
+at my Harrison street address right and
+just<00:02:04.719><c> just</c><00:02:05.119><c> doesn't</c><00:02:05.840><c> like</c><00:02:06.280><c> what</c><00:02:06.960><c> is</c><00:02:07.240><c> this</c>
+
+00:02:07.590 --> 00:02:07.600 align:start position:0%
+just just doesn't like what is this
+ 
+
+00:02:07.600 --> 00:02:11.110 align:start position:0%
+just just doesn't like what is this
+right<00:02:07.920><c> like</c><00:02:08.200><c> it's</c><00:02:08.720><c> right</c><00:02:09.080><c> here</c><00:02:09.560><c> just</c><00:02:10.160><c> do</c><00:02:10.360><c> it</c>
+
+00:02:11.110 --> 00:02:11.120 align:start position:0%
+right like it's right here just do it
+ 
+
+00:02:11.120 --> 00:02:13.910 align:start position:0%
+right like it's right here just do it
+and<00:02:11.239><c> it</c><00:02:11.360><c> doesn't</c><00:02:11.959><c> work</c><00:02:12.959><c> and</c><00:02:13.280><c> you</c><00:02:13.480><c> you</c><00:02:13.640><c> you</c><00:02:13.760><c> all</c>
+
+00:02:13.910 --> 00:02:13.920 align:start position:0%
+and it doesn't work and you you you all
+ 
+
+00:02:13.920 --> 00:02:15.430 align:start position:0%
+and it doesn't work and you you you all
+know<00:02:14.160><c> why</c><00:02:14.319><c> it</c><00:02:14.440><c> doesn't</c><00:02:14.720><c> work</c><00:02:15.040><c> right</c><00:02:15.200><c> there's</c>
+
+00:02:15.430 --> 00:02:15.440 align:start position:0%
+know why it doesn't work right there's
+ 
+
+00:02:15.440 --> 00:02:17.430 align:start position:0%
+know why it doesn't work right there's
+like<00:02:15.599><c> a</c><00:02:15.800><c> death</c><00:02:16.040><c> by</c><00:02:16.280><c> Thousand</c><00:02:16.680><c> Cuts</c><00:02:17.040><c> and</c><00:02:17.239><c> it's</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+like a death by Thousand Cuts and it's
+ 
+
+00:02:17.440 --> 00:02:18.910 align:start position:0%
+like a death by Thousand Cuts and it's
+not<00:02:17.680><c> secure</c><00:02:18.200><c> and</c><00:02:18.319><c> I</c><00:02:18.360><c> don't</c><00:02:18.480><c> want</c><00:02:18.560><c> to</c><00:02:18.680><c> connect</c>
+
+00:02:18.910 --> 00:02:18.920 align:start position:0%
+not secure and I don't want to connect
+ 
+
+00:02:18.920 --> 00:02:20.550 align:start position:0%
+not secure and I don't want to connect
+my<00:02:19.080><c> calendar</c><00:02:19.440><c> and</c><00:02:19.560><c> make</c><00:02:19.680><c> it</c><00:02:19.800><c> into</c><00:02:20.000><c> GPT</c><00:02:20.440><c> who</c>
+
+00:02:20.550 --> 00:02:20.560 align:start position:0%
+my calendar and make it into GPT who
+ 
+
+00:02:20.560 --> 00:02:22.070 align:start position:0%
+my calendar and make it into GPT who
+even<00:02:20.760><c> knows</c><00:02:21.000><c> what</c><00:02:21.120><c> the</c><00:02:21.200><c> GPT</c><00:02:21.599><c> is</c><00:02:21.720><c> doing</c><00:02:21.959><c> with</c>
+
+00:02:22.070 --> 00:02:22.080 align:start position:0%
+even knows what the GPT is doing with
+ 
+
+00:02:22.080 --> 00:02:24.550 align:start position:0%
+even knows what the GPT is doing with
+this<00:02:22.360><c> right</c><00:02:22.599><c> like</c><00:02:23.160><c> it's</c><00:02:23.680><c> it's</c><00:02:23.840><c> it's</c><00:02:24.120><c> it's</c>
+
+00:02:24.550 --> 00:02:24.560 align:start position:0%
+this right like it's it's it's it's
+ 
+
+00:02:24.560 --> 00:02:28.309 align:start position:0%
+this right like it's it's it's it's
+scary<00:02:25.519><c> um</c><00:02:25.640><c> and</c><00:02:25.720><c> it</c><00:02:25.840><c> doesn't</c><00:02:26.080><c> work</c><00:02:27.040><c> um</c><00:02:28.040><c> so</c><00:02:28.200><c> we</c>
+
+00:02:28.309 --> 00:02:28.319 align:start position:0%
+scary um and it doesn't work um so we
+ 
+
+00:02:28.319 --> 00:02:30.750 align:start position:0%
+scary um and it doesn't work um so we
+saw<00:02:28.640><c> this</c><00:02:29.519><c> with</c>
+
+00:02:30.750 --> 00:02:30.760 align:start position:0%
+saw this with
+ 
+
+00:02:30.760 --> 00:02:33.229 align:start position:0%
+saw this with
+a<00:02:30.879><c> pretty</c><00:02:31.080><c> simple</c><00:02:31.360><c> idea</c><00:02:32.040><c> which</c><00:02:32.200><c> is</c><00:02:32.560><c> that</c><00:02:33.000><c> you</c>
+
+00:02:33.229 --> 00:02:33.239 align:start position:0%
+a pretty simple idea which is that you
+ 
+
+00:02:33.239 --> 00:02:35.589 align:start position:0%
+a pretty simple idea which is that you
+take<00:02:33.440><c> your</c><00:02:33.959><c> live</c><00:02:34.280><c> data</c><00:02:34.640><c> and</c><00:02:34.800><c> business</c><00:02:35.120><c> logic</c>
+
+00:02:35.589 --> 00:02:35.599 align:start position:0%
+take your live data and business logic
+ 
+
+00:02:35.599 --> 00:02:37.190 align:start position:0%
+take your live data and business logic
+and<00:02:35.680><c> you</c><00:02:35.800><c> make</c><00:02:36.000><c> that</c><00:02:36.200><c> available</c><00:02:36.680><c> as</c><00:02:36.800><c> a</c><00:02:36.920><c> tool</c><00:02:37.120><c> to</c>
+
+00:02:37.190 --> 00:02:37.200 align:start position:0%
+and you make that available as a tool to
+ 
+
+00:02:37.200 --> 00:02:39.149 align:start position:0%
+and you make that available as a tool to
+your<00:02:37.640><c> llm</c>
+
+00:02:39.149 --> 00:02:39.159 align:start position:0%
+your llm
+ 
+
+00:02:39.159 --> 00:02:42.190 align:start position:0%
+your llm
+um<00:02:40.159><c> no</c><00:02:40.800><c> it's</c><00:02:40.959><c> not</c><00:02:41.239><c> it's</c><00:02:41.319><c> not</c><00:02:41.480><c> surprising</c>
+
+00:02:42.190 --> 00:02:42.200 align:start position:0%
+um no it's not it's not surprising
+ 
+
+00:02:42.200 --> 00:02:45.270 align:start position:0%
+um no it's not it's not surprising
+right<00:02:42.319><c> it's</c><00:02:42.560><c> easy</c><00:02:43.319><c> um</c><00:02:43.959><c> because</c><00:02:44.800><c> and</c><00:02:44.920><c> we</c><00:02:45.040><c> did</c><00:02:45.200><c> a</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+right it's easy um because and we did a
+ 
+
+00:02:45.280 --> 00:02:47.309 align:start position:0%
+right it's easy um because and we did a
+bunch<00:02:45.440><c> of</c><00:02:45.599><c> things</c><00:02:46.120><c> that</c><00:02:46.319><c> makes</c><00:02:46.560><c> it</c><00:02:46.800><c> work</c>
+
+00:02:47.309 --> 00:02:47.319 align:start position:0%
+bunch of things that makes it work
+ 
+
+00:02:47.319 --> 00:02:50.470 align:start position:0%
+bunch of things that makes it work
+really<00:02:47.640><c> really</c><00:02:47.879><c> well</c><00:02:48.640><c> right</c><00:02:49.640><c> um</c><00:02:50.080><c> see</c><00:02:50.280><c> if</c><00:02:50.360><c> you</c>
+
+00:02:50.470 --> 00:02:50.480 align:start position:0%
+really really well right um see if you
+ 
+
+00:02:50.480 --> 00:02:54.270 align:start position:0%
+really really well right um see if you
+have<00:02:50.680><c> time</c><00:02:50.840><c> for</c><00:02:51.000><c> a</c><00:02:51.360><c> quick</c><00:02:52.360><c> live</c><00:02:52.720><c> demo</c><00:02:53.239><c> here</c><00:02:54.200><c> let</c>
+
+00:02:54.270 --> 00:02:54.280 align:start position:0%
+have time for a quick live demo here let
+ 
+
+00:02:54.280 --> 00:02:56.550 align:start position:0%
+have time for a quick live demo here let
+me<00:02:54.400><c> see</c><00:02:54.560><c> if</c><00:02:54.680><c> I'm</c><00:02:54.920><c> connected</c><00:02:55.800><c> to</c><00:02:56.000><c> the</c><00:02:56.120><c> internet</c>
+
+00:02:56.550 --> 00:02:56.560 align:start position:0%
+me see if I'm connected to the internet
+ 
+
+00:02:56.560 --> 00:02:57.430 align:start position:0%
+me see if I'm connected to the internet
+which<00:02:56.760><c> I</c>
+
+00:02:57.430 --> 00:02:57.440 align:start position:0%
+which I
+ 
+
+00:02:57.440 --> 00:03:04.509 align:start position:0%
+which I
+am<00:02:58.440><c> all</c><00:02:58.640><c> right</c><00:02:58.879><c> I</c><00:02:59.000><c> want</c><00:02:59.080><c> to</c><00:02:59.239><c> zoom</c><00:02:59.519><c> this</c><00:02:59.640><c> up</c>
+
+00:03:04.509 --> 00:03:04.519 align:start position:0%
+ 
+ 
+
+00:03:04.519 --> 00:03:08.550 align:start position:0%
+ 
+all<00:03:04.680><c> right</c>
+
+00:03:08.550 --> 00:03:08.560 align:start position:0%
+ 
+ 
+
+00:03:08.560 --> 00:03:12.949 align:start position:0%
+ 
+so<00:03:09.840><c> um</c><00:03:10.840><c> I'm</c><00:03:11.280><c> a</c><00:03:11.560><c> blockbuster</c><00:03:12.519><c> because</c>
+
+00:03:12.949 --> 00:03:12.959 align:start position:0%
+so um I'm a blockbuster because
+ 
+
+00:03:12.959 --> 00:03:14.430 align:start position:0%
+so um I'm a blockbuster because
+obviously<00:03:13.319><c> Services</c><00:03:13.760><c> business</c><00:03:14.080><c> are</c><00:03:14.200><c> the</c><00:03:14.280><c> most</c>
+
+00:03:14.430 --> 00:03:14.440 align:start position:0%
+obviously Services business are the most
+ 
+
+00:03:14.440 --> 00:03:16.430 align:start position:0%
+obviously Services business are the most
+important<00:03:14.760><c> businesses</c><00:03:15.200><c> now</c><00:03:15.560><c> and</c><00:03:15.879><c> like</c><00:03:16.319><c> um</c>
+
+00:03:16.430 --> 00:03:16.440 align:start position:0%
+important businesses now and like um
+ 
+
+00:03:16.440 --> 00:03:17.789 align:start position:0%
+important businesses now and like um
+movie<00:03:16.720><c> streaming</c><00:03:17.120><c> businesses</c><00:03:17.480><c> are</c><00:03:17.599><c> going</c><00:03:17.680><c> to</c>
+
+00:03:17.789 --> 00:03:17.799 align:start position:0%
+movie streaming businesses are going to
+ 
+
+00:03:17.799 --> 00:03:19.990 align:start position:0%
+movie streaming businesses are going to
+go<00:03:17.920><c> nowhere</c><00:03:18.400><c> in</c><00:03:18.959><c> the</c><00:03:19.120><c> AI</c><00:03:19.400><c> world</c><00:03:19.640><c> that</c><00:03:19.720><c> is</c><00:03:19.840><c> to</c>
+
+00:03:19.990 --> 00:03:20.000 align:start position:0%
+go nowhere in the AI world that is to
+ 
+
+00:03:20.000 --> 00:03:22.949 align:start position:0%
+go nowhere in the AI world that is to
+come<00:03:20.560><c> and</c><00:03:20.720><c> so</c><00:03:21.159><c> in</c><00:03:21.319><c> my</c><00:03:21.519><c> Blockbuster</c><00:03:22.440><c> database</c>
+
+00:03:22.949 --> 00:03:22.959 align:start position:0%
+come and so in my Blockbuster database
+ 
+
+00:03:22.959 --> 00:03:24.670 align:start position:0%
+come and so in my Blockbuster database
+and<00:03:23.159><c> transactions</c><00:03:23.879><c> and</c><00:03:24.040><c> all</c><00:03:24.159><c> of</c><00:03:24.280><c> the</c><00:03:24.440><c> stuff</c>
+
+00:03:24.670 --> 00:03:24.680 align:start position:0%
+and transactions and all of the stuff
+ 
+
+00:03:24.680 --> 00:03:27.270 align:start position:0%
+and transactions and all of the stuff
+that<00:03:24.799><c> I</c><00:03:24.920><c> have</c><00:03:25.080><c> going</c><00:03:25.280><c> on</c><00:03:25.879><c> I</c><00:03:25.959><c> want</c><00:03:26.120><c> to</c><00:03:26.400><c> ask</c><00:03:27.080><c> my</c>
+
+00:03:27.270 --> 00:03:27.280 align:start position:0%
+that I have going on I want to ask my
+ 
+
+00:03:27.280 --> 00:03:31.350 align:start position:0%
+that I have going on I want to ask my
+data<00:03:27.640><c> question</c><00:03:27.920><c> and</c><00:03:28.439><c> say</c><00:03:29.439><c> what</c><00:03:30.120><c> help</c>
+
+00:03:31.350 --> 00:03:31.360 align:start position:0%
+data question and say what help
+ 
+
+00:03:31.360 --> 00:03:36.910 align:start position:0%
+data question and say what help
+me<00:03:32.360><c> write</c><00:03:32.760><c> an</c><00:03:33.040><c> email</c><00:03:33.480><c> to</c><00:03:34.080><c> my</c><00:03:35.080><c> top</c><00:03:35.920><c> customer</c>
+
+00:03:36.910 --> 00:03:36.920 align:start position:0%
+me write an email to my top customer
+ 
+
+00:03:36.920 --> 00:03:39.710 align:start position:0%
+me write an email to my top customer
+thanking<00:03:37.400><c> them</c><00:03:37.920><c> for</c><00:03:38.200><c> their</c>
+
+00:03:39.710 --> 00:03:39.720 align:start position:0%
+thanking them for their
+ 
+
+00:03:39.720 --> 00:03:42.910 align:start position:0%
+thanking them for their
+patronage<00:03:40.720><c> um</c>
+
+00:03:42.910 --> 00:03:42.920 align:start position:0%
+patronage um
+ 
+
+00:03:42.920 --> 00:03:47.429 align:start position:0%
+patronage um
+quot<00:03:44.159><c> mention</c><00:03:45.159><c> some</c><00:03:46.040><c> recent</c>
+
+00:03:47.429 --> 00:03:47.439 align:start position:0%
+quot mention some recent
+ 
+
+00:03:47.439 --> 00:03:49.630 align:start position:0%
+quot mention some recent
+movies<00:03:48.439><c> they</c>
+
+00:03:49.630 --> 00:03:49.640 align:start position:0%
+movies they
+ 
+
+00:03:49.640 --> 00:03:53.869 align:start position:0%
+movies they
+watched<00:03:50.640><c> right</c><00:03:51.599><c> straightforward</c><00:03:52.519><c> request</c><00:03:53.519><c> um</c>
+
+00:03:53.869 --> 00:03:53.879 align:start position:0%
+watched right straightforward request um
+ 
+
+00:03:53.879 --> 00:03:55.789 align:start position:0%
+watched right straightforward request um
+I<00:03:54.000><c> have</c><00:03:54.120><c> all</c><00:03:54.239><c> this</c><00:03:54.439><c> data</c><00:03:55.079><c> I</c><00:03:55.159><c> just</c><00:03:55.319><c> needed</c><00:03:55.560><c> to</c><00:03:55.680><c> do</c>
+
+00:03:55.789 --> 00:03:55.799 align:start position:0%
+I have all this data I just needed to do
+ 
+
+00:03:55.799 --> 00:03:57.869 align:start position:0%
+I have all this data I just needed to do
+the<00:03:55.959><c> right</c><00:03:56.159><c> things</c><00:03:56.760><c> and</c><00:03:56.879><c> I</c><00:03:57.000><c> needed</c><00:03:57.319><c> to</c><00:03:57.680><c> write</c>
+
+00:03:57.869 --> 00:03:57.879 align:start position:0%
+the right things and I needed to write
+ 
+
+00:03:57.879 --> 00:04:01.630 align:start position:0%
+the right things and I needed to write
+an<00:03:58.040><c> email</c><00:03:58.319><c> for</c><00:03:58.480><c> me</c><00:03:59.000><c> right</c><00:03:59.560><c> and</c><00:03:59.840><c> and</c><00:04:00.480><c> it</c><00:04:00.640><c> works</c>
+
+00:04:01.630 --> 00:04:01.640 align:start position:0%
+an email for me right and and it works
+ 
+
+00:04:01.640 --> 00:04:03.350 align:start position:0%
+an email for me right and and it works
+and<00:04:01.840><c> it</c><00:04:02.040><c> works</c><00:04:02.439><c> despite</c><00:04:02.799><c> the</c><00:04:02.920><c> fact</c><00:04:03.120><c> that</c><00:04:03.200><c> it's</c>
+
+00:04:03.350 --> 00:04:03.360 align:start position:0%
+and it works despite the fact that it's
+ 
+
+00:04:03.360 --> 00:04:04.589 align:start position:0%
+and it works despite the fact that it's
+going<00:04:03.519><c> to</c><00:04:03.680><c> two</c><00:04:03.799><c> or</c><00:04:03.920><c> three</c><00:04:04.079><c> different</c><00:04:04.319><c> places</c>
+
+00:04:04.589 --> 00:04:04.599 align:start position:0%
+going to two or three different places
+ 
+
+00:04:04.599 --> 00:04:06.589 align:start position:0%
+going to two or three different places
+and<00:04:04.760><c> getting</c><00:04:05.040><c> data</c><00:04:05.239><c> from</c><00:04:05.439><c> them</c><00:04:06.159><c> and</c><00:04:06.280><c> it</c><00:04:06.360><c> works</c>
+
+00:04:06.589 --> 00:04:06.599 align:start position:0%
+and getting data from them and it works
+ 
+
+00:04:06.599 --> 00:04:07.990 align:start position:0%
+and getting data from them and it works
+pretty
+
+00:04:07.990 --> 00:04:08.000 align:start position:0%
+pretty
+ 
+
+00:04:08.000 --> 00:04:10.429 align:start position:0%
+pretty
+well<00:04:09.000><c> it</c><00:04:09.120><c> handles</c><00:04:09.439><c> all</c><00:04:09.560><c> kinds</c><00:04:09.720><c> of</c><00:04:09.799><c> situations</c>
+
+00:04:10.429 --> 00:04:10.439 align:start position:0%
+well it handles all kinds of situations
+ 
+
+00:04:10.439 --> 00:04:11.550 align:start position:0%
+well it handles all kinds of situations
+and<00:04:10.519><c> I'm</c><00:04:10.599><c> going</c><00:04:10.720><c> to</c><00:04:10.799><c> talk</c><00:04:10.920><c> to</c><00:04:11.000><c> you</c><00:04:11.120><c> about</c><00:04:11.360><c> three</c>
+
+00:04:11.550 --> 00:04:11.560 align:start position:0%
+and I'm going to talk to you about three
+ 
+
+00:04:11.560 --> 00:04:13.429 align:start position:0%
+and I'm going to talk to you about three
+key<00:04:11.799><c> ideas</c><00:04:12.280><c> about</c><00:04:12.519><c> how</c><00:04:12.640><c> it</c><00:04:12.799><c> works</c><00:04:13.280><c> and</c>
+
+00:04:13.429 --> 00:04:13.439 align:start position:0%
+key ideas about how it works and
+ 
+
+00:04:13.439 --> 00:04:14.470 align:start position:0%
+key ideas about how it works and
+hopefully<00:04:13.720><c> that's</c><00:04:13.879><c> going</c><00:04:13.959><c> to</c><00:04:14.040><c> be</c><00:04:14.120><c> useful</c><00:04:14.360><c> to</c>
+
+00:04:14.470 --> 00:04:14.480 align:start position:0%
+hopefully that's going to be useful to
+ 
+
+00:04:14.480 --> 00:04:16.509 align:start position:0%
+hopefully that's going to be useful to
+you<00:04:14.599><c> as</c><00:04:14.720><c> well</c>
+
+00:04:16.509 --> 00:04:16.519 align:start position:0%
+you as well
+ 
+
+00:04:16.519 --> 00:04:23.070 align:start position:0%
+you as well
+so<00:04:17.519><c> the</c><00:04:17.680><c> first</c>
+
+00:04:23.070 --> 00:04:23.080 align:start position:0%
+ 
+ 
+
+00:04:23.080 --> 00:04:25.950 align:start position:0%
+ 
+is<00:04:24.080><c> this</c><00:04:24.280><c> idea</c><00:04:24.479><c> of</c><00:04:24.560><c> a</c><00:04:24.680><c> unified</c><00:04:25.040><c> query</c><00:04:25.320><c> language</c>
+
+00:04:25.950 --> 00:04:25.960 align:start position:0%
+is this idea of a unified query language
+ 
+
+00:04:25.960 --> 00:04:26.990 align:start position:0%
+is this idea of a unified query language
+whether<00:04:26.120><c> you're</c><00:04:26.240><c> talking</c><00:04:26.440><c> to</c><00:04:26.560><c> structured</c>
+
+00:04:26.990 --> 00:04:27.000 align:start position:0%
+whether you're talking to structured
+ 
+
+00:04:27.000 --> 00:04:30.189 align:start position:0%
+whether you're talking to structured
+data<00:04:27.360><c> or</c><00:04:27.520><c> unstructured</c><00:04:28.120><c> data</c><00:04:28.639><c> or</c><00:04:28.880><c> apis</c><00:04:29.880><c> what</c>
+
+00:04:30.189 --> 00:04:30.199 align:start position:0%
+data or unstructured data or apis what
+ 
+
+00:04:30.199 --> 00:04:32.790 align:start position:0%
+data or unstructured data or apis what
+if<00:04:30.639><c> your</c><00:04:30.840><c> llm</c><00:04:31.320><c> could</c><00:04:31.520><c> talk</c><00:04:31.720><c> to</c><00:04:31.960><c> everything</c><00:04:32.600><c> the</c>
+
+00:04:32.790 --> 00:04:32.800 align:start position:0%
+if your llm could talk to everything the
+ 
+
+00:04:32.800 --> 00:04:35.510 align:start position:0%
+if your llm could talk to everything the
+same<00:04:33.280><c> way</c><00:04:33.960><c> right</c><00:04:34.520><c> llms</c><00:04:35.000><c> don't</c><00:04:35.160><c> know</c><00:04:35.280><c> what</c><00:04:35.400><c> your</c>
+
+00:04:35.510 --> 00:04:35.520 align:start position:0%
+same way right llms don't know what your
+ 
+
+00:04:35.520 --> 00:04:36.909 align:start position:0%
+same way right llms don't know what your
+API<00:04:35.880><c> is</c><00:04:36.039><c> if</c><00:04:36.120><c> you're</c><00:04:36.360><c> little</c><00:04:36.520><c> honest</c><00:04:36.759><c> with</c>
+
+00:04:36.909 --> 00:04:36.919 align:start position:0%
+API is if you're little honest with
+ 
+
+00:04:36.919 --> 00:04:37.990 align:start position:0%
+API is if you're little honest with
+yourselves<00:04:37.240><c> you</c><00:04:37.360><c> probably</c><00:04:37.680><c> don't</c><00:04:37.800><c> know</c><00:04:37.880><c> what</c>
+
+00:04:37.990 --> 00:04:38.000 align:start position:0%
+yourselves you probably don't know what
+ 
+
+00:04:38.000 --> 00:04:41.350 align:start position:0%
+yourselves you probably don't know what
+your<00:04:38.120><c> API</c><00:04:38.440><c> does</c><00:04:38.840><c> right</c><00:04:39.479><c> um</c><00:04:39.880><c> but</c><00:04:40.400><c> but</c><00:04:40.720><c> llms</c><00:04:41.199><c> know</c>
+
+00:04:41.350 --> 00:04:41.360 align:start position:0%
+your API does right um but but llms know
+ 
+
+00:04:41.360 --> 00:04:43.430 align:start position:0%
+your API does right um but but llms know
+what<00:04:41.479><c> SQL</c><00:04:41.880><c> is</c><00:04:42.360><c> right</c><00:04:42.800><c> because</c><00:04:43.039><c> when</c><00:04:43.160><c> you</c><00:04:43.240><c> say</c>
+
+00:04:43.430 --> 00:04:43.440 align:start position:0%
+what SQL is right because when you say
+ 
+
+00:04:43.440 --> 00:04:46.790 align:start position:0%
+what SQL is right because when you say
+select<00:04:43.720><c> star</c><00:04:44.039><c> from</c><00:04:44.280><c> X</c><00:04:44.960><c> where</c><00:04:45.960><c> ID</c><00:04:46.320><c> greater</c><00:04:46.639><c> than</c>
+
+00:04:46.790 --> 00:04:46.800 align:start position:0%
+select star from X where ID greater than
+ 
+
+00:04:46.800 --> 00:04:50.029 align:start position:0%
+select star from X where ID greater than
+one<00:04:47.680><c> greater</c><00:04:48.039><c> than</c><00:04:48.320><c> has</c><00:04:48.639><c> a</c><00:04:48.840><c> semantic</c><00:04:49.440><c> meaning</c>
+
+00:04:50.029 --> 00:04:50.039 align:start position:0%
+one greater than has a semantic meaning
+ 
+
+00:04:50.039 --> 00:04:52.189 align:start position:0%
+one greater than has a semantic meaning
+that<00:04:50.160><c> is</c><00:04:50.360><c> embedded</c><00:04:50.919><c> in</c><00:04:51.039><c> the</c><00:04:51.240><c> language</c><00:04:51.960><c> that</c><00:04:52.080><c> in</c>
+
+00:04:52.189 --> 00:04:52.199 align:start position:0%
+that is embedded in the language that in
+ 
+
+00:04:52.199 --> 00:04:54.270 align:start position:0%
+that is embedded in the language that in
+your<00:04:52.440><c> API</c><00:04:52.880><c> that</c><00:04:53.000><c> URL</c><00:04:53.400><c> param</c><00:04:53.800><c> who</c><00:04:53.919><c> knows</c><00:04:54.160><c> what</c>
+
+00:04:54.270 --> 00:04:54.280 align:start position:0%
+your API that URL param who knows what
+ 
+
+00:04:54.280 --> 00:04:55.310 align:start position:0%
+your API that URL param who knows what
+it<00:04:54.360><c> means</c><00:04:54.600><c> is</c><00:04:54.680><c> it</c><00:04:54.800><c> Greater</c><00:04:55.000><c> is</c><00:04:55.080><c> it</c><00:04:55.160><c> greater</c>
+
+00:04:55.310 --> 00:04:55.320 align:start position:0%
+it means is it Greater is it greater
+ 
+
+00:04:55.320 --> 00:04:56.830 align:start position:0%
+it means is it Greater is it greater
+than<00:04:55.479><c> equal</c><00:04:55.680><c> to</c><00:04:56.080><c> is</c><00:04:56.160><c> it</c><00:04:56.280><c> greater</c><00:04:56.520><c> than</c><00:04:56.680><c> but</c>
+
+00:04:56.830 --> 00:04:56.840 align:start position:0%
+than equal to is it greater than but
+ 
+
+00:04:56.840 --> 00:04:58.189 align:start position:0%
+than equal to is it greater than but
+actually<00:04:57.120><c> only</c><00:04:57.320><c> works</c><00:04:57.520><c> with</c><00:04:57.639><c> Boolean</c><00:04:58.000><c> I</c><00:04:58.080><c> don't</c>
+
+00:04:58.189 --> 00:04:58.199 align:start position:0%
+actually only works with Boolean I don't
+ 
+
+00:04:58.199 --> 00:05:01.790 align:start position:0%
+actually only works with Boolean I don't
+know<00:04:58.639><c> right</c><00:04:58.880><c> but</c><00:04:59.039><c> it</c><00:04:59.199><c> works</c><00:05:00.000><c> with</c><00:05:01.000><c> um</c><00:05:01.199><c> SQL</c>
+
+00:05:01.790 --> 00:05:01.800 align:start position:0%
+know right but it works with um SQL
+ 
+
+00:05:01.800 --> 00:05:03.749 align:start position:0%
+know right but it works with um SQL
+because<00:05:02.000><c> l&amp;m's</c><00:05:02.479><c> know</c><00:05:02.840><c> what</c><00:05:03.000><c> that</c><00:05:03.120><c> SQL</c><00:05:03.520><c> is</c>
+
+00:05:03.749 --> 00:05:03.759 align:start position:0%
+because l&amp;m's know what that SQL is
+ 
+
+00:05:03.759 --> 00:05:05.110 align:start position:0%
+because l&amp;m's know what that SQL is
+right<00:05:03.880><c> so</c><00:05:03.960><c> the</c><00:05:04.080><c> first</c><00:05:04.240><c> part</c><00:05:04.360><c> of</c><00:05:04.479><c> this</c><00:05:04.639><c> is</c><00:05:04.919><c> let's</c>
+
+00:05:05.110 --> 00:05:05.120 align:start position:0%
+right so the first part of this is let's
+ 
+
+00:05:05.120 --> 00:05:07.029 align:start position:0%
+right so the first part of this is let's
+just<00:05:05.280><c> make</c><00:05:05.560><c> everything</c><00:05:06.080><c> one</c><00:05:06.280><c> query</c><00:05:06.639><c> language</c>
+
+00:05:07.029 --> 00:05:07.039 align:start position:0%
+just make everything one query language
+ 
+
+00:05:07.039 --> 00:05:09.710 align:start position:0%
+just make everything one query language
+and<00:05:07.160><c> deal</c><00:05:07.360><c> with</c><00:05:07.520><c> that</c><00:05:08.479><c> the</c><00:05:08.639><c> second</c><00:05:09.440><c> is</c><00:05:09.560><c> an</c>
+
+00:05:09.710 --> 00:05:09.720 align:start position:0%
+and deal with that the second is an
+ 
+
+00:05:09.720 --> 00:05:11.430 align:start position:0%
+and deal with that the second is an
+object<00:05:10.000><c> model</c><00:05:10.240><c> for</c><00:05:10.400><c> authorization</c><00:05:11.240><c> right</c>
+
+00:05:11.430 --> 00:05:11.440 align:start position:0%
+object model for authorization right
+ 
+
+00:05:11.440 --> 00:05:13.390 align:start position:0%
+object model for authorization right
+which<00:05:11.560><c> is</c><00:05:11.800><c> again</c><00:05:12.000><c> kind</c><00:05:12.160><c> of</c><00:05:12.240><c> blows</c><00:05:12.520><c> my</c><00:05:12.720><c> mind</c><00:05:13.000><c> of</c>
+
+00:05:13.390 --> 00:05:13.400 align:start position:0%
+which is again kind of blows my mind of
+ 
+
+00:05:13.400 --> 00:05:15.430 align:start position:0%
+which is again kind of blows my mind of
+why<00:05:13.720><c> it's</c><00:05:13.880><c> so</c><00:05:14.160><c> complicated</c><00:05:14.759><c> look</c><00:05:15.160><c> I</c><00:05:15.240><c> don't</c>
+
+00:05:15.430 --> 00:05:15.440 align:start position:0%
+why it's so complicated look I don't
+ 
+
+00:05:15.440 --> 00:05:16.909 align:start position:0%
+why it's so complicated look I don't
+care<00:05:15.600><c> where</c><00:05:15.759><c> the</c><00:05:15.840><c> data</c><00:05:16.039><c> is</c><00:05:16.160><c> coming</c><00:05:16.440><c> from</c><00:05:16.800><c> the</c>
+
+00:05:16.909 --> 00:05:16.919 align:start position:0%
+care where the data is coming from the
+ 
+
+00:05:16.919 --> 00:05:19.469 align:start position:0%
+care where the data is coming from the
+data<00:05:17.120><c> has</c><00:05:17.240><c> a</c><00:05:17.360><c> schema</c><00:05:17.919><c> right</c><00:05:18.919><c> it's</c><00:05:19.039><c> a</c><00:05:19.199><c> property</c>
+
+00:05:19.469 --> 00:05:19.479 align:start position:0%
+data has a schema right it's a property
+ 
+
+00:05:19.479 --> 00:05:20.790 align:start position:0%
+data has a schema right it's a property
+of<00:05:19.600><c> the</c><00:05:19.720><c> data</c><00:05:19.960><c> and</c><00:05:20.080><c> it's</c><00:05:20.199><c> a</c><00:05:20.319><c> property</c><00:05:20.600><c> of</c><00:05:20.680><c> the</c>
+
+00:05:20.790 --> 00:05:20.800 align:start position:0%
+of the data and it's a property of the
+ 
+
+00:05:20.800 --> 00:05:22.950 align:start position:0%
+of the data and it's a property of the
+session<00:05:21.440><c> and</c><00:05:21.600><c> then</c><00:05:21.840><c> just</c><00:05:22.080><c> run</c><00:05:22.360><c> the</c><00:05:22.479><c> rule</c><00:05:22.840><c> and</c>
+
+00:05:22.950 --> 00:05:22.960 align:start position:0%
+session and then just run the rule and
+ 
+
+00:05:22.960 --> 00:05:24.670 align:start position:0%
+session and then just run the rule and
+maybe<00:05:23.160><c> there's</c><00:05:23.440><c> 100</c><00:05:23.720><c> rules</c><00:05:24.120><c> but</c><00:05:24.319><c> it</c><00:05:24.400><c> should</c>
+
+00:05:24.670 --> 00:05:24.680 align:start position:0%
+maybe there's 100 rules but it should
+ 
+
+00:05:24.680 --> 00:05:26.469 align:start position:0%
+maybe there's 100 rules but it should
+just<00:05:24.880><c> work</c><00:05:25.240><c> and</c><00:05:25.360><c> then</c><00:05:25.720><c> however</c><00:05:25.960><c> it</c><00:05:26.120><c> gets</c>
+
+00:05:26.469 --> 00:05:26.479 align:start position:0%
+just work and then however it gets
+ 
+
+00:05:26.479 --> 00:05:28.430 align:start position:0%
+just work and then however it gets
+accessed<00:05:27.280><c> it's</c><00:05:27.479><c> fine</c><00:05:27.919><c> right</c><00:05:28.080><c> I</c><00:05:28.160><c> should</c><00:05:28.319><c> be</c>
+
+00:05:28.430 --> 00:05:28.440 align:start position:0%
+accessed it's fine right I should be
+ 
+
+00:05:28.440 --> 00:05:30.230 align:start position:0%
+accessed it's fine right I should be
+able<00:05:28.600><c> to</c><00:05:28.759><c> use</c><00:05:29.160><c> this</c>
+
+00:05:30.230 --> 00:05:30.240 align:start position:0%
+able to use this
+ 
+
+00:05:30.240 --> 00:05:32.309 align:start position:0%
+able to use this
+wherever<00:05:30.600><c> it's</c><00:05:30.800><c> used</c><00:05:31.479><c> however</c><00:05:31.680><c> it's</c><00:05:31.919><c> accessed</c>
+
+00:05:32.309 --> 00:05:32.319 align:start position:0%
+wherever it's used however it's accessed
+ 
+
+00:05:32.319 --> 00:05:33.790 align:start position:0%
+wherever it's used however it's accessed
+the<00:05:32.440><c> same</c><00:05:32.600><c> authorization</c><00:05:33.120><c> should</c><00:05:33.319><c> be</c><00:05:33.440><c> applied</c>
+
+00:05:33.790 --> 00:05:33.800 align:start position:0%
+the same authorization should be applied
+ 
+
+00:05:33.800 --> 00:05:35.430 align:start position:0%
+the same authorization should be applied
+so<00:05:33.960><c> that's</c><00:05:34.160><c> idea</c><00:05:34.400><c> number</c><00:05:34.600><c> two</c><00:05:35.120><c> and</c><00:05:35.240><c> that's</c>
+
+00:05:35.430 --> 00:05:35.440 align:start position:0%
+so that's idea number two and that's
+ 
+
+00:05:35.440 --> 00:05:37.990 align:start position:0%
+so that's idea number two and that's
+kind<00:05:35.560><c> of</c><00:05:35.680><c> embedded</c><00:05:36.120><c> there</c><00:05:36.240><c> as</c><00:05:36.360><c> well</c><00:05:37.120><c> the</c><00:05:37.280><c> third</c>
+
+00:05:37.990 --> 00:05:38.000 align:start position:0%
+kind of embedded there as well the third
+ 
+
+00:05:38.000 --> 00:05:39.550 align:start position:0%
+kind of embedded there as well the third
+and<00:05:38.120><c> this</c><00:05:38.240><c> is</c><00:05:38.360><c> kind</c><00:05:38.479><c> of</c><00:05:38.639><c> interesting</c><00:05:39.240><c> is</c><00:05:39.360><c> to</c>
+
+00:05:39.550 --> 00:05:39.560 align:start position:0%
+and this is kind of interesting is to
+ 
+
+00:05:39.560 --> 00:05:41.390 align:start position:0%
+and this is kind of interesting is to
+get<00:05:39.720><c> the</c><00:05:39.840><c> llm</c><00:05:40.280><c> to</c><00:05:40.400><c> figure</c><00:05:40.680><c> out</c><00:05:40.840><c> the</c><00:05:40.960><c> plan</c><00:05:41.160><c> to</c>
+
+00:05:41.390 --> 00:05:41.400 align:start position:0%
+get the llm to figure out the plan to
+ 
+
+00:05:41.400 --> 00:05:44.070 align:start position:0%
+get the llm to figure out the plan to
+access<00:05:41.759><c> data</c><00:05:42.360><c> by</c><00:05:42.639><c> itself</c><00:05:43.560><c> we</c><00:05:43.680><c> don't</c><00:05:43.840><c> have</c><00:05:43.960><c> to</c>
+
+00:05:44.070 --> 00:05:44.080 align:start position:0%
+access data by itself we don't have to
+ 
+
+00:05:44.080 --> 00:05:45.430 align:start position:0%
+access data by itself we don't have to
+hardcode<00:05:44.560><c> it</c><00:05:44.680><c> and</c><00:05:44.800><c> we</c><00:05:44.880><c> don't</c><00:05:45.039><c> have</c><00:05:45.120><c> to</c><00:05:45.240><c> do</c><00:05:45.360><c> the</c>
+
+00:05:45.430 --> 00:05:45.440 align:start position:0%
+hardcode it and we don't have to do the
+ 
+
+00:05:45.440 --> 00:05:47.150 align:start position:0%
+hardcode it and we don't have to do the
+work<00:05:45.880><c> and</c><00:05:45.960><c> then</c><00:05:46.080><c> you're</c><00:05:46.199><c> like</c><00:05:46.400><c> T</c><00:05:46.759><c> listen</c><00:05:47.039><c> what</c>
+
+00:05:47.150 --> 00:05:47.160 align:start position:0%
+work and then you're like T listen what
+ 
+
+00:05:47.160 --> 00:05:49.469 align:start position:0%
+work and then you're like T listen what
+are<00:05:47.280><c> you</c><00:05:47.479><c> smoking</c><00:05:48.120><c> man</c><00:05:48.600><c> llms</c><00:05:49.080><c> can't</c><00:05:49.280><c> even</c>
+
+00:05:49.469 --> 00:05:49.479 align:start position:0%
+are you smoking man llms can't even
+ 
+
+00:05:49.479 --> 00:05:51.070 align:start position:0%
+are you smoking man llms can't even
+reason<00:05:50.000><c> I</c><00:05:50.120><c> can't</c><00:05:50.280><c> even</c><00:05:50.440><c> get</c><00:05:50.560><c> it</c><00:05:50.639><c> to</c><00:05:50.800><c> count</c><00:05:51.000><c> the</c>
+
+00:05:51.070 --> 00:05:51.080 align:start position:0%
+reason I can't even get it to count the
+ 
+
+00:05:51.080 --> 00:05:52.469 align:start position:0%
+reason I can't even get it to count the
+number<00:05:51.280><c> of</c><00:05:51.440><c> hours</c><00:05:51.720><c> in</c><00:05:51.840><c> Strawberry</c><00:05:52.319><c> what</c><00:05:52.400><c> are</c>
+
+00:05:52.469 --> 00:05:52.479 align:start position:0%
+number of hours in Strawberry what are
+ 
+
+00:05:52.479 --> 00:05:53.790 align:start position:0%
+number of hours in Strawberry what are
+you<00:05:52.560><c> going</c><00:05:52.639><c> to</c><00:05:52.759><c> do</c><00:05:52.960><c> with</c><00:05:53.400><c> how</c><00:05:53.520><c> are</c><00:05:53.560><c> you</c><00:05:53.720><c> going</c>
+
+00:05:53.790 --> 00:05:53.800 align:start position:0%
+you going to do with how are you going
+ 
+
+00:05:53.800 --> 00:05:55.670 align:start position:0%
+you going to do with how are you going
+to<00:05:53.919><c> make</c><00:05:54.039><c> me</c><00:05:54.400><c> fetch</c><00:05:54.800><c> all</c><00:05:54.919><c> of</c><00:05:55.080><c> this</c><00:05:55.280><c> data</c><00:05:55.520><c> from</c>
+
+00:05:55.670 --> 00:05:55.680 align:start position:0%
+to make me fetch all of this data from
+ 
+
+00:05:55.680 --> 00:05:57.029 align:start position:0%
+to make me fetch all of this data from
+three<00:05:55.840><c> or</c><00:05:55.960><c> four</c><00:05:56.160><c> different</c><00:05:56.440><c> places</c><00:05:56.680><c> and</c><00:05:56.840><c> dis</c>
+
+00:05:57.029 --> 00:05:57.039 align:start position:0%
+three or four different places and dis
+ 
+
+00:05:57.039 --> 00:05:58.749 align:start position:0%
+three or four different places and dis
+Amo<00:05:57.360><c> it</c><00:05:57.479><c> and</c><00:05:57.639><c> whatnot</c><00:05:58.319><c> and</c><00:05:58.440><c> we're</c><00:05:58.600><c> like</c><00:05:58.680><c> you</c>
+
+00:05:58.749 --> 00:05:58.759 align:start position:0%
+Amo it and whatnot and we're like you
+ 
+
+00:05:58.759 --> 00:05:59.990 align:start position:0%
+Amo it and whatnot and we're like you
+know<00:05:58.880><c> what</c><00:05:58.960><c> that's</c><00:05:59.160><c> really</c><00:05:59.280><c> simple</c><00:05:59.680><c> fix</c><00:05:59.880><c> to</c>
+
+00:05:59.990 --> 00:06:00.000 align:start position:0%
+know what that's really simple fix to
+ 
+
+00:06:00.000 --> 00:06:01.230 align:start position:0%
+know what that's really simple fix to
+this<00:06:00.160><c> problem</c><00:06:00.360><c> but</c><00:06:00.479><c> let</c><00:06:00.560><c> me</c><00:06:00.680><c> ask</c><00:06:00.800><c> you</c><00:06:00.880><c> a</c><00:06:01.000><c> Live</c>
+
+00:06:01.230 --> 00:06:01.240 align:start position:0%
+this problem but let me ask you a Live
+ 
+
+00:06:01.240 --> 00:06:02.990 align:start position:0%
+this problem but let me ask you a Live
+question<00:06:01.800><c> how</c><00:06:01.919><c> many</c><00:06:02.120><c> of</c><00:06:02.240><c> you</c><00:06:02.400><c> can</c><00:06:02.639><c> count</c><00:06:02.880><c> the</c>
+
+00:06:02.990 --> 00:06:03.000 align:start position:0%
+question how many of you can count the
+ 
+
+00:06:03.000 --> 00:06:05.230 align:start position:0%
+question how many of you can count the
+number<00:06:03.199><c> of</c><00:06:03.400><c> eyes</c><00:06:03.759><c> in</c><00:06:03.960><c> super</c><00:06:04.319><c> Cali</c><00:06:04.680><c> fragilistic</c>
+
+00:06:05.230 --> 00:06:05.240 align:start position:0%
+number of eyes in super Cali fragilistic
+ 
+
+00:06:05.240 --> 00:06:09.350 align:start position:0%
+number of eyes in super Cali fragilistic
+XP<00:06:05.560><c> Alid</c><00:06:05.919><c> doas</c><00:06:06.919><c> can</c><00:06:07.120><c> you</c><00:06:07.720><c> you</c><00:06:07.880><c> can't</c><00:06:08.560><c> right</c>
+
+00:06:09.350 --> 00:06:09.360 align:start position:0%
+XP Alid doas can you you can't right
+ 
+
+00:06:09.360 --> 00:06:11.150 align:start position:0%
+XP Alid doas can you you can't right
+you're<00:06:09.560><c> being</c><00:06:09.800><c> mean</c><00:06:10.080><c> to</c><00:06:10.240><c> the</c><00:06:10.319><c> llm</c><00:06:10.759><c> by</c><00:06:10.919><c> asking</c>
+
+00:06:11.150 --> 00:06:11.160 align:start position:0%
+you're being mean to the llm by asking
+ 
+
+00:06:11.160 --> 00:06:12.749 align:start position:0%
+you're being mean to the llm by asking
+it<00:06:11.319><c> such</c><00:06:11.560><c> questions</c><00:06:11.919><c> don't</c><00:06:12.120><c> be</c><00:06:12.240><c> mean</c><00:06:12.520><c> to</c><00:06:12.639><c> the</c>
+
+00:06:12.749 --> 00:06:12.759 align:start position:0%
+it such questions don't be mean to the
+ 
+
+00:06:12.759 --> 00:06:15.350 align:start position:0%
+it such questions don't be mean to the
+llm<00:06:13.479><c> set</c><00:06:13.720><c> it</c><00:06:13.840><c> up</c><00:06:14.000><c> for</c>
+
+00:06:15.350 --> 00:06:15.360 align:start position:0%
+llm set it up for
+ 
+
+00:06:15.360 --> 00:06:19.150 align:start position:0%
+llm set it up for
+Success<00:06:16.360><c> ask</c><00:06:16.599><c> it</c><00:06:16.759><c> to</c><00:06:16.919><c> write</c><00:06:17.280><c> python</c><00:06:18.000><c> code</c><00:06:19.000><c> to</c>
+
+00:06:19.150 --> 00:06:19.160 align:start position:0%
+Success ask it to write python code to
+ 
+
+00:06:19.160 --> 00:06:21.670 align:start position:0%
+Success ask it to write python code to
+solve<00:06:19.479><c> the</c><00:06:19.639><c> problem</c><00:06:20.479><c> and</c><00:06:20.599><c> it</c><00:06:20.759><c> works</c><00:06:21.520><c> and</c>
+
+00:06:21.670 --> 00:06:21.680 align:start position:0%
+solve the problem and it works and
+ 
+
+00:06:21.680 --> 00:06:24.309 align:start position:0%
+solve the problem and it works and
+that's<00:06:21.880><c> it</c><00:06:22.800><c> so</c><00:06:23.000><c> when</c><00:06:23.160><c> you're</c><00:06:23.440><c> asking</c><00:06:24.039><c> and</c><00:06:24.199><c> when</c>
+
+00:06:24.309 --> 00:06:24.319 align:start position:0%
+that's it so when you're asking and when
+ 
+
+00:06:24.319 --> 00:06:26.150 align:start position:0%
+that's it so when you're asking and when
+we're<00:06:24.560><c> asking</c><00:06:24.880><c> rlms</c><00:06:25.400><c> to</c><00:06:25.520><c> figure</c><00:06:25.720><c> out</c><00:06:25.880><c> how</c><00:06:25.960><c> to</c>
+
+00:06:26.150 --> 00:06:26.160 align:start position:0%
+we're asking rlms to figure out how to
+ 
+
+00:06:26.160 --> 00:06:28.589 align:start position:0%
+we're asking rlms to figure out how to
+retrieve<00:06:26.520><c> data</c><00:06:27.039><c> we</c><00:06:27.199><c> just</c><00:06:27.440><c> ask</c><00:06:27.720><c> it</c><00:06:28.120><c> to</c><00:06:28.319><c> run</c>
+
+00:06:28.589 --> 00:06:28.599 align:start position:0%
+retrieve data we just ask it to run
+ 
+
+00:06:28.599 --> 00:06:30.950 align:start position:0%
+retrieve data we just ask it to run
+python<00:06:28.960><c> code</c><00:06:29.599><c> fetch</c><00:06:29.840><c> the</c><00:06:29.919><c> data</c><00:06:30.120><c> that</c><00:06:30.199><c> we</c><00:06:30.360><c> want</c>
+
+00:06:30.950 --> 00:06:30.960 align:start position:0%
+python code fetch the data that we want
+ 
+
+00:06:30.960 --> 00:06:34.309 align:start position:0%
+python code fetch the data that we want
+so
+
+00:06:34.309 --> 00:06:34.319 align:start position:0%
+ 
+ 
+
+00:06:34.319 --> 00:06:37.550 align:start position:0%
+ 
+if<00:06:35.319><c> if</c><00:06:35.560><c> the</c><00:06:35.720><c> AI</c><00:06:35.960><c> Singularity</c><00:06:36.400><c> is</c><00:06:36.520><c> coming</c><00:06:37.199><c> get</c>
+
+00:06:37.550 --> 00:06:37.560 align:start position:0%
+if if the AI Singularity is coming get
+ 
+
+00:06:37.560 --> 00:06:39.150 align:start position:0%
+if if the AI Singularity is coming get
+ready<00:06:37.720><c> for</c><00:06:37.880><c> the</c><00:06:38.000><c> data</c><00:06:38.240><c> Singularity</c><00:06:38.919><c> put</c>
+
+00:06:39.150 --> 00:06:39.160 align:start position:0%
+ready for the data Singularity put
+ 
+
+00:06:39.160 --> 00:06:41.350 align:start position:0%
+ready for the data Singularity put
+everything<00:06:39.599><c> together</c><00:06:40.560><c> if</c><00:06:40.639><c> you're</c><00:06:40.800><c> doing</c><00:06:41.080><c> AI</c>
+
+00:06:41.350 --> 00:06:41.360 align:start position:0%
+everything together if you're doing AI
+ 
+
+00:06:41.360 --> 00:06:43.029 align:start position:0%
+everything together if you're doing AI
+you<00:06:41.479><c> need</c><00:06:41.720><c> access</c><00:06:41.919><c> to</c><00:06:42.120><c> data</c><00:06:42.440><c> if</c><00:06:42.560><c> you're</c><00:06:42.720><c> doing</c>
+
+00:06:43.029 --> 00:06:43.039 align:start position:0%
+you need access to data if you're doing
+ 
+
+00:06:43.039 --> 00:06:44.629 align:start position:0%
+you need access to data if you're doing
+data<00:06:43.560><c> and</c><00:06:43.720><c> you</c><00:06:43.840><c> wish</c><00:06:44.039><c> that</c><00:06:44.160><c> it</c><00:06:44.280><c> could</c><00:06:44.400><c> talk</c><00:06:44.560><c> to</c>
+
+00:06:44.629 --> 00:06:44.639 align:start position:0%
+data and you wish that it could talk to
+ 
+
+00:06:44.639 --> 00:06:46.749 align:start position:0%
+data and you wish that it could talk to
+your<00:06:44.840><c> AI</c><00:06:45.400><c> if</c><00:06:45.599><c> you</c><00:06:45.759><c> have</c><00:06:45.960><c> ai</c><00:06:46.240><c> and</c><00:06:46.400><c> data</c><00:06:46.599><c> and</c><00:06:46.680><c> you</c>
+
+00:06:46.749 --> 00:06:46.759 align:start position:0%
+your AI if you have ai and data and you
+ 
+
+00:06:46.759 --> 00:06:48.350 align:start position:0%
+your AI if you have ai and data and you
+need<00:06:46.880><c> to</c><00:06:47.000><c> get</c><00:06:47.080><c> to</c><00:06:47.240><c> talk</c><00:06:47.400><c> to</c><00:06:47.520><c> each</c><00:06:47.639><c> other</c><00:06:48.160><c> come</c>
+
+00:06:48.350 --> 00:06:48.360 align:start position:0%
+need to get to talk to each other come
+ 
+
+00:06:48.360 --> 00:06:49.790 align:start position:0%
+need to get to talk to each other come
+visit<00:06:48.560><c> us</c><00:06:48.680><c> at</c><00:06:48.759><c> our</c><00:06:48.919><c> booth</c><00:06:49.360><c> everything's</c><00:06:49.680><c> in</c>
+
+00:06:49.790 --> 00:06:49.800 align:start position:0%
+visit us at our booth everything's in
+ 
+
+00:06:49.800 --> 00:06:51.350 align:start position:0%
+visit us at our booth everything's in
+the<00:06:49.919><c> open</c><00:06:50.240><c> at</c>
+
+00:06:51.350 --> 00:06:51.360 align:start position:0%
+the open at
+ 
+
+00:06:51.360 --> 00:06:53.710 align:start position:0%
+the open at
+h/.<00:06:52.360><c> talk</c><00:06:52.560><c> to</c><00:06:52.639><c> you</c><00:06:52.720><c> folks</c><00:06:53.000><c> soon</c><00:06:53.240><c> thank</c><00:06:53.360><c> you</c><00:06:53.440><c> for</c>
+
+00:06:53.710 --> 00:06:53.720 align:start position:0%
+h/. talk to you folks soon thank you for
+ 
+
+00:06:53.720 --> 00:06:58.190 align:start position:0%
+h/. talk to you folks soon thank you for
+time
+
+00:06:58.190 --> 00:06:58.200 align:start position:0%
+ 
+ 
+
+00:06:58.200 --> 00:07:15.119 align:start position:0%
+ 
+[Music]
+

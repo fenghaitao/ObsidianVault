@@ -1,0 +1,2936 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:14.920 --> 00:00:16.830 align:start position:0%
+ 
+Thank<00:00:15.080><c> you</c><00:00:15.160><c> for</c><00:00:15.360><c> coming</c><00:00:15.680><c> to</c><00:00:15.800><c> my</c><00:00:15.920><c> talk.</c><00:00:16.520><c> My</c><00:00:16.640><c> name</c>
+
+00:00:16.830 --> 00:00:16.840 align:start position:0%
+Thank you for coming to my talk. My name
+ 
+
+00:00:16.840 --> 00:00:18.710 align:start position:0%
+Thank you for coming to my talk. My name
+is<00:00:17.000><c> Adrian</c><00:00:17.280><c> Bertagnoli.</c><00:00:18.080><c> I'm</c><00:00:18.280><c> a</c><00:00:18.320><c> founding</c>
+
+00:00:18.710 --> 00:00:18.720 align:start position:0%
+is Adrian Bertagnoli. I'm a founding
+ 
+
+00:00:18.720 --> 00:00:21.070 align:start position:0%
+is Adrian Bertagnoli. I'm a founding
+engineer<00:00:19.120><c> at</c><00:00:19.480><c> Colossyan</c><00:00:20.400><c> and</c><00:00:20.680><c> today</c><00:00:20.960><c> I'm</c>
+
+00:00:21.070 --> 00:00:21.080 align:start position:0%
+engineer at Colossyan and today I'm
+ 
+
+00:00:21.080 --> 00:00:22.670 align:start position:0%
+engineer at Colossyan and today I'm
+going<00:00:21.200><c> to</c><00:00:21.280><c> be</c><00:00:21.400><c> talking</c><00:00:21.720><c> about</c><00:00:22.160><c> scaling</c><00:00:22.600><c> the</c>
+
+00:00:22.670 --> 00:00:22.680 align:start position:0%
+going to be talking about scaling the
+ 
+
+00:00:22.680 --> 00:00:24.230 align:start position:0%
+going to be talking about scaling the
+next<00:00:23.000><c> paradigm</c><00:00:23.440><c> of</c><00:00:23.600><c> heterogeneous</c>
+
+00:00:24.230 --> 00:00:24.240 align:start position:0%
+next paradigm of heterogeneous
+ 
+
+00:00:24.240 --> 00:00:25.590 align:start position:0%
+next paradigm of heterogeneous
+intelligence.
+
+00:00:25.590 --> 00:00:25.600 align:start position:0%
+intelligence.
+ 
+
+00:00:25.600 --> 00:00:28.510 align:start position:0%
+intelligence.
+So,<00:00:26.280><c> I'm</c><00:00:26.400><c> going</c><00:00:26.520><c> to</c><00:00:26.600><c> start</c><00:00:27.640><c> um</c><00:00:28.200><c> with</c>
+
+00:00:28.510 --> 00:00:28.520 align:start position:0%
+So, I'm going to start um with
+ 
+
+00:00:28.520 --> 00:00:29.990 align:start position:0%
+So, I'm going to start um with
+explaining<00:00:29.080><c> why</c><00:00:29.360><c> we</c><00:00:29.520><c> care</c><00:00:29.720><c> about</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+explaining why we care about
+ 
+
+00:00:30.000 --> 00:00:32.470 align:start position:0%
+explaining why we care about
+heterogeneity<00:00:30.880><c> in</c><00:00:30.960><c> the</c><00:00:31.040><c> first</c><00:00:31.280><c> place,</c><00:00:31.880><c> what</c>
+
+00:00:32.470 --> 00:00:32.480 align:start position:0%
+heterogeneity in the first place, what
+ 
+
+00:00:32.480 --> 00:00:34.830 align:start position:0%
+heterogeneity in the first place, what
+particular<00:00:33.080><c> aspect</c><00:00:33.600><c> make</c><00:00:33.800><c> it</c><00:00:33.920><c> very</c><00:00:34.120><c> conducive</c>
+
+00:00:34.830 --> 00:00:34.840 align:start position:0%
+particular aspect make it very conducive
+ 
+
+00:00:34.840 --> 00:00:36.830 align:start position:0%
+particular aspect make it very conducive
+for<00:00:35.000><c> scaling</c><00:00:35.720><c> AI,</c>
+
+00:00:36.830 --> 00:00:36.840 align:start position:0%
+for scaling AI,
+ 
+
+00:00:36.840 --> 00:00:39.550 align:start position:0%
+for scaling AI,
+um<00:00:37.160><c> how</c><00:00:37.400><c> it</c><00:00:37.520><c> is</c><00:00:38.120><c> actually</c><00:00:38.720><c> used</c><00:00:39.000><c> in</c><00:00:39.080><c> practice</c>
+
+00:00:39.550 --> 00:00:39.560 align:start position:0%
+um how it is actually used in practice
+ 
+
+00:00:39.560 --> 00:00:42.830 align:start position:0%
+um how it is actually used in practice
+today,<00:00:40.400><c> and</c><00:00:40.640><c> how</c><00:00:41.440><c> we</c><00:00:41.600><c> can</c><00:00:41.800><c> use</c><00:00:42.120><c> utilize</c><00:00:42.600><c> it</c><00:00:42.720><c> in</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+today, and how we can use utilize it in
+ 
+
+00:00:42.840 --> 00:00:45.110 align:start position:0%
+today, and how we can use utilize it in
+the<00:00:42.920><c> future</c><00:00:43.800><c> um</c><00:00:44.080><c> to</c><00:00:44.200><c> actually</c><00:00:44.520><c> scale</c><00:00:44.800><c> the</c><00:00:44.920><c> next</c>
+
+00:00:45.110 --> 00:00:45.120 align:start position:0%
+the future um to actually scale the next
+ 
+
+00:00:45.120 --> 00:00:47.070 align:start position:0%
+the future um to actually scale the next
+paradigm<00:00:45.520><c> of</c><00:00:45.680><c> intelligence.</c>
+
+00:00:47.070 --> 00:00:47.080 align:start position:0%
+paradigm of intelligence.
+ 
+
+00:00:47.080 --> 00:00:49.230 align:start position:0%
+paradigm of intelligence.
+So,<00:00:47.280><c> to</c><00:00:47.440><c> give</c><00:00:47.600><c> you</c><00:00:47.680><c> an</c><00:00:47.800><c> intuition</c><00:00:48.720><c> about</c><00:00:49.040><c> what</c>
+
+00:00:49.230 --> 00:00:49.240 align:start position:0%
+So, to give you an intuition about what
+ 
+
+00:00:49.240 --> 00:00:51.510 align:start position:0%
+So, to give you an intuition about what
+I<00:00:49.320><c> mean</c><00:00:49.640><c> with</c><00:00:49.760><c> heterogeneous</c><00:00:50.440><c> intelligence,</c>
+
+00:00:51.510 --> 00:00:51.520 align:start position:0%
+I mean with heterogeneous intelligence,
+ 
+
+00:00:51.520 --> 00:00:53.790 align:start position:0%
+I mean with heterogeneous intelligence,
+I<00:00:51.560><c> want</c><00:00:51.720><c> to</c><00:00:51.800><c> take</c><00:00:51.960><c> a</c><00:00:52.040><c> step</c><00:00:52.320><c> back</c><00:00:52.880><c> and</c><00:00:53.480><c> um</c>
+
+00:00:53.790 --> 00:00:53.800 align:start position:0%
+I want to take a step back and um
+ 
+
+00:00:53.800 --> 00:00:56.230 align:start position:0%
+I want to take a step back and um
+explain<00:00:54.760><c> the</c><00:00:54.880><c> current</c><00:00:55.200><c> prevailing</c><00:00:55.680><c> paradigm</c>
+
+00:00:56.230 --> 00:00:56.240 align:start position:0%
+explain the current prevailing paradigm
+ 
+
+00:00:56.240 --> 00:00:57.830 align:start position:0%
+explain the current prevailing paradigm
+of<00:00:56.400><c> homogeneous</c>
+
+00:00:57.830 --> 00:00:57.840 align:start position:0%
+of homogeneous
+ 
+
+00:00:57.840 --> 00:00:59.990 align:start position:0%
+of homogeneous
+uh<00:00:57.920><c> intelligence.</c>
+
+00:00:59.990 --> 00:01:00.000 align:start position:0%
+uh intelligence.
+ 
+
+00:01:00.000 --> 00:01:02.270 align:start position:0%
+uh intelligence.
+So,<00:01:00.400><c> homogeneous</c><00:01:01.000><c> intelligence</c><00:01:01.600><c> in</c><00:01:01.840><c> in</c><00:01:02.000><c> terms</c>
+
+00:01:02.270 --> 00:01:02.280 align:start position:0%
+So, homogeneous intelligence in in terms
+ 
+
+00:01:02.280 --> 00:01:05.509 align:start position:0%
+So, homogeneous intelligence in in terms
+of<00:01:02.440><c> AI</c><00:01:03.160><c> mainly</c><00:01:03.480><c> refers</c><00:01:03.960><c> to</c><00:01:04.360><c> scaling</c><00:01:05.120><c> single</c>
+
+00:01:05.509 --> 00:01:05.519 align:start position:0%
+of AI mainly refers to scaling single
+ 
+
+00:01:05.519 --> 00:01:08.750 align:start position:0%
+of AI mainly refers to scaling single
+models<00:01:06.360><c> on</c><00:01:06.800><c> a</c><00:01:06.840><c> fleet</c><00:01:07.280><c> of</c><00:01:07.440><c> identical</c><00:01:07.920><c> chips.</c>
+
+00:01:08.750 --> 00:01:08.760 align:start position:0%
+models on a fleet of identical chips.
+ 
+
+00:01:08.760 --> 00:01:10.990 align:start position:0%
+models on a fleet of identical chips.
+So,<00:01:09.000><c> this</c><00:01:09.520><c> was</c><00:01:09.720><c> largely</c><00:01:10.360><c> this</c><00:01:10.600><c> era</c><00:01:10.840><c> was</c>
+
+00:01:10.990 --> 00:01:11.000 align:start position:0%
+So, this was largely this era was
+ 
+
+00:01:11.000 --> 00:01:13.470 align:start position:0%
+So, this was largely this era was
+largely<00:01:11.400><c> brought</c><00:01:11.680><c> about</c><00:01:12.200><c> by</c><00:01:12.880><c> the</c><00:01:13.000><c> discovery</c>
+
+00:01:13.470 --> 00:01:13.480 align:start position:0%
+largely brought about by the discovery
+ 
+
+00:01:13.480 --> 00:01:15.750 align:start position:0%
+largely brought about by the discovery
+of<00:01:13.640><c> neural</c><00:01:13.960><c> scaling</c><00:01:14.360><c> laws,</c><00:01:15.000><c> which</c><00:01:15.240><c> showed</c><00:01:15.520><c> us</c>
+
+00:01:15.750 --> 00:01:15.760 align:start position:0%
+of neural scaling laws, which showed us
+ 
+
+00:01:15.760 --> 00:01:18.230 align:start position:0%
+of neural scaling laws, which showed us
+that<00:01:16.080><c> more</c><00:01:16.280><c> data</c><00:01:17.040><c> and</c><00:01:17.160><c> more</c><00:01:17.360><c> parameters</c><00:01:18.000><c> leads</c>
+
+00:01:18.230 --> 00:01:18.240 align:start position:0%
+that more data and more parameters leads
+ 
+
+00:01:18.240 --> 00:01:19.710 align:start position:0%
+that more data and more parameters leads
+to<00:01:18.360><c> better</c><00:01:18.560><c> models.</c>
+
+00:01:19.710 --> 00:01:19.720 align:start position:0%
+to better models.
+ 
+
+00:01:19.720 --> 00:01:22.830 align:start position:0%
+to better models.
+However,<00:01:20.680><c> this</c><00:01:20.880><c> is</c><00:01:21.160><c> primarily</c><00:01:21.760><c> rooted</c><00:01:22.200><c> in</c><00:01:22.400><c> a</c>
+
+00:01:22.830 --> 00:01:22.840 align:start position:0%
+However, this is primarily rooted in a
+ 
+
+00:01:22.840 --> 00:01:25.790 align:start position:0%
+However, this is primarily rooted in a
+training<00:01:23.520><c> domain</c><00:01:24.400><c> and</c><00:01:25.080><c> while</c><00:01:25.320><c> we</c><00:01:25.480><c> move</c>
+
+00:01:25.790 --> 00:01:25.800 align:start position:0%
+training domain and while we move
+ 
+
+00:01:25.800 --> 00:01:27.550 align:start position:0%
+training domain and while we move
+towards<00:01:26.160><c> an</c><00:01:26.280><c> inference</c><00:01:26.720><c> domain,</c><00:01:27.400><c> this</c>
+
+00:01:27.550 --> 00:01:27.560 align:start position:0%
+towards an inference domain, this
+ 
+
+00:01:27.560 --> 00:01:30.110 align:start position:0%
+towards an inference domain, this
+becomes<00:01:27.960><c> less</c><00:01:28.200><c> and</c><00:01:28.280><c> less</c><00:01:28.520><c> relevant.</c><00:01:29.640><c> So,</c><00:01:29.840><c> it's</c>
+
+00:01:30.110 --> 00:01:30.120 align:start position:0%
+becomes less and less relevant. So, it's
+ 
+
+00:01:30.120 --> 00:01:33.390 align:start position:0%
+becomes less and less relevant. So, it's
+already<00:01:30.840><c> changing</c><00:01:31.840><c> um</c><00:01:32.120><c> and</c><00:01:32.240><c> we</c><00:01:32.400><c> already</c><00:01:32.680><c> see</c>
+
+00:01:33.390 --> 00:01:33.400 align:start position:0%
+already changing um and we already see
+ 
+
+00:01:33.400 --> 00:01:35.790 align:start position:0%
+already changing um and we already see
+some<00:01:33.680><c> level</c><00:01:33.960><c> of</c><00:01:34.080><c> heterogeneity</c>
+
+00:01:35.790 --> 00:01:35.800 align:start position:0%
+some level of heterogeneity
+ 
+
+00:01:35.800 --> 00:01:39.550 align:start position:0%
+some level of heterogeneity
+in<00:01:36.560><c> um</c><00:01:36.880><c> going</c><00:01:37.200><c> into</c><00:01:37.880><c> our</c><00:01:38.040><c> current</c><00:01:38.320><c> systems.</c>
+
+00:01:39.550 --> 00:01:39.560 align:start position:0%
+in um going into our current systems.
+ 
+
+00:01:39.560 --> 00:01:41.750 align:start position:0%
+in um going into our current systems.
+So,<00:01:39.840><c> on</c><00:01:39.960><c> the</c><00:01:40.040><c> architecture</c><00:01:40.640><c> level,</c><00:01:41.400><c> we</c><00:01:41.520><c> see</c>
+
+00:01:41.750 --> 00:01:41.760 align:start position:0%
+So, on the architecture level, we see
+ 
+
+00:01:41.760 --> 00:01:44.310 align:start position:0%
+So, on the architecture level, we see
+that<00:01:42.120><c> mixture</c><00:01:42.520><c> of</c><00:01:42.680><c> experts</c><00:01:43.600><c> are</c><00:01:43.760><c> replacing</c>
+
+00:01:44.310 --> 00:01:44.320 align:start position:0%
+that mixture of experts are replacing
+ 
+
+00:01:44.320 --> 00:01:46.110 align:start position:0%
+that mixture of experts are replacing
+large<00:01:44.640><c> dense</c><00:01:44.960><c> models.</c>
+
+00:01:46.110 --> 00:01:46.120 align:start position:0%
+large dense models.
+ 
+
+00:01:46.120 --> 00:01:48.470 align:start position:0%
+large dense models.
+On<00:01:46.240><c> the</c><00:01:46.320><c> workflow</c><00:01:46.840><c> layer,</c><00:01:47.480><c> we</c><00:01:47.600><c> see</c><00:01:47.840><c> that</c>
+
+00:01:48.470 --> 00:01:48.480 align:start position:0%
+On the workflow layer, we see that
+ 
+
+00:01:48.480 --> 00:01:51.310 align:start position:0%
+On the workflow layer, we see that
+single<00:01:49.120><c> LLM</c><00:01:49.560><c> calls</c><00:01:49.920><c> are</c><00:01:50.040><c> being</c><00:01:50.280><c> replaced</c><00:01:50.840><c> by</c>
+
+00:01:51.310 --> 00:01:51.320 align:start position:0%
+single LLM calls are being replaced by
+ 
+
+00:01:51.320 --> 00:01:54.830 align:start position:0%
+single LLM calls are being replaced by
+uh<00:01:51.800><c> multi-agent</c><00:01:52.400><c> systems.</c><00:01:53.480><c> And</c><00:01:53.800><c> finally,</c><00:01:54.280><c> on</c>
+
+00:01:54.830 --> 00:01:54.840 align:start position:0%
+uh multi-agent systems. And finally, on
+ 
+
+00:01:54.840 --> 00:01:57.190 align:start position:0%
+uh multi-agent systems. And finally, on
+the<00:01:54.960><c> hardware</c><00:01:55.320><c> level,</c><00:01:55.840><c> single</c><00:01:56.240><c> chips</c><00:01:57.040><c> are</c>
+
+00:01:57.190 --> 00:01:57.200 align:start position:0%
+the hardware level, single chips are
+ 
+
+00:01:57.200 --> 00:01:59.590 align:start position:0%
+the hardware level, single chips are
+being<00:01:57.400><c> replaced</c><00:01:58.000><c> by</c><00:01:58.200><c> pre-fill</c><00:01:59.120><c> decode</c>
+
+00:01:59.590 --> 00:01:59.600 align:start position:0%
+being replaced by pre-fill decode
+ 
+
+00:01:59.600 --> 00:02:01.870 align:start position:0%
+being replaced by pre-fill decode
+disaggregated<00:02:00.360><c> systems.</c>
+
+00:02:01.870 --> 00:02:01.880 align:start position:0%
+disaggregated systems.
+ 
+
+00:02:01.880 --> 00:02:04.150 align:start position:0%
+disaggregated systems.
+So,<00:02:02.080><c> given</c><00:02:02.760><c> that</c><00:02:02.960><c> we</c><00:02:03.120><c> are</c><00:02:03.520><c> currently</c><00:02:03.960><c> at</c><00:02:04.080><c> the</c>
+
+00:02:04.150 --> 00:02:04.160 align:start position:0%
+So, given that we are currently at the
+ 
+
+00:02:04.160 --> 00:02:07.790 align:start position:0%
+So, given that we are currently at the
+state<00:02:04.760><c> of</c><00:02:05.120><c> mild</c><00:02:05.560><c> heterogeneity,</c><00:02:06.840><c> how</c><00:02:07.520><c> can</c><00:02:07.720><c> you</c>
+
+00:02:07.790 --> 00:02:07.800 align:start position:0%
+state of mild heterogeneity, how can you
+ 
+
+00:02:07.800 --> 00:02:09.590 align:start position:0%
+state of mild heterogeneity, how can you
+imagine<00:02:08.960><c> um</c>
+
+00:02:09.590 --> 00:02:09.600 align:start position:0%
+imagine um
+ 
+
+00:02:09.600 --> 00:02:11.990 align:start position:0%
+imagine um
+a<00:02:10.080><c> greater</c><00:02:10.399><c> level</c><00:02:10.679><c> of</c><00:02:10.800><c> heterogeneity?</c><00:02:11.800><c> How</c>
+
+00:02:11.990 --> 00:02:12.000 align:start position:0%
+a greater level of heterogeneity? How
+ 
+
+00:02:12.000 --> 00:02:13.350 align:start position:0%
+a greater level of heterogeneity? How
+will<00:02:12.120><c> that</c><00:02:12.320><c> appear?</c>
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+will that appear?
+ 
+
+00:02:13.360 --> 00:02:16.430 align:start position:0%
+will that appear?
+So,<00:02:14.080><c> initially,</c><00:02:15.080><c> we'll</c><00:02:15.280><c> be</c><00:02:16.120><c> what</c><00:02:16.320><c> we</c>
+
+00:02:16.430 --> 00:02:16.440 align:start position:0%
+So, initially, we'll be what we
+ 
+
+00:02:16.440 --> 00:02:18.430 align:start position:0%
+So, initially, we'll be what we
+currently<00:02:16.880><c> are</c><00:02:17.000><c> experiencing</c><00:02:17.920><c> is</c><00:02:18.160><c> mild</c>
+
+00:02:18.430 --> 00:02:18.440 align:start position:0%
+currently are experiencing is mild
+ 
+
+00:02:18.440 --> 00:02:20.030 align:start position:0%
+currently are experiencing is mild
+heterogeneity.
+
+00:02:20.030 --> 00:02:20.040 align:start position:0%
+heterogeneity.
+ 
+
+00:02:20.040 --> 00:02:21.990 align:start position:0%
+heterogeneity.
+So,<00:02:20.400><c> everything</c><00:02:20.880><c> is</c><00:02:21.040><c> still</c><00:02:21.400><c> running</c>
+
+00:02:21.990 --> 00:02:22.000 align:start position:0%
+So, everything is still running
+ 
+
+00:02:22.000 --> 00:02:24.870 align:start position:0%
+So, everything is still running
+primarily<00:02:22.720><c> on</c><00:02:23.080><c> on</c><00:02:23.520><c> homogeneous</c><00:02:24.080><c> clusters,</c>
+
+00:02:24.870 --> 00:02:24.880 align:start position:0%
+primarily on on homogeneous clusters,
+ 
+
+00:02:24.880 --> 00:02:27.270 align:start position:0%
+primarily on on homogeneous clusters,
+but<00:02:25.040><c> we</c><00:02:25.200><c> have</c><00:02:25.440><c> some</c><00:02:26.000><c> variety</c><00:02:26.480><c> in</c><00:02:26.560><c> the</c><00:02:26.640><c> prompts.</c>
+
+00:02:27.270 --> 00:02:27.280 align:start position:0%
+but we have some variety in the prompts.
+ 
+
+00:02:27.280 --> 00:02:29.830 align:start position:0%
+but we have some variety in the prompts.
+When<00:02:27.520><c> we</c><00:02:27.760><c> run</c><00:02:28.280><c> uh</c><00:02:28.480><c> multi-agent</c><00:02:29.040><c> systems,</c><00:02:29.760><c> we</c>
+
+00:02:29.830 --> 00:02:29.840 align:start position:0%
+When we run uh multi-agent systems, we
+ 
+
+00:02:29.840 --> 00:02:31.950 align:start position:0%
+When we run uh multi-agent systems, we
+might<00:02:30.120><c> use</c><00:02:30.360><c> different</c><00:02:30.800><c> LLMs</c><00:02:31.200><c> for</c><00:02:31.600><c> different</c>
+
+00:02:31.950 --> 00:02:31.960 align:start position:0%
+might use different LLMs for different
+ 
+
+00:02:31.960 --> 00:02:34.990 align:start position:0%
+might use different LLMs for different
+sub-agents.<00:02:33.000><c> Um</c><00:02:33.920><c> again,</c><00:02:34.200><c> we</c><00:02:34.320><c> have</c><00:02:34.480><c> mixture</c><00:02:34.840><c> of</c>
+
+00:02:34.990 --> 00:02:35.000 align:start position:0%
+sub-agents. Um again, we have mixture of
+ 
+
+00:02:35.000 --> 00:02:36.710 align:start position:0%
+sub-agents. Um again, we have mixture of
+experts.
+
+00:02:36.710 --> 00:02:36.720 align:start position:0%
+experts.
+ 
+
+00:02:36.720 --> 00:02:39.750 align:start position:0%
+experts.
+Uh<00:02:37.200><c> when</c><00:02:37.400><c> we</c><00:02:37.520><c> increase</c><00:02:38.080><c> the</c><00:02:38.400><c> heterogeneity,</c>
+
+00:02:39.750 --> 00:02:39.760 align:start position:0%
+Uh when we increase the heterogeneity,
+ 
+
+00:02:39.760 --> 00:02:43.110 align:start position:0%
+Uh when we increase the heterogeneity,
+we<00:02:39.920><c> might</c><00:02:40.520><c> start</c><00:02:40.960><c> to</c><00:02:41.160><c> use</c><00:02:41.440><c> different</c><00:02:41.800><c> chips</c><00:02:42.760><c> um</c>
+
+00:02:43.110 --> 00:02:43.120 align:start position:0%
+we might start to use different chips um
+ 
+
+00:02:43.120 --> 00:02:46.150 align:start position:0%
+we might start to use different chips um
+for<00:02:43.320><c> different</c><00:02:43.680><c> models.</c><00:02:44.200><c> So,</c><00:02:45.040><c> different</c><00:02:45.600><c> LLMs</c>
+
+00:02:46.150 --> 00:02:46.160 align:start position:0%
+for different models. So, different LLMs
+ 
+
+00:02:46.160 --> 00:02:48.750 align:start position:0%
+for different models. So, different LLMs
+might<00:02:46.480><c> be</c><00:02:46.720><c> put</c><00:02:47.000><c> on</c><00:02:47.160><c> different</c><00:02:47.680><c> GPUs.</c><00:02:48.400><c> Uh</c><00:02:48.640><c> they</c>
+
+00:02:48.750 --> 00:02:48.760 align:start position:0%
+might be put on different GPUs. Uh they
+ 
+
+00:02:48.760 --> 00:02:50.750 align:start position:0%
+might be put on different GPUs. Uh they
+might<00:02:49.000><c> be</c><00:02:49.080><c> interacting.</c><00:02:49.960><c> We</c><00:02:50.080><c> might</c><00:02:50.320><c> be</c><00:02:50.440><c> using</c>
+
+00:02:50.750 --> 00:02:50.760 align:start position:0%
+might be interacting. We might be using
+ 
+
+00:02:50.760 --> 00:02:53.110 align:start position:0%
+might be interacting. We might be using
+different<00:02:51.200><c> models</c><00:02:51.520><c> completely.</c><00:02:52.080><c> So,</c><00:02:52.600><c> we</c><00:02:52.840><c> have</c>
+
+00:02:53.110 --> 00:02:53.120 align:start position:0%
+different models completely. So, we have
+ 
+
+00:02:53.120 --> 00:02:55.030 align:start position:0%
+different models completely. So, we have
+a<00:02:53.240><c> increase</c><00:02:53.680><c> of</c><00:02:53.840><c> state-space</c><00:02:54.440><c> models,</c>
+
+00:02:55.030 --> 00:02:55.040 align:start position:0%
+a increase of state-space models,
+ 
+
+00:02:55.040 --> 00:02:57.230 align:start position:0%
+a increase of state-space models,
+diffusion<00:02:55.520><c> models,</c><00:02:56.240><c> all</c><00:02:56.480><c> interacting</c><00:02:57.080><c> with</c>
+
+00:02:57.230 --> 00:02:57.240 align:start position:0%
+diffusion models, all interacting with
+ 
+
+00:02:57.240 --> 00:03:00.190 align:start position:0%
+diffusion models, all interacting with
+each<00:02:57.440><c> other,</c><00:02:58.000><c> all</c><00:02:58.600><c> on</c><00:02:58.800><c> optimal</c><00:02:59.280><c> hardware</c><00:03:00.080><c> that</c>
+
+00:03:00.190 --> 00:03:00.200 align:start position:0%
+each other, all on optimal hardware that
+ 
+
+00:03:00.200 --> 00:03:02.030 align:start position:0%
+each other, all on optimal hardware that
+exists<00:03:00.640><c> currently.</c>
+
+00:03:02.030 --> 00:03:02.040 align:start position:0%
+exists currently.
+ 
+
+00:03:02.040 --> 00:03:04.750 align:start position:0%
+exists currently.
+In<00:03:02.240><c> the</c><00:03:02.680><c> last</c><00:03:03.000><c> stage,</c><00:03:04.040><c> uh</c><00:03:04.160><c> where</c><00:03:04.320><c> we</c><00:03:04.480><c> really</c>
+
+00:03:04.750 --> 00:03:04.760 align:start position:0%
+In the last stage, uh where we really
+ 
+
+00:03:04.760 --> 00:03:06.990 align:start position:0%
+In the last stage, uh where we really
+see<00:03:05.040><c> the</c><00:03:05.280><c> the</c><00:03:05.400><c> heterogeneous</c><00:03:06.280><c> paradigm</c>
+
+00:03:06.990 --> 00:03:07.000 align:start position:0%
+see the the heterogeneous paradigm
+ 
+
+00:03:07.000 --> 00:03:09.310 align:start position:0%
+see the the heterogeneous paradigm
+unfolding,<00:03:07.960><c> is</c><00:03:08.240><c> when</c><00:03:08.880><c> we</c><00:03:09.040><c> have</c><00:03:09.280><c> a</c>
+
+00:03:09.310 --> 00:03:09.320 align:start position:0%
+unfolding, is when we have a
+ 
+
+00:03:09.320 --> 00:03:13.550 align:start position:0%
+unfolding, is when we have a
+co-evolution<00:03:10.520><c> of</c><00:03:10.800><c> systems</c><00:03:11.640><c> uh</c><00:03:12.120><c> hardware</c><00:03:13.040><c> and</c>
+
+00:03:13.550 --> 00:03:13.560 align:start position:0%
+co-evolution of systems uh hardware and
+ 
+
+00:03:13.560 --> 00:03:15.430 align:start position:0%
+co-evolution of systems uh hardware and
+software.<00:03:14.360><c> So,</c>
+
+00:03:15.430 --> 00:03:15.440 align:start position:0%
+software. So,
+ 
+
+00:03:15.440 --> 00:03:17.750 align:start position:0%
+software. So,
+there<00:03:15.640><c> will</c><00:03:15.760><c> be</c><00:03:15.880><c> a</c><00:03:15.920><c> unification</c><00:03:16.760><c> where</c><00:03:17.360><c> you'll</c>
+
+00:03:17.750 --> 00:03:17.760 align:start position:0%
+there will be a unification where you'll
+ 
+
+00:03:17.760 --> 00:03:20.910 align:start position:0%
+there will be a unification where you'll
+have<00:03:18.520><c> um</c><00:03:19.040><c> a</c><00:03:19.120><c> complete</c><00:03:19.720><c> vertical</c><00:03:20.240><c> integration</c>
+
+00:03:20.910 --> 00:03:20.920 align:start position:0%
+have um a complete vertical integration
+ 
+
+00:03:20.920 --> 00:03:24.230 align:start position:0%
+have um a complete vertical integration
+of<00:03:21.080><c> intelligence</c><00:03:21.720><c> and</c><00:03:21.840><c> hardware.</c>
+
+00:03:24.230 --> 00:03:24.240 align:start position:0%
+of intelligence and hardware.
+ 
+
+00:03:24.240 --> 00:03:25.190 align:start position:0%
+of intelligence and hardware.
+So,
+
+00:03:25.190 --> 00:03:25.200 align:start position:0%
+So,
+ 
+
+00:03:25.200 --> 00:03:27.470 align:start position:0%
+So,
+why<00:03:25.640><c> heterogeneity?</c><00:03:26.600><c> Why</c><00:03:27.040><c> is</c><00:03:27.160><c> it</c><00:03:27.240><c> a</c><00:03:27.280><c> good</c>
+
+00:03:27.470 --> 00:03:27.480 align:start position:0%
+why heterogeneity? Why is it a good
+ 
+
+00:03:27.480 --> 00:03:30.030 align:start position:0%
+why heterogeneity? Why is it a good
+thing<00:03:27.640><c> in</c><00:03:27.720><c> the</c><00:03:27.800><c> first</c><00:03:28.080><c> place?</c><00:03:28.920><c> So,</c><00:03:29.400><c> real-world</c>
+
+00:03:30.030 --> 00:03:30.040 align:start position:0%
+thing in the first place? So, real-world
+ 
+
+00:03:30.040 --> 00:03:33.310 align:start position:0%
+thing in the first place? So, real-world
+problems<00:03:30.640><c> are</c><00:03:31.440><c> complex,</c><00:03:32.240><c> multi-step,</c><00:03:33.160><c> and</c>
+
+00:03:33.310 --> 00:03:33.320 align:start position:0%
+problems are complex, multi-step, and
+ 
+
+00:03:33.320 --> 00:03:36.510 align:start position:0%
+problems are complex, multi-step, and
+open-ended.<00:03:34.240><c> They</c><00:03:34.880><c> decompose</c><00:03:35.760><c> into</c>
+
+00:03:36.510 --> 00:03:36.520 align:start position:0%
+open-ended. They decompose into
+ 
+
+00:03:36.520 --> 00:03:38.510 align:start position:0%
+open-ended. They decompose into
+sub-problems,<00:03:37.360><c> which</c><00:03:37.560><c> require</c><00:03:38.000><c> vastly</c>
+
+00:03:38.510 --> 00:03:38.520 align:start position:0%
+sub-problems, which require vastly
+ 
+
+00:03:38.520 --> 00:03:40.590 align:start position:0%
+sub-problems, which require vastly
+different<00:03:38.880><c> types</c><00:03:39.160><c> of</c><00:03:39.280><c> intelligences.</c><00:03:40.360><c> So,</c>
+
+00:03:40.590 --> 00:03:40.600 align:start position:0%
+different types of intelligences. So,
+ 
+
+00:03:40.600 --> 00:03:42.630 align:start position:0%
+different types of intelligences. So,
+scaling<00:03:41.080><c> a</c><00:03:41.120><c> singular</c><00:03:41.600><c> type</c><00:03:41.880><c> of</c><00:03:42.000><c> intelligence</c>
+
+00:03:42.630 --> 00:03:42.640 align:start position:0%
+scaling a singular type of intelligence
+ 
+
+00:03:42.640 --> 00:03:45.030 align:start position:0%
+scaling a singular type of intelligence
+to<00:03:42.800><c> solve</c><00:03:43.120><c> these</c><00:03:43.680><c> is</c><00:03:43.840><c> very</c><00:03:44.080><c> inefficient</c><00:03:44.760><c> and</c>
+
+00:03:45.030 --> 00:03:45.040 align:start position:0%
+to solve these is very inefficient and
+ 
+
+00:03:45.040 --> 00:03:47.150 align:start position:0%
+to solve these is very inefficient and
+and<00:03:45.560><c> not</c><00:03:45.840><c> optimal.</c>
+
+00:03:47.150 --> 00:03:47.160 align:start position:0%
+and not optimal.
+ 
+
+00:03:47.160 --> 00:03:49.470 align:start position:0%
+and not optimal.
+So,<00:03:47.880><c> how</c><00:03:48.080><c> do</c><00:03:48.160><c> we</c><00:03:48.280><c> solve</c><00:03:48.520><c> them?</c>
+
+00:03:49.470 --> 00:03:49.480 align:start position:0%
+So, how do we solve them?
+ 
+
+00:03:49.480 --> 00:03:51.510 align:start position:0%
+So, how do we solve them?
+Solving<00:03:49.880><c> these</c><00:03:50.280><c> actually</c><00:03:50.600><c> requires</c><00:03:51.200><c> models</c>
+
+00:03:51.510 --> 00:03:51.520 align:start position:0%
+Solving these actually requires models
+ 
+
+00:03:51.520 --> 00:03:53.750 align:start position:0%
+Solving these actually requires models
+of<00:03:51.640><c> different</c><00:03:52.040><c> architectures</c><00:03:52.760><c> and</c><00:03:52.920><c> sizes</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+of different architectures and sizes
+ 
+
+00:03:53.760 --> 00:03:56.070 align:start position:0%
+of different architectures and sizes
+working<00:03:54.160><c> together</c><00:03:55.200><c> um</c>
+
+00:03:56.070 --> 00:03:56.080 align:start position:0%
+working together um
+ 
+
+00:03:56.080 --> 00:03:57.350 align:start position:0%
+working together um
+uh
+
+00:03:57.350 --> 00:03:57.360 align:start position:0%
+uh
+ 
+
+00:03:57.360 --> 00:03:59.470 align:start position:0%
+uh
+acting<00:03:57.760><c> together</c><00:03:58.400><c> in</c><00:03:58.520><c> long</c><00:03:58.720><c> horizons,</c>
+
+00:03:59.470 --> 00:03:59.480 align:start position:0%
+acting together in long horizons,
+ 
+
+00:03:59.480 --> 00:04:02.590 align:start position:0%
+acting together in long horizons,
+something<00:03:59.960><c> we</c><00:04:00.040><c> like</c><00:04:00.280><c> to</c><00:04:00.400><c> call</c><00:04:00.960><c> multi-agent</c>
+
+00:04:02.590 --> 00:04:02.600 align:start position:0%
+something we like to call multi-agent
+ 
+
+00:04:02.600 --> 00:04:05.270 align:start position:0%
+something we like to call multi-agent
+heterogeneous<00:04:03.240><c> intelligence.</c>
+
+00:04:05.270 --> 00:04:05.280 align:start position:0%
+heterogeneous intelligence.
+ 
+
+00:04:05.280 --> 00:04:07.870 align:start position:0%
+heterogeneous intelligence.
+Furthermore,<00:04:06.240><c> new</c><00:04:06.480><c> generations</c><00:04:07.080><c> of</c><00:04:07.440><c> silicon</c>
+
+00:04:07.870 --> 00:04:07.880 align:start position:0%
+Furthermore, new generations of silicon
+ 
+
+00:04:07.880 --> 00:04:09.910 align:start position:0%
+Furthermore, new generations of silicon
+is<00:04:08.040><c> coming</c><00:04:08.280><c> towards</c><00:04:08.600><c> the</c><00:04:08.680><c> market,</c><00:04:09.440><c> but</c>
+
+00:04:09.910 --> 00:04:09.920 align:start position:0%
+is coming towards the market, but
+ 
+
+00:04:09.920 --> 00:04:12.070 align:start position:0%
+is coming towards the market, but
+currently,<00:04:10.560><c> there's</c><00:04:10.880><c> no</c><00:04:11.120><c> interface</c><00:04:11.840><c> which</c>
+
+00:04:12.070 --> 00:04:12.080 align:start position:0%
+currently, there's no interface which
+ 
+
+00:04:12.080 --> 00:04:14.390 align:start position:0%
+currently, there's no interface which
+allows<00:04:12.440><c> it</c><00:04:12.640><c> to</c><00:04:13.400><c> um</c>
+
+00:04:14.390 --> 00:04:14.400 align:start position:0%
+allows it to um
+ 
+
+00:04:14.400 --> 00:04:16.590 align:start position:0%
+allows it to um
+this<00:04:14.680><c> new</c><00:04:14.920><c> hardware</c><00:04:15.240><c> to</c><00:04:15.360><c> be</c><00:04:15.480><c> unified</c><00:04:16.040><c> and</c><00:04:16.200><c> and</c>
+
+00:04:16.590 --> 00:04:16.600 align:start position:0%
+this new hardware to be unified and and
+ 
+
+00:04:16.600 --> 00:04:19.310 align:start position:0%
+this new hardware to be unified and and
+constructively<00:04:17.880><c> um</c><00:04:18.079><c> help</c><00:04:18.880><c> the</c><00:04:19.000><c> current</c>
+
+00:04:19.310 --> 00:04:19.320 align:start position:0%
+constructively um help the current
+ 
+
+00:04:19.320 --> 00:04:21.750 align:start position:0%
+constructively um help the current
+compute<00:04:19.720><c> stack.</c><00:04:20.440><c> And</c><00:04:20.560><c> so,</c><00:04:20.720><c> this</c><00:04:20.920><c> is</c><00:04:21.359><c> what</c><00:04:21.600><c> we</c>
+
+00:04:21.750 --> 00:04:21.760 align:start position:0%
+compute stack. And so, this is what we
+ 
+
+00:04:21.760 --> 00:04:23.190 align:start position:0%
+compute stack. And so, this is what we
+aim<00:04:21.959><c> to</c>
+
+00:04:23.190 --> 00:04:23.200 align:start position:0%
+aim to
+ 
+
+00:04:23.200 --> 00:04:26.870 align:start position:0%
+aim to
+change.<00:04:24.160><c> So,</c><00:04:25.000><c> heterogeneia</c><00:04:25.920><c> heterogeneity,</c>
+
+00:04:26.870 --> 00:04:26.880 align:start position:0%
+change. So, heterogeneia heterogeneity,
+ 
+
+00:04:26.880 --> 00:04:30.070 align:start position:0%
+change. So, heterogeneia heterogeneity,
+the<00:04:27.000><c> benefit</c><00:04:27.880><c> is</c><00:04:28.040><c> not</c><00:04:28.440><c> simply</c><00:04:29.480><c> a</c><00:04:29.520><c> belief</c><00:04:29.960><c> that</c>
+
+00:04:30.070 --> 00:04:30.080 align:start position:0%
+the benefit is not simply a belief that
+ 
+
+00:04:30.080 --> 00:04:32.590 align:start position:0%
+the benefit is not simply a belief that
+we<00:04:30.200><c> have.</c><00:04:30.720><c> We</c><00:04:30.840><c> actually</c><00:04:31.160><c> formalize</c><00:04:31.800><c> it</c><00:04:32.400><c> and</c>
+
+00:04:32.590 --> 00:04:32.600 align:start position:0%
+we have. We actually formalize it and
+ 
+
+00:04:32.600 --> 00:04:35.390 align:start position:0%
+we have. We actually formalize it and
+proved<00:04:32.920><c> it</c><00:04:33.040><c> mathematically</c><00:04:34.400><c> um</c>
+
+00:04:35.390 --> 00:04:35.400 align:start position:0%
+proved it mathematically um
+ 
+
+00:04:35.400 --> 00:04:38.030 align:start position:0%
+proved it mathematically um
+on<00:04:35.560><c> the</c><00:04:35.680><c> right</c><00:04:36.120><c> on</c><00:04:36.240><c> the</c><00:04:36.360><c> left,</c><00:04:36.640><c> you</c><00:04:36.760><c> see</c>
+
+00:04:38.030 --> 00:04:38.040 align:start position:0%
+on the right on the left, you see
+ 
+
+00:04:38.040 --> 00:04:39.830 align:start position:0%
+on the right on the left, you see
+a<00:04:38.160><c> figure</c><00:04:38.560><c> outlining</c>
+
+00:04:39.830 --> 00:04:39.840 align:start position:0%
+a figure outlining
+ 
+
+00:04:39.840 --> 00:04:41.350 align:start position:0%
+a figure outlining
+uh<00:04:40.200><c> the</c><00:04:40.320><c> principle</c><00:04:40.800><c> of</c><00:04:40.920><c> maximum</c>
+
+00:04:41.350 --> 00:04:41.360 align:start position:0%
+uh the principle of maximum
+ 
+
+00:04:41.360 --> 00:04:43.990 align:start position:0%
+uh the principle of maximum
+heterogeneity.<00:04:42.640><c> So,</c><00:04:43.440><c> these</c><00:04:43.840><c> are</c>
+
+00:04:43.990 --> 00:04:44.000 align:start position:0%
+heterogeneity. So, these are
+ 
+
+00:04:44.000 --> 00:04:46.110 align:start position:0%
+heterogeneity. So, these are
+heterogeneous<00:04:44.880><c> agents,</c><00:04:45.320><c> where</c><00:04:45.440><c> the</c><00:04:45.560><c> color</c>
+
+00:04:46.110 --> 00:04:46.120 align:start position:0%
+heterogeneous agents, where the color
+ 
+
+00:04:46.120 --> 00:04:49.030 align:start position:0%
+heterogeneous agents, where the color
+indicates<00:04:47.240><c> um</c><00:04:47.360><c> a</c><00:04:47.440><c> distribution</c><00:04:48.320><c> over</c><00:04:48.600><c> a</c><00:04:48.680><c> skill</c>
+
+00:04:49.030 --> 00:04:49.040 align:start position:0%
+indicates um a distribution over a skill
+ 
+
+00:04:49.040 --> 00:04:50.070 align:start position:0%
+indicates um a distribution over a skill
+space.
+
+00:04:50.070 --> 00:04:50.080 align:start position:0%
+space.
+ 
+
+00:04:50.080 --> 00:04:52.910 align:start position:0%
+space.
+Um<00:04:50.520><c> if</c><00:04:50.720><c> you</c><00:04:50.840><c> take</c><00:04:51.520><c> if</c><00:04:51.680><c> you</c><00:04:52.160><c> have</c><00:04:52.840><c> a</c>
+
+00:04:52.910 --> 00:04:52.920 align:start position:0%
+Um if you take if you have a
+ 
+
+00:04:52.920 --> 00:04:55.430 align:start position:0%
+Um if you take if you have a
+communication<00:04:54.160><c> between</c><00:04:54.600><c> these,</c><00:04:55.000><c> here</c>
+
+00:04:55.430 --> 00:04:55.440 align:start position:0%
+communication between these, here
+ 
+
+00:04:55.440 --> 00:04:57.870 align:start position:0%
+communication between these, here
+indicated<00:04:55.960><c> by</c><00:04:56.080><c> a</c><00:04:56.160><c> ring</c><00:04:56.360><c> topology,</c><00:04:57.360><c> you</c><00:04:57.600><c> can</c>
+
+00:04:57.870 --> 00:04:57.880 align:start position:0%
+indicated by a ring topology, you can
+ 
+
+00:04:57.880 --> 00:05:00.470 align:start position:0%
+indicated by a ring topology, you can
+have<00:04:58.520><c> a</c><00:04:58.920><c> what</c><00:04:59.120><c> we</c><00:04:59.240><c> like</c><00:04:59.480><c> to</c><00:04:59.600><c> call</c><00:04:59.920><c> a</c><00:04:59.960><c> production</c>
+
+00:05:00.470 --> 00:05:00.480 align:start position:0%
+have a what we like to call a production
+ 
+
+00:05:00.480 --> 00:05:01.630 align:start position:0%
+have a what we like to call a production
+function.
+
+00:05:01.630 --> 00:05:01.640 align:start position:0%
+function.
+ 
+
+00:05:01.640 --> 00:05:03.630 align:start position:0%
+function.
+And<00:05:01.800><c> the</c><00:05:01.880><c> production</c><00:05:02.360><c> function</c><00:05:03.080><c> is</c><00:05:03.240><c> simply</c>
+
+00:05:03.630 --> 00:05:03.640 align:start position:0%
+And the production function is simply
+ 
+
+00:05:03.640 --> 00:05:05.230 align:start position:0%
+And the production function is simply
+the<00:05:03.840><c> demand</c><00:05:04.560><c> uh</c>
+
+00:05:05.230 --> 00:05:05.240 align:start position:0%
+the demand uh
+ 
+
+00:05:05.240 --> 00:05:06.230 align:start position:0%
+the demand uh
+can
+
+00:05:06.230 --> 00:05:06.240 align:start position:0%
+can
+ 
+
+00:05:06.240 --> 00:05:09.150 align:start position:0%
+can
+can<00:05:07.000><c> be</c><00:05:07.160><c> well</c><00:05:07.400><c> suited</c><00:05:07.880><c> for</c><00:05:08.280><c> the</c><00:05:08.400><c> demand</c><00:05:08.800><c> of</c><00:05:08.920><c> one</c>
+
+00:05:09.150 --> 00:05:09.160 align:start position:0%
+can be well suited for the demand of one
+ 
+
+00:05:09.160 --> 00:05:11.150 align:start position:0%
+can be well suited for the demand of one
+problem,<00:05:09.800><c> but</c><00:05:10.040><c> ill</c><00:05:10.240><c> suited</c><00:05:10.680><c> for</c><00:05:10.840><c> another</c>
+
+00:05:11.150 --> 00:05:11.160 align:start position:0%
+problem, but ill suited for another
+ 
+
+00:05:11.160 --> 00:05:13.630 align:start position:0%
+problem, but ill suited for another
+problem.<00:05:11.800><c> So,</c><00:05:12.000><c> here</c><00:05:12.400><c> we</c><00:05:12.560><c> have</c><00:05:12.800><c> a</c><00:05:13.080><c> a</c><00:05:13.160><c> production</c>
+
+00:05:13.630 --> 00:05:13.640 align:start position:0%
+problem. So, here we have a a production
+ 
+
+00:05:13.640 --> 00:05:16.150 align:start position:0%
+problem. So, here we have a a production
+function<00:05:14.040><c> that's</c><00:05:14.360><c> well</c><00:05:14.600><c> suited</c><00:05:14.960><c> for</c><00:05:15.160><c> demand</c><00:05:15.600><c> A</c>
+
+00:05:16.150 --> 00:05:16.160 align:start position:0%
+function that's well suited for demand A
+ 
+
+00:05:16.160 --> 00:05:18.470 align:start position:0%
+function that's well suited for demand A
+and<00:05:16.360><c> ill</c><00:05:16.520><c> suited</c><00:05:16.880><c> for</c><00:05:17.000><c> demand</c><00:05:17.360><c> B.</c>
+
+00:05:18.470 --> 00:05:18.480 align:start position:0%
+and ill suited for demand B.
+ 
+
+00:05:18.480 --> 00:05:20.510 align:start position:0%
+and ill suited for demand B.
+If<00:05:18.760><c> you</c><00:05:18.880><c> want</c><00:05:19.160><c> to</c><00:05:19.360><c> do</c><00:05:19.600><c> this</c><00:05:19.760><c> in</c><00:05:19.880><c> a</c><00:05:19.920><c> homogeneous</c>
+
+00:05:20.510 --> 00:05:20.520 align:start position:0%
+If you want to do this in a homogeneous
+ 
+
+00:05:20.520 --> 00:05:22.510 align:start position:0%
+If you want to do this in a homogeneous
+fashion,<00:05:21.280><c> you</c><00:05:21.400><c> would</c><00:05:21.640><c> either</c><00:05:21.960><c> be</c><00:05:22.080><c> able</c><00:05:22.360><c> to</c>
+
+00:05:22.510 --> 00:05:22.520 align:start position:0%
+fashion, you would either be able to
+ 
+
+00:05:22.520 --> 00:05:25.310 align:start position:0%
+fashion, you would either be able to
+only<00:05:22.800><c> scale</c><00:05:23.280><c> one</c><00:05:23.520><c> peak</c><00:05:24.160><c> or</c><00:05:24.680><c> in</c><00:05:24.760><c> the</c><00:05:24.880><c> optimal</c>
+
+00:05:25.310 --> 00:05:25.320 align:start position:0%
+only scale one peak or in the optimal
+ 
+
+00:05:25.320 --> 00:05:27.430 align:start position:0%
+only scale one peak or in the optimal
+case<00:05:25.680><c> to</c><00:05:25.840><c> match</c><00:05:26.160><c> this</c><00:05:26.400><c> demand</c><00:05:26.760><c> function,</c>
+
+00:05:27.430 --> 00:05:27.440 align:start position:0%
+case to match this demand function,
+ 
+
+00:05:27.440 --> 00:05:30.070 align:start position:0%
+case to match this demand function,
+you'd<00:05:27.680><c> have</c><00:05:28.040><c> only</c><00:05:28.320><c> generalists,</c><00:05:29.160><c> so</c><00:05:29.560><c> as</c><00:05:29.800><c> broad</c>
+
+00:05:30.070 --> 00:05:30.080 align:start position:0%
+you'd have only generalists, so as broad
+ 
+
+00:05:30.080 --> 00:05:32.190 align:start position:0%
+you'd have only generalists, so as broad
+as<00:05:30.200><c> possible</c><00:05:30.800><c> the</c><00:05:30.920><c> skill</c><00:05:31.200><c> set,</c><00:05:31.800><c> but</c><00:05:31.920><c> then</c>
+
+00:05:32.190 --> 00:05:32.200 align:start position:0%
+as possible the skill set, but then
+ 
+
+00:05:32.200 --> 00:05:34.230 align:start position:0%
+as possible the skill set, but then
+ultimately<00:05:32.800><c> you'd</c><00:05:32.960><c> have</c><00:05:33.160><c> a</c><00:05:33.200><c> very</c><00:05:33.880><c> short</c>
+
+00:05:34.230 --> 00:05:34.240 align:start position:0%
+ultimately you'd have a very short
+ 
+
+00:05:34.240 --> 00:05:36.590 align:start position:0%
+ultimately you'd have a very short
+cylinder<00:05:35.040><c> that</c><00:05:35.280><c> does</c><00:05:35.520><c> not</c><00:05:35.840><c> meet</c><00:05:36.360><c> the</c>
+
+00:05:36.590 --> 00:05:36.600 align:start position:0%
+cylinder that does not meet the
+ 
+
+00:05:36.600 --> 00:05:38.430 align:start position:0%
+cylinder that does not meet the
+production<00:05:37.120><c> function</c><00:05:37.440><c> readily.</c>
+
+00:05:38.430 --> 00:05:38.440 align:start position:0%
+production function readily.
+ 
+
+00:05:38.440 --> 00:05:42.310 align:start position:0%
+production function readily.
+So,<00:05:39.200><c> we</c><00:05:39.960><c> formalize</c><00:05:40.480><c> this</c><00:05:40.840><c> and</c><00:05:41.280><c> we</c>
+
+00:05:42.310 --> 00:05:42.320 align:start position:0%
+So, we formalize this and we
+ 
+
+00:05:42.320 --> 00:05:44.270 align:start position:0%
+So, we formalize this and we
+um<00:05:42.720><c> saw</c><00:05:42.960><c> that</c><00:05:43.160><c> across</c><00:05:43.560><c> many</c><00:05:43.800><c> domains,</c>
+
+00:05:44.270 --> 00:05:44.280 align:start position:0%
+um saw that across many domains,
+ 
+
+00:05:44.280 --> 00:05:46.310 align:start position:0%
+um saw that across many domains,
+including<00:05:44.720><c> neuroscience,</c><00:05:45.440><c> economics,</c><00:05:46.200><c> and</c>
+
+00:05:46.310 --> 00:05:46.320 align:start position:0%
+including neuroscience, economics, and
+ 
+
+00:05:46.320 --> 00:05:47.750 align:start position:0%
+including neuroscience, economics, and
+ecology,
+
+00:05:47.750 --> 00:05:47.760 align:start position:0%
+ecology,
+ 
+
+00:05:47.760 --> 00:05:50.310 align:start position:0%
+ecology,
+these<00:05:48.600><c> these</c><00:05:48.800><c> trends</c><00:05:49.200><c> hold</c><00:05:49.560><c> and</c><00:05:49.760><c> under</c><00:05:50.080><c> any</c>
+
+00:05:50.310 --> 00:05:50.320 align:start position:0%
+these these trends hold and under any
+ 
+
+00:05:50.320 --> 00:05:52.150 align:start position:0%
+these these trends hold and under any
+reasonable<00:05:50.840><c> amount</c><00:05:51.160><c> of</c><00:05:51.280><c> constraints,</c>
+
+00:05:52.150 --> 00:05:52.160 align:start position:0%
+reasonable amount of constraints,
+ 
+
+00:05:52.160 --> 00:05:54.110 align:start position:0%
+reasonable amount of constraints,
+heterogeneous<00:05:52.840><c> systems</c><00:05:53.360><c> outperform</c>
+
+00:05:54.110 --> 00:05:54.120 align:start position:0%
+heterogeneous systems outperform
+ 
+
+00:05:54.120 --> 00:05:56.670 align:start position:0%
+heterogeneous systems outperform
+homogeneous<00:05:54.760><c> ones.</c>
+
+00:05:56.670 --> 00:05:56.680 align:start position:0%
+homogeneous ones.
+ 
+
+00:05:56.680 --> 00:05:58.510 align:start position:0%
+homogeneous ones.
+So,<00:05:57.080><c> how</c><00:05:57.320><c> do</c><00:05:57.440><c> we</c><00:05:57.560><c> use</c><00:05:57.800><c> this</c><00:05:58.000><c> in</c><00:05:58.120><c> practice?</c>
+
+00:05:58.510 --> 00:05:58.520 align:start position:0%
+So, how do we use this in practice?
+ 
+
+00:05:58.520 --> 00:05:59.910 align:start position:0%
+So, how do we use this in practice?
+Like,<00:05:59.000><c> I've</c><00:05:59.160><c> been</c><00:05:59.280><c> telling</c><00:05:59.560><c> you</c><00:05:59.640><c> about</c><00:05:59.880><c> the</c>
+
+00:05:59.910 --> 00:05:59.920 align:start position:0%
+Like, I've been telling you about the
+ 
+
+00:05:59.920 --> 00:06:02.590 align:start position:0%
+Like, I've been telling you about the
+benefits<00:06:00.520><c> of</c><00:06:00.840><c> heterogeneity,</c><00:06:01.720><c> but</c><00:06:02.240><c> I've</c><00:06:02.400><c> not</c>
+
+00:06:02.590 --> 00:06:02.600 align:start position:0%
+benefits of heterogeneity, but I've not
+ 
+
+00:06:02.600 --> 00:06:04.510 align:start position:0%
+benefits of heterogeneity, but I've not
+told<00:06:02.880><c> you</c><00:06:02.960><c> anything</c><00:06:03.320><c> about</c><00:06:03.960><c> what</c><00:06:04.120><c> it</c><00:06:04.240><c> actually</c>
+
+00:06:04.510 --> 00:06:04.520 align:start position:0%
+told you anything about what it actually
+ 
+
+00:06:04.520 --> 00:06:07.270 align:start position:0%
+told you anything about what it actually
+means<00:06:04.960><c> in</c><00:06:05.600><c> terms</c><00:06:05.880><c> of</c><00:06:06.000><c> AI.</c>
+
+00:06:07.270 --> 00:06:07.280 align:start position:0%
+means in terms of AI.
+ 
+
+00:06:07.280 --> 00:06:11.590 align:start position:0%
+means in terms of AI.
+So,<00:06:08.160><c> we</c><00:06:09.000><c> optimize</c><00:06:09.960><c> um</c><00:06:10.400><c> multi-agent</c><00:06:11.080><c> systems</c>
+
+00:06:11.590 --> 00:06:11.600 align:start position:0%
+So, we optimize um multi-agent systems
+ 
+
+00:06:11.600 --> 00:06:12.790 align:start position:0%
+So, we optimize um multi-agent systems
+at<00:06:11.720><c> three</c><00:06:12.040><c> different</c><00:06:12.400><c> parts</c><00:06:12.640><c> of</c><00:06:12.720><c> the</c>
+
+00:06:12.790 --> 00:06:12.800 align:start position:0%
+at three different parts of the
+ 
+
+00:06:12.800 --> 00:06:14.790 align:start position:0%
+at three different parts of the
+workflow.<00:06:13.600><c> So,</c><00:06:13.840><c> all</c><00:06:14.000><c> the</c><00:06:14.080><c> way</c><00:06:14.320><c> from</c><00:06:14.720><c> the</c>
+
+00:06:14.790 --> 00:06:14.800 align:start position:0%
+workflow. So, all the way from the
+ 
+
+00:06:14.800 --> 00:06:18.310 align:start position:0%
+workflow. So, all the way from the
+hardware,<00:06:15.720><c> where</c><00:06:16.360><c> agents</c><00:06:16.920><c> run</c><00:06:17.160><c> on,</c><00:06:17.840><c> we</c><00:06:17.960><c> choose</c>
+
+00:06:18.310 --> 00:06:18.320 align:start position:0%
+hardware, where agents run on, we choose
+ 
+
+00:06:18.320 --> 00:06:19.870 align:start position:0%
+hardware, where agents run on, we choose
+different<00:06:18.760><c> hardware</c><00:06:19.320><c> depending</c><00:06:19.760><c> on</c><00:06:19.840><c> the</c>
+
+00:06:19.870 --> 00:06:19.880 align:start position:0%
+different hardware depending on the
+ 
+
+00:06:19.880 --> 00:06:22.550 align:start position:0%
+different hardware depending on the
+computational<00:06:20.600><c> demands</c><00:06:21.000><c> on</c><00:06:21.160><c> the</c><00:06:21.440><c> agents,</c><00:06:22.400><c> and</c>
+
+00:06:22.550 --> 00:06:22.560 align:start position:0%
+computational demands on the agents, and
+ 
+
+00:06:22.560 --> 00:06:24.870 align:start position:0%
+computational demands on the agents, and
+then<00:06:23.160><c> how</c><00:06:23.440><c> agents</c><00:06:23.840><c> interact</c><00:06:24.480><c> and</c><00:06:24.640><c> what</c>
+
+00:06:24.870 --> 00:06:24.880 align:start position:0%
+then how agents interact and what
+ 
+
+00:06:24.880 --> 00:06:27.670 align:start position:0%
+then how agents interact and what
+workflow<00:06:25.720><c> they</c><00:06:25.880><c> construct.</c>
+
+00:06:27.670 --> 00:06:27.680 align:start position:0%
+workflow they construct.
+ 
+
+00:06:27.680 --> 00:06:30.590 align:start position:0%
+workflow they construct.
+Um<00:06:28.400><c> so,</c><00:06:29.040><c> we</c><00:06:29.200><c> have</c><00:06:29.480><c> already</c><00:06:29.800><c> demonstrated</c>
+
+00:06:30.590 --> 00:06:30.600 align:start position:0%
+Um so, we have already demonstrated
+ 
+
+00:06:30.600 --> 00:06:33.470 align:start position:0%
+Um so, we have already demonstrated
+multiple<00:06:31.520><c> uh</c><00:06:31.720><c> benefits</c><00:06:32.160><c> of</c><00:06:32.360><c> of</c><00:06:33.000><c> uh</c><00:06:33.080><c> this</c><00:06:33.240><c> type</c>
+
+00:06:33.470 --> 00:06:33.480 align:start position:0%
+multiple uh benefits of of uh this type
+ 
+
+00:06:33.480 --> 00:06:36.230 align:start position:0%
+multiple uh benefits of of uh this type
+of<00:06:33.960><c> orchestration</c><00:06:35.040><c> and</c><00:06:35.440><c> I</c><00:06:35.520><c> want</c><00:06:35.680><c> to</c><00:06:35.760><c> go</c><00:06:35.960><c> into</c><00:06:36.200><c> a</c>
+
+00:06:36.230 --> 00:06:36.240 align:start position:0%
+of orchestration and I want to go into a
+ 
+
+00:06:36.240 --> 00:06:39.310 align:start position:0%
+of orchestration and I want to go into a
+couple<00:06:36.600><c> ones</c><00:06:37.200><c> um</c><00:06:37.720><c> main</c><00:06:38.080><c> namely</c><00:06:39.120><c> in</c><00:06:39.240><c> the</c>
+
+00:06:39.310 --> 00:06:39.320 align:start position:0%
+couple ones um main namely in the
+ 
+
+00:06:39.320 --> 00:06:42.150 align:start position:0%
+couple ones um main namely in the
+workflow,<00:06:40.520><c> something</c><00:06:41.200><c> a</c><00:06:41.280><c> primitive</c><00:06:41.880><c> we</c><00:06:41.960><c> like</c>
+
+00:06:42.150 --> 00:06:42.160 align:start position:0%
+workflow, something a primitive we like
+ 
+
+00:06:42.160 --> 00:06:44.390 align:start position:0%
+workflow, something a primitive we like
+to<00:06:42.280><c> call</c><00:06:42.560><c> heterogeneous</c><00:06:43.240><c> recursion,</c>
+
+00:06:44.390 --> 00:06:44.400 align:start position:0%
+to call heterogeneous recursion,
+ 
+
+00:06:44.400 --> 00:06:46.550 align:start position:0%
+to call heterogeneous recursion,
+and<00:06:44.760><c> in</c><00:06:44.880><c> the</c><00:06:45.000><c> agent</c><00:06:45.400><c> layer,</c><00:06:46.000><c> I</c><00:06:46.080><c> want</c><00:06:46.240><c> to</c><00:06:46.320><c> talk</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+and in the agent layer, I want to talk
+ 
+
+00:06:46.560 --> 00:06:48.350 align:start position:0%
+and in the agent layer, I want to talk
+about<00:06:46.880><c> multimodal</c>
+
+00:06:48.350 --> 00:06:48.360 align:start position:0%
+about multimodal
+ 
+
+00:06:48.360 --> 00:06:52.030 align:start position:0%
+about multimodal
+multimodal<00:06:49.240><c> video</c><00:06:49.680><c> action</c><00:06:50.000><c> language</c><00:06:50.320><c> models.</c>
+
+00:06:52.030 --> 00:06:52.040 align:start position:0%
+multimodal video action language models.
+ 
+
+00:06:52.040 --> 00:06:53.190 align:start position:0%
+multimodal video action language models.
+So,
+
+00:06:53.190 --> 00:06:53.200 align:start position:0%
+So,
+ 
+
+00:06:53.200 --> 00:06:55.630 align:start position:0%
+So,
+heterogeneous<00:06:53.960><c> recursion.</c>
+
+00:06:55.630 --> 00:06:55.640 align:start position:0%
+heterogeneous recursion.
+ 
+
+00:06:55.640 --> 00:06:57.670 align:start position:0%
+heterogeneous recursion.
+This<00:06:55.880><c> is</c><00:06:56.000><c> something</c><00:06:57.040><c> um</c>
+
+00:06:57.670 --> 00:06:57.680 align:start position:0%
+This is something um
+ 
+
+00:06:57.680 --> 00:06:59.710 align:start position:0%
+This is something um
+who's<00:06:58.000><c> here</c><00:06:58.480><c> heard</c><00:06:58.760><c> of</c><00:06:59.000><c> recursive</c><00:06:59.440><c> language</c>
+
+00:06:59.710 --> 00:06:59.720 align:start position:0%
+who's here heard of recursive language
+ 
+
+00:06:59.720 --> 00:07:01.510 align:start position:0%
+who's here heard of recursive language
+models?
+
+00:07:01.510 --> 00:07:01.520 align:start position:0%
+models?
+ 
+
+00:07:01.520 --> 00:07:04.790 align:start position:0%
+models?
+Okay.<00:07:01.920><c> So,</c><00:07:02.360><c> for</c><00:07:02.520><c> those</c><00:07:02.760><c> of</c><00:07:02.880><c> you</c><00:07:03.120><c> who</c><00:07:04.080><c> um</c>
+
+00:07:04.790 --> 00:07:04.800 align:start position:0%
+Okay. So, for those of you who um
+ 
+
+00:07:04.800 --> 00:07:06.670 align:start position:0%
+Okay. So, for those of you who um
+know<00:07:05.200><c> don't</c><00:07:05.400><c> know</c><00:07:05.880><c> recursive</c><00:07:06.320><c> language</c>
+
+00:07:06.670 --> 00:07:06.680 align:start position:0%
+know don't know recursive language
+ 
+
+00:07:06.680 --> 00:07:08.590 align:start position:0%
+know don't know recursive language
+model,<00:07:07.000><c> it's</c><00:07:07.160><c> kind</c><00:07:07.360><c> of</c><00:07:07.520><c> a</c><00:07:07.680><c> seminal</c><00:07:08.040><c> paper</c><00:07:08.400><c> that</c>
+
+00:07:08.590 --> 00:07:08.600 align:start position:0%
+model, it's kind of a seminal paper that
+ 
+
+00:07:08.600 --> 00:07:12.070 align:start position:0%
+model, it's kind of a seminal paper that
+came<00:07:08.840><c> out</c><00:07:08.960><c> of</c><00:07:09.200><c> MIT</c><00:07:10.240><c> uh</c><00:07:10.440><c> last</c><00:07:10.720><c> October.</c>
+
+00:07:12.070 --> 00:07:12.080 align:start position:0%
+came out of MIT uh last October.
+ 
+
+00:07:12.080 --> 00:07:14.350 align:start position:0%
+came out of MIT uh last October.
+And<00:07:12.240><c> they</c><00:07:12.400><c> basically</c><00:07:12.840><c> showed</c><00:07:13.120><c> that</c><00:07:13.760><c> even</c><00:07:14.120><c> if</c>
+
+00:07:14.350 --> 00:07:14.360 align:start position:0%
+And they basically showed that even if
+ 
+
+00:07:14.360 --> 00:07:17.310 align:start position:0%
+And they basically showed that even if
+you<00:07:14.640><c> only</c><00:07:14.920><c> occupy</c><00:07:15.400><c> a</c><00:07:15.440><c> small</c><00:07:16.480><c> um</c><00:07:16.600><c> percentage</c><00:07:17.160><c> of</c>
+
+00:07:17.310 --> 00:07:17.320 align:start position:0%
+you only occupy a small um percentage of
+ 
+
+00:07:17.320 --> 00:07:19.910 align:start position:0%
+you only occupy a small um percentage of
+the<00:07:17.600><c> context</c><00:07:18.160><c> window,</c><00:07:18.920><c> you</c><00:07:19.080><c> still</c><00:07:19.360><c> can</c><00:07:19.520><c> have</c>
+
+00:07:19.910 --> 00:07:19.920 align:start position:0%
+the context window, you still can have
+ 
+
+00:07:19.920 --> 00:07:22.070 align:start position:0%
+the context window, you still can have
+dramatic<00:07:20.440><c> context</c><00:07:20.920><c> rot</c><00:07:21.280><c> depending</c><00:07:21.760><c> on</c><00:07:21.920><c> the</c>
+
+00:07:22.070 --> 00:07:22.080 align:start position:0%
+dramatic context rot depending on the
+ 
+
+00:07:22.080 --> 00:07:24.110 align:start position:0%
+dramatic context rot depending on the
+information<00:07:22.640><c> complexity</c><00:07:23.240><c> you</c><00:07:23.320><c> want</c><00:07:23.800><c> uh</c><00:07:23.960><c> from</c>
+
+00:07:24.110 --> 00:07:24.120 align:start position:0%
+information complexity you want uh from
+ 
+
+00:07:24.120 --> 00:07:26.510 align:start position:0%
+information complexity you want uh from
+the<00:07:24.240><c> prompt.</c><00:07:24.920><c> So,</c><00:07:25.160><c> if</c><00:07:25.560><c> you're</c><00:07:25.720><c> doing</c><00:07:25.960><c> a</c><00:07:26.240><c> needle</c>
+
+00:07:26.510 --> 00:07:26.520 align:start position:0%
+the prompt. So, if you're doing a needle
+ 
+
+00:07:26.520 --> 00:07:29.590 align:start position:0%
+the prompt. So, if you're doing a needle
+in<00:07:26.640><c> a</c><00:07:26.720><c> haystack</c><00:07:27.200><c> task,</c><00:07:28.000><c> that</c><00:07:28.160><c> is</c><00:07:28.360><c> O</c><00:07:28.520><c> of</c><00:07:28.640><c> 1.</c><00:07:29.120><c> The</c>
+
+00:07:29.590 --> 00:07:29.600 align:start position:0%
+in a haystack task, that is O of 1. The
+ 
+
+00:07:29.600 --> 00:07:32.190 align:start position:0%
+in a haystack task, that is O of 1. The
+the<00:07:30.240><c> information</c><00:07:30.880><c> requirement</c>
+
+00:07:32.190 --> 00:07:32.200 align:start position:0%
+the information requirement
+ 
+
+00:07:32.200 --> 00:07:35.150 align:start position:0%
+the information requirement
+scales<00:07:33.000><c> is</c><00:07:33.240><c> constant</c><00:07:33.760><c> throughout</c><00:07:34.640><c> regardless</c>
+
+00:07:35.150 --> 00:07:35.160 align:start position:0%
+scales is constant throughout regardless
+ 
+
+00:07:35.160 --> 00:07:37.190 align:start position:0%
+scales is constant throughout regardless
+of<00:07:35.280><c> how</c><00:07:35.440><c> big</c><00:07:35.640><c> the</c><00:07:35.720><c> prompt</c><00:07:36.040><c> is.</c><00:07:36.760><c> And</c><00:07:36.880><c> then</c><00:07:37.080><c> you</c>
+
+00:07:37.190 --> 00:07:37.200 align:start position:0%
+of how big the prompt is. And then you
+ 
+
+00:07:37.200 --> 00:07:39.470 align:start position:0%
+of how big the prompt is. And then you
+can<00:07:37.440><c> imagine</c><00:07:38.000><c> adding</c><00:07:38.320><c> up</c><00:07:38.520><c> the</c><00:07:38.640><c> rows.</c><00:07:39.040><c> You</c><00:07:39.160><c> you</c>
+
+00:07:39.470 --> 00:07:39.480 align:start position:0%
+can imagine adding up the rows. You you
+ 
+
+00:07:39.480 --> 00:07:41.270 align:start position:0%
+can imagine adding up the rows. You you
+you<00:07:39.600><c> give</c><00:07:40.000><c> uh</c><00:07:40.120><c> rows</c><00:07:40.400><c> and</c><00:07:40.520><c> columns.</c><00:07:40.960><c> Adding</c><00:07:41.200><c> up</c>
+
+00:07:41.270 --> 00:07:41.280 align:start position:0%
+you give uh rows and columns. Adding up
+ 
+
+00:07:41.280 --> 00:07:43.350 align:start position:0%
+you give uh rows and columns. Adding up
+the<00:07:41.400><c> rows</c><00:07:41.680><c> would</c><00:07:41.800><c> be</c><00:07:41.960><c> O</c><00:07:42.080><c> of</c><00:07:42.240><c> N,</c><00:07:42.720><c> because</c><00:07:43.040><c> as</c><00:07:43.240><c> the</c>
+
+00:07:43.350 --> 00:07:43.360 align:start position:0%
+the rows would be O of N, because as the
+ 
+
+00:07:43.360 --> 00:07:45.350 align:start position:0%
+the rows would be O of N, because as the
+prompt<00:07:43.720><c> increases,</c><00:07:44.640><c> the</c><00:07:44.760><c> inform-</c>
+
+00:07:45.350 --> 00:07:45.360 align:start position:0%
+prompt increases, the inform-
+ 
+
+00:07:45.360 --> 00:07:47.910 align:start position:0%
+prompt increases, the inform-
+informational<00:07:46.400><c> requirement</c><00:07:47.240><c> increases</c>
+
+00:07:47.910 --> 00:07:47.920 align:start position:0%
+informational requirement increases
+ 
+
+00:07:47.920 --> 00:07:49.350 align:start position:0%
+informational requirement increases
+linearly.
+
+00:07:49.350 --> 00:07:49.360 align:start position:0%
+linearly.
+ 
+
+00:07:49.360 --> 00:07:50.830 align:start position:0%
+linearly.
+So,<00:07:49.800><c> if</c><00:07:50.000><c> the</c>
+
+00:07:50.830 --> 00:07:50.840 align:start position:0%
+So, if the
+ 
+
+00:07:50.840 --> 00:07:52.270 align:start position:0%
+So, if the
+if<00:07:51.040><c> you</c><00:07:51.160><c> have</c><00:07:51.320><c> a</c><00:07:51.360><c> constant</c><00:07:51.840><c> information</c>
+
+00:07:52.270 --> 00:07:52.280 align:start position:0%
+if you have a constant information
+ 
+
+00:07:52.280 --> 00:07:53.830 align:start position:0%
+if you have a constant information
+requirement,<00:07:52.760><c> it</c><00:07:52.880><c> scales</c><00:07:53.240><c> well.</c><00:07:53.400><c> You</c><00:07:53.520><c> you</c><00:07:53.680><c> can</c>
+
+00:07:53.830 --> 00:07:53.840 align:start position:0%
+requirement, it scales well. You you can
+ 
+
+00:07:53.840 --> 00:07:55.790 align:start position:0%
+requirement, it scales well. You you can
+occupy<00:07:54.200><c> the</c><00:07:54.360><c> full</c><00:07:54.600><c> context</c><00:07:55.040><c> window</c><00:07:55.640><c> and</c>
+
+00:07:55.790 --> 00:07:55.800 align:start position:0%
+occupy the full context window and
+ 
+
+00:07:55.800 --> 00:07:58.350 align:start position:0%
+occupy the full context window and
+actually<00:07:56.160><c> get</c><00:07:56.480><c> a</c><00:07:56.760><c> a</c><00:07:56.880><c> good</c><00:07:57.120><c> answer.</c><00:07:57.720><c> However,</c>
+
+00:07:58.350 --> 00:07:58.360 align:start position:0%
+actually get a a good answer. However,
+ 
+
+00:07:58.360 --> 00:08:00.710 align:start position:0%
+actually get a a good answer. However,
+when<00:07:58.600><c> you</c><00:07:58.680><c> go</c><00:07:58.840><c> to</c><00:07:59.040><c> linear</c><00:07:59.360><c> or</c><00:07:59.520><c> quadratic,</c><00:08:00.520><c> uh</c>
+
+00:08:00.710 --> 00:08:00.720 align:start position:0%
+when you go to linear or quadratic, uh
+ 
+
+00:08:00.720 --> 00:08:03.790 align:start position:0%
+when you go to linear or quadratic, uh
+it<00:08:00.920><c> degrades</c><00:08:01.520><c> at</c><00:08:01.640><c> around</c><00:08:01.920><c> 60</c><00:08:02.240><c> to</c><00:08:02.360><c> 30%.</c>
+
+00:08:03.790 --> 00:08:03.800 align:start position:0%
+it degrades at around 60 to 30%.
+ 
+
+00:08:03.800 --> 00:08:05.750 align:start position:0%
+it degrades at around 60 to 30%.
+So,<00:08:04.000><c> recursive</c><00:08:04.640><c> language</c><00:08:05.000><c> models</c><00:08:05.280><c> solve</c><00:08:05.560><c> this</c>
+
+00:08:05.750 --> 00:08:05.760 align:start position:0%
+So, recursive language models solve this
+ 
+
+00:08:05.760 --> 00:08:08.910 align:start position:0%
+So, recursive language models solve this
+problem<00:08:06.520><c> by</c><00:08:06.680><c> actually</c><00:08:07.440><c> treating</c><00:08:07.880><c> the</c><00:08:08.240><c> context</c>
+
+00:08:08.910 --> 00:08:08.920 align:start position:0%
+problem by actually treating the context
+ 
+
+00:08:08.920 --> 00:08:11.710 align:start position:0%
+problem by actually treating the context
+as<00:08:09.120><c> a</c><00:08:09.640><c> um</c><00:08:10.000><c> environment,</c><00:08:10.880><c> rather</c><00:08:11.120><c> than</c><00:08:11.440><c> putting</c>
+
+00:08:11.710 --> 00:08:11.720 align:start position:0%
+as a um environment, rather than putting
+ 
+
+00:08:11.720 --> 00:08:14.510 align:start position:0%
+as a um environment, rather than putting
+it<00:08:11.880><c> all</c><00:08:12.080><c> into</c><00:08:12.320><c> the</c><00:08:12.400><c> prompt.</c><00:08:13.200><c> So,</c><00:08:13.840><c> in</c><00:08:14.040><c> practice,</c>
+
+00:08:14.510 --> 00:08:14.520 align:start position:0%
+it all into the prompt. So, in practice,
+ 
+
+00:08:14.520 --> 00:08:17.270 align:start position:0%
+it all into the prompt. So, in practice,
+this<00:08:14.720><c> looks</c><00:08:15.000><c> like</c><00:08:15.640><c> you</c><00:08:16.120><c> present</c><00:08:16.640><c> the</c><00:08:16.760><c> context</c>
+
+00:08:17.270 --> 00:08:17.280 align:start position:0%
+this looks like you present the context
+ 
+
+00:08:17.280 --> 00:08:18.790 align:start position:0%
+this looks like you present the context
+in<00:08:17.400><c> a</c><00:08:17.480><c> file,</c>
+
+00:08:18.790 --> 00:08:18.800 align:start position:0%
+in a file,
+ 
+
+00:08:18.800 --> 00:08:21.390 align:start position:0%
+in a file,
+and<00:08:19.000><c> then</c><00:08:19.520><c> the</c><00:08:19.960><c> a</c><00:08:20.040><c> coding</c><00:08:20.400><c> agent</c><00:08:20.880><c> interacts</c>
+
+00:08:21.390 --> 00:08:21.400 align:start position:0%
+and then the a coding agent interacts
+ 
+
+00:08:21.400 --> 00:08:23.470 align:start position:0%
+and then the a coding agent interacts
+with<00:08:21.560><c> it</c><00:08:21.720><c> programmatically</c><00:08:22.800><c> through</c><00:08:23.040><c> Python</c>
+
+00:08:23.470 --> 00:08:23.480 align:start position:0%
+with it programmatically through Python
+ 
+
+00:08:23.480 --> 00:08:25.670 align:start position:0%
+with it programmatically through Python
+REPL,<00:08:24.360><c> um</c><00:08:24.640><c> basically</c><00:08:25.080><c> doing</c><00:08:25.280><c> keyword</c>
+
+00:08:25.670 --> 00:08:25.680 align:start position:0%
+REPL, um basically doing keyword
+ 
+
+00:08:25.680 --> 00:08:29.910 align:start position:0%
+REPL, um basically doing keyword
+searches,<00:08:26.400><c> regex,</c><00:08:27.400><c> and</c><00:08:27.960><c> other</c><00:08:28.920><c> tricks</c><00:08:29.280><c> to</c>
+
+00:08:29.910 --> 00:08:29.920 align:start position:0%
+searches, regex, and other tricks to
+ 
+
+00:08:29.920 --> 00:08:32.110 align:start position:0%
+searches, regex, and other tricks to
+extract<00:08:30.560><c> sub-context,</c>
+
+00:08:32.110 --> 00:08:32.120 align:start position:0%
+extract sub-context,
+ 
+
+00:08:32.120 --> 00:08:34.110 align:start position:0%
+extract sub-context,
+and<00:08:32.320><c> this</c><00:08:32.520><c> sub-context</c><00:08:33.240><c> is</c><00:08:33.360><c> then</c><00:08:33.599><c> passed</c><00:08:33.960><c> off</c>
+
+00:08:34.110 --> 00:08:34.120 align:start position:0%
+and this sub-context is then passed off
+ 
+
+00:08:34.120 --> 00:08:37.310 align:start position:0%
+and this sub-context is then passed off
+to<00:08:34.240><c> an</c><00:08:34.440><c> identical</c><00:08:35.280><c> recursive</c><00:08:36.080><c> agent.</c>
+
+00:08:37.310 --> 00:08:37.320 align:start position:0%
+to an identical recursive agent.
+ 
+
+00:08:37.320 --> 00:08:39.230 align:start position:0%
+to an identical recursive agent.
+So,<00:08:37.960><c> this</c><00:08:38.200><c> agent</c><00:08:38.520><c> then</c><00:08:38.680><c> can</c><00:08:38.880><c> answer</c><00:08:39.120><c> the</c>
+
+00:08:39.230 --> 00:08:39.240 align:start position:0%
+So, this agent then can answer the
+ 
+
+00:08:39.240 --> 00:08:41.230 align:start position:0%
+So, this agent then can answer the
+question<00:08:39.960><c> or</c><00:08:40.240><c> spawn</c><00:08:40.520><c> another</c><00:08:40.840><c> recursive</c>
+
+00:08:41.230 --> 00:08:41.240 align:start position:0%
+question or spawn another recursive
+ 
+
+00:08:41.240 --> 00:08:42.510 align:start position:0%
+question or spawn another recursive
+agent.<00:08:41.560><c> And</c><00:08:41.760><c> and</c><00:08:41.880><c> that's</c><00:08:42.080><c> why</c><00:08:42.200><c> it's</c><00:08:42.320><c> called</c>
+
+00:08:42.510 --> 00:08:42.520 align:start position:0%
+agent. And and that's why it's called
+ 
+
+00:08:42.520 --> 00:08:45.590 align:start position:0%
+agent. And and that's why it's called
+recursive<00:08:43.440><c> uh</c><00:08:43.520><c> language</c><00:08:43.840><c> model.</c><00:08:44.120><c> So,</c><00:08:45.000><c> we</c>
+
+00:08:45.590 --> 00:08:45.600 align:start position:0%
+recursive uh language model. So, we
+ 
+
+00:08:45.600 --> 00:08:48.310 align:start position:0%
+recursive uh language model. So, we
+simply<00:08:46.080><c> extended</c><00:08:46.560><c> this</c><00:08:46.720><c> concept</c><00:08:47.600><c> um</c>
+
+00:08:48.310 --> 00:08:48.320 align:start position:0%
+simply extended this concept um
+ 
+
+00:08:48.320 --> 00:08:50.670 align:start position:0%
+simply extended this concept um
+instead<00:08:48.640><c> of</c><00:08:48.760><c> using</c><00:08:49.400><c> a</c><00:08:49.480><c> single</c><00:08:49.840><c> model</c><00:08:50.480><c> on</c><00:08:50.640><c> a</c>
+
+00:08:50.670 --> 00:08:50.680 align:start position:0%
+instead of using a single model on a
+ 
+
+00:08:50.680 --> 00:08:53.430 align:start position:0%
+instead of using a single model on a
+single<00:08:51.000><c> chip,</c><00:08:51.720><c> we</c><00:08:51.960><c> map</c><00:08:52.840><c> based</c><00:08:53.200><c> on</c><00:08:53.320><c> the</c>
+
+00:08:53.430 --> 00:08:53.440 align:start position:0%
+single chip, we map based on the
+ 
+
+00:08:53.440 --> 00:08:56.430 align:start position:0%
+single chip, we map based on the
+sub-context<00:08:54.320><c> generated</c><00:08:55.400><c> towards</c><00:08:56.040><c> different</c>
+
+00:08:56.430 --> 00:08:56.440 align:start position:0%
+sub-context generated towards different
+ 
+
+00:08:56.440 --> 00:08:59.510 align:start position:0%
+sub-context generated towards different
+chips<00:08:56.920><c> and</c><00:08:57.080><c> different</c><00:08:57.600><c> models</c><00:08:58.120><c> to</c><00:08:58.760><c> emulate</c>
+
+00:08:59.510 --> 00:08:59.520 align:start position:0%
+chips and different models to emulate
+ 
+
+00:08:59.520 --> 00:09:03.270 align:start position:0%
+chips and different models to emulate
+the<00:08:59.840><c> performance</c><00:09:00.920><c> while</c><00:09:01.400><c> drastically</c><00:09:02.560><c> um</c>
+
+00:09:03.270 --> 00:09:03.280 align:start position:0%
+the performance while drastically um
+ 
+
+00:09:03.280 --> 00:09:06.030 align:start position:0%
+the performance while drastically um
+being<00:09:03.680><c> cheaper</c><00:09:04.200><c> and</c><00:09:04.520><c> faster.</c>
+
+00:09:06.030 --> 00:09:06.040 align:start position:0%
+being cheaper and faster.
+ 
+
+00:09:06.040 --> 00:09:08.590 align:start position:0%
+being cheaper and faster.
+So,<00:09:06.760><c> here</c><00:09:06.960><c> are</c><00:09:07.040><c> results.</c><00:09:07.760><c> Um</c>
+
+00:09:08.590 --> 00:09:08.600 align:start position:0%
+So, here are results. Um
+ 
+
+00:09:08.600 --> 00:09:10.230 align:start position:0%
+So, here are results. Um
+you<00:09:08.720><c> can</c><00:09:08.880><c> see</c><00:09:09.120><c> this</c><00:09:09.360><c> is</c><00:09:09.560><c> on</c><00:09:09.720><c> the</c><00:09:09.840><c> Ulong</c>
+
+00:09:10.230 --> 00:09:10.240 align:start position:0%
+you can see this is on the Ulong
+ 
+
+00:09:10.240 --> 00:09:12.710 align:start position:0%
+you can see this is on the Ulong
+benchmark.<00:09:10.840><c> This</c><00:09:11.000><c> is</c><00:09:11.120><c> basically</c><00:09:12.280><c> um</c><00:09:12.600><c> the</c>
+
+00:09:12.710 --> 00:09:12.720 align:start position:0%
+benchmark. This is basically um the
+ 
+
+00:09:12.720 --> 00:09:15.790 align:start position:0%
+benchmark. This is basically um the
+benchmark<00:09:13.200><c> they</c><00:09:13.360><c> used</c><00:09:13.600><c> in</c><00:09:13.680><c> the</c><00:09:13.720><c> paper</c><00:09:14.720><c> um</c><00:09:15.040><c> and</c>
+
+00:09:15.790 --> 00:09:15.800 align:start position:0%
+benchmark they used in the paper um and
+ 
+
+00:09:15.800 --> 00:09:20.070 align:start position:0%
+benchmark they used in the paper um and
+GPT-5<00:09:16.840><c> GPT-5.2</c><00:09:17.920><c> was</c><00:09:18.160><c> the</c><00:09:18.920><c> um</c><00:09:19.400><c> most</c><00:09:19.640><c> recent</c><00:09:19.920><c> one</c>
+
+00:09:20.070 --> 00:09:20.080 align:start position:0%
+GPT-5 GPT-5.2 was the um most recent one
+ 
+
+00:09:20.080 --> 00:09:22.030 align:start position:0%
+GPT-5 GPT-5.2 was the um most recent one
+when<00:09:20.240><c> we</c><00:09:20.440><c> produced</c><00:09:20.800><c> this</c><00:09:20.960><c> work</c><00:09:21.640><c> uh</c><00:09:21.800><c> sits</c>
+
+00:09:22.030 --> 00:09:22.040 align:start position:0%
+when we produced this work uh sits
+ 
+
+00:09:22.040 --> 00:09:24.190 align:start position:0%
+when we produced this work uh sits
+around<00:09:22.360><c> here,</c><00:09:22.680><c> where</c><00:09:23.000><c> it</c><00:09:23.120><c> takes</c><00:09:23.400><c> around</c><00:09:23.680><c> 2,000</c>
+
+00:09:24.190 --> 00:09:24.200 align:start position:0%
+around here, where it takes around 2,000
+ 
+
+00:09:24.200 --> 00:09:26.630 align:start position:0%
+around here, where it takes around 2,000
+seconds<00:09:25.200><c> um</c><00:09:25.400><c> to</c><00:09:25.560><c> run</c><00:09:25.760><c> through</c><00:09:25.960><c> the</c><00:09:26.480><c> the</c>
+
+00:09:26.630 --> 00:09:26.640 align:start position:0%
+seconds um to run through the the
+ 
+
+00:09:26.640 --> 00:09:29.910 align:start position:0%
+seconds um to run through the the
+benchmark<00:09:27.640><c> and</c><00:09:28.120><c> it</c><00:09:28.280><c> costs</c><00:09:28.600><c> around</c><00:09:29.320><c> uh</c>
+
+00:09:29.910 --> 00:09:29.920 align:start position:0%
+benchmark and it costs around uh
+ 
+
+00:09:29.920 --> 00:09:31.670 align:start position:0%
+benchmark and it costs around uh
+$3.75
+
+00:09:31.670 --> 00:09:31.680 align:start position:0%
+$3.75
+ 
+
+00:09:31.680 --> 00:09:33.990 align:start position:0%
+$3.75
+for<00:09:32.320><c> one</c><00:09:32.480><c> task.</c>
+
+00:09:33.990 --> 00:09:34.000 align:start position:0%
+for one task.
+ 
+
+00:09:34.000 --> 00:09:37.990 align:start position:0%
+for one task.
+Our<00:09:34.240><c> system,</c><00:09:35.040><c> when</c><00:09:35.240><c> we</c><00:09:35.760><c> go</c><00:09:35.920><c> on</c><00:09:36.080><c> Cerebras,</c><00:09:37.160><c> we</c>
+
+00:09:37.990 --> 00:09:38.000 align:start position:0%
+Our system, when we go on Cerebras, we
+ 
+
+00:09:38.000 --> 00:09:40.350 align:start position:0%
+Our system, when we go on Cerebras, we
+are<00:09:38.200><c> seven</c><00:09:38.600><c> times</c><00:09:38.920><c> cheaper</c><00:09:39.640><c> and</c><00:09:39.840><c> five</c><00:09:40.080><c> times</c>
+
+00:09:40.350 --> 00:09:40.360 align:start position:0%
+are seven times cheaper and five times
+ 
+
+00:09:40.360 --> 00:09:42.230 align:start position:0%
+are seven times cheaper and five times
+faster.<00:09:41.120><c> So,</c>
+
+00:09:42.230 --> 00:09:42.240 align:start position:0%
+faster. So,
+ 
+
+00:09:42.240 --> 00:09:45.150 align:start position:0%
+faster. So,
+you<00:09:42.520><c> save</c><00:09:43.040><c> incredibly</c><00:09:43.560><c> much</c><00:09:43.840><c> time,</c><00:09:44.480><c> are</c><00:09:44.800><c> a</c><00:09:44.880><c> lot</c>
+
+00:09:45.150 --> 00:09:45.160 align:start position:0%
+you save incredibly much time, are a lot
+ 
+
+00:09:45.160 --> 00:09:47.510 align:start position:0%
+you save incredibly much time, are a lot
+cheaper,<00:09:45.720><c> so</c><00:09:46.080><c> it's</c><00:09:46.320><c> basically</c><00:09:46.800><c> like</c><00:09:47.240><c> having</c>
+
+00:09:47.510 --> 00:09:47.520 align:start position:0%
+cheaper, so it's basically like having
+ 
+
+00:09:47.520 --> 00:09:49.470 align:start position:0%
+cheaper, so it's basically like having
+your<00:09:47.800><c> cake</c><00:09:48.080><c> and</c><00:09:48.200><c> eating</c><00:09:48.440><c> it,</c><00:09:48.560><c> too.</c>
+
+00:09:49.470 --> 00:09:49.480 align:start position:0%
+your cake and eating it, too.
+ 
+
+00:09:49.480 --> 00:09:53.430 align:start position:0%
+your cake and eating it, too.
+Um<00:09:50.160><c> with</c><00:09:50.320><c> SambaNova,</c><00:09:50.880><c> we</c><00:09:51.320><c> even</c><00:09:51.640><c> get</c><00:09:52.320><c> uh</c>
+
+00:09:53.430 --> 00:09:53.440 align:start position:0%
+Um with SambaNova, we even get uh
+ 
+
+00:09:53.440 --> 00:09:55.350 align:start position:0%
+Um with SambaNova, we even get uh
+further.<00:09:53.920><c> We</c><00:09:54.040><c> push</c><00:09:54.360><c> the</c><00:09:54.480><c> price</c><00:09:54.920><c> down</c><00:09:55.160><c> even</c>
+
+00:09:55.350 --> 00:09:55.360 align:start position:0%
+further. We push the price down even
+ 
+
+00:09:55.360 --> 00:09:57.630 align:start position:0%
+further. We push the price down even
+further<00:09:55.760><c> at</c><00:09:55.880><c> the</c><00:09:55.960><c> cost</c><00:09:56.280><c> of</c><00:09:56.400><c> some</c><00:09:56.640><c> latency.</c><00:09:57.520><c> So,</c>
+
+00:09:57.630 --> 00:09:57.640 align:start position:0%
+further at the cost of some latency. So,
+ 
+
+00:09:57.640 --> 00:09:59.710 align:start position:0%
+further at the cost of some latency. So,
+we're<00:09:57.840><c> 12</c><00:09:58.120><c> times</c><00:09:58.360><c> cheaper</c><00:09:59.160><c> and</c><00:09:59.280><c> three</c><00:09:59.480><c> times</c>
+
+00:09:59.710 --> 00:09:59.720 align:start position:0%
+we're 12 times cheaper and three times
+ 
+
+00:09:59.720 --> 00:10:01.030 align:start position:0%
+we're 12 times cheaper and three times
+faster.
+
+00:10:01.030 --> 00:10:01.040 align:start position:0%
+faster.
+ 
+
+00:10:01.040 --> 00:10:03.470 align:start position:0%
+faster.
+So,<00:10:01.120><c> these</c><00:10:01.360><c> are</c><00:10:01.840><c> like</c><00:10:02.160><c> making</c>
+
+00:10:03.470 --> 00:10:03.480 align:start position:0%
+So, these are like making
+ 
+
+00:10:03.480 --> 00:10:05.350 align:start position:0%
+So, these are like making
+architectural<00:10:04.080><c> decisions</c><00:10:04.600><c> that</c><00:10:04.840><c> are</c><00:10:05.000><c> not</c>
+
+00:10:05.350 --> 00:10:05.360 align:start position:0%
+architectural decisions that are not
+ 
+
+00:10:05.360 --> 00:10:06.950 align:start position:0%
+architectural decisions that are not
+like<00:10:05.760><c> simply</c>
+
+00:10:06.950 --> 00:10:06.960 align:start position:0%
+like simply
+ 
+
+00:10:06.960 --> 00:10:09.190 align:start position:0%
+like simply
+based<00:10:07.240><c> on</c><00:10:07.320><c> the</c><00:10:07.400><c> hardware.</c><00:10:07.840><c> You</c><00:10:08.000><c> can</c><00:10:08.160><c> make</c>
+
+00:10:09.190 --> 00:10:09.200 align:start position:0%
+based on the hardware. You can make
+ 
+
+00:10:09.200 --> 00:10:11.150 align:start position:0%
+based on the hardware. You can make
+huge<00:10:09.760><c> impactful</c>
+
+00:10:11.150 --> 00:10:11.160 align:start position:0%
+huge impactful
+ 
+
+00:10:11.160 --> 00:10:14.270 align:start position:0%
+huge impactful
+um<00:10:11.640><c> price</c><00:10:11.960><c> differences</c><00:10:12.600><c> and</c><00:10:12.840><c> and</c><00:10:13.040><c> and</c><00:10:13.480><c> while</c>
+
+00:10:14.270 --> 00:10:14.280 align:start position:0%
+um price differences and and and while
+ 
+
+00:10:14.280 --> 00:10:15.790 align:start position:0%
+um price differences and and and while
+emulating<00:10:14.920><c> the</c><00:10:15.040><c> intelligence</c><00:10:15.560><c> you</c><00:10:15.640><c> would</c>
+
+00:10:15.790 --> 00:10:15.800 align:start position:0%
+emulating the intelligence you would
+ 
+
+00:10:15.800 --> 00:10:20.030 align:start position:0%
+emulating the intelligence you would
+have<00:10:16.200><c> from</c><00:10:16.560><c> frontier</c><00:10:17.120><c> models.</c>
+
+00:10:20.030 --> 00:10:20.040 align:start position:0%
+ 
+ 
+
+00:10:20.040 --> 00:10:22.150 align:start position:0%
+ 
+So,<00:10:20.160><c> the</c><00:10:20.280><c> next</c>
+
+00:10:22.150 --> 00:10:22.160 align:start position:0%
+So, the next
+ 
+
+00:10:22.160 --> 00:10:24.030 align:start position:0%
+So, the next
+problem<00:10:22.520><c> we</c><00:10:22.640><c> wanted</c><00:10:22.960><c> to</c><00:10:23.040><c> address</c><00:10:23.880><c> is</c>
+
+00:10:24.030 --> 00:10:24.040 align:start position:0%
+problem we wanted to address is
+ 
+
+00:10:24.040 --> 00:10:27.390 align:start position:0%
+problem we wanted to address is
+basically<00:10:25.200><c> um</c><00:10:25.640><c> visual</c><00:10:25.960><c> web</c><00:10:26.280><c> navigation.</c><00:10:27.240><c> So,</c>
+
+00:10:27.390 --> 00:10:27.400 align:start position:0%
+basically um visual web navigation. So,
+ 
+
+00:10:27.400 --> 00:10:30.110 align:start position:0%
+basically um visual web navigation. So,
+we<00:10:27.560><c> used</c><00:10:28.040><c> a</c><00:10:28.120><c> mixture</c><00:10:28.560><c> of</c><00:10:28.760><c> open</c><00:10:29.200><c> and</c><00:10:29.320><c> closed</c><00:10:30.000><c> uh</c>
+
+00:10:30.110 --> 00:10:30.120 align:start position:0%
+we used a mixture of open and closed uh
+ 
+
+00:10:30.120 --> 00:10:33.310 align:start position:0%
+we used a mixture of open and closed uh
+video<00:10:30.400><c> action</c><00:10:30.720><c> language</c><00:10:31.080><c> models.</c><00:10:32.000><c> Um</c><00:10:32.560><c> and</c><00:10:32.920><c> we</c>
+
+00:10:33.310 --> 00:10:33.320 align:start position:0%
+video action language models. Um and we
+ 
+
+00:10:33.320 --> 00:10:34.990 align:start position:0%
+video action language models. Um and we
+managed<00:10:33.720><c> to</c><00:10:33.840><c> beat</c>
+
+00:10:34.990 --> 00:10:35.000 align:start position:0%
+managed to beat
+ 
+
+00:10:35.000 --> 00:10:37.070 align:start position:0%
+managed to beat
+uh<00:10:35.080><c> the</c><00:10:35.400><c> state-of-the-art</c><00:10:36.280><c> of</c><00:10:36.520><c> video</c><00:10:36.840><c> web</c>
+
+00:10:37.070 --> 00:10:37.080 align:start position:0%
+uh the state-of-the-art of video web
+ 
+
+00:10:37.080 --> 00:10:38.070 align:start position:0%
+uh the state-of-the-art of video web
+arena
+
+00:10:38.070 --> 00:10:38.080 align:start position:0%
+arena
+ 
+
+00:10:38.080 --> 00:10:42.990 align:start position:0%
+arena
+beating<00:10:38.480><c> GPT</c><00:10:39.040><c> 5.2</c><00:10:40.240><c> and</c><00:10:40.400><c> Gemini</c><00:10:41.560><c> uh</c><00:10:41.720><c> 2.5</c><00:10:42.400><c> by</c><00:10:42.600><c> 18</c>
+
+00:10:42.990 --> 00:10:43.000 align:start position:0%
+beating GPT 5.2 and Gemini uh 2.5 by 18
+ 
+
+00:10:43.000 --> 00:10:45.790 align:start position:0%
+beating GPT 5.2 and Gemini uh 2.5 by 18
+and<00:10:43.120><c> 25%</c><00:10:44.200><c> respectively.</c>
+
+00:10:45.790 --> 00:10:45.800 align:start position:0%
+and 25% respectively.
+ 
+
+00:10:45.800 --> 00:10:46.830 align:start position:0%
+and 25% respectively.
+And
+
+00:10:46.830 --> 00:10:46.840 align:start position:0%
+And
+ 
+
+00:10:46.840 --> 00:10:49.790 align:start position:0%
+And
+not<00:10:47.160><c> only</c><00:10:47.400><c> this,</c><00:10:48.280><c> the</c><00:10:48.400><c> way</c><00:10:48.600><c> we</c><00:10:48.760><c> did</c><00:10:48.960><c> it</c><00:10:49.440><c> is</c>
+
+00:10:49.790 --> 00:10:49.800 align:start position:0%
+not only this, the way we did it is
+ 
+
+00:10:49.800 --> 00:10:52.110 align:start position:0%
+not only this, the way we did it is
+instead<00:10:50.240><c> of</c><00:10:50.640><c> treating</c><00:10:51.040><c> the</c><00:10:51.160><c> problem</c><00:10:51.680><c> as</c><00:10:51.880><c> a</c>
+
+00:10:52.110 --> 00:10:52.120 align:start position:0%
+instead of treating the problem as a
+ 
+
+00:10:52.120 --> 00:10:55.230 align:start position:0%
+instead of treating the problem as a
+homogeneous<00:10:52.760><c> one,</c><00:10:53.280><c> we</c><00:10:54.120><c> we</c><00:10:54.400><c> acknowledge</c><00:10:55.040><c> that</c>
+
+00:10:55.230 --> 00:10:55.240 align:start position:0%
+homogeneous one, we we acknowledge that
+ 
+
+00:10:55.240 --> 00:10:58.550 align:start position:0%
+homogeneous one, we we acknowledge that
+the<00:10:56.000><c> problem</c><00:10:56.440><c> is</c><00:10:56.640><c> heterogeneous</c><00:10:57.960><c> uh</c>
+
+00:10:58.550 --> 00:10:58.560 align:start position:0%
+the problem is heterogeneous uh
+ 
+
+00:10:58.560 --> 00:11:00.829 align:start position:0%
+the problem is heterogeneous uh
+it<00:10:58.880><c> itself.</c><00:10:59.520><c> It</c><00:10:59.720><c> it</c><00:10:59.839><c> decomposes</c><00:11:00.600><c> into</c>
+
+00:11:00.829 --> 00:11:00.839 align:start position:0%
+it itself. It it decomposes into
+ 
+
+00:11:00.839 --> 00:11:04.070 align:start position:0%
+it itself. It it decomposes into
+multiple<00:11:01.280><c> steps</c><00:11:01.720><c> of</c><00:11:02.240><c> visual</c><00:11:03.080><c> reasoning</c><00:11:03.680><c> of</c><00:11:03.880><c> of</c>
+
+00:11:04.070 --> 00:11:04.080 align:start position:0%
+multiple steps of visual reasoning of of
+ 
+
+00:11:04.080 --> 00:11:06.070 align:start position:0%
+multiple steps of visual reasoning of of
+textual<00:11:04.600><c> reasoning</c><00:11:05.280><c> and</c><00:11:05.560><c> each</c><00:11:05.760><c> of</c><00:11:05.880><c> these</c>
+
+00:11:06.070 --> 00:11:06.080 align:start position:0%
+textual reasoning and each of these
+ 
+
+00:11:06.080 --> 00:11:08.670 align:start position:0%
+textual reasoning and each of these
+subcomponents<00:11:07.240><c> requires</c><00:11:07.920><c> different</c><00:11:08.360><c> models</c>
+
+00:11:08.670 --> 00:11:08.680 align:start position:0%
+subcomponents requires different models
+ 
+
+00:11:08.680 --> 00:11:09.630 align:start position:0%
+subcomponents requires different models
+to<00:11:08.800><c> be</c>
+
+00:11:09.630 --> 00:11:09.640 align:start position:0%
+to be
+ 
+
+00:11:09.640 --> 00:11:10.550 align:start position:0%
+to be
+um
+
+00:11:10.550 --> 00:11:10.560 align:start position:0%
+um
+ 
+
+00:11:10.560 --> 00:11:12.350 align:start position:0%
+um
+completed<00:11:11.080><c> successfully.</c>
+
+00:11:12.350 --> 00:11:12.360 align:start position:0%
+completed successfully.
+ 
+
+00:11:12.360 --> 00:11:14.910 align:start position:0%
+completed successfully.
+So,<00:11:12.520><c> here</c><00:11:13.200><c> you</c><00:11:13.360><c> see</c><00:11:13.720><c> a</c><00:11:13.800><c> fundamental</c><00:11:14.440><c> shift</c><00:11:14.800><c> of</c>
+
+00:11:14.910 --> 00:11:14.920 align:start position:0%
+So, here you see a fundamental shift of
+ 
+
+00:11:14.920 --> 00:11:17.350 align:start position:0%
+So, here you see a fundamental shift of
+the<00:11:15.080><c> Pareto</c><00:11:15.560><c> frontier</c><00:11:16.640><c> where</c><00:11:17.040><c> you</c><00:11:17.160><c> see</c>
+
+00:11:17.350 --> 00:11:17.360 align:start position:0%
+the Pareto frontier where you see
+ 
+
+00:11:17.360 --> 00:11:20.790 align:start position:0%
+the Pareto frontier where you see
+singular<00:11:17.880><c> models</c><00:11:18.400><c> like</c><00:11:18.720><c> Kimik</c><00:11:19.120><c> A</c><00:11:19.839><c> uh</c><00:11:20.000><c> 2.5</c><00:11:20.680><c> and</c>
+
+00:11:20.790 --> 00:11:20.800 align:start position:0%
+singular models like Kimik A uh 2.5 and
+ 
+
+00:11:20.800 --> 00:11:23.190 align:start position:0%
+singular models like Kimik A uh 2.5 and
+GPT<00:11:21.240><c> 5.2</c>
+
+00:11:23.190 --> 00:11:23.200 align:start position:0%
+GPT 5.2
+ 
+
+00:11:23.200 --> 00:11:25.750 align:start position:0%
+GPT 5.2
+are<00:11:23.600><c> outperformed</c><00:11:24.640><c> by</c><00:11:24.839><c> mixture,</c><00:11:25.680><c> a</c>
+
+00:11:25.750 --> 00:11:25.760 align:start position:0%
+are outperformed by mixture, a
+ 
+
+00:11:25.760 --> 00:11:28.950 align:start position:0%
+are outperformed by mixture, a
+heterogeneous<00:11:26.640><c> set</c><00:11:27.160><c> of</c><00:11:27.440><c> of</c><00:11:27.640><c> models.</c><00:11:28.440><c> So,</c><00:11:28.760><c> when</c>
+
+00:11:28.950 --> 00:11:28.960 align:start position:0%
+heterogeneous set of of models. So, when
+ 
+
+00:11:28.960 --> 00:11:32.790 align:start position:0%
+heterogeneous set of of models. So, when
+we<00:11:29.080><c> use</c><00:11:29.560><c> Quant</c><00:11:29.839><c> 3</c><00:11:30.520><c> VL8B-Instruct</c><00:11:31.839><c> and</c><00:11:31.960><c> Kimik</c><00:11:32.360><c> A</c>
+
+00:11:32.790 --> 00:11:32.800 align:start position:0%
+we use Quant 3 VL8B-Instruct and Kimik A
+ 
+
+00:11:32.800 --> 00:11:37.070 align:start position:0%
+we use Quant 3 VL8B-Instruct and Kimik A
+2.5,<00:11:33.800><c> we're</c><00:11:33.960><c> 1.3</c><00:11:35.280><c> times</c><00:11:35.600><c> faster</c><00:11:36.080><c> than</c><00:11:36.760><c> using</c>
+
+00:11:37.070 --> 00:11:37.080 align:start position:0%
+2.5, we're 1.3 times faster than using
+ 
+
+00:11:37.080 --> 00:11:38.030 align:start position:0%
+2.5, we're 1.3 times faster than using
+Kimi
+
+00:11:38.030 --> 00:11:38.040 align:start position:0%
+Kimi
+ 
+
+00:11:38.040 --> 00:11:39.630 align:start position:0%
+Kimi
+Kimi<00:11:38.520><c> alone.</c>
+
+00:11:39.630 --> 00:11:39.640 align:start position:0%
+Kimi alone.
+ 
+
+00:11:39.640 --> 00:11:42.910 align:start position:0%
+Kimi alone.
+We're<00:11:39.839><c> 18</c><00:11:40.120><c> times</c><00:11:40.400><c> cheaper</c><00:11:41.240><c> than</c><00:11:41.480><c> using</c><00:11:42.360><c> uh</c><00:11:42.520><c> GPT</c>
+
+00:11:42.910 --> 00:11:42.920 align:start position:0%
+We're 18 times cheaper than using uh GPT
+ 
+
+00:11:42.920 --> 00:11:47.510 align:start position:0%
+We're 18 times cheaper than using uh GPT
+5.2<00:11:43.560><c> alone.</c><00:11:44.520><c> Um</c><00:11:44.800><c> and</c><00:11:44.960><c> if</c><00:11:45.160><c> we</c><00:11:45.320><c> use</c><00:11:45.880><c> uh</c><00:11:46.120><c> Quant</c><00:11:46.680><c> 3</c>
+
+00:11:47.510 --> 00:11:47.520 align:start position:0%
+5.2 alone. Um and if we use uh Quant 3
+ 
+
+00:11:47.520 --> 00:11:50.070 align:start position:0%
+5.2 alone. Um and if we use uh Quant 3
+um<00:11:47.720><c> plus</c><00:11:48.000><c> GPT,</c><00:11:48.960><c> we're</c><00:11:49.120><c> actually</c><00:11:49.440><c> three</c><00:11:49.760><c> times</c>
+
+00:11:50.070 --> 00:11:50.080 align:start position:0%
+um plus GPT, we're actually three times
+ 
+
+00:11:50.080 --> 00:11:52.910 align:start position:0%
+um plus GPT, we're actually three times
+faster<00:11:50.680><c> and</c><00:11:50.800><c> 3.7</c><00:11:51.440><c> times</c><00:11:51.680><c> cheaper.</c>
+
+00:11:52.910 --> 00:11:52.920 align:start position:0%
+faster and 3.7 times cheaper.
+ 
+
+00:11:52.920 --> 00:11:54.630 align:start position:0%
+faster and 3.7 times cheaper.
+So,<00:11:53.040><c> this</c><00:11:53.280><c> is</c><00:11:53.560><c> only</c><00:11:53.800><c> benefit.</c><00:11:54.200><c> There's</c><00:11:54.440><c> no</c>
+
+00:11:54.630 --> 00:11:54.640 align:start position:0%
+So, this is only benefit. There's no
+ 
+
+00:11:54.640 --> 00:11:55.910 align:start position:0%
+So, this is only benefit. There's no
+downside
+
+00:11:55.910 --> 00:11:55.920 align:start position:0%
+downside
+ 
+
+00:11:55.920 --> 00:11:57.750 align:start position:0%
+downside
+uh<00:11:56.000><c> in</c><00:11:56.320><c> in</c><00:11:56.839><c> constructing</c><00:11:57.400><c> this</c><00:11:57.600><c> in</c><00:11:57.720><c> a</c>
+
+00:11:57.750 --> 00:11:57.760 align:start position:0%
+uh in in constructing this in a
+ 
+
+00:11:57.760 --> 00:11:59.590 align:start position:0%
+uh in in constructing this in a
+heterogeneous<00:11:58.360><c> manner.</c>
+
+00:11:59.590 --> 00:11:59.600 align:start position:0%
+heterogeneous manner.
+ 
+
+00:11:59.600 --> 00:12:03.270 align:start position:0%
+heterogeneous manner.
+So,<00:12:00.480><c> one</c><00:12:00.839><c> part</c><00:12:01.120><c> of</c><00:12:01.760><c> of</c><00:12:02.000><c> our</c><00:12:02.600><c> differentiating</c>
+
+00:12:03.270 --> 00:12:03.280 align:start position:0%
+So, one part of of our differentiating
+ 
+
+00:12:03.280 --> 00:12:05.550 align:start position:0%
+So, one part of of our differentiating
+factor,<00:12:03.600><c> why</c><00:12:03.800><c> how</c><00:12:04.040><c> we</c><00:12:04.160><c> were</c><00:12:04.360><c> able</c><00:12:04.640><c> to</c><00:12:05.200><c> beat</c><00:12:05.480><c> the</c>
+
+00:12:05.550 --> 00:12:05.560 align:start position:0%
+factor, why how we were able to beat the
+ 
+
+00:12:05.560 --> 00:12:07.510 align:start position:0%
+factor, why how we were able to beat the
+state-of-the-art,<00:12:06.560><c> is</c>
+
+00:12:07.510 --> 00:12:07.520 align:start position:0%
+state-of-the-art, is
+ 
+
+00:12:07.520 --> 00:12:09.790 align:start position:0%
+state-of-the-art, is
+that<00:12:07.720><c> we</c><00:12:07.839><c> mapped</c><00:12:08.320><c> certain</c><00:12:08.680><c> subtasks</c><00:12:09.560><c> like</c>
+
+00:12:09.790 --> 00:12:09.800 align:start position:0%
+that we mapped certain subtasks like
+ 
+
+00:12:09.800 --> 00:12:11.630 align:start position:0%
+that we mapped certain subtasks like
+zooming<00:12:10.280><c> and</c><00:12:10.480><c> and</c><00:12:10.600><c> creating</c><00:12:11.040><c> a</c><00:12:11.080><c> different</c>
+
+00:12:11.630 --> 00:12:11.640 align:start position:0%
+zooming and and creating a different
+ 
+
+00:12:11.640 --> 00:12:12.750 align:start position:0%
+zooming and and creating a different
+visual
+
+00:12:12.750 --> 00:12:12.760 align:start position:0%
+visual
+ 
+
+00:12:12.760 --> 00:12:15.350 align:start position:0%
+visual
+um<00:12:13.080><c> reasoning</c><00:12:13.920><c> for</c><00:12:14.080><c> the</c><00:12:14.240><c> agent,</c><00:12:14.680><c> we</c><00:12:14.839><c> offloaded</c>
+
+00:12:15.350 --> 00:12:15.360 align:start position:0%
+um reasoning for the agent, we offloaded
+ 
+
+00:12:15.360 --> 00:12:17.070 align:start position:0%
+um reasoning for the agent, we offloaded
+that<00:12:15.600><c> into</c><00:12:16.080><c> less</c><00:12:16.320><c> intelligent</c><00:12:16.800><c> models</c>
+
+00:12:17.070 --> 00:12:17.080 align:start position:0%
+that into less intelligent models
+ 
+
+00:12:17.080 --> 00:12:19.910 align:start position:0%
+that into less intelligent models
+because<00:12:17.720><c> you</c><00:12:17.839><c> don't</c><00:12:18.080><c> need</c><00:12:18.520><c> GPT</c><00:12:19.240><c> to</c><00:12:19.400><c> zoom</c><00:12:19.720><c> for</c>
+
+00:12:19.910 --> 00:12:19.920 align:start position:0%
+because you don't need GPT to zoom for
+ 
+
+00:12:19.920 --> 00:12:20.950 align:start position:0%
+because you don't need GPT to zoom for
+you.
+
+00:12:20.950 --> 00:12:20.960 align:start position:0%
+you.
+ 
+
+00:12:20.960 --> 00:12:22.190 align:start position:0%
+you.
+So,
+
+00:12:22.190 --> 00:12:22.200 align:start position:0%
+So,
+ 
+
+00:12:22.200 --> 00:12:24.270 align:start position:0%
+So,
+alone<00:12:22.560><c> on</c><00:12:22.680><c> these</c><00:12:22.839><c> subtasks,</c><00:12:23.760><c> we're</c><00:12:23.920><c> able</c><00:12:24.160><c> to</c>
+
+00:12:24.270 --> 00:12:24.280 align:start position:0%
+alone on these subtasks, we're able to
+ 
+
+00:12:24.280 --> 00:12:27.670 align:start position:0%
+alone on these subtasks, we're able to
+be<00:12:24.720><c> 11</c><00:12:25.040><c> times</c><00:12:25.320><c> faster</c><00:12:25.839><c> and</c><00:12:26.000><c> 43</c><00:12:26.680><c> times</c><00:12:26.960><c> cheaper</c>
+
+00:12:27.670 --> 00:12:27.680 align:start position:0%
+be 11 times faster and 43 times cheaper
+ 
+
+00:12:27.680 --> 00:12:30.350 align:start position:0%
+be 11 times faster and 43 times cheaper
+than<00:12:27.880><c> using</c><00:12:28.440><c> ChatGPT.</c><00:12:29.160><c> And</c><00:12:29.320><c> so,</c><00:12:29.480><c> this</c><00:12:29.880><c> is</c><00:12:30.120><c> what</c>
+
+00:12:30.350 --> 00:12:30.360 align:start position:0%
+than using ChatGPT. And so, this is what
+ 
+
+00:12:30.360 --> 00:12:32.790 align:start position:0%
+than using ChatGPT. And so, this is what
+overall<00:12:31.080><c> overall</c><00:12:31.640><c> accumulates</c><00:12:32.320><c> towards</c>
+
+00:12:32.790 --> 00:12:32.800 align:start position:0%
+overall overall accumulates towards
+ 
+
+00:12:32.800 --> 00:12:35.310 align:start position:0%
+overall overall accumulates towards
+these<00:12:33.320><c> 3.7</c><00:12:34.000><c> times</c><00:12:34.280><c> cheaper</c><00:12:34.720><c> and</c><00:12:34.839><c> three</c><00:12:35.040><c> times</c>
+
+00:12:35.310 --> 00:12:35.320 align:start position:0%
+these 3.7 times cheaper and three times
+ 
+
+00:12:35.320 --> 00:12:38.550 align:start position:0%
+these 3.7 times cheaper and three times
+faster.
+
+00:12:38.550 --> 00:12:38.560 align:start position:0%
+ 
+ 
+
+00:12:38.560 --> 00:12:39.710 align:start position:0%
+ 
+So,
+
+00:12:39.710 --> 00:12:39.720 align:start position:0%
+So,
+ 
+
+00:12:39.720 --> 00:12:41.390 align:start position:0%
+So,
+looking<00:12:40.040><c> ahead,</c>
+
+00:12:41.390 --> 00:12:41.400 align:start position:0%
+looking ahead,
+ 
+
+00:12:41.400 --> 00:12:44.150 align:start position:0%
+looking ahead,
+how<00:12:41.640><c> do</c><00:12:41.760><c> we</c><00:12:42.200><c> view</c><00:12:42.440><c> the</c><00:12:42.560><c> future</c><00:12:42.960><c> of</c><00:12:43.080><c> compute?</c>
+
+00:12:44.150 --> 00:12:44.160 align:start position:0%
+how do we view the future of compute?
+ 
+
+00:12:44.160 --> 00:12:47.070 align:start position:0%
+how do we view the future of compute?
+The<00:12:44.280><c> first</c><00:12:44.680><c> era</c><00:12:45.440><c> of</c><00:12:45.600><c> scaling</c><00:12:45.960><c> compute</c><00:12:46.480><c> was</c>
+
+00:12:47.070 --> 00:12:47.080 align:start position:0%
+The first era of scaling compute was
+ 
+
+00:12:47.080 --> 00:12:49.710 align:start position:0%
+The first era of scaling compute was
+dominated<00:12:47.640><c> by</c><00:12:47.760><c> the</c><00:12:47.880><c> CPU</c><00:12:48.720><c> where</c><00:12:48.920><c> compute</c><00:12:49.480><c> got</c>
+
+00:12:49.710 --> 00:12:49.720 align:start position:0%
+dominated by the CPU where compute got
+ 
+
+00:12:49.720 --> 00:12:51.110 align:start position:0%
+dominated by the CPU where compute got
+quicker.
+
+00:12:51.110 --> 00:12:51.120 align:start position:0%
+quicker.
+ 
+
+00:12:51.120 --> 00:12:53.310 align:start position:0%
+quicker.
+The<00:12:51.280><c> second</c><00:12:51.640><c> era</c><00:12:52.320><c> was</c><00:12:52.480><c> making</c><00:12:52.880><c> compute</c>
+
+00:12:53.310 --> 00:12:53.320 align:start position:0%
+The second era was making compute
+ 
+
+00:12:53.320 --> 00:12:55.670 align:start position:0%
+The second era was making compute
+massively<00:12:53.880><c> parallel.</c><00:12:54.520><c> This</c><00:12:54.720><c> is</c><00:12:54.839><c> dominated</c><00:12:55.360><c> by</c>
+
+00:12:55.670 --> 00:12:55.680 align:start position:0%
+massively parallel. This is dominated by
+ 
+
+00:12:55.680 --> 00:12:59.510 align:start position:0%
+massively parallel. This is dominated by
+Nvidia.<00:12:56.640><c> And</c><00:12:56.800><c> the</c><00:12:56.880><c> third</c><00:12:57.240><c> paradigm,</c>
+
+00:12:59.510 --> 00:12:59.520 align:start position:0%
+Nvidia. And the third paradigm,
+ 
+
+00:12:59.520 --> 00:13:02.110 align:start position:0%
+Nvidia. And the third paradigm,
+compute<00:13:00.040><c> is</c><00:13:00.160><c> going</c><00:13:00.320><c> to</c><00:13:00.400><c> become</c><00:13:00.920><c> heterogeneous</c>
+
+00:13:02.110 --> 00:13:02.120 align:start position:0%
+compute is going to become heterogeneous
+ 
+
+00:13:02.120 --> 00:13:05.950 align:start position:0%
+compute is going to become heterogeneous
+mapping<00:13:02.600><c> onto</c><00:13:02.960><c> multi-agentic</c><00:13:04.360><c> workloads</c><00:13:05.120><c> and</c>
+
+00:13:05.950 --> 00:13:05.960 align:start position:0%
+mapping onto multi-agentic workloads and
+ 
+
+00:13:05.960 --> 00:13:07.230 align:start position:0%
+mapping onto multi-agentic workloads and
+optimally
+
+00:13:07.230 --> 00:13:07.240 align:start position:0%
+optimally
+ 
+
+00:13:07.240 --> 00:13:08.990 align:start position:0%
+optimally
+um<00:13:07.600><c> mapping</c><00:13:08.000><c> these</c><00:13:08.240><c> workloads</c><00:13:08.720><c> onto</c>
+
+00:13:08.990 --> 00:13:09.000 align:start position:0%
+um mapping these workloads onto
+ 
+
+00:13:09.000 --> 00:13:10.670 align:start position:0%
+um mapping these workloads onto
+different<00:13:09.320><c> chips.</c>
+
+00:13:10.670 --> 00:13:10.680 align:start position:0%
+different chips.
+ 
+
+00:13:10.680 --> 00:13:12.510 align:start position:0%
+different chips.
+We<00:13:11.240><c> are</c><00:13:11.400><c> actually</c>
+
+00:13:12.510 --> 00:13:12.520 align:start position:0%
+We are actually
+ 
+
+00:13:12.520 --> 00:13:16.030 align:start position:0%
+We are actually
+um<00:13:12.720><c> working</c><00:13:13.200><c> with</c><00:13:13.440><c> Aria,</c><00:13:14.040><c> the</c><00:13:14.160><c> UK</c><00:13:14.680><c> Institute.</c>
+
+00:13:16.030 --> 00:13:16.040 align:start position:0%
+um working with Aria, the UK Institute.
+ 
+
+00:13:16.040 --> 00:13:17.910 align:start position:0%
+um working with Aria, the UK Institute.
+Um<00:13:16.240><c> we</c><00:13:16.360><c> got</c><00:13:16.520><c> a</c><00:13:16.600><c> 3</c><00:13:16.839><c> million</c><00:13:17.160><c> grant</c><00:13:17.640><c> for</c><00:13:17.800><c> the</c>
+
+00:13:17.910 --> 00:13:17.920 align:start position:0%
+Um we got a 3 million grant for the
+ 
+
+00:13:17.920 --> 00:13:20.190 align:start position:0%
+Um we got a 3 million grant for the
+first<00:13:18.880><c> for</c><00:13:19.080><c> operating</c><00:13:19.560><c> the</c><00:13:19.680><c> first</c>
+
+00:13:20.190 --> 00:13:20.200 align:start position:0%
+first for operating the first
+ 
+
+00:13:20.200 --> 00:13:22.510 align:start position:0%
+first for operating the first
+heterogeneous<00:13:20.920><c> collocated</c><00:13:21.560><c> cluster</c><00:13:22.320><c> in</c><00:13:22.440><c> the</c>
+
+00:13:22.510 --> 00:13:22.520 align:start position:0%
+heterogeneous collocated cluster in the
+ 
+
+00:13:22.520 --> 00:13:24.430 align:start position:0%
+heterogeneous collocated cluster in the
+UK.<00:13:23.320><c> So,</c><00:13:23.520><c> we</c><00:13:23.720><c> really</c><00:13:24.000><c> want</c><00:13:24.160><c> to</c><00:13:24.240><c> make</c><00:13:24.400><c> a</c>
+
+00:13:24.430 --> 00:13:24.440 align:start position:0%
+UK. So, we really want to make a
+ 
+
+00:13:24.440 --> 00:13:27.430 align:start position:0%
+UK. So, we really want to make a
+difference<00:13:25.000><c> and</c><00:13:25.240><c> and</c><00:13:25.839><c> spearhead</c><00:13:26.560><c> this</c><00:13:26.800><c> new</c>
+
+00:13:27.430 --> 00:13:27.440 align:start position:0%
+difference and and spearhead this new
+ 
+
+00:13:27.440 --> 00:13:30.990 align:start position:0%
+difference and and spearhead this new
+era<00:13:27.720><c> of</c><00:13:27.880><c> innovation.</c>
+
+00:13:30.990 --> 00:13:31.000 align:start position:0%
+ 
+ 
+
+00:13:31.000 --> 00:13:32.470 align:start position:0%
+ 
+So,
+
+00:13:32.470 --> 00:13:32.480 align:start position:0%
+So,
+ 
+
+00:13:32.480 --> 00:13:35.350 align:start position:0%
+So,
+the<00:13:32.640><c> era</c><00:13:32.880><c> of</c><00:13:33.520><c> homogeneous</c><00:13:34.360><c> scaled</c><00:13:34.800><c> delivered</c>
+
+00:13:35.350 --> 00:13:35.360 align:start position:0%
+the era of homogeneous scaled delivered
+ 
+
+00:13:35.360 --> 00:13:37.150 align:start position:0%
+the era of homogeneous scaled delivered
+extraordinary<00:13:36.040><c> progress.</c><00:13:36.800><c> We</c><00:13:36.880><c> should</c><00:13:37.040><c> be</c>
+
+00:13:37.150 --> 00:13:37.160 align:start position:0%
+extraordinary progress. We should be
+ 
+
+00:13:37.160 --> 00:13:39.150 align:start position:0%
+extraordinary progress. We should be
+grateful<00:13:37.600><c> for</c><00:13:37.800><c> it.</c><00:13:38.240><c> What</c><00:13:38.440><c> comes</c><00:13:38.680><c> next</c><00:13:39.040><c> is</c>
+
+00:13:39.150 --> 00:13:39.160 align:start position:0%
+grateful for it. What comes next is
+ 
+
+00:13:39.160 --> 00:13:41.190 align:start position:0%
+grateful for it. What comes next is
+heterogeneous<00:13:39.800><c> intelligence</c><00:13:40.560><c> where</c><00:13:40.680><c> models,</c>
+
+00:13:41.190 --> 00:13:41.200 align:start position:0%
+heterogeneous intelligence where models,
+ 
+
+00:13:41.200 --> 00:13:43.790 align:start position:0%
+heterogeneous intelligence where models,
+workflows,<00:13:41.920><c> and</c><00:13:42.080><c> silicon</c><00:13:42.920><c> co-evolve</c><00:13:43.600><c> and</c>
+
+00:13:43.790 --> 00:13:43.800 align:start position:0%
+workflows, and silicon co-evolve and
+ 
+
+00:13:43.800 --> 00:13:45.829 align:start position:0%
+workflows, and silicon co-evolve and
+every<00:13:44.040><c> new</c><00:13:44.240><c> source</c><00:13:44.600><c> of</c><00:13:44.720><c> diversity</c><00:13:45.360><c> makes</c><00:13:45.760><c> the</c>
+
+00:13:45.829 --> 00:13:45.839 align:start position:0%
+every new source of diversity makes the
+ 
+
+00:13:45.839 --> 00:13:47.670 align:start position:0%
+every new source of diversity makes the
+whole<00:13:46.080><c> system</c><00:13:46.440><c> smarter,</c><00:13:47.160><c> faster,</c><00:13:47.560><c> and</c>
+
+00:13:47.670 --> 00:13:47.680 align:start position:0%
+whole system smarter, faster, and
+ 
+
+00:13:47.680 --> 00:13:49.630 align:start position:0%
+whole system smarter, faster, and
+cheaper.<00:13:48.600><c> This</c><00:13:48.720><c> is</c><00:13:48.839><c> the</c><00:13:48.960><c> worst</c><00:13:49.520><c> our</c>
+
+00:13:49.630 --> 00:13:49.640 align:start position:0%
+cheaper. This is the worst our
+ 
+
+00:13:49.640 --> 00:14:01.670 align:start position:0%
+cheaper. This is the worst our
+infrastructure<00:13:50.600><c> will</c><00:13:50.760><c> ever</c><00:13:51.000><c> be.</c><00:13:51.800><c> Thank</c><00:13:52.040><c> you.</c>
+
+00:14:01.670 --> 00:14:01.680 align:start position:0%
+ 
+ 
+
+00:14:01.680 --> 00:14:04.829 align:start position:0%
+ 
+How<00:14:02.040><c> do</c><00:14:02.200><c> you</c><00:14:02.320><c> define</c><00:14:02.880><c> which</c><00:14:03.160><c> task</c><00:14:03.720><c> to</c><00:14:04.040><c> run</c><00:14:04.480><c> on</c>
+
+00:14:04.829 --> 00:14:04.839 align:start position:0%
+How do you define which task to run on
+ 
+
+00:14:04.839 --> 00:14:05.870 align:start position:0%
+How do you define which task to run on
+the
+
+00:14:05.870 --> 00:14:05.880 align:start position:0%
+the
+ 
+
+00:14:05.880 --> 00:14:08.390 align:start position:0%
+the
+faster<00:14:06.920><c> uh</c><00:14:07.000><c> cheaper</c><00:14:07.320><c> model?</c><00:14:08.120><c> Like</c><00:14:08.280><c> for</c>
+
+00:14:08.390 --> 00:14:08.400 align:start position:0%
+faster uh cheaper model? Like for
+ 
+
+00:14:08.400 --> 00:14:09.630 align:start position:0%
+faster uh cheaper model? Like for
+instance,<00:14:08.720><c> is</c><00:14:08.800><c> zooming</c><00:14:09.080><c> that</c><00:14:09.240><c> something</c>
+
+00:14:09.630 --> 00:14:09.640 align:start position:0%
+instance, is zooming that something
+ 
+
+00:14:09.640 --> 00:14:11.790 align:start position:0%
+instance, is zooming that something
+that's<00:14:10.400><c> hardcoded</c><00:14:10.960><c> like</c><00:14:11.160><c> oh,</c><00:14:11.280><c> if</c><00:14:11.400><c> you</c><00:14:11.480><c> have</c><00:14:11.680><c> to</c>
+
+00:14:11.790 --> 00:14:11.800 align:start position:0%
+that's hardcoded like oh, if you have to
+ 
+
+00:14:11.800 --> 00:14:14.350 align:start position:0%
+that's hardcoded like oh, if you have to
+zoom,<00:14:12.120><c> use</c><00:14:12.320><c> this</c><00:14:12.400><c> model</c><00:14:13.160><c> or</c><00:14:13.680><c> if</c><00:14:13.760><c> you</c><00:14:13.880><c> have</c><00:14:14.120><c> like</c>
+
+00:14:14.350 --> 00:14:14.360 align:start position:0%
+zoom, use this model or if you have like
+ 
+
+00:14:14.360 --> 00:14:15.870 align:start position:0%
+zoom, use this model or if you have like
+the<00:14:14.480><c> smarter</c><00:14:14.920><c> model,</c><00:14:15.400><c> use</c><00:14:15.480><c> that</c><00:14:15.640><c> type</c><00:14:15.800><c> of</c>
+
+00:14:15.870 --> 00:14:15.880 align:start position:0%
+the smarter model, use that type of
+ 
+
+00:14:15.880 --> 00:14:17.110 align:start position:0%
+the smarter model, use that type of
+model?
+
+00:14:17.110 --> 00:14:17.120 align:start position:0%
+model?
+ 
+
+00:14:17.120 --> 00:14:19.590 align:start position:0%
+model?
+So,<00:14:17.760><c> it</c><00:14:17.959><c> is</c><00:14:18.520><c> um</c>
+
+00:14:19.590 --> 00:14:19.600 align:start position:0%
+So, it is um
+ 
+
+00:14:19.600 --> 00:14:21.670 align:start position:0%
+So, it is um
+initially<00:14:20.000><c> we</c><00:14:20.120><c> started</c><00:14:20.600><c> doing</c><00:14:21.200><c> bespoke</c>
+
+00:14:21.670 --> 00:14:21.680 align:start position:0%
+initially we started doing bespoke
+ 
+
+00:14:21.680 --> 00:14:25.150 align:start position:0%
+initially we started doing bespoke
+decisions<00:14:22.320><c> on</c><00:14:22.480><c> mapping</c><00:14:23.560><c> uh</c><00:14:23.720><c> certain</c><00:14:24.760><c> simple</c>
+
+00:14:25.150 --> 00:14:25.160 align:start position:0%
+decisions on mapping uh certain simple
+ 
+
+00:14:25.160 --> 00:14:27.949 align:start position:0%
+decisions on mapping uh certain simple
+subtasks<00:14:25.720><c> to</c><00:14:25.959><c> simple</c><00:14:26.320><c> models,</c><00:14:26.760><c> but</c><00:14:27.720><c> since</c>
+
+00:14:27.949 --> 00:14:27.959 align:start position:0%
+subtasks to simple models, but since
+ 
+
+00:14:27.959 --> 00:14:30.949 align:start position:0%
+subtasks to simple models, but since
+then,<00:14:28.320><c> we</c><00:14:28.520><c> have</c><00:14:29.240><c> um</c><00:14:29.480><c> created</c><00:14:29.920><c> an</c><00:14:30.440><c> automation</c>
+
+00:14:30.949 --> 00:14:30.959 align:start position:0%
+then, we have um created an automation
+ 
+
+00:14:30.959 --> 00:14:34.310 align:start position:0%
+then, we have um created an automation
+layer<00:14:31.640><c> that</c><00:14:32.040><c> detects</c><00:14:32.800><c> the</c><00:14:33.000><c> task</c><00:14:33.320><c> complexity</c>
+
+00:14:34.310 --> 00:14:34.320 align:start position:0%
+layer that detects the task complexity
+ 
+
+00:14:34.320 --> 00:14:36.390 align:start position:0%
+layer that detects the task complexity
+and<00:14:34.760><c> automatically</c><00:14:35.520><c> predicts</c><00:14:36.040><c> the</c><00:14:36.120><c> best</c>
+
+00:14:36.390 --> 00:14:36.400 align:start position:0%
+and automatically predicts the best
+ 
+
+00:14:36.400 --> 00:14:38.470 align:start position:0%
+and automatically predicts the best
+model<00:14:37.320><c> uh</c><00:14:37.360><c> the</c><00:14:37.480><c> best</c><00:14:37.760><c> suited</c><00:14:38.079><c> model</c><00:14:38.360><c> and</c>
+
+00:14:38.470 --> 00:14:38.480 align:start position:0%
+model uh the best suited model and
+ 
+
+00:14:38.480 --> 00:14:41.670 align:start position:0%
+model uh the best suited model and
+hardware.
+
+00:14:41.670 --> 00:14:41.680 align:start position:0%
+ 
+ 
+
+00:14:41.680 --> 00:14:44.870 align:start position:0%
+ 
+Any<00:14:41.880><c> other</c><00:14:42.079><c> questions?</c>
+
+00:14:44.870 --> 00:14:44.880 align:start position:0%
+ 
+ 
+
+00:14:44.880 --> 00:14:46.550 align:start position:0%
+ 
+Great.<00:14:45.680><c> Thank</c><00:14:45.880><c> you</c><00:14:45.959><c> so</c><00:14:46.120><c> much</c><00:14:46.320><c> for</c><00:14:46.440><c> your</c>
+
+00:14:46.550 --> 00:14:46.560 align:start position:0%
+Great. Thank you so much for your
+ 
+
+00:14:46.560 --> 00:14:47.710 align:start position:0%
+Great. Thank you so much for your
+attention.
+
+00:14:47.710 --> 00:14:47.720 align:start position:0%
+attention.
+ 
+
+00:14:47.720 --> 00:14:50.150 align:start position:0%
+attention.
+My<00:14:47.800><c> name</c><00:14:47.959><c> is</c><00:14:48.079><c> Adrian</c><00:14:48.400><c> Berczynski</c><00:14:49.000><c> and</c><00:14:49.680><c> if</c>
+
+00:14:50.150 --> 00:14:50.160 align:start position:0%
+My name is Adrian Berczynski and if
+ 
+
+00:14:50.160 --> 00:14:52.829 align:start position:0%
+My name is Adrian Berczynski and if
+anyone<00:14:50.560><c> is</c><00:14:50.800><c> interested,</c><00:14:52.040><c> uh</c><00:14:52.120><c> we</c><00:14:52.280><c> are</c><00:14:52.400><c> hiring,</c>
+
+00:14:52.829 --> 00:14:52.839 align:start position:0%
+anyone is interested, uh we are hiring,
+ 
+
+00:14:52.839 --> 00:14:55.310 align:start position:0%
+anyone is interested, uh we are hiring,
+so
+
+00:14:55.310 --> 00:14:55.320 align:start position:0%
+so
+ 
+
+00:14:55.320 --> 00:14:56.350 align:start position:0%
+so
+yeah.
+
+00:14:56.350 --> 00:14:56.360 align:start position:0%
+yeah.
+ 
+
+00:14:56.360 --> 00:14:59.680 align:start position:0%
+yeah.
+Great.<00:14:56.720><c> Thank</c><00:14:56.920><c> you</c><00:14:57.000><c> very</c><00:14:57.160><c> much.</c>
+

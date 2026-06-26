@@ -1,0 +1,3856 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:14.800 --> 00:00:17.230 align:start position:0%
+ 
+Hi<00:00:14.960><c> everyone.</c><00:00:15.640><c> My</c><00:00:15.760><c> name</c><00:00:15.960><c> is</c><00:00:16.080><c> Cassidy</c><00:00:16.680><c> and</c><00:00:17.080><c> I'm</c>
+
+00:00:17.230 --> 00:00:17.240 align:start position:0%
+Hi everyone. My name is Cassidy and I'm
+ 
+
+00:00:17.240 --> 00:00:19.750 align:start position:0%
+Hi everyone. My name is Cassidy and I'm
+a<00:00:17.280><c> researcher</c><00:00:17.920><c> at</c><00:00:18.080><c> Google</c><00:00:18.320><c> DeepMind.</c><00:00:19.400><c> Today,</c>
+
+00:00:19.750 --> 00:00:19.760 align:start position:0%
+a researcher at Google DeepMind. Today,
+ 
+
+00:00:19.760 --> 00:00:21.750 align:start position:0%
+a researcher at Google DeepMind. Today,
+I'm<00:00:20.040><c> really</c><00:00:20.320><c> excited</c><00:00:20.920><c> to</c><00:00:21.040><c> share</c><00:00:21.240><c> with</c><00:00:21.480><c> you</c>
+
+00:00:21.750 --> 00:00:21.760 align:start position:0%
+I'm really excited to share with you
+ 
+
+00:00:21.760 --> 00:00:24.670 align:start position:0%
+I'm really excited to share with you
+some<00:00:22.000><c> of</c><00:00:22.080><c> the</c><00:00:22.200><c> technical</c><00:00:23.520><c> improvements</c><00:00:24.400><c> and</c>
+
+00:00:24.670 --> 00:00:24.680 align:start position:0%
+some of the technical improvements and
+ 
+
+00:00:24.680 --> 00:00:27.990 align:start position:0%
+some of the technical improvements and
+architecture<00:00:25.480><c> that</c><00:00:25.640><c> we</c><00:00:25.760><c> have</c><00:00:26.080><c> with</c><00:00:26.280><c> Gemma</c><00:00:26.600><c> 4.</c>
+
+00:00:27.990 --> 00:00:28.000 align:start position:0%
+architecture that we have with Gemma 4.
+ 
+
+00:00:28.000 --> 00:00:30.190 align:start position:0%
+architecture that we have with Gemma 4.
+Last<00:00:28.400><c> week,</c><00:00:28.640><c> we</c><00:00:28.800><c> launched</c><00:00:29.200><c> Gemma</c><00:00:29.480><c> 4,</c><00:00:29.840><c> which</c><00:00:30.040><c> is</c>
+
+00:00:30.190 --> 00:00:30.200 align:start position:0%
+Last week, we launched Gemma 4, which is
+ 
+
+00:00:30.200 --> 00:00:32.670 align:start position:0%
+Last week, we launched Gemma 4, which is
+the<00:00:30.320><c> latest</c><00:00:30.680><c> addition</c><00:00:31.200><c> to</c><00:00:31.560><c> our</c><00:00:31.760><c> family</c><00:00:32.320><c> of</c>
+
+00:00:32.670 --> 00:00:32.680 align:start position:0%
+the latest addition to our family of
+ 
+
+00:00:32.680 --> 00:00:34.550 align:start position:0%
+the latest addition to our family of
+open-source<00:00:33.240><c> models.</c>
+
+00:00:34.550 --> 00:00:34.560 align:start position:0%
+open-source models.
+ 
+
+00:00:34.560 --> 00:00:38.510 align:start position:0%
+open-source models.
+Gemma<00:00:34.920><c> 4</c><00:00:35.440><c> brought</c><00:00:35.880><c> incredible</c><00:00:36.880><c> improvements</c>
+
+00:00:38.510 --> 00:00:38.520 align:start position:0%
+Gemma 4 brought incredible improvements
+ 
+
+00:00:38.520 --> 00:00:40.550 align:start position:0%
+Gemma 4 brought incredible improvements
+at<00:00:39.040><c> a</c><00:00:39.120><c> scale</c><00:00:39.640><c> that</c><00:00:39.800><c> has</c><00:00:39.920><c> not</c><00:00:40.160><c> been</c><00:00:40.320><c> seen</c>
+
+00:00:40.550 --> 00:00:40.560 align:start position:0%
+at a scale that has not been seen
+ 
+
+00:00:40.560 --> 00:00:43.190 align:start position:0%
+at a scale that has not been seen
+before.<00:00:41.160><c> We</c><00:00:41.320><c> have</c><00:00:41.520><c> a</c><00:00:41.600><c> family</c><00:00:42.080><c> of</c><00:00:42.280><c> very</c><00:00:42.680><c> small</c>
+
+00:00:43.190 --> 00:00:43.200 align:start position:0%
+before. We have a family of very small
+ 
+
+00:00:43.200 --> 00:00:45.590 align:start position:0%
+before. We have a family of very small
+models<00:00:44.000><c> with</c><00:00:44.200><c> incredible</c><00:00:44.840><c> performance</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+models with incredible performance
+ 
+
+00:00:45.600 --> 00:00:47.310 align:start position:0%
+models with incredible performance
+setting<00:00:45.880><c> a</c><00:00:45.960><c> new</c><00:00:46.240><c> precedent</c><00:00:46.960><c> for</c><00:00:47.080><c> what's</c>
+
+00:00:47.310 --> 00:00:47.320 align:start position:0%
+setting a new precedent for what's
+ 
+
+00:00:47.320 --> 00:00:51.710 align:start position:0%
+setting a new precedent for what's
+possible<00:00:47.920><c> with</c><00:00:48.120><c> small</c><00:00:48.600><c> open-source</c><00:00:49.160><c> models.</c>
+
+00:00:51.710 --> 00:00:51.720 align:start position:0%
+possible with small open-source models.
+ 
+
+00:00:51.720 --> 00:00:54.790 align:start position:0%
+possible with small open-source models.
+Gemma<00:00:52.000><c> 4</c><00:00:52.360><c> comes</c><00:00:52.720><c> in</c><00:00:52.920><c> four</c><00:00:53.160><c> sizes.</c><00:00:54.160><c> We</c><00:00:54.320><c> have</c><00:00:54.560><c> two</c>
+
+00:00:54.790 --> 00:00:54.800 align:start position:0%
+Gemma 4 comes in four sizes. We have two
+ 
+
+00:00:54.800 --> 00:00:56.750 align:start position:0%
+Gemma 4 comes in four sizes. We have two
+smaller<00:00:55.360><c> effective</c><00:00:55.920><c> models</c><00:00:56.400><c> which</c><00:00:56.640><c> are</c>
+
+00:00:56.750 --> 00:00:56.760 align:start position:0%
+smaller effective models which are
+ 
+
+00:00:56.760 --> 00:00:59.550 align:start position:0%
+smaller effective models which are
+geared<00:00:57.120><c> towards</c><00:00:57.640><c> on-device</c><00:00:58.320><c> applications.</c>
+
+00:00:59.550 --> 00:00:59.560 align:start position:0%
+geared towards on-device applications.
+ 
+
+00:00:59.560 --> 00:01:02.390 align:start position:0%
+geared towards on-device applications.
+These<00:00:59.800><c> models</c><00:01:00.280><c> have</c><00:01:00.480><c> been</c><00:01:00.760><c> adapted</c><00:01:01.440><c> and</c><00:01:02.200><c> and</c>
+
+00:01:02.390 --> 00:01:02.400 align:start position:0%
+These models have been adapted and and
+ 
+
+00:01:02.400 --> 00:01:04.590 align:start position:0%
+These models have been adapted and and
+improved<00:01:03.000><c> in</c><00:01:03.160><c> order</c><00:01:03.440><c> to</c><00:01:03.560><c> provide</c><00:01:04.040><c> incredible</c>
+
+00:01:04.590 --> 00:01:04.600 align:start position:0%
+improved in order to provide incredible
+ 
+
+00:01:04.600 --> 00:01:06.630 align:start position:0%
+improved in order to provide incredible
+performance<00:01:05.280><c> at</c><00:01:05.400><c> a</c><00:01:05.480><c> small</c><00:01:05.880><c> scale</c><00:01:06.320><c> which</c><00:01:06.520><c> are</c>
+
+00:01:06.630 --> 00:01:06.640 align:start position:0%
+performance at a small scale which are
+ 
+
+00:01:06.640 --> 00:01:09.630 align:start position:0%
+performance at a small scale which are
+able<00:01:06.880><c> to</c><00:01:07.000><c> run</c><00:01:07.240><c> locally</c><00:01:08.080><c> on</c><00:01:08.320><c> phones,</c><00:01:08.920><c> iPads,</c>
+
+00:01:09.630 --> 00:01:09.640 align:start position:0%
+able to run locally on phones, iPads,
+ 
+
+00:01:09.640 --> 00:01:11.750 align:start position:0%
+able to run locally on phones, iPads,
+and<00:01:09.800><c> laptops.</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+and laptops.
+ 
+
+00:01:11.760 --> 00:01:13.750 align:start position:0%
+and laptops.
+We<00:01:11.840><c> have</c><00:01:12.000><c> two</c><00:01:12.240><c> larger</c><00:01:12.640><c> models</c><00:01:13.160><c> starting</c><00:01:13.520><c> with</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+We have two larger models starting with
+ 
+
+00:01:13.760 --> 00:01:17.110 align:start position:0%
+We have two larger models starting with
+a<00:01:13.840><c> 26B</c><00:01:15.200><c> mixture</c><00:01:15.600><c> of</c><00:01:15.720><c> experts</c><00:01:16.240><c> model,</c><00:01:16.800><c> which</c><00:01:17.000><c> is</c>
+
+00:01:17.110 --> 00:01:17.120 align:start position:0%
+a 26B mixture of experts model, which is
+ 
+
+00:01:17.120 --> 00:01:20.110 align:start position:0%
+a 26B mixture of experts model, which is
+the<00:01:17.240><c> first</c><00:01:17.640><c> ever</c><00:01:17.960><c> Gemma</c><00:01:18.400><c> MoE.</c><00:01:19.400><c> This</c><00:01:19.600><c> model</c><00:01:19.960><c> has</c>
+
+00:01:20.110 --> 00:01:20.120 align:start position:0%
+the first ever Gemma MoE. This model has
+ 
+
+00:01:20.120 --> 00:01:21.790 align:start position:0%
+the first ever Gemma MoE. This model has
+been<00:01:20.280><c> adapted</c><00:01:20.800><c> to</c><00:01:20.880><c> have</c><00:01:21.120><c> incredible</c>
+
+00:01:21.790 --> 00:01:21.800 align:start position:0%
+been adapted to have incredible
+ 
+
+00:01:21.800 --> 00:01:24.550 align:start position:0%
+been adapted to have incredible
+performance<00:01:22.440><c> while</c><00:01:22.640><c> only</c><00:01:22.920><c> requiring</c><00:01:23.640><c> 3.9</c>
+
+00:01:24.550 --> 00:01:24.560 align:start position:0%
+performance while only requiring 3.9
+ 
+
+00:01:24.560 --> 00:01:26.870 align:start position:0%
+performance while only requiring 3.9
+billion<00:01:25.000><c> active</c><00:01:25.440><c> parameters.</c>
+
+00:01:26.870 --> 00:01:26.880 align:start position:0%
+billion active parameters.
+ 
+
+00:01:26.880 --> 00:01:29.790 align:start position:0%
+billion active parameters.
+And<00:01:27.000><c> our</c><00:01:27.120><c> largest</c><00:01:27.560><c> model</c><00:01:27.960><c> is</c><00:01:28.120><c> our</c><00:01:28.240><c> 31B</c><00:01:28.960><c> dense.</c>
+
+00:01:29.790 --> 00:01:29.800 align:start position:0%
+And our largest model is our 31B dense.
+ 
+
+00:01:29.800 --> 00:01:32.150 align:start position:0%
+And our largest model is our 31B dense.
+This<00:01:30.040><c> has</c><00:01:30.360><c> insane</c><00:01:31.040><c> performance,</c><00:01:31.720><c> a</c><00:01:31.800><c> huge</c>
+
+00:01:32.150 --> 00:01:32.160 align:start position:0%
+This has insane performance, a huge
+ 
+
+00:01:32.160 --> 00:01:34.190 align:start position:0%
+This has insane performance, a huge
+improvement<00:01:32.720><c> upon</c><00:01:33.120><c> what</c><00:01:33.280><c> existed</c><00:01:33.840><c> within</c>
+
+00:01:34.190 --> 00:01:34.200 align:start position:0%
+improvement upon what existed within
+ 
+
+00:01:34.200 --> 00:01:35.590 align:start position:0%
+improvement upon what existed within
+Gemma<00:01:34.560><c> 3</c>
+
+00:01:35.590 --> 00:01:35.600 align:start position:0%
+Gemma 3
+ 
+
+00:01:35.600 --> 00:01:37.430 align:start position:0%
+Gemma 3
+at<00:01:35.760><c> a</c><00:01:35.800><c> new</c><00:01:36.040><c> precedent</c><00:01:36.560><c> that</c><00:01:36.680><c> hasn't</c><00:01:37.000><c> been</c><00:01:37.200><c> seen</c>
+
+00:01:37.430 --> 00:01:37.440 align:start position:0%
+at a new precedent that hasn't been seen
+ 
+
+00:01:37.440 --> 00:01:39.550 align:start position:0%
+at a new precedent that hasn't been seen
+before.
+
+00:01:39.550 --> 00:01:39.560 align:start position:0%
+before.
+ 
+
+00:01:39.560 --> 00:01:42.110 align:start position:0%
+before.
+Taking<00:01:39.960><c> a</c><00:01:40.040><c> look</c><00:01:40.400><c> at</c><00:01:40.920><c> our</c><00:01:41.120><c> larger</c><00:01:41.520><c> models,</c><00:01:42.000><c> our</c>
+
+00:01:42.110 --> 00:01:42.120 align:start position:0%
+Taking a look at our larger models, our
+ 
+
+00:01:42.120 --> 00:01:45.750 align:start position:0%
+Taking a look at our larger models, our
+31B<00:01:42.920><c> and</c><00:01:43.080><c> our</c><00:01:43.200><c> 26B,</c><00:01:44.520><c> these</c><00:01:44.800><c> models</c><00:01:45.200><c> have</c><00:01:45.440><c> both</c>
+
+00:01:45.750 --> 00:01:45.760 align:start position:0%
+31B and our 26B, these models have both
+ 
+
+00:01:45.760 --> 00:01:48.510 align:start position:0%
+31B and our 26B, these models have both
+ranked<00:01:46.120><c> in</c><00:01:46.240><c> the</c><00:01:46.400><c> top</c><00:01:46.840><c> six</c><00:01:47.320><c> of</c><00:01:47.560><c> all</c><00:01:47.880><c> open-source</c>
+
+00:01:48.510 --> 00:01:48.520 align:start position:0%
+ranked in the top six of all open-source
+ 
+
+00:01:48.520 --> 00:01:54.030 align:start position:0%
+ranked in the top six of all open-source
+models<00:01:49.040><c> on</c><00:01:49.320><c> the</c><00:01:49.440><c> LM</c><00:01:50.240><c> the</c><00:01:50.400><c> LM</c><00:01:50.840><c> arena.</c>
+
+00:01:54.030 --> 00:01:54.040 align:start position:0%
+ 
+ 
+
+00:01:54.040 --> 00:01:55.950 align:start position:0%
+ 
+One<00:01:54.240><c> of</c><00:01:54.320><c> the</c><00:01:54.400><c> most</c><00:01:54.720><c> exciting</c><00:01:55.240><c> improvements</c>
+
+00:01:55.950 --> 00:01:55.960 align:start position:0%
+One of the most exciting improvements
+ 
+
+00:01:55.960 --> 00:01:57.670 align:start position:0%
+One of the most exciting improvements
+and<00:01:56.120><c> things</c><00:01:56.320><c> that</c><00:01:56.440><c> we've</c><00:01:56.680><c> launched</c><00:01:57.080><c> alongside</c>
+
+00:01:57.670 --> 00:01:57.680 align:start position:0%
+and things that we've launched alongside
+ 
+
+00:01:57.680 --> 00:02:00.270 align:start position:0%
+and things that we've launched alongside
+Gemma<00:01:57.960><c> 4</c><00:01:58.400><c> is</c><00:01:58.560><c> the</c><00:01:58.680><c> move</c><00:01:58.960><c> to</c><00:01:59.080><c> an</c><00:01:59.200><c> Apache</c><00:01:59.680><c> 2.0</c>
+
+00:02:00.270 --> 00:02:00.280 align:start position:0%
+Gemma 4 is the move to an Apache 2.0
+ 
+
+00:02:00.280 --> 00:02:02.710 align:start position:0%
+Gemma 4 is the move to an Apache 2.0
+license.<00:02:01.240><c> This</c><00:02:01.440><c> was</c><00:02:01.600><c> deliberately</c><00:02:02.200><c> done</c><00:02:02.520><c> in</c>
+
+00:02:02.710 --> 00:02:02.720 align:start position:0%
+license. This was deliberately done in
+ 
+
+00:02:02.720 --> 00:02:04.910 align:start position:0%
+license. This was deliberately done in
+order<00:02:03.000><c> to</c><00:02:03.120><c> make</c><00:02:03.320><c> our</c><00:02:03.440><c> models</c><00:02:03.880><c> more</c><00:02:04.240><c> accessible</c>
+
+00:02:04.910 --> 00:02:04.920 align:start position:0%
+order to make our models more accessible
+ 
+
+00:02:04.920 --> 00:02:06.910 align:start position:0%
+order to make our models more accessible
+for<00:02:05.040><c> the</c><00:02:05.120><c> everyday</c><00:02:05.520><c> developer.</c><00:02:06.520><c> You</c><00:02:06.680><c> should</c>
+
+00:02:06.910 --> 00:02:06.920 align:start position:0%
+for the everyday developer. You should
+ 
+
+00:02:06.920 --> 00:02:08.910 align:start position:0%
+for the everyday developer. You should
+easily<00:02:07.280><c> be</c><00:02:07.400><c> able</c><00:02:07.640><c> to</c><00:02:07.760><c> integrate</c><00:02:08.240><c> Gemma</c><00:02:08.640><c> into</c>
+
+00:02:08.910 --> 00:02:08.920 align:start position:0%
+easily be able to integrate Gemma into
+ 
+
+00:02:08.920 --> 00:02:10.990 align:start position:0%
+easily be able to integrate Gemma into
+your<00:02:09.119><c> life</c><00:02:09.399><c> cycle</c><00:02:09.880><c> of</c><00:02:10.000><c> development</c><00:02:10.759><c> through</c>
+
+00:02:10.990 --> 00:02:11.000 align:start position:0%
+your life cycle of development through
+ 
+
+00:02:11.000 --> 00:02:12.830 align:start position:0%
+your life cycle of development through
+initial<00:02:11.440><c> testing</c><00:02:12.120><c> all</c><00:02:12.320><c> the</c><00:02:12.400><c> way</c><00:02:12.680><c> to</c>
+
+00:02:12.830 --> 00:02:12.840 align:start position:0%
+initial testing all the way to
+ 
+
+00:02:12.840 --> 00:02:15.110 align:start position:0%
+initial testing all the way to
+deployment<00:02:13.520><c> and</c><00:02:13.680><c> building</c><00:02:14.080><c> within</c><00:02:14.320><c> the</c><00:02:14.440><c> Gemma</c>
+
+00:02:15.110 --> 00:02:15.120 align:start position:0%
+deployment and building within the Gemma
+ 
+
+00:02:15.120 --> 00:02:18.590 align:start position:0%
+deployment and building within the Gemma
+in<00:02:15.560><c> in</c><00:02:15.800><c> within</c><00:02:16.080><c> the</c><00:02:16.160><c> Gemma</c><00:02:16.440><c> universe.</c>
+
+00:02:18.590 --> 00:02:18.600 align:start position:0%
+in in within the Gemma universe.
+ 
+
+00:02:18.600 --> 00:02:20.830 align:start position:0%
+in in within the Gemma universe.
+Now,<00:02:19.040><c> let's</c><00:02:19.240><c> take</c><00:02:19.440><c> a</c><00:02:19.480><c> little</c><00:02:19.760><c> look</c><00:02:20.080><c> at</c><00:02:20.440><c> what</c>
+
+00:02:20.830 --> 00:02:20.840 align:start position:0%
+Now, let's take a little look at what
+ 
+
+00:02:20.840 --> 00:02:22.510 align:start position:0%
+Now, let's take a little look at what
+each<00:02:21.040><c> of</c><00:02:21.120><c> these</c><00:02:21.320><c> models</c><00:02:21.680><c> are</c><00:02:22.040><c> and</c><00:02:22.160><c> some</c><00:02:22.320><c> of</c><00:02:22.400><c> the</c>
+
+00:02:22.510 --> 00:02:22.520 align:start position:0%
+each of these models are and some of the
+ 
+
+00:02:22.520 --> 00:02:25.350 align:start position:0%
+each of these models are and some of the
+use<00:02:22.760><c> cases</c><00:02:23.240><c> that</c><00:02:23.400><c> we've</c><00:02:23.560><c> adapted</c><00:02:24.000><c> this</c><00:02:24.200><c> for.</c>
+
+00:02:25.350 --> 00:02:25.360 align:start position:0%
+use cases that we've adapted this for.
+ 
+
+00:02:25.360 --> 00:02:27.830 align:start position:0%
+use cases that we've adapted this for.
+Starting<00:02:25.760><c> with</c><00:02:26.000><c> our</c><00:02:26.120><c> 31B</c><00:02:26.760><c> dense</c><00:02:27.080><c> model.</c><00:02:27.560><c> This</c>
+
+00:02:27.830 --> 00:02:27.840 align:start position:0%
+Starting with our 31B dense model. This
+ 
+
+00:02:27.840 --> 00:02:30.230 align:start position:0%
+Starting with our 31B dense model. This
+is<00:02:28.000><c> a</c><00:02:28.080><c> state-of-the-art</c><00:02:29.160><c> multimodal</c><00:02:29.840><c> model,</c>
+
+00:02:30.230 --> 00:02:30.240 align:start position:0%
+is a state-of-the-art multimodal model,
+ 
+
+00:02:30.240 --> 00:02:31.950 align:start position:0%
+is a state-of-the-art multimodal model,
+which<00:02:30.440><c> has</c><00:02:30.600><c> been</c><00:02:30.800><c> purposely</c><00:02:31.440><c> built</c><00:02:31.800><c> for</c>
+
+00:02:31.950 --> 00:02:31.960 align:start position:0%
+which has been purposely built for
+ 
+
+00:02:31.960 --> 00:02:33.670 align:start position:0%
+which has been purposely built for
+advanced<00:02:32.440><c> reasoning.</c>
+
+00:02:33.670 --> 00:02:33.680 align:start position:0%
+advanced reasoning.
+ 
+
+00:02:33.680 --> 00:02:35.830 align:start position:0%
+advanced reasoning.
+This<00:02:33.920><c> model</c><00:02:34.320><c> ranked</c><00:02:34.640><c> number</c><00:02:35.120><c> three</c><00:02:35.600><c> on</c><00:02:35.760><c> the</c>
+
+00:02:35.830 --> 00:02:35.840 align:start position:0%
+This model ranked number three on the
+ 
+
+00:02:35.840 --> 00:02:38.310 align:start position:0%
+This model ranked number three on the
+global<00:02:36.200><c> arena</c><00:02:36.720><c> for</c><00:02:36.880><c> the</c><00:02:37.000><c> AI</c><00:02:37.320><c> leaderboard.</c>
+
+00:02:38.310 --> 00:02:38.320 align:start position:0%
+global arena for the AI leaderboard.
+ 
+
+00:02:38.320 --> 00:02:40.910 align:start position:0%
+global arena for the AI leaderboard.
+This<00:02:38.560><c> is</c><00:02:38.760><c> outperforming</c><00:02:39.520><c> models</c><00:02:40.000><c> over</c><00:02:40.320><c> 20</c>
+
+00:02:40.910 --> 00:02:40.920 align:start position:0%
+This is outperforming models over 20
+ 
+
+00:02:40.920 --> 00:02:43.590 align:start position:0%
+This is outperforming models over 20
+times<00:02:41.440><c> its</c><00:02:41.760><c> size.</c><00:02:42.560><c> This</c><00:02:42.760><c> is</c><00:02:42.920><c> a</c><00:02:43.000><c> huge</c>
+
+00:02:43.590 --> 00:02:43.600 align:start position:0%
+times its size. This is a huge
+ 
+
+00:02:43.600 --> 00:02:45.830 align:start position:0%
+times its size. This is a huge
+improvement.
+
+00:02:45.830 --> 00:02:45.840 align:start position:0%
+improvement.
+ 
+
+00:02:45.840 --> 00:02:48.670 align:start position:0%
+improvement.
+The<00:02:46.000><c> 31B</c><00:02:46.760><c> has</c><00:02:46.960><c> a</c><00:02:47.040><c> 256K</c>
+
+00:02:48.670 --> 00:02:48.680 align:start position:0%
+The 31B has a 256K
+ 
+
+00:02:48.680 --> 00:02:50.070 align:start position:0%
+The 31B has a 256K
+context<00:02:49.240><c> length,</c><00:02:49.560><c> which</c><00:02:49.760><c> has</c><00:02:49.920><c> been</c>
+
+00:02:50.070 --> 00:02:50.080 align:start position:0%
+context length, which has been
+ 
+
+00:02:50.080 --> 00:02:52.270 align:start position:0%
+context length, which has been
+purpose-built<00:02:50.880><c> for</c><00:02:51.000><c> autonomous</c><00:02:51.640><c> workflows</c>
+
+00:02:52.270 --> 00:02:52.280 align:start position:0%
+purpose-built for autonomous workflows
+ 
+
+00:02:52.280 --> 00:02:54.350 align:start position:0%
+purpose-built for autonomous workflows
+with<00:02:52.520><c> native</c><00:02:52.800><c> support</c><00:02:53.320><c> for</c><00:02:53.480><c> thinking,</c>
+
+00:02:54.350 --> 00:02:54.360 align:start position:0%
+with native support for thinking,
+ 
+
+00:02:54.360 --> 00:02:56.670 align:start position:0%
+with native support for thinking,
+function<00:02:54.800><c> calling,</c><00:02:55.360><c> and</c><00:02:55.760><c> structured</c><00:02:56.240><c> JSON</c>
+
+00:02:56.670 --> 00:02:56.680 align:start position:0%
+function calling, and structured JSON
+ 
+
+00:02:56.680 --> 00:02:59.790 align:start position:0%
+function calling, and structured JSON
+outputs.
+
+00:02:59.790 --> 00:02:59.800 align:start position:0%
+ 
+ 
+
+00:02:59.800 --> 00:03:02.990 align:start position:0%
+ 
+We<00:02:59.960><c> also</c><00:03:00.240><c> have</c><00:03:00.440><c> a</c><00:03:00.480><c> slightly</c><00:03:01.000><c> smaller</c><00:03:01.560><c> 26B.</c>
+
+00:03:02.990 --> 00:03:03.000 align:start position:0%
+We also have a slightly smaller 26B.
+ 
+
+00:03:03.000 --> 00:03:05.470 align:start position:0%
+We also have a slightly smaller 26B.
+This<00:03:03.240><c> 26B</c><00:03:04.080><c> is</c><00:03:04.240><c> the</c><00:03:04.360><c> first</c><00:03:04.680><c> edition</c><00:03:05.240><c> of</c><00:03:05.400><c> a</c>
+
+00:03:05.470 --> 00:03:05.480 align:start position:0%
+This 26B is the first edition of a
+ 
+
+00:03:05.480 --> 00:03:07.710 align:start position:0%
+This 26B is the first edition of a
+mixture<00:03:05.880><c> of</c><00:03:06.040><c> experts</c><00:03:06.600><c> model</c><00:03:07.040><c> into</c><00:03:07.320><c> the</c><00:03:07.440><c> Gemma</c>
+
+00:03:07.710 --> 00:03:07.720 align:start position:0%
+mixture of experts model into the Gemma
+ 
+
+00:03:07.720 --> 00:03:08.830 align:start position:0%
+mixture of experts model into the Gemma
+family.
+
+00:03:08.830 --> 00:03:08.840 align:start position:0%
+family.
+ 
+
+00:03:08.840 --> 00:03:11.830 align:start position:0%
+family.
+Only<00:03:09.200><c> requiring</c><00:03:09.840><c> 3.8</c><00:03:10.720><c> billion</c><00:03:11.160><c> parameters</c>
+
+00:03:11.830 --> 00:03:11.840 align:start position:0%
+Only requiring 3.8 billion parameters
+ 
+
+00:03:11.840 --> 00:03:14.230 align:start position:0%
+Only requiring 3.8 billion parameters
+during<00:03:12.160><c> any</c><00:03:12.400><c> forward</c><00:03:12.840><c> pass,</c><00:03:13.520><c> this</c><00:03:13.720><c> model</c><00:03:14.080><c> is</c>
+
+00:03:14.230 --> 00:03:14.240 align:start position:0%
+during any forward pass, this model is
+ 
+
+00:03:14.240 --> 00:03:16.670 align:start position:0%
+during any forward pass, this model is
+small<00:03:14.760><c> and</c><00:03:14.920><c> efficient.</c>
+
+00:03:16.670 --> 00:03:16.680 align:start position:0%
+small and efficient.
+ 
+
+00:03:16.680 --> 00:03:19.630 align:start position:0%
+small and efficient.
+Utilizing<00:03:17.360><c> a</c><00:03:17.440><c> total</c><00:03:17.760><c> of</c><00:03:17.880><c> 128</c><00:03:18.840><c> experts</c><00:03:19.400><c> while</c>
+
+00:03:19.630 --> 00:03:19.640 align:start position:0%
+Utilizing a total of 128 experts while
+ 
+
+00:03:19.640 --> 00:03:21.990 align:start position:0%
+Utilizing a total of 128 experts while
+only<00:03:19.880><c> requiring</c><00:03:20.560><c> eight</c><00:03:20.840><c> experts</c><00:03:21.440><c> during</c><00:03:21.720><c> any</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+only requiring eight experts during any
+ 
+
+00:03:22.000 --> 00:03:24.590 align:start position:0%
+only requiring eight experts during any
+inference,<00:03:22.840><c> this</c><00:03:23.000><c> is</c><00:03:23.160><c> efficient</c><00:03:23.800><c> for</c><00:03:24.000><c> running</c>
+
+00:03:24.590 --> 00:03:24.600 align:start position:0%
+inference, this is efficient for running
+ 
+
+00:03:24.600 --> 00:03:26.230 align:start position:0%
+inference, this is efficient for running
+while<00:03:24.760><c> still</c><00:03:25.040><c> maintaining</c><00:03:25.800><c> some</c><00:03:26.040><c> of</c><00:03:26.120><c> the</c>
+
+00:03:26.230 --> 00:03:26.240 align:start position:0%
+while still maintaining some of the
+ 
+
+00:03:26.240 --> 00:03:27.990 align:start position:0%
+while still maintaining some of the
+incredible<00:03:26.760><c> performance</c><00:03:27.320><c> that</c><00:03:27.440><c> we</c><00:03:27.560><c> saw</c><00:03:27.800><c> with</c>
+
+00:03:27.990 --> 00:03:28.000 align:start position:0%
+incredible performance that we saw with
+ 
+
+00:03:28.000 --> 00:03:30.430 align:start position:0%
+incredible performance that we saw with
+our<00:03:28.120><c> 31B.</c>
+
+00:03:30.430 --> 00:03:30.440 align:start position:0%
+our 31B.
+ 
+
+00:03:30.440 --> 00:03:32.470 align:start position:0%
+our 31B.
+On<00:03:30.600><c> the</c><00:03:30.680><c> smaller</c><00:03:31.120><c> side,</c><00:03:31.480><c> we</c><00:03:31.640><c> introduced</c><00:03:32.200><c> two</c>
+
+00:03:32.470 --> 00:03:32.480 align:start position:0%
+On the smaller side, we introduced two
+ 
+
+00:03:32.480 --> 00:03:35.070 align:start position:0%
+On the smaller side, we introduced two
+effective<00:03:32.960><c> models.</c><00:03:34.000><c> These</c><00:03:34.280><c> models</c><00:03:34.880><c> are</c>
+
+00:03:35.070 --> 00:03:35.080 align:start position:0%
+effective models. These models are
+ 
+
+00:03:35.080 --> 00:03:37.350 align:start position:0%
+effective models. These models are
+geared<00:03:35.480><c> towards</c><00:03:35.960><c> on-device</c><00:03:36.560><c> applications</c>
+
+00:03:37.350 --> 00:03:37.360 align:start position:0%
+geared towards on-device applications
+ 
+
+00:03:37.360 --> 00:03:39.710 align:start position:0%
+geared towards on-device applications
+with<00:03:37.560><c> the</c><00:03:37.640><c> additional</c><00:03:38.160><c> support</c><00:03:38.680><c> of</c><00:03:38.880><c> audio.</c>
+
+00:03:39.710 --> 00:03:39.720 align:start position:0%
+with the additional support of audio.
+ 
+
+00:03:39.720 --> 00:03:42.110 align:start position:0%
+with the additional support of audio.
+These<00:03:39.960><c> are</c><00:03:40.080><c> vision,</c><00:03:40.640><c> text,</c><00:03:41.160><c> and</c><00:03:41.480><c> image</c>
+
+00:03:42.110 --> 00:03:42.120 align:start position:0%
+These are vision, text, and image
+ 
+
+00:03:42.120 --> 00:03:43.870 align:start position:0%
+These are vision, text, and image
+vision,<00:03:42.360><c> text,</c><00:03:42.600><c> and</c><00:03:42.720><c> audio</c><00:03:43.080><c> input</c><00:03:43.400><c> models</c>
+
+00:03:43.870 --> 00:03:43.880 align:start position:0%
+vision, text, and audio input models
+ 
+
+00:03:43.880 --> 00:03:45.950 align:start position:0%
+vision, text, and audio input models
+while<00:03:44.080><c> remaining</c><00:03:44.600><c> being</c><00:03:44.920><c> text-only</c><00:03:45.600><c> output</c>
+
+00:03:45.950 --> 00:03:45.960 align:start position:0%
+while remaining being text-only output
+ 
+
+00:03:45.960 --> 00:03:47.270 align:start position:0%
+while remaining being text-only output
+models.
+
+00:03:47.270 --> 00:03:47.280 align:start position:0%
+models.
+ 
+
+00:03:47.280 --> 00:03:49.430 align:start position:0%
+models.
+Similarly,<00:03:48.080><c> we</c><00:03:48.240><c> have</c><00:03:48.480><c> our</c><00:03:48.600><c> effective</c><00:03:49.120><c> 2B</c>
+
+00:03:49.430 --> 00:03:49.440 align:start position:0%
+Similarly, we have our effective 2B
+ 
+
+00:03:49.440 --> 00:03:52.030 align:start position:0%
+Similarly, we have our effective 2B
+model.
+
+00:03:52.030 --> 00:03:52.040 align:start position:0%
+ 
+ 
+
+00:03:52.040 --> 00:03:54.590 align:start position:0%
+ 
+Across<00:03:52.560><c> a</c><00:03:52.640><c> variety</c><00:03:53.200><c> of</c><00:03:53.320><c> benchmarks,</c><00:03:54.320><c> these</c>
+
+00:03:54.590 --> 00:03:54.600 align:start position:0%
+Across a variety of benchmarks, these
+ 
+
+00:03:54.600 --> 00:03:56.790 align:start position:0%
+Across a variety of benchmarks, these
+models<00:03:55.040><c> are</c><00:03:55.200><c> incredible.</c><00:03:56.200><c> Looking</c><00:03:56.560><c> at</c><00:03:56.680><c> our</c>
+
+00:03:56.790 --> 00:03:56.800 align:start position:0%
+models are incredible. Looking at our
+ 
+
+00:03:56.800 --> 00:03:59.110 align:start position:0%
+models are incredible. Looking at our
+performance<00:03:57.360><c> across</c><00:03:57.720><c> agentic</c><00:03:58.200><c> capabilities,</c>
+
+00:03:59.110 --> 00:03:59.120 align:start position:0%
+performance across agentic capabilities,
+ 
+
+00:03:59.120 --> 00:04:02.670 align:start position:0%
+performance across agentic capabilities,
+coding,<00:03:59.960><c> multimodal,</c><00:04:01.200><c> multilingual,</c><00:04:02.520><c> we've</c>
+
+00:04:02.670 --> 00:04:02.680 align:start position:0%
+coding, multimodal, multilingual, we've
+ 
+
+00:04:02.680 --> 00:04:04.430 align:start position:0%
+coding, multimodal, multilingual, we've
+truly<00:04:03.040><c> set</c><00:04:03.240><c> a</c><00:04:03.280><c> new</c><00:04:03.520><c> frontier</c><00:04:04.080><c> for</c><00:04:04.200><c> what's</c>
+
+00:04:04.430 --> 00:04:04.440 align:start position:0%
+truly set a new frontier for what's
+ 
+
+00:04:04.440 --> 00:04:07.150 align:start position:0%
+truly set a new frontier for what's
+capable<00:04:05.400><c> with</c><00:04:05.640><c> the</c><00:04:05.760><c> Gemma</c><00:04:06.080><c> models.</c><00:04:06.840><c> This</c><00:04:07.040><c> is</c>
+
+00:04:07.150 --> 00:04:07.160 align:start position:0%
+capable with the Gemma models. This is
+ 
+
+00:04:07.160 --> 00:04:09.190 align:start position:0%
+capable with the Gemma models. This is
+significantly<00:04:08.000><c> outperforming</c><00:04:08.760><c> everything</c>
+
+00:04:09.190 --> 00:04:09.200 align:start position:0%
+significantly outperforming everything
+ 
+
+00:04:09.200 --> 00:04:10.990 align:start position:0%
+significantly outperforming everything
+we<00:04:09.360><c> had</c><00:04:09.680><c> with</c><00:04:09.840><c> the</c><00:04:09.920><c> Gemma</c><00:04:10.240><c> 3</c><00:04:10.520><c> family</c><00:04:10.880><c> of</c>
+
+00:04:10.990 --> 00:04:11.000 align:start position:0%
+we had with the Gemma 3 family of
+ 
+
+00:04:11.000 --> 00:04:13.710 align:start position:0%
+we had with the Gemma 3 family of
+models.
+
+00:04:13.710 --> 00:04:13.720 align:start position:0%
+ 
+ 
+
+00:04:13.720 --> 00:04:15.310 align:start position:0%
+ 
+Now,<00:04:14.000><c> let's</c><00:04:14.240><c> take</c><00:04:14.440><c> a</c><00:04:14.520><c> look</c><00:04:14.880><c> at</c><00:04:15.000><c> what's</c>
+
+00:04:15.310 --> 00:04:15.320 align:start position:0%
+Now, let's take a look at what's
+ 
+
+00:04:15.320 --> 00:04:17.310 align:start position:0%
+Now, let's take a look at what's
+actually<00:04:15.680><c> new</c><00:04:15.920><c> in</c><00:04:16.040><c> Gemma</c><00:04:16.320><c> 4</c><00:04:16.760><c> and</c><00:04:16.920><c> what</c><00:04:17.079><c> have</c><00:04:17.200><c> we</c>
+
+00:04:17.310 --> 00:04:17.320 align:start position:0%
+actually new in Gemma 4 and what have we
+ 
+
+00:04:17.320 --> 00:04:18.949 align:start position:0%
+actually new in Gemma 4 and what have we
+done<00:04:17.680><c> and</c><00:04:17.840><c> how</c><00:04:18.000><c> have</c><00:04:18.120><c> we</c><00:04:18.239><c> actually</c><00:04:18.560><c> been</c><00:04:18.720><c> able</c>
+
+00:04:18.949 --> 00:04:18.959 align:start position:0%
+done and how have we actually been able
+ 
+
+00:04:18.959 --> 00:04:21.270 align:start position:0%
+done and how have we actually been able
+to<00:04:19.079><c> achieve</c><00:04:19.480><c> this</c><00:04:19.640><c> incredible</c><00:04:20.160><c> performance.</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+to achieve this incredible performance.
+ 
+
+00:04:21.280 --> 00:04:24.550 align:start position:0%
+to achieve this incredible performance.
+Starting<00:04:21.880><c> on</c><00:04:22.160><c> the</c><00:04:22.280><c> architecture</c><00:04:22.880><c> side.</c>
+
+00:04:24.550 --> 00:04:24.560 align:start position:0%
+Starting on the architecture side.
+ 
+
+00:04:24.560 --> 00:04:26.470 align:start position:0%
+Starting on the architecture side.
+We<00:04:24.680><c> have</c><00:04:24.920><c> our</c><00:04:25.040><c> standard</c><00:04:25.560><c> dense</c><00:04:25.880><c> model.</c><00:04:26.320><c> This</c>
+
+00:04:26.470 --> 00:04:26.480 align:start position:0%
+We have our standard dense model. This
+ 
+
+00:04:26.480 --> 00:04:28.590 align:start position:0%
+We have our standard dense model. This
+is<00:04:26.560><c> our</c><00:04:26.680><c> 31B</c><00:04:27.480><c> as</c><00:04:27.720><c> well</c><00:04:27.880><c> as</c><00:04:28.000><c> our</c><00:04:28.080><c> smaller</c>
+
+00:04:28.590 --> 00:04:28.600 align:start position:0%
+is our 31B as well as our smaller
+ 
+
+00:04:28.600 --> 00:04:31.190 align:start position:0%
+is our 31B as well as our smaller
+effective<00:04:29.080><c> 2B</c><00:04:29.520><c> and</c><00:04:29.720><c> 4B</c><00:04:30.080><c> models.</c>
+
+00:04:31.190 --> 00:04:31.200 align:start position:0%
+effective 2B and 4B models.
+ 
+
+00:04:31.200 --> 00:04:33.550 align:start position:0%
+effective 2B and 4B models.
+We<00:04:31.360><c> have</c><00:04:31.520><c> our</c><00:04:31.600><c> standard</c><00:04:32.080><c> decoder</c><00:04:32.520><c> block.</c><00:04:33.400><c> What</c>
+
+00:04:33.550 --> 00:04:33.560 align:start position:0%
+We have our standard decoder block. What
+ 
+
+00:04:33.560 --> 00:04:35.470 align:start position:0%
+We have our standard decoder block. What
+we've<00:04:33.760><c> done</c><00:04:34.000><c> with</c><00:04:34.160><c> Gemma</c><00:04:34.480><c> 4</c><00:04:34.840><c> is</c><00:04:35.000><c> we've</c><00:04:35.200><c> made</c>
+
+00:04:35.470 --> 00:04:35.480 align:start position:0%
+we've done with Gemma 4 is we've made
+ 
+
+00:04:35.480 --> 00:04:38.110 align:start position:0%
+we've done with Gemma 4 is we've made
+several<00:04:35.880><c> improvements</c><00:04:36.480><c> within</c><00:04:36.760><c> attention.</c>
+
+00:04:38.110 --> 00:04:38.120 align:start position:0%
+several improvements within attention.
+ 
+
+00:04:38.120 --> 00:04:40.790 align:start position:0%
+several improvements within attention.
+We've<00:04:38.360><c> introduced</c><00:04:39.040><c> a</c><00:04:39.120><c> 5:1</c><00:04:39.960><c> ratio</c><00:04:40.560><c> of</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+We've introduced a 5:1 ratio of
+ 
+
+00:04:40.800 --> 00:04:43.710 align:start position:0%
+We've introduced a 5:1 ratio of
+interleaving<00:04:41.560><c> local</c><00:04:41.920><c> to</c><00:04:42.040><c> global</c><00:04:42.440><c> layers</c>
+
+00:04:43.710 --> 00:04:43.720 align:start position:0%
+interleaving local to global layers
+ 
+
+00:04:43.720 --> 00:04:45.710 align:start position:0%
+interleaving local to global layers
+with<00:04:43.920><c> our</c><00:04:44.040><c> smaller</c><00:04:44.520><c> effective</c><00:04:44.960><c> 2B</c><00:04:45.400><c> having</c><00:04:45.680><c> a</c>
+
+00:04:45.710 --> 00:04:45.720 align:start position:0%
+with our smaller effective 2B having a
+ 
+
+00:04:45.720 --> 00:04:47.790 align:start position:0%
+with our smaller effective 2B having a
+4:1<00:04:46.320><c> ratio.</c>
+
+00:04:47.790 --> 00:04:47.800 align:start position:0%
+4:1 ratio.
+ 
+
+00:04:47.800 --> 00:04:49.870 align:start position:0%
+4:1 ratio.
+This<00:04:48.080><c> means</c><00:04:48.520><c> that</c><00:04:48.680><c> within</c><00:04:49.000><c> our</c><00:04:49.120><c> local</c><00:04:49.480><c> layers,</c>
+
+00:04:49.870 --> 00:04:49.880 align:start position:0%
+This means that within our local layers,
+ 
+
+00:04:49.880 --> 00:04:51.550 align:start position:0%
+This means that within our local layers,
+we<00:04:50.000><c> have</c><00:04:50.120><c> a</c><00:04:50.200><c> sliding</c><00:04:50.640><c> window</c><00:04:51.000><c> of</c><00:04:51.160><c> how</c><00:04:51.320><c> many</c>
+
+00:04:51.550 --> 00:04:51.560 align:start position:0%
+we have a sliding window of how many
+ 
+
+00:04:51.560 --> 00:04:53.590 align:start position:0%
+we have a sliding window of how many
+tokens<00:04:51.960><c> we're</c><00:04:52.080><c> attending</c><00:04:52.600><c> to.</c>
+
+00:04:53.590 --> 00:04:53.600 align:start position:0%
+tokens we're attending to.
+ 
+
+00:04:53.600 --> 00:04:55.510 align:start position:0%
+tokens we're attending to.
+And<00:04:53.800><c> lastly,</c><00:04:54.160><c> with</c><00:04:54.360><c> our</c><00:04:54.480><c> global</c><00:04:54.880><c> layers,</c>
+
+00:04:55.510 --> 00:04:55.520 align:start position:0%
+And lastly, with our global layers,
+ 
+
+00:04:55.520 --> 00:04:57.670 align:start position:0%
+And lastly, with our global layers,
+we've<00:04:55.680><c> now</c><00:04:55.920><c> ensured</c><00:04:56.440><c> that</c><00:04:56.600><c> the</c><00:04:56.760><c> last</c><00:04:57.160><c> layer</c><00:04:57.480><c> is</c>
+
+00:04:57.670 --> 00:04:57.680 align:start position:0%
+we've now ensured that the last layer is
+ 
+
+00:04:57.680 --> 00:04:59.470 align:start position:0%
+we've now ensured that the last layer is
+always<00:04:57.960><c> a</c><00:04:58.040><c> global</c><00:04:58.440><c> layer,</c><00:04:58.840><c> meaning</c><00:04:59.200><c> that</c><00:04:59.360><c> our</c>
+
+00:04:59.470 --> 00:04:59.480 align:start position:0%
+always a global layer, meaning that our
+ 
+
+00:04:59.480 --> 00:05:01.630 align:start position:0%
+always a global layer, meaning that our
+last<00:04:59.840><c> layer</c><00:05:00.160><c> is</c><00:05:00.320><c> attending</c><00:05:00.800><c> to</c><00:05:00.960><c> all</c><00:05:01.160><c> preceding</c>
+
+00:05:01.630 --> 00:05:01.640 align:start position:0%
+last layer is attending to all preceding
+ 
+
+00:05:01.640 --> 00:05:03.750 align:start position:0%
+last layer is attending to all preceding
+tokens.
+
+00:05:03.750 --> 00:05:03.760 align:start position:0%
+tokens.
+ 
+
+00:05:03.760 --> 00:05:05.870 align:start position:0%
+tokens.
+In<00:05:03.960><c> practice,</c><00:05:04.600><c> what</c><00:05:04.760><c> this</c><00:05:04.960><c> looks</c><00:05:05.240><c> like</c><00:05:05.600><c> is</c><00:05:05.760><c> our</c>
+
+00:05:05.870 --> 00:05:05.880 align:start position:0%
+In practice, what this looks like is our
+ 
+
+00:05:05.880 --> 00:05:07.910 align:start position:0%
+In practice, what this looks like is our
+global<00:05:06.280><c> layers</c><00:05:06.640><c> are</c><00:05:06.760><c> attending</c><00:05:07.200><c> to</c><00:05:07.360><c> every</c>
+
+00:05:07.910 --> 00:05:07.920 align:start position:0%
+global layers are attending to every
+ 
+
+00:05:07.920 --> 00:05:10.110 align:start position:0%
+global layers are attending to every
+token<00:05:08.280><c> that</c><00:05:08.440><c> is</c><00:05:08.560><c> preceded</c><00:05:09.040><c> within</c><00:05:09.360><c> this,</c>
+
+00:05:10.110 --> 00:05:10.120 align:start position:0%
+token that is preceded within this,
+ 
+
+00:05:10.120 --> 00:05:12.150 align:start position:0%
+token that is preceded within this,
+whereas<00:05:10.720><c> our</c><00:05:10.920><c> local</c><00:05:11.280><c> models</c><00:05:11.680><c> are</c><00:05:11.840><c> only</c>
+
+00:05:12.150 --> 00:05:12.160 align:start position:0%
+whereas our local models are only
+ 
+
+00:05:12.160 --> 00:05:14.070 align:start position:0%
+whereas our local models are only
+attending<00:05:12.680><c> to</c><00:05:12.800><c> a</c><00:05:12.840><c> specific</c><00:05:13.440><c> number</c><00:05:13.840><c> of</c>
+
+00:05:14.070 --> 00:05:14.080 align:start position:0%
+attending to a specific number of
+ 
+
+00:05:14.080 --> 00:05:16.670 align:start position:0%
+attending to a specific number of
+preceding<00:05:14.560><c> tokens.</c><00:05:15.520><c> In</c><00:05:15.640><c> our</c><00:05:15.760><c> smaller</c><00:05:16.200><c> models,</c>
+
+00:05:16.670 --> 00:05:16.680 align:start position:0%
+preceding tokens. In our smaller models,
+ 
+
+00:05:16.680 --> 00:05:19.470 align:start position:0%
+preceding tokens. In our smaller models,
+we<00:05:16.800><c> have</c><00:05:16.920><c> a</c><00:05:17.000><c> sliding</c><00:05:17.400><c> window</c><00:05:17.840><c> of</c><00:05:18.000><c> 512</c><00:05:18.920><c> tokens,</c>
+
+00:05:19.470 --> 00:05:19.480 align:start position:0%
+we have a sliding window of 512 tokens,
+ 
+
+00:05:19.480 --> 00:05:21.030 align:start position:0%
+we have a sliding window of 512 tokens,
+while<00:05:19.800><c> in</c><00:05:19.960><c> our</c><00:05:20.080><c> larger</c><00:05:20.400><c> models,</c><00:05:20.840><c> we</c><00:05:20.920><c> have</c><00:05:21.000><c> a</c>
+
+00:05:21.030 --> 00:05:21.040 align:start position:0%
+while in our larger models, we have a
+ 
+
+00:05:21.040 --> 00:05:25.270 align:start position:0%
+while in our larger models, we have a
+sliding<00:05:21.440><c> window</c><00:05:22.120><c> of</c><00:05:22.280><c> 1,024</c><00:05:23.280><c> tokens.</c>
+
+00:05:25.270 --> 00:05:25.280 align:start position:0%
+sliding window of 1,024 tokens.
+ 
+
+00:05:25.280 --> 00:05:27.030 align:start position:0%
+sliding window of 1,024 tokens.
+This<00:05:25.520><c> sliding</c><00:05:25.960><c> window</c><00:05:26.320><c> has</c><00:05:26.560><c> provided</c>
+
+00:05:27.030 --> 00:05:27.040 align:start position:0%
+This sliding window has provided
+ 
+
+00:05:27.040 --> 00:05:28.630 align:start position:0%
+This sliding window has provided
+significant<00:05:27.760><c> improvements</c><00:05:28.400><c> in</c><00:05:28.520><c> the</c>
+
+00:05:28.630 --> 00:05:28.640 align:start position:0%
+significant improvements in the
+ 
+
+00:05:28.640 --> 00:05:31.110 align:start position:0%
+significant improvements in the
+efficiency<00:05:29.280><c> and</c><00:05:29.440><c> optimizations</c><00:05:30.840><c> of</c><00:05:31.000><c> our</c>
+
+00:05:31.110 --> 00:05:31.120 align:start position:0%
+efficiency and optimizations of our
+ 
+
+00:05:31.120 --> 00:05:33.070 align:start position:0%
+efficiency and optimizations of our
+local<00:05:31.520><c> layers</c><00:05:32.000><c> while</c><00:05:32.200><c> still</c><00:05:32.480><c> maintaining</c>
+
+00:05:33.070 --> 00:05:33.080 align:start position:0%
+local layers while still maintaining
+ 
+
+00:05:33.080 --> 00:05:34.830 align:start position:0%
+local layers while still maintaining
+passing<00:05:33.520><c> through</c><00:05:33.880><c> information</c><00:05:34.640><c> to</c><00:05:34.720><c> the</c>
+
+00:05:34.830 --> 00:05:34.840 align:start position:0%
+passing through information to the
+ 
+
+00:05:34.840 --> 00:05:37.150 align:start position:0%
+passing through information to the
+preceding<00:05:35.320><c> layers.</c>
+
+00:05:37.150 --> 00:05:37.160 align:start position:0%
+preceding layers.
+ 
+
+00:05:37.160 --> 00:05:39.470 align:start position:0%
+preceding layers.
+However,<00:05:37.840><c> our</c><00:05:38.000><c> global</c><00:05:38.400><c> layers</c><00:05:38.760><c> remain</c><00:05:39.120><c> to</c><00:05:39.200><c> be</c>
+
+00:05:39.470 --> 00:05:39.480 align:start position:0%
+However, our global layers remain to be
+ 
+
+00:05:39.480 --> 00:05:41.350 align:start position:0%
+However, our global layers remain to be
+quite<00:05:39.760><c> expensive.</c><00:05:40.680><c> Despite</c><00:05:41.160><c> this</c>
+
+00:05:41.350 --> 00:05:41.360 align:start position:0%
+quite expensive. Despite this
+ 
+
+00:05:41.360 --> 00:05:43.710 align:start position:0%
+quite expensive. Despite this
+interleaving<00:05:42.240><c> of</c><00:05:42.520><c> local</c><00:05:42.880><c> and</c><00:05:43.000><c> global</c><00:05:43.320><c> layers,</c>
+
+00:05:43.710 --> 00:05:43.720 align:start position:0%
+interleaving of local and global layers,
+ 
+
+00:05:43.720 --> 00:05:45.150 align:start position:0%
+interleaving of local and global layers,
+all<00:05:43.920><c> of</c><00:05:44.000><c> our</c><00:05:44.120><c> global</c><00:05:44.440><c> layers</c><00:05:44.760><c> are</c><00:05:44.880><c> still</c>
+
+00:05:45.150 --> 00:05:45.160 align:start position:0%
+all of our global layers are still
+ 
+
+00:05:45.160 --> 00:05:46.870 align:start position:0%
+all of our global layers are still
+required<00:05:45.680><c> to</c><00:05:45.800><c> attend</c><00:05:46.120><c> to</c><00:05:46.240><c> all</c><00:05:46.440><c> preceding</c>
+
+00:05:46.870 --> 00:05:46.880 align:start position:0%
+required to attend to all preceding
+ 
+
+00:05:46.880 --> 00:05:48.830 align:start position:0%
+required to attend to all preceding
+tokens,<00:05:47.680><c> which</c><00:05:47.840><c> makes</c><00:05:48.080><c> it</c><00:05:48.200><c> quite</c><00:05:48.520><c> memory</c>
+
+00:05:48.830 --> 00:05:48.840 align:start position:0%
+tokens, which makes it quite memory
+ 
+
+00:05:48.840 --> 00:05:51.470 align:start position:0%
+tokens, which makes it quite memory
+intensive<00:05:49.480><c> and</c><00:05:49.640><c> expensive</c><00:05:50.160><c> to</c><00:05:50.280><c> run.</c>
+
+00:05:51.470 --> 00:05:51.480 align:start position:0%
+intensive and expensive to run.
+ 
+
+00:05:51.480 --> 00:05:52.950 align:start position:0%
+intensive and expensive to run.
+And<00:05:51.640><c> this</c><00:05:51.800><c> is</c><00:05:51.960><c> where</c><00:05:52.160><c> we've</c><00:05:52.400><c> looked</c><00:05:52.720><c> into</c>
+
+00:05:52.950 --> 00:05:52.960 align:start position:0%
+And this is where we've looked into
+ 
+
+00:05:52.960 --> 00:05:55.430 align:start position:0%
+And this is where we've looked into
+introducing<00:05:53.720><c> grouped</c><00:05:54.040><c> query</c><00:05:54.280><c> attention.</c>
+
+00:05:55.430 --> 00:05:55.440 align:start position:0%
+introducing grouped query attention.
+ 
+
+00:05:55.440 --> 00:05:57.070 align:start position:0%
+introducing grouped query attention.
+Within<00:05:55.720><c> our</c><00:05:55.840><c> local</c><00:05:56.200><c> layers,</c><00:05:56.680><c> we</c><00:05:56.840><c> group</c>
+
+00:05:57.070 --> 00:05:57.080 align:start position:0%
+Within our local layers, we group
+ 
+
+00:05:57.080 --> 00:05:59.630 align:start position:0%
+Within our local layers, we group
+together<00:05:57.520><c> two</c><00:05:57.840><c> queries</c><00:05:58.600><c> to</c><00:05:58.760><c> share</c><00:05:59.080><c> the</c><00:05:59.200><c> same</c>
+
+00:05:59.630 --> 00:05:59.640 align:start position:0%
+together two queries to share the same
+ 
+
+00:05:59.640 --> 00:06:01.470 align:start position:0%
+together two queries to share the same
+key<00:05:59.920><c> and</c><00:06:00.000><c> value</c><00:06:00.360><c> heads.</c>
+
+00:06:01.470 --> 00:06:01.480 align:start position:0%
+key and value heads.
+ 
+
+00:06:01.480 --> 00:06:03.470 align:start position:0%
+key and value heads.
+However,<00:06:02.000><c> in</c><00:06:02.240><c> our</c><00:06:02.400><c> global</c><00:06:02.880><c> layers,</c><00:06:03.320><c> we're</c>
+
+00:06:03.470 --> 00:06:03.480 align:start position:0%
+However, in our global layers, we're
+ 
+
+00:06:03.480 --> 00:06:06.030 align:start position:0%
+However, in our global layers, we're
+grouping<00:06:03.840><c> together</c><00:06:04.360><c> eight</c><00:06:04.680><c> queries</c><00:06:05.440><c> sharing</c>
+
+00:06:06.030 --> 00:06:06.040 align:start position:0%
+grouping together eight queries sharing
+ 
+
+00:06:06.040 --> 00:06:08.950 align:start position:0%
+grouping together eight queries sharing
+the<00:06:06.200><c> same</c><00:06:06.560><c> key</c><00:06:06.760><c> and</c><00:06:06.840><c> value</c><00:06:07.200><c> heads.</c>
+
+00:06:08.950 --> 00:06:08.960 align:start position:0%
+the same key and value heads.
+ 
+
+00:06:08.960 --> 00:06:10.750 align:start position:0%
+the same key and value heads.
+Since<00:06:09.480><c> reducing</c><00:06:09.960><c> the</c><00:06:10.040><c> number</c><00:06:10.360><c> of</c><00:06:10.480><c> key</c><00:06:10.640><c> and</c>
+
+00:06:10.750 --> 00:06:10.760 align:start position:0%
+Since reducing the number of key and
+ 
+
+00:06:10.760 --> 00:06:12.950 align:start position:0%
+Since reducing the number of key and
+value<00:06:11.120><c> heads</c><00:06:11.520><c> can</c><00:06:11.920><c> have</c><00:06:12.120><c> a</c><00:06:12.160><c> big</c><00:06:12.400><c> impact</c><00:06:12.840><c> on</c>
+
+00:06:12.950 --> 00:06:12.960 align:start position:0%
+value heads can have a big impact on
+ 
+
+00:06:12.960 --> 00:06:14.910 align:start position:0%
+value heads can have a big impact on
+performance,<00:06:13.600><c> we've</c><00:06:13.840><c> doubled</c><00:06:14.280><c> the</c><00:06:14.400><c> length</c><00:06:14.800><c> of</c>
+
+00:06:14.910 --> 00:06:14.920 align:start position:0%
+performance, we've doubled the length of
+ 
+
+00:06:14.920 --> 00:06:16.670 align:start position:0%
+performance, we've doubled the length of
+the<00:06:15.000><c> key</c><00:06:15.200><c> value</c><00:06:15.560><c> heads</c><00:06:15.880><c> within</c><00:06:16.200><c> our</c><00:06:16.320><c> global</c>
+
+00:06:16.670 --> 00:06:16.680 align:start position:0%
+the key value heads within our global
+ 
+
+00:06:16.680 --> 00:06:19.470 align:start position:0%
+the key value heads within our global
+layers<00:06:17.400><c> to</c><00:06:17.480><c> have</c><00:06:17.680><c> a</c><00:06:17.720><c> length</c><00:06:18.040><c> of</c><00:06:18.160><c> 512</c><00:06:19.280><c> as</c>
+
+00:06:19.470 --> 00:06:19.480 align:start position:0%
+layers to have a length of 512 as
+ 
+
+00:06:19.480 --> 00:06:22.470 align:start position:0%
+layers to have a length of 512 as
+opposed<00:06:19.880><c> to</c><00:06:20.000><c> 256</c><00:06:21.400><c> as</c><00:06:21.600><c> used</c><00:06:21.840><c> within</c><00:06:22.080><c> the</c><00:06:22.160><c> local</c>
+
+00:06:22.470 --> 00:06:22.480 align:start position:0%
+opposed to 256 as used within the local
+ 
+
+00:06:22.480 --> 00:06:24.510 align:start position:0%
+opposed to 256 as used within the local
+layers.
+
+00:06:24.510 --> 00:06:24.520 align:start position:0%
+layers.
+ 
+
+00:06:24.520 --> 00:06:26.110 align:start position:0%
+layers.
+This<00:06:24.800><c> grouped</c><00:06:25.080><c> query</c><00:06:25.360><c> attention</c><00:06:25.920><c> has</c>
+
+00:06:26.110 --> 00:06:26.120 align:start position:0%
+This grouped query attention has
+ 
+
+00:06:26.120 --> 00:06:27.750 align:start position:0%
+This grouped query attention has
+provided<00:06:26.680><c> significant</c><00:06:27.280><c> performance</c>
+
+00:06:27.750 --> 00:06:27.760 align:start position:0%
+provided significant performance
+ 
+
+00:06:27.760 --> 00:06:30.910 align:start position:0%
+provided significant performance
+improvements<00:06:28.640><c> without</c><00:06:29.280><c> massive</c><00:06:29.760><c> memory</c><00:06:30.440><c> cost</c>
+
+00:06:30.910 --> 00:06:30.920 align:start position:0%
+improvements without massive memory cost
+ 
+
+00:06:30.920 --> 00:06:33.750 align:start position:0%
+improvements without massive memory cost
+and<00:06:31.880><c> inference</c><00:06:32.560><c> increases</c><00:06:33.080><c> in</c><00:06:33.240><c> the</c><00:06:33.440><c> cost</c><00:06:33.680><c> of</c>
+
+00:06:33.750 --> 00:06:33.760 align:start position:0%
+and inference increases in the cost of
+ 
+
+00:06:33.760 --> 00:06:36.030 align:start position:0%
+and inference increases in the cost of
+being<00:06:33.920><c> able</c><00:06:34.120><c> to</c><00:06:34.240><c> serve</c><00:06:34.440><c> these</c><00:06:34.640><c> models.</c><00:06:35.640><c> This</c>
+
+00:06:36.030 --> 00:06:36.040 align:start position:0%
+being able to serve these models. This
+ 
+
+00:06:36.040 --> 00:06:39.510 align:start position:0%
+being able to serve these models. This
+ratio<00:06:36.640><c> of</c><00:06:37.000><c> eight</c><00:06:37.200><c> queries</c><00:06:37.800><c> to</c><00:06:38.440><c> one</c><00:06:38.760><c> key</c><00:06:38.960><c> value</c>
+
+00:06:39.510 --> 00:06:39.520 align:start position:0%
+ratio of eight queries to one key value
+ 
+
+00:06:39.520 --> 00:06:42.030 align:start position:0%
+ratio of eight queries to one key value
+across<00:06:40.000><c> all</c><00:06:40.200><c> of</c><00:06:40.320><c> our</c><00:06:40.440><c> models</c><00:06:41.240><c> has</c><00:06:41.480><c> provided</c>
+
+00:06:42.030 --> 00:06:42.040 align:start position:0%
+across all of our models has provided
+ 
+
+00:06:42.040 --> 00:06:43.430 align:start position:0%
+across all of our models has provided
+significant<00:06:42.560><c> improvements</c><00:06:43.200><c> in</c><00:06:43.320><c> the</c>
+
+00:06:43.430 --> 00:06:43.440 align:start position:0%
+significant improvements in the
+ 
+
+00:06:43.440 --> 00:06:47.870 align:start position:0%
+significant improvements in the
+efficiency<00:06:44.080><c> of</c><00:06:44.240><c> our</c><00:06:44.360><c> global</c><00:06:44.720><c> layers.</c>
+
+00:06:47.870 --> 00:06:47.880 align:start position:0%
+ 
+ 
+
+00:06:47.880 --> 00:06:49.510 align:start position:0%
+ 
+These<00:06:48.200><c> attention</c><00:06:48.640><c> changes</c><00:06:49.080><c> were</c><00:06:49.200><c> present</c>
+
+00:06:49.510 --> 00:06:49.520 align:start position:0%
+These attention changes were present
+ 
+
+00:06:49.520 --> 00:06:51.430 align:start position:0%
+These attention changes were present
+across<00:06:49.880><c> all</c><00:06:50.080><c> of</c><00:06:50.200><c> our</c><00:06:50.320><c> models,</c><00:06:50.840><c> but</c><00:06:51.000><c> we</c><00:06:51.120><c> also</c>
+
+00:06:51.430 --> 00:06:51.440 align:start position:0%
+across all of our models, but we also
+ 
+
+00:06:51.440 --> 00:06:53.710 align:start position:0%
+across all of our models, but we also
+introduced<00:06:52.120><c> a</c><00:06:52.200><c> new</c><00:06:52.520><c> architecture</c><00:06:53.240><c> with</c><00:06:53.400><c> Gemma</c>
+
+00:06:53.710 --> 00:06:53.720 align:start position:0%
+introduced a new architecture with Gemma
+ 
+
+00:06:53.720 --> 00:06:57.750 align:start position:0%
+introduced a new architecture with Gemma
+4,<00:06:54.200><c> and</c><00:06:54.360><c> this</c><00:06:54.600><c> is</c><00:06:54.880><c> our</c><00:06:55.040><c> MoE.</c>
+
+00:06:57.750 --> 00:06:57.760 align:start position:0%
+ 
+ 
+
+00:06:57.760 --> 00:07:00.390 align:start position:0%
+ 
+Our<00:06:58.040><c> MoE</c><00:06:58.560><c> has</c><00:06:58.880><c> one</c><00:06:59.160><c> shared</c><00:06:59.520><c> router</c><00:06:59.800><c> expert</c>
+
+00:07:00.390 --> 00:07:00.400 align:start position:0%
+Our MoE has one shared router expert
+ 
+
+00:07:00.400 --> 00:07:04.030 align:start position:0%
+Our MoE has one shared router expert
+with<00:07:00.560><c> a</c><00:07:00.640><c> total</c><00:07:01.040><c> of</c><00:07:01.160><c> 128</c><00:07:02.480><c> total</c><00:07:02.880><c> experts</c><00:07:03.760><c> with</c>
+
+00:07:04.030 --> 00:07:04.040 align:start position:0%
+with a total of 128 total experts with
+ 
+
+00:07:04.040 --> 00:07:06.270 align:start position:0%
+with a total of 128 total experts with
+eight<00:07:04.360><c> activated</c><00:07:04.960><c> experts</c><00:07:05.480><c> on</c><00:07:05.680><c> each</c><00:07:05.920><c> forward</c>
+
+00:07:06.270 --> 00:07:06.280 align:start position:0%
+eight activated experts on each forward
+ 
+
+00:07:06.280 --> 00:07:07.470 align:start position:0%
+eight activated experts on each forward
+pass.
+
+00:07:07.470 --> 00:07:07.480 align:start position:0%
+pass.
+ 
+
+00:07:07.480 --> 00:07:09.110 align:start position:0%
+pass.
+All<00:07:07.720><c> of</c><00:07:07.800><c> these</c><00:07:08.040><c> experts</c><00:07:08.520><c> are</c><00:07:08.680><c> small</c>
+
+00:07:09.110 --> 00:07:09.120 align:start position:0%
+All of these experts are small
+ 
+
+00:07:09.120 --> 00:07:11.710 align:start position:0%
+All of these experts are small
+feedforward<00:07:09.760><c> neural</c><00:07:10.040><c> networks.</c>
+
+00:07:11.710 --> 00:07:11.720 align:start position:0%
+feedforward neural networks.
+ 
+
+00:07:11.720 --> 00:07:13.510 align:start position:0%
+feedforward neural networks.
+Similar<00:07:12.240><c> to</c><00:07:12.320><c> the</c><00:07:12.440><c> architecture</c><00:07:13.000><c> that</c><00:07:13.120><c> we</c><00:07:13.280><c> had</c>
+
+00:07:13.510 --> 00:07:13.520 align:start position:0%
+Similar to the architecture that we had
+ 
+
+00:07:13.520 --> 00:07:15.590 align:start position:0%
+Similar to the architecture that we had
+with<00:07:13.640><c> our</c><00:07:13.720><c> dense</c><00:07:14.040><c> model,</c><00:07:14.720><c> we've</c><00:07:14.920><c> now</c><00:07:15.120><c> replaced</c>
+
+00:07:15.590 --> 00:07:15.600 align:start position:0%
+with our dense model, we've now replaced
+ 
+
+00:07:15.600 --> 00:07:17.670 align:start position:0%
+with our dense model, we've now replaced
+that<00:07:15.760><c> standard</c><00:07:16.320><c> feedforward</c><00:07:16.920><c> neural</c><00:07:17.160><c> network</c>
+
+00:07:17.670 --> 00:07:17.680 align:start position:0%
+that standard feedforward neural network
+ 
+
+00:07:17.680 --> 00:07:19.470 align:start position:0%
+that standard feedforward neural network
+with<00:07:17.880><c> an</c><00:07:18.000><c> MoE.</c>
+
+00:07:19.470 --> 00:07:19.480 align:start position:0%
+with an MoE.
+ 
+
+00:07:19.480 --> 00:07:21.270 align:start position:0%
+with an MoE.
+In<00:07:19.640><c> practice,</c><00:07:20.240><c> what</c><00:07:20.400><c> this</c><00:07:20.600><c> looks</c><00:07:20.840><c> like</c><00:07:21.080><c> is</c>
+
+00:07:21.270 --> 00:07:21.280 align:start position:0%
+In practice, what this looks like is
+ 
+
+00:07:21.280 --> 00:07:23.230 align:start position:0%
+In practice, what this looks like is
+having<00:07:21.600><c> our</c><00:07:21.720><c> constant</c><00:07:22.240><c> shared</c><00:07:22.560><c> expert,</c><00:07:23.080><c> which</c>
+
+00:07:23.230 --> 00:07:23.240 align:start position:0%
+having our constant shared expert, which
+ 
+
+00:07:23.240 --> 00:07:26.870 align:start position:0%
+having our constant shared expert, which
+is<00:07:23.400><c> activated</c><00:07:24.120><c> on</c><00:07:24.400><c> every</c><00:07:24.800><c> pass</c><00:07:25.160><c> of</c><00:07:25.280><c> the</c><00:07:25.360><c> model.</c>
+
+00:07:26.870 --> 00:07:26.880 align:start position:0%
+is activated on every pass of the model.
+ 
+
+00:07:26.880 --> 00:07:28.790 align:start position:0%
+is activated on every pass of the model.
+This<00:07:27.200><c> shared</c><00:07:27.480><c> expert</c><00:07:27.880><c> is</c><00:07:28.040><c> three</c><00:07:28.320><c> times</c><00:07:28.680><c> the</c>
+
+00:07:28.790 --> 00:07:28.800 align:start position:0%
+This shared expert is three times the
+ 
+
+00:07:28.800 --> 00:07:31.750 align:start position:0%
+This shared expert is three times the
+size<00:07:29.160><c> of</c><00:07:29.280><c> our</c><00:07:29.680><c> of</c><00:07:29.880><c> our</c><00:07:30.000><c> regular</c><00:07:30.440><c> experts.</c>
+
+00:07:31.750 --> 00:07:31.760 align:start position:0%
+size of our of our regular experts.
+ 
+
+00:07:31.760 --> 00:07:35.430 align:start position:0%
+size of our of our regular experts.
+We<00:07:31.920><c> then</c><00:07:32.200><c> have</c><00:07:32.480><c> 128</c><00:07:33.480><c> experts,</c><00:07:34.120><c> each</c><00:07:34.400><c> of</c><00:07:34.520><c> which</c>
+
+00:07:35.430 --> 00:07:35.440 align:start position:0%
+We then have 128 experts, each of which
+ 
+
+00:07:35.440 --> 00:07:37.110 align:start position:0%
+We then have 128 experts, each of which
+eight<00:07:35.760><c> of</c><00:07:35.880><c> which</c><00:07:36.160><c> are</c><00:07:36.280><c> selected</c><00:07:36.840><c> by</c><00:07:36.960><c> the</c>
+
+00:07:37.110 --> 00:07:37.120 align:start position:0%
+eight of which are selected by the
+ 
+
+00:07:37.120 --> 00:07:42.310 align:start position:0%
+eight of which are selected by the
+router<00:07:37.560><c> during</c><00:07:37.840><c> any</c><00:07:38.120><c> pass</c><00:07:38.480><c> of</c><00:07:38.600><c> the</c><00:07:38.680><c> model.</c>
+
+00:07:42.310 --> 00:07:42.320 align:start position:0%
+ 
+ 
+
+00:07:42.320 --> 00:07:44.630 align:start position:0%
+ 
+And<00:07:42.800><c> lastly,</c><00:07:43.240><c> on</c><00:07:43.360><c> an</c><00:07:43.440><c> architecture</c><00:07:44.000><c> side,</c><00:07:44.520><c> we</c>
+
+00:07:44.630 --> 00:07:44.640 align:start position:0%
+And lastly, on an architecture side, we
+ 
+
+00:07:44.640 --> 00:07:47.550 align:start position:0%
+And lastly, on an architecture side, we
+get<00:07:44.880><c> into</c><00:07:45.320><c> our</c><00:07:45.520><c> dense</c><00:07:45.880><c> effective</c><00:07:46.440><c> models.</c>
+
+00:07:47.550 --> 00:07:47.560 align:start position:0%
+get into our dense effective models.
+ 
+
+00:07:47.560 --> 00:07:49.190 align:start position:0%
+get into our dense effective models.
+So,<00:07:47.720><c> what</c><00:07:47.880><c> does</c><00:07:48.000><c> it</c><00:07:48.160><c> mean</c><00:07:48.520><c> when</c><00:07:48.680><c> we're</c><00:07:48.800><c> saying</c>
+
+00:07:49.190 --> 00:07:49.200 align:start position:0%
+So, what does it mean when we're saying
+ 
+
+00:07:49.200 --> 00:07:51.790 align:start position:0%
+So, what does it mean when we're saying
+our<00:07:49.320><c> model</c><00:07:49.640><c> is</c><00:07:49.840><c> effectively</c><00:07:50.560><c> 2B,</c><00:07:51.080><c> effectively</c>
+
+00:07:51.790 --> 00:07:51.800 align:start position:0%
+our model is effectively 2B, effectively
+ 
+
+00:07:51.800 --> 00:07:54.110 align:start position:0%
+our model is effectively 2B, effectively
+4B?<00:07:52.880><c> This</c><00:07:53.040><c> is</c><00:07:53.240><c> where</c><00:07:53.440><c> we're</c><00:07:53.600><c> looking</c><00:07:53.920><c> at</c><00:07:54.040><c> the</c>
+
+00:07:54.110 --> 00:07:54.120 align:start position:0%
+4B? This is where we're looking at the
+ 
+
+00:07:54.120 --> 00:07:55.950 align:start position:0%
+4B? This is where we're looking at the
+difference<00:07:54.640><c> in</c><00:07:54.800><c> the</c><00:07:54.880><c> number</c><00:07:55.240><c> of</c><00:07:55.360><c> parameters</c>
+
+00:07:55.950 --> 00:07:55.960 align:start position:0%
+difference in the number of parameters
+ 
+
+00:07:55.960 --> 00:07:58.110 align:start position:0%
+difference in the number of parameters
+which<00:07:56.120><c> are</c><00:07:56.200><c> required</c><00:07:56.800><c> to</c><00:07:57.080><c> operate</c><00:07:57.600><c> the</c><00:07:57.680><c> model</c>
+
+00:07:58.110 --> 00:07:58.120 align:start position:0%
+which are required to operate the model
+ 
+
+00:07:58.120 --> 00:07:59.830 align:start position:0%
+which are required to operate the model
+as<00:07:58.320><c> opposed</c><00:07:58.800><c> to</c><00:07:58.880><c> the</c><00:07:59.000><c> total</c><00:07:59.360><c> number</c><00:07:59.720><c> of</c>
+
+00:07:59.830 --> 00:07:59.840 align:start position:0%
+as opposed to the total number of
+ 
+
+00:07:59.840 --> 00:08:02.430 align:start position:0%
+as opposed to the total number of
+representational<00:08:00.680><c> parameters</c><00:08:01.200><c> present.</c>
+
+00:08:02.430 --> 00:08:02.440 align:start position:0%
+representational parameters present.
+ 
+
+00:08:02.440 --> 00:08:05.270 align:start position:0%
+representational parameters present.
+Our<00:08:02.640><c> 2B</c><00:08:03.200><c> is</c><00:08:03.360><c> effectively</c><00:08:04.000><c> 2.3</c><00:08:04.840><c> billion</c>
+
+00:08:05.270 --> 00:08:05.280 align:start position:0%
+Our 2B is effectively 2.3 billion
+ 
+
+00:08:05.280 --> 00:08:06.830 align:start position:0%
+Our 2B is effectively 2.3 billion
+parameters<00:08:06.280><c> while</c><00:08:06.480><c> having</c><00:08:06.800><c> a</c>
+
+00:08:06.830 --> 00:08:06.840 align:start position:0%
+parameters while having a
+ 
+
+00:08:06.840 --> 00:08:09.550 align:start position:0%
+parameters while having a
+representational<00:08:07.760><c> depth</c><00:08:08.120><c> of</c><00:08:08.280><c> 5.1</c><00:08:09.160><c> billion</c>
+
+00:08:09.550 --> 00:08:09.560 align:start position:0%
+representational depth of 5.1 billion
+ 
+
+00:08:09.560 --> 00:08:10.990 align:start position:0%
+representational depth of 5.1 billion
+parameters.
+
+00:08:10.990 --> 00:08:11.000 align:start position:0%
+parameters.
+ 
+
+00:08:11.000 --> 00:08:12.830 align:start position:0%
+parameters.
+These<00:08:11.280><c> models</c><00:08:11.720><c> have</c><00:08:11.880><c> been</c><00:08:12.120><c> specifically</c>
+
+00:08:12.830 --> 00:08:12.840 align:start position:0%
+These models have been specifically
+ 
+
+00:08:12.840 --> 00:08:14.870 align:start position:0%
+These models have been specifically
+designated<00:08:13.440><c> and</c><00:08:13.560><c> optimized</c><00:08:14.280><c> in</c><00:08:14.480><c> order</c><00:08:14.720><c> to</c>
+
+00:08:14.870 --> 00:08:14.880 align:start position:0%
+designated and optimized in order to
+ 
+
+00:08:14.880 --> 00:08:17.110 align:start position:0%
+designated and optimized in order to
+have<00:08:15.120><c> the</c><00:08:15.240><c> best</c><00:08:15.640><c> on-device</c><00:08:16.200><c> performance.</c>
+
+00:08:17.110 --> 00:08:17.120 align:start position:0%
+have the best on-device performance.
+ 
+
+00:08:17.120 --> 00:08:19.070 align:start position:0%
+have the best on-device performance.
+These<00:08:17.320><c> are</c><00:08:17.440><c> designed</c><00:08:17.840><c> to</c><00:08:18.000><c> run</c><00:08:18.240><c> on</c><00:08:18.400><c> phones,</c><00:08:18.880><c> run</c>
+
+00:08:19.070 --> 00:08:19.080 align:start position:0%
+These are designed to run on phones, run
+ 
+
+00:08:19.080 --> 00:08:21.430 align:start position:0%
+These are designed to run on phones, run
+on<00:08:19.240><c> laptops</c><00:08:19.840><c> without</c><00:08:20.280><c> requiring</c><00:08:20.880><c> expensive</c>
+
+00:08:21.430 --> 00:08:21.440 align:start position:0%
+on laptops without requiring expensive
+ 
+
+00:08:21.440 --> 00:08:23.750 align:start position:0%
+on laptops without requiring expensive
+API<00:08:21.920><c> calls</c><00:08:22.640><c> to</c><00:08:22.760><c> models</c><00:08:23.160><c> served</c><00:08:23.520><c> somewhere</c>
+
+00:08:23.750 --> 00:08:23.760 align:start position:0%
+API calls to models served somewhere
+ 
+
+00:08:23.760 --> 00:08:25.830 align:start position:0%
+API calls to models served somewhere
+else<00:08:24.040><c> in</c><00:08:24.120><c> the</c><00:08:24.200><c> world.</c>
+
+00:08:25.830 --> 00:08:25.840 align:start position:0%
+else in the world.
+ 
+
+00:08:25.840 --> 00:08:27.550 align:start position:0%
+else in the world.
+These<00:08:26.040><c> advancements</c><00:08:26.640><c> were</c><00:08:26.760><c> made</c><00:08:27.000><c> possible</c>
+
+00:08:27.550 --> 00:08:27.560 align:start position:0%
+These advancements were made possible
+ 
+
+00:08:27.560 --> 00:08:29.910 align:start position:0%
+These advancements were made possible
+through<00:08:27.880><c> PLE.</c><00:08:28.760><c> This</c><00:08:28.960><c> is</c><00:08:29.080><c> our</c><00:08:29.240><c> per-layer</c>
+
+00:08:29.910 --> 00:08:29.920 align:start position:0%
+through PLE. This is our per-layer
+ 
+
+00:08:29.920 --> 00:08:31.790 align:start position:0%
+through PLE. This is our per-layer
+embeddings,<00:08:30.600><c> where</c><00:08:30.800><c> within</c><00:08:31.280><c> each</c><00:08:31.520><c> of</c><00:08:31.640><c> our</c>
+
+00:08:31.790 --> 00:08:31.800 align:start position:0%
+embeddings, where within each of our
+ 
+
+00:08:31.800 --> 00:08:33.589 align:start position:0%
+embeddings, where within each of our
+layers,<00:08:32.200><c> we</c><00:08:32.360><c> now</c><00:08:32.640><c> have</c><00:08:32.919><c> a</c><00:08:32.960><c> dedicated</c>
+
+00:08:33.589 --> 00:08:33.599 align:start position:0%
+layers, we now have a dedicated
+ 
+
+00:08:33.599 --> 00:08:36.430 align:start position:0%
+layers, we now have a dedicated
+embedding<00:08:34.000><c> table.</c>
+
+00:08:36.430 --> 00:08:36.440 align:start position:0%
+embedding table.
+ 
+
+00:08:36.440 --> 00:08:38.270 align:start position:0%
+embedding table.
+Before<00:08:36.800><c> digging</c><00:08:37.159><c> into</c><00:08:37.520><c> exactly</c><00:08:38.000><c> how</c><00:08:38.120><c> our</c>
+
+00:08:38.270 --> 00:08:38.280 align:start position:0%
+Before digging into exactly how our
+ 
+
+00:08:38.280 --> 00:08:40.630 align:start position:0%
+Before digging into exactly how our
+per-layer<00:08:38.960><c> layer</c><00:08:39.280><c> embedding</c><00:08:39.680><c> table</c><00:08:40.000><c> looks,</c>
+
+00:08:40.630 --> 00:08:40.640 align:start position:0%
+per-layer layer embedding table looks,
+ 
+
+00:08:40.640 --> 00:08:42.310 align:start position:0%
+per-layer layer embedding table looks,
+let's<00:08:40.840><c> take</c><00:08:41.000><c> a</c><00:08:41.080><c> look</c><00:08:41.280><c> at</c><00:08:41.360><c> how</c><00:08:41.520><c> the</c><00:08:41.680><c> entire</c>
+
+00:08:42.310 --> 00:08:42.320 align:start position:0%
+let's take a look at how the entire
+ 
+
+00:08:42.320 --> 00:08:44.630 align:start position:0%
+let's take a look at how the entire
+token<00:08:42.719><c> embedding</c><00:08:43.080><c> layer</c><00:08:43.360><c> works.</c><00:08:44.120><c> This</c><00:08:44.320><c> hasn't</c>
+
+00:08:44.630 --> 00:08:44.640 align:start position:0%
+token embedding layer works. This hasn't
+ 
+
+00:08:44.640 --> 00:08:46.750 align:start position:0%
+token embedding layer works. This hasn't
+been<00:08:44.840><c> replaced</c><00:08:45.440><c> within</c><00:08:45.760><c> our</c>
+
+00:08:46.750 --> 00:08:46.760 align:start position:0%
+been replaced within our
+ 
+
+00:08:46.760 --> 00:08:48.870 align:start position:0%
+been replaced within our
+effective<00:08:47.280><c> models.</c><00:08:48.000><c> We</c><00:08:48.160><c> still</c><00:08:48.480><c> have</c><00:08:48.720><c> your</c>
+
+00:08:48.870 --> 00:08:48.880 align:start position:0%
+effective models. We still have your
+ 
+
+00:08:48.880 --> 00:08:50.470 align:start position:0%
+effective models. We still have your
+standard<00:08:49.320><c> embedding</c><00:08:49.680><c> table</c><00:08:50.160><c> where</c><00:08:50.320><c> you're</c>
+
+00:08:50.470 --> 00:08:50.480 align:start position:0%
+standard embedding table where you're
+ 
+
+00:08:50.480 --> 00:08:53.230 align:start position:0%
+standard embedding table where you're
+looking<00:08:50.840><c> at</c><00:08:50.960><c> the</c><00:08:51.080><c> mapping</c><00:08:51.680><c> of</c><00:08:52.360><c> an</c><00:08:52.560><c> ID</c><00:08:53.000><c> for</c><00:08:53.160><c> a</c>
+
+00:08:53.230 --> 00:08:53.240 align:start position:0%
+looking at the mapping of an ID for a
+ 
+
+00:08:53.240 --> 00:08:55.350 align:start position:0%
+looking at the mapping of an ID for a
+token<00:08:53.720><c> into</c><00:08:54.040><c> our</c><00:08:54.440><c> towards</c><00:08:54.800><c> its</c><00:08:54.960><c> embedding</c>
+
+00:08:55.350 --> 00:08:55.360 align:start position:0%
+token into our towards its embedding
+ 
+
+00:08:55.360 --> 00:08:56.590 align:start position:0%
+token into our towards its embedding
+vector.
+
+00:08:56.590 --> 00:08:56.600 align:start position:0%
+vector.
+ 
+
+00:08:56.600 --> 00:08:58.910 align:start position:0%
+vector.
+In<00:08:56.760><c> our</c><00:08:57.000><c> E2B,</c><00:08:57.840><c> we</c><00:08:57.960><c> have</c><00:08:58.120><c> an</c><00:08:58.200><c> embedding</c><00:08:58.600><c> vector</c>
+
+00:08:58.910 --> 00:08:58.920 align:start position:0%
+In our E2B, we have an embedding vector
+ 
+
+00:08:58.920 --> 00:09:01.990 align:start position:0%
+In our E2B, we have an embedding vector
+size<00:08:59.440><c> of</c><00:08:59.600><c> 1,536,</c>
+
+00:09:01.990 --> 00:09:02.000 align:start position:0%
+size of 1,536,
+ 
+
+00:09:02.000 --> 00:09:03.870 align:start position:0%
+size of 1,536,
+and<00:09:02.160><c> in</c><00:09:02.280><c> our</c><00:09:02.400><c> larger</c><00:09:02.800><c> E4B,</c><00:09:03.520><c> we</c><00:09:03.640><c> have</c><00:09:03.800><c> an</c>
+
+00:09:03.870 --> 00:09:03.880 align:start position:0%
+and in our larger E4B, we have an
+ 
+
+00:09:03.880 --> 00:09:07.230 align:start position:0%
+and in our larger E4B, we have an
+embedding<00:09:04.240><c> vector</c><00:09:04.560><c> size</c><00:09:04.960><c> of</c><00:09:05.120><c> 2,560.</c>
+
+00:09:07.230 --> 00:09:07.240 align:start position:0%
+embedding vector size of 2,560.
+ 
+
+00:09:07.240 --> 00:09:08.910 align:start position:0%
+embedding vector size of 2,560.
+This<00:09:07.440><c> is</c><00:09:07.600><c> where</c><00:09:07.760><c> we're</c><00:09:07.920><c> storing</c><00:09:08.440><c> the</c><00:09:08.560><c> vector</c>
+
+00:09:08.910 --> 00:09:08.920 align:start position:0%
+This is where we're storing the vector
+ 
+
+00:09:08.920 --> 00:09:12.990 align:start position:0%
+This is where we're storing the vector
+embeddings<00:09:09.440><c> of</c><00:09:09.640><c> each</c><00:09:09.840><c> of</c><00:09:09.960><c> these</c><00:09:10.240><c> tokens.</c>
+
+00:09:12.990 --> 00:09:13.000 align:start position:0%
+ 
+ 
+
+00:09:13.000 --> 00:09:15.950 align:start position:0%
+ 
+Now,<00:09:13.600><c> we</c><00:09:13.800><c> also</c><00:09:14.040><c> have</c><00:09:14.240><c> a</c><00:09:14.320><c> per-embedding</c><00:09:14.960><c> table.</c>
+
+00:09:15.950 --> 00:09:15.960 align:start position:0%
+Now, we also have a per-embedding table.
+ 
+
+00:09:15.960 --> 00:09:17.790 align:start position:0%
+Now, we also have a per-embedding table.
+A<00:09:16.120><c> per-layer</c><00:09:16.560><c> embedding</c><00:09:16.920><c> table.</c><00:09:17.400><c> This</c><00:09:17.640><c> is</c>
+
+00:09:17.790 --> 00:09:17.800 align:start position:0%
+A per-layer embedding table. This is
+ 
+
+00:09:17.800 --> 00:09:19.910 align:start position:0%
+A per-layer embedding table. This is
+where,<00:09:18.240><c> similarly,</c><00:09:18.960><c> we</c><00:09:19.120><c> have</c><00:09:19.400><c> our</c><00:09:19.520><c> entire</c>
+
+00:09:19.910 --> 00:09:19.920 align:start position:0%
+where, similarly, we have our entire
+ 
+
+00:09:19.920 --> 00:09:21.790 align:start position:0%
+where, similarly, we have our entire
+vocabulary<00:09:20.600><c> size</c><00:09:21.040><c> and</c><00:09:21.160><c> have</c><00:09:21.280><c> an</c><00:09:21.400><c> embedding</c>
+
+00:09:21.790 --> 00:09:21.800 align:start position:0%
+vocabulary size and have an embedding
+ 
+
+00:09:21.800 --> 00:09:24.230 align:start position:0%
+vocabulary size and have an embedding
+representation<00:09:22.560><c> for</c><00:09:22.800><c> each</c><00:09:23.000><c> of</c><00:09:23.080><c> these</c><00:09:23.360><c> tokens,</c>
+
+00:09:24.230 --> 00:09:24.240 align:start position:0%
+representation for each of these tokens,
+ 
+
+00:09:24.240 --> 00:09:26.070 align:start position:0%
+representation for each of these tokens,
+but<00:09:24.400><c> now</c><00:09:24.560><c> we</c><00:09:24.720><c> also</c><00:09:25.080><c> have</c><00:09:25.240><c> one</c><00:09:25.400><c> of</c><00:09:25.520><c> these</c><00:09:25.840><c> for</c>
+
+00:09:26.070 --> 00:09:26.080 align:start position:0%
+but now we also have one of these for
+ 
+
+00:09:26.080 --> 00:09:28.270 align:start position:0%
+but now we also have one of these for
+each<00:09:26.280><c> of</c><00:09:26.360><c> the</c><00:09:26.480><c> layers.</c><00:09:27.480><c> The</c><00:09:27.560><c> big</c><00:09:27.760><c> advancement</c>
+
+00:09:28.270 --> 00:09:28.280 align:start position:0%
+each of the layers. The big advancement
+ 
+
+00:09:28.280 --> 00:09:29.830 align:start position:0%
+each of the layers. The big advancement
+that<00:09:28.400><c> comes</c><00:09:28.680><c> here</c><00:09:29.000><c> is</c><00:09:29.200><c> the</c><00:09:29.280><c> fact</c><00:09:29.600><c> that</c><00:09:29.680><c> we</c>
+
+00:09:29.830 --> 00:09:29.840 align:start position:0%
+that comes here is the fact that we
+ 
+
+00:09:29.840 --> 00:09:32.350 align:start position:0%
+that comes here is the fact that we
+store<00:09:30.320><c> our</c><00:09:30.720><c> PLE,</c><00:09:31.240><c> our</c><00:09:31.440><c> per-layer</c><00:09:31.960><c> embedding</c>
+
+00:09:32.350 --> 00:09:32.360 align:start position:0%
+store our PLE, our per-layer embedding
+ 
+
+00:09:32.360 --> 00:09:34.630 align:start position:0%
+store our PLE, our per-layer embedding
+table,<00:09:33.080><c> in</c><00:09:33.280><c> flash</c><00:09:33.640><c> memory</c><00:09:34.000><c> as</c><00:09:34.160><c> opposed</c><00:09:34.520><c> to</c>
+
+00:09:34.630 --> 00:09:34.640 align:start position:0%
+table, in flash memory as opposed to
+ 
+
+00:09:34.640 --> 00:09:36.870 align:start position:0%
+table, in flash memory as opposed to
+VRAM.<00:09:35.640><c> VRAM</c><00:09:36.000><c> is</c><00:09:36.120><c> one</c><00:09:36.240><c> of</c><00:09:36.320><c> the</c><00:09:36.440><c> largest</c>
+
+00:09:36.870 --> 00:09:36.880 align:start position:0%
+VRAM. VRAM is one of the largest
+ 
+
+00:09:36.880 --> 00:09:38.870 align:start position:0%
+VRAM. VRAM is one of the largest
+constraints<00:09:37.640><c> on</c><00:09:37.840><c> on-device.</c><00:09:38.400><c> It's</c><00:09:38.600><c> where</c><00:09:38.760><c> you</c>
+
+00:09:38.870 --> 00:09:38.880 align:start position:0%
+constraints on on-device. It's where you
+ 
+
+00:09:38.880 --> 00:09:41.390 align:start position:0%
+constraints on on-device. It's where you
+quickly<00:09:39.280><c> run</c><00:09:39.480><c> out</c><00:09:39.600><c> of</c><00:09:39.760><c> memory</c><00:09:40.640><c> in</c><00:09:40.840><c> phones</c><00:09:41.280><c> and</c>
+
+00:09:41.390 --> 00:09:41.400 align:start position:0%
+quickly run out of memory in phones and
+ 
+
+00:09:41.400 --> 00:09:43.710 align:start position:0%
+quickly run out of memory in phones and
+laptops.<00:09:42.200><c> So,</c><00:09:42.360><c> by</c><00:09:42.560><c> requiring</c><00:09:43.200><c> that</c><00:09:43.360><c> we</c><00:09:43.520><c> no</c>
+
+00:09:43.710 --> 00:09:43.720 align:start position:0%
+laptops. So, by requiring that we no
+ 
+
+00:09:43.720 --> 00:09:45.470 align:start position:0%
+laptops. So, by requiring that we no
+longer<00:09:44.040><c> need</c><00:09:44.280><c> to</c><00:09:44.400><c> store</c><00:09:44.840><c> this</c><00:09:45.040><c> additional</c>
+
+00:09:45.470 --> 00:09:45.480 align:start position:0%
+longer need to store this additional
+ 
+
+00:09:45.480 --> 00:09:47.230 align:start position:0%
+longer need to store this additional
+embedding<00:09:45.840><c> table</c><00:09:46.200><c> in</c><00:09:46.400><c> VRAM,</c><00:09:46.920><c> and</c><00:09:47.040><c> we</c><00:09:47.120><c> can</c>
+
+00:09:47.230 --> 00:09:47.240 align:start position:0%
+embedding table in VRAM, and we can
+ 
+
+00:09:47.240 --> 00:09:49.310 align:start position:0%
+embedding table in VRAM, and we can
+store<00:09:47.440><c> it</c><00:09:47.520><c> in</c><00:09:47.640><c> flash</c><00:09:47.960><c> memory,</c><00:09:48.760><c> we're</c><00:09:48.960><c> able</c><00:09:49.200><c> to</c>
+
+00:09:49.310 --> 00:09:49.320 align:start position:0%
+store it in flash memory, we're able to
+ 
+
+00:09:49.320 --> 00:09:51.390 align:start position:0%
+store it in flash memory, we're able to
+get<00:09:50.000><c> incredible</c><00:09:50.600><c> improvements</c><00:09:51.200><c> on</c><00:09:51.320><c> the</c>
+
+00:09:51.390 --> 00:09:51.400 align:start position:0%
+get incredible improvements on the
+ 
+
+00:09:51.400 --> 00:09:53.430 align:start position:0%
+get incredible improvements on the
+inference<00:09:51.880><c> side</c><00:09:52.520><c> without</c><00:09:52.960><c> having</c><00:09:53.320><c> an</c>
+
+00:09:53.430 --> 00:09:53.440 align:start position:0%
+inference side without having an
+ 
+
+00:09:53.440 --> 00:09:55.030 align:start position:0%
+inference side without having an
+expensive<00:09:53.960><c> cost</c><00:09:54.320><c> of</c><00:09:54.400><c> this</c><00:09:54.560><c> additional</c>
+
+00:09:55.030 --> 00:09:55.040 align:start position:0%
+expensive cost of this additional
+ 
+
+00:09:55.040 --> 00:09:57.190 align:start position:0%
+expensive cost of this additional
+storage<00:09:55.440><c> and</c><00:09:55.560><c> memory.</c>
+
+00:09:57.190 --> 00:09:57.200 align:start position:0%
+storage and memory.
+ 
+
+00:09:57.200 --> 00:09:59.390 align:start position:0%
+storage and memory.
+The<00:09:57.320><c> big</c><00:09:57.600><c> difference</c><00:09:58.080><c> in</c><00:09:58.240><c> our</c><00:09:58.520><c> PLE</c><00:09:59.040><c> embedding</c>
+
+00:09:59.390 --> 00:09:59.400 align:start position:0%
+The big difference in our PLE embedding
+ 
+
+00:09:59.400 --> 00:10:01.110 align:start position:0%
+The big difference in our PLE embedding
+table<00:09:59.840><c> as</c><00:10:00.080><c> opposed</c><00:10:00.480><c> to</c><00:10:00.600><c> the</c><00:10:00.680><c> standard</c>
+
+00:10:01.110 --> 00:10:01.120 align:start position:0%
+table as opposed to the standard
+ 
+
+00:10:01.120 --> 00:10:02.790 align:start position:0%
+table as opposed to the standard
+embedding<00:10:01.480><c> table</c><00:10:02.200><c> is</c><00:10:02.320><c> our</c><00:10:02.440><c> embedding</c>
+
+00:10:02.790 --> 00:10:02.800 align:start position:0%
+embedding table is our embedding
+ 
+
+00:10:02.800 --> 00:10:05.790 align:start position:0%
+embedding table is our embedding
+dimension<00:10:03.280><c> now</c><00:10:03.600><c> is</c><00:10:03.800><c> only</c><00:10:04.040><c> 256.</c>
+
+00:10:05.790 --> 00:10:05.800 align:start position:0%
+dimension now is only 256.
+ 
+
+00:10:05.800 --> 00:10:07.630 align:start position:0%
+dimension now is only 256.
+So,<00:10:05.920><c> this</c><00:10:06.120><c> is</c><00:10:06.240><c> significantly</c><00:10:06.960><c> reduced</c><00:10:07.440><c> from</c>
+
+00:10:07.630 --> 00:10:07.640 align:start position:0%
+So, this is significantly reduced from
+ 
+
+00:10:07.640 --> 00:10:10.590 align:start position:0%
+So, this is significantly reduced from
+the<00:10:07.720><c> size</c><00:10:08.040><c> of</c><00:10:08.120><c> the</c><00:10:08.240><c> full</c><00:10:08.480><c> model.</c>
+
+00:10:10.590 --> 00:10:10.600 align:start position:0%
+the size of the full model.
+ 
+
+00:10:10.600 --> 00:10:13.950 align:start position:0%
+the size of the full model.
+For<00:10:10.880><c> each</c><00:10:11.440><c> token,</c><00:10:12.080><c> for</c><00:10:12.240><c> example,</c><00:10:12.800><c> hi,</c><00:10:13.560><c> we</c><00:10:13.680><c> now</c>
+
+00:10:13.950 --> 00:10:13.960 align:start position:0%
+For each token, for example, hi, we now
+ 
+
+00:10:13.960 --> 00:10:16.470 align:start position:0%
+For each token, for example, hi, we now
+have<00:10:14.320><c> an</c><00:10:14.440><c> embedding</c><00:10:14.920><c> for</c><00:10:15.080><c> this</c><00:10:15.400><c> token</c><00:10:15.840><c> at</c><00:10:16.120><c> each</c>
+
+00:10:16.470 --> 00:10:16.480 align:start position:0%
+have an embedding for this token at each
+ 
+
+00:10:16.480 --> 00:10:18.230 align:start position:0%
+have an embedding for this token at each
+separate<00:10:16.840><c> layer</c><00:10:17.080><c> within</c><00:10:17.360><c> the</c><00:10:17.440><c> model.</c><00:10:17.960><c> And</c><00:10:18.080><c> as</c>
+
+00:10:18.230 --> 00:10:18.240 align:start position:0%
+separate layer within the model. And as
+ 
+
+00:10:18.240 --> 00:10:19.510 align:start position:0%
+separate layer within the model. And as
+you<00:10:18.320><c> progress</c><00:10:18.760><c> through</c><00:10:18.920><c> the</c><00:10:19.000><c> layers</c><00:10:19.320><c> of</c><00:10:19.400><c> the</c>
+
+00:10:19.510 --> 00:10:19.520 align:start position:0%
+you progress through the layers of the
+ 
+
+00:10:19.520 --> 00:10:22.670 align:start position:0%
+you progress through the layers of the
+models,<00:10:20.360><c> 35</c><00:10:21.000><c> for</c><00:10:21.120><c> the</c><00:10:21.240><c> 2B</c><00:10:21.680><c> and</c><00:10:21.840><c> 42</c><00:10:22.440><c> for</c><00:10:22.560><c> our</c>
+
+00:10:22.670 --> 00:10:22.680 align:start position:0%
+models, 35 for the 2B and 42 for our
+ 
+
+00:10:22.680 --> 00:10:25.190 align:start position:0%
+models, 35 for the 2B and 42 for our
+larger<00:10:23.040><c> model,</c><00:10:23.920><c> you'll</c><00:10:24.160><c> see</c><00:10:24.400><c> the</c><00:10:24.520><c> progression</c>
+
+00:10:25.190 --> 00:10:25.200 align:start position:0%
+larger model, you'll see the progression
+ 
+
+00:10:25.200 --> 00:10:26.630 align:start position:0%
+larger model, you'll see the progression
+and<00:10:25.320><c> improvements</c><00:10:25.960><c> in</c><00:10:26.080><c> the</c><00:10:26.200><c> embedding</c>
+
+00:10:26.630 --> 00:10:26.640 align:start position:0%
+and improvements in the embedding
+ 
+
+00:10:26.640 --> 00:10:28.550 align:start position:0%
+and improvements in the embedding
+representation<00:10:27.400><c> for</c><00:10:27.600><c> each</c><00:10:27.760><c> of</c><00:10:27.840><c> these</c><00:10:28.040><c> tokens</c>
+
+00:10:28.550 --> 00:10:28.560 align:start position:0%
+representation for each of these tokens
+ 
+
+00:10:28.560 --> 00:10:32.150 align:start position:0%
+representation for each of these tokens
+at<00:10:28.760><c> the</c><00:10:28.840><c> next</c><00:10:29.320><c> sequential</c><00:10:30.000><c> layer.</c>
+
+00:10:32.150 --> 00:10:32.160 align:start position:0%
+at the next sequential layer.
+ 
+
+00:10:32.160 --> 00:10:34.630 align:start position:0%
+at the next sequential layer.
+And<00:10:32.320><c> how</c><00:10:32.440><c> does</c><00:10:32.600><c> this</c><00:10:32.720><c> work</c><00:10:32.920><c> in</c><00:10:33.040><c> practice?</c><00:10:34.080><c> Now,</c>
+
+00:10:34.630 --> 00:10:34.640 align:start position:0%
+And how does this work in practice? Now,
+ 
+
+00:10:34.640 --> 00:10:36.710 align:start position:0%
+And how does this work in practice? Now,
+at<00:10:34.760><c> the</c><00:10:34.920><c> end</c><00:10:35.120><c> of</c><00:10:35.240><c> our</c><00:10:35.360><c> decoder</c><00:10:35.920><c> block,</c><00:10:36.480><c> we're</c>
+
+00:10:36.710 --> 00:10:36.720 align:start position:0%
+at the end of our decoder block, we're
+ 
+
+00:10:36.720 --> 00:10:38.910 align:start position:0%
+at the end of our decoder block, we're
+able<00:10:36.960><c> to</c><00:10:37.120><c> look</c><00:10:37.360><c> up</c><00:10:37.600><c> the</c><00:10:37.760><c> per-layer</c><00:10:38.400><c> embedding</c>
+
+00:10:38.910 --> 00:10:38.920 align:start position:0%
+able to look up the per-layer embedding
+ 
+
+00:10:38.920 --> 00:10:41.270 align:start position:0%
+able to look up the per-layer embedding
+for<00:10:39.160><c> each</c><00:10:39.360><c> of</c><00:10:39.480><c> our</c><00:10:39.600><c> tokens.</c><00:10:40.560><c> This</c><00:10:40.800><c> is</c><00:10:40.960><c> where</c>
+
+00:10:41.270 --> 00:10:41.280 align:start position:0%
+for each of our tokens. This is where
+ 
+
+00:10:41.280 --> 00:10:44.150 align:start position:0%
+for each of our tokens. This is where
+we're<00:10:41.480><c> able</c><00:10:41.720><c> to</c><00:10:41.880><c> look</c><00:10:42.080><c> up</c><00:10:42.280><c> the</c><00:10:42.400><c> 256-dimension</c>
+
+00:10:44.150 --> 00:10:44.160 align:start position:0%
+we're able to look up the 256-dimension
+ 
+
+00:10:44.160 --> 00:10:45.710 align:start position:0%
+we're able to look up the 256-dimension
+and<00:10:44.320><c> project</c><00:10:44.720><c> this</c><00:10:44.960><c> up</c><00:10:45.240><c> to</c><00:10:45.320><c> the</c><00:10:45.440><c> full</c>
+
+00:10:45.710 --> 00:10:45.720 align:start position:0%
+and project this up to the full
+ 
+
+00:10:45.720 --> 00:10:47.630 align:start position:0%
+and project this up to the full
+embedding<00:10:46.120><c> size</c><00:10:46.520><c> that's</c><00:10:46.720><c> expected</c><00:10:47.280><c> for</c><00:10:47.440><c> each</c>
+
+00:10:47.630 --> 00:10:47.640 align:start position:0%
+embedding size that's expected for each
+ 
+
+00:10:47.640 --> 00:10:49.470 align:start position:0%
+embedding size that's expected for each
+of<00:10:47.720><c> our</c><00:10:47.840><c> models.</c>
+
+00:10:49.470 --> 00:10:49.480 align:start position:0%
+of our models.
+ 
+
+00:10:49.480 --> 00:10:51.950 align:start position:0%
+of our models.
+Ultimately,<00:10:50.320><c> these</c><00:10:50.520><c> improvements</c><00:10:51.160><c> with</c><00:10:51.320><c> PLE</c>
+
+00:10:51.950 --> 00:10:51.960 align:start position:0%
+Ultimately, these improvements with PLE
+ 
+
+00:10:51.960 --> 00:10:54.990 align:start position:0%
+Ultimately, these improvements with PLE
+allow<00:10:52.480><c> for</c><00:10:52.760><c> our</c><00:10:53.040><c> E2B</c><00:10:53.800><c> and</c><00:10:53.920><c> our</c><00:10:54.120><c> E4B</c><00:10:54.760><c> to</c><00:10:54.880><c> be</c>
+
+00:10:54.990 --> 00:10:55.000 align:start position:0%
+allow for our E2B and our E4B to be
+ 
+
+00:10:55.000 --> 00:10:57.310 align:start position:0%
+allow for our E2B and our E4B to be
+significantly<00:10:55.840><c> outperforming</c><00:10:56.960><c> prior</c>
+
+00:10:57.310 --> 00:10:57.320 align:start position:0%
+significantly outperforming prior
+ 
+
+00:10:57.320 --> 00:11:02.630 align:start position:0%
+significantly outperforming prior
+generations<00:10:58.000><c> of</c><00:10:58.160><c> Gemma</c><00:10:58.440><c> small</c><00:10:58.720><c> models.</c>
+
+00:11:02.630 --> 00:11:02.640 align:start position:0%
+ 
+ 
+
+00:11:02.640 --> 00:11:04.310 align:start position:0%
+ 
+In<00:11:02.880><c> addition</c><00:11:03.360><c> to</c><00:11:03.480><c> everything</c><00:11:03.920><c> that</c><00:11:04.080><c> we've</c>
+
+00:11:04.310 --> 00:11:04.320 align:start position:0%
+In addition to everything that we've
+ 
+
+00:11:04.320 --> 00:11:06.590 align:start position:0%
+In addition to everything that we've
+done<00:11:04.680><c> on</c><00:11:04.839><c> an</c><00:11:04.960><c> architecture</c><00:11:05.600><c> side,</c><00:11:06.080><c> we've</c><00:11:06.280><c> also</c>
+
+00:11:06.590 --> 00:11:06.600 align:start position:0%
+done on an architecture side, we've also
+ 
+
+00:11:06.600 --> 00:11:08.230 align:start position:0%
+done on an architecture side, we've also
+really<00:11:06.880><c> set</c><00:11:07.080><c> a</c><00:11:07.120><c> new</c><00:11:07.360><c> frontier</c><00:11:07.880><c> for</c><00:11:08.040><c> what's</c>
+
+00:11:08.230 --> 00:11:08.240 align:start position:0%
+really set a new frontier for what's
+ 
+
+00:11:08.240 --> 00:11:10.670 align:start position:0%
+really set a new frontier for what's
+possible<00:11:08.760><c> with</c><00:11:08.920><c> multi-modality.</c>
+
+00:11:10.670 --> 00:11:10.680 align:start position:0%
+possible with multi-modality.
+ 
+
+00:11:10.680 --> 00:11:12.829 align:start position:0%
+possible with multi-modality.
+In<00:11:10.839><c> Gemma</c><00:11:11.160><c> 3,</c><00:11:11.560><c> we</c><00:11:11.760><c> introduced</c><00:11:12.280><c> vision</c><00:11:12.600><c> for</c><00:11:12.720><c> the</c>
+
+00:11:12.829 --> 00:11:12.839 align:start position:0%
+In Gemma 3, we introduced vision for the
+ 
+
+00:11:12.839 --> 00:11:15.990 align:start position:0%
+In Gemma 3, we introduced vision for the
+first<00:11:13.120><c> time.</c><00:11:13.960><c> We</c><00:11:14.120><c> added</c><00:11:14.480><c> vision</c><00:11:14.880><c> in</c><00:11:15.120><c> Gemma</c><00:11:15.400><c> 3,</c>
+
+00:11:15.990 --> 00:11:16.000 align:start position:0%
+first time. We added vision in Gemma 3,
+ 
+
+00:11:16.000 --> 00:11:18.070 align:start position:0%
+first time. We added vision in Gemma 3,
+adding<00:11:16.280><c> support</c><00:11:16.680><c> across</c><00:11:17.040><c> all</c><00:11:17.240><c> of</c><00:11:17.360><c> our</c><00:11:17.440><c> sizes.</c>
+
+00:11:18.070 --> 00:11:18.080 align:start position:0%
+adding support across all of our sizes.
+ 
+
+00:11:18.080 --> 00:11:20.310 align:start position:0%
+adding support across all of our sizes.
+And<00:11:18.200><c> in</c><00:11:18.280><c> the</c><00:11:18.360><c> Gemma</c><00:11:18.680><c> 3N</c><00:11:19.160><c> model,</c><00:11:19.640><c> we</c><00:11:19.800><c> launched</c>
+
+00:11:20.310 --> 00:11:20.320 align:start position:0%
+And in the Gemma 3N model, we launched
+ 
+
+00:11:20.320 --> 00:11:22.470 align:start position:0%
+And in the Gemma 3N model, we launched
+open-sourced<00:11:21.240><c> audio,</c><00:11:21.600><c> vision,</c><00:11:22.000><c> and</c><00:11:22.160><c> text</c>
+
+00:11:22.470 --> 00:11:22.480 align:start position:0%
+open-sourced audio, vision, and text
+ 
+
+00:11:22.480 --> 00:11:24.190 align:start position:0%
+open-sourced audio, vision, and text
+model<00:11:22.760><c> for</c><00:11:22.920><c> the</c><00:11:23.000><c> first</c><00:11:23.320><c> time.</c>
+
+00:11:24.190 --> 00:11:24.200 align:start position:0%
+model for the first time.
+ 
+
+00:11:24.200 --> 00:11:26.510 align:start position:0%
+model for the first time.
+This<00:11:24.440><c> really</c><00:11:24.720><c> paved</c><00:11:25.120><c> the</c><00:11:25.200><c> way</c><00:11:25.680><c> for</c><00:11:25.839><c> Gemma</c><00:11:26.160><c> 4</c>
+
+00:11:26.510 --> 00:11:26.520 align:start position:0%
+This really paved the way for Gemma 4
+ 
+
+00:11:26.520 --> 00:11:28.990 align:start position:0%
+This really paved the way for Gemma 4
+being<00:11:26.800><c> natively</c><00:11:27.360><c> multimodal</c><00:11:28.120><c> models.</c>
+
+00:11:28.990 --> 00:11:29.000 align:start position:0%
+being natively multimodal models.
+ 
+
+00:11:29.000 --> 00:11:30.829 align:start position:0%
+being natively multimodal models.
+Multimodal<00:11:29.640><c> has</c><00:11:29.800><c> been</c><00:11:30.000><c> integrated</c><00:11:30.600><c> from</c><00:11:30.720><c> the</c>
+
+00:11:30.829 --> 00:11:30.839 align:start position:0%
+Multimodal has been integrated from the
+ 
+
+00:11:30.839 --> 00:11:32.550 align:start position:0%
+Multimodal has been integrated from the
+very<00:11:31.120><c> beginning</c><00:11:31.600><c> across</c><00:11:32.040><c> all</c><00:11:32.240><c> of</c><00:11:32.320><c> these</c>
+
+00:11:32.550 --> 00:11:32.560 align:start position:0%
+very beginning across all of these
+ 
+
+00:11:32.560 --> 00:11:34.110 align:start position:0%
+very beginning across all of these
+models<00:11:33.040><c> with</c><00:11:33.280><c> quite</c><00:11:33.600><c> incredible</c>
+
+00:11:34.110 --> 00:11:34.120 align:start position:0%
+models with quite incredible
+ 
+
+00:11:34.120 --> 00:11:36.390 align:start position:0%
+models with quite incredible
+performance.
+
+00:11:36.390 --> 00:11:36.400 align:start position:0%
+performance.
+ 
+
+00:11:36.400 --> 00:11:38.990 align:start position:0%
+performance.
+Starting<00:11:36.839><c> on</c><00:11:36.960><c> the</c><00:11:37.040><c> vision</c><00:11:37.480><c> side,</c><00:11:38.080><c> our</c><00:11:38.240><c> 31B</c>
+
+00:11:38.990 --> 00:11:39.000 align:start position:0%
+Starting on the vision side, our 31B
+ 
+
+00:11:39.000 --> 00:11:43.070 align:start position:0%
+Starting on the vision side, our 31B
+model<00:11:39.480><c> you</c><00:11:39.760><c> and</c><00:11:40.000><c> 26B</c><00:11:40.680><c> model</c><00:11:41.160><c> both</c><00:11:41.520><c> use</c><00:11:41.839><c> a</c><00:11:41.920><c> 550</c>
+
+00:11:43.070 --> 00:11:43.080 align:start position:0%
+model you and 26B model both use a 550
+ 
+
+00:11:43.080 --> 00:11:45.550 align:start position:0%
+model you and 26B model both use a 550
+million<00:11:43.520><c> parameter</c><00:11:44.000><c> vision</c><00:11:44.320><c> encoder.</c>
+
+00:11:45.550 --> 00:11:45.560 align:start position:0%
+million parameter vision encoder.
+ 
+
+00:11:45.560 --> 00:11:47.910 align:start position:0%
+million parameter vision encoder.
+Our<00:11:45.720><c> effective</c><00:11:46.200><c> 2B</c><00:11:46.600><c> and</c><00:11:46.720><c> effective</c><00:11:47.200><c> 4B</c><00:11:47.720><c> have</c><00:11:47.880><c> a</c>
+
+00:11:47.910 --> 00:11:47.920 align:start position:0%
+Our effective 2B and effective 4B have a
+ 
+
+00:11:47.920 --> 00:11:49.470 align:start position:0%
+Our effective 2B and effective 4B have a
+smaller
+
+00:11:49.470 --> 00:11:49.480 align:start position:0%
+smaller
+ 
+
+00:11:49.480 --> 00:11:52.310 align:start position:0%
+smaller
+compact,<00:11:50.120><c> more</c><00:11:50.320><c> designed</c><00:11:50.839><c> encoder</c><00:11:51.360><c> of</c><00:11:51.520><c> 150</c>
+
+00:11:52.310 --> 00:11:52.320 align:start position:0%
+compact, more designed encoder of 150
+ 
+
+00:11:52.320 --> 00:11:54.510 align:start position:0%
+compact, more designed encoder of 150
+million<00:11:52.680><c> parameters.</c>
+
+00:11:54.510 --> 00:11:54.520 align:start position:0%
+million parameters.
+ 
+
+00:11:54.520 --> 00:11:56.470 align:start position:0%
+million parameters.
+We've<00:11:54.680><c> made</c><00:11:55.000><c> big</c><00:11:55.240><c> strides</c><00:11:55.680><c> and</c><00:11:55.800><c> improvements</c>
+
+00:11:56.470 --> 00:11:56.480 align:start position:0%
+We've made big strides and improvements
+ 
+
+00:11:56.480 --> 00:11:58.630 align:start position:0%
+We've made big strides and improvements
+from<00:11:56.800><c> Gemma</c><00:11:57.080><c> 3</c><00:11:57.520><c> by</c><00:11:57.640><c> the</c><00:11:57.800><c> introduction</c><00:11:58.520><c> of</c>
+
+00:11:58.630 --> 00:11:58.640 align:start position:0%
+from Gemma 3 by the introduction of
+ 
+
+00:11:58.640 --> 00:12:00.670 align:start position:0%
+from Gemma 3 by the introduction of
+variable<00:11:59.120><c> aspect</c><00:11:59.560><c> ratios</c><00:12:00.120><c> and</c><00:12:00.240><c> variable</c>
+
+00:12:00.670 --> 00:12:00.680 align:start position:0%
+variable aspect ratios and variable
+ 
+
+00:12:00.680 --> 00:12:02.110 align:start position:0%
+variable aspect ratios and variable
+resolutions.
+
+00:12:02.110 --> 00:12:02.120 align:start position:0%
+resolutions.
+ 
+
+00:12:02.120 --> 00:12:03.829 align:start position:0%
+resolutions.
+What<00:12:02.280><c> this</c><00:12:02.480><c> means</c><00:12:02.760><c> in</c><00:12:02.839><c> practice</c><00:12:03.400><c> for</c><00:12:03.560><c> you</c><00:12:03.720><c> as</c>
+
+00:12:03.829 --> 00:12:03.839 align:start position:0%
+What this means in practice for you as
+ 
+
+00:12:03.839 --> 00:12:05.950 align:start position:0%
+What this means in practice for you as
+developers<00:12:04.520><c> is</c><00:12:04.680><c> you</c><00:12:04.800><c> now</c><00:12:05.040><c> have</c><00:12:05.200><c> a</c><00:12:05.280><c> choice</c><00:12:05.800><c> when</c>
+
+00:12:05.950 --> 00:12:05.960 align:start position:0%
+developers is you now have a choice when
+ 
+
+00:12:05.960 --> 00:12:08.110 align:start position:0%
+developers is you now have a choice when
+you're<00:12:06.120><c> running</c><00:12:06.400><c> a</c><00:12:06.440><c> Gemma</c><00:12:06.720><c> model</c><00:12:07.440><c> to</c><00:12:07.560><c> select</c>
+
+00:12:08.110 --> 00:12:08.120 align:start position:0%
+you're running a Gemma model to select
+ 
+
+00:12:08.120 --> 00:12:10.270 align:start position:0%
+you're running a Gemma model to select
+the<00:12:08.280><c> resolution</c><00:12:09.080><c> and</c><00:12:09.200><c> the</c><00:12:09.280><c> soft</c><00:12:09.600><c> token</c><00:12:09.880><c> budget</c>
+
+00:12:10.270 --> 00:12:10.280 align:start position:0%
+the resolution and the soft token budget
+ 
+
+00:12:10.280 --> 00:12:12.710 align:start position:0%
+the resolution and the soft token budget
+that<00:12:10.440><c> you</c><00:12:10.600><c> want</c><00:12:10.760><c> to</c><00:12:10.880><c> allocate</c><00:12:11.400><c> for</c><00:12:11.600><c> images.</c>
+
+00:12:12.710 --> 00:12:12.720 align:start position:0%
+that you want to allocate for images.
+ 
+
+00:12:12.720 --> 00:12:14.390 align:start position:0%
+that you want to allocate for images.
+This<00:12:12.880><c> is</c><00:12:13.000><c> available</c><00:12:13.640><c> in</c><00:12:13.839><c> five</c><00:12:14.120><c> different</c>
+
+00:12:14.390 --> 00:12:14.400 align:start position:0%
+This is available in five different
+ 
+
+00:12:14.400 --> 00:12:19.350 align:start position:0%
+This is available in five different
+resolutions<00:12:15.160><c> across</c><00:12:15.640><c> all</c><00:12:15.839><c> of</c><00:12:15.920><c> our</c><00:12:16.040><c> models.</c>
+
+00:12:19.350 --> 00:12:19.360 align:start position:0%
+ 
+ 
+
+00:12:19.360 --> 00:12:21.470 align:start position:0%
+ 
+Let's<00:12:19.560><c> take</c><00:12:19.760><c> a</c><00:12:19.800><c> second</c><00:12:20.200><c> to</c><00:12:20.320><c> revisit</c><00:12:21.080><c> how</c><00:12:21.360><c> our</c>
+
+00:12:21.470 --> 00:12:21.480 align:start position:0%
+Let's take a second to revisit how our
+ 
+
+00:12:21.480 --> 00:12:23.670 align:start position:0%
+Let's take a second to revisit how our
+vision<00:12:21.760><c> encoder</c><00:12:22.160><c> works.</c><00:12:23.160><c> What</c><00:12:23.280><c> we</c><00:12:23.400><c> want</c><00:12:23.600><c> to</c>
+
+00:12:23.670 --> 00:12:23.680 align:start position:0%
+vision encoder works. What we want to
+ 
+
+00:12:23.680 --> 00:12:25.630 align:start position:0%
+vision encoder works. What we want to
+understand<00:12:24.280><c> here</c><00:12:24.640><c> is</c><00:12:24.800><c> we</c><00:12:24.920><c> get</c><00:12:25.120><c> an</c><00:12:25.240><c> initial</c>
+
+00:12:25.630 --> 00:12:25.640 align:start position:0%
+understand here is we get an initial
+ 
+
+00:12:25.640 --> 00:12:27.430 align:start position:0%
+understand here is we get an initial
+image,<00:12:26.040><c> and</c><00:12:26.160><c> this</c><00:12:26.400><c> image</c><00:12:26.720><c> is</c><00:12:26.880><c> split</c><00:12:27.200><c> into</c>
+
+00:12:27.430 --> 00:12:27.440 align:start position:0%
+image, and this image is split into
+ 
+
+00:12:27.440 --> 00:12:31.230 align:start position:0%
+image, and this image is split into
+patches,<00:12:28.320><c> patches</c><00:12:28.800><c> of</c><00:12:28.960><c> 16</c><00:12:29.480><c> by</c><00:12:29.680><c> 16</c><00:12:30.240><c> pixels.</c>
+
+00:12:31.230 --> 00:12:31.240 align:start position:0%
+patches, patches of 16 by 16 pixels.
+ 
+
+00:12:31.240 --> 00:12:33.310 align:start position:0%
+patches, patches of 16 by 16 pixels.
+These<00:12:31.480><c> patches</c><00:12:32.120><c> are</c><00:12:32.240><c> then</c><00:12:32.480><c> flattened</c><00:12:33.160><c> and</c>
+
+00:12:33.310 --> 00:12:33.320 align:start position:0%
+These patches are then flattened and
+ 
+
+00:12:33.320 --> 00:12:34.950 align:start position:0%
+These patches are then flattened and
+linear<00:12:33.680><c> projected</c><00:12:34.240><c> up</c><00:12:34.480><c> into</c><00:12:34.680><c> patch</c>
+
+00:12:34.950 --> 00:12:34.960 align:start position:0%
+linear projected up into patch
+ 
+
+00:12:34.960 --> 00:12:36.990 align:start position:0%
+linear projected up into patch
+embeddings.<00:12:35.839><c> These</c><00:12:36.040><c> embeddings</c><00:12:36.680><c> are</c><00:12:36.800><c> then</c>
+
+00:12:36.990 --> 00:12:37.000 align:start position:0%
+embeddings. These embeddings are then
+ 
+
+00:12:37.000 --> 00:12:39.070 align:start position:0%
+embeddings. These embeddings are then
+transformed<00:12:38.240><c> to</c><00:12:38.400><c> account</c><00:12:38.760><c> for</c><00:12:38.880><c> their</c>
+
+00:12:39.070 --> 00:12:39.080 align:start position:0%
+transformed to account for their
+ 
+
+00:12:39.080 --> 00:12:41.230 align:start position:0%
+transformed to account for their
+positional<00:12:39.640><c> encodings,</c><00:12:40.600><c> and</c><00:12:40.720><c> this</c><00:12:40.880><c> is</c><00:12:41.000><c> what's</c>
+
+00:12:41.230 --> 00:12:41.240 align:start position:0%
+positional encodings, and this is what's
+ 
+
+00:12:41.240 --> 00:12:44.110 align:start position:0%
+positional encodings, and this is what's
+ultimately<00:12:41.760><c> showed</c><00:12:42.040><c> to</c><00:12:42.160><c> our</c><00:12:42.280><c> model.</c>
+
+00:12:44.110 --> 00:12:44.120 align:start position:0%
+ultimately showed to our model.
+ 
+
+00:12:44.120 --> 00:12:45.950 align:start position:0%
+ultimately showed to our model.
+With<00:12:44.360><c> this</c><00:12:44.560><c> in</c><00:12:44.720><c> mind,</c><00:12:45.320><c> let's</c><00:12:45.520><c> take</c><00:12:45.680><c> a</c><00:12:45.760><c> look</c>
+
+00:12:45.950 --> 00:12:45.960 align:start position:0%
+With this in mind, let's take a look
+ 
+
+00:12:45.960 --> 00:12:48.070 align:start position:0%
+With this in mind, let's take a look
+back<00:12:46.200><c> at</c><00:12:46.320><c> variable</c><00:12:46.760><c> aspect.</c>
+
+00:12:48.070 --> 00:12:48.080 align:start position:0%
+back at variable aspect.
+ 
+
+00:12:48.080 --> 00:12:50.150 align:start position:0%
+back at variable aspect.
+We<00:12:48.200><c> can</c><00:12:48.360><c> have</c><00:12:48.560><c> images</c><00:12:49.160><c> of</c><00:12:49.320><c> different</c><00:12:49.680><c> variable</c>
+
+00:12:50.150 --> 00:12:50.160 align:start position:0%
+We can have images of different variable
+ 
+
+00:12:50.160 --> 00:12:53.630 align:start position:0%
+We can have images of different variable
+aspects<00:12:51.160><c> where</c><00:12:51.720><c> we</c><00:12:51.880><c> have</c><00:12:52.080><c> an</c><00:12:52.160><c> image</c><00:12:52.640><c> of</c><00:12:52.920><c> 4</c><00:12:53.120><c> by</c><00:12:53.280><c> 2</c>
+
+00:12:53.630 --> 00:12:53.640 align:start position:0%
+aspects where we have an image of 4 by 2
+ 
+
+00:12:53.640 --> 00:12:55.790 align:start position:0%
+aspects where we have an image of 4 by 2
+and<00:12:53.800><c> image</c><00:12:54.080><c> of</c><00:12:54.160><c> 3</c><00:12:54.400><c> by</c><00:12:54.560><c> 3.</c>
+
+00:12:55.790 --> 00:12:55.800 align:start position:0%
+and image of 3 by 3.
+ 
+
+00:12:55.800 --> 00:12:59.390 align:start position:0%
+and image of 3 by 3.
+What's<00:12:55.960><c> important</c><00:12:56.400><c> to</c><00:12:56.520><c> under</c>
+
+00:12:59.390 --> 00:12:59.400 align:start position:0%
+ 
+ 
+
+00:12:59.400 --> 00:13:01.670 align:start position:0%
+ 
+Okay,<00:13:00.400><c> what's</c><00:13:00.600><c> important</c><00:13:01.000><c> to</c><00:13:01.120><c> understand</c>
+
+00:13:01.670 --> 00:13:01.680 align:start position:0%
+Okay, what's important to understand
+ 
+
+00:13:01.680 --> 00:13:04.829 align:start position:0%
+Okay, what's important to understand
+here<00:13:01.960><c> now</c><00:13:02.760><c> is</c><00:13:03.560><c> patch</c><00:13:03.920><c> four</c><00:13:04.360><c> is</c><00:13:04.520><c> now</c><00:13:04.720><c> in</c><00:13:04.800><c> a</c>
+
+00:13:04.829 --> 00:13:04.839 align:start position:0%
+here now is patch four is now in a
+ 
+
+00:13:04.839 --> 00:13:06.829 align:start position:0%
+here now is patch four is now in a
+completely<00:13:05.240><c> different</c><00:13:05.560><c> position.</c><00:13:06.520><c> If</c><00:13:06.720><c> we're</c>
+
+00:13:06.829 --> 00:13:06.839 align:start position:0%
+completely different position. If we're
+ 
+
+00:13:06.839 --> 00:13:08.550 align:start position:0%
+completely different position. If we're
+encoding<00:13:07.320><c> both</c><00:13:07.560><c> of</c><00:13:07.640><c> these</c><00:13:07.800><c> images</c><00:13:08.320><c> in</c><00:13:08.440><c> the</c>
+
+00:13:08.550 --> 00:13:08.560 align:start position:0%
+encoding both of these images in the
+ 
+
+00:13:08.560 --> 00:13:10.430 align:start position:0%
+encoding both of these images in the
+same<00:13:08.920><c> way,</c><00:13:09.520><c> we</c><00:13:09.640><c> need</c><00:13:09.920><c> our</c><00:13:10.000><c> model</c><00:13:10.360><c> to</c>
+
+00:13:10.430 --> 00:13:10.440 align:start position:0%
+same way, we need our model to
+ 
+
+00:13:10.440 --> 00:13:12.710 align:start position:0%
+same way, we need our model to
+understand<00:13:11.080><c> that</c><00:13:11.240><c> patch</c><00:13:11.560><c> four</c>
+
+00:13:12.710 --> 00:13:12.720 align:start position:0%
+understand that patch four
+ 
+
+00:13:12.720 --> 00:13:14.750 align:start position:0%
+understand that patch four
+in<00:13:12.839><c> the</c><00:13:12.960><c> one</c><00:13:13.160><c> on</c><00:13:13.280><c> the</c><00:13:13.400><c> left</c><00:13:13.960><c> is</c><00:13:14.120><c> in</c><00:13:14.280><c> the</c><00:13:14.360><c> second</c>
+
+00:13:14.750 --> 00:13:14.760 align:start position:0%
+in the one on the left is in the second
+ 
+
+00:13:14.760 --> 00:13:16.470 align:start position:0%
+in the one on the left is in the second
+row.<00:13:15.000><c> It's</c><00:13:15.160><c> right</c><00:13:15.320><c> below</c><00:13:15.560><c> our</c><00:13:15.680><c> first.</c><00:13:16.120><c> Versus</c>
+
+00:13:16.470 --> 00:13:16.480 align:start position:0%
+row. It's right below our first. Versus
+ 
+
+00:13:16.480 --> 00:13:18.790 align:start position:0%
+row. It's right below our first. Versus
+patch<00:13:16.800><c> four</c><00:13:17.480><c> in</c><00:13:17.640><c> the</c><00:13:17.800><c> image</c><00:13:18.080><c> on</c><00:13:18.160><c> the</c><00:13:18.280><c> right</c><00:13:18.680><c> is</c>
+
+00:13:18.790 --> 00:13:18.800 align:start position:0%
+patch four in the image on the right is
+ 
+
+00:13:18.800 --> 00:13:20.870 align:start position:0%
+patch four in the image on the right is
+now<00:13:18.960><c> at</c><00:13:19.040><c> the</c><00:13:19.120><c> very</c><00:13:19.440><c> end.</c><00:13:20.240><c> So,</c><00:13:20.400><c> what's</c><00:13:20.600><c> been</c><00:13:20.760><c> a</c>
+
+00:13:20.870 --> 00:13:20.880 align:start position:0%
+now at the very end. So, what's been a
+ 
+
+00:13:20.880 --> 00:13:22.550 align:start position:0%
+now at the very end. So, what's been a
+critical<00:13:21.360><c> development</c><00:13:21.880><c> here</c><00:13:22.200><c> is</c><00:13:22.360><c> that</c><00:13:22.480><c> we</c>
+
+00:13:22.550 --> 00:13:22.560 align:start position:0%
+critical development here is that we
+ 
+
+00:13:22.560 --> 00:13:24.030 align:start position:0%
+critical development here is that we
+need<00:13:22.800><c> to</c><00:13:22.880><c> ensure</c><00:13:23.240><c> that</c><00:13:23.440><c> the</c><00:13:23.560><c> spatial</c>
+
+00:13:24.030 --> 00:13:24.040 align:start position:0%
+need to ensure that the spatial
+ 
+
+00:13:24.040 --> 00:13:25.910 align:start position:0%
+need to ensure that the spatial
+positional<00:13:24.560><c> encoding</c><00:13:25.160><c> is</c><00:13:25.360><c> also</c><00:13:25.640><c> passed</c>
+
+00:13:25.910 --> 00:13:25.920 align:start position:0%
+positional encoding is also passed
+ 
+
+00:13:25.920 --> 00:13:28.510 align:start position:0%
+positional encoding is also passed
+through<00:13:26.120><c> to</c><00:13:26.240><c> our</c><00:13:26.360><c> model.</c>
+
+00:13:28.510 --> 00:13:28.520 align:start position:0%
+through to our model.
+ 
+
+00:13:28.520 --> 00:13:31.350 align:start position:0%
+through to our model.
+In<00:13:28.680><c> addition</c><00:13:29.160><c> to</c><00:13:29.520><c> variable</c><00:13:30.000><c> aspect</c><00:13:30.440><c> ratios,</c>
+
+00:13:31.350 --> 00:13:31.360 align:start position:0%
+In addition to variable aspect ratios,
+ 
+
+00:13:31.360 --> 00:13:33.310 align:start position:0%
+In addition to variable aspect ratios,
+we've<00:13:31.600><c> also</c><00:13:31.920><c> had</c><00:13:32.160><c> to</c><00:13:32.240><c> introduce</c><00:13:32.920><c> variable</c>
+
+00:13:33.310 --> 00:13:33.320 align:start position:0%
+we've also had to introduce variable
+ 
+
+00:13:33.320 --> 00:13:34.950 align:start position:0%
+we've also had to introduce variable
+resolution.
+
+00:13:34.950 --> 00:13:34.960 align:start position:0%
+resolution.
+ 
+
+00:13:34.960 --> 00:13:36.590 align:start position:0%
+resolution.
+This<00:13:35.160><c> is</c><00:13:35.360><c> where,</c><00:13:35.680><c> despite</c><00:13:36.120><c> the</c><00:13:36.200><c> fact</c><00:13:36.480><c> that</c>
+
+00:13:36.590 --> 00:13:36.600 align:start position:0%
+This is where, despite the fact that
+ 
+
+00:13:36.600 --> 00:13:38.630 align:start position:0%
+This is where, despite the fact that
+both<00:13:36.839><c> of</c><00:13:36.920><c> our</c><00:13:37.040><c> images</c><00:13:37.560><c> have</c><00:13:37.720><c> a</c><00:13:37.800><c> ratio</c><00:13:38.160><c> of</c><00:13:38.280><c> 3</c><00:13:38.480><c> to</c>
+
+00:13:38.630 --> 00:13:38.640 align:start position:0%
+both of our images have a ratio of 3 to
+ 
+
+00:13:38.640 --> 00:13:41.030 align:start position:0%
+both of our images have a ratio of 3 to
+2,<00:13:39.280><c> they're</c><00:13:39.400><c> both</c><00:13:39.760><c> very</c><00:13:40.120><c> different</c>
+
+00:13:41.030 --> 00:13:41.040 align:start position:0%
+2, they're both very different
+ 
+
+00:13:41.040 --> 00:13:43.870 align:start position:0%
+2, they're both very different
+resolutions.<00:13:42.480><c> We</c><00:13:42.600><c> have</c><00:13:42.760><c> a</c><00:13:42.839><c> higher</c><00:13:43.200><c> resolution</c>
+
+00:13:43.870 --> 00:13:43.880 align:start position:0%
+resolutions. We have a higher resolution
+ 
+
+00:13:43.880 --> 00:13:45.950 align:start position:0%
+resolutions. We have a higher resolution
+on<00:13:44.000><c> the</c><00:13:44.120><c> right</c><00:13:44.800><c> with</c><00:13:44.920><c> a</c><00:13:45.000><c> lower</c><00:13:45.280><c> resolution</c><00:13:45.839><c> on</c>
+
+00:13:45.950 --> 00:13:45.960 align:start position:0%
+on the right with a lower resolution on
+ 
+
+00:13:45.960 --> 00:13:48.470 align:start position:0%
+on the right with a lower resolution on
+the<00:13:46.040><c> left.</c><00:13:46.920><c> And</c><00:13:47.040><c> this</c><00:13:47.200><c> is</c><00:13:47.320><c> where</c><00:13:47.600><c> we</c><00:13:47.800><c> introduce</c>
+
+00:13:48.470 --> 00:13:48.480 align:start position:0%
+the left. And this is where we introduce
+ 
+
+00:13:48.480 --> 00:13:50.550 align:start position:0%
+the left. And this is where we introduce
+the<00:13:48.560><c> variable</c><00:13:49.000><c> resolutions</c><00:13:50.040><c> where</c><00:13:50.200><c> you</c><00:13:50.400><c> can</c>
+
+00:13:50.550 --> 00:13:50.560 align:start position:0%
+the variable resolutions where you can
+ 
+
+00:13:50.560 --> 00:13:53.030 align:start position:0%
+the variable resolutions where you can
+select<00:13:51.280><c> how</c><00:13:51.480><c> many</c><00:13:51.760><c> images</c><00:13:52.360><c> and</c><00:13:52.480><c> token</c><00:13:52.920><c> how</c>
+
+00:13:53.030 --> 00:13:53.040 align:start position:0%
+select how many images and token how
+ 
+
+00:13:53.040 --> 00:13:54.870 align:start position:0%
+select how many images and token how
+many<00:13:53.200><c> tokens</c><00:13:53.640><c> you</c><00:13:53.720><c> want</c><00:13:53.839><c> to</c><00:13:53.920><c> allocate</c><00:13:54.440><c> to</c><00:13:54.600><c> each</c>
+
+00:13:54.870 --> 00:13:54.880 align:start position:0%
+many tokens you want to allocate to each
+ 
+
+00:13:54.880 --> 00:13:55.950 align:start position:0%
+many tokens you want to allocate to each
+image.
+
+00:13:55.950 --> 00:13:55.960 align:start position:0%
+image.
+ 
+
+00:13:55.960 --> 00:13:58.430 align:start position:0%
+image.
+This<00:13:56.160><c> is</c><00:13:56.280><c> critical</c><00:13:56.839><c> because</c><00:13:57.680><c> it</c><00:13:57.839><c> allows</c><00:13:58.280><c> you</c>
+
+00:13:58.430 --> 00:13:58.440 align:start position:0%
+This is critical because it allows you
+ 
+
+00:13:58.440 --> 00:14:00.070 align:start position:0%
+This is critical because it allows you
+to<00:13:58.520><c> determine</c><00:13:59.080><c> how</c><00:13:59.280><c> much</c><00:13:59.480><c> of</c><00:13:59.600><c> your</c><00:13:59.720><c> token</c>
+
+00:14:00.070 --> 00:14:00.080 align:start position:0%
+to determine how much of your token
+ 
+
+00:14:00.080 --> 00:14:02.190 align:start position:0%
+to determine how much of your token
+budget<00:14:00.520><c> you</c><00:14:00.640><c> want</c><00:14:00.800><c> to</c><00:14:00.880><c> be</c><00:14:00.960><c> spent</c><00:14:01.280><c> on</c><00:14:01.400><c> images.</c>
+
+00:14:02.190 --> 00:14:02.200 align:start position:0%
+budget you want to be spent on images.
+ 
+
+00:14:02.200 --> 00:14:05.030 align:start position:0%
+budget you want to be spent on images.
+For<00:14:02.360><c> tasks</c><00:14:02.839><c> such</c><00:14:03.040><c> as</c><00:14:03.240><c> OCR,</c><00:14:03.960><c> spatial</c><00:14:04.680><c> object</c>
+
+00:14:05.030 --> 00:14:05.040 align:start position:0%
+For tasks such as OCR, spatial object
+ 
+
+00:14:05.040 --> 00:14:06.750 align:start position:0%
+For tasks such as OCR, spatial object
+recognition,
+
+00:14:06.750 --> 00:14:06.760 align:start position:0%
+recognition,
+ 
+
+00:14:06.760 --> 00:14:08.230 align:start position:0%
+recognition,
+you<00:14:06.960><c> want</c><00:14:07.160><c> to</c><00:14:07.240><c> allocate</c><00:14:07.600><c> a</c><00:14:07.640><c> much</c><00:14:07.920><c> higher</c>
+
+00:14:08.230 --> 00:14:08.240 align:start position:0%
+you want to allocate a much higher
+ 
+
+00:14:08.240 --> 00:14:10.150 align:start position:0%
+you want to allocate a much higher
+budget<00:14:08.680><c> to</c><00:14:08.800><c> ensure</c><00:14:09.160><c> that</c><00:14:09.320><c> you're</c><00:14:09.440><c> processing</c>
+
+00:14:10.150 --> 00:14:10.160 align:start position:0%
+budget to ensure that you're processing
+ 
+
+00:14:10.160 --> 00:14:12.790 align:start position:0%
+budget to ensure that you're processing
+high-quality,<00:14:10.960><c> high-resolution</c><00:14:11.800><c> images.</c><00:14:12.680><c> If</c>
+
+00:14:12.790 --> 00:14:12.800 align:start position:0%
+high-quality, high-resolution images. If
+ 
+
+00:14:12.800 --> 00:14:14.910 align:start position:0%
+high-quality, high-resolution images. If
+your<00:14:12.959><c> applications</c><00:14:13.720><c> are</c><00:14:13.839><c> purely</c><00:14:14.200><c> text-based</c>
+
+00:14:14.910 --> 00:14:14.920 align:start position:0%
+your applications are purely text-based
+ 
+
+00:14:14.920 --> 00:14:16.069 align:start position:0%
+your applications are purely text-based
+and<00:14:15.040><c> you're</c><00:14:15.160><c> not</c><00:14:15.400><c> using</c><00:14:15.760><c> some</c><00:14:15.920><c> of</c><00:14:16.000><c> the</c>
+
+00:14:16.069 --> 00:14:16.079 align:start position:0%
+and you're not using some of the
+ 
+
+00:14:16.079 --> 00:14:18.069 align:start position:0%
+and you're not using some of the
+multimodal<00:14:16.680><c> capabilities,</c><00:14:17.760><c> you</c><00:14:17.880><c> can</c>
+
+00:14:18.069 --> 00:14:18.079 align:start position:0%
+multimodal capabilities, you can
+ 
+
+00:14:18.079 --> 00:14:20.470 align:start position:0%
+multimodal capabilities, you can
+allocate<00:14:18.480><c> a</c><00:14:18.520><c> much</c><00:14:18.880><c> smaller</c><00:14:19.440><c> and</c><00:14:19.680><c> low</c><00:14:19.959><c> lower</c>
+
+00:14:20.470 --> 00:14:20.480 align:start position:0%
+allocate a much smaller and low lower
+ 
+
+00:14:20.480 --> 00:14:22.550 align:start position:0%
+allocate a much smaller and low lower
+token<00:14:20.839><c> budget.</c>
+
+00:14:22.550 --> 00:14:22.560 align:start position:0%
+token budget.
+ 
+
+00:14:22.560 --> 00:14:24.310 align:start position:0%
+token budget.
+What's<00:14:22.760><c> important</c><00:14:23.160><c> to</c><00:14:23.240><c> understand</c><00:14:23.800><c> here</c><00:14:24.200><c> is</c>
+
+00:14:24.310 --> 00:14:24.320 align:start position:0%
+What's important to understand here is
+ 
+
+00:14:24.320 --> 00:14:26.910 align:start position:0%
+What's important to understand here is
+this<00:14:24.480><c> is</c><00:14:24.600><c> a</c><00:14:24.640><c> huge</c><00:14:25.079><c> improvement</c><00:14:25.680><c> from</c><00:14:25.839><c> Gemma</c><00:14:26.120><c> 3.</c>
+
+00:14:26.910 --> 00:14:26.920 align:start position:0%
+this is a huge improvement from Gemma 3.
+ 
+
+00:14:26.920 --> 00:14:28.990 align:start position:0%
+this is a huge improvement from Gemma 3.
+In<00:14:27.079><c> Gemma</c><00:14:27.400><c> 3,</c><00:14:27.760><c> we</c><00:14:27.880><c> had</c><00:14:28.040><c> to</c><00:14:28.120><c> introduce</c><00:14:28.600><c> pan</c><00:14:28.839><c> and</c>
+
+00:14:28.990 --> 00:14:29.000 align:start position:0%
+In Gemma 3, we had to introduce pan and
+ 
+
+00:14:29.000 --> 00:14:31.030 align:start position:0%
+In Gemma 3, we had to introduce pan and
+scan.<00:14:29.800><c> And</c><00:14:29.959><c> this</c><00:14:30.120><c> is</c><00:14:30.280><c> where</c><00:14:30.600><c> you</c><00:14:30.760><c> would</c><00:14:30.880><c> give</c>
+
+00:14:31.030 --> 00:14:31.040 align:start position:0%
+scan. And this is where you would give
+ 
+
+00:14:31.040 --> 00:14:33.470 align:start position:0%
+scan. And this is where you would give
+an<00:14:31.160><c> image</c><00:14:31.560><c> of</c><00:14:31.680><c> variable</c><00:14:32.160><c> resolutions,</c>
+
+00:14:33.470 --> 00:14:33.480 align:start position:0%
+an image of variable resolutions,
+ 
+
+00:14:33.480 --> 00:14:35.590 align:start position:0%
+an image of variable resolutions,
+variable<00:14:33.959><c> aspect</c><00:14:34.320><c> ratios,</c><00:14:35.000><c> and</c><00:14:35.120><c> we</c><00:14:35.240><c> split</c><00:14:35.520><c> it</c>
+
+00:14:35.590 --> 00:14:35.600 align:start position:0%
+variable aspect ratios, and we split it
+ 
+
+00:14:35.600 --> 00:14:37.430 align:start position:0%
+variable aspect ratios, and we split it
+into<00:14:35.800><c> a</c><00:14:35.880><c> sequence</c><00:14:36.240><c> of</c><00:14:36.360><c> squares</c><00:14:36.880><c> and</c><00:14:37.040><c> padded</c>
+
+00:14:37.430 --> 00:14:37.440 align:start position:0%
+into a sequence of squares and padded
+ 
+
+00:14:37.440 --> 00:14:39.470 align:start position:0%
+into a sequence of squares and padded
+whatever<00:14:37.760><c> else</c><00:14:37.959><c> was</c><00:14:38.079><c> necessary.</c><00:14:39.079><c> Then</c><00:14:39.320><c> your</c>
+
+00:14:39.470 --> 00:14:39.480 align:start position:0%
+whatever else was necessary. Then your
+ 
+
+00:14:39.480 --> 00:14:41.710 align:start position:0%
+whatever else was necessary. Then your
+one<00:14:39.760><c> image</c><00:14:40.320><c> was</c><00:14:40.480><c> passed</c><00:14:40.800><c> to</c><00:14:40.880><c> the</c><00:14:41.000><c> model</c><00:14:41.440><c> as</c>
+
+00:14:41.710 --> 00:14:41.720 align:start position:0%
+one image was passed to the model as
+ 
+
+00:14:41.720 --> 00:14:44.150 align:start position:0%
+one image was passed to the model as
+two,<00:14:42.079><c> three,</c><00:14:42.560><c> four</c><00:14:42.880><c> different</c><00:14:43.200><c> images,</c><00:14:43.959><c> which</c>
+
+00:14:44.150 --> 00:14:44.160 align:start position:0%
+two, three, four different images, which
+ 
+
+00:14:44.160 --> 00:14:46.430 align:start position:0%
+two, three, four different images, which
+were<00:14:44.360><c> each</c><00:14:44.600><c> processed</c><00:14:45.040><c> sequentially.</c>
+
+00:14:46.430 --> 00:14:46.440 align:start position:0%
+were each processed sequentially.
+ 
+
+00:14:46.440 --> 00:14:48.470 align:start position:0%
+were each processed sequentially.
+Now,<00:14:46.920><c> with</c><00:14:47.120><c> these</c><00:14:47.360><c> advancements</c><00:14:48.000><c> across</c>
+
+00:14:48.470 --> 00:14:48.480 align:start position:0%
+Now, with these advancements across
+ 
+
+00:14:48.480 --> 00:14:50.630 align:start position:0%
+Now, with these advancements across
+variable<00:14:48.920><c> resolution</c><00:14:49.640><c> and</c><00:14:49.839><c> variable</c><00:14:50.240><c> aspect</c>
+
+00:14:50.630 --> 00:14:50.640 align:start position:0%
+variable resolution and variable aspect
+ 
+
+00:14:50.640 --> 00:14:54.069 align:start position:0%
+variable resolution and variable aspect
+ratios,<00:14:51.440><c> we're</c><00:14:51.560><c> now</c><00:14:51.880><c> able</c><00:14:52.200><c> to</c><00:14:52.360><c> process</c><00:14:53.560><c> images</c>
+
+00:14:54.069 --> 00:14:54.079 align:start position:0%
+ratios, we're now able to process images
+ 
+
+00:14:54.079 --> 00:14:56.069 align:start position:0%
+ratios, we're now able to process images
+with<00:14:54.280><c> varying</c><00:14:54.640><c> number</c><00:14:55.000><c> of</c><00:14:55.079><c> patches</c><00:14:55.600><c> depending</c>
+
+00:14:56.069 --> 00:14:56.079 align:start position:0%
+with varying number of patches depending
+ 
+
+00:14:56.079 --> 00:14:58.069 align:start position:0%
+with varying number of patches depending
+upon<00:14:56.440><c> the</c><00:14:56.600><c> actual</c><00:14:56.959><c> image</c><00:14:57.320><c> which</c><00:14:57.520><c> was</c><00:14:57.640><c> provided</c>
+
+00:14:58.069 --> 00:14:58.079 align:start position:0%
+upon the actual image which was provided
+ 
+
+00:14:58.079 --> 00:15:00.310 align:start position:0%
+upon the actual image which was provided
+by<00:14:58.200><c> the</c><00:14:58.320><c> user.</c>
+
+00:15:00.310 --> 00:15:00.320 align:start position:0%
+by the user.
+ 
+
+00:15:00.320 --> 00:15:02.630 align:start position:0%
+by the user.
+The<00:15:00.360><c> next</c><00:15:00.640><c> thing</c><00:15:00.760><c> to</c><00:15:00.880><c> understand</c><00:15:01.440><c> here</c><00:15:01.880><c> is</c><00:15:02.440><c> how</c>
+
+00:15:02.630 --> 00:15:02.640 align:start position:0%
+The next thing to understand here is how
+ 
+
+00:15:02.640 --> 00:15:04.470 align:start position:0%
+The next thing to understand here is how
+do<00:15:02.760><c> we</c><00:15:02.920><c> actually</c><00:15:03.280><c> take</c><00:15:03.640><c> these</c><00:15:03.880><c> patches</c><00:15:04.320><c> of</c>
+
+00:15:04.470 --> 00:15:04.480 align:start position:0%
+do we actually take these patches of
+ 
+
+00:15:04.480 --> 00:15:06.470 align:start position:0%
+do we actually take these patches of
+images<00:15:05.000><c> and</c><00:15:05.120><c> patch</c><00:15:05.600><c> and</c><00:15:05.760><c> pass</c><00:15:06.040><c> this</c><00:15:06.240><c> through</c>
+
+00:15:06.470 --> 00:15:06.480 align:start position:0%
+images and patch and pass this through
+ 
+
+00:15:06.480 --> 00:15:07.750 align:start position:0%
+images and patch and pass this through
+to<00:15:06.560><c> the</c><00:15:06.640><c> model?</c>
+
+00:15:07.750 --> 00:15:07.760 align:start position:0%
+to the model?
+ 
+
+00:15:07.760 --> 00:15:10.670 align:start position:0%
+to the model?
+This<00:15:07.959><c> is</c><00:15:08.160><c> where</c><00:15:08.760><c> we</c><00:15:08.880><c> take</c><00:15:09.240><c> 3</c><00:15:09.520><c> by</c><00:15:09.720><c> 3</c><00:15:10.040><c> grids</c><00:15:10.520><c> of</c>
+
+00:15:10.670 --> 00:15:10.680 align:start position:0%
+This is where we take 3 by 3 grids of
+ 
+
+00:15:10.680 --> 00:15:12.350 align:start position:0%
+This is where we take 3 by 3 grids of
+patches<00:15:11.280><c> and</c><00:15:11.400><c> they</c><00:15:11.520><c> become</c><00:15:11.880><c> a</c><00:15:11.920><c> single</c>
+
+00:15:12.350 --> 00:15:12.360 align:start position:0%
+patches and they become a single
+ 
+
+00:15:12.360 --> 00:15:14.150 align:start position:0%
+patches and they become a single
+embedding.<00:15:12.920><c> And</c><00:15:13.079><c> this</c><00:15:13.240><c> single</c><00:15:13.560><c> embedding</c><00:15:14.040><c> is</c>
+
+00:15:14.150 --> 00:15:14.160 align:start position:0%
+embedding. And this single embedding is
+ 
+
+00:15:14.160 --> 00:15:16.430 align:start position:0%
+embedding. And this single embedding is
+then<00:15:14.360><c> passed</c><00:15:14.720><c> forward</c><00:15:15.079><c> to</c><00:15:15.160><c> a</c><00:15:15.240><c> model.</c>
+
+00:15:16.430 --> 00:15:16.440 align:start position:0%
+then passed forward to a model.
+ 
+
+00:15:16.440 --> 00:15:18.470 align:start position:0%
+then passed forward to a model.
+So,<00:15:16.600><c> if</c><00:15:16.720><c> you're</c><00:15:16.920><c> running</c><00:15:17.200><c> a</c><00:15:17.280><c> Gemma</c><00:15:17.600><c> model</c><00:15:18.280><c> with</c>
+
+00:15:18.470 --> 00:15:18.480 align:start position:0%
+So, if you're running a Gemma model with
+ 
+
+00:15:18.480 --> 00:15:21.390 align:start position:0%
+So, if you're running a Gemma model with
+a<00:15:18.560><c> token</c><00:15:18.920><c> budget</c><00:15:19.320><c> of</c><00:15:19.440><c> 280,</c><00:15:20.839><c> this</c><00:15:21.079><c> actually</c>
+
+00:15:21.390 --> 00:15:21.400 align:start position:0%
+a token budget of 280, this actually
+ 
+
+00:15:21.400 --> 00:15:23.829 align:start position:0%
+a token budget of 280, this actually
+equates<00:15:21.839><c> to</c><00:15:22.000><c> 2,520</c>
+
+00:15:23.829 --> 00:15:23.839 align:start position:0%
+equates to 2,520
+ 
+
+00:15:23.839 --> 00:15:25.270 align:start position:0%
+equates to 2,520
+different<00:15:24.240><c> patches</c><00:15:24.800><c> which</c><00:15:25.000><c> will</c><00:15:25.120><c> be</c>
+
+00:15:25.270 --> 00:15:25.280 align:start position:0%
+different patches which will be
+ 
+
+00:15:25.280 --> 00:15:27.750 align:start position:0%
+different patches which will be
+constructed<00:15:25.839><c> from</c><00:15:26.040><c> each</c><00:15:26.200><c> of</c><00:15:26.280><c> your</c><00:15:26.440><c> images.</c>
+
+00:15:27.750 --> 00:15:27.760 align:start position:0%
+constructed from each of your images.
+ 
+
+00:15:27.760 --> 00:15:29.430 align:start position:0%
+constructed from each of your images.
+For<00:15:27.920><c> anything</c><00:15:28.320><c> that</c><00:15:28.480><c> doesn't</c><00:15:28.880><c> fit</c><00:15:29.120><c> within</c><00:15:29.400><c> a</c>
+
+00:15:29.430 --> 00:15:29.440 align:start position:0%
+For anything that doesn't fit within a
+ 
+
+00:15:29.440 --> 00:15:32.870 align:start position:0%
+For anything that doesn't fit within a
+sequence<00:15:30.000><c> of</c><00:15:30.160><c> 16</c><00:15:30.600><c> by</c><00:15:30.760><c> 16</c><00:15:31.200><c> patches</c><00:15:32.000><c> of</c><00:15:32.120><c> 16</c><00:15:32.440><c> by</c><00:15:32.520><c> 16</c>
+
+00:15:32.870 --> 00:15:32.880 align:start position:0%
+sequence of 16 by 16 patches of 16 by 16
+ 
+
+00:15:32.880 --> 00:15:34.630 align:start position:0%
+sequence of 16 by 16 patches of 16 by 16
+pixels<00:15:33.440><c> for</c><00:15:33.600><c> each</c><00:15:33.760><c> of</c><00:15:33.839><c> the</c><00:15:33.920><c> patches,</c><00:15:34.520><c> we'll</c>
+
+00:15:34.630 --> 00:15:34.640 align:start position:0%
+pixels for each of the patches, we'll
+ 
+
+00:15:34.640 --> 00:15:39.069 align:start position:0%
+pixels for each of the patches, we'll
+provide<00:15:35.120><c> additional</c><00:15:35.560><c> padding.</c>
+
+00:15:39.069 --> 00:15:39.079 align:start position:0%
+ 
+ 
+
+00:15:39.079 --> 00:15:41.630 align:start position:0%
+ 
+For<00:15:39.240><c> an</c><00:15:39.360><c> example</c><00:15:39.920><c> of</c><00:15:40.040><c> square</c><00:15:40.480><c> images</c><00:15:41.160><c> across</c>
+
+00:15:41.630 --> 00:15:41.640 align:start position:0%
+For an example of square images across
+ 
+
+00:15:41.640 --> 00:15:43.510 align:start position:0%
+For an example of square images across
+the<00:15:41.760><c> five</c><00:15:42.079><c> different</c><00:15:42.520><c> soft</c><00:15:42.760><c> token</c><00:15:43.079><c> budgets</c>
+
+00:15:43.510 --> 00:15:43.520 align:start position:0%
+the five different soft token budgets
+ 
+
+00:15:43.520 --> 00:15:45.270 align:start position:0%
+the five different soft token budgets
+and<00:15:43.680><c> resolutions</c><00:15:44.360><c> which</c><00:15:44.520><c> are</c><00:15:44.600><c> supported</c><00:15:45.120><c> with</c>
+
+00:15:45.270 --> 00:15:45.280 align:start position:0%
+and resolutions which are supported with
+ 
+
+00:15:45.280 --> 00:15:47.750 align:start position:0%
+and resolutions which are supported with
+Gemma,<00:15:45.959><c> here's</c><00:15:46.240><c> an</c><00:15:46.360><c> instance</c><00:15:46.959><c> of</c><00:15:47.680><c> the</c>
+
+00:15:47.750 --> 00:15:47.760 align:start position:0%
+Gemma, here's an instance of the
+ 
+
+00:15:47.760 --> 00:15:50.030 align:start position:0%
+Gemma, here's an instance of the
+resolutions,<00:15:48.560><c> patches,</c><00:15:49.240><c> and</c><00:15:49.600><c> the</c><00:15:49.720><c> pooled</c>
+
+00:15:50.030 --> 00:15:50.040 align:start position:0%
+resolutions, patches, and the pooled
+ 
+
+00:15:50.040 --> 00:15:52.030 align:start position:0%
+resolutions, patches, and the pooled
+elements<00:15:50.560><c> embeddings</c><00:15:51.120><c> which</c><00:15:51.320><c> would</c><00:15:51.440><c> exist</c><00:15:51.880><c> at</c>
+
+00:15:52.030 --> 00:15:52.040 align:start position:0%
+elements embeddings which would exist at
+ 
+
+00:15:52.040 --> 00:15:53.949 align:start position:0%
+elements embeddings which would exist at
+each<00:15:52.200><c> of</c><00:15:52.280><c> these</c><00:15:52.440><c> different</c><00:15:52.760><c> sizes.</c>
+
+00:15:53.949 --> 00:15:53.959 align:start position:0%
+each of these different sizes.
+ 
+
+00:15:53.959 --> 00:15:55.550 align:start position:0%
+each of these different sizes.
+And<00:15:54.079><c> this</c><00:15:54.240><c> is</c><00:15:54.360><c> where</c><00:15:54.520><c> you</c><00:15:54.680><c> really</c><00:15:54.920><c> see</c><00:15:55.240><c> that</c><00:15:55.440><c> if</c>
+
+00:15:55.550 --> 00:15:55.560 align:start position:0%
+And this is where you really see that if
+ 
+
+00:15:55.560 --> 00:15:57.069 align:start position:0%
+And this is where you really see that if
+you're<00:15:55.680><c> doing</c><00:15:55.920><c> something</c><00:15:56.400><c> such</c><00:15:56.600><c> as</c><00:15:56.760><c> object</c>
+
+00:15:57.069 --> 00:15:57.079 align:start position:0%
+you're doing something such as object
+ 
+
+00:15:57.079 --> 00:15:59.350 align:start position:0%
+you're doing something such as object
+detection,<00:15:57.839><c> OCR,</c><00:15:58.600><c> you</c><00:15:58.760><c> really</c><00:15:59.000><c> want</c><00:15:59.160><c> to</c><00:15:59.240><c> be</c>
+
+00:15:59.350 --> 00:15:59.360 align:start position:0%
+detection, OCR, you really want to be
+ 
+
+00:15:59.360 --> 00:16:01.710 align:start position:0%
+detection, OCR, you really want to be
+running<00:15:59.680><c> with</c><00:15:59.839><c> a</c><00:15:59.920><c> higher</c><00:16:00.320><c> quality</c>
+
+00:16:01.710 --> 00:16:01.720 align:start position:0%
+running with a higher quality
+ 
+
+00:16:01.720 --> 00:16:03.670 align:start position:0%
+running with a higher quality
+resolution<00:16:02.400><c> and</c><00:16:02.520><c> token</c><00:16:02.839><c> budget.</c><00:16:03.280><c> And</c><00:16:03.400><c> this</c><00:16:03.520><c> is</c>
+
+00:16:03.670 --> 00:16:03.680 align:start position:0%
+resolution and token budget. And this is
+ 
+
+00:16:03.680 --> 00:16:06.510 align:start position:0%
+resolution and token budget. And this is
+where<00:16:03.839><c> we</c><00:16:03.959><c> have</c><00:16:04.160><c> 560</c><00:16:04.959><c> and</c><00:16:05.120><c> 1120</c><00:16:05.839><c> available</c><00:16:06.400><c> for</c>
+
+00:16:06.510 --> 00:16:06.520 align:start position:0%
+where we have 560 and 1120 available for
+ 
+
+00:16:06.520 --> 00:16:10.990 align:start position:0%
+where we have 560 and 1120 available for
+these<00:16:06.800><c> use</c><00:16:07.000><c> cases.</c>
+
+00:16:10.990 --> 00:16:11.000 align:start position:0%
+ 
+ 
+
+00:16:11.000 --> 00:16:13.230 align:start position:0%
+ 
+And<00:16:11.520><c> pulling</c><00:16:11.839><c> this</c><00:16:12.000><c> all</c><00:16:12.160><c> together,</c><00:16:12.800><c> we</c><00:16:12.920><c> start</c>
+
+00:16:13.230 --> 00:16:13.240 align:start position:0%
+And pulling this all together, we start
+ 
+
+00:16:13.240 --> 00:16:15.430 align:start position:0%
+And pulling this all together, we start
+with<00:16:13.360><c> an</c><00:16:13.480><c> image</c><00:16:13.839><c> of</c><00:16:14.000><c> N</c><00:16:14.200><c> patches.</c><00:16:15.120><c> These</c>
+
+00:16:15.430 --> 00:16:15.440 align:start position:0%
+with an image of N patches. These
+ 
+
+00:16:15.440 --> 00:16:17.910 align:start position:0%
+with an image of N patches. These
+patches<00:16:15.959><c> are</c><00:16:16.120><c> each</c><00:16:16.640><c> turned</c><00:16:16.959><c> into</c><00:16:17.400><c> N</c><00:16:17.640><c> patch</c>
+
+00:16:17.910 --> 00:16:17.920 align:start position:0%
+patches are each turned into N patch
+ 
+
+00:16:17.920 --> 00:16:20.110 align:start position:0%
+patches are each turned into N patch
+embeddings.<00:16:18.800><c> We</c><00:16:18.920><c> then</c><00:16:19.160><c> pull</c><00:16:19.440><c> this</c><00:16:19.600><c> together</c>
+
+00:16:20.110 --> 00:16:20.120 align:start position:0%
+embeddings. We then pull this together
+ 
+
+00:16:20.120 --> 00:16:23.230 align:start position:0%
+embeddings. We then pull this together
+to<00:16:20.280><c> produce</c><00:16:20.800><c> N</c><00:16:20.959><c> over</c><00:16:21.200><c> 9</c><00:16:21.959><c> soft</c><00:16:22.280><c> tokens,</c><00:16:23.079><c> and</c>
+
+00:16:23.230 --> 00:16:23.240 align:start position:0%
+to produce N over 9 soft tokens, and
+ 
+
+00:16:23.240 --> 00:16:25.190 align:start position:0%
+to produce N over 9 soft tokens, and
+these<00:16:23.480><c> soft</c><00:16:23.720><c> tokens</c><00:16:24.200><c> are</c><00:16:24.320><c> linear</c><00:16:24.640><c> projected</c>
+
+00:16:25.190 --> 00:16:25.200 align:start position:0%
+these soft tokens are linear projected
+ 
+
+00:16:25.200 --> 00:16:26.590 align:start position:0%
+these soft tokens are linear projected
+up<00:16:25.440><c> to</c><00:16:25.560><c> what</c><00:16:25.680><c> is</c><00:16:25.800><c> actually</c><00:16:26.120><c> showed</c><00:16:26.400><c> to</c><00:16:26.520><c> our</c>
+
+00:16:26.590 --> 00:16:26.600 align:start position:0%
+up to what is actually showed to our
+ 
+
+00:16:26.600 --> 00:16:31.030 align:start position:0%
+up to what is actually showed to our
+models.
+
+00:16:31.030 --> 00:16:31.040 align:start position:0%
+ 
+ 
+
+00:16:31.040 --> 00:16:33.069 align:start position:0%
+ 
+Now,<00:16:31.400><c> for</c><00:16:31.560><c> the</c><00:16:31.680><c> audio</c><00:16:32.040><c> side.</c>
+
+00:16:33.069 --> 00:16:33.079 align:start position:0%
+Now, for the audio side.
+ 
+
+00:16:33.079 --> 00:16:35.430 align:start position:0%
+Now, for the audio side.
+Audio<00:16:33.400><c> has</c><00:16:33.560><c> been</c><00:16:33.720><c> added</c><00:16:34.079><c> into</c><00:16:34.400><c> the</c><00:16:34.560><c> E2B</c><00:16:35.280><c> and</c>
+
+00:16:35.430 --> 00:16:35.440 align:start position:0%
+Audio has been added into the E2B and
+ 
+
+00:16:35.440 --> 00:16:38.110 align:start position:0%
+Audio has been added into the E2B and
+the<00:16:35.560><c> E4B</c><00:16:36.640><c> with</c><00:16:36.839><c> the</c><00:16:36.959><c> goal</c><00:16:37.440><c> of</c><00:16:37.600><c> being</c><00:16:37.800><c> able</c><00:16:38.000><c> to</c>
+
+00:16:38.110 --> 00:16:38.120 align:start position:0%
+the E4B with the goal of being able to
+ 
+
+00:16:38.120 --> 00:16:40.430 align:start position:0%
+the E4B with the goal of being able to
+support<00:16:38.640><c> translation</c><00:16:39.400><c> and</c><00:16:39.560><c> speak</c><00:16:40.120><c> speech</c>
+
+00:16:40.430 --> 00:16:40.440 align:start position:0%
+support translation and speak speech
+ 
+
+00:16:40.440 --> 00:16:42.910 align:start position:0%
+support translation and speak speech
+recognition.<00:16:41.720><c> This</c><00:16:41.920><c> is</c><00:16:42.079><c> made</c><00:16:42.400><c> possible</c>
+
+00:16:42.910 --> 00:16:42.920 align:start position:0%
+recognition. This is made possible
+ 
+
+00:16:42.920 --> 00:16:44.510 align:start position:0%
+recognition. This is made possible
+through<00:16:43.079><c> the</c><00:16:43.200><c> combination</c><00:16:43.920><c> of</c><00:16:44.040><c> an</c><00:16:44.160><c> audio</c>
+
+00:16:44.510 --> 00:16:44.520 align:start position:0%
+through the combination of an audio
+ 
+
+00:16:44.520 --> 00:16:46.910 align:start position:0%
+through the combination of an audio
+tokenizer<00:16:45.280><c> and</c><00:16:45.560><c> a</c><00:16:45.640><c> conformer.</c>
+
+00:16:46.910 --> 00:16:46.920 align:start position:0%
+tokenizer and a conformer.
+ 
+
+00:16:46.920 --> 00:16:48.790 align:start position:0%
+tokenizer and a conformer.
+This<00:16:47.040><c> is</c><00:16:47.200><c> a</c><00:16:47.280><c> 305</c>
+
+00:16:48.790 --> 00:16:48.800 align:start position:0%
+This is a 305
+ 
+
+00:16:48.800 --> 00:16:51.069 align:start position:0%
+This is a 305
+million<00:16:49.160><c> parameter</c><00:16:49.640><c> conformer</c><00:16:50.720><c> which</c>
+
+00:16:51.069 --> 00:16:51.079 align:start position:0%
+million parameter conformer which
+ 
+
+00:16:51.079 --> 00:16:53.790 align:start position:0%
+million parameter conformer which
+processes<00:16:51.800><c> as</c><00:16:51.959><c> an</c><00:16:52.120><c> audio</c><00:16:52.520><c> encoder</c><00:16:53.240><c> processing</c>
+
+00:16:53.790 --> 00:16:53.800 align:start position:0%
+processes as an audio encoder processing
+ 
+
+00:16:53.800 --> 00:16:58.350 align:start position:0%
+processes as an audio encoder processing
+embeddings<00:16:54.360><c> rather</c><00:16:54.600><c> than</c><00:16:54.760><c> tokens.</c>
+
+00:16:58.350 --> 00:16:58.360 align:start position:0%
+ 
+ 
+
+00:16:58.360 --> 00:17:00.670 align:start position:0%
+ 
+On<00:16:58.680><c> the</c><00:16:58.800><c> audio</c><00:16:59.079><c> tokenizer</c><00:16:59.720><c> side,</c><00:17:00.240><c> we</c><00:17:00.360><c> start</c>
+
+00:17:00.670 --> 00:17:00.680 align:start position:0%
+On the audio tokenizer side, we start
+ 
+
+00:17:00.680 --> 00:17:03.069 align:start position:0%
+On the audio tokenizer side, we start
+with<00:17:00.839><c> raw</c><00:17:01.079><c> audio.</c><00:17:01.839><c> This</c><00:17:02.079><c> raw</c><00:17:02.360><c> audio</c><00:17:02.720><c> is</c><00:17:02.880><c> run</c>
+
+00:17:03.069 --> 00:17:03.079 align:start position:0%
+with raw audio. This raw audio is run
+ 
+
+00:17:03.079 --> 00:17:05.470 align:start position:0%
+with raw audio. This raw audio is run
+through<00:17:03.360><c> a</c><00:17:03.440><c> mel</c><00:17:03.720><c> spectrogram</c><00:17:04.679><c> which</c><00:17:04.880><c> is</c><00:17:05.040><c> able</c>
+
+00:17:05.470 --> 00:17:05.480 align:start position:0%
+through a mel spectrogram which is able
+ 
+
+00:17:05.480 --> 00:17:08.189 align:start position:0%
+through a mel spectrogram which is able
+to<00:17:05.880><c> process</c><00:17:06.720><c> features</c><00:17:07.320><c> out</c><00:17:07.439><c> of</c><00:17:07.520><c> the</c><00:17:07.640><c> raw</c><00:17:07.880><c> audio</c>
+
+00:17:08.189 --> 00:17:08.199 align:start position:0%
+to process features out of the raw audio
+ 
+
+00:17:08.199 --> 00:17:11.350 align:start position:0%
+to process features out of the raw audio
+files.<00:17:09.199><c> This</c><00:17:09.640><c> mel</c><00:17:10.199><c> spectrogram</c><00:17:11.000><c> is</c><00:17:11.160><c> then</c>
+
+00:17:11.350 --> 00:17:11.360 align:start position:0%
+files. This mel spectrogram is then
+ 
+
+00:17:11.360 --> 00:17:13.470 align:start position:0%
+files. This mel spectrogram is then
+split<00:17:11.640><c> into</c><00:17:11.959><c> N</c><00:17:12.199><c> mel</c><00:17:12.439><c> chunks</c><00:17:13.160><c> which</c><00:17:13.360><c> are</c>
+
+00:17:13.470 --> 00:17:13.480 align:start position:0%
+split into N mel chunks which are
+ 
+
+00:17:13.480 --> 00:17:15.510 align:start position:0%
+split into N mel chunks which are
+downsampled<00:17:14.320><c> through</c><00:17:14.520><c> two</c><00:17:14.760><c> convolutional</c>
+
+00:17:15.510 --> 00:17:15.520 align:start position:0%
+downsampled through two convolutional
+ 
+
+00:17:15.520 --> 00:17:18.310 align:start position:0%
+downsampled through two convolutional
+layers.<00:17:16.360><c> This</c><00:17:16.600><c> ultimately</c><00:17:17.079><c> outputs</c><00:17:17.600><c> N</c><00:17:17.760><c> over</c><00:17:18.000><c> 4</c>
+
+00:17:18.310 --> 00:17:18.320 align:start position:0%
+layers. This ultimately outputs N over 4
+ 
+
+00:17:18.320 --> 00:17:21.030 align:start position:0%
+layers. This ultimately outputs N over 4
+soft<00:17:18.640><c> tokens.</c><00:17:19.600><c> These</c><00:17:20.000><c> audio</c><00:17:20.360><c> embeddings</c><00:17:20.920><c> are</c>
+
+00:17:21.030 --> 00:17:21.040 align:start position:0%
+soft tokens. These audio embeddings are
+ 
+
+00:17:21.040 --> 00:17:22.310 align:start position:0%
+soft tokens. These audio embeddings are
+what's<00:17:21.280><c> passed</c><00:17:21.640><c> forward</c><00:17:22.000><c> into</c><00:17:22.240><c> the</c>
+
+00:17:22.310 --> 00:17:22.320 align:start position:0%
+what's passed forward into the
+ 
+
+00:17:22.320 --> 00:17:25.030 align:start position:0%
+what's passed forward into the
+conformer.
+
+00:17:25.030 --> 00:17:25.040 align:start position:0%
+ 
+ 
+
+00:17:25.040 --> 00:17:26.669 align:start position:0%
+ 
+Our<00:17:25.199><c> conformer</c><00:17:25.760><c> follows</c><00:17:26.199><c> a</c><00:17:26.280><c> similar</c>
+
+00:17:26.669 --> 00:17:26.679 align:start position:0%
+Our conformer follows a similar
+ 
+
+00:17:26.679 --> 00:17:29.030 align:start position:0%
+Our conformer follows a similar
+architecture<00:17:27.439><c> to</c><00:17:27.600><c> what</c><00:17:27.760><c> we've</c><00:17:27.920><c> already</c><00:17:28.320><c> seen</c>
+
+00:17:29.030 --> 00:17:29.040 align:start position:0%
+architecture to what we've already seen
+ 
+
+00:17:29.040 --> 00:17:31.270 align:start position:0%
+architecture to what we've already seen
+across<00:17:29.640><c> the</c><00:17:29.800><c> dense</c><00:17:30.120><c> models</c><00:17:30.640><c> and</c><00:17:30.760><c> the</c><00:17:30.800><c> MoE</c>
+
+00:17:31.270 --> 00:17:31.280 align:start position:0%
+across the dense models and the MoE
+ 
+
+00:17:31.280 --> 00:17:33.350 align:start position:0%
+across the dense models and the MoE
+architecture.<00:17:32.440><c> Although</c><00:17:32.720><c> this</c><00:17:32.960><c> time</c><00:17:33.200><c> we're</c>
+
+00:17:33.350 --> 00:17:33.360 align:start position:0%
+architecture. Although this time we're
+ 
+
+00:17:33.360 --> 00:17:39.150 align:start position:0%
+architecture. Although this time we're
+adding<00:17:33.640><c> in</c><00:17:33.960><c> a</c><00:17:34.040><c> convolutional</c><00:17:34.800><c> layer.</c>
+
+00:17:39.150 --> 00:17:39.160 align:start position:0%
+ 
+ 
+
+00:17:39.160 --> 00:17:40.710 align:start position:0%
+ 
+Returning<00:17:39.679><c> back</c><00:17:39.960><c> to</c><00:17:40.040><c> where</c><00:17:40.200><c> we</c><00:17:40.320><c> started</c>
+
+00:17:40.710 --> 00:17:40.720 align:start position:0%
+Returning back to where we started
+ 
+
+00:17:40.720 --> 00:17:43.110 align:start position:0%
+Returning back to where we started
+today,<00:17:41.440><c> the</c><00:17:41.520><c> Gemma</c><00:17:41.840><c> family</c><00:17:42.160><c> of</c><00:17:42.280><c> models</c><00:17:42.840><c> has</c>
+
+00:17:43.110 --> 00:17:43.120 align:start position:0%
+today, the Gemma family of models has
+ 
+
+00:17:43.120 --> 00:17:45.070 align:start position:0%
+today, the Gemma family of models has
+four<00:17:43.400><c> models</c><00:17:43.880><c> which</c><00:17:44.080><c> we've</c><00:17:44.240><c> released</c><00:17:44.720><c> to</c><00:17:44.840><c> you</c>
+
+00:17:45.070 --> 00:17:45.080 align:start position:0%
+four models which we've released to you
+ 
+
+00:17:45.080 --> 00:17:47.470 align:start position:0%
+four models which we've released to you
+externally<00:17:45.800><c> last</c><00:17:46.120><c> week.</c><00:17:46.960><c> We</c><00:17:47.080><c> have</c><00:17:47.280><c> two</c>
+
+00:17:47.470 --> 00:17:47.480 align:start position:0%
+externally last week. We have two
+ 
+
+00:17:47.480 --> 00:17:49.150 align:start position:0%
+externally last week. We have two
+smaller<00:17:47.880><c> models</c><00:17:48.360><c> which</c><00:17:48.520><c> have</c><00:17:48.640><c> been</c><00:17:48.840><c> geared</c>
+
+00:17:49.150 --> 00:17:49.160 align:start position:0%
+smaller models which have been geared
+ 
+
+00:17:49.160 --> 00:17:51.310 align:start position:0%
+smaller models which have been geared
+towards<00:17:49.480><c> on-device</c><00:17:50.080><c> applications</c><00:17:51.160><c> with</c>
+
+00:17:51.310 --> 00:17:51.320 align:start position:0%
+towards on-device applications with
+ 
+
+00:17:51.320 --> 00:17:54.110 align:start position:0%
+towards on-device applications with
+support<00:17:51.800><c> for</c><00:17:51.920><c> text,</c><00:17:52.480><c> vision,</c><00:17:52.920><c> and</c><00:17:53.080><c> audio.</c><00:17:54.000><c> Our</c>
+
+00:17:54.110 --> 00:17:54.120 align:start position:0%
+support for text, vision, and audio. Our
+ 
+
+00:17:54.120 --> 00:17:56.070 align:start position:0%
+support for text, vision, and audio. Our
+two<00:17:54.400><c> larger</c><00:17:54.720><c> models</c><00:17:55.200><c> are</c><00:17:55.280><c> designed</c><00:17:55.720><c> for</c><00:17:55.840><c> more</c>
+
+00:17:56.070 --> 00:17:56.080 align:start position:0%
+two larger models are designed for more
+ 
+
+00:17:56.080 --> 00:17:58.710 align:start position:0%
+two larger models are designed for more
+complex<00:17:56.720><c> and</c><00:17:56.880><c> reasoning</c><00:17:57.360><c> tasks</c><00:17:58.160><c> with</c><00:17:58.320><c> support</c>
+
+00:17:58.710 --> 00:17:58.720 align:start position:0%
+complex and reasoning tasks with support
+ 
+
+00:17:58.720 --> 00:18:02.030 align:start position:0%
+complex and reasoning tasks with support
+for<00:17:58.880><c> agentic</c><00:17:59.440><c> workflows</c><00:18:00.160><c> and</c><00:18:00.400><c> coding.</c>
+
+00:18:02.030 --> 00:18:02.040 align:start position:0%
+for agentic workflows and coding.
+ 
+
+00:18:02.040 --> 00:18:03.830 align:start position:0%
+for agentic workflows and coding.
+And<00:18:02.160><c> that's</c><00:18:02.440><c> what</c><00:18:02.560><c> brings</c><00:18:02.880><c> us</c><00:18:03.000><c> to</c><00:18:03.480><c> what</c><00:18:03.679><c> can</c>
+
+00:18:03.830 --> 00:18:03.840 align:start position:0%
+And that's what brings us to what can
+ 
+
+00:18:03.840 --> 00:18:05.550 align:start position:0%
+And that's what brings us to what can
+you<00:18:03.960><c> do</c><00:18:04.120><c> with</c><00:18:04.280><c> Gemma</c><00:18:04.520><c> today</c><00:18:05.000><c> and</c><00:18:05.160><c> how</c><00:18:05.280><c> can</c><00:18:05.480><c> you</c>
+
+00:18:05.550 --> 00:18:05.560 align:start position:0%
+you do with Gemma today and how can you
+ 
+
+00:18:05.560 --> 00:18:06.950 align:start position:0%
+you do with Gemma today and how can you
+get<00:18:05.760><c> started?</c>
+
+00:18:06.950 --> 00:18:06.960 align:start position:0%
+get started?
+ 
+
+00:18:06.960 --> 00:18:08.350 align:start position:0%
+get started?
+There's<00:18:07.160><c> two</c><00:18:07.360><c> main</c><00:18:07.600><c> options</c><00:18:08.040><c> for</c><00:18:08.160><c> getting</c>
+
+00:18:08.350 --> 00:18:08.360 align:start position:0%
+There's two main options for getting
+ 
+
+00:18:08.360 --> 00:18:10.270 align:start position:0%
+There's two main options for getting
+started<00:18:08.679><c> with</c><00:18:08.840><c> Gemma.</c><00:18:09.440><c> You</c><00:18:09.600><c> have</c><00:18:09.760><c> the</c><00:18:09.880><c> option</c>
+
+00:18:10.270 --> 00:18:10.280 align:start position:0%
+started with Gemma. You have the option
+ 
+
+00:18:10.280 --> 00:18:12.230 align:start position:0%
+started with Gemma. You have the option
+to<00:18:10.440><c> download</c><00:18:10.960><c> and</c><00:18:11.120><c> self-host</c><00:18:11.840><c> all</c><00:18:12.040><c> of</c><00:18:12.120><c> our</c>
+
+00:18:12.230 --> 00:18:12.240 align:start position:0%
+to download and self-host all of our
+ 
+
+00:18:12.240 --> 00:18:14.390 align:start position:0%
+to download and self-host all of our
+models.<00:18:13.040><c> These</c><00:18:13.240><c> are</c><00:18:13.360><c> available</c><00:18:13.960><c> across</c>
+
+00:18:14.390 --> 00:18:14.400 align:start position:0%
+models. These are available across
+ 
+
+00:18:14.400 --> 00:18:16.950 align:start position:0%
+models. These are available across
+Hugging<00:18:14.760><c> Face,</c><00:18:15.160><c> Kaggle,</c><00:18:15.720><c> and</c><00:18:15.840><c> Ollama.</c>
+
+00:18:16.950 --> 00:18:16.960 align:start position:0%
+Hugging Face, Kaggle, and Ollama.
+ 
+
+00:18:16.960 --> 00:18:19.070 align:start position:0%
+Hugging Face, Kaggle, and Ollama.
+We<00:18:17.080><c> also</c><00:18:17.400><c> have</c><00:18:17.600><c> cloud-hosted</c><00:18:18.440><c> options</c><00:18:18.920><c> for</c>
+
+00:18:19.070 --> 00:18:19.080 align:start position:0%
+We also have cloud-hosted options for
+ 
+
+00:18:19.080 --> 00:18:22.790 align:start position:0%
+We also have cloud-hosted options for
+our<00:18:19.200><c> larger</c><00:18:19.600><c> models,</c><00:18:20.120><c> our</c><00:18:20.240><c> 31B</c><00:18:21.200><c> and</c><00:18:21.400><c> our</c><00:18:21.480><c> 26B,</c>
+
+00:18:22.790 --> 00:18:22.800 align:start position:0%
+our larger models, our 31B and our 26B,
+ 
+
+00:18:22.800 --> 00:18:24.750 align:start position:0%
+our larger models, our 31B and our 26B,
+and<00:18:22.920><c> these</c><00:18:23.120><c> can</c><00:18:23.280><c> be</c><00:18:23.400><c> accessible</c><00:18:24.000><c> across</c><00:18:24.520><c> AI</c>
+
+00:18:24.750 --> 00:18:24.760 align:start position:0%
+and these can be accessible across AI
+ 
+
+00:18:24.760 --> 00:18:26.710 align:start position:0%
+and these can be accessible across AI
+Studio<00:18:25.360><c> and</c><00:18:25.520><c> Vertex.</c>
+
+00:18:26.710 --> 00:18:26.720 align:start position:0%
+Studio and Vertex.
+ 
+
+00:18:26.720 --> 00:18:28.110 align:start position:0%
+Studio and Vertex.
+This<00:18:26.880><c> is</c><00:18:27.000><c> what's</c><00:18:27.200><c> going</c><00:18:27.320><c> to</c><00:18:27.400><c> allow</c><00:18:27.760><c> you</c><00:18:27.960><c> to</c>
+
+00:18:28.110 --> 00:18:28.120 align:start position:0%
+This is what's going to allow you to
+ 
+
+00:18:28.120 --> 00:18:29.750 align:start position:0%
+This is what's going to allow you to
+immediately<00:18:28.840><c> get</c><00:18:29.040><c> started</c><00:18:29.560><c> with</c>
+
+00:18:29.750 --> 00:18:29.760 align:start position:0%
+immediately get started with
+ 
+
+00:18:29.760 --> 00:18:32.550 align:start position:0%
+immediately get started with
+prototyping,<00:18:31.040><c> building</c><00:18:31.360><c> agentic</c><00:18:31.880><c> workflows,</c>
+
+00:18:32.550 --> 00:18:32.560 align:start position:0%
+prototyping, building agentic workflows,
+ 
+
+00:18:32.560 --> 00:18:34.110 align:start position:0%
+prototyping, building agentic workflows,
+and<00:18:32.679><c> testing</c><00:18:33.080><c> out</c><00:18:33.240><c> function</c><00:18:33.600><c> calling</c><00:18:34.040><c> in</c>
+
+00:18:34.110 --> 00:18:34.120 align:start position:0%
+and testing out function calling in
+ 
+
+00:18:34.120 --> 00:18:37.590 align:start position:0%
+and testing out function calling in
+these<00:18:34.320><c> larger</c><00:18:34.640><c> models.</c>
+
+00:18:37.590 --> 00:18:37.600 align:start position:0%
+ 
+ 
+
+00:18:37.600 --> 00:18:39.430 align:start position:0%
+ 
+Thank<00:18:37.840><c> you,</c><00:18:38.120><c> and</c><00:18:38.440><c> I'm</c><00:18:38.560><c> happy</c><00:18:38.760><c> to</c><00:18:38.840><c> answer</c><00:18:39.240><c> any</c>
+
+00:18:39.430 --> 00:18:39.440 align:start position:0%
+Thank you, and I'm happy to answer any
+ 
+
+00:18:39.440 --> 00:18:42.520 align:start position:0%
+Thank you, and I'm happy to answer any
+questions<00:18:39.880><c> about</c><00:18:40.080><c> Gemma.</c>
+

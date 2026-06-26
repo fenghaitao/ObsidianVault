@@ -18,7 +18,7 @@ import _channel_core as core  # noqa: E402
 
 # Optional hard floor (YYYYMMDD). If 0, the cutoff is derived from the newest
 # upload_date already on disk. Set this to backfill from a fixed date.
-MIN_DATE = 0
+MIN_DATE = 20260101
 
 # Default client: cookies are wired in by core; Node solves the n-challenge.
 CLIENT_OPTS = {"js_runtimes": {"node": {}}}

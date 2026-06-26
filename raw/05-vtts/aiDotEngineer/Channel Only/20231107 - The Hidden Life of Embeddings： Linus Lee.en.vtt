@@ -1,0 +1,4288 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.040 --> 00:00:14.749 align:start position:0%
+ 
+[Music]
+
+00:00:14.749 --> 00:00:14.759 align:start position:0%
+ 
+ 
+
+00:00:14.759 --> 00:00:16.189 align:start position:0%
+ 
+everyone<00:00:15.120><c> I'm</c><00:00:15.240><c> L</c><00:00:15.559><c> I'm</c><00:00:15.679><c> here</c><00:00:15.759><c> to</c><00:00:15.839><c> talk</c><00:00:16.039><c> about</c>
+
+00:00:16.189 --> 00:00:16.199 align:start position:0%
+everyone I'm L I'm here to talk about
+ 
+
+00:00:16.199 --> 00:00:18.230 align:start position:0%
+everyone I'm L I'm here to talk about
+embeddings<00:00:17.199><c> um</c><00:00:17.359><c> grateful</c><00:00:17.640><c> to</c><00:00:17.760><c> be</c><00:00:17.880><c> here</c><00:00:18.000><c> at</c><00:00:18.119><c> the</c>
+
+00:00:18.230 --> 00:00:18.240 align:start position:0%
+embeddings um grateful to be here at the
+ 
+
+00:00:18.240 --> 00:00:19.830 align:start position:0%
+embeddings um grateful to be here at the
+inaugural<00:00:18.760><c> a</c><00:00:18.960><c> engineer</c><00:00:19.320><c> conference</c><00:00:19.680><c> who</c>
+
+00:00:19.830 --> 00:00:19.840 align:start position:0%
+inaugural a engineer conference who
+ 
+
+00:00:19.840 --> 00:00:21.429 align:start position:0%
+inaugural a engineer conference who
+learned<00:00:20.119><c> something</c><00:00:20.400><c> new</c>
+
+00:00:21.429 --> 00:00:21.439 align:start position:0%
+learned something new
+ 
+
+00:00:21.439 --> 00:00:25.269 align:start position:0%
+learned something new
+today<00:00:22.640><c> yeah</c><00:00:23.640><c> um</c><00:00:24.279><c> before</c><00:00:24.480><c> I</c><00:00:24.560><c> talk</c><00:00:24.720><c> about</c><00:00:24.960><c> that</c><00:00:25.199><c> a</c>
+
+00:00:25.269 --> 00:00:25.279 align:start position:0%
+today yeah um before I talk about that a
+ 
+
+00:00:25.279 --> 00:00:26.710 align:start position:0%
+today yeah um before I talk about that a
+little<00:00:25.560><c> about</c><00:00:25.760><c> myself</c><00:00:26.119><c> if</c><00:00:26.199><c> you</c><00:00:26.320><c> don't</c><00:00:26.480><c> know</c><00:00:26.560><c> me</c>
+
+00:00:26.710 --> 00:00:26.720 align:start position:0%
+little about myself if you don't know me
+ 
+
+00:00:26.720 --> 00:00:30.550 align:start position:0%
+little about myself if you don't know me
+already<00:00:27.439><c> I</c><00:00:27.880><c> am</c><00:00:28.160><c> lus</c><00:00:28.640><c> I</c><00:00:28.720><c> work</c><00:00:28.840><c> on</c><00:00:29.000><c> AI</c><00:00:29.240><c> at</c><00:00:29.359><c> notion</c>
+
+00:00:30.550 --> 00:00:30.560 align:start position:0%
+already I am lus I work on AI at notion
+ 
+
+00:00:30.560 --> 00:00:32.389 align:start position:0%
+already I am lus I work on AI at notion
+uh<00:00:30.679><c> for</c><00:00:30.840><c> the</c><00:00:31.000><c> last</c><00:00:31.439><c> year</c><00:00:31.640><c> or</c><00:00:31.800><c> so</c><00:00:32.000><c> before</c><00:00:32.200><c> that</c><00:00:32.320><c> I</c>
+
+00:00:32.389 --> 00:00:32.399 align:start position:0%
+uh for the last year or so before that I
+ 
+
+00:00:32.399 --> 00:00:33.310 align:start position:0%
+uh for the last year or so before that I
+did<00:00:32.520><c> a</c><00:00:32.559><c> lot</c><00:00:32.680><c> of</c><00:00:32.759><c> independent</c><00:00:33.120><c> work</c>
+
+00:00:33.310 --> 00:00:33.320 align:start position:0%
+did a lot of independent work
+ 
+
+00:00:33.320 --> 00:00:35.270 align:start position:0%
+did a lot of independent work
+prototyping<00:00:33.960><c> experimenting</c><00:00:34.520><c> with</c><00:00:35.000><c> trying</c>
+
+00:00:35.270 --> 00:00:35.280 align:start position:0%
+prototyping experimenting with trying
+ 
+
+00:00:35.280 --> 00:00:36.430 align:start position:0%
+prototyping experimenting with trying
+out<00:00:35.440><c> different</c><00:00:35.680><c> things</c><00:00:35.960><c> with</c><00:00:36.120><c> language</c>
+
+00:00:36.430 --> 00:00:36.440 align:start position:0%
+out different things with language
+ 
+
+00:00:36.440 --> 00:00:38.310 align:start position:0%
+out different things with language
+models<00:00:36.879><c> with</c><00:00:37.000><c> traditional</c><00:00:37.399><c> LP</c><00:00:38.040><c> things</c><00:00:38.200><c> like</c>
+
+00:00:38.310 --> 00:00:38.320 align:start position:0%
+models with traditional LP things like
+ 
+
+00:00:38.320 --> 00:00:40.869 align:start position:0%
+models with traditional LP things like
+tfidf<00:00:39.000><c> bm25</c><00:00:40.000><c> to</c><00:00:40.200><c> build</c><00:00:40.520><c> interesting</c>
+
+00:00:40.869 --> 00:00:40.879 align:start position:0%
+tfidf bm25 to build interesting
+ 
+
+00:00:40.879 --> 00:00:42.470 align:start position:0%
+tfidf bm25 to build interesting
+interfaces<00:00:41.280><c> for</c><00:00:41.399><c> reading</c><00:00:41.640><c> and</c><00:00:41.760><c> writing</c><00:00:42.360><c> in</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+interfaces for reading and writing in
+ 
+
+00:00:42.480 --> 00:00:43.869 align:start position:0%
+interfaces for reading and writing in
+particular<00:00:42.800><c> I</c><00:00:42.879><c> worked</c><00:00:43.079><c> a</c><00:00:43.160><c> lot</c><00:00:43.360><c> with</c><00:00:43.520><c> embedding</c>
+
+00:00:43.869 --> 00:00:43.879 align:start position:0%
+particular I worked a lot with embedding
+ 
+
+00:00:43.879 --> 00:00:45.709 align:start position:0%
+particular I worked a lot with embedding
+models<00:00:44.200><c> and</c><00:00:44.520><c> Laten</c><00:00:44.840><c> spaces</c><00:00:45.120><c> of</c><00:00:45.239><c> models</c><00:00:45.600><c> which</c>
+
+00:00:45.709 --> 00:00:45.719 align:start position:0%
+models and Laten spaces of models which
+ 
+
+00:00:45.719 --> 00:00:47.430 align:start position:0%
+models and Laten spaces of models which
+is<00:00:45.800><c> what</c><00:00:45.960><c> I'll</c><00:00:46.199><c> be</c><00:00:46.559><c> I'll</c><00:00:46.680><c> be</c><00:00:46.800><c> talking</c><00:00:47.000><c> about</c>
+
+00:00:47.430 --> 00:00:47.440 align:start position:0%
+is what I'll be I'll be talking about
+ 
+
+00:00:47.440 --> 00:00:50.069 align:start position:0%
+is what I'll be I'll be talking about
+today<00:00:48.440><c> but</c><00:00:48.600><c> before</c><00:00:48.800><c> I</c><00:00:48.960><c> do</c><00:00:49.160><c> that</c><00:00:49.760><c> I</c><00:00:49.840><c> want</c><00:00:49.960><c> to</c>
+
+00:00:50.069 --> 00:00:50.079 align:start position:0%
+today but before I do that I want to
+ 
+
+00:00:50.079 --> 00:00:52.389 align:start position:0%
+today but before I do that I want to
+take<00:00:50.160><c> a</c><00:00:50.280><c> moment</c><00:00:50.600><c> to</c><00:00:51.120><c> say</c><00:00:51.480><c> it's</c><00:00:51.640><c> been</c><00:00:51.960><c> almost</c>
+
+00:00:52.389 --> 00:00:52.399 align:start position:0%
+take a moment to say it's been almost
+ 
+
+00:00:52.399 --> 00:00:54.830 align:start position:0%
+take a moment to say it's been almost
+year<00:00:52.760><c> since</c><00:00:53.000><c> notion</c><00:00:53.399><c> launched</c><00:00:53.760><c> notion</c><00:00:54.120><c> AI</c><00:00:54.680><c> our</c>
+
+00:00:54.830 --> 00:00:54.840 align:start position:0%
+year since notion launched notion AI our
+ 
+
+00:00:54.840 --> 00:00:56.430 align:start position:0%
+year since notion launched notion AI our
+public<00:00:55.079><c> beta</c><00:00:55.359><c> was</c><00:00:55.480><c> first</c><00:00:55.680><c> announced</c><00:00:56.239><c> in</c>
+
+00:00:56.430 --> 00:00:56.440 align:start position:0%
+public beta was first announced in
+ 
+
+00:00:56.440 --> 00:00:59.029 align:start position:0%
+public beta was first announced in
+around<00:00:56.719><c> November</c><00:00:57.399><c> 2022</c><00:00:58.399><c> so</c><00:00:58.519><c> as</c><00:00:58.600><c> we</c><00:00:58.719><c> get</c><00:00:58.840><c> close</c>
+
+00:00:59.029 --> 00:00:59.039 align:start position:0%
+around November 2022 so as we get close
+ 
+
+00:00:59.039 --> 00:01:00.950 align:start position:0%
+around November 2022 so as we get close
+to<00:00:59.160><c> a</c><00:00:59.280><c> year</c><00:00:59.719><c> we</c><00:00:59.920><c> we've</c><00:01:00.280><c> uh</c><00:01:00.399><c> been</c><00:01:00.559><c> steadily</c>
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+to a year we we've uh been steadily
+ 
+
+00:01:00.960 --> 00:01:02.549 align:start position:0%
+to a year we we've uh been steadily
+launching<00:01:01.480><c> new</c><00:01:01.640><c> and</c><00:01:01.800><c> interesting</c><00:01:02.120><c> features</c>
+
+00:01:02.549 --> 00:01:02.559 align:start position:0%
+launching new and interesting features
+ 
+
+00:01:02.559 --> 00:01:05.149 align:start position:0%
+launching new and interesting features
+inside<00:01:02.879><c> notion</c><00:01:03.199><c> AI</c><00:01:03.800><c> from</c><00:01:04.040><c> November</c><00:01:04.559><c> we</c><00:01:04.720><c> have</c>
+
+00:01:05.149 --> 00:01:05.159 align:start position:0%
+inside notion AI from November we have
+ 
+
+00:01:05.159 --> 00:01:07.870 align:start position:0%
+inside notion AI from November we have
+ai<00:01:05.439><c> autofill</c><00:01:05.799><c> inside</c><00:01:06.080><c> databases</c><00:01:06.880><c> translation</c>
+
+00:01:07.870 --> 00:01:07.880 align:start position:0%
+ai autofill inside databases translation
+ 
+
+00:01:07.880 --> 00:01:10.950 align:start position:0%
+ai autofill inside databases translation
+and<00:01:08.439><c> things</c><00:01:08.799><c> coming</c><00:01:09.439><c> soon</c><00:01:10.119><c> though</c><00:01:10.320><c> not</c><00:01:10.600><c> today</c>
+
+00:01:10.950 --> 00:01:10.960 align:start position:0%
+and things coming soon though not today
+ 
+
+00:01:10.960 --> 00:01:12.670 align:start position:0%
+and things coming soon though not today
+so<00:01:11.119><c> keep</c><00:01:11.280><c> an</c><00:01:11.400><c> eye</c><00:01:11.520><c> on</c><00:01:11.600><c> the</c><00:01:11.759><c> space</c><00:01:12.479><c> and</c>
+
+00:01:12.670 --> 00:01:12.680 align:start position:0%
+so keep an eye on the space and
+ 
+
+00:01:12.680 --> 00:01:14.070 align:start position:0%
+so keep an eye on the space and
+obviously<00:01:13.000><c> we're</c><00:01:13.360><c> hiring</c><00:01:13.759><c> just</c><00:01:13.920><c> like</c>
+
+00:01:14.070 --> 00:01:14.080 align:start position:0%
+obviously we're hiring just like
+ 
+
+00:01:14.080 --> 00:01:15.310 align:start position:0%
+obviously we're hiring just like
+everybody<00:01:14.320><c> else</c><00:01:14.479><c> here</c><00:01:14.640><c> we're</c><00:01:14.759><c> looking</c><00:01:14.920><c> for</c><00:01:15.080><c> AI</c>
+
+00:01:15.310 --> 00:01:15.320 align:start position:0%
+everybody else here we're looking for AI
+ 
+
+00:01:15.320 --> 00:01:17.070 align:start position:0%
+everybody else here we're looking for AI
+Engineers<00:01:15.880><c> product</c><00:01:16.080><c> Engineers</c><00:01:16.799><c> machine</c>
+
+00:01:17.070 --> 00:01:17.080 align:start position:0%
+Engineers product Engineers machine
+ 
+
+00:01:17.080 --> 00:01:19.070 align:start position:0%
+Engineers product Engineers machine
+learning<00:01:17.320><c> Engineers</c><00:01:17.840><c> to</c><00:01:18.040><c> tackle</c><00:01:18.640><c> the</c><00:01:18.759><c> full</c>
+
+00:01:19.070 --> 00:01:19.080 align:start position:0%
+learning Engineers to tackle the full
+ 
+
+00:01:19.080 --> 00:01:20.350 align:start position:0%
+learning Engineers to tackle the full
+gamut<00:01:19.400><c> of</c><00:01:19.560><c> problems</c><00:01:19.840><c> that</c><00:01:19.960><c> people</c><00:01:20.119><c> have</c><00:01:20.240><c> been</c>
+
+00:01:20.350 --> 00:01:20.360 align:start position:0%
+gamut of problems that people have been
+ 
+
+00:01:20.360 --> 00:01:22.749 align:start position:0%
+gamut of problems that people have been
+talking<00:01:20.600><c> about</c><00:01:20.759><c> today</c><00:01:21.360><c> agents</c><00:01:21.920><c> tool</c><00:01:22.200><c> use</c>
+
+00:01:22.749 --> 00:01:22.759 align:start position:0%
+talking about today agents tool use
+ 
+
+00:01:22.759 --> 00:01:26.069 align:start position:0%
+talking about today agents tool use
+evaluations<00:01:23.680><c> data</c><00:01:24.680><c> uh</c><00:01:24.920><c> training</c><00:01:25.680><c> and</c><00:01:25.840><c> all</c><00:01:25.960><c> the</c>
+
+00:01:26.069 --> 00:01:26.079 align:start position:0%
+evaluations data uh training and all the
+ 
+
+00:01:26.079 --> 00:01:27.710 align:start position:0%
+evaluations data uh training and all the
+interface<00:01:26.479><c> stuff</c><00:01:27.040><c> that</c><00:01:27.320><c> that</c><00:01:27.400><c> we'll</c><00:01:27.520><c> see</c>
+
+00:01:27.710 --> 00:01:27.720 align:start position:0%
+interface stuff that that we'll see
+ 
+
+00:01:27.720 --> 00:01:28.710 align:start position:0%
+interface stuff that that we'll see
+today<00:01:27.920><c> and</c><00:01:28.040><c> tomorrow</c><00:01:28.360><c> so</c><00:01:28.479><c> if</c><00:01:28.560><c> you're</c>
+
+00:01:28.710 --> 00:01:28.720 align:start position:0%
+today and tomorrow so if you're
+ 
+
+00:01:28.720 --> 00:01:30.710 align:start position:0%
+today and tomorrow so if you're
+interested<00:01:29.119><c> please</c><00:01:29.360><c> grab</c><00:01:29.560><c> me</c><00:01:30.159><c> and</c><00:01:30.479><c> uh</c><00:01:30.600><c> and</c>
+
+00:01:30.710 --> 00:01:30.720 align:start position:0%
+interested please grab me and uh and
+ 
+
+00:01:30.720 --> 00:01:32.069 align:start position:0%
+interested please grab me and uh and
+we'll<00:01:30.840><c> have</c><00:01:30.920><c> a</c><00:01:31.040><c> little</c>
+
+00:01:32.069 --> 00:01:32.079 align:start position:0%
+we'll have a little
+ 
+
+00:01:32.079 --> 00:01:34.510 align:start position:0%
+we'll have a little
+chat<00:01:33.079><c> now</c><00:01:33.399><c> it</c><00:01:33.520><c> wouldn't</c><00:01:33.759><c> be</c><00:01:33.920><c> Al</c><00:01:34.159><c> us</c><00:01:34.320><c> talk</c>
+
+00:01:34.510 --> 00:01:34.520 align:start position:0%
+chat now it wouldn't be Al us talk
+ 
+
+00:01:34.520 --> 00:01:35.830 align:start position:0%
+chat now it wouldn't be Al us talk
+without<00:01:34.680><c> talking</c><00:01:34.880><c> about</c><00:01:35.000><c> lat</c><00:01:35.159><c> in</c><00:01:35.320><c> spaces</c><00:01:35.640><c> so</c>
+
+00:01:35.830 --> 00:01:35.840 align:start position:0%
+without talking about lat in spaces so
+ 
+
+00:01:35.840 --> 00:01:38.030 align:start position:0%
+without talking about lat in spaces so
+let's<00:01:36.000><c> talk</c><00:01:36.159><c> about</c><00:01:36.320><c> it</c><00:01:37.040><c> um</c><00:01:37.439><c> the</c><00:01:37.640><c> the</c><00:01:37.799><c> one</c><00:01:37.920><c> of</c>
+
+00:01:38.030 --> 00:01:38.040 align:start position:0%
+let's talk about it um the the one of
+ 
+
+00:01:38.040 --> 00:01:39.270 align:start position:0%
+let's talk about it um the the one of
+the<00:01:38.119><c> problems</c><00:01:38.360><c> that</c><00:01:38.479><c> I</c><00:01:38.600><c> find</c><00:01:39.040><c> always</c>
+
+00:01:39.270 --> 00:01:39.280 align:start position:0%
+the problems that I find always
+ 
+
+00:01:39.280 --> 00:01:41.109 align:start position:0%
+the problems that I find always
+motivated<00:01:39.799><c> by</c><00:01:40.040><c> is</c><00:01:40.200><c> the</c><00:01:40.360><c> problem</c><00:01:40.600><c> of</c><00:01:40.759><c> steering</c>
+
+00:01:41.109 --> 00:01:41.119 align:start position:0%
+motivated by is the problem of steering
+ 
+
+00:01:41.119 --> 00:01:42.710 align:start position:0%
+motivated by is the problem of steering
+language<00:01:41.399><c> models</c><00:01:41.720><c> and</c><00:01:41.799><c> I</c><00:01:41.920><c> always</c><00:01:42.079><c> say</c><00:01:42.320><c> that</c>
+
+00:01:42.710 --> 00:01:42.720 align:start position:0%
+language models and I always say that
+ 
+
+00:01:42.720 --> 00:01:44.230 align:start position:0%
+language models and I always say that
+prompting<00:01:43.119><c> language</c><00:01:43.439><c> models</c><00:01:43.720><c> feels</c><00:01:44.000><c> a</c><00:01:44.119><c> lot</c>
+
+00:01:44.230 --> 00:01:44.240 align:start position:0%
+prompting language models feels a lot
+ 
+
+00:01:44.240 --> 00:01:45.510 align:start position:0%
+prompting language models feels a lot
+like<00:01:44.360><c> you're</c><00:01:44.520><c> steering</c><00:01:44.880><c> a</c><00:01:44.960><c> car</c><00:01:45.119><c> from</c><00:01:45.240><c> the</c><00:01:45.360><c> back</c>
+
+00:01:45.510 --> 00:01:45.520 align:start position:0%
+like you're steering a car from the back
+ 
+
+00:01:45.520 --> 00:01:47.789 align:start position:0%
+like you're steering a car from the back
+seat<00:01:45.680><c> with</c><00:01:45.759><c> a</c><00:01:45.880><c> pool</c><00:01:46.040><c> noodle</c><00:01:46.840><c> like</c><00:01:47.520><c> yes</c>
+
+00:01:47.789 --> 00:01:47.799 align:start position:0%
+seat with a pool noodle like yes
+ 
+
+00:01:47.799 --> 00:01:49.230 align:start position:0%
+seat with a pool noodle like yes
+technically<00:01:48.200><c> you</c><00:01:48.360><c> have</c><00:01:48.520><c> some</c><00:01:48.759><c> control</c><00:01:49.079><c> over</c>
+
+00:01:49.230 --> 00:01:49.240 align:start position:0%
+technically you have some control over
+ 
+
+00:01:49.240 --> 00:01:50.670 align:start position:0%
+technically you have some control over
+the<00:01:49.360><c> motion</c><00:01:49.640><c> of</c><00:01:49.759><c> the</c><00:01:49.840><c> vehicle</c><00:01:50.399><c> so</c><00:01:50.560><c> like</c>
+
+00:01:50.670 --> 00:01:50.680 align:start position:0%
+the motion of the vehicle so like
+ 
+
+00:01:50.680 --> 00:01:52.190 align:start position:0%
+the motion of the vehicle so like
+there's<00:01:50.880><c> some</c><00:01:51.040><c> connection</c><00:01:51.560><c> but</c><00:01:51.719><c> like</c><00:01:51.960><c> you're</c>
+
+00:01:52.190 --> 00:01:52.200 align:start position:0%
+there's some connection but like you're
+ 
+
+00:01:52.200 --> 00:01:53.429 align:start position:0%
+there's some connection but like you're
+not<00:01:52.360><c> really</c><00:01:52.520><c> in</c><00:01:52.600><c> the</c><00:01:52.719><c> driver's</c><00:01:53.040><c> seat</c><00:01:53.320><c> the</c>
+
+00:01:53.429 --> 00:01:53.439 align:start position:0%
+not really in the driver's seat the
+ 
+
+00:01:53.439 --> 00:01:54.590 align:start position:0%
+not really in the driver's seat the
+control<00:01:53.759><c> isn't</c><00:01:54.040><c> really</c><00:01:54.200><c> there</c><00:01:54.360><c> it's</c><00:01:54.479><c> not</c>
+
+00:01:54.590 --> 00:01:54.600 align:start position:0%
+control isn't really there it's not
+ 
+
+00:01:54.600 --> 00:01:55.990 align:start position:0%
+control isn't really there it's not
+really<00:01:54.840><c> direct</c><00:01:55.159><c> there's</c><00:01:55.360><c> like</c><00:01:55.520><c> three</c><00:01:55.719><c> layers</c>
+
+00:01:55.990 --> 00:01:56.000 align:start position:0%
+really direct there's like three layers
+ 
+
+00:01:56.000 --> 00:01:57.830 align:start position:0%
+really direct there's like three layers
+of<00:01:56.119><c> indirection</c><00:01:56.719><c> between</c><00:01:57.079><c> you</c><00:01:57.520><c> and</c><00:01:57.600><c> what</c><00:01:57.759><c> the</c>
+
+00:01:57.830 --> 00:01:57.840 align:start position:0%
+of indirection between you and what the
+ 
+
+00:01:57.840 --> 00:02:00.389 align:start position:0%
+of indirection between you and what the
+vehicle<00:01:58.119><c> is</c><00:01:58.240><c> doing</c><00:01:58.880><c> and</c><00:01:59.079><c> that</c><00:01:59.520><c> to</c><00:01:59.640><c> me</c>
+
+00:02:00.389 --> 00:02:00.399 align:start position:0%
+vehicle is doing and that to me
+ 
+
+00:02:00.399 --> 00:02:02.429 align:start position:0%
+vehicle is doing and that to me
+trying<00:02:00.640><c> to</c><00:02:00.840><c> prompt</c><00:02:01.479><c> a</c><00:02:01.600><c> model</c><00:02:02.039><c> especially</c>
+
+00:02:02.429 --> 00:02:02.439 align:start position:0%
+trying to prompt a model especially
+ 
+
+00:02:02.439 --> 00:02:03.910 align:start position:0%
+trying to prompt a model especially
+smaller<00:02:02.840><c> more</c><00:02:03.000><c> efficient</c><00:02:03.320><c> models</c><00:02:03.719><c> that</c><00:02:03.799><c> we</c>
+
+00:02:03.910 --> 00:02:03.920 align:start position:0%
+smaller more efficient models that we
+ 
+
+00:02:03.920 --> 00:02:06.590 align:start position:0%
+smaller more efficient models that we
+can<00:02:04.039><c> use</c><00:02:04.200><c> for</c><00:02:04.479><c> production</c><00:02:05.479><c> with</c><00:02:05.759><c> just</c><00:02:06.000><c> tokens</c>
+
+00:02:06.590 --> 00:02:06.600 align:start position:0%
+can use for production with just tokens
+ 
+
+00:02:06.600 --> 00:02:08.430 align:start position:0%
+can use for production with just tokens
+just<00:02:06.799><c> prompts</c><00:02:07.280><c> feels</c><00:02:07.520><c> a</c><00:02:07.640><c> lot</c><00:02:07.880><c> like</c><00:02:08.119><c> uh</c><00:02:08.239><c> there's</c>
+
+00:02:08.430 --> 00:02:08.440 align:start position:0%
+just prompts feels a lot like uh there's
+ 
+
+00:02:08.440 --> 00:02:10.910 align:start position:0%
+just prompts feels a lot like uh there's
+too<00:02:08.560><c> many</c><00:02:08.720><c> lers</c><00:02:08.959><c> of</c><00:02:09.399><c> indirection</c><00:02:10.399><c> and</c><00:02:10.599><c> as</c><00:02:10.759><c> even</c>
+
+00:02:10.910 --> 00:02:10.920 align:start position:0%
+too many lers of indirection and as even
+ 
+
+00:02:10.920 --> 00:02:12.030 align:start position:0%
+too many lers of indirection and as even
+though<00:02:11.039><c> models</c><00:02:11.280><c> are</c><00:02:11.400><c> getting</c><00:02:11.560><c> better</c><00:02:11.720><c> at</c>
+
+00:02:12.030 --> 00:02:12.040 align:start position:0%
+though models are getting better at
+ 
+
+00:02:12.040 --> 00:02:13.270 align:start position:0%
+though models are getting better at
+understanding<00:02:12.280><c> prompts</c><00:02:12.840><c> I</c><00:02:12.879><c> think</c><00:02:13.040><c> there's</c>
+
+00:02:13.270 --> 00:02:13.280 align:start position:0%
+understanding prompts I think there's
+ 
+
+00:02:13.280 --> 00:02:14.390 align:start position:0%
+understanding prompts I think there's
+always<00:02:13.480><c> going</c><00:02:13.599><c> to</c><00:02:13.680><c> be</c><00:02:13.840><c> this</c><00:02:13.959><c> fundamental</c>
+
+00:02:14.390 --> 00:02:14.400 align:start position:0%
+always going to be this fundamental
+ 
+
+00:02:14.400 --> 00:02:16.270 align:start position:0%
+always going to be this fundamental
+barrier<00:02:14.760><c> between</c><00:02:15.239><c> indirect</c><00:02:15.800><c> kind</c><00:02:15.920><c> of</c><00:02:16.000><c> control</c>
+
+00:02:16.270 --> 00:02:16.280 align:start position:0%
+barrier between indirect kind of control
+ 
+
+00:02:16.280 --> 00:02:18.229 align:start position:0%
+barrier between indirect kind of control
+of<00:02:16.440><c> models</c><00:02:16.720><c> with</c><00:02:16.840><c> just</c><00:02:17.080><c> prompts</c><00:02:17.879><c> and</c><00:02:18.080><c> and</c>
+
+00:02:18.229 --> 00:02:18.239 align:start position:0%
+of models with just prompts and and
+ 
+
+00:02:18.239 --> 00:02:19.869 align:start position:0%
+of models with just prompts and and
+getting<00:02:18.440><c> with</c><00:02:18.599><c> the</c><00:02:18.720><c> model</c><00:02:19.360><c> getting</c><00:02:19.560><c> the</c><00:02:19.680><c> model</c>
+
+00:02:19.869 --> 00:02:19.879 align:start position:0%
+getting with the model getting the model
+ 
+
+00:02:19.879 --> 00:02:21.350 align:start position:0%
+getting with the model getting the model
+to<00:02:20.040><c> do</c><00:02:20.239><c> what</c><00:02:20.400><c> what</c><00:02:20.480><c> we</c><00:02:20.599><c> want</c><00:02:20.760><c> them</c><00:02:20.879><c> to</c><00:02:21.040><c> do</c><00:02:21.239><c> and</c>
+
+00:02:21.350 --> 00:02:21.360 align:start position:0%
+to do what what we want them to do and
+ 
+
+00:02:21.360 --> 00:02:23.790 align:start position:0%
+to do what what we want them to do and
+so<00:02:21.920><c> perhaps</c><00:02:22.280><c> we</c><00:02:22.360><c> can</c><00:02:22.560><c> get</c><00:02:22.920><c> a</c><00:02:23.080><c> closer</c><00:02:23.400><c> layer</c><00:02:23.640><c> of</c>
+
+00:02:23.790 --> 00:02:23.800 align:start position:0%
+so perhaps we can get a closer layer of
+ 
+
+00:02:23.800 --> 00:02:25.190 align:start position:0%
+so perhaps we can get a closer layer of
+control<00:02:24.120><c> a</c><00:02:24.200><c> more</c><00:02:24.319><c> direct</c><00:02:24.560><c> layer</c><00:02:24.760><c> of</c><00:02:24.879><c> control</c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+control a more direct layer of control
+ 
+
+00:02:25.200 --> 00:02:26.830 align:start position:0%
+control a more direct layer of control
+by<00:02:25.319><c> looking</c><00:02:25.560><c> inside</c><00:02:25.879><c> the</c><00:02:26.000><c> model</c><00:02:26.560><c> which</c><00:02:26.680><c> is</c>
+
+00:02:26.830 --> 00:02:26.840 align:start position:0%
+by looking inside the model which is
+ 
+
+00:02:26.840 --> 00:02:29.190 align:start position:0%
+by looking inside the model which is
+where<00:02:27.000><c> we</c><00:02:27.160><c> look</c><00:02:27.319><c> at</c><00:02:27.519><c> latent</c><00:02:27.879><c> spaces</c><00:02:28.879><c> latent</c>
+
+00:02:29.190 --> 00:02:29.200 align:start position:0%
+where we look at latent spaces latent
+ 
+
+00:02:29.200 --> 00:02:33.430 align:start position:0%
+where we look at latent spaces latent
+spaces<00:02:30.120><c> arise</c><00:02:30.840><c> I</c><00:02:30.959><c> think</c><00:02:31.840><c> uh</c><00:02:32.280><c> most</c><00:02:32.879><c> famously</c>
+
+00:02:33.430 --> 00:02:33.440 align:start position:0%
+spaces arise I think uh most famously
+ 
+
+00:02:33.440 --> 00:02:35.550 align:start position:0%
+spaces arise I think uh most famously
+inside<00:02:34.120><c> embedding</c><00:02:34.480><c> models</c><00:02:34.959><c> if</c><00:02:35.040><c> you</c><00:02:35.239><c> embed</c>
+
+00:02:35.550 --> 00:02:35.560 align:start position:0%
+inside embedding models if you embed
+ 
+
+00:02:35.560 --> 00:02:37.949 align:start position:0%
+inside embedding models if you embed
+some<00:02:35.680><c> pieces</c><00:02:35.920><c> of</c><00:02:36.040><c> text</c><00:02:36.480><c> that</c><00:02:36.800><c> Vector</c><00:02:37.080><c> of</c><00:02:37.200><c> 1536</c>
+
+00:02:37.949 --> 00:02:37.959 align:start position:0%
+some pieces of text that Vector of 1536
+ 
+
+00:02:37.959 --> 00:02:40.869 align:start position:0%
+some pieces of text that Vector of 1536
+numbers<00:02:38.360><c> or</c><00:02:39.040><c> 1024</c><00:02:39.560><c> numbers</c><00:02:39.840><c> is</c><00:02:40.040><c> inside</c><00:02:40.319><c> a</c><00:02:40.720><c> high</c>
+
+00:02:40.869 --> 00:02:40.879 align:start position:0%
+numbers or 1024 numbers is inside a high
+ 
+
+00:02:40.879 --> 00:02:42.390 align:start position:0%
+numbers or 1024 numbers is inside a high
+dimensional<00:02:41.440><c> Vector</c><00:02:41.720><c> space</c><00:02:41.920><c> that's</c><00:02:42.000><c> a</c><00:02:42.120><c> latent</c>
+
+00:02:42.390 --> 00:02:42.400 align:start position:0%
+dimensional Vector space that's a latent
+ 
+
+00:02:42.400 --> 00:02:44.070 align:start position:0%
+dimensional Vector space that's a latent
+space<00:02:42.680><c> but</c><00:02:42.800><c> also</c><00:02:43.000><c> you</c><00:02:43.080><c> can</c><00:02:43.200><c> look</c><00:02:43.319><c> at</c><00:02:43.519><c> Vector</c><00:02:43.920><c> at</c>
+
+00:02:44.070 --> 00:02:44.080 align:start position:0%
+space but also you can look at Vector at
+ 
+
+00:02:44.080 --> 00:02:45.990 align:start position:0%
+space but also you can look at Vector at
+the<00:02:44.200><c> latent</c><00:02:44.519><c> spaces</c><00:02:44.920><c> inside</c><00:02:45.560><c> activation</c>
+
+00:02:45.990 --> 00:02:46.000 align:start position:0%
+the latent spaces inside activation
+ 
+
+00:02:46.000 --> 00:02:47.910 align:start position:0%
+the latent spaces inside activation
+spaces<00:02:46.360><c> of</c><00:02:46.480><c> models</c><00:02:46.879><c> inside</c><00:02:47.120><c> token</c><00:02:47.400><c> embeddings</c>
+
+00:02:47.910 --> 00:02:47.920 align:start position:0%
+spaces of models inside token embeddings
+ 
+
+00:02:47.920 --> 00:02:49.550 align:start position:0%
+spaces of models inside token embeddings
+inside<00:02:48.200><c> image</c><00:02:48.440><c> models</c><00:02:49.040><c> and</c><00:02:49.120><c> then</c><00:02:49.280><c> obviously</c>
+
+00:02:49.550 --> 00:02:49.560 align:start position:0%
+inside image models and then obviously
+ 
+
+00:02:49.560 --> 00:02:50.750 align:start position:0%
+inside image models and then obviously
+other<00:02:49.720><c> model</c><00:02:49.959><c> architectures</c><00:02:50.440><c> like</c><00:02:50.519><c> Auto</c>
+
+00:02:50.750 --> 00:02:50.760 align:start position:0%
+other model architectures like Auto
+ 
+
+00:02:50.760 --> 00:02:52.430 align:start position:0%
+other model architectures like Auto
+encoders<00:02:51.640><c> today</c><00:02:51.879><c> we're</c><00:02:52.000><c> going</c><00:02:52.080><c> to</c><00:02:52.159><c> be</c><00:02:52.280><c> looking</c>
+
+00:02:52.430 --> 00:02:52.440 align:start position:0%
+encoders today we're going to be looking
+ 
+
+00:02:52.440 --> 00:02:54.750 align:start position:0%
+encoders today we're going to be looking
+at<00:02:52.599><c> embeding</c><00:02:53.400><c> embedding</c><00:02:53.800><c> models</c><00:02:54.360><c> but</c><00:02:54.560><c> I</c><00:02:54.599><c> think</c>
+
+00:02:54.750 --> 00:02:54.760 align:start position:0%
+at embeding embedding models but I think
+ 
+
+00:02:54.760 --> 00:02:56.190 align:start position:0%
+at embeding embedding models but I think
+a<00:02:54.840><c> lot</c><00:02:54.920><c> of</c><00:02:55.040><c> the</c><00:02:55.120><c> general</c><00:02:55.400><c> takeaways</c><00:02:55.840><c> apply</c><00:02:56.080><c> to</c>
+
+00:02:56.190 --> 00:02:56.200 align:start position:0%
+a lot of the general takeaways apply to
+ 
+
+00:02:56.200 --> 00:02:57.270 align:start position:0%
+a lot of the general takeaways apply to
+other<00:02:56.360><c> models</c><00:02:56.680><c> and</c><00:02:56.800><c> I</c><00:02:56.840><c> think</c><00:02:56.959><c> there's</c><00:02:57.120><c> a</c><00:02:57.200><c> lot</c>
+
+00:02:57.270 --> 00:02:57.280 align:start position:0%
+other models and I think there's a lot
+ 
+
+00:02:57.280 --> 00:02:58.910 align:start position:0%
+other models and I think there's a lot
+of<00:02:57.400><c> fascinating</c><00:02:57.840><c> research</c><00:02:58.200><c> work</c><00:02:58.640><c> happening</c>
+
+00:02:58.910 --> 00:02:58.920 align:start position:0%
+of fascinating research work happening
+ 
+
+00:02:58.920 --> 00:03:01.190 align:start position:0%
+of fascinating research work happening
+inside<00:02:59.159><c> other</c><00:02:59.280><c> models</c><00:02:59.560><c> as</c><00:02:59.640><c> well</c><00:03:00.080><c> well</c><00:03:01.080><c> when</c>
+
+00:03:01.190 --> 00:03:01.200 align:start position:0%
+inside other models as well well when
+ 
+
+00:03:01.200 --> 00:03:03.869 align:start position:0%
+inside other models as well well when
+you<00:03:01.319><c> look</c><00:03:01.440><c> at</c><00:03:01.560><c> an</c><00:03:02.239><c> embedding</c><00:03:03.239><c> you</c><00:03:03.440><c> kind</c><00:03:03.519><c> of</c><00:03:03.640><c> see</c>
+
+00:03:03.869 --> 00:03:03.879 align:start position:0%
+you look at an embedding you kind of see
+ 
+
+00:03:03.879 --> 00:03:05.350 align:start position:0%
+you look at an embedding you kind of see
+this<00:03:04.040><c> right</c><00:03:04.120><c> you</c><00:03:04.239><c> see</c><00:03:04.400><c> like</c><00:03:04.599><c> rows</c><00:03:04.840><c> and</c><00:03:05.040><c> rows</c><00:03:05.239><c> of</c>
+
+00:03:05.350 --> 00:03:05.360 align:start position:0%
+this right you see like rows and rows of
+ 
+
+00:03:05.360 --> 00:03:06.990 align:start position:0%
+this right you see like rows and rows of
+numbers<00:03:05.680><c> if</c><00:03:05.840><c> you</c><00:03:06.120><c> ever</c><00:03:06.319><c> debugged</c><00:03:06.760><c> some</c><00:03:06.879><c> kind</c>
+
+00:03:06.990 --> 00:03:07.000 align:start position:0%
+numbers if you ever debugged some kind
+ 
+
+00:03:07.000 --> 00:03:08.229 align:start position:0%
+numbers if you ever debugged some kind
+of<00:03:07.080><c> an</c><00:03:07.159><c> embedding</c><00:03:07.480><c> Pipeline</c><00:03:07.799><c> and</c><00:03:07.879><c> you</c><00:03:08.080><c> print</c>
+
+00:03:08.229 --> 00:03:08.239 align:start position:0%
+of an embedding Pipeline and you print
+ 
+
+00:03:08.239 --> 00:03:09.789 align:start position:0%
+of an embedding Pipeline and you print
+out<00:03:08.360><c> the</c><00:03:08.480><c> embedding</c><00:03:09.159><c> you</c><00:03:09.280><c> can</c><00:03:09.440><c> kind</c><00:03:09.519><c> of</c><00:03:09.640><c> tell</c>
+
+00:03:09.789 --> 00:03:09.799 align:start position:0%
+out the embedding you can kind of tell
+ 
+
+00:03:09.799 --> 00:03:10.949 align:start position:0%
+out the embedding you can kind of tell
+it<00:03:09.920><c> that's</c><00:03:10.040><c> like</c><00:03:10.159><c> a</c><00:03:10.239><c> thousand</c><00:03:10.480><c> numbers</c><00:03:10.840><c> but</c>
+
+00:03:10.949 --> 00:03:10.959 align:start position:0%
+it that's like a thousand numbers but
+ 
+
+00:03:10.959 --> 00:03:13.030 align:start position:0%
+it that's like a thousand numbers but
+it's<00:03:11.120><c> just</c><00:03:11.360><c> looking</c><00:03:11.560><c> at</c><00:03:11.720><c> like</c><00:03:11.840><c> a</c><00:03:12.000><c> matrix</c><00:03:12.920><c> uh</c>
+
+00:03:13.030 --> 00:03:13.040 align:start position:0%
+it's just looking at like a matrix uh
+ 
+
+00:03:13.040 --> 00:03:15.589 align:start position:0%
+it's just looking at like a matrix uh
+screen<00:03:13.400><c> of</c><00:03:13.519><c> numbers</c><00:03:13.799><c> ring</c><00:03:14.200><c> down</c><00:03:14.959><c> but</c><00:03:15.400><c> in</c>
+
+00:03:15.589 --> 00:03:15.599 align:start position:0%
+screen of numbers ring down but in
+ 
+
+00:03:15.599 --> 00:03:16.990 align:start position:0%
+screen of numbers ring down but in
+theory<00:03:15.959><c> there's</c><00:03:16.159><c> a</c><00:03:16.280><c> lot</c><00:03:16.400><c> of</c><00:03:16.560><c> information</c>
+
+00:03:16.990 --> 00:03:17.000 align:start position:0%
+theory there's a lot of information
+ 
+
+00:03:17.000 --> 00:03:18.550 align:start position:0%
+theory there's a lot of information
+actually<00:03:17.280><c> packed</c><00:03:17.599><c> inside</c><00:03:17.920><c> those</c><00:03:18.080><c> embeddings</c>
+
+00:03:18.550 --> 00:03:18.560 align:start position:0%
+actually packed inside those embeddings
+ 
+
+00:03:18.560 --> 00:03:19.670 align:start position:0%
+actually packed inside those embeddings
+if<00:03:18.640><c> you</c><00:03:18.720><c> get</c><00:03:18.840><c> an</c><00:03:18.920><c> embedding</c><00:03:19.239><c> of</c><00:03:19.319><c> a</c><00:03:19.400><c> piece</c><00:03:19.560><c> of</c>
+
+00:03:19.670 --> 00:03:19.680 align:start position:0%
+if you get an embedding of a piece of
+ 
+
+00:03:19.680 --> 00:03:21.949 align:start position:0%
+if you get an embedding of a piece of
+text<00:03:19.920><c> or</c><00:03:20.080><c> image</c><00:03:20.799><c> these</c><00:03:21.159><c> latent</c><00:03:21.480><c> spaces</c><00:03:21.799><c> these</c>
+
+00:03:21.949 --> 00:03:21.959 align:start position:0%
+text or image these latent spaces these
+ 
+
+00:03:21.959 --> 00:03:24.229 align:start position:0%
+text or image these latent spaces these
+embeddings<00:03:22.480><c> represent</c><00:03:23.480><c> in</c><00:03:23.680><c> theory</c><00:03:23.920><c> the</c><00:03:24.040><c> most</c>
+
+00:03:24.229 --> 00:03:24.239 align:start position:0%
+embeddings represent in theory the most
+ 
+
+00:03:24.239 --> 00:03:25.990 align:start position:0%
+embeddings represent in theory the most
+Salient<00:03:24.599><c> features</c><00:03:24.959><c> of</c><00:03:25.080><c> the</c><00:03:25.239><c> text</c><00:03:25.760><c> or</c><00:03:25.879><c> the</c>
+
+00:03:25.990 --> 00:03:26.000 align:start position:0%
+Salient features of the text or the
+ 
+
+00:03:26.000 --> 00:03:27.470 align:start position:0%
+Salient features of the text or the
+image<00:03:26.280><c> that</c><00:03:26.400><c> the</c><00:03:26.480><c> model</c><00:03:26.720><c> is</c><00:03:26.799><c> using</c><00:03:27.080><c> to</c><00:03:27.200><c> lower</c>
+
+00:03:27.470 --> 00:03:27.480 align:start position:0%
+image that the model is using to lower
+ 
+
+00:03:27.480 --> 00:03:30.030 align:start position:0%
+image that the model is using to lower
+its<00:03:27.599><c> loss</c><00:03:27.840><c> or</c><00:03:28.000><c> do</c><00:03:28.120><c> its</c><00:03:28.360><c> task</c><00:03:29.159><c> and</c><00:03:29.239><c> so</c><00:03:29.360><c> maybe</c><00:03:29.840><c> can</c>
+
+00:03:30.030 --> 00:03:30.040 align:start position:0%
+its loss or do its task and so maybe can
+ 
+
+00:03:30.040 --> 00:03:32.309 align:start position:0%
+its loss or do its task and so maybe can
+disentangle<00:03:31.040><c> some</c><00:03:31.319><c> meaningful</c><00:03:31.920><c> attributes</c>
+
+00:03:32.309 --> 00:03:32.319 align:start position:0%
+disentangle some meaningful attributes
+ 
+
+00:03:32.319 --> 00:03:34.309 align:start position:0%
+disentangle some meaningful attributes
+or<00:03:32.439><c> features</c><00:03:33.000><c> out</c><00:03:33.159><c> of</c><00:03:33.319><c> these</c><00:03:33.480><c> embeddings</c><00:03:34.239><c> if</c>
+
+00:03:34.309 --> 00:03:34.319 align:start position:0%
+or features out of these embeddings if
+ 
+
+00:03:34.319 --> 00:03:35.229 align:start position:0%
+or features out of these embeddings if
+we<00:03:34.439><c> can</c><00:03:34.519><c> look</c><00:03:34.640><c> at</c><00:03:34.720><c> them</c><00:03:34.840><c> a</c><00:03:34.959><c> little</c><00:03:35.120><c> more</c>
+
+00:03:35.229 --> 00:03:35.239 align:start position:0%
+we can look at them a little more
+ 
+
+00:03:35.239 --> 00:03:36.789 align:start position:0%
+we can look at them a little more
+closely<00:03:35.680><c> and</c><00:03:35.920><c> and</c><00:03:36.120><c> and</c><00:03:36.239><c> interpret</c><00:03:36.599><c> them</c><00:03:36.720><c> a</c>
+
+00:03:36.789 --> 00:03:36.799 align:start position:0%
+closely and and and interpret them a
+ 
+
+00:03:36.799 --> 00:03:38.190 align:start position:0%
+closely and and and interpret them a
+little<00:03:37.000><c> better</c><00:03:37.400><c> maybe</c><00:03:37.599><c> we</c><00:03:37.720><c> can</c><00:03:37.840><c> build</c><00:03:38.040><c> more</c>
+
+00:03:38.190 --> 00:03:38.200 align:start position:0%
+little better maybe we can build more
+ 
+
+00:03:38.200 --> 00:03:39.550 align:start position:0%
+little better maybe we can build more
+expressive<00:03:38.640><c> interfaces</c><00:03:39.120><c> that</c><00:03:39.280><c> let</c><00:03:39.439><c> them</c>
+
+00:03:39.550 --> 00:03:39.560 align:start position:0%
+expressive interfaces that let them
+ 
+
+00:03:39.560 --> 00:03:41.710 align:start position:0%
+expressive interfaces that let them
+control<00:03:40.000><c> the</c><00:03:40.120><c> model</c><00:03:40.519><c> by</c><00:03:41.040><c> interfering</c><00:03:41.599><c> or</c>
+
+00:03:41.710 --> 00:03:41.720 align:start position:0%
+control the model by interfering or
+ 
+
+00:03:41.720 --> 00:03:43.070 align:start position:0%
+control the model by interfering or
+intervening<00:03:42.239><c> inside</c><00:03:42.480><c> the</c>
+
+00:03:43.070 --> 00:03:43.080 align:start position:0%
+intervening inside the
+ 
+
+00:03:43.080 --> 00:03:45.030 align:start position:0%
+intervening inside the
+model<00:03:44.080><c> another</c><00:03:44.319><c> way</c><00:03:44.439><c> to</c><00:03:44.560><c> say</c><00:03:44.720><c> that</c><00:03:44.840><c> is</c><00:03:44.920><c> that</c>
+
+00:03:45.030 --> 00:03:45.040 align:start position:0%
+model another way to say that is that
+ 
+
+00:03:45.040 --> 00:03:47.070 align:start position:0%
+model another way to say that is that
+emedic<00:03:45.400><c> show</c><00:03:45.760><c> embeddings</c><00:03:46.239><c> show</c><00:03:46.480><c> us</c><00:03:46.840><c> what</c><00:03:46.920><c> the</c>
+
+00:03:47.070 --> 00:03:47.080 align:start position:0%
+emedic show embeddings show us what the
+ 
+
+00:03:47.080 --> 00:03:50.070 align:start position:0%
+emedic show embeddings show us what the
+model<00:03:47.400><c> sees</c><00:03:47.840><c> in</c><00:03:47.959><c> a</c><00:03:48.120><c> sample</c><00:03:48.400><c> of</c><00:03:48.560><c> input</c><00:03:49.360><c> so</c><00:03:49.840><c> maybe</c>
+
+00:03:50.070 --> 00:03:50.080 align:start position:0%
+model sees in a sample of input so maybe
+ 
+
+00:03:50.080 --> 00:03:51.949 align:start position:0%
+model sees in a sample of input so maybe
+we<00:03:50.200><c> can</c><00:03:50.400><c> read</c><00:03:50.640><c> out</c><00:03:50.959><c> what</c><00:03:51.040><c> it</c><00:03:51.159><c> sees</c><00:03:51.360><c> and</c><00:03:51.480><c> try</c><00:03:51.599><c> to</c>
+
+00:03:51.949 --> 00:03:51.959 align:start position:0%
+we can read out what it sees and try to
+ 
+
+00:03:51.959 --> 00:03:53.030 align:start position:0%
+we can read out what it sees and try to
+understand<00:03:52.120><c> better</c><00:03:52.400><c> what</c><00:03:52.560><c> what</c><00:03:52.640><c> the</c><00:03:52.720><c> model's</c>
+
+00:03:53.030 --> 00:03:53.040 align:start position:0%
+understand better what what the model's
+ 
+
+00:03:53.040 --> 00:03:55.910 align:start position:0%
+understand better what what the model's
+doing<00:03:53.720><c> and</c><00:03:53.840><c> maybe</c><00:03:54.079><c> we</c><00:03:54.159><c> can</c><00:03:54.360><c> even</c><00:03:54.920><c> control</c><00:03:55.760><c> the</c>
+
+00:03:55.910 --> 00:03:55.920 align:start position:0%
+doing and maybe we can even control the
+ 
+
+00:03:55.920 --> 00:03:57.990 align:start position:0%
+doing and maybe we can even control the
+embedding<00:03:56.760><c> intermediate</c><00:03:57.319><c> activations</c><00:03:57.840><c> to</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+embedding intermediate activations to
+ 
+
+00:03:58.000 --> 00:04:00.869 align:start position:0%
+embedding intermediate activations to
+see<00:03:58.519><c> uh</c><00:03:58.640><c> what</c><00:03:58.760><c> the</c><00:03:58.840><c> model</c><00:03:59.120><c> can</c><00:03:59.239><c> generate</c>
+
+00:04:00.869 --> 00:04:00.879 align:start position:0%
+see uh what the model can generate
+ 
+
+00:04:00.879 --> 00:04:11.470 align:start position:0%
+see uh what the model can generate
+so<00:04:01.840><c> let's</c><00:04:02.360><c> uh</c><00:04:02.799><c> let's</c><00:04:03.000><c> see</c><00:04:03.159><c> some</c><00:04:03.280><c> of</c>
+
+00:04:11.470 --> 00:04:11.480 align:start position:0%
+ 
+ 
+
+00:04:11.480 --> 00:04:13.589 align:start position:0%
+ 
+that<00:04:12.480><c> so</c><00:04:12.799><c> some</c><00:04:12.920><c> of</c><00:04:13.040><c> this</c><00:04:13.200><c> some</c><00:04:13.280><c> of</c><00:04:13.360><c> you</c><00:04:13.480><c> might</c>
+
+00:04:13.589 --> 00:04:13.599 align:start position:0%
+that so some of this some of you might
+ 
+
+00:04:13.599 --> 00:04:14.710 align:start position:0%
+that so some of this some of you might
+have<00:04:13.720><c> seen</c><00:04:13.959><c> before</c><00:04:14.159><c> but</c><00:04:14.280><c> I</c><00:04:14.360><c> promise</c><00:04:14.560><c> there's</c>
+
+00:04:14.710 --> 00:04:14.720 align:start position:0%
+have seen before but I promise there's
+ 
+
+00:04:14.720 --> 00:04:16.789 align:start position:0%
+have seen before but I promise there's
+some<00:04:14.840><c> new</c><00:04:15.000><c> stuff</c><00:04:15.200><c> at</c><00:04:15.280><c> the</c><00:04:15.360><c> end</c><00:04:15.519><c> so</c><00:04:15.720><c> hang</c><00:04:15.959><c> tight</c>
+
+00:04:16.789 --> 00:04:16.799 align:start position:0%
+some new stuff at the end so hang tight
+ 
+
+00:04:16.799 --> 00:04:18.469 align:start position:0%
+some new stuff at the end so hang tight
+so<00:04:16.959><c> here</c><00:04:17.040><c> are</c><00:04:17.199><c> some</c><00:04:17.680><c> sentence</c><00:04:18.120><c> that</c><00:04:18.239><c> I</c><00:04:18.359><c> have</c>
+
+00:04:18.469 --> 00:04:18.479 align:start position:0%
+so here are some sentence that I have
+ 
+
+00:04:18.479 --> 00:04:19.870 align:start position:0%
+so here are some sentence that I have
+it's<00:04:18.600><c> a</c><00:04:18.720><c> sentence</c><00:04:19.040><c> about</c><00:04:19.239><c> this</c><00:04:19.400><c> novel</c><00:04:19.680><c> one</c><00:04:19.759><c> of</c>
+
+00:04:19.870 --> 00:04:19.880 align:start position:0%
+it's a sentence about this novel one of
+ 
+
+00:04:19.880 --> 00:04:22.430 align:start position:0%
+it's a sentence about this novel one of
+my<00:04:19.959><c> favorite</c><00:04:20.239><c> novels</c><00:04:20.919><c> named</c><00:04:21.239><c> diaspora</c><00:04:22.199><c> it's</c><00:04:22.320><c> a</c>
+
+00:04:22.430 --> 00:04:22.440 align:start position:0%
+my favorite novels named diaspora it's a
+ 
+
+00:04:22.440 --> 00:04:24.150 align:start position:0%
+my favorite novels named diaspora it's a
+science<00:04:22.720><c> fiction</c><00:04:23.000><c> novel</c><00:04:23.280><c> by</c><00:04:23.440><c> Greg</c><00:04:23.680><c> Egan</c><00:04:24.000><c> that</c>
+
+00:04:24.150 --> 00:04:24.160 align:start position:0%
+science fiction novel by Greg Egan that
+ 
+
+00:04:24.160 --> 00:04:25.749 align:start position:0%
+science fiction novel by Greg Egan that
+explores<00:04:24.600><c> the</c><00:04:24.720><c> evolution</c><00:04:25.040><c> and</c><00:04:25.240><c> existence</c><00:04:25.600><c> of</c>
+
+00:04:25.749 --> 00:04:25.759 align:start position:0%
+explores the evolution and existence of
+ 
+
+00:04:25.759 --> 00:04:27.830 align:start position:0%
+explores the evolution and existence of
+postum<00:04:26.160><c> artificial</c><00:04:26.720><c> intelligences</c><00:04:27.720><c> uh</c>
+
+00:04:27.830 --> 00:04:27.840 align:start position:0%
+postum artificial intelligences uh
+ 
+
+00:04:27.840 --> 00:04:29.310 align:start position:0%
+postum artificial intelligences uh
+something<00:04:28.040><c> to</c><00:04:28.160><c> do</c><00:04:28.280><c> with</c><00:04:28.400><c> alien</c><00:04:28.720><c> civilizations</c>
+
+00:04:29.310 --> 00:04:29.320 align:start position:0%
+something to do with alien civilizations
+ 
+
+00:04:29.320 --> 00:04:30.469 align:start position:0%
+something to do with alien civilizations
+and<00:04:29.400><c> the</c><00:04:29.639><c> questioning</c><00:04:29.960><c> the</c><00:04:30.080><c> nature</c><00:04:30.320><c> of</c>
+
+00:04:30.469 --> 00:04:30.479 align:start position:0%
+and the questioning the nature of
+ 
+
+00:04:30.479 --> 00:04:32.430 align:start position:0%
+and the questioning the nature of
+reality<00:04:30.840><c> and</c><00:04:31.000><c> Consciousness</c><00:04:31.639><c> which</c><00:04:32.320><c> you</c>
+
+00:04:32.430 --> 00:04:32.440 align:start position:0%
+reality and Consciousness which you
+ 
+
+00:04:32.440 --> 00:04:33.830 align:start position:0%
+reality and Consciousness which you
+might<00:04:32.560><c> be</c><00:04:32.680><c> doing</c><00:04:32.880><c> a</c><00:04:33.000><c> lot</c><00:04:33.240><c> given</c><00:04:33.639><c> all</c><00:04:33.759><c> the</c>
+
+00:04:33.830 --> 00:04:33.840 align:start position:0%
+might be doing a lot given all the
+ 
+
+00:04:33.840 --> 00:04:36.830 align:start position:0%
+might be doing a lot given all the
+things<00:04:34.000><c> that</c><00:04:34.120><c> are</c><00:04:34.240><c> happening</c><00:04:35.160><c> and</c><00:04:35.360><c> so</c><00:04:36.320><c> I</c><00:04:36.520><c> have</c>
+
+00:04:36.830 --> 00:04:36.840 align:start position:0%
+things that are happening and so I have
+ 
+
+00:04:36.840 --> 00:04:39.950 align:start position:0%
+things that are happening and so I have
+I<00:04:36.960><c> have</c><00:04:37.120><c> I've</c><00:04:37.240><c> trained</c><00:04:37.479><c> this</c><00:04:37.960><c> model</c><00:04:38.960><c> that</c><00:04:39.400><c> can</c>
+
+00:04:39.950 --> 00:04:39.960 align:start position:0%
+I have I've trained this model that can
+ 
+
+00:04:39.960 --> 00:04:41.310 align:start position:0%
+I have I've trained this model that can
+uh<00:04:40.160><c> generate</c><00:04:40.479><c> some</c><00:04:40.600><c> embeddings</c><00:04:40.960><c> out</c><00:04:41.039><c> of</c><00:04:41.199><c> this</c>
+
+00:04:41.310 --> 00:04:41.320 align:start position:0%
+uh generate some embeddings out of this
+ 
+
+00:04:41.320 --> 00:04:42.550 align:start position:0%
+uh generate some embeddings out of this
+text<00:04:41.520><c> so</c><00:04:41.639><c> if</c><00:04:41.720><c> I</c><00:04:41.800><c> hit</c><00:04:41.960><c> this</c><00:04:42.080><c> enter</c><00:04:42.360><c> it's</c><00:04:42.479><c> going</c>
+
+00:04:42.550 --> 00:04:42.560 align:start position:0%
+text so if I hit this enter it's going
+ 
+
+00:04:42.560 --> 00:04:44.790 align:start position:0%
+text so if I hit this enter it's going
+to<00:04:42.680><c> give</c><00:04:42.800><c> us</c><00:04:42.960><c> an</c><00:04:43.120><c> embedding</c><00:04:44.039><c> but</c><00:04:44.320><c> it's</c><00:04:44.520><c> a</c><00:04:44.720><c> it's</c>
+
+00:04:44.790 --> 00:04:44.800 align:start position:0%
+to give us an embedding but it's a it's
+ 
+
+00:04:44.800 --> 00:04:46.749 align:start position:0%
+to give us an embedding but it's a it's
+an<00:04:44.960><c> embedding</c><00:04:45.320><c> of</c><00:04:45.440><c> length</c><00:04:45.680><c> 248</c><00:04:46.320><c> and</c><00:04:46.440><c> so</c><00:04:46.600><c> it's</c>
+
+00:04:46.749 --> 00:04:46.759 align:start position:0%
+an embedding of length 248 and so it's
+ 
+
+00:04:46.759 --> 00:04:48.550 align:start position:0%
+an embedding of length 248 and so it's
+it's<00:04:46.919><c> quite</c><00:04:47.120><c> large</c><00:04:47.720><c> but</c><00:04:47.840><c> it's</c><00:04:48.000><c> just</c><00:04:48.120><c> a</c><00:04:48.240><c> row</c><00:04:48.440><c> of</c>
+
+00:04:48.550 --> 00:04:48.560 align:start position:0%
+it's quite large but it's just a row of
+ 
+
+00:04:48.560 --> 00:04:50.749 align:start position:0%
+it's quite large but it's just a row of
+numbers<00:04:49.039><c> right</c><00:04:49.160><c> but</c><00:04:49.280><c> then</c><00:04:49.440><c> I</c><00:04:49.560><c> have</c><00:04:49.759><c> a</c><00:04:50.280><c> A</c><00:04:50.440><c> decod</c>
+
+00:04:50.749 --> 00:04:50.759 align:start position:0%
+numbers right but then I have a A decod
+ 
+
+00:04:50.759 --> 00:04:52.310 align:start position:0%
+numbers right but then I have a A decod
+or<00:04:50.919><c> half</c><00:04:51.039><c> of</c><00:04:51.160><c> this</c><00:04:51.280><c> model</c><00:04:51.720><c> they</c><00:04:51.840><c> can</c><00:04:51.960><c> take</c><00:04:52.160><c> this</c>
+
+00:04:52.310 --> 00:04:52.320 align:start position:0%
+or half of this model they can take this
+ 
+
+00:04:52.320 --> 00:04:54.029 align:start position:0%
+or half of this model they can take this
+embedding<00:04:52.880><c> and</c><00:04:53.080><c> try</c><00:04:53.240><c> to</c><00:04:53.400><c> reconstruct</c><00:04:53.960><c> the</c>
+
+00:04:54.029 --> 00:04:54.039 align:start position:0%
+embedding and try to reconstruct the
+ 
+
+00:04:54.039 --> 00:04:56.430 align:start position:0%
+embedding and try to reconstruct the
+original<00:04:54.400><c> input</c><00:04:55.080><c> that</c><00:04:55.360><c> may</c><00:04:55.680><c> have</c><00:04:56.039><c> produced</c>
+
+00:04:56.430 --> 00:04:56.440 align:start position:0%
+original input that may have produced
+ 
+
+00:04:56.440 --> 00:04:58.110 align:start position:0%
+original input that may have produced
+this<00:04:56.600><c> embedding</c><00:04:57.039><c> so</c><00:04:57.160><c> in</c><00:04:57.280><c> this</c><00:04:57.440><c> case</c><00:04:57.840><c> it</c><00:04:57.960><c> took</c>
+
+00:04:58.110 --> 00:04:58.120 align:start position:0%
+this embedding so in this case it took
+ 
+
+00:04:58.120 --> 00:04:59.749 align:start position:0%
+this embedding so in this case it took
+the<00:04:58.199><c> original</c><00:04:58.479><c> sentence</c><00:04:58.880><c> there's</c><00:04:59.039><c> some</c><00:04:59.199><c> Vari</c>
+
+00:04:59.749 --> 00:04:59.759 align:start position:0%
+the original sentence there's some Vari
+ 
+
+00:04:59.759 --> 00:05:01.430 align:start position:0%
+the original sentence there's some Vari
+you<00:04:59.840><c> can</c><00:04:59.919><c> tell</c><00:05:00.080><c> it's</c><00:05:00.240><c> not</c><00:05:00.560><c> exactly</c><00:05:00.840><c> the</c><00:05:00.960><c> same</c><00:05:01.120><c> L</c>
+
+00:05:01.430 --> 00:05:01.440 align:start position:0%
+you can tell it's not exactly the same L
+ 
+
+00:05:01.440 --> 00:05:03.189 align:start position:0%
+you can tell it's not exactly the same L
+maybe<00:05:02.000><c> but</c><00:05:02.120><c> it's</c><00:05:02.240><c> mostly</c><00:05:02.520><c> reconstructed</c><00:05:03.080><c> the</c>
+
+00:05:03.189 --> 00:05:03.199 align:start position:0%
+maybe but it's mostly reconstructed the
+ 
+
+00:05:03.199 --> 00:05:05.110 align:start position:0%
+maybe but it's mostly reconstructed the
+original<00:05:03.479><c> sentence</c><00:05:03.919><c> including</c><00:05:04.800><c> specific</c>
+
+00:05:05.110 --> 00:05:05.120 align:start position:0%
+original sentence including specific
+ 
+
+00:05:05.120 --> 00:05:07.390 align:start position:0%
+original sentence including specific
+details<00:05:05.479><c> like</c><00:05:05.600><c> the</c><00:05:05.680><c> title</c><00:05:05.919><c> of</c><00:05:06.039><c> the</c><00:05:06.120><c> book</c><00:05:06.320><c> and</c>
+
+00:05:07.390 --> 00:05:07.400 align:start position:0%
+details like the title of the book and
+ 
+
+00:05:07.400 --> 00:05:09.909 align:start position:0%
+details like the title of the book and
+so<00:05:08.400><c> so</c><00:05:08.800><c> we</c><00:05:08.919><c> have</c><00:05:09.000><c> an</c><00:05:09.120><c> encoder</c><00:05:09.560><c> that's</c><00:05:09.720><c> going</c>
+
+00:05:09.909 --> 00:05:09.919 align:start position:0%
+so so we have an encoder that's going
+ 
+
+00:05:09.919 --> 00:05:11.749 align:start position:0%
+so so we have an encoder that's going
+from<00:05:10.080><c> text</c><00:05:10.280><c> to</c><00:05:10.440><c> embedding</c><00:05:11.160><c> and</c><00:05:11.280><c> a</c><00:05:11.400><c> decoder</c>
+
+00:05:11.749 --> 00:05:11.759 align:start position:0%
+from text to embedding and a decoder
+ 
+
+00:05:11.759 --> 00:05:13.909 align:start position:0%
+from text to embedding and a decoder
+that's<00:05:11.919><c> going</c><00:05:12.160><c> from</c><00:05:12.360><c> embedding</c><00:05:12.960><c> back</c><00:05:13.120><c> to</c><00:05:13.360><c> text</c>
+
+00:05:13.909 --> 00:05:13.919 align:start position:0%
+that's going from embedding back to text
+ 
+
+00:05:13.919 --> 00:05:15.270 align:start position:0%
+that's going from embedding back to text
+and<00:05:14.039><c> now</c><00:05:14.160><c> we</c><00:05:14.240><c> can</c><00:05:14.360><c> start</c><00:05:14.520><c> to</c><00:05:14.639><c> do</c><00:05:14.840><c> things</c><00:05:15.160><c> with</c>
+
+00:05:15.270 --> 00:05:15.280 align:start position:0%
+and now we can start to do things with
+ 
+
+00:05:15.280 --> 00:05:17.270 align:start position:0%
+and now we can start to do things with
+the<00:05:15.440><c> embedding</c><00:05:15.840><c> to</c><00:05:16.000><c> vary</c><00:05:16.240><c> it</c><00:05:16.360><c> a</c><00:05:16.440><c> little</c><00:05:16.639><c> bit</c>
+
+00:05:17.270 --> 00:05:17.280 align:start position:0%
+the embedding to vary it a little bit
+ 
+
+00:05:17.280 --> 00:05:18.790 align:start position:0%
+the embedding to vary it a little bit
+and<00:05:17.479><c> and</c><00:05:17.560><c> see</c><00:05:17.759><c> what</c><00:05:17.840><c> the</c><00:05:17.960><c> decoder</c><00:05:18.360><c> might</c><00:05:18.479><c> see</c>
+
+00:05:18.790 --> 00:05:18.800 align:start position:0%
+and and see what the decoder might see
+ 
+
+00:05:18.800 --> 00:05:20.550 align:start position:0%
+and and see what the decoder might see
+if<00:05:18.960><c> we</c><00:05:19.080><c> if</c><00:05:19.160><c> we</c><00:05:19.319><c> make</c><00:05:19.440><c> some</c><00:05:19.600><c> mod</c><00:05:20.039><c> modifications</c>
+
+00:05:20.550 --> 00:05:20.560 align:start position:0%
+if we if we make some mod modifications
+ 
+
+00:05:20.560 --> 00:05:24.390 align:start position:0%
+if we if we make some mod modifications
+to<00:05:20.680><c> the</c><00:05:20.800><c> embedding</c><00:05:21.800><c> so</c><00:05:22.080><c> here</c><00:05:22.800><c> I've</c><00:05:23.240><c> uh</c><00:05:24.000><c> try</c><00:05:24.240><c> to</c>
+
+00:05:24.390 --> 00:05:24.400 align:start position:0%
+to the embedding so here I've uh try to
+ 
+
+00:05:24.400 --> 00:05:26.110 align:start position:0%
+to the embedding so here I've uh try to
+kind<00:05:24.520><c> of</c><00:05:24.720><c> blur</c><00:05:25.080><c> the</c><00:05:25.240><c> embedding</c><00:05:25.600><c> and</c><00:05:25.759><c> sample</c>
+
+00:05:26.110 --> 00:05:26.120 align:start position:0%
+kind of blur the embedding and sample
+ 
+
+00:05:26.120 --> 00:05:27.950 align:start position:0%
+kind of blur the embedding and sample
+some<00:05:26.360><c> points</c><00:05:26.919><c> around</c><00:05:27.240><c> the</c><00:05:27.400><c> embedding</c><00:05:27.840><c> with</c>
+
+00:05:27.950 --> 00:05:27.960 align:start position:0%
+some points around the embedding with
+ 
+
+00:05:27.960 --> 00:05:30.270 align:start position:0%
+some points around the embedding with
+this<00:05:28.360><c> this</c><00:05:28.600><c> blur</c><00:05:28.919><c> radius</c><00:05:29.759><c> and</c><00:05:29.919><c> you</c><00:05:30.000><c> can</c><00:05:30.120><c> see</c>
+
+00:05:30.270 --> 00:05:30.280 align:start position:0%
+this this blur radius and you can see
+ 
+
+00:05:30.280 --> 00:05:31.749 align:start position:0%
+this this blur radius and you can see
+the<00:05:30.400><c> text</c><00:05:30.800><c> generated</c><00:05:31.160><c> from</c><00:05:31.280><c> those</c><00:05:31.440><c> blurry</c>
+
+00:05:31.749 --> 00:05:31.759 align:start position:0%
+the text generated from those blurry
+ 
+
+00:05:31.759 --> 00:05:33.629 align:start position:0%
+the text generated from those blurry
+embeddings<00:05:32.319><c> they're</c><00:05:32.440><c> a</c><00:05:32.560><c> little</c><00:05:32.840><c> off</c><00:05:33.199><c> like</c>
+
+00:05:33.629 --> 00:05:33.639 align:start position:0%
+embeddings they're a little off like
+ 
+
+00:05:33.639 --> 00:05:35.029 align:start position:0%
+embeddings they're a little off like
+this<00:05:33.720><c> is</c><00:05:33.880><c> not</c><00:05:34.000><c> the</c><00:05:34.120><c> correct</c><00:05:34.440><c> title</c><00:05:34.960><c> the</c>
+
+00:05:35.029 --> 00:05:35.039 align:start position:0%
+this is not the correct title the
+ 
+
+00:05:35.039 --> 00:05:38.390 align:start position:0%
+this is not the correct title the
+title's<00:05:35.319><c> kind</c><00:05:35.440><c> of</c><00:05:35.560><c> gone</c><00:05:35.880><c> here</c><00:05:36.840><c> um</c><00:05:37.440><c> the</c><00:05:37.840><c> the</c><00:05:38.199><c> it</c>
+
+00:05:38.390 --> 00:05:38.400 align:start position:0%
+title's kind of gone here um the the it
+ 
+
+00:05:38.400 --> 00:05:40.029 align:start position:0%
+title's kind of gone here um the the it
+still<00:05:38.600><c> kept</c><00:05:38.759><c> the</c><00:05:38.880><c> name</c><00:05:39.120><c> Greg</c><00:05:39.479><c> but</c><00:05:39.600><c> it's</c><00:05:39.800><c> it's</c><00:05:39.880><c> a</c>
+
+00:05:40.029 --> 00:05:40.039 align:start position:0%
+still kept the name Greg but it's it's a
+ 
+
+00:05:40.039 --> 00:05:42.070 align:start position:0%
+still kept the name Greg but it's it's a
+different<00:05:40.319><c> person</c><00:05:40.720><c> and</c><00:05:40.840><c> so</c><00:05:41.600><c> there's</c><00:05:41.880><c> kind</c><00:05:42.000><c> of</c>
+
+00:05:42.070 --> 00:05:42.080 align:start position:0%
+different person and so there's kind of
+ 
+
+00:05:42.080 --> 00:05:44.629 align:start position:0%
+different person and so there's kind of
+a<00:05:42.199><c> blur</c><00:05:42.560><c> a</c><00:05:42.639><c> semantic</c><00:05:43.080><c> blur</c><00:05:44.080><c> that's</c><00:05:44.280><c> happened</c>
+
+00:05:44.629 --> 00:05:44.639 align:start position:0%
+a blur a semantic blur that's happened
+ 
+
+00:05:44.639 --> 00:05:46.550 align:start position:0%
+a blur a semantic blur that's happened
+here<00:05:45.240><c> but</c><00:05:45.759><c> this</c><00:05:45.840><c> is</c><00:05:46.000><c> kind</c><00:05:46.080><c> of</c><00:05:46.160><c> boring</c><00:05:46.400><c> this</c><00:05:46.479><c> is</c>
+
+00:05:46.550 --> 00:05:46.560 align:start position:0%
+here but this is kind of boring this is
+ 
+
+00:05:46.560 --> 00:05:48.110 align:start position:0%
+here but this is kind of boring this is
+not<00:05:46.720><c> really</c><00:05:46.880><c> useful</c><00:05:47.600><c> what's</c><00:05:47.759><c> a</c><00:05:47.840><c> little</c><00:05:48.000><c> more</c>
+
+00:05:48.110 --> 00:05:48.120 align:start position:0%
+not really useful what's a little more
+ 
+
+00:05:48.120 --> 00:05:49.670 align:start position:0%
+not really useful what's a little more
+useful<00:05:48.520><c> is</c><00:05:48.639><c> trying</c><00:05:48.840><c> to</c><00:05:49.000><c> actually</c><00:05:49.240><c> manipulate</c>
+
+00:05:49.670 --> 00:05:49.680 align:start position:0%
+useful is trying to actually manipulate
+ 
+
+00:05:49.680 --> 00:05:51.390 align:start position:0%
+useful is trying to actually manipulate
+things<00:05:49.840><c> in</c><00:05:49.960><c> more</c><00:05:50.039><c> meaningful</c><00:05:50.440><c> directions</c><00:05:51.199><c> so</c>
+
+00:05:51.390 --> 00:05:51.400 align:start position:0%
+things in more meaningful directions so
+ 
+
+00:05:51.400 --> 00:05:53.189 align:start position:0%
+things in more meaningful directions so
+now<00:05:51.520><c> we</c><00:05:51.600><c> have</c><00:05:51.680><c> the</c><00:05:51.759><c> same</c><00:05:51.919><c> taste</c><00:05:52.120><c> with</c><00:05:52.280><c> text</c><00:05:52.919><c> and</c>
+
+00:05:53.189 --> 00:05:53.199 align:start position:0%
+now we have the same taste with text and
+ 
+
+00:05:53.199 --> 00:05:55.590 align:start position:0%
+now we have the same taste with text and
+now<00:05:53.440><c> here</c><00:05:53.680><c> I</c><00:05:53.759><c> have</c><00:05:53.880><c> a</c><00:05:53.960><c> bunch</c><00:05:54.120><c> of</c><00:05:54.240><c> controls</c><00:05:55.199><c> so</c>
+
+00:05:55.590 --> 00:05:55.600 align:start position:0%
+now here I have a bunch of controls so
+ 
+
+00:05:55.600 --> 00:05:58.550 align:start position:0%
+now here I have a bunch of controls so
+maybe<00:05:56.160><c> I</c><00:05:56.280><c> want</c><00:05:56.520><c> to</c><00:05:57.280><c> find</c><00:05:57.479><c> a</c><00:05:57.639><c> direction</c><00:05:58.000><c> in</c><00:05:58.440><c> this</c>
+
+00:05:58.550 --> 00:05:58.560 align:start position:0%
+maybe I want to find a direction in this
+ 
+
+00:05:58.560 --> 00:05:59.909 align:start position:0%
+maybe I want to find a direction in this
+embedding<00:05:58.919><c> space</c><00:05:59.120><c> here</c><00:05:59.440><c> computed</c><00:05:59.759><c> a</c>
+
+00:05:59.909 --> 00:05:59.919 align:start position:0%
+embedding space here computed a
+ 
+
+00:05:59.919 --> 00:06:01.710 align:start position:0%
+embedding space here computed a
+direction<00:06:00.400><c> where</c><00:06:00.840><c> if</c><00:06:00.919><c> you</c><00:06:01.080><c> push</c><00:06:01.280><c> an</c><00:06:01.400><c> embedding</c>
+
+00:06:01.710 --> 00:06:01.720 align:start position:0%
+direction where if you push an embedding
+ 
+
+00:06:01.720 --> 00:06:03.110 align:start position:0%
+direction where if you push an embedding
+in<00:06:01.840><c> that</c><00:06:02.000><c> direction</c><00:06:02.759><c> that's</c><00:06:02.919><c> going</c><00:06:03.000><c> to</c>
+
+00:06:03.110 --> 00:06:03.120 align:start position:0%
+in that direction that's going to
+ 
+
+00:06:03.120 --> 00:06:05.390 align:start position:0%
+in that direction that's going to
+represent<00:06:03.680><c> a</c><00:06:03.800><c> shorter</c><00:06:04.240><c> piece</c><00:06:04.400><c> of</c><00:06:04.600><c> text</c><00:06:05.199><c> of</c>
+
+00:06:05.390 --> 00:06:05.400 align:start position:0%
+represent a shorter piece of text of
+ 
+
+00:06:05.400 --> 00:06:07.230 align:start position:0%
+represent a shorter piece of text of
+roughly<00:06:05.680><c> the</c><00:06:05.800><c> same</c><00:06:06.039><c> topic</c><00:06:06.639><c> and</c><00:06:06.720><c> so</c><00:06:06.919><c> I</c><00:06:07.039><c> picked</c>
+
+00:06:07.230 --> 00:06:07.240 align:start position:0%
+roughly the same topic and so I picked
+ 
+
+00:06:07.240 --> 00:06:10.990 align:start position:0%
+roughly the same topic and so I picked
+this<00:06:07.440><c> direction</c><00:06:08.160><c> and</c><00:06:08.280><c> I</c><00:06:08.440><c> hit</c><00:06:08.680><c> go</c><00:06:09.560><c> and</c><00:06:10.199><c> uh</c><00:06:10.560><c> it'll</c>
+
+00:06:10.990 --> 00:06:11.000 align:start position:0%
+this direction and I hit go and uh it'll
+ 
+
+00:06:11.000 --> 00:06:13.430 align:start position:0%
+this direction and I hit go and uh it'll
+try<00:06:11.240><c> to</c><00:06:12.000><c> move</c><00:06:12.400><c> push</c><00:06:12.599><c> the</c><00:06:12.720><c> embedding</c><00:06:13.160><c> of</c><00:06:13.319><c> this</c>
+
+00:06:13.430 --> 00:06:13.440 align:start position:0%
+try to move push the embedding of this
+ 
+
+00:06:13.440 --> 00:06:14.790 align:start position:0%
+try to move push the embedding of this
+text<00:06:13.680><c> in</c><00:06:13.800><c> that</c><00:06:13.919><c> direction</c><00:06:14.199><c> and</c><00:06:14.360><c> decode</c><00:06:14.680><c> them</c>
+
+00:06:14.790 --> 00:06:14.800 align:start position:0%
+text in that direction and decode them
+ 
+
+00:06:14.800 --> 00:06:15.950 align:start position:0%
+text in that direction and decode them
+out<00:06:15.000><c> and</c><00:06:15.319><c> you</c><00:06:15.440><c> can</c><00:06:15.520><c> tell</c><00:06:15.639><c> they're</c><00:06:15.759><c> a</c><00:06:15.840><c> little</c>
+
+00:06:15.950 --> 00:06:15.960 align:start position:0%
+out and you can tell they're a little
+ 
+
+00:06:15.960 --> 00:06:18.150 align:start position:0%
+out and you can tell they're a little
+bit<00:06:16.160><c> shorter</c><00:06:17.160><c> um</c><00:06:17.319><c> if</c><00:06:17.400><c> I</c><00:06:17.560><c> push</c><00:06:17.680><c> it</c><00:06:17.800><c> a</c><00:06:17.880><c> little</c><00:06:18.039><c> bit</c>
+
+00:06:18.150 --> 00:06:18.160 align:start position:0%
+bit shorter um if I push it a little bit
+ 
+
+00:06:18.160 --> 00:06:20.390 align:start position:0%
+bit shorter um if I push it a little bit
+further<00:06:18.599><c> even</c><00:06:19.599><c> so</c><00:06:19.759><c> now</c><00:06:19.880><c> I'm</c><00:06:20.039><c> taking</c><00:06:20.280><c> that</c>
+
+00:06:20.390 --> 00:06:20.400 align:start position:0%
+further even so now I'm taking that
+ 
+
+00:06:20.400 --> 00:06:21.870 align:start position:0%
+further even so now I'm taking that
+shorter<00:06:20.840><c> Direction</c><00:06:21.199><c> and</c><00:06:21.319><c> moving</c><00:06:21.560><c> a</c><00:06:21.639><c> little</c>
+
+00:06:21.870 --> 00:06:21.880 align:start position:0%
+shorter Direction and moving a little
+ 
+
+00:06:21.880 --> 00:06:24.230 align:start position:0%
+shorter Direction and moving a little
+farther<00:06:22.199><c> along</c><00:06:22.440><c> it</c><00:06:23.039><c> and</c><00:06:23.240><c> and</c><00:06:23.479><c> sampling</c>
+
+00:06:24.230 --> 00:06:24.240 align:start position:0%
+farther along it and and sampling
+ 
+
+00:06:24.240 --> 00:06:25.749 align:start position:0%
+farther along it and and sampling
+generating<00:06:24.680><c> text</c><00:06:24.919><c> out</c><00:06:25.039><c> of</c><00:06:25.120><c> those</c><00:06:25.280><c> embeddings</c>
+
+00:06:25.749 --> 00:06:25.759 align:start position:0%
+generating text out of those embeddings
+ 
+
+00:06:25.759 --> 00:06:27.430 align:start position:0%
+generating text out of those embeddings
+again<00:06:26.479><c> and</c><00:06:26.639><c> they're</c><00:06:26.840><c> they're</c><00:06:27.080><c> even</c><00:06:27.240><c> a</c><00:06:27.319><c> little</c>
+
+00:06:27.430 --> 00:06:27.440 align:start position:0%
+again and they're they're even a little
+ 
+
+00:06:27.440 --> 00:06:28.749 align:start position:0%
+again and they're they're even a little
+bit<00:06:27.560><c> shorter</c><00:06:27.960><c> but</c><00:06:28.120><c> they've</c><00:06:28.400><c> they've</c><00:06:28.599><c> still</c>
+
+00:06:28.749 --> 00:06:28.759 align:start position:0%
+bit shorter but they've they've still
+ 
+
+00:06:28.759 --> 00:06:32.309 align:start position:0%
+bit shorter but they've they've still
+kept<00:06:28.960><c> the</c><00:06:29.039><c> general</c><00:06:29.440><c> kind</c><00:06:29.560><c> of</c><00:06:29.680><c> idea</c><00:06:29.919><c> General</c>
+
+00:06:32.309 --> 00:06:32.319 align:start position:0%
+kept the general kind of idea General
+ 
+
+00:06:32.319 --> 00:06:34.870 align:start position:0%
+kept the general kind of idea General
+topic<00:06:33.319><c> and</c><00:06:33.639><c> uh</c><00:06:34.080><c> with</c><00:06:34.240><c> that</c><00:06:34.400><c> kind</c><00:06:34.520><c> of</c><00:06:34.599><c> building</c>
+
+00:06:34.870 --> 00:06:34.880 align:start position:0%
+topic and uh with that kind of building
+ 
+
+00:06:34.880 --> 00:06:35.950 align:start position:0%
+topic and uh with that kind of building
+block<00:06:35.080><c> you</c><00:06:35.160><c> can</c><00:06:35.240><c> build</c><00:06:35.479><c> really</c><00:06:35.639><c> interesting</c>
+
+00:06:35.950 --> 00:06:35.960 align:start position:0%
+block you can build really interesting
+ 
+
+00:06:35.960 --> 00:06:37.670 align:start position:0%
+block you can build really interesting
+interfaces<00:06:36.479><c> like</c><00:06:36.560><c> for</c><00:06:36.720><c> example</c><00:06:37.080><c> I</c><00:06:37.160><c> can</c><00:06:37.440><c> I</c><00:06:37.520><c> can</c>
+
+00:06:37.670 --> 00:06:37.680 align:start position:0%
+interfaces like for example I can I can
+ 
+
+00:06:37.680 --> 00:06:38.990 align:start position:0%
+interfaces like for example I can I can
+plop<00:06:37.960><c> this</c><00:06:38.080><c> piece</c><00:06:38.240><c> of</c><00:06:38.360><c> text</c><00:06:38.560><c> down</c><00:06:38.759><c> here</c><00:06:38.880><c> and</c>
+
+00:06:38.990 --> 00:06:39.000 align:start position:0%
+plop this piece of text down here and
+ 
+
+00:06:39.000 --> 00:06:40.629 align:start position:0%
+plop this piece of text down here and
+maybe<00:06:39.160><c> I</c><00:06:39.240><c> want</c><00:06:39.319><c> to</c><00:06:39.440><c> generate</c><00:06:39.800><c> a</c><00:06:39.919><c> couple</c><00:06:40.240><c> of</c><00:06:40.520><c> a</c>
+
+00:06:40.629 --> 00:06:40.639 align:start position:0%
+maybe I want to generate a couple of a
+ 
+
+00:06:40.639 --> 00:06:44.629 align:start position:0%
+maybe I want to generate a couple of a
+couple<00:06:40.840><c> of</c><00:06:41.039><c> sort</c><00:06:41.199><c> of</c><00:06:41.720><c> shorter</c><00:06:42.599><c> versions</c><00:06:43.599><c> um</c><00:06:43.880><c> so</c>
+
+00:06:44.629 --> 00:06:44.639 align:start position:0%
+couple of sort of shorter versions um so
+ 
+
+00:06:44.639 --> 00:06:46.550 align:start position:0%
+couple of sort of shorter versions um so
+this<00:06:44.759><c> is</c><00:06:45.039><c> like</c><00:06:45.440><c> a</c><00:06:45.520><c> little</c><00:06:45.639><c> bit</c><00:06:45.759><c> shorter</c><00:06:46.479><c> this</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+this is like a little bit shorter this
+ 
+
+00:06:46.560 --> 00:06:49.710 align:start position:0%
+this is like a little bit shorter this
+is<00:06:46.800><c> even</c><00:06:47.160><c> even</c><00:06:47.400><c> more</c><00:06:47.720><c> short</c><00:06:48.599><c> but</c><00:06:49.000><c> uh</c><00:06:49.360><c> maybe</c>
+
+00:06:49.710 --> 00:06:49.720 align:start position:0%
+is even even more short but uh maybe
+ 
+
+00:06:49.720 --> 00:06:50.990 align:start position:0%
+is even even more short but uh maybe
+maybe<00:06:49.919><c> I</c><00:06:50.000><c> like</c><00:06:50.160><c> this</c><00:06:50.319><c> version</c><00:06:50.639><c> so</c><00:06:50.800><c> I'm</c><00:06:50.919><c> going</c>
+
+00:06:50.990 --> 00:06:51.000 align:start position:0%
+maybe I like this version so I'm going
+ 
+
+00:06:51.000 --> 00:06:54.110 align:start position:0%
+maybe I like this version so I'm going
+to<00:06:51.680><c> clone</c><00:06:52.039><c> this</c><00:06:52.199><c> over</c><00:06:52.440><c> here</c><00:06:52.720><c> and</c><00:06:53.440><c> I'm</c><00:06:53.599><c> going</c><00:06:53.680><c> to</c>
+
+00:06:54.110 --> 00:06:54.120 align:start position:0%
+to clone this over here and I'm going to
+ 
+
+00:06:54.120 --> 00:06:55.710 align:start position:0%
+to clone this over here and I'm going to
+make<00:06:54.360><c> this</c><00:06:54.680><c> the</c><00:06:54.800><c> sentiment</c><00:06:55.160><c> of</c><00:06:55.280><c> the</c><00:06:55.400><c> sentence</c>
+
+00:06:55.710 --> 00:06:55.720 align:start position:0%
+make this the sentiment of the sentence
+ 
+
+00:06:55.720 --> 00:06:56.950 align:start position:0%
+make this the sentiment of the sentence
+a<00:06:55.800><c> little</c><00:06:56.000><c> more</c>
+
+00:06:56.950 --> 00:06:56.960 align:start position:0%
+a little more
+ 
+
+00:06:56.960 --> 00:06:58.869 align:start position:0%
+a little more
+negative<00:06:57.960><c> and</c><00:06:58.039><c> you</c><00:06:58.120><c> can</c><00:06:58.280><c> start</c><00:06:58.440><c> to</c><00:06:58.599><c> explore</c>
+
+00:06:58.869 --> 00:06:58.879 align:start position:0%
+negative and you can start to explore
+ 
+
+00:06:58.879 --> 00:07:01.350 align:start position:0%
+negative and you can start to explore
+the<00:06:59.000><c> lat</c><00:06:59.440><c> space</c><00:06:59.759><c> of</c><00:07:00.039><c> of</c><00:07:00.440><c> latent</c><00:07:00.759><c> space</c><00:07:01.120><c> of</c><00:07:01.240><c> this</c>
+
+00:07:01.350 --> 00:07:01.360 align:start position:0%
+the lat space of of latent space of this
+ 
+
+00:07:01.360 --> 00:07:03.350 align:start position:0%
+the lat space of of latent space of this
+embedding<00:07:01.759><c> model</c><00:07:02.039><c> this</c><00:07:02.199><c> language</c><00:07:02.520><c> model</c><00:07:03.160><c> by</c>
+
+00:07:03.350 --> 00:07:03.360 align:start position:0%
+embedding model this language model by
+ 
+
+00:07:03.360 --> 00:07:04.790 align:start position:0%
+embedding model this language model by
+actually<00:07:03.599><c> moving</c><00:07:03.919><c> around</c><00:07:04.120><c> in</c><00:07:04.199><c> a</c><00:07:04.319><c> kind</c><00:07:04.400><c> of</c><00:07:04.520><c> spal</c>
+
+00:07:04.790 --> 00:07:04.800 align:start position:0%
+actually moving around in a kind of spal
+ 
+
+00:07:04.800 --> 00:07:08.390 align:start position:0%
+actually moving around in a kind of spal
+canvas<00:07:05.160><c> interface</c><00:07:05.639><c> which</c><00:07:05.759><c> is</c><00:07:06.199><c> is</c><00:07:06.319><c> kind</c><00:07:06.440><c> of</c>
+
+00:07:08.390 --> 00:07:08.400 align:start position:0%
+canvas interface which is is kind of
+ 
+
+00:07:08.400 --> 00:07:09.990 align:start position:0%
+canvas interface which is is kind of
+interesting<00:07:09.400><c> another</c><00:07:09.599><c> thing</c><00:07:09.720><c> you</c><00:07:09.800><c> can</c><00:07:09.879><c> do</c>
+
+00:07:09.990 --> 00:07:10.000 align:start position:0%
+interesting another thing you can do
+ 
+
+00:07:10.000 --> 00:07:11.390 align:start position:0%
+interesting another thing you can do
+with<00:07:10.080><c> this</c><00:07:10.199><c> kind</c><00:07:10.319><c> of</c><00:07:10.400><c> end</c><00:07:10.720><c> model</c><00:07:10.960><c> is</c><00:07:11.080><c> now</c><00:07:11.240><c> that</c>
+
+00:07:11.390 --> 00:07:11.400 align:start position:0%
+with this kind of end model is now that
+ 
+
+00:07:11.400 --> 00:07:13.070 align:start position:0%
+with this kind of end model is now that
+we<00:07:11.800><c> have</c><00:07:11.879><c> a</c><00:07:12.039><c> vague</c><00:07:12.280><c> sense</c><00:07:12.639><c> that</c><00:07:12.759><c> there</c><00:07:12.879><c> are</c>
+
+00:07:13.070 --> 00:07:13.080 align:start position:0%
+we have a vague sense that there are
+ 
+
+00:07:13.080 --> 00:07:14.790 align:start position:0%
+we have a vague sense that there are
+specific<00:07:13.400><c> directions</c><00:07:14.080><c> in</c><00:07:14.240><c> this</c><00:07:14.400><c> space</c><00:07:14.680><c> that</c>
+
+00:07:14.790 --> 00:07:14.800 align:start position:0%
+specific directions in this space that
+ 
+
+00:07:14.800 --> 00:07:17.469 align:start position:0%
+specific directions in this space that
+mean<00:07:15.120><c> specific</c><00:07:15.599><c> things</c><00:07:16.319><c> we</c><00:07:16.440><c> can</c><00:07:16.560><c> start</c><00:07:16.840><c> to</c>
+
+00:07:17.469 --> 00:07:17.479 align:start position:0%
+mean specific things we can start to
+ 
+
+00:07:17.479 --> 00:07:19.629 align:start position:0%
+mean specific things we can start to
+more<00:07:17.720><c> directly</c><00:07:18.280><c> look</c><00:07:18.440><c> at</c><00:07:18.560><c> a</c><00:07:18.720><c> text</c><00:07:19.120><c> and</c><00:07:19.319><c> ask</c><00:07:19.520><c> the</c>
+
+00:07:19.629 --> 00:07:19.639 align:start position:0%
+more directly look at a text and ask the
+ 
+
+00:07:19.639 --> 00:07:21.990 align:start position:0%
+more directly look at a text and ask the
+model<00:07:20.400><c> hey</c><00:07:20.639><c> where</c><00:07:20.840><c> does</c><00:07:21.120><c> this</c><00:07:21.280><c> piece</c><00:07:21.479><c> of</c><00:07:21.639><c> text</c>
+
+00:07:21.990 --> 00:07:22.000 align:start position:0%
+model hey where does this piece of text
+ 
+
+00:07:22.000 --> 00:07:24.150 align:start position:0%
+model hey where does this piece of text
+lie<00:07:22.280><c> along</c><00:07:22.720><c> your</c><00:07:23.039><c> length</c><00:07:23.440><c> direction</c><00:07:23.759><c> or</c><00:07:23.879><c> along</c>
+
+00:07:24.150 --> 00:07:24.160 align:start position:0%
+lie along your length direction or along
+ 
+
+00:07:24.160 --> 00:07:26.990 align:start position:0%
+lie along your length direction or along
+your<00:07:24.479><c> negative</c><00:07:24.840><c> sentiment</c><00:07:25.240><c> Direction</c><00:07:26.240><c> so</c><00:07:26.879><c> uh</c>
+
+00:07:26.990 --> 00:07:27.000 align:start position:0%
+your negative sentiment Direction so uh
+ 
+
+00:07:27.000 --> 00:07:28.070 align:start position:0%
+your negative sentiment Direction so uh
+this<00:07:27.120><c> is</c><00:07:27.240><c> the</c><00:07:27.360><c> original</c><00:07:27.639><c> text</c><00:07:27.840><c> that</c><00:07:27.919><c> we've</c>
+
+00:07:28.070 --> 00:07:28.080 align:start position:0%
+this is the original text that we've
+ 
+
+00:07:28.080 --> 00:07:29.790 align:start position:0%
+this is the original text that we've
+been<00:07:28.199><c> playing</c><00:07:28.479><c> with</c><00:07:28.919><c> it's</c><00:07:29.080><c> pretty</c><00:07:29.440><c> objective</c>
+
+00:07:29.790 --> 00:07:29.800 align:start position:0%
+been playing with it's pretty objective
+ 
+
+00:07:29.800 --> 00:07:31.790 align:start position:0%
+been playing with it's pretty objective
+like<00:07:29.879><c> a</c><00:07:30.000><c> Wikipedia</c><00:07:30.520><c> style</c><00:07:30.800><c> piece</c><00:07:30.960><c> of</c><00:07:31.080><c> text</c>
+
+00:07:31.790 --> 00:07:31.800 align:start position:0%
+like a Wikipedia style piece of text
+ 
+
+00:07:31.800 --> 00:07:33.189 align:start position:0%
+like a Wikipedia style piece of text
+here<00:07:31.960><c> I've</c><00:07:32.120><c> asked</c><00:07:32.319><c> CH</c><00:07:32.680><c> PT</c><00:07:32.879><c> to</c><00:07:33.000><c> take</c><00:07:33.080><c> the</c>
+
+00:07:33.189 --> 00:07:33.199 align:start position:0%
+here I've asked CH PT to take the
+ 
+
+00:07:33.199 --> 00:07:35.350 align:start position:0%
+here I've asked CH PT to take the
+original<00:07:33.560><c> text</c><00:07:33.960><c> and</c><00:07:34.599><c> uh</c><00:07:34.720><c> make</c><00:07:34.840><c> it</c><00:07:34.960><c> sound</c><00:07:35.160><c> a</c><00:07:35.240><c> lot</c>
+
+00:07:35.350 --> 00:07:35.360 align:start position:0%
+original text and uh make it sound a lot
+ 
+
+00:07:35.360 --> 00:07:38.029 align:start position:0%
+original text and uh make it sound a lot
+more<00:07:35.560><c> pessimistic</c><00:07:36.560><c> so</c><00:07:37.319><c> uh</c><00:07:37.520><c> things</c><00:07:37.720><c> like</c><00:07:37.919><c> the</c>
+
+00:07:38.029 --> 00:07:38.039 align:start position:0%
+more pessimistic so uh things like the
+ 
+
+00:07:38.039 --> 00:07:40.150 align:start position:0%
+more pessimistic so uh things like the
+futile<00:07:38.599><c> quest</c><00:07:38.840><c> for</c><00:07:39.000><c> meaning</c><00:07:39.440><c> and</c><00:07:39.759><c> plunging</c>
+
+00:07:40.150 --> 00:07:40.160 align:start position:0%
+futile quest for meaning and plunging
+ 
+
+00:07:40.160 --> 00:07:42.430 align:start position:0%
+futile quest for meaning and plunging
+deeper<00:07:40.400><c> into</c><00:07:40.560><c> the</c><00:07:40.639><c> abys</c><00:07:40.879><c> of</c><00:07:41.000><c> nihilism</c><00:07:41.840><c> and</c><00:07:42.199><c> uh</c>
+
+00:07:42.430 --> 00:07:42.440 align:start position:0%
+deeper into the abys of nihilism and uh
+ 
+
+00:07:42.440 --> 00:07:44.550 align:start position:0%
+deeper into the abys of nihilism and uh
+and<00:07:42.599><c> if</c><00:07:42.720><c> I</c><00:07:42.919><c> embed</c><00:07:43.319><c> both</c><00:07:43.479><c> of</c><00:07:43.639><c> these</c><00:07:44.280><c> what</c><00:07:44.400><c> I'm</c>
+
+00:07:44.550 --> 00:07:44.560 align:start position:0%
+and if I embed both of these what I'm
+ 
+
+00:07:44.560 --> 00:07:45.830 align:start position:0%
+and if I embed both of these what I'm
+asking<00:07:44.759><c> the</c><00:07:44.840><c> model</c><00:07:45.080><c> to</c><00:07:45.159><c> do</c><00:07:45.280><c> here</c><00:07:45.400><c> is</c><00:07:45.479><c> embed</c>
+
+00:07:45.830 --> 00:07:45.840 align:start position:0%
+asking the model to do here is embed
+ 
+
+00:07:45.840 --> 00:07:47.550 align:start position:0%
+asking the model to do here is embed
+both<00:07:45.960><c> of</c><00:07:46.080><c> these</c><00:07:46.280><c> things</c><00:07:46.800><c> in</c><00:07:46.960><c> the</c><00:07:47.199><c> embedding</c>
+
+00:07:47.550 --> 00:07:47.560 align:start position:0%
+both of these things in the embedding
+ 
+
+00:07:47.560 --> 00:07:49.950 align:start position:0%
+both of these things in the embedding
+space<00:07:47.720><c> of</c><00:07:47.800><c> the</c><00:07:47.919><c> model</c><00:07:48.720><c> and</c><00:07:48.879><c> then</c><00:07:49.440><c> project</c>
+
+00:07:49.950 --> 00:07:49.960 align:start position:0%
+space of the model and then project
+ 
+
+00:07:49.960 --> 00:07:52.270 align:start position:0%
+space of the model and then project
+those<00:07:50.520><c> embeddings</c><00:07:51.080><c> down</c><00:07:51.280><c> onto</c><00:07:51.599><c> each</c><00:07:51.720><c> of</c><00:07:51.919><c> these</c>
+
+00:07:52.270 --> 00:07:52.280 align:start position:0%
+those embeddings down onto each of these
+ 
+
+00:07:52.280 --> 00:07:54.550 align:start position:0%
+those embeddings down onto each of these
+directions<00:07:53.120><c> so</c><00:07:53.560><c> one</c><00:07:53.680><c> way</c><00:07:53.800><c> to</c><00:07:53.919><c> read</c><00:07:54.080><c> this</c><00:07:54.240><c> table</c>
+
+00:07:54.550 --> 00:07:54.560 align:start position:0%
+directions so one way to read this table
+ 
+
+00:07:54.560 --> 00:07:57.790 align:start position:0%
+directions so one way to read this table
+is<00:07:54.800><c> that</c><00:07:55.360><c> um</c><00:07:55.720><c> this</c><00:07:55.879><c> default</c><00:07:56.199><c> piece</c><00:07:56.360><c> of</c><00:07:56.520><c> text</c><00:07:57.280><c> is</c>
+
+00:07:57.790 --> 00:07:57.800 align:start position:0%
+is that um this default piece of text is
+ 
+
+00:07:57.800 --> 00:07:59.309 align:start position:0%
+is that um this default piece of text is
+at<00:07:57.960><c> this</c><00:07:58.120><c> point</c><00:07:58.400><c> in</c><00:07:58.560><c> this</c><00:07:58.680><c> negative</c><00:07:58.960><c> Direction</c>
+
+00:07:59.309 --> 00:07:59.319 align:start position:0%
+at this point in this negative Direction
+ 
+
+00:07:59.319 --> 00:08:00.550 align:start position:0%
+at this point in this negative Direction
+which<00:07:59.479><c> by</c><00:07:59.560><c> itself</c><00:07:59.800><c> doesn't</c><00:07:59.960><c> mean</c><00:08:00.199><c> anything</c>
+
+00:08:00.550 --> 00:08:00.560 align:start position:0%
+which by itself doesn't mean anything
+ 
+
+00:08:00.560 --> 00:08:02.149 align:start position:0%
+which by itself doesn't mean anything
+but<00:08:00.639><c> it's</c><00:08:00.800><c> clearly</c><00:08:01.159><c> less</c><00:08:01.400><c> than</c><00:08:01.639><c> this</c><00:08:01.800><c> so</c><00:08:02.000><c> this</c>
+
+00:08:02.149 --> 00:08:02.159 align:start position:0%
+but it's clearly less than this so this
+ 
+
+00:08:02.159 --> 00:08:03.950 align:start position:0%
+but it's clearly less than this so this
+piece<00:08:02.319><c> of</c><00:08:02.479><c> text</c><00:08:02.879><c> is</c><00:08:03.039><c> much</c><00:08:03.199><c> further</c><00:08:03.560><c> along</c><00:08:03.840><c> the</c>
+
+00:08:03.950 --> 00:08:03.960 align:start position:0%
+piece of text is much further along the
+ 
+
+00:08:03.960 --> 00:08:05.790 align:start position:0%
+piece of text is much further along the
+negative<00:08:04.280><c> sentiment</c><00:08:04.720><c> axis</c><00:08:05.319><c> inside</c><00:08:05.639><c> this</c>
+
+00:08:05.790 --> 00:08:05.800 align:start position:0%
+negative sentiment axis inside this
+ 
+
+00:08:05.800 --> 00:08:07.430 align:start position:0%
+negative sentiment axis inside this
+model<00:08:06.319><c> when</c><00:08:06.440><c> you</c><00:08:06.520><c> look</c><00:08:06.639><c> at</c><00:08:06.759><c> other</c><00:08:06.919><c> properties</c>
+
+00:08:07.430 --> 00:08:07.440 align:start position:0%
+model when you look at other properties
+ 
+
+00:08:07.440 --> 00:08:09.710 align:start position:0%
+model when you look at other properties
+like<00:08:07.720><c> how</c><00:08:08.240><c> how</c><00:08:08.400><c> much</c><00:08:08.919><c> um</c><00:08:09.080><c> of</c><00:08:09.199><c> the</c><00:08:09.319><c> artistic</c>
+
+00:08:09.710 --> 00:08:09.720 align:start position:0%
+like how how much um of the artistic
+ 
+
+00:08:09.720 --> 00:08:10.869 align:start position:0%
+like how how much um of the artistic
+kind<00:08:09.840><c> of</c><00:08:10.000><c> topic</c><00:08:10.240><c> does</c><00:08:10.319><c> it</c><00:08:10.440><c> talk</c><00:08:10.599><c> about</c><00:08:10.759><c> is</c>
+
+00:08:10.869 --> 00:08:10.879 align:start position:0%
+kind of topic does it talk about is
+ 
+
+00:08:10.879 --> 00:08:12.629 align:start position:0%
+kind of topic does it talk about is
+roughly<00:08:11.159><c> the</c><00:08:11.280><c> same</c><00:08:11.759><c> the</c><00:08:11.879><c> length</c><00:08:12.159><c> is</c><00:08:12.319><c> roughly</c>
+
+00:08:12.629 --> 00:08:12.639 align:start position:0%
+roughly the same the length is roughly
+ 
+
+00:08:12.639 --> 00:08:16.469 align:start position:0%
+roughly the same the length is roughly
+the<00:08:12.800><c> same</c><00:08:13.800><c> um</c><00:08:14.759><c> the</c><00:08:15.039><c> the</c><00:08:15.639><c> maybe</c><00:08:16.159><c> the</c><00:08:16.360><c> the</c>
+
+00:08:16.469 --> 00:08:16.479 align:start position:0%
+the same um the the maybe the the
+ 
+
+00:08:16.479 --> 00:08:18.189 align:start position:0%
+the same um the the maybe the the
+negative<00:08:16.800><c> sentiment</c><00:08:17.319><c> text</c><00:08:17.599><c> is</c><00:08:17.720><c> a</c><00:08:17.840><c> bit</c><00:08:17.960><c> more</c>
+
+00:08:18.189 --> 00:08:18.199 align:start position:0%
+negative sentiment text is a bit more
+ 
+
+00:08:18.199 --> 00:08:20.510 align:start position:0%
+negative sentiment text is a bit more
+elaborate<00:08:18.759><c> in</c><00:08:18.919><c> its</c><00:08:19.360><c> its</c><00:08:19.560><c> vocabulary</c><00:08:20.319><c> and</c><00:08:20.400><c> so</c>
+
+00:08:20.510 --> 00:08:20.520 align:start position:0%
+elaborate in its its vocabulary and so
+ 
+
+00:08:20.520 --> 00:08:21.749 align:start position:0%
+elaborate in its its vocabulary and so
+you<00:08:20.599><c> can</c><00:08:20.720><c> start</c><00:08:20.879><c> to</c><00:08:21.080><c> project</c><00:08:21.400><c> these</c><00:08:21.560><c> things</c>
+
+00:08:21.749 --> 00:08:21.759 align:start position:0%
+you can start to project these things
+ 
+
+00:08:21.759 --> 00:08:23.670 align:start position:0%
+you can start to project these things
+into<00:08:21.919><c> these</c><00:08:22.039><c> meaningful</c><00:08:22.440><c> directions</c><00:08:22.800><c> and</c><00:08:23.000><c> say</c>
+
+00:08:23.670 --> 00:08:23.680 align:start position:0%
+into these meaningful directions and say
+ 
+
+00:08:23.680 --> 00:08:24.990 align:start position:0%
+into these meaningful directions and say
+what<00:08:23.800><c> are</c><00:08:23.919><c> the</c><00:08:24.039><c> features</c><00:08:24.360><c> that</c><00:08:24.479><c> the</c><00:08:24.560><c> model's</c>
+
+00:08:24.990 --> 00:08:25.000 align:start position:0%
+what are the features that the model's
+ 
+
+00:08:25.000 --> 00:08:26.510 align:start position:0%
+what are the features that the model's
+what<00:08:25.080><c> are</c><00:08:25.199><c> the</c><00:08:25.319><c> attributes</c><00:08:25.680><c> that</c><00:08:25.800><c> the</c><00:08:25.879><c> model's</c>
+
+00:08:26.510 --> 00:08:26.520 align:start position:0%
+what are the attributes that the model's
+ 
+
+00:08:26.520 --> 00:08:28.110 align:start position:0%
+what are the attributes that the model's
+um<00:08:26.800><c> finding</c><00:08:27.360><c> in</c><00:08:27.440><c> the</c><00:08:27.560><c> in</c><00:08:27.639><c> the</c><00:08:27.720><c> text</c><00:08:27.919><c> that</c><00:08:28.000><c> we're</c>
+
+00:08:28.110 --> 00:08:28.120 align:start position:0%
+um finding in the in the text that we're
+ 
+
+00:08:28.120 --> 00:08:30.230 align:start position:0%
+um finding in the in the text that we're
+feeding<00:08:28.440><c> it</c>
+
+00:08:30.230 --> 00:08:30.240 align:start position:0%
+feeding it
+ 
+
+00:08:30.240 --> 00:08:31.909 align:start position:0%
+feeding it
+uh<00:08:30.560><c> another</c><00:08:30.840><c> way</c><00:08:30.960><c> you</c><00:08:31.120><c> could</c><00:08:31.440><c> test</c><00:08:31.639><c> out</c><00:08:31.840><c> some</c>
+
+00:08:31.909 --> 00:08:31.919 align:start position:0%
+uh another way you could test out some
+ 
+
+00:08:31.919 --> 00:08:33.949 align:start position:0%
+uh another way you could test out some
+of<00:08:32.039><c> these</c><00:08:32.200><c> ideas</c><00:08:32.599><c> is</c><00:08:32.839><c> by</c><00:08:33.159><c> mixing</c><00:08:33.479><c> embeddings</c>
+
+00:08:33.949 --> 00:08:33.959 align:start position:0%
+of these ideas is by mixing embeddings
+ 
+
+00:08:33.959 --> 00:08:35.630 align:start position:0%
+of these ideas is by mixing embeddings
+and<00:08:34.120><c> so</c><00:08:34.560><c> here</c><00:08:34.719><c> I'm</c><00:08:34.800><c> going</c><00:08:34.880><c> to</c><00:08:35.000><c> embed</c><00:08:35.399><c> both</c><00:08:35.519><c> of</c>
+
+00:08:35.630 --> 00:08:35.640 align:start position:0%
+and so here I'm going to embed both of
+ 
+
+00:08:35.640 --> 00:08:37.149 align:start position:0%
+and so here I'm going to embed both of
+these<00:08:35.800><c> pieces</c><00:08:36.039><c> of</c><00:08:36.200><c> text</c><00:08:36.640><c> this</c><00:08:36.719><c> one's</c><00:08:36.959><c> the</c><00:08:37.039><c> one</c>
+
+00:08:37.149 --> 00:08:37.159 align:start position:0%
+these pieces of text this one's the one
+ 
+
+00:08:37.159 --> 00:08:39.190 align:start position:0%
+these pieces of text this one's the one
+that<00:08:37.279><c> we've</c><00:08:37.440><c> been</c><00:08:37.560><c> playing</c><00:08:37.919><c> with</c><00:08:38.519><c> this</c><00:08:38.640><c> one</c><00:08:38.839><c> is</c>
+
+00:08:39.190 --> 00:08:39.200 align:start position:0%
+that we've been playing with this one is
+ 
+
+00:08:39.200 --> 00:08:40.230 align:start position:0%
+that we've been playing with this one is
+a<00:08:39.279><c> beginning</c><00:08:39.560><c> of</c><00:08:39.640><c> a</c><00:08:39.719><c> short</c><00:08:39.880><c> story</c><00:08:40.080><c> that</c><00:08:40.159><c> I</c>
+
+00:08:40.230 --> 00:08:40.240 align:start position:0%
+a beginning of a short story that I
+ 
+
+00:08:40.240 --> 00:08:42.070 align:start position:0%
+a beginning of a short story that I
+wrote<00:08:40.479><c> once</c><00:08:40.800><c> it's</c><00:08:40.959><c> about</c><00:08:41.279><c> this</c><00:08:41.479><c> like</c><00:08:41.680><c> town</c><00:08:41.959><c> in</c>
+
+00:08:42.070 --> 00:08:42.080 align:start position:0%
+wrote once it's about this like town in
+ 
+
+00:08:42.080 --> 00:08:44.750 align:start position:0%
+wrote once it's about this like town in
+the<00:08:42.399><c> Mediterranean</c><00:08:43.399><c> uh</c><00:08:43.599><c> Coast</c><00:08:44.039><c> that's</c><00:08:44.399><c> calm</c>
+
+00:08:44.750 --> 00:08:44.760 align:start position:0%
+the Mediterranean uh Coast that's calm
+ 
+
+00:08:44.760 --> 00:08:48.389 align:start position:0%
+the Mediterranean uh Coast that's calm
+and<00:08:45.240><c> and</c><00:08:45.399><c> a</c><00:08:45.480><c> little</c><00:08:45.640><c> bit</c><00:08:46.120><c> old</c><00:08:47.120><c> and</c><00:08:47.519><c> um</c><00:08:48.120><c> both</c><00:08:48.279><c> of</c>
+
+00:08:48.389 --> 00:08:48.399 align:start position:0%
+and and a little bit old and um both of
+ 
+
+00:08:48.399 --> 00:08:49.949 align:start position:0%
+and and a little bit old and um both of
+these<00:08:48.519><c> have</c><00:08:48.640><c> been</c><00:08:48.760><c> embedded</c><00:08:49.560><c> and</c><00:08:49.680><c> so</c><00:08:49.839><c> I'm</c>
+
+00:08:49.949 --> 00:08:49.959 align:start position:0%
+these have been embedded and so I'm
+ 
+
+00:08:49.959 --> 00:08:52.509 align:start position:0%
+these have been embedded and so I'm
+going<00:08:50.040><c> to</c><00:08:50.240><c> say</c><00:08:51.080><c> just</c><00:08:51.760><c> this</c><00:08:51.839><c> is</c><00:08:51.959><c> a</c><00:08:52.120><c> 2,000</c>
+
+00:08:52.509 --> 00:08:52.519 align:start position:0%
+going to say just this is a 2,000
+ 
+
+00:08:52.519 --> 00:08:53.630 align:start position:0%
+going to say just this is a 2,000
+dimensional<00:08:52.839><c> embedding</c><00:08:53.160><c> I'm</c><00:08:53.279><c> going</c><00:08:53.399><c> to</c><00:08:53.480><c> say</c>
+
+00:08:53.630 --> 00:08:53.640 align:start position:0%
+dimensional embedding I'm going to say
+ 
+
+00:08:53.640 --> 00:08:55.430 align:start position:0%
+dimensional embedding I'm going to say
+give<00:08:53.760><c> me</c><00:08:53.839><c> a</c><00:08:53.959><c> new</c><00:08:54.160><c> embedding</c><00:08:54.880><c> that's</c><00:08:55.080><c> just</c><00:08:55.279><c> the</c>
+
+00:08:55.430 --> 00:08:55.440 align:start position:0%
+give me a new embedding that's just the
+ 
+
+00:08:55.440 --> 00:08:57.509 align:start position:0%
+give me a new embedding that's just the
+first<00:08:56.160><c> thousand</c><00:08:56.519><c> or</c><00:08:56.680><c> so</c><00:08:56.880><c> Dimensions</c><00:08:57.320><c> from</c><00:08:57.440><c> the</c>
+
+00:08:57.509 --> 00:08:57.519 align:start position:0%
+first thousand or so Dimensions from the
+ 
+
+00:08:57.519 --> 00:08:59.310 align:start position:0%
+first thousand or so Dimensions from the
+one<00:08:57.680><c> embedding</c><00:08:58.240><c> and</c><00:08:58.360><c> then</c><00:08:58.640><c> take</c><00:08:58.800><c> the</c><00:08:58.959><c> last</c>
+
+00:08:59.310 --> 00:08:59.320 align:start position:0%
+one embedding and then take the last
+ 
+
+00:08:59.320 --> 00:09:00.230 align:start position:0%
+one embedding and then take the last
+thousand<00:08:59.560><c> dimensions</c><00:08:59.880><c> of</c><00:08:59.959><c> the</c><00:09:00.040><c> second</c>
+
+00:09:00.230 --> 00:09:00.240 align:start position:0%
+thousand dimensions of the second
+ 
+
+00:09:00.240 --> 00:09:01.350 align:start position:0%
+thousand dimensions of the second
+embedding<00:09:00.519><c> and</c><00:09:00.600><c> just</c><00:09:00.680><c> like</c><00:09:00.800><c> slam</c><00:09:01.120><c> them</c>
+
+00:09:01.350 --> 00:09:01.360 align:start position:0%
+embedding and just like slam them
+ 
+
+00:09:01.360 --> 00:09:04.030 align:start position:0%
+embedding and just like slam them
+together<00:09:01.800><c> and</c><00:09:01.920><c> have</c><00:09:02.040><c> this</c><00:09:02.160><c> new</c><00:09:02.320><c> embedding</c><00:09:03.240><c> and</c>
+
+00:09:04.030 --> 00:09:04.040 align:start position:0%
+together and have this new embedding and
+ 
+
+00:09:04.040 --> 00:09:05.190 align:start position:0%
+together and have this new embedding and
+navely<00:09:04.399><c> you</c><00:09:04.480><c> wouldn't</c><00:09:04.720><c> really</c><00:09:04.920><c> think</c><00:09:05.079><c> that</c>
+
+00:09:05.190 --> 00:09:05.200 align:start position:0%
+navely you wouldn't really think that
+ 
+
+00:09:05.200 --> 00:09:06.389 align:start position:0%
+navely you wouldn't really think that
+that<00:09:05.279><c> would</c><00:09:05.440><c> amount</c><00:09:05.720><c> too</c><00:09:05.880><c> much</c><00:09:06.120><c> that</c><00:09:06.200><c> would</c><00:09:06.279><c> be</c>
+
+00:09:06.389 --> 00:09:06.399 align:start position:0%
+that would amount too much that would be
+ 
+
+00:09:06.399 --> 00:09:07.670 align:start position:0%
+that would amount too much that would be
+kind<00:09:06.519><c> of</c><00:09:06.680><c> gibberish</c><00:09:07.160><c> but</c><00:09:07.320><c> actually</c><00:09:07.519><c> if</c><00:09:07.560><c> you</c>
+
+00:09:07.670 --> 00:09:07.680 align:start position:0%
+kind of gibberish but actually if you
+ 
+
+00:09:07.680 --> 00:09:09.829 align:start position:0%
+kind of gibberish but actually if you
+generate<00:09:08.000><c> some</c><00:09:08.120><c> samples</c><00:09:08.440><c> from</c><00:09:08.640><c> it</c><00:09:09.320><c> um</c><00:09:09.560><c> you</c><00:09:09.680><c> can</c>
+
+00:09:09.829 --> 00:09:09.839 align:start position:0%
+generate some samples from it um you can
+ 
+
+00:09:09.839 --> 00:09:14.069 align:start position:0%
+generate some samples from it um you can
+tell<00:09:10.600><c> you</c><00:09:10.720><c> can</c><00:09:10.920><c> see</c><00:09:11.640><c> in</c><00:09:11.760><c> a</c><00:09:12.079><c> bit</c><00:09:13.079><c> uh</c><00:09:13.720><c> you</c><00:09:13.880><c> get</c><00:09:14.000><c> a</c>
+
+00:09:14.069 --> 00:09:14.079 align:start position:0%
+tell you can see in a bit uh you get a
+ 
+
+00:09:14.079 --> 00:09:15.550 align:start position:0%
+tell you can see in a bit uh you get a
+sentence<00:09:14.399><c> that's</c><00:09:14.560><c> kind</c><00:09:14.640><c> of</c><00:09:14.720><c> a</c><00:09:14.800><c> semantic</c><00:09:15.279><c> mix</c>
+
+00:09:15.550 --> 00:09:15.560 align:start position:0%
+sentence that's kind of a semantic mix
+ 
+
+00:09:15.560 --> 00:09:17.949 align:start position:0%
+sentence that's kind of a semantic mix
+of<00:09:15.760><c> both</c><00:09:16.160><c> you</c><00:09:16.360><c> have</c><00:09:16.839><c> structural</c><00:09:17.320><c> similarities</c>
+
+00:09:17.949 --> 00:09:17.959 align:start position:0%
+of both you have structural similarities
+ 
+
+00:09:17.959 --> 00:09:19.389 align:start position:0%
+of both you have structural similarities
+to<00:09:18.160><c> to</c><00:09:18.320><c> both</c><00:09:18.440><c> of</c><00:09:18.600><c> those</c><00:09:18.760><c> things</c><00:09:19.000><c> like</c><00:09:19.079><c> you</c><00:09:19.240><c> have</c>
+
+00:09:19.389 --> 00:09:19.399 align:start position:0%
+to to both of those things like you have
+ 
+
+00:09:19.399 --> 00:09:21.069 align:start position:0%
+to to both of those things like you have
+this<00:09:19.800><c> structure</c><00:09:20.240><c> where</c><00:09:20.399><c> there's</c><00:09:20.560><c> a</c><00:09:20.720><c> quoted</c>
+
+00:09:21.069 --> 00:09:21.079 align:start position:0%
+this structure where there's a quoted
+ 
+
+00:09:21.079 --> 00:09:22.670 align:start position:0%
+this structure where there's a quoted
+kind<00:09:21.200><c> of</c><00:09:21.360><c> title</c><00:09:21.640><c> of</c><00:09:21.720><c> a</c><00:09:21.839><c> book</c><00:09:21.959><c> in</c><00:09:22.079><c> the</c><00:09:22.200><c> beginning</c>
+
+00:09:22.670 --> 00:09:22.680 align:start position:0%
+kind of title of a book in the beginning
+ 
+
+00:09:22.680 --> 00:09:23.990 align:start position:0%
+kind of title of a book in the beginning
+there's<00:09:22.920><c> topical</c><00:09:23.279><c> similarities</c><00:09:23.800><c> there</c>
+
+00:09:23.990 --> 00:09:24.000 align:start position:0%
+there's topical similarities there
+ 
+
+00:09:24.000 --> 00:09:25.470 align:start position:0%
+there's topical similarities there
+structur<00:09:24.440><c> there's</c><00:09:24.760><c> uh</c><00:09:25.000><c> punctuation</c>
+
+00:09:25.470 --> 00:09:25.480 align:start position:0%
+structur there's uh punctuation
+ 
+
+00:09:25.480 --> 00:09:27.990 align:start position:0%
+structur there's uh punctuation
+similarities<00:09:26.079><c> tone</c><00:09:26.399><c> similarities</c><00:09:27.399><c> and</c><00:09:27.519><c> so</c>
+
+00:09:27.990 --> 00:09:28.000 align:start position:0%
+similarities tone similarities and so
+ 
+
+00:09:28.000 --> 00:09:29.750 align:start position:0%
+similarities tone similarities and so
+this<00:09:28.079><c> is</c><00:09:28.279><c> an</c><00:09:28.440><c> example</c><00:09:28.680><c> of</c><00:09:28.760><c> inter</c>
+
+00:09:29.750 --> 00:09:29.760 align:start position:0%
+this is an example of inter
+ 
+
+00:09:29.760 --> 00:09:33.110 align:start position:0%
+this is an example of inter
+in<00:09:29.920><c> lat</c><00:09:30.640><c> space</c><00:09:31.640><c> the</c><00:09:31.760><c> last</c><00:09:32.120><c> I</c><00:09:32.240><c> have</c><00:09:32.440><c> I</c><00:09:32.640><c> have</c><00:09:33.040><c> uh</c>
+
+00:09:33.110 --> 00:09:33.120 align:start position:0%
+in lat space the last I have I have uh
+ 
+
+00:09:33.120 --> 00:09:36.509 align:start position:0%
+in lat space the last I have I have uh
+you<00:09:33.240><c> may</c><00:09:33.320><c> have</c><00:09:33.440><c> seen</c><00:09:33.600><c> on</c><00:09:33.720><c> Twitter</c><00:09:34.160><c> is</c><00:09:34.959><c> um</c><00:09:35.760><c> about</c>
+
+00:09:36.509 --> 00:09:36.519 align:start position:0%
+you may have seen on Twitter is um about
+ 
+
+00:09:36.519 --> 00:09:38.030 align:start position:0%
+you may have seen on Twitter is um about
+okay<00:09:36.640><c> I</c><00:09:36.760><c> have</c><00:09:36.880><c> this</c><00:09:37.079><c> un</c><00:09:37.240><c> edding</c><00:09:37.560><c> model</c><00:09:37.839><c> and</c><00:09:37.920><c> I</c>
+
+00:09:38.030 --> 00:09:38.040 align:start position:0%
+okay I have this un edding model and I
+ 
+
+00:09:38.040 --> 00:09:39.910 align:start position:0%
+okay I have this un edding model and I
+have<00:09:38.160><c> kind</c><00:09:38.279><c> of</c><00:09:38.360><c> an</c><00:09:38.519><c> un</c><00:09:38.760><c> edding</c><00:09:39.200><c> model</c><00:09:39.800><c> that</c>
+
+00:09:39.910 --> 00:09:39.920 align:start position:0%
+have kind of an un edding model that
+ 
+
+00:09:39.920 --> 00:09:41.590 align:start position:0%
+have kind of an un edding model that
+works<00:09:40.160><c> pretty</c><00:09:40.399><c> well</c><00:09:40.920><c> can</c><00:09:41.040><c> I</c><00:09:41.160><c> use</c><00:09:41.360><c> this</c><00:09:41.480><c> un</c>
+
+00:09:41.590 --> 00:09:41.600 align:start position:0%
+works pretty well can I use this un
+ 
+
+00:09:41.600 --> 00:09:43.030 align:start position:0%
+works pretty well can I use this un
+embedding<00:09:41.920><c> model</c><00:09:42.079><c> and</c><00:09:42.200><c> somehow</c><00:09:42.480><c> fine-tune</c><00:09:42.920><c> it</c>
+
+00:09:43.030 --> 00:09:43.040 align:start position:0%
+embedding model and somehow fine-tune it
+ 
+
+00:09:43.040 --> 00:09:45.230 align:start position:0%
+embedding model and somehow fine-tune it
+or<00:09:43.240><c> otherwise</c><00:09:43.720><c> adapt</c><00:09:44.000><c> it</c><00:09:44.160><c> so</c><00:09:44.279><c> you</c><00:09:44.399><c> can</c><00:09:44.880><c> read</c>
+
+00:09:45.230 --> 00:09:45.240 align:start position:0%
+or otherwise adapt it so you can read
+ 
+
+00:09:45.240 --> 00:09:47.630 align:start position:0%
+or otherwise adapt it so you can read
+out<00:09:46.000><c> text</c><00:09:46.399><c> from</c><00:09:46.839><c> other</c><00:09:47.040><c> kinds</c><00:09:47.200><c> of</c><00:09:47.320><c> embedding</c>
+
+00:09:47.630 --> 00:09:47.640 align:start position:0%
+out text from other kinds of embedding
+ 
+
+00:09:47.640 --> 00:09:50.110 align:start position:0%
+out text from other kinds of embedding
+spaces<00:09:48.640><c> so</c><00:09:49.240><c> this</c><00:09:49.360><c> is</c><00:09:49.480><c> the</c><00:09:49.600><c> same</c><00:09:49.760><c> sentence</c>
+
+00:09:50.110 --> 00:09:50.120 align:start position:0%
+spaces so this is the same sentence
+ 
+
+00:09:50.120 --> 00:09:51.750 align:start position:0%
+spaces so this is the same sentence
+we've<00:09:50.279><c> been</c><00:09:50.399><c> using</c><00:09:50.800><c> but</c><00:09:51.000><c> now</c><00:09:51.240><c> when</c><00:09:51.360><c> I</c><00:09:51.480><c> hit</c><00:09:51.600><c> this</c>
+
+00:09:51.750 --> 00:09:51.760 align:start position:0%
+we've been using but now when I hit this
+ 
+
+00:09:51.760 --> 00:09:54.110 align:start position:0%
+we've been using but now when I hit this
+run<00:09:51.959><c> button</c><00:09:52.480><c> it's</c><00:09:52.640><c> going</c><00:09:52.720><c> to</c><00:09:53.279><c> embed</c><00:09:53.640><c> this</c><00:09:53.839><c> text</c>
+
+00:09:54.110 --> 00:09:54.120 align:start position:0%
+run button it's going to embed this text
+ 
+
+00:09:54.120 --> 00:09:55.710 align:start position:0%
+run button it's going to embed this text
+not<00:09:54.279><c> using</c><00:09:54.519><c> my</c><00:09:54.680><c> embedding</c><00:09:55.040><c> model</c><00:09:55.360><c> but</c><00:09:55.440><c> using</c>
+
+00:09:55.710 --> 00:09:55.720 align:start position:0%
+not using my embedding model but using
+ 
+
+00:09:55.720 --> 00:09:59.630 align:start position:0%
+not using my embedding model but using
+open<00:09:56.000><c> AI</c><00:09:56.760><c> Ada</c><00:09:57.440><c> text</c><00:09:57.800><c> AA</c><00:09:58.040><c> 2</c><00:09:59.000><c> uh</c><00:09:59.279><c> and</c><00:09:59.399><c> then</c>
+
+00:09:59.630 --> 00:09:59.640 align:start position:0%
+open AI Ada text AA 2 uh and then
+ 
+
+00:09:59.640 --> 00:10:00.710 align:start position:0%
+open AI Ada text AA 2 uh and then
+there's<00:09:59.800><c> a</c><00:09:59.920><c> linear</c><00:10:00.240><c> adapter</c><00:10:00.560><c> that</c><00:10:00.640><c> I've</c>
+
+00:10:00.710 --> 00:10:00.720 align:start position:0%
+there's a linear adapter that I've
+ 
+
+00:10:00.720 --> 00:10:03.030 align:start position:0%
+there's a linear adapter that I've
+trained<00:10:01.160><c> so</c><00:10:01.360><c> that</c><00:10:01.560><c> my</c><00:10:01.720><c> decoder</c><00:10:02.200><c> model</c><00:10:02.720><c> can</c>
+
+00:10:03.030 --> 00:10:03.040 align:start position:0%
+trained so that my decoder model can
+ 
+
+00:10:03.040 --> 00:10:04.949 align:start position:0%
+trained so that my decoder model can
+read<00:10:03.279><c> out</c><00:10:03.720><c> not</c><00:10:03.880><c> from</c><00:10:04.079><c> my</c><00:10:04.200><c> embedding</c><00:10:04.560><c> model</c><00:10:04.839><c> but</c>
+
+00:10:04.949 --> 00:10:04.959 align:start position:0%
+read out not from my embedding model but
+ 
+
+00:10:04.959 --> 00:10:07.269 align:start position:0%
+read out not from my embedding model but
+from<00:10:05.079><c> open</c><00:10:05.320><c> ai's</c><00:10:05.640><c> embedding</c><00:10:06.079><c> space</c><00:10:07.079><c> so</c><00:10:07.200><c> I'm</c>
+
+00:10:07.269 --> 00:10:07.279 align:start position:0%
+from open ai's embedding space so I'm
+ 
+
+00:10:07.279 --> 00:10:09.470 align:start position:0%
+from open ai's embedding space so I'm
+going<00:10:07.360><c> to</c><00:10:07.480><c> embed</c><00:10:07.839><c> it</c><00:10:08.839><c> it's</c><00:10:09.000><c> going</c><00:10:09.079><c> to</c><00:10:09.240><c> try</c><00:10:09.360><c> to</c>
+
+00:10:09.470 --> 00:10:09.480 align:start position:0%
+going to embed it it's going to try to
+ 
+
+00:10:09.480 --> 00:10:11.509 align:start position:0%
+going to embed it it's going to try to
+decode<00:10:09.839><c> out</c><00:10:10.079><c> the</c><00:10:10.200><c> text</c><00:10:10.519><c> from</c><00:10:10.839><c> given</c><00:10:11.160><c> just</c><00:10:11.399><c> the</c>
+
+00:10:11.509 --> 00:10:11.519 align:start position:0%
+decode out the text from given just the
+ 
+
+00:10:11.519 --> 00:10:12.550 align:start position:0%
+decode out the text from given just the
+open<00:10:11.760><c> AI</c>
+
+00:10:12.550 --> 00:10:12.560 align:start position:0%
+open AI
+ 
+
+00:10:12.560 --> 00:10:14.949 align:start position:0%
+open AI
+embedding<00:10:13.560><c> and</c>
+
+00:10:14.949 --> 00:10:14.959 align:start position:0%
+embedding and
+ 
+
+00:10:14.959 --> 00:10:18.269 align:start position:0%
+embedding and
+uh<00:10:15.959><c> you</c><00:10:16.120><c> can</c><00:10:16.320><c> see</c><00:10:16.959><c> okay</c><00:10:17.120><c> it's</c><00:10:17.320><c> not</c><00:10:17.600><c> it's</c><00:10:17.720><c> not</c><00:10:17.959><c> as</c>
+
+00:10:18.269 --> 00:10:18.279 align:start position:0%
+uh you can see okay it's not it's not as
+ 
+
+00:10:18.279 --> 00:10:19.949 align:start position:0%
+uh you can see okay it's not it's not as
+perfect<00:10:18.920><c> but</c><00:10:19.040><c> there's</c><00:10:19.200><c> a</c><00:10:19.360><c> surprising</c><00:10:19.800><c> amount</c>
+
+00:10:19.949 --> 00:10:19.959 align:start position:0%
+perfect but there's a surprising amount
+ 
+
+00:10:19.959 --> 00:10:21.630 align:start position:0%
+perfect but there's a surprising amount
+of<00:10:20.120><c> detail</c><00:10:20.480><c> that</c><00:10:20.640><c> we've</c><00:10:20.839><c> recovered</c><00:10:21.320><c> out</c><00:10:21.440><c> of</c>
+
+00:10:21.630 --> 00:10:21.640 align:start position:0%
+of detail that we've recovered out of
+ 
+
+00:10:21.640 --> 00:10:23.269 align:start position:0%
+of detail that we've recovered out of
+just<00:10:21.920><c> the</c><00:10:22.040><c> embedding</c><00:10:22.560><c> with</c><00:10:22.680><c> no</c><00:10:22.839><c> reference</c><00:10:23.160><c> to</c>
+
+00:10:23.269 --> 00:10:23.279 align:start position:0%
+just the embedding with no reference to
+ 
+
+00:10:23.279 --> 00:10:25.269 align:start position:0%
+just the embedding with no reference to
+the<00:10:23.360><c> source</c><00:10:23.680><c> text</c><00:10:24.279><c> so</c><00:10:24.480><c> you</c><00:10:24.560><c> can</c><00:10:24.720><c> see</c><00:10:25.120><c> this</c>
+
+00:10:25.269 --> 00:10:25.279 align:start position:0%
+the source text so you can see this
+ 
+
+00:10:25.279 --> 00:10:26.910 align:start position:0%
+the source text so you can see this
+proper<00:10:25.560><c> noun</c><00:10:25.839><c> diaspora</c><00:10:26.640><c> it's</c><00:10:26.800><c> like</c>
+
+00:10:26.910 --> 00:10:26.920 align:start position:0%
+proper noun diaspora it's like
+ 
+
+00:10:26.920 --> 00:10:29.150 align:start position:0%
+proper noun diaspora it's like
+surprisingly<00:10:27.480><c> still</c><00:10:27.680><c> in</c><00:10:27.920><c> there</c><00:10:28.519><c> um</c><00:10:28.720><c> this</c>
+
+00:10:29.150 --> 00:10:29.160 align:start position:0%
+surprisingly still in there um this
+ 
+
+00:10:29.160 --> 00:10:31.030 align:start position:0%
+surprisingly still in there um this
+feature<00:10:29.680><c> where</c><00:10:29.880><c> there's</c><00:10:30.120><c> a</c><00:10:30.360><c> a</c><00:10:30.480><c> quoted</c><00:10:30.800><c> title</c>
+
+00:10:31.030 --> 00:10:31.040 align:start position:0%
+feature where there's a a quoted title
+ 
+
+00:10:31.040 --> 00:10:32.509 align:start position:0%
+feature where there's a a quoted title
+of<00:10:31.120><c> a</c><00:10:31.240><c> book</c><00:10:31.440><c> is</c><00:10:31.560><c> in</c><00:10:31.760><c> there</c><00:10:31.920><c> it's</c><00:10:32.079><c> roughly</c><00:10:32.360><c> about</c>
+
+00:10:32.509 --> 00:10:32.519 align:start position:0%
+of a book is in there it's roughly about
+ 
+
+00:10:32.519 --> 00:10:35.150 align:start position:0%
+of a book is in there it's roughly about
+the<00:10:32.600><c> same</c><00:10:32.880><c> topic</c><00:10:33.160><c> things</c><00:10:33.360><c> like</c><00:10:33.480><c> the</c><00:10:33.600><c> Rogue</c><00:10:34.160><c> AI</c>
+
+00:10:35.150 --> 00:10:35.160 align:start position:0%
+the same topic things like the Rogue AI
+ 
+
+00:10:35.160 --> 00:10:37.670 align:start position:0%
+the same topic things like the Rogue AI
+um<00:10:35.880><c> sometimes</c><00:10:36.279><c> when</c><00:10:36.440><c> I</c><00:10:36.639><c> when</c><00:10:36.720><c> I</c><00:10:36.839><c> rerun</c><00:10:37.320><c> this</c>
+
+00:10:37.670 --> 00:10:37.680 align:start position:0%
+um sometimes when I when I rerun this
+ 
+
+00:10:37.680 --> 00:10:38.949 align:start position:0%
+um sometimes when I when I rerun this
+there's<00:10:37.880><c> also</c><00:10:38.040><c> references</c><00:10:38.480><c> to</c><00:10:38.600><c> the</c><00:10:38.680><c> author</c>
+
+00:10:38.949 --> 00:10:38.959 align:start position:0%
+there's also references to the author
+ 
+
+00:10:38.959 --> 00:10:40.870 align:start position:0%
+there's also references to the author
+where<00:10:39.079><c> the</c><00:10:39.160><c> name</c><00:10:39.320><c> is</c><00:10:39.480><c> roughly</c><00:10:39.760><c> correct</c><00:10:40.360><c> so</c>
+
+00:10:40.870 --> 00:10:40.880 align:start position:0%
+where the name is roughly correct so
+ 
+
+00:10:40.880 --> 00:10:43.269 align:start position:0%
+where the name is roughly correct so
+even<00:10:41.160><c> surprising</c><00:10:42.120><c> uh</c><00:10:42.320><c> things</c><00:10:42.639><c> features</c><00:10:43.040><c> like</c>
+
+00:10:43.269 --> 00:10:43.279 align:start position:0%
+even surprising uh things features like
+ 
+
+00:10:43.279 --> 00:10:45.389 align:start position:0%
+even surprising uh things features like
+proper<00:10:43.560><c> nouns</c><00:10:44.200><c> punctuation</c><00:10:44.959><c> things</c><00:10:45.200><c> like</c><00:10:45.320><c> the</c>
+
+00:10:45.389 --> 00:10:45.399 align:start position:0%
+proper nouns punctuation things like the
+ 
+
+00:10:45.399 --> 00:10:47.430 align:start position:0%
+proper nouns punctuation things like the
+quotes<00:10:46.200><c> uh</c><00:10:46.320><c> General</c><00:10:46.600><c> structure</c><00:10:46.920><c> and</c><00:10:47.079><c> topic</c>
+
+00:10:47.430 --> 00:10:47.440 align:start position:0%
+quotes uh General structure and topic
+ 
+
+00:10:47.440 --> 00:10:49.590 align:start position:0%
+quotes uh General structure and topic
+obviously<00:10:48.200><c> those</c><00:10:48.320><c> are</c><00:10:48.480><c> recoverable</c><00:10:49.240><c> given</c>
+
+00:10:49.590 --> 00:10:49.600 align:start position:0%
+obviously those are recoverable given
+ 
+
+00:10:49.600 --> 00:10:51.190 align:start position:0%
+obviously those are recoverable given
+just<00:10:49.839><c> the</c><00:10:49.959><c> embedding</c><00:10:50.399><c> because</c><00:10:50.720><c> the</c><00:10:50.959><c> the</c><00:10:51.079><c> kind</c>
+
+00:10:51.190 --> 00:10:51.200 align:start position:0%
+just the embedding because the the kind
+ 
+
+00:10:51.200 --> 00:10:53.150 align:start position:0%
+just the embedding because the the kind
+of<00:10:51.320><c> deta</c><00:10:51.680><c> amount</c><00:10:51.839><c> of</c><00:10:51.959><c> detail</c><00:10:52.240><c> that</c><00:10:52.360><c> these</c><00:10:52.560><c> high</c>
+
+00:10:53.150 --> 00:10:53.160 align:start position:0%
+of deta amount of detail that these high
+ 
+
+00:10:53.160 --> 00:10:54.910 align:start position:0%
+of deta amount of detail that these high
+high<00:10:53.320><c> capacity</c><00:10:53.680><c> embedding</c><00:10:54.000><c> spaces</c>
+
+00:10:54.910 --> 00:10:54.920 align:start position:0%
+high capacity embedding spaces
+ 
+
+00:10:54.920 --> 00:10:56.910 align:start position:0%
+high capacity embedding spaces
+have<00:10:55.920><c> but</c><00:10:56.079><c> not</c><00:10:56.200><c> only</c><00:10:56.320><c> can</c><00:10:56.440><c> you</c><00:10:56.519><c> do</c><00:10:56.639><c> this</c><00:10:56.720><c> in</c><00:10:56.800><c> the</c>
+
+00:10:56.910 --> 00:10:56.920 align:start position:0%
+have but not only can you do this in the
+ 
+
+00:10:56.920 --> 00:10:58.710 align:start position:0%
+have but not only can you do this in the
+text<00:10:57.160><c> space</c><00:10:57.519><c> you</c><00:10:57.600><c> can</c><00:10:57.760><c> also</c><00:10:57.959><c> do</c><00:10:58.120><c> this</c><00:10:58.279><c> in</c><00:10:58.440><c> image</c>
+
+00:10:58.710 --> 00:10:58.720 align:start position:0%
+text space you can also do this in image
+ 
+
+00:10:58.720 --> 00:11:00.069 align:start position:0%
+text space you can also do this in image
+space
+
+00:11:00.069 --> 00:11:00.079 align:start position:0%
+space
+ 
+
+00:11:00.079 --> 00:11:02.389 align:start position:0%
+space
+so<00:11:01.079><c> um</c><00:11:01.320><c> here</c><00:11:01.560><c> I</c><00:11:01.680><c> have</c><00:11:01.800><c> a</c><00:11:01.959><c> I</c><00:11:02.040><c> have</c><00:11:02.120><c> a</c><00:11:02.200><c> few</c>
+
+00:11:02.389 --> 00:11:02.399 align:start position:0%
+so um here I have a I have a few
+ 
+
+00:11:02.399 --> 00:11:06.110 align:start position:0%
+so um here I have a I have a few
+prepared<00:11:02.800><c> files</c><00:11:03.680><c> um</c><00:11:03.839><c> let's</c><00:11:04.000><c> start</c><00:11:04.440><c> with</c>
+
+00:11:06.110 --> 00:11:06.120 align:start position:0%
+prepared files um let's start with
+ 
+
+00:11:06.120 --> 00:11:09.350 align:start position:0%
+prepared files um let's start with
+me<00:11:07.120><c> and</c><00:11:07.560><c> um</c><00:11:07.880><c> for</c><00:11:08.480><c> dumb</c><00:11:08.680><c> technical</c><00:11:09.000><c> reasons</c><00:11:09.279><c> I</c>
+
+00:11:09.350 --> 00:11:09.360 align:start position:0%
+me and um for dumb technical reasons I
+ 
+
+00:11:09.360 --> 00:11:10.790 align:start position:0%
+me and um for dumb technical reasons I
+have<00:11:09.440><c> to</c><00:11:09.519><c> put</c><00:11:09.680><c> two</c><00:11:09.800><c> of</c><00:11:09.920><c> them</c><00:11:10.079><c> in</c><00:11:10.560><c> and</c><00:11:10.639><c> then</c>
+
+00:11:10.790 --> 00:11:10.800 align:start position:0%
+have to put two of them in and then
+ 
+
+00:11:10.800 --> 00:11:12.750 align:start position:0%
+have to put two of them in and then
+let's<00:11:11.000><c> try</c><00:11:11.120><c> to</c><00:11:11.279><c> interpolate</c><00:11:11.839><c> in</c><00:11:12.040><c> this</c><00:11:12.480><c> image</c>
+
+00:11:12.750 --> 00:11:12.760 align:start position:0%
+let's try to interpolate in this image
+ 
+
+00:11:12.760 --> 00:11:14.310 align:start position:0%
+let's try to interpolate in this image
+space<00:11:12.959><c> so</c><00:11:13.079><c> this</c><00:11:13.160><c> is</c><00:11:13.279><c> now</c><00:11:13.399><c> using</c><00:11:13.720><c> Clip</c><00:11:14.040><c> Clips</c>
+
+00:11:14.310 --> 00:11:14.320 align:start position:0%
+space so this is now using Clip Clips
+ 
+
+00:11:14.320 --> 00:11:16.069 align:start position:0%
+space so this is now using Clip Clips
+embedding<00:11:14.680><c> space</c><00:11:15.200><c> I'm</c><00:11:15.320><c> going</c><00:11:15.399><c> to</c><00:11:15.480><c> try</c><00:11:15.639><c> to</c>
+
+00:11:16.069 --> 00:11:16.079 align:start position:0%
+embedding space I'm going to try to
+ 
+
+00:11:16.079 --> 00:11:20.150 align:start position:0%
+embedding space I'm going to try to
+generate<00:11:17.079><c> say</c><00:11:17.279><c> like</c><00:11:17.480><c> six</c><00:11:17.800><c> images</c><00:11:18.760><c> in</c><00:11:19.160><c> between</c>
+
+00:11:20.150 --> 00:11:20.160 align:start position:0%
+generate say like six images in between
+ 
+
+00:11:20.160 --> 00:11:22.829 align:start position:0%
+generate say like six images in between
+uh<00:11:20.560><c> me</c><00:11:21.000><c> and</c><00:11:21.279><c> the</c><00:11:21.680><c> the</c><00:11:21.800><c> notion</c><00:11:22.200><c> avatar</c><00:11:22.600><c> version</c>
+
+00:11:22.829 --> 00:11:22.839 align:start position:0%
+uh me and the the notion avatar version
+ 
+
+00:11:22.839 --> 00:11:24.710 align:start position:0%
+uh me and the the notion avatar version
+of<00:11:23.000><c> me</c><00:11:23.120><c> the</c><00:11:23.240><c> cartoon</c><00:11:23.560><c> version</c><00:11:23.800><c> of</c><00:11:24.000><c> me</c><00:11:24.360><c> if</c><00:11:24.519><c> that</c>
+
+00:11:24.710 --> 00:11:24.720 align:start position:0%
+of me the cartoon version of me if that
+ 
+
+00:11:24.720 --> 00:11:26.949 align:start position:0%
+of me the cartoon version of me if that
+back<00:11:24.839><c> end</c><00:11:25.120><c> will</c><00:11:25.800><c> warm</c><00:11:26.079><c> up</c><00:11:26.320><c> cold</c><00:11:26.560><c> starting</c>
+
+00:11:26.949 --> 00:11:26.959 align:start position:0%
+back end will warm up cold starting
+ 
+
+00:11:26.959 --> 00:11:31.030 align:start position:0%
+back end will warm up cold starting
+models<00:11:27.320><c> is</c><00:11:27.680><c> sometimes</c><00:11:28.200><c> difficult</c>
+
+00:11:31.030 --> 00:11:31.040 align:start position:0%
+ 
+ 
+
+00:11:31.040 --> 00:11:34.110 align:start position:0%
+ 
+uh<00:11:32.040><c> there</c><00:11:32.160><c> we</c><00:11:32.360><c> go</c><00:11:33.079><c> so</c><00:11:33.279><c> now</c><00:11:33.399><c> it's</c><00:11:33.519><c> Shing</c><00:11:33.920><c> six</c>
+
+00:11:34.110 --> 00:11:34.120 align:start position:0%
+uh there we go so now it's Shing six
+ 
+
+00:11:34.120 --> 00:11:36.150 align:start position:0%
+uh there we go so now it's Shing six
+images<00:11:34.680><c> bridging</c><00:11:35.160><c> kind</c><00:11:35.279><c> of</c><00:11:35.519><c> interpolating</c>
+
+00:11:36.150 --> 00:11:36.160 align:start position:0%
+images bridging kind of interpolating
+ 
+
+00:11:36.160 --> 00:11:37.389 align:start position:0%
+images bridging kind of interpolating
+between<00:11:36.480><c> the</c><00:11:36.600><c> photographic</c><00:11:37.079><c> version</c><00:11:37.240><c> of</c><00:11:37.320><c> me</c>
+
+00:11:37.389 --> 00:11:37.399 align:start position:0%
+between the photographic version of me
+ 
+
+00:11:37.399 --> 00:11:40.670 align:start position:0%
+between the photographic version of me
+and<00:11:37.480><c> the</c><00:11:37.519><c> cartoon</c><00:11:37.839><c> version</c><00:11:38.040><c> of</c><00:11:38.200><c> me</c><00:11:39.200><c> uh</c><00:11:39.959><c> and</c><00:11:40.360><c> uh</c>
+
+00:11:40.670 --> 00:11:40.680 align:start position:0%
+and the cartoon version of me uh and uh
+ 
+
+00:11:40.680 --> 00:11:42.870 align:start position:0%
+and the cartoon version of me uh and uh
+again<00:11:40.839><c> it's</c><00:11:41.000><c> not</c><00:11:41.200><c> perfect</c><00:11:41.920><c> but</c><00:11:42.399><c> you</c><00:11:42.519><c> can</c><00:11:42.639><c> see</c>
+
+00:11:42.870 --> 00:11:42.880 align:start position:0%
+again it's not perfect but you can see
+ 
+
+00:11:42.880 --> 00:11:44.310 align:start position:0%
+again it's not perfect but you can see
+here<00:11:43.079><c> it's</c><00:11:43.320><c> on</c><00:11:43.440><c> the</c><00:11:43.560><c> left</c><00:11:43.800><c> it's</c><00:11:43.959><c> it's</c><00:11:44.120><c> quite</c>
+
+00:11:44.310 --> 00:11:44.320 align:start position:0%
+here it's on the left it's it's quite
+ 
+
+00:11:44.320 --> 00:11:46.110 align:start position:0%
+here it's on the left it's it's quite
+photographic<00:11:45.279><c> and</c><00:11:45.399><c> then</c><00:11:45.680><c> as</c><00:11:45.800><c> you</c><00:11:45.920><c> move</c>
+
+00:11:46.110 --> 00:11:46.120 align:start position:0%
+photographic and then as you move
+ 
+
+00:11:46.120 --> 00:11:48.230 align:start position:0%
+photographic and then as you move
+further<00:11:46.440><c> down</c><00:11:46.639><c> this</c><00:11:46.959><c> interpolation</c><00:11:47.959><c> you're</c>
+
+00:11:48.230 --> 00:11:48.240 align:start position:0%
+further down this interpolation you're
+ 
+
+00:11:48.240 --> 00:11:50.750 align:start position:0%
+further down this interpolation you're
+you're<00:11:48.560><c> seeing</c><00:11:49.560><c> uh</c><00:11:49.800><c> more</c><00:11:50.079><c> kind</c><00:11:50.160><c> of</c><00:11:50.360><c> cartoony</c>
+
+00:11:50.750 --> 00:11:50.760 align:start position:0%
+you're seeing uh more kind of cartoony
+ 
+
+00:11:50.760 --> 00:11:52.470 align:start position:0%
+you're seeing uh more kind of cartoony
+features<00:11:51.120><c> appear</c><00:11:51.320><c> here</c><00:11:51.880><c> and</c><00:11:52.200><c> uh</c><00:11:52.320><c> it's</c>
+
+00:11:52.470 --> 00:11:52.480 align:start position:0%
+features appear here and uh it's
+ 
+
+00:11:52.480 --> 00:11:53.790 align:start position:0%
+features appear here and uh it's
+actually<00:11:52.800><c> quite</c><00:11:52.920><c> a</c><00:11:53.040><c> surprisingly</c><00:11:53.480><c> smooth</c>
+
+00:11:53.790 --> 00:11:53.800 align:start position:0%
+actually quite a surprisingly smooth
+ 
+
+00:11:53.800 --> 00:11:55.629 align:start position:0%
+actually quite a surprisingly smooth
+transition<00:11:54.680><c> um</c><00:11:54.959><c> another</c><00:11:55.200><c> thing</c><00:11:55.320><c> you</c><00:11:55.399><c> can</c><00:11:55.519><c> do</c>
+
+00:11:55.629 --> 00:11:55.639 align:start position:0%
+transition um another thing you can do
+ 
+
+00:11:55.639 --> 00:11:57.949 align:start position:0%
+transition um another thing you can do
+on<00:11:55.800><c> top</c><00:11:55.920><c> of</c><00:11:56.120><c> this</c><00:11:56.560><c> is</c><00:11:56.720><c> you</c><00:11:56.880><c> can</c><00:11:57.240><c> you</c><00:11:57.399><c> can</c><00:11:57.800><c> do</c>
+
+00:11:57.949 --> 00:11:57.959 align:start position:0%
+on top of this is you can you can do
+ 
+
+00:11:57.959 --> 00:12:01.269 align:start position:0%
+on top of this is you can you can do
+text<00:11:58.200><c> manipul</c><00:11:59.240><c> as</c><00:11:59.519><c> because</c><00:12:00.040><c> aul</c><00:12:00.720><c> text</c><00:12:01.079><c> image</c>
+
+00:12:01.269 --> 00:12:01.279 align:start position:0%
+text manipul as because aul text image
+ 
+
+00:12:01.279 --> 00:12:03.829 align:start position:0%
+text manipul as because aul text image
+model<00:12:01.920><c> and</c><00:12:02.839><c> can</c>
+
+00:12:03.829 --> 00:12:03.839 align:start position:0%
+model and can
+ 
+
+00:12:03.839 --> 00:12:07.110 align:start position:0%
+model and can
+say<00:12:04.839><c> time</c><00:12:05.120><c> let's</c><00:12:05.320><c> add</c><00:12:05.480><c> some</c><00:12:05.880><c> text</c><00:12:06.880><c> I'm</c><00:12:07.040><c> going</c>
+
+00:12:07.110 --> 00:12:07.120 align:start position:0%
+say time let's add some text I'm going
+ 
+
+00:12:07.120 --> 00:12:11.509 align:start position:0%
+say time let's add some text I'm going
+to<00:12:08.120><c> subtract</c><00:12:08.760><c> the</c><00:12:08.880><c> vector</c><00:12:09.240><c> for</c><00:12:10.040><c> a</c><00:12:10.279><c> photo</c><00:12:10.880><c> of</c><00:12:11.240><c> a</c>
+
+00:12:11.509 --> 00:12:11.519 align:start position:0%
+to subtract the vector for a photo of a
+ 
+
+00:12:11.519 --> 00:12:13.870 align:start position:0%
+to subtract the vector for a photo of a
+smiling<00:12:12.200><c> man</c><00:12:13.079><c> and</c><00:12:13.199><c> instead</c><00:12:13.480><c> I'm</c><00:12:13.560><c> going</c><00:12:13.680><c> to</c><00:12:13.760><c> add</c>
+
+00:12:13.870 --> 00:12:13.880 align:start position:0%
+smiling man and instead I'm going to add
+ 
+
+00:12:13.880 --> 00:12:17.150 align:start position:0%
+smiling man and instead I'm going to add
+the<00:12:14.000><c> vector</c><00:12:14.320><c> for</c><00:12:14.760><c> a</c><00:12:15.000><c> photo</c><00:12:15.399><c> of</c><00:12:15.720><c> a</c><00:12:16.360><c> very</c><00:12:16.680><c> sad</c>
+
+00:12:17.150 --> 00:12:17.160 align:start position:0%
+the vector for a photo of a very sad
+ 
+
+00:12:17.160 --> 00:12:18.069 align:start position:0%
+the vector for a photo of a very sad
+crying
+
+00:12:18.069 --> 00:12:18.079 align:start position:0%
+crying
+ 
+
+00:12:18.079 --> 00:12:20.590 align:start position:0%
+crying
+man<00:12:19.079><c> uh</c><00:12:19.560><c> and</c><00:12:19.680><c> then</c><00:12:19.839><c> I'll</c><00:12:20.040><c> I'll</c><00:12:20.199><c> embid</c><00:12:20.480><c> these</c>
+
+00:12:20.590 --> 00:12:20.600 align:start position:0%
+man uh and then I'll I'll embid these
+ 
+
+00:12:20.600 --> 00:12:22.230 align:start position:0%
+man uh and then I'll I'll embid these
+pieces<00:12:20.839><c> of</c><00:12:21.000><c> text</c><00:12:21.320><c> and</c><00:12:21.399><c> I</c><00:12:21.560><c> empirically</c><00:12:22.000><c> I</c><00:12:22.079><c> find</c>
+
+00:12:22.230 --> 00:12:22.240 align:start position:0%
+pieces of text and I empirically I find
+ 
+
+00:12:22.240 --> 00:12:23.509 align:start position:0%
+pieces of text and I empirically I find
+that<00:12:22.360><c> for</c><00:12:22.480><c> text</c><00:12:22.720><c> I</c><00:12:22.800><c> have</c><00:12:22.920><c> to</c><00:12:23.000><c> be</c><00:12:23.079><c> a</c><00:12:23.160><c> little</c><00:12:23.360><c> more</c>
+
+00:12:23.509 --> 00:12:23.519 align:start position:0%
+that for text I have to be a little more
+ 
+
+00:12:23.519 --> 00:12:25.310 align:start position:0%
+that for text I have to be a little more
+careful<00:12:23.880><c> so</c><00:12:24.000><c> I'm</c><00:12:24.079><c> going</c><00:12:24.160><c> to</c><00:12:24.279><c> dial</c><00:12:24.600><c> down</c><00:12:25.199><c> how</c>
+
+00:12:25.310 --> 00:12:25.320 align:start position:0%
+careful so I'm going to dial down how
+ 
+
+00:12:25.320 --> 00:12:26.430 align:start position:0%
+careful so I'm going to dial down how
+much<00:12:25.440><c> of</c><00:12:25.600><c> those</c><00:12:25.720><c> vectors</c><00:12:26.000><c> I'm</c><00:12:26.079><c> adding</c><00:12:26.320><c> and</c>
+
+00:12:26.430 --> 00:12:26.440 align:start position:0%
+much of those vectors I'm adding and
+ 
+
+00:12:26.440 --> 00:12:38.990 align:start position:0%
+much of those vectors I'm adding and
+subtracting<00:12:27.440><c> and</c><00:12:27.600><c> then</c><00:12:27.920><c> generate</c><00:12:28.279><c> six</c><00:12:28.639><c> again</c>
+
+00:12:38.990 --> 00:12:39.000 align:start position:0%
+ 
+ 
+
+00:12:39.000 --> 00:12:42.069 align:start position:0%
+ 
+and<00:12:40.000><c> it's</c><00:12:40.240><c> taking</c><00:12:40.480><c> a</c>
+
+00:12:42.069 --> 00:12:42.079 align:start position:0%
+and it's taking a
+ 
+
+00:12:42.079 --> 00:12:47.829 align:start position:0%
+and it's taking a
+bit<00:12:43.279><c> okay</c><00:12:44.279><c> I'm</c><00:12:44.480><c> really</c>
+
+00:12:47.829 --> 00:12:47.839 align:start position:0%
+ 
+ 
+
+00:12:47.839 --> 00:12:49.949 align:start position:0%
+ 
+sad<00:12:48.839><c> and</c><00:12:48.959><c> you</c><00:12:49.040><c> can</c><00:12:49.199><c> do</c><00:12:49.360><c> you</c><00:12:49.440><c> can</c><00:12:49.519><c> do</c><00:12:49.680><c> even</c><00:12:49.800><c> more</c>
+
+00:12:49.949 --> 00:12:49.959 align:start position:0%
+sad and you can do you can do even more
+ 
+
+00:12:49.959 --> 00:12:51.590 align:start position:0%
+sad and you can do you can do even more
+fun<00:12:50.160><c> things</c><00:12:50.360><c> like</c><00:12:50.480><c> you</c><00:12:50.560><c> can</c><00:12:50.680><c> try</c><00:12:50.839><c> to</c><00:12:51.079><c> add</c><00:12:51.440><c> like</c>
+
+00:12:51.590 --> 00:12:51.600 align:start position:0%
+fun things like you can try to add like
+ 
+
+00:12:51.600 --> 00:12:53.550 align:start position:0%
+fun things like you can try to add like
+here's<00:12:51.839><c> a</c><00:12:52.079><c> photo</c><00:12:52.360><c> of</c><00:12:52.440><c> a</c><00:12:52.560><c> beach</c><00:12:53.279><c> I'm</c><00:12:53.399><c> going</c><00:12:53.480><c> to</c>
+
+00:12:53.550 --> 00:12:53.560 align:start position:0%
+here's a photo of a beach I'm going to
+ 
+
+00:12:53.560 --> 00:12:55.790 align:start position:0%
+here's a photo of a beach I'm going to
+try<00:12:53.680><c> to</c><00:12:53.880><c> add</c><00:12:54.079><c> some</c><00:12:54.320><c> some</c><00:12:54.560><c> beach</c><00:12:55.240><c> in</c><00:12:55.440><c> this</c><00:12:55.639><c> this</c>
+
+00:12:55.790 --> 00:12:55.800 align:start position:0%
+try to add some some beach in this this
+ 
+
+00:12:55.800 --> 00:12:57.710 align:start position:0%
+try to add some some beach in this this
+time<00:12:55.959><c> maybe</c><00:12:56.160><c> just</c><00:12:56.279><c> generate</c><00:12:56.639><c> four</c><00:12:57.240><c> for</c><00:12:57.399><c> a</c><00:12:57.560><c> sake</c>
+
+00:12:57.710 --> 00:12:57.720 align:start position:0%
+time maybe just generate four for a sake
+ 
+
+00:12:57.720 --> 00:12:59.990 align:start position:0%
+time maybe just generate four for a sake
+of<00:12:57.959><c> time</c>
+
+00:12:59.990 --> 00:13:00.000 align:start position:0%
+of time
+ 
+
+00:13:00.000 --> 00:13:02.189 align:start position:0%
+of time
+um<00:13:01.000><c> or</c><00:13:01.160><c> maybe</c><00:13:01.399><c> there's</c><00:13:01.519><c> a</c><00:13:01.639><c> bug</c><00:13:01.839><c> and</c><00:13:01.920><c> it</c><00:13:02.040><c> won't</c>
+
+00:13:02.189 --> 00:13:02.199 align:start position:0%
+um or maybe there's a bug and it won't
+ 
+
+00:13:02.199 --> 00:13:12.710 align:start position:0%
+um or maybe there's a bug and it won't
+let<00:13:02.279><c> me</c>
+
+00:13:12.710 --> 00:13:12.720 align:start position:0%
+ 
+ 
+
+00:13:12.720 --> 00:13:14.710 align:start position:0%
+ 
+generate<00:13:13.720><c> so</c><00:13:13.839><c> in</c><00:13:13.959><c> all</c><00:13:14.079><c> these</c><00:13:14.199><c> demos</c><00:13:14.480><c> that</c><00:13:14.560><c> I've</c>
+
+00:13:14.710 --> 00:13:14.720 align:start position:0%
+generate so in all these demos that I've
+ 
+
+00:13:14.720 --> 00:13:16.910 align:start position:0%
+generate so in all these demos that I've
+done<00:13:14.920><c> both</c><00:13:15.040><c> in</c><00:13:15.120><c> the</c><00:13:15.199><c> text</c><00:13:15.399><c> and</c><00:13:15.560><c> image</c><00:13:15.920><c> domain</c>
+
+00:13:16.910 --> 00:13:16.920 align:start position:0%
+done both in the text and image domain
+ 
+
+00:13:16.920 --> 00:13:18.310 align:start position:0%
+done both in the text and image domain
+okay<00:13:17.040><c> the</c><00:13:17.160><c> beach</c><00:13:17.360><c> didn't</c><00:13:17.560><c> quite</c><00:13:17.720><c> survive</c><00:13:18.079><c> the</c>
+
+00:13:18.310 --> 00:13:18.320 align:start position:0%
+okay the beach didn't quite survive the
+ 
+
+00:13:18.320 --> 00:13:20.310 align:start position:0%
+okay the beach didn't quite survive the
+uh<00:13:18.560><c> the</c><00:13:18.680><c> lat</c><00:13:18.839><c> and</c><00:13:18.959><c> space</c><00:13:19.160><c> arithmetic</c><00:13:19.920><c> but</c><00:13:20.199><c> uh</c>
+
+00:13:20.310 --> 00:13:20.320 align:start position:0%
+uh the lat and space arithmetic but uh
+ 
+
+00:13:20.320 --> 00:13:22.509 align:start position:0%
+uh the lat and space arithmetic but uh
+in<00:13:20.440><c> all</c><00:13:20.600><c> these</c><00:13:20.800><c> all</c><00:13:20.959><c> these</c><00:13:21.639><c> demos</c><00:13:22.279><c> the</c><00:13:22.399><c> only</c>
+
+00:13:22.509 --> 00:13:22.519 align:start position:0%
+in all these all these demos the only
+ 
+
+00:13:22.519 --> 00:13:24.150 align:start position:0%
+in all these all these demos the only
+thing<00:13:22.720><c> I'm</c><00:13:22.880><c> doing</c><00:13:23.079><c> is</c><00:13:23.240><c> calculating</c><00:13:23.760><c> vectors</c>
+
+00:13:24.150 --> 00:13:24.160 align:start position:0%
+thing I'm doing is calculating vectors
+ 
+
+00:13:24.160 --> 00:13:26.670 align:start position:0%
+thing I'm doing is calculating vectors
+calculating<00:13:24.560><c> embeddings</c><00:13:25.000><c> for</c><00:13:25.279><c> examples</c><00:13:26.279><c> and</c>
+
+00:13:26.670 --> 00:13:26.680 align:start position:0%
+calculating embeddings for examples and
+ 
+
+00:13:26.680 --> 00:13:28.470 align:start position:0%
+calculating embeddings for examples and
+uh<00:13:27.120><c> and</c><00:13:27.240><c> embedding</c><00:13:27.680><c> them</c><00:13:27.880><c> and</c><00:13:28.079><c> just</c><00:13:28.240><c> adding</c>
+
+00:13:28.470 --> 00:13:28.480 align:start position:0%
+uh and embedding them and just adding
+ 
+
+00:13:28.480 --> 00:13:30.230 align:start position:0%
+uh and embedding them and just adding
+them<00:13:28.959><c> together</c><00:13:29.399><c> and</c><00:13:29.639><c> some</c><00:13:30.000><c> with</c><00:13:30.120><c> some</c>
+
+00:13:30.230 --> 00:13:30.240 align:start position:0%
+them together and some with some
+ 
+
+00:13:30.240 --> 00:13:31.670 align:start position:0%
+them together and some with some
+normalization<00:13:30.880><c> and</c><00:13:31.000><c> it's</c><00:13:31.120><c> surprising</c><00:13:31.519><c> that</c>
+
+00:13:31.670 --> 00:13:31.680 align:start position:0%
+normalization and it's surprising that
+ 
+
+00:13:31.680 --> 00:13:33.269 align:start position:0%
+normalization and it's surprising that
+just<00:13:31.800><c> by</c><00:13:31.920><c> doing</c><00:13:32.240><c> that</c><00:13:32.639><c> you</c><00:13:32.760><c> can</c><00:13:33.040><c> try</c><00:13:33.160><c> to</c>
+
+00:13:33.269 --> 00:13:33.279 align:start position:0%
+just by doing that you can try to
+ 
+
+00:13:33.279 --> 00:13:34.870 align:start position:0%
+just by doing that you can try to
+manipulate<00:13:33.880><c> um</c><00:13:34.000><c> interesting</c><00:13:34.320><c> features</c><00:13:34.800><c> in</c>
+
+00:13:34.870 --> 00:13:34.880 align:start position:0%
+manipulate um interesting features in
+ 
+
+00:13:34.880 --> 00:13:37.310 align:start position:0%
+manipulate um interesting features in
+text<00:13:35.120><c> and</c><00:13:35.600><c> images</c><00:13:36.600><c> and</c><00:13:36.839><c> with</c><00:13:37.000><c> this</c><00:13:37.120><c> you</c><00:13:37.199><c> can</c>
+
+00:13:37.310 --> 00:13:37.320 align:start position:0%
+text and images and with this you can
+ 
+
+00:13:37.320 --> 00:13:39.629 align:start position:0%
+text and images and with this you can
+also<00:13:37.519><c> do</c><00:13:37.680><c> things</c><00:13:37.959><c> like</c><00:13:38.639><c> at</c><00:13:38.920><c> style</c><00:13:39.160><c> and</c><00:13:39.360><c> subject</c>
+
+00:13:39.629 --> 00:13:39.639 align:start position:0%
+also do things like at style and subject
+ 
+
+00:13:39.639 --> 00:13:41.790 align:start position:0%
+also do things like at style and subject
+at<00:13:39.760><c> the</c><00:13:39.839><c> same</c><00:13:40.120><c> time</c><00:13:40.800><c> you</c><00:13:40.959><c> can</c><00:13:41.279><c> uh</c><00:13:41.399><c> this</c><00:13:41.480><c> is</c><00:13:41.639><c> a</c>
+
+00:13:41.790 --> 00:13:41.800 align:start position:0%
+at the same time you can uh this is a
+ 
+
+00:13:41.800 --> 00:13:43.230 align:start position:0%
+at the same time you can uh this is a
+cool<00:13:41.959><c> image</c><00:13:42.199><c> that</c><00:13:42.320><c> I</c><00:13:42.399><c> thought</c><00:13:42.720><c> I</c><00:13:42.839><c> generated</c>
+
+00:13:43.230 --> 00:13:43.240 align:start position:0%
+cool image that I thought I generated
+ 
+
+00:13:43.240 --> 00:13:44.470 align:start position:0%
+cool image that I thought I generated
+when<00:13:43.360><c> I</c><00:13:43.560><c> my</c><00:13:43.680><c> first</c><00:13:43.839><c> demo</c><00:13:44.079><c> and</c><00:13:44.199><c> then</c><00:13:44.279><c> you</c><00:13:44.360><c> can</c>
+
+00:13:44.470 --> 00:13:44.480 align:start position:0%
+when I my first demo and then you can
+ 
+
+00:13:44.480 --> 00:13:46.150 align:start position:0%
+when I my first demo and then you can
+also<00:13:44.680><c> do</c><00:13:45.079><c> some</c><00:13:45.240><c> pretty</c><00:13:45.480><c> smooth</c><00:13:45.760><c> transitions</c>
+
+00:13:46.150 --> 00:13:46.160 align:start position:0%
+also do some pretty smooth transitions
+ 
+
+00:13:46.160 --> 00:13:48.189 align:start position:0%
+also do some pretty smooth transitions
+between<00:13:46.399><c> landscape</c>
+
+00:13:48.189 --> 00:13:48.199 align:start position:0%
+between landscape
+ 
+
+00:13:48.199 --> 00:13:50.670 align:start position:0%
+between landscape
+imagery
+
+00:13:50.670 --> 00:13:50.680 align:start position:0%
+imagery
+ 
+
+00:13:50.680 --> 00:13:54.189 align:start position:0%
+imagery
+so<00:13:51.680><c> that's</c><00:13:52.000><c> interesting</c><00:13:53.000><c> um</c><00:13:53.759><c> in</c><00:13:53.880><c> all</c><00:13:54.040><c> these</c>
+
+00:13:54.189 --> 00:13:54.199 align:start position:0%
+so that's interesting um in all these
+ 
+
+00:13:54.199 --> 00:13:55.949 align:start position:0%
+so that's interesting um in all these
+prototypes<00:13:54.759><c> one</c><00:13:54.959><c> principle</c><00:13:55.320><c> that</c><00:13:55.440><c> I've</c><00:13:55.639><c> tried</c>
+
+00:13:55.949 --> 00:13:55.959 align:start position:0%
+prototypes one principle that I've tried
+ 
+
+00:13:55.959 --> 00:13:58.829 align:start position:0%
+prototypes one principle that I've tried
+to<00:13:56.560><c> reiterate</c><00:13:57.160><c> to</c><00:13:57.399><c> myself</c><00:13:58.240><c> is</c><00:13:58.360><c> that</c><00:13:58.480><c> often</c>
+
+00:13:58.829 --> 00:13:58.839 align:start position:0%
+to reiterate to myself is that often
+ 
+
+00:13:58.839 --> 00:14:00.509 align:start position:0%
+to reiterate to myself is that often
+times<00:13:58.959><c> when</c><00:13:59.040><c> you're</c><00:13:59.160><c> studying</c><00:13:59.480><c> this</c><00:13:59.720><c> very</c>
+
+00:14:00.509 --> 00:14:00.519 align:start position:0%
+times when you're studying this very
+ 
+
+00:14:00.519 --> 00:14:04.069 align:start position:0%
+times when you're studying this very
+complex<00:14:01.199><c> sophisticated</c><00:14:02.199><c> um</c><00:14:03.040><c> models</c><00:14:03.959><c> you</c>
+
+00:14:04.069 --> 00:14:04.079 align:start position:0%
+complex sophisticated um models you
+ 
+
+00:14:04.079 --> 00:14:05.150 align:start position:0%
+complex sophisticated um models you
+don't<00:14:04.320><c> really</c><00:14:04.480><c> necessarily</c><00:14:04.920><c> have</c><00:14:05.040><c> the</c>
+
+00:14:05.150 --> 00:14:05.160 align:start position:0%
+don't really necessarily have the
+ 
+
+00:14:05.160 --> 00:14:06.470 align:start position:0%
+don't really necessarily have the
+ability<00:14:05.440><c> to</c><00:14:05.560><c> look</c><00:14:05.720><c> inside</c><00:14:06.000><c> and</c><00:14:06.079><c> say</c><00:14:06.320><c> okay</c>
+
+00:14:06.470 --> 00:14:06.480 align:start position:0%
+ability to look inside and say okay
+ 
+
+00:14:06.480 --> 00:14:07.590 align:start position:0%
+ability to look inside and say okay
+what's<00:14:06.639><c> what</c><00:14:06.839><c> what's</c><00:14:07.000><c> happening</c><00:14:07.320><c> not</c><00:14:07.440><c> even</c>
+
+00:14:07.590 --> 00:14:07.600 align:start position:0%
+what's what what's happening not even
+ 
+
+00:14:07.600 --> 00:14:08.990 align:start position:0%
+what's what what's happening not even
+get<00:14:07.759><c> an</c><00:14:07.880><c> intuitive</c><00:14:08.440><c> understand</c><00:14:08.680><c> even</c><00:14:08.800><c> getting</c>
+
+00:14:08.990 --> 00:14:09.000 align:start position:0%
+get an intuitive understand even getting
+ 
+
+00:14:09.000 --> 00:14:10.949 align:start position:0%
+get an intuitive understand even getting
+an<00:14:09.120><c> intuitive</c><00:14:09.720><c> understanding</c><00:14:10.360><c> of</c><00:14:10.680><c> what</c><00:14:10.759><c> is</c><00:14:10.880><c> a</c>
+
+00:14:10.949 --> 00:14:10.959 align:start position:0%
+an intuitive understanding of what is a
+ 
+
+00:14:10.959 --> 00:14:12.069 align:start position:0%
+an intuitive understanding of what is a
+model<00:14:11.160><c> thinking</c><00:14:11.399><c> what</c><00:14:11.480><c> is</c><00:14:11.600><c> a</c><00:14:11.639><c> model</c><00:14:11.880><c> looking</c>
+
+00:14:12.069 --> 00:14:12.079 align:start position:0%
+model thinking what is a model looking
+ 
+
+00:14:12.079 --> 00:14:13.670 align:start position:0%
+model thinking what is a model looking
+at<00:14:12.279><c> can</c><00:14:12.399><c> be</c><00:14:12.759><c> difficult</c><00:14:12.959><c> and</c><00:14:13.120><c> I</c><00:14:13.199><c> think</c><00:14:13.560><c> these</c>
+
+00:14:13.670 --> 00:14:13.680 align:start position:0%
+at can be difficult and I think these
+ 
+
+00:14:13.680 --> 00:14:14.710 align:start position:0%
+at can be difficult and I think these
+are<00:14:13.800><c> some</c><00:14:13.920><c> of</c><00:14:14.000><c> the</c><00:14:14.079><c> ways</c><00:14:14.240><c> that</c><00:14:14.320><c> I've</c><00:14:14.440><c> tried</c><00:14:14.600><c> to</c>
+
+00:14:14.710 --> 00:14:14.720 align:start position:0%
+are some of the ways that I've tried to
+ 
+
+00:14:14.720 --> 00:14:16.629 align:start position:0%
+are some of the ways that I've tried to
+render<00:14:15.000><c> the</c><00:14:15.279><c> these</c><00:14:15.480><c> invisible</c><00:14:16.240><c> parts</c><00:14:16.480><c> of</c><00:14:16.560><c> the</c>
+
+00:14:16.629 --> 00:14:16.639 align:start position:0%
+render the these invisible parts of the
+ 
+
+00:14:16.639 --> 00:14:18.509 align:start position:0%
+render the these invisible parts of the
+model<00:14:16.880><c> a</c><00:14:16.959><c> little</c><00:14:17.079><c> bit</c><00:14:17.199><c> more</c><00:14:17.399><c> visible</c><00:14:18.079><c> to</c><00:14:18.360><c> let</c>
+
+00:14:18.509 --> 00:14:18.519 align:start position:0%
+model a little bit more visible to let
+ 
+
+00:14:18.519 --> 00:14:20.310 align:start position:0%
+model a little bit more visible to let
+you<00:14:19.079><c> more</c><00:14:19.360><c> a</c><00:14:19.440><c> little</c><00:14:19.600><c> bit</c><00:14:19.720><c> more</c><00:14:19.880><c> directly</c>
+
+00:14:20.310 --> 00:14:20.320 align:start position:0%
+you more a little bit more directly
+ 
+
+00:14:20.320 --> 00:14:23.389 align:start position:0%
+you more a little bit more directly
+observe<00:14:20.880><c> exactly</c><00:14:21.160><c> what</c><00:14:21.279><c> the</c><00:14:21.360><c> model</c><00:14:21.639><c> is</c><00:14:22.120><c> um</c><00:14:22.680><c> the</c>
+
+00:14:23.389 --> 00:14:23.399 align:start position:0%
+observe exactly what the model is um the
+ 
+
+00:14:23.399 --> 00:14:24.749 align:start position:0%
+observe exactly what the model is um the
+representations<00:14:24.000><c> the</c><00:14:24.079><c> model</c><00:14:24.320><c> is</c><00:14:24.440><c> operating</c>
+
+00:14:24.749 --> 00:14:24.759 align:start position:0%
+representations the model is operating
+ 
+
+00:14:24.759 --> 00:14:26.790 align:start position:0%
+representations the model is operating
+in<00:14:25.480><c> and</c><00:14:25.759><c> sometimes</c><00:14:25.959><c> you</c><00:14:26.079><c> can</c><00:14:26.199><c> also</c><00:14:26.399><c> take</c><00:14:26.639><c> those</c>
+
+00:14:26.790 --> 00:14:26.800 align:start position:0%
+in and sometimes you can also take those
+ 
+
+00:14:26.800 --> 00:14:29.150 align:start position:0%
+in and sometimes you can also take those
+and<00:14:27.440><c> directly</c><00:14:27.880><c> interact</c><00:14:28.240><c> or</c><00:14:28.360><c> let</c><00:14:28.880><c> directly</c>
+
+00:14:29.150 --> 00:14:29.160 align:start position:0%
+and directly interact or let directly
+ 
+
+00:14:29.160 --> 00:14:31.110 align:start position:0%
+and directly interact or let directly
+interact<00:14:29.560><c> with</c><00:14:29.639><c> the</c><00:14:29.839><c> representations</c><00:14:30.839><c> to</c>
+
+00:14:31.110 --> 00:14:31.120 align:start position:0%
+interact with the representations to
+ 
+
+00:14:31.120 --> 00:14:33.470 align:start position:0%
+interact with the representations to
+explore<00:14:32.000><c> what</c><00:14:32.120><c> these</c><00:14:32.279><c> faes</c>
+
+00:14:33.470 --> 00:14:33.480 align:start position:0%
+explore what these faes
+ 
+
+00:14:33.480 --> 00:14:35.590 align:start position:0%
+explore what these faes
+represent<00:14:34.480><c> um</c><00:14:34.759><c> and</c><00:14:34.880><c> I</c><00:14:34.959><c> think</c><00:14:35.120><c> there's</c><00:14:35.440><c> there's</c>
+
+00:14:35.590 --> 00:14:35.600 align:start position:0%
+represent um and I think there's there's
+ 
+
+00:14:35.600 --> 00:14:37.430 align:start position:0%
+represent um and I think there's there's
+a<00:14:35.800><c> ton</c><00:14:36.000><c> of</c><00:14:36.240><c> interesting</c><00:14:37.199><c> pretty</c>
+
+00:14:37.430 --> 00:14:37.440 align:start position:0%
+a ton of interesting pretty
+ 
+
+00:14:37.440 --> 00:14:38.749 align:start position:0%
+a ton of interesting pretty
+groundbreaking<00:14:37.920><c> research</c><00:14:38.240><c> that's</c><00:14:38.399><c> happening</c>
+
+00:14:38.749 --> 00:14:38.759 align:start position:0%
+groundbreaking research that's happening
+ 
+
+00:14:38.759 --> 00:14:40.949 align:start position:0%
+groundbreaking research that's happening
+here<00:14:39.480><c> um</c><00:14:39.639><c> on</c><00:14:39.759><c> the</c><00:14:39.880><c> left</c><00:14:40.079><c> here</c><00:14:40.199><c> is</c><00:14:40.320><c> the</c><00:14:40.440><c> AO</c><00:14:40.759><c> World</c>
+
+00:14:40.949 --> 00:14:40.959 align:start position:0%
+here um on the left here is the AO World
+ 
+
+00:14:40.959 --> 00:14:42.870 align:start position:0%
+here um on the left here is the AO World
+model<00:14:41.240><c> paper</c><00:14:41.560><c> which</c><00:14:41.639><c> is</c><00:14:41.759><c> fascinating</c><00:14:42.519><c> neurons</c>
+
+00:14:42.870 --> 00:14:42.880 align:start position:0%
+model paper which is fascinating neurons
+ 
+
+00:14:42.880 --> 00:14:45.350 align:start position:0%
+model paper which is fascinating neurons
+on<00:14:42.959><c> a</c><00:14:43.079><c> hyack</c><00:14:43.839><c> and</c><00:14:43.959><c> then</c><00:14:44.079><c> on</c><00:14:44.199><c> the</c><00:14:44.320><c> right</c><00:14:44.560><c> is</c><00:14:45.160><c> very</c>
+
+00:14:45.350 --> 00:14:45.360 align:start position:0%
+on a hyack and then on the right is very
+ 
+
+00:14:45.360 --> 00:14:46.990 align:start position:0%
+on a hyack and then on the right is very
+very<00:14:45.560><c> recent</c><00:14:45.839><c> I</c><00:14:45.959><c> had</c><00:14:46.079><c> to</c><00:14:46.320><c> add</c><00:14:46.480><c> this</c><00:14:46.560><c> in</c><00:14:46.800><c> last</c>
+
+00:14:46.990 --> 00:14:47.000 align:start position:0%
+very recent I had to add this in last
+ 
+
+00:14:47.000 --> 00:14:48.990 align:start position:0%
+very recent I had to add this in last
+minute<00:14:47.360><c> because</c><00:14:47.519><c> it's</c><00:14:47.759><c> super</c><00:14:48.040><c> relevant</c><00:14:48.800><c> um</c><00:14:48.920><c> in</c>
+
+00:14:48.990 --> 00:14:49.000 align:start position:0%
+minute because it's super relevant um in
+ 
+
+00:14:49.000 --> 00:14:50.430 align:start position:0%
+minute because it's super relevant um in
+a<00:14:49.120><c> lot</c><00:14:49.240><c> of</c><00:14:49.360><c> these</c><00:14:49.519><c> examples</c><00:14:49.880><c> I've</c><00:14:50.040><c> calculated</c>
+
+00:14:50.430 --> 00:14:50.440 align:start position:0%
+a lot of these examples I've calculated
+ 
+
+00:14:50.440 --> 00:14:52.509 align:start position:0%
+a lot of these examples I've calculated
+these<00:14:50.560><c> feature</c><00:14:50.880><c> Dimensions</c><00:14:51.639><c> by</c><00:14:51.839><c> just</c><00:14:52.240><c> giving</c>
+
+00:14:52.509 --> 00:14:52.519 align:start position:0%
+these feature Dimensions by just giving
+ 
+
+00:14:52.519 --> 00:14:54.030 align:start position:0%
+these feature Dimensions by just giving
+examples<00:14:53.000><c> and</c><00:14:53.160><c> calculating</c><00:14:53.560><c> centroids</c>
+
+00:14:54.030 --> 00:14:54.040 align:start position:0%
+examples and calculating centroids
+ 
+
+00:14:54.040 --> 00:14:56.069 align:start position:0%
+examples and calculating centroids
+between<00:14:54.279><c> them</c><00:14:54.519><c> but</c><00:14:54.680><c> here</c><00:14:55.240><c> anthropics</c><00:14:55.880><c> new</c>
+
+00:14:56.069 --> 00:14:56.079 align:start position:0%
+between them but here anthropics new
+ 
+
+00:14:56.079 --> 00:14:57.150 align:start position:0%
+between them but here anthropics new
+work<00:14:56.320><c> along</c><00:14:56.519><c> with</c><00:14:56.639><c> other</c><00:14:56.800><c> work</c><00:14:57.000><c> from</c>
+
+00:14:57.150 --> 00:14:57.160 align:start position:0%
+work along with other work from
+ 
+
+00:14:57.160 --> 00:14:58.829 align:start position:0%
+work along with other work from
+conjecture<00:14:57.560><c> and</c><00:14:57.639><c> other</c><00:14:57.800><c> labs</c><00:14:58.120><c> have</c><00:14:58.240><c> found</c>
+
+00:14:58.829 --> 00:14:58.839 align:start position:0%
+conjecture and other labs have found
+ 
+
+00:14:58.839 --> 00:14:59.990 align:start position:0%
+conjecture and other labs have found
+unsupervised<00:14:59.480><c> ways</c><00:14:59.639><c> to</c><00:14:59.759><c> try</c><00:14:59.880><c> to</c>
+
+00:14:59.990 --> 00:15:00.000 align:start position:0%
+unsupervised ways to try to
+ 
+
+00:15:00.000 --> 00:15:01.189 align:start position:0%
+unsupervised ways to try to
+automatically<00:15:00.560><c> discover</c><00:15:00.720><c> these</c><00:15:00.839><c> Dimensions</c>
+
+00:15:01.189 --> 00:15:01.199 align:start position:0%
+automatically discover these Dimensions
+ 
+
+00:15:01.199 --> 00:15:02.910 align:start position:0%
+automatically discover these Dimensions
+inside<00:15:01.560><c> models</c><00:15:01.839><c> so</c><00:15:01.959><c> that's</c><00:15:02.079><c> super</c><00:15:02.320><c> exciting</c>
+
+00:15:02.910 --> 00:15:02.920 align:start position:0%
+inside models so that's super exciting
+ 
+
+00:15:02.920 --> 00:15:04.749 align:start position:0%
+inside models so that's super exciting
+and<00:15:03.040><c> in</c><00:15:03.160><c> general</c><00:15:03.800><c> I'm</c><00:15:03.959><c> really</c><00:15:04.120><c> excited</c><00:15:04.440><c> to</c><00:15:04.519><c> see</c>
+
+00:15:04.749 --> 00:15:04.759 align:start position:0%
+and in general I'm really excited to see
+ 
+
+00:15:04.759 --> 00:15:07.150 align:start position:0%
+and in general I'm really excited to see
+latent<00:15:05.040><c> spaces</c><00:15:05.399><c> that</c><00:15:05.519><c> appear</c><00:15:05.759><c> to</c><00:15:06.040><c> encode</c><00:15:07.040><c> you</c>
+
+00:15:07.150 --> 00:15:07.160 align:start position:0%
+latent spaces that appear to encode you
+ 
+
+00:15:07.160 --> 00:15:09.110 align:start position:0%
+latent spaces that appear to encode you
+know<00:15:07.639><c> by</c><00:15:07.800><c> some</c><00:15:08.000><c> definition</c><00:15:08.480><c> interpretable</c>
+
+00:15:09.110 --> 00:15:09.120 align:start position:0%
+know by some definition interpretable
+ 
+
+00:15:09.120 --> 00:15:10.509 align:start position:0%
+know by some definition interpretable
+controllable<00:15:09.720><c> representations</c><00:15:10.320><c> of</c><00:15:10.440><c> the</c>
+
+00:15:10.509 --> 00:15:10.519 align:start position:0%
+controllable representations of the
+ 
+
+00:15:10.519 --> 00:15:13.389 align:start position:0%
+controllable representations of the
+models<00:15:11.120><c> input</c><00:15:11.399><c> and</c><00:15:12.000><c> output</c><00:15:13.000><c> um</c><00:15:13.120><c> I</c><00:15:13.160><c> want</c><00:15:13.279><c> to</c>
+
+00:15:13.389 --> 00:15:13.399 align:start position:0%
+models input and output um I want to
+ 
+
+00:15:13.399 --> 00:15:14.350 align:start position:0%
+models input and output um I want to
+talk<00:15:13.519><c> a</c><00:15:13.600><c> little</c><00:15:13.759><c> bit</c><00:15:13.880><c> in</c><00:15:14.000><c> the</c><00:15:14.079><c> last</c><00:15:14.240><c> few</c>
+
+00:15:14.350 --> 00:15:14.360 align:start position:0%
+talk a little bit in the last few
+ 
+
+00:15:14.360 --> 00:15:15.990 align:start position:0%
+talk a little bit in the last few
+minutes<00:15:14.680><c> about</c><00:15:14.880><c> the</c><00:15:14.959><c> models</c><00:15:15.240><c> that</c><00:15:15.360><c> I'm</c><00:15:15.519><c> using</c>
+
+00:15:15.990 --> 00:15:16.000 align:start position:0%
+minutes about the models that I'm using
+ 
+
+00:15:16.000 --> 00:15:18.030 align:start position:0%
+minutes about the models that I'm using
+the<00:15:16.120><c> text</c><00:15:16.360><c> model</c><00:15:16.560><c> is</c><00:15:16.639><c> a</c><00:15:16.800><c> custom</c><00:15:17.079><c> model</c><00:15:17.800><c> um</c><00:15:17.959><c> I</c>
+
+00:15:18.030 --> 00:15:18.040 align:start position:0%
+the text model is a custom model um I
+ 
+
+00:15:18.040 --> 00:15:19.269 align:start position:0%
+the text model is a custom model um I
+won't<00:15:18.240><c> talk</c><00:15:18.480><c> I</c><00:15:18.560><c> won't</c><00:15:18.720><c> go</c><00:15:18.839><c> into</c><00:15:18.959><c> too</c><00:15:19.120><c> much</c>
+
+00:15:19.269 --> 00:15:19.279 align:start position:0%
+won't talk I won't go into too much
+ 
+
+00:15:19.279 --> 00:15:21.949 align:start position:0%
+won't talk I won't go into too much
+detail<00:15:19.600><c> but</c><00:15:19.720><c> it's</c><00:15:19.880><c> fine-tuned</c><00:15:20.480><c> from</c><00:15:20.920><c> uh</c><00:15:21.040><c> T5</c>
+
+00:15:21.949 --> 00:15:21.959 align:start position:0%
+detail but it's fine-tuned from uh T5
+ 
+
+00:15:21.959 --> 00:15:23.790 align:start position:0%
+detail but it's fine-tuned from uh T5
+checkpoint<00:15:22.800><c> with</c><00:15:22.920><c> as</c><00:15:23.000><c> a</c><00:15:23.120><c> d</c><00:15:23.399><c> using</c><00:15:23.600><c> Auto</c>
+
+00:15:23.790 --> 00:15:23.800 align:start position:0%
+checkpoint with as a d using Auto
+ 
+
+00:15:23.800 --> 00:15:24.910 align:start position:0%
+checkpoint with as a d using Auto
+encoder<00:15:24.079><c> it's</c><00:15:24.160><c> an</c><00:15:24.279><c> incoder</c><00:15:24.600><c> decoder</c>
+
+00:15:24.910 --> 00:15:24.920 align:start position:0%
+encoder it's an incoder decoder
+ 
+
+00:15:24.920 --> 00:15:26.550 align:start position:0%
+encoder it's an incoder decoder
+Transformer<00:15:25.360><c> with</c><00:15:25.480><c> some</c><00:15:25.600><c> modifications</c><00:15:26.480><c> that</c>
+
+00:15:26.550 --> 00:15:26.560 align:start position:0%
+Transformer with some modifications that
+ 
+
+00:15:26.560 --> 00:15:29.389 align:start position:0%
+Transformer with some modifications that
+you<00:15:26.680><c> can</c><00:15:26.800><c> see</c><00:15:26.920><c> in</c><00:15:27.000><c> the</c><00:15:27.279><c> code</c><00:15:28.279><c> um</c><00:15:28.839><c> so</c><00:15:29.120><c> here's</c><00:15:29.279><c> a</c>
+
+00:15:29.389 --> 00:15:29.399 align:start position:0%
+you can see in the code um so here's a
+ 
+
+00:15:29.399 --> 00:15:31.110 align:start position:0%
+you can see in the code um so here's a
+general<00:15:29.639><c> Transformer</c><00:15:30.319><c> incoder</c><00:15:30.720><c> on</c><00:15:30.800><c> the</c><00:15:30.880><c> left</c>
+
+00:15:31.110 --> 00:15:31.120 align:start position:0%
+general Transformer incoder on the left
+ 
+
+00:15:31.120 --> 00:15:32.749 align:start position:0%
+general Transformer incoder on the left
+decoder<00:15:31.480><c> on</c><00:15:31.600><c> the</c><00:15:31.720><c> right</c><00:15:32.120><c> I</c><00:15:32.199><c> have</c><00:15:32.319><c> some</c><00:15:32.440><c> pooling</c>
+
+00:15:32.749 --> 00:15:32.759 align:start position:0%
+decoder on the right I have some pooling
+ 
+
+00:15:32.759 --> 00:15:34.150 align:start position:0%
+decoder on the right I have some pooling
+layers<00:15:33.079><c> to</c><00:15:33.199><c> get</c><00:15:33.279><c> an</c><00:15:33.399><c> embedding</c><00:15:33.839><c> this</c><00:15:33.920><c> is</c><00:15:34.040><c> like</c>
+
+00:15:34.150 --> 00:15:34.160 align:start position:0%
+layers to get an embedding this is like
+ 
+
+00:15:34.160 --> 00:15:36.710 align:start position:0%
+layers to get an embedding this is like
+a<00:15:34.279><c> normal</c><00:15:34.600><c> T5</c><00:15:35.240><c> embedding</c><00:15:35.959><c> model</c><00:15:36.279><c> stack</c><00:15:36.560><c> and</c>
+
+00:15:36.710 --> 00:15:36.720 align:start position:0%
+a normal T5 embedding model stack and
+ 
+
+00:15:36.720 --> 00:15:38.350 align:start position:0%
+a normal T5 embedding model stack and
+then<00:15:36.839><c> on</c><00:15:36.959><c> the</c><00:15:37.120><c> right</c><00:15:37.639><c> I</c><00:15:37.759><c> have</c><00:15:37.880><c> this</c><00:15:38.079><c> special</c>
+
+00:15:38.350 --> 00:15:38.360 align:start position:0%
+then on the right I have this special
+ 
+
+00:15:38.360 --> 00:15:40.430 align:start position:0%
+then on the right I have this special
+kind<00:15:38.480><c> of</c><00:15:38.639><c> gated</c><00:15:39.360><c> layer</c><00:15:39.759><c> that</c><00:15:39.920><c> pulls</c><00:15:40.199><c> from</c><00:15:40.319><c> the</c>
+
+00:15:40.430 --> 00:15:40.440 align:start position:0%
+kind of gated layer that pulls from the
+ 
+
+00:15:40.440 --> 00:15:43.069 align:start position:0%
+kind of gated layer that pulls from the
+embedding<00:15:40.839><c> to</c><00:15:41.279><c> uh</c><00:15:41.759><c> to</c><00:15:42.480><c> decode</c><00:15:42.880><c> from</c><00:15:42.959><c> the</c>
+
+00:15:43.069 --> 00:15:43.079 align:start position:0%
+embedding to uh to decode from the
+ 
+
+00:15:43.079 --> 00:15:44.389 align:start position:0%
+embedding to uh to decode from the
+embedding<00:15:43.600><c> you</c><00:15:43.720><c> can</c><00:15:43.839><c> look</c><00:15:43.920><c> at</c><00:15:44.000><c> the</c><00:15:44.120><c> code</c><00:15:44.319><c> it's</c>
+
+00:15:44.389 --> 00:15:44.399 align:start position:0%
+embedding you can look at the code it's
+ 
+
+00:15:44.399 --> 00:15:47.430 align:start position:0%
+embedding you can look at the code it's
+a<00:15:44.480><c> little</c><00:15:44.680><c> more</c><00:15:45.440><c> uh</c><00:15:45.680><c> easy</c><00:15:45.880><c> to</c><00:15:46.240><c> understand</c><00:15:47.240><c> but</c>
+
+00:15:47.430 --> 00:15:47.440 align:start position:0%
+a little more uh easy to understand but
+ 
+
+00:15:47.440 --> 00:15:48.910 align:start position:0%
+a little more uh easy to understand but
+we<00:15:47.560><c> take</c><00:15:47.759><c> this</c><00:15:47.880><c> model</c><00:15:48.319><c> and</c><00:15:48.399><c> we</c><00:15:48.480><c> can</c><00:15:48.600><c> adapt</c><00:15:48.839><c> it</c>
+
+00:15:48.910 --> 00:15:48.920 align:start position:0%
+we take this model and we can adapt it
+ 
+
+00:15:48.920 --> 00:15:50.670 align:start position:0%
+we take this model and we can adapt it
+to<00:15:49.040><c> other</c><00:15:49.160><c> models</c><00:15:49.519><c> as</c><00:15:49.639><c> well</c><00:15:50.160><c> as</c><00:15:50.279><c> you</c><00:15:50.399><c> saw</c><00:15:50.560><c> with</c>
+
+00:15:50.670 --> 00:15:50.680 align:start position:0%
+to other models as well as you saw with
+ 
+
+00:15:50.680 --> 00:15:53.269 align:start position:0%
+to other models as well as you saw with
+the<00:15:50.800><c> open</c><00:15:51.000><c> AI</c><00:15:51.680><c> embedding</c><00:15:52.079><c> recovery</c><00:15:52.480><c> and</c><00:15:52.680><c> so</c><00:15:53.160><c> on</c>
+
+00:15:53.269 --> 00:15:53.279 align:start position:0%
+the open AI embedding recovery and so on
+ 
+
+00:15:53.279 --> 00:15:54.670 align:start position:0%
+the open AI embedding recovery and so on
+the<00:15:53.399><c> left</c><00:15:53.600><c> is</c><00:15:53.720><c> the</c><00:15:53.839><c> normal</c><00:15:54.079><c> trading</c><00:15:54.360><c> regime</c>
+
+00:15:54.670 --> 00:15:54.680 align:start position:0%
+the left is the normal trading regime
+ 
+
+00:15:54.680 --> 00:15:55.790 align:start position:0%
+the left is the normal trading regime
+where<00:15:54.800><c> you</c><00:15:54.920><c> have</c><00:15:55.000><c> an</c><00:15:55.120><c> encoder</c><00:15:55.519><c> you</c><00:15:55.600><c> get</c><00:15:55.720><c> an</c>
+
+00:15:55.790 --> 00:15:55.800 align:start position:0%
+where you have an encoder you get an
+ 
+
+00:15:55.800 --> 00:15:57.110 align:start position:0%
+where you have an encoder you get an
+embedding<00:15:56.160><c> and</c><00:15:56.240><c> you</c><00:15:56.319><c> try</c><00:15:56.440><c> to</c><00:15:56.519><c> reconstruct</c><00:15:57.000><c> the</c>
+
+00:15:57.110 --> 00:15:57.120 align:start position:0%
+embedding and you try to reconstruct the
+ 
+
+00:15:57.120 --> 00:15:58.910 align:start position:0%
+embedding and you try to reconstruct the
+text<00:15:57.720><c> on</c><00:15:57.839><c> the</c><00:15:58.040><c> right</c><00:15:58.319><c> we</c><00:15:58.440><c> just</c><00:15:58.600><c> just</c><00:15:58.680><c> train</c>
+
+00:15:58.910 --> 00:15:58.920 align:start position:0%
+text on the right we just just train
+ 
+
+00:15:58.920 --> 00:16:00.949 align:start position:0%
+text on the right we just just train
+this<00:15:59.079><c> linear</c><00:15:59.360><c> adapter</c><00:15:59.680><c> layer</c><00:16:00.319><c> to</c><00:16:00.560><c> go</c><00:16:00.720><c> from</c>
+
+00:16:00.949 --> 00:16:00.959 align:start position:0%
+this linear adapter layer to go from
+ 
+
+00:16:00.959 --> 00:16:02.990 align:start position:0%
+this linear adapter layer to go from
+embedding<00:16:01.480><c> of</c><00:16:01.600><c> a</c><00:16:01.720><c> different</c><00:16:01.959><c> model</c><00:16:02.560><c> to</c><00:16:02.800><c> then</c>
+
+00:16:02.990 --> 00:16:03.000 align:start position:0%
+embedding of a different model to then
+ 
+
+00:16:03.000 --> 00:16:05.389 align:start position:0%
+embedding of a different model to then
+reconstruct<00:16:03.519><c> the</c><00:16:03.639><c> text</c><00:16:03.880><c> with</c><00:16:04.000><c> a</c><00:16:04.079><c> normal</c>
+
+00:16:05.389 --> 00:16:05.399 align:start position:0%
+reconstruct the text with a normal
+ 
+
+00:16:05.399 --> 00:16:08.430 align:start position:0%
+reconstruct the text with a normal
+decoder<00:16:06.399><c> um</c><00:16:06.839><c> and</c><00:16:07.160><c> today</c><00:16:07.800><c> I'm</c><00:16:08.000><c> excited</c><00:16:08.319><c> to</c>
+
+00:16:08.430 --> 00:16:08.440 align:start position:0%
+decoder um and today I'm excited to
+ 
+
+00:16:08.440 --> 00:16:09.749 align:start position:0%
+decoder um and today I'm excited to
+share<00:16:08.800><c> that</c><00:16:09.000><c> these</c><00:16:09.160><c> models</c><00:16:09.480><c> that</c><00:16:09.560><c> I've</c><00:16:09.680><c> been</c>
+
+00:16:09.749 --> 00:16:09.759 align:start position:0%
+share that these models that I've been
+ 
+
+00:16:09.759 --> 00:16:11.430 align:start position:0%
+share that these models that I've been
+deing<00:16:10.120><c> with</c><00:16:10.680><c> uh</c><00:16:10.800><c> that</c><00:16:10.880><c> you</c><00:16:11.000><c> may</c><00:16:11.079><c> have</c><00:16:11.199><c> asked</c>
+
+00:16:11.430 --> 00:16:11.440 align:start position:0%
+deing with uh that you may have asked
+ 
+
+00:16:11.440 --> 00:16:13.670 align:start position:0%
+deing with uh that you may have asked
+about<00:16:11.720><c> before</c><00:16:12.279><c> are</c><00:16:12.720><c> open</c><00:16:12.959><c> on</c><00:16:13.079><c> hogging</c><00:16:13.399><c> face</c><00:16:13.600><c> so</c>
+
+00:16:13.670 --> 00:16:13.680 align:start position:0%
+about before are open on hogging face so
+ 
+
+00:16:13.680 --> 00:16:14.710 align:start position:0%
+about before are open on hogging face so
+you<00:16:13.720><c> can</c><00:16:13.839><c> go</c><00:16:13.959><c> download</c><00:16:14.199><c> them</c><00:16:14.279><c> and</c><00:16:14.360><c> try</c><00:16:14.600><c> them</c>
+
+00:16:14.710 --> 00:16:14.720 align:start position:0%
+you can go download them and try them
+ 
+
+00:16:14.720 --> 00:16:16.870 align:start position:0%
+you can go download them and try them
+out<00:16:14.920><c> now</c><00:16:15.480><c> uh</c><00:16:15.560><c> these</c><00:16:15.680><c> are</c><00:16:15.839><c> the</c><00:16:15.920><c> links</c><00:16:16.680><c> on</c><00:16:16.759><c> the</c>
+
+00:16:16.870 --> 00:16:16.880 align:start position:0%
+out now uh these are the links on the
+ 
+
+00:16:16.880 --> 00:16:18.189 align:start position:0%
+out now uh these are the links on the
+left<00:16:17.079><c> is</c><00:16:17.199><c> the</c><00:16:17.319><c> hug</c><00:16:17.519><c> face</c><00:16:17.680><c> models</c><00:16:18.000><c> and</c><00:16:18.079><c> then</c>
+
+00:16:18.189 --> 00:16:18.199 align:start position:0%
+left is the hug face models and then
+ 
+
+00:16:18.199 --> 00:16:19.829 align:start position:0%
+left is the hug face models and then
+there's<00:16:18.319><c> a</c><00:16:18.440><c> collab</c><00:16:18.800><c> notebook</c><00:16:19.160><c> that</c><00:16:19.279><c> lets</c><00:16:19.480><c> you</c>
+
+00:16:19.829 --> 00:16:19.839 align:start position:0%
+there's a collab notebook that lets you
+ 
+
+00:16:19.839 --> 00:16:21.269 align:start position:0%
+there's a collab notebook that lets you
+get<00:16:19.959><c> started</c><00:16:20.360><c> really</c><00:16:20.519><c> quickly</c><00:16:20.800><c> try</c><00:16:20.959><c> to</c><00:16:21.120><c> do</c>
+
+00:16:21.269 --> 00:16:21.279 align:start position:0%
+get started really quickly try to do
+ 
+
+00:16:21.279 --> 00:16:22.749 align:start position:0%
+get started really quickly try to do
+things<00:16:21.519><c> like</c><00:16:21.680><c> interpolation</c><00:16:22.639><c> and</c>
+
+00:16:22.749 --> 00:16:22.759 align:start position:0%
+things like interpolation and
+ 
+
+00:16:22.759 --> 00:16:24.870 align:start position:0%
+things like interpolation and
+interpretation<00:16:23.240><c> of</c><00:16:23.399><c> these</c><00:16:23.519><c> features</c><00:16:24.360><c> and</c><00:16:24.519><c> so</c>
+
+00:16:24.870 --> 00:16:24.880 align:start position:0%
+interpretation of these features and so
+ 
+
+00:16:24.880 --> 00:16:26.509 align:start position:0%
+interpretation of these features and so
+if<00:16:24.959><c> you</c><00:16:25.079><c> find</c><00:16:25.319><c> any</c><00:16:25.519><c> interesting</c><00:16:26.000><c> results</c><00:16:26.319><c> with</c>
+
+00:16:26.509 --> 00:16:26.519 align:start position:0%
+if you find any interesting results with
+ 
+
+00:16:26.519 --> 00:16:28.110 align:start position:0%
+if you find any interesting results with
+these<00:16:26.880><c> please</c><00:16:27.079><c> let</c><00:16:27.199><c> me</c><00:16:27.360><c> know</c><00:16:27.560><c> and</c><00:16:27.920><c> and</c><00:16:28.000><c> if</c><00:16:28.040><c> you</c>
+
+00:16:28.110 --> 00:16:28.120 align:start position:0%
+these please let me know and and if you
+ 
+
+00:16:28.120 --> 00:16:29.550 align:start position:0%
+these please let me know and and if you
+have<00:16:28.240><c> any</c><00:16:28.519><c> questions</c><00:16:28.839><c> also</c><00:16:29.079><c> reach</c><00:16:29.279><c> out</c><00:16:29.440><c> and</c>
+
+00:16:29.550 --> 00:16:29.560 align:start position:0%
+have any questions also reach out and
+ 
+
+00:16:29.560 --> 00:16:31.829 align:start position:0%
+have any questions also reach out and
+I'll<00:16:29.680><c> be</c><00:16:29.800><c> able</c><00:16:30.000><c> to</c><00:16:30.399><c> help</c><00:16:30.560><c> you</c><00:16:30.720><c> out</c><00:16:31.519><c> the</c><00:16:31.600><c> image</c>
+
+00:16:31.829 --> 00:16:31.839 align:start position:0%
+I'll be able to help you out the image
+ 
+
+00:16:31.839 --> 00:16:33.389 align:start position:0%
+I'll be able to help you out the image
+model<00:16:32.079><c> that</c><00:16:32.199><c> I</c><00:16:32.240><c> was</c><00:16:32.360><c> using</c><00:16:32.560><c> at</c><00:16:32.680><c> the</c><00:16:32.759><c> end</c><00:16:32.920><c> wasow</c>
+
+00:16:33.389 --> 00:16:33.399 align:start position:0%
+model that I was using at the end wasow
+ 
+
+00:16:33.399 --> 00:16:36.829 align:start position:0%
+model that I was using at the end wasow
+brain<00:16:33.839><c> Carlo</c><00:16:34.839><c> excited</c><00:16:35.160><c> to</c><00:16:35.279><c> see</c><00:16:35.680><c> Korea</c><00:16:36.639><c> um</c>
+
+00:16:36.829 --> 00:16:36.839 align:start position:0%
+brain Carlo excited to see Korea um
+ 
+
+00:16:36.839 --> 00:16:38.550 align:start position:0%
+brain Carlo excited to see Korea um
+stepping<00:16:37.199><c> out</c><00:16:37.480><c> there</c><00:16:37.839><c> in</c><00:16:37.959><c> this</c><00:16:38.079><c> model</c><00:16:38.440><c> this</c>
+
+00:16:38.550 --> 00:16:38.560 align:start position:0%
+stepping out there in this model this
+ 
+
+00:16:38.560 --> 00:16:40.629 align:start position:0%
+stepping out there in this model this
+model<00:16:38.759><c> is</c><00:16:38.839><c> an</c><00:16:38.959><c> uncp</c><00:16:39.399><c> model</c><00:16:39.720><c> which</c><00:16:39.839><c> is</c><00:16:40.279><c> trained</c>
+
+00:16:40.629 --> 00:16:40.639 align:start position:0%
+model is an uncp model which is trained
+ 
+
+00:16:40.639 --> 00:16:42.269 align:start position:0%
+model is an uncp model which is trained
+kind<00:16:40.759><c> of</c><00:16:40.959><c> like</c><00:16:41.319><c> the</c><00:16:41.440><c> way</c><00:16:41.560><c> that</c><00:16:41.680><c> Dolly</c><00:16:41.959><c> 2</c><00:16:42.160><c> was</c>
+
+00:16:42.269 --> 00:16:42.279 align:start position:0%
+kind of like the way that Dolly 2 was
+ 
+
+00:16:42.279 --> 00:16:43.790 align:start position:0%
+kind of like the way that Dolly 2 was
+trained<00:16:42.720><c> as</c><00:16:42.800><c> a</c><00:16:43.079><c> diffusion</c><00:16:43.440><c> model</c><00:16:43.680><c> that's</c>
+
+00:16:43.790 --> 00:16:43.800 align:start position:0%
+trained as a diffusion model that's
+ 
+
+00:16:43.800 --> 00:16:45.269 align:start position:0%
+trained as a diffusion model that's
+trained<00:16:44.079><c> to</c><00:16:44.199><c> invert</c><00:16:44.560><c> clip</c><00:16:44.720><c> embeddings</c><00:16:45.079><c> so</c><00:16:45.199><c> go</c>
+
+00:16:45.269 --> 00:16:45.279 align:start position:0%
+trained to invert clip embeddings so go
+ 
+
+00:16:45.279 --> 00:16:47.030 align:start position:0%
+trained to invert clip embeddings so go
+from<00:16:45.399><c> clip</c><00:16:45.560><c> embeddings</c><00:16:45.880><c> of</c><00:16:46.040><c> images</c><00:16:46.680><c> back</c><00:16:46.839><c> to</c>
+
+00:16:47.030 --> 00:16:47.040 align:start position:0%
+from clip embeddings of images back to
+ 
+
+00:16:47.040 --> 00:16:49.110 align:start position:0%
+from clip embeddings of images back to
+text<00:16:47.880><c> and</c><00:16:48.000><c> that</c><00:16:48.120><c> lets</c><00:16:48.279><c> us</c><00:16:48.440><c> do</c><00:16:48.600><c> similar</c><00:16:48.920><c> things</c>
+
+00:16:49.110 --> 00:16:49.120 align:start position:0%
+text and that lets us do similar things
+ 
+
+00:16:49.120 --> 00:16:51.670 align:start position:0%
+text and that lets us do similar things
+as<00:16:49.319><c> the</c><00:16:49.440><c> text</c><00:16:49.680><c> model</c><00:16:50.000><c> that</c><00:16:50.319><c> that</c><00:16:50.399><c> we</c>
+
+00:16:51.670 --> 00:16:51.680 align:start position:0%
+as the text model that that we
+ 
+
+00:16:51.680 --> 00:16:54.870 align:start position:0%
+as the text model that that we
+used<00:16:52.680><c> in</c><00:16:52.759><c> all</c><00:16:52.920><c> these</c><00:16:53.279><c> prototyping</c><00:16:54.279><c> I</c><00:16:54.360><c> think</c><00:16:54.759><c> a</c>
+
+00:16:54.870 --> 00:16:54.880 align:start position:0%
+used in all these prototyping I think a
+ 
+
+00:16:54.880 --> 00:16:56.350 align:start position:0%
+used in all these prototyping I think a
+general<00:16:55.199><c> principle</c><00:16:55.639><c> if</c><00:16:55.880><c> if</c><00:16:55.959><c> you</c><00:16:56.040><c> have</c><00:16:56.199><c> one</c>
+
+00:16:56.350 --> 00:16:56.360 align:start position:0%
+general principle if if you have one
+ 
+
+00:16:56.360 --> 00:16:57.990 align:start position:0%
+general principle if if you have one
+takeaway<00:16:56.720><c> from</c><00:16:56.880><c> this</c><00:16:57.040><c> talk</c><00:16:57.360><c> it's</c><00:16:57.600><c> that</c><00:16:57.880><c> when</c>
+
+00:16:57.990 --> 00:16:58.000 align:start position:0%
+takeaway from this talk it's that when
+ 
+
+00:16:58.000 --> 00:16:58.910 align:start position:0%
+takeaway from this talk it's that when
+you're<00:16:58.120><c> working</c><00:16:58.360><c> with</c><00:16:58.480><c> with</c><00:16:58.600><c> these</c><00:16:58.759><c> really</c>
+
+00:16:58.910 --> 00:16:58.920 align:start position:0%
+you're working with with these really
+ 
+
+00:16:58.920 --> 00:17:01.629 align:start position:0%
+you're working with with these really
+complex<00:16:59.240><c> models</c><00:16:59.600><c> and</c><00:17:00.279><c> kind</c><00:17:00.399><c> of</c><00:17:00.639><c> inscrutable</c>
+
+00:17:01.629 --> 00:17:01.639 align:start position:0%
+complex models and kind of inscrutable
+ 
+
+00:17:01.639 --> 00:17:03.590 align:start position:0%
+complex models and kind of inscrutable
+pieces<00:17:01.920><c> of</c><00:17:02.120><c> data</c><00:17:02.759><c> if</c><00:17:02.880><c> you</c><00:17:03.000><c> can</c><00:17:03.160><c> get</c><00:17:03.319><c> something</c>
+
+00:17:03.590 --> 00:17:03.600 align:start position:0%
+pieces of data if you can get something
+ 
+
+00:17:03.600 --> 00:17:04.829 align:start position:0%
+pieces of data if you can get something
+into<00:17:03.800><c> a</c><00:17:03.880><c> thing</c><00:17:04.039><c> that</c><00:17:04.160><c> feels</c><00:17:04.360><c> like</c><00:17:04.480><c> it</c><00:17:04.559><c> can</c><00:17:04.679><c> fit</c>
+
+00:17:04.829 --> 00:17:04.839 align:start position:0%
+into a thing that feels like it can fit
+ 
+
+00:17:04.839 --> 00:17:06.549 align:start position:0%
+into a thing that feels like it can fit
+in<00:17:04.959><c> your</c><00:17:05.079><c> hand</c><00:17:05.280><c> that</c><00:17:05.360><c> you</c><00:17:05.480><c> can</c><00:17:05.679><c> play</c><00:17:05.959><c> with</c><00:17:06.480><c> that</c>
+
+00:17:06.549 --> 00:17:06.559 align:start position:0%
+in your hand that you can play with that
+ 
+
+00:17:06.559 --> 00:17:08.429 align:start position:0%
+in your hand that you can play with that
+you<00:17:06.640><c> can</c><00:17:06.839><c> concretely</c><00:17:07.319><c> see</c><00:17:07.520><c> and</c><00:17:07.760><c> observe</c><00:17:08.280><c> and</c>
+
+00:17:08.429 --> 00:17:08.439 align:start position:0%
+you can concretely see and observe and
+ 
+
+00:17:08.439 --> 00:17:09.630 align:start position:0%
+you can concretely see and observe and
+interact<00:17:08.919><c> with</c><00:17:09.120><c> can</c><00:17:09.199><c> be</c><00:17:09.319><c> directly</c>
+
+00:17:09.630 --> 00:17:09.640 align:start position:0%
+interact with can be directly
+ 
+
+00:17:09.640 --> 00:17:11.789 align:start position:0%
+interact with can be directly
+manipulated<00:17:10.319><c> visualized</c><00:17:11.280><c> all</c><00:17:11.480><c> these</c><00:17:11.640><c> things</c>
+
+00:17:11.789 --> 00:17:11.799 align:start position:0%
+manipulated visualized all these things
+ 
+
+00:17:11.799 --> 00:17:13.110 align:start position:0%
+manipulated visualized all these things
+all<00:17:11.959><c> the</c><00:17:12.079><c> tools</c><00:17:12.400><c> and</c><00:17:12.559><c> prototypes</c><00:17:12.959><c> that</c><00:17:13.039><c> you</c>
+
+00:17:13.110 --> 00:17:13.120 align:start position:0%
+all the tools and prototypes that you
+ 
+
+00:17:13.120 --> 00:17:14.230 align:start position:0%
+all the tools and prototypes that you
+can<00:17:13.199><c> build</c><00:17:13.400><c> around</c><00:17:13.640><c> these</c><00:17:13.760><c> things</c><00:17:14.000><c> I</c><00:17:14.079><c> think</c>
+
+00:17:14.230 --> 00:17:14.240 align:start position:0%
+can build around these things I think
+ 
+
+00:17:14.240 --> 00:17:15.909 align:start position:0%
+can build around these things I think
+help<00:17:14.520><c> us</c><00:17:14.919><c> get</c><00:17:15.039><c> a</c><00:17:15.160><c> deeper</c><00:17:15.640><c> understanding</c><00:17:15.839><c> of</c>
+
+00:17:15.909 --> 00:17:15.919 align:start position:0%
+help us get a deeper understanding of
+ 
+
+00:17:15.919 --> 00:17:17.029 align:start position:0%
+help us get a deeper understanding of
+how<00:17:16.039><c> these</c><00:17:16.160><c> models</c><00:17:16.480><c> work</c><00:17:16.640><c> and</c><00:17:16.720><c> how</c><00:17:16.839><c> we</c><00:17:16.919><c> can</c>
+
+00:17:17.029 --> 00:17:17.039 align:start position:0%
+how these models work and how we can
+ 
+
+00:17:17.039 --> 00:17:19.470 align:start position:0%
+how these models work and how we can
+improve<00:17:17.799><c> them</c>
+
+00:17:19.470 --> 00:17:19.480 align:start position:0%
+improve them
+ 
+
+00:17:19.480 --> 00:17:21.590 align:start position:0%
+improve them
+um<00:17:20.480><c> and</c><00:17:20.559><c> in</c><00:17:20.720><c> that</c><00:17:20.839><c> way</c><00:17:20.919><c> I</c><00:17:21.000><c> think</c><00:17:21.160><c> models</c>
+
+00:17:21.590 --> 00:17:21.600 align:start position:0%
+um and in that way I think models
+ 
+
+00:17:21.600 --> 00:17:22.909 align:start position:0%
+um and in that way I think models
+language<00:17:21.959><c> models</c><00:17:22.240><c> and</c><00:17:22.439><c> image</c><00:17:22.640><c> models</c>
+
+00:17:22.909 --> 00:17:22.919 align:start position:0%
+language models and image models
+ 
+
+00:17:22.919 --> 00:17:24.909 align:start position:0%
+language models and image models
+generation<00:17:23.400><c> generative</c><00:17:23.799><c> models</c><00:17:24.199><c> are</c><00:17:24.720><c> a</c>
+
+00:17:24.909 --> 00:17:24.919 align:start position:0%
+generation generative models are a
+ 
+
+00:17:24.919 --> 00:17:26.470 align:start position:0%
+generation generative models are a
+really<00:17:25.160><c> interesting</c><00:17:25.720><c> laboratory</c><00:17:26.280><c> for</c>
+
+00:17:26.470 --> 00:17:26.480 align:start position:0%
+really interesting laboratory for
+ 
+
+00:17:26.480 --> 00:17:28.549 align:start position:0%
+really interesting laboratory for
+knowledge<00:17:26.799><c> for</c><00:17:27.000><c> studying</c><00:17:27.400><c> how</c><00:17:27.559><c> these</c><00:17:28.160><c> how</c>
+
+00:17:28.549 --> 00:17:28.559 align:start position:0%
+knowledge for studying how these how
+ 
+
+00:17:28.559 --> 00:17:30.830 align:start position:0%
+knowledge for studying how these how
+these<00:17:28.919><c> um</c><00:17:29.679><c> different</c><00:17:29.919><c> kinds</c><00:17:30.120><c> of</c><00:17:30.240><c> modalities</c>
+
+00:17:30.830 --> 00:17:30.840 align:start position:0%
+these um different kinds of modalities
+ 
+
+00:17:30.840 --> 00:17:33.390 align:start position:0%
+these um different kinds of modalities
+can<00:17:30.960><c> be</c><00:17:31.160><c> represented</c><00:17:32.160><c> and</c><00:17:32.520><c> um</c><00:17:32.880><c> Brett</c><00:17:33.120><c> Victor</c>
+
+00:17:33.390 --> 00:17:33.400 align:start position:0%
+can be represented and um Brett Victor
+ 
+
+00:17:33.400 --> 00:17:35.110 align:start position:0%
+can be represented and um Brett Victor
+said<00:17:33.640><c> the</c><00:17:33.760><c> purpose</c><00:17:34.039><c> of</c><00:17:34.120><c> a</c><00:17:34.240><c> thinking</c><00:17:34.480><c> medium</c><00:17:34.960><c> is</c>
+
+00:17:35.110 --> 00:17:35.120 align:start position:0%
+said the purpose of a thinking medium is
+ 
+
+00:17:35.120 --> 00:17:37.190 align:start position:0%
+said the purpose of a thinking medium is
+to<00:17:35.400><c> bring</c><00:17:35.799><c> thought</c><00:17:36.000><c> outside</c><00:17:36.360><c> the</c><00:17:36.520><c> head</c><00:17:36.960><c> to</c>
+
+00:17:37.190 --> 00:17:37.200 align:start position:0%
+to bring thought outside the head to
+ 
+
+00:17:37.200 --> 00:17:38.669 align:start position:0%
+to bring thought outside the head to
+represent<00:17:37.760><c> these</c><00:17:37.919><c> Concepts</c><00:17:38.240><c> in</c><00:17:38.320><c> a</c><00:17:38.400><c> form</c><00:17:38.600><c> that</c>
+
+00:17:38.669 --> 00:17:38.679 align:start position:0%
+represent these Concepts in a form that
+ 
+
+00:17:38.679 --> 00:17:40.070 align:start position:0%
+represent these Concepts in a form that
+can<00:17:38.799><c> be</c><00:17:38.880><c> seen</c><00:17:39.080><c> with</c><00:17:39.200><c> the</c><00:17:39.320><c> senses</c><00:17:39.960><c> and</c>
+
+00:17:40.070 --> 00:17:40.080 align:start position:0%
+can be seen with the senses and
+ 
+
+00:17:40.080 --> 00:17:42.270 align:start position:0%
+can be seen with the senses and
+manipulate<00:17:40.760><c> with</c><00:17:40.880><c> the</c><00:17:41.080><c> body</c><00:17:41.760><c> in</c><00:17:41.880><c> this</c><00:17:42.039><c> way</c><00:17:42.160><c> the</c>
+
+00:17:42.270 --> 00:17:42.280 align:start position:0%
+manipulate with the body in this way the
+ 
+
+00:17:42.280 --> 00:17:44.230 align:start position:0%
+manipulate with the body in this way the
+medium<00:17:42.760><c> is</c><00:17:42.919><c> literally</c><00:17:43.320><c> an</c><00:17:43.480><c> extension</c><00:17:44.000><c> of</c><00:17:44.120><c> the</c>
+
+00:17:44.230 --> 00:17:44.240 align:start position:0%
+medium is literally an extension of the
+ 
+
+00:17:44.240 --> 00:17:46.510 align:start position:0%
+medium is literally an extension of the
+mind<00:17:44.640><c> and</c><00:17:44.720><c> I</c><00:17:44.799><c> think</c><00:17:45.000><c> that's</c><00:17:45.480><c> a</c><00:17:45.720><c> great</c><00:17:46.160><c> poetic</c>
+
+00:17:46.510 --> 00:17:46.520 align:start position:0%
+mind and I think that's a great poetic
+ 
+
+00:17:46.520 --> 00:17:48.789 align:start position:0%
+mind and I think that's a great poetic
+way<00:17:46.679><c> to</c><00:17:47.039><c> kind</c><00:17:47.160><c> of</c><00:17:48.080><c> describe</c><00:17:48.520><c> the</c><00:17:48.679><c> the</c>
+
+00:17:48.789 --> 00:17:48.799 align:start position:0%
+way to kind of describe the the
+ 
+
+00:17:48.799 --> 00:17:49.950 align:start position:0%
+way to kind of describe the the
+philosophy<00:17:49.200><c> that</c><00:17:49.320><c> I've</c><00:17:49.440><c> approached</c><00:17:49.720><c> a</c><00:17:49.760><c> lot</c><00:17:49.880><c> of</c>
+
+00:17:49.950 --> 00:17:49.960 align:start position:0%
+philosophy that I've approached a lot of
+ 
+
+00:17:49.960 --> 00:17:53.110 align:start position:0%
+philosophy that I've approached a lot of
+my<00:17:50.080><c> prototyping</c><00:17:50.919><c> with</c><00:17:51.919><c> so</c><00:17:52.679><c> if</c><00:17:52.760><c> you</c><00:17:52.880><c> follow</c>
+
+00:17:53.110 --> 00:17:53.120 align:start position:0%
+my prototyping with so if you follow
+ 
+
+00:17:53.120 --> 00:17:54.630 align:start position:0%
+my prototyping with so if you follow
+some<00:17:53.200><c> of</c><00:17:53.320><c> these</c><00:17:53.480><c> principles</c><00:17:53.960><c> and</c><00:17:54.080><c> try</c><00:17:54.240><c> to</c><00:17:54.400><c> dig</c>
+
+00:17:54.630 --> 00:17:54.640 align:start position:0%
+some of these principles and try to dig
+ 
+
+00:17:54.640 --> 00:17:55.950 align:start position:0%
+some of these principles and try to dig
+deeper<00:17:54.919><c> in</c><00:17:55.039><c> what</c><00:17:55.120><c> the</c><00:17:55.240><c> models</c><00:17:55.520><c> are</c><00:17:55.679><c> actually</c>
+
+00:17:55.950 --> 00:17:55.960 align:start position:0%
+deeper in what the models are actually
+ 
+
+00:17:55.960 --> 00:17:57.950 align:start position:0%
+deeper in what the models are actually
+looking<00:17:56.240><c> at</c><00:17:56.880><c> build</c><00:17:57.159><c> interfaces</c><00:17:57.640><c> around</c><00:17:57.840><c> them</c>
+
+00:17:57.950 --> 00:17:57.960 align:start position:0%
+looking at build interfaces around them
+ 
+
+00:17:57.960 --> 00:17:59.549 align:start position:0%
+looking at build interfaces around them
+I<00:17:58.039><c> think</c><00:17:58.159><c> more</c><00:17:58.480><c> human</c><00:17:58.880><c> interfaces</c><00:17:59.400><c> to</c>
+
+00:17:59.549 --> 00:17:59.559 align:start position:0%
+I think more human interfaces to
+ 
+
+00:17:59.559 --> 00:18:00.630 align:start position:0%
+I think more human interfaces to
+knowledge<00:17:59.840><c> are</c><00:18:00.000><c> possible</c><00:18:00.320><c> I'm</c><00:18:00.480><c> really</c>
+
+00:18:00.630 --> 00:18:00.640 align:start position:0%
+knowledge are possible I'm really
+ 
+
+00:18:00.640 --> 00:18:02.669 align:start position:0%
+knowledge are possible I'm really
+excited<00:18:01.159><c> to</c><00:18:01.360><c> see</c><00:18:02.000><c> that</c>
+
+00:18:02.669 --> 00:18:02.679 align:start position:0%
+excited to see that
+ 
+
+00:18:02.679 --> 00:18:06.850 align:start position:0%
+excited to see that
+future<00:18:03.679><c> thank</c>
+
+00:18:06.850 --> 00:18:06.860 align:start position:0%
+ 
+ 
+
+00:18:06.860 --> 00:18:13.149 align:start position:0%
+ 
+[Applause]
+
+00:18:13.149 --> 00:18:13.159 align:start position:0%
+ 
+ 
+
+00:18:13.159 --> 00:18:16.159 align:start position:0%
+ 
+you
+

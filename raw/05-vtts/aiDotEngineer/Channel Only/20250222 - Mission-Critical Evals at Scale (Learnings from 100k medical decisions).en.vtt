@@ -1,0 +1,2960 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.480 --> 00:00:02.389 align:start position:0%
+ 
+hi<00:00:00.960><c> my</c><00:00:01.079><c> name</c><00:00:01.160><c> is</c><00:00:01.280><c> Christopher</c><00:00:01.640><c> ljy</c><00:00:02.080><c> and</c><00:00:02.200><c> I'm</c><00:00:02.280><c> a</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+hi my name is Christopher ljy and I'm a
+ 
+
+00:00:02.399 --> 00:00:04.710 align:start position:0%
+hi my name is Christopher ljy and I'm a
+medical<00:00:02.679><c> doctor</c><00:00:03.000><c> turned</c><00:00:03.320><c> AI</c><00:00:03.600><c> engineer</c><00:00:04.440><c> and</c><00:00:04.560><c> in</c>
+
+00:00:04.710 --> 00:00:04.720 align:start position:0%
+medical doctor turned AI engineer and in
+ 
+
+00:00:04.720 --> 00:00:05.910 align:start position:0%
+medical doctor turned AI engineer and in
+this<00:00:04.880><c> talk</c><00:00:05.120><c> I'm</c><00:00:05.200><c> going</c><00:00:05.319><c> to</c><00:00:05.440><c> consider</c><00:00:05.720><c> what</c><00:00:05.839><c> it</c>
+
+00:00:05.910 --> 00:00:05.920 align:start position:0%
+this talk I'm going to consider what it
+ 
+
+00:00:05.920 --> 00:00:07.749 align:start position:0%
+this talk I'm going to consider what it
+means<00:00:06.120><c> to</c><00:00:06.240><c> build</c><00:00:06.440><c> an</c><00:00:06.560><c> eval</c><00:00:06.960><c> system</c><00:00:07.399><c> that</c><00:00:07.520><c> works</c>
+
+00:00:07.749 --> 00:00:07.759 align:start position:0%
+means to build an eval system that works
+ 
+
+00:00:07.759 --> 00:00:09.870 align:start position:0%
+means to build an eval system that works
+at<00:00:08.000><c> scale</c><00:00:08.719><c> and</c><00:00:08.880><c> in</c><00:00:09.000><c> particular</c><00:00:09.559><c> one</c><00:00:09.760><c> that</c>
+
+00:00:09.870 --> 00:00:09.880 align:start position:0%
+at scale and in particular one that
+ 
+
+00:00:09.880 --> 00:00:11.749 align:start position:0%
+at scale and in particular one that
+supports<00:00:10.240><c> Mission</c><00:00:10.559><c> critical</c><00:00:10.960><c> decisions</c><00:00:11.599><c> like</c>
+
+00:00:11.749 --> 00:00:11.759 align:start position:0%
+supports Mission critical decisions like
+ 
+
+00:00:11.759 --> 00:00:13.350 align:start position:0%
+supports Mission critical decisions like
+in<00:00:11.920><c> healthcare</c><00:00:12.559><c> where</c><00:00:12.719><c> there's</c><00:00:12.880><c> no</c><00:00:13.040><c> room</c><00:00:13.240><c> for</c>
+
+00:00:13.350 --> 00:00:13.360 align:start position:0%
+in healthcare where there's no room for
+ 
+
+00:00:13.360 --> 00:00:14.869 align:start position:0%
+in healthcare where there's no room for
+error<00:00:14.040><c> now</c><00:00:14.160><c> this</c><00:00:14.240><c> is</c><00:00:14.360><c> something</c><00:00:14.559><c> we've</c><00:00:14.719><c> had</c><00:00:14.799><c> to</c>
+
+00:00:14.869 --> 00:00:14.879 align:start position:0%
+error now this is something we've had to
+ 
+
+00:00:14.879 --> 00:00:16.710 align:start position:0%
+error now this is something we've had to
+figure<00:00:15.080><c> out</c><00:00:15.200><c> at</c><00:00:15.320><c> anterior</c><00:00:16.000><c> as</c><00:00:16.119><c> we've</c><00:00:16.279><c> scaled</c>
+
+00:00:16.710 --> 00:00:16.720 align:start position:0%
+figure out at anterior as we've scaled
+ 
+
+00:00:16.720 --> 00:00:18.150 align:start position:0%
+figure out at anterior as we've scaled
+to<00:00:16.920><c> now</c><00:00:17.039><c> serve</c><00:00:17.400><c> insurance</c><00:00:17.800><c> providers</c>
+
+00:00:18.150 --> 00:00:18.160 align:start position:0%
+to now serve insurance providers
+ 
+
+00:00:18.160 --> 00:00:20.269 align:start position:0%
+to now serve insurance providers
+covering<00:00:18.439><c> 50</c><00:00:18.680><c> million</c><00:00:18.960><c> American</c><00:00:19.320><c> lives</c><00:00:20.119><c> so</c>
+
+00:00:20.269 --> 00:00:20.279 align:start position:0%
+covering 50 million American lives so
+ 
+
+00:00:20.279 --> 00:00:21.189 align:start position:0%
+covering 50 million American lives so
+I'll<00:00:20.400><c> share</c><00:00:20.600><c> what</c><00:00:20.680><c> we've</c><00:00:20.800><c> learned</c><00:00:21.000><c> in</c><00:00:21.119><c> the</c>
+
+00:00:21.189 --> 00:00:21.199 align:start position:0%
+I'll share what we've learned in the
+ 
+
+00:00:21.199 --> 00:00:23.310 align:start position:0%
+I'll share what we've learned in the
+last<00:00:21.359><c> 18</c><00:00:21.640><c> months</c><00:00:22.480><c> why</c><00:00:22.800><c> real-time</c>
+
+00:00:23.310 --> 00:00:23.320 align:start position:0%
+last 18 months why real-time
+ 
+
+00:00:23.320 --> 00:00:25.150 align:start position:0%
+last 18 months why real-time
+reference-free<00:00:23.840><c> evals</c><00:00:24.439><c> can</c><00:00:24.560><c> be</c><00:00:24.720><c> the</c><00:00:24.840><c> special</c>
+
+00:00:25.150 --> 00:00:25.160 align:start position:0%
+reference-free evals can be the special
+ 
+
+00:00:25.160 --> 00:00:27.509 align:start position:0%
+reference-free evals can be the special
+source<00:00:25.640><c> that</c><00:00:25.760><c> enables</c><00:00:26.160><c> customer</c><00:00:26.519><c> trust</c><00:00:27.320><c> and</c>
+
+00:00:27.509 --> 00:00:27.519 align:start position:0%
+source that enables customer trust and
+ 
+
+00:00:27.519 --> 00:00:30.029 align:start position:0%
+source that enables customer trust and
+how<00:00:27.760><c> you</c><00:00:27.840><c> can</c><00:00:28.000><c> build</c><00:00:28.279><c> them</c><00:00:28.480><c> for</c><00:00:28.640><c> your</c><00:00:28.960><c> company</c>
+
+00:00:30.029 --> 00:00:30.039 align:start position:0%
+how you can build them for your company
+ 
+
+00:00:30.039 --> 00:00:31.269 align:start position:0%
+how you can build them for your company
+so<00:00:30.199><c> we've</c><00:00:30.320><c> all</c><00:00:30.439><c> seen</c><00:00:30.599><c> that</c><00:00:30.679><c> it's</c><00:00:30.840><c> pretty</c><00:00:31.080><c> easy</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+so we've all seen that it's pretty easy
+ 
+
+00:00:31.279 --> 00:00:34.190 align:start position:0%
+so we've all seen that it's pretty easy
+to<00:00:31.439><c> create</c><00:00:31.640><c> an</c><00:00:31.759><c> MVP</c><00:00:32.360><c> product</c><00:00:32.840><c> powered</c><00:00:33.160><c> by</c><00:00:33.280><c> llms</c>
+
+00:00:34.190 --> 00:00:34.200 align:start position:0%
+to create an MVP product powered by llms
+ 
+
+00:00:34.200 --> 00:00:36.069 align:start position:0%
+to create an MVP product powered by llms
+and<00:00:34.320><c> it's</c><00:00:34.480><c> getting</c><00:00:34.840><c> even</c><00:00:35.120><c> easier</c><00:00:35.640><c> as</c><00:00:35.760><c> models</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+and it's getting even easier as models
+ 
+
+00:00:36.079 --> 00:00:38.030 align:start position:0%
+and it's getting even easier as models
+get<00:00:36.200><c> more</c><00:00:36.320><c> and</c><00:00:36.440><c> more</c><00:00:36.760><c> powerful</c><00:00:37.760><c> but</c><00:00:37.879><c> what</c>
+
+00:00:38.030 --> 00:00:38.040 align:start position:0%
+get more and more powerful but what
+ 
+
+00:00:38.040 --> 00:00:39.270 align:start position:0%
+get more and more powerful but what
+about<00:00:38.200><c> going</c><00:00:38.320><c> from</c><00:00:38.480><c> MVP</c><00:00:38.840><c> to</c><00:00:38.960><c> serving</c>
+
+00:00:39.270 --> 00:00:39.280 align:start position:0%
+about going from MVP to serving
+ 
+
+00:00:39.280 --> 00:00:41.389 align:start position:0%
+about going from MVP to serving
+customers<00:00:39.640><c> at</c><00:00:39.800><c> scale</c><00:00:40.800><c> now</c><00:00:40.960><c> there</c><00:00:41.079><c> are</c><00:00:41.200><c> a</c><00:00:41.280><c> lot</c>
+
+00:00:41.389 --> 00:00:41.399 align:start position:0%
+customers at scale now there are a lot
+ 
+
+00:00:41.399 --> 00:00:42.590 align:start position:0%
+customers at scale now there are a lot
+of<00:00:41.559><c> problems</c><00:00:41.879><c> that</c><00:00:42.000><c> you</c><00:00:42.079><c> just</c><00:00:42.200><c> won't</c><00:00:42.399><c> see</c>
+
+00:00:42.590 --> 00:00:42.600 align:start position:0%
+of problems that you just won't see
+ 
+
+00:00:42.600 --> 00:00:44.389 align:start position:0%
+of problems that you just won't see
+until<00:00:42.840><c> you</c><00:00:42.960><c> hit</c><00:00:43.120><c> scale</c><00:00:43.760><c> and</c><00:00:43.879><c> as</c><00:00:44.079><c> request</c>
+
+00:00:44.389 --> 00:00:44.399 align:start position:0%
+until you hit scale and as request
+ 
+
+00:00:44.399 --> 00:00:46.189 align:start position:0%
+until you hit scale and as request
+volume<00:00:44.719><c> increases</c><00:00:45.520><c> so</c><00:00:45.719><c> does</c><00:00:45.840><c> a</c><00:00:45.960><c> number</c><00:00:46.120><c> of</c>
+
+00:00:46.189 --> 00:00:46.199 align:start position:0%
+volume increases so does a number of
+ 
+
+00:00:46.199 --> 00:00:48.110 align:start position:0%
+volume increases so does a number of
+edge<00:00:46.440><c> cases</c><00:00:46.719><c> that</c><00:00:46.800><c> you've</c><00:00:46.960><c> never</c><00:00:47.160><c> seen</c>
+
+00:00:48.110 --> 00:00:48.120 align:start position:0%
+edge cases that you've never seen
+ 
+
+00:00:48.120 --> 00:00:50.150 align:start position:0%
+edge cases that you've never seen
+before<00:00:49.120><c> so</c><00:00:49.239><c> let's</c><00:00:49.399><c> look</c><00:00:49.520><c> at</c><00:00:49.600><c> an</c><00:00:49.760><c> example</c><00:00:50.039><c> from</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+before so let's look at an example from
+ 
+
+00:00:50.160 --> 00:00:52.470 align:start position:0%
+before so let's look at an example from
+the<00:00:50.239><c> medical</c><00:00:50.559><c> industry</c><00:00:51.559><c> at</c><00:00:51.719><c> anterior</c><00:00:52.320><c> our</c>
+
+00:00:52.470 --> 00:00:52.480 align:start position:0%
+the medical industry at anterior our
+ 
+
+00:00:52.480 --> 00:00:53.790 align:start position:0%
+the medical industry at anterior our
+core<00:00:52.800><c> product</c><00:00:53.120><c> supports</c><00:00:53.520><c> prior</c>
+
+00:00:53.790 --> 00:00:53.800 align:start position:0%
+core product supports prior
+ 
+
+00:00:53.800 --> 00:00:55.869 align:start position:0%
+core product supports prior
+authorization<00:00:54.399><c> decisions</c><00:00:55.199><c> around</c><00:00:55.520><c> whether</c><00:00:55.760><c> a</c>
+
+00:00:55.869 --> 00:00:55.879 align:start position:0%
+authorization decisions around whether a
+ 
+
+00:00:55.879 --> 00:00:57.910 align:start position:0%
+authorization decisions around whether a
+treatment<00:00:56.320><c> request</c><00:00:56.719><c> should</c><00:00:56.920><c> be</c><00:00:57.079><c> approved</c><00:00:57.760><c> or</c>
+
+00:00:57.910 --> 00:00:57.920 align:start position:0%
+treatment request should be approved or
+ 
+
+00:00:57.920 --> 00:01:00.470 align:start position:0%
+treatment request should be approved or
+reviewed<00:00:58.320><c> by</c><00:00:58.440><c> a</c><00:00:58.559><c> clinician</c><00:01:00.039><c> we</c><00:01:00.199><c> receive</c>
+
+00:01:00.470 --> 00:01:00.480 align:start position:0%
+reviewed by a clinician we receive
+ 
+
+00:01:00.480 --> 00:01:01.869 align:start position:0%
+reviewed by a clinician we receive
+medical<00:01:00.760><c> records</c><00:01:01.079><c> and</c><00:01:01.239><c> guidelines</c><00:01:01.760><c> which</c>
+
+00:01:01.869 --> 00:01:01.879 align:start position:0%
+medical records and guidelines which
+ 
+
+00:01:01.879 --> 00:01:04.030 align:start position:0%
+medical records and guidelines which
+contain<00:01:02.280><c> various</c><00:01:02.640><c> questions</c><00:01:03.399><c> so</c><00:01:03.559><c> an</c><00:01:03.680><c> example</c>
+
+00:01:04.030 --> 00:01:04.040 align:start position:0%
+contain various questions so an example
+ 
+
+00:01:04.040 --> 00:01:05.469 align:start position:0%
+contain various questions so an example
+question<00:01:04.360><c> might</c><00:01:04.519><c> be</c><00:01:04.720><c> whether</c><00:01:04.920><c> a</c><00:01:05.040><c> patient</c><00:01:05.360><c> has</c>
+
+00:01:05.469 --> 00:01:05.479 align:start position:0%
+question might be whether a patient has
+ 
+
+00:01:05.479 --> 00:01:08.030 align:start position:0%
+question might be whether a patient has
+had<00:01:05.600><c> a</c><00:01:05.760><c> previous</c><00:01:06.240><c> brain</c><00:01:06.560><c> MRI</c><00:01:07.360><c> suspicious</c><00:01:07.840><c> for</c>
+
+00:01:08.030 --> 00:01:08.040 align:start position:0%
+had a previous brain MRI suspicious for
+ 
+
+00:01:08.040 --> 00:01:09.990 align:start position:0%
+had a previous brain MRI suspicious for
+multiple<00:01:08.520><c> sclerosis</c><00:01:09.520><c> and</c><00:01:09.640><c> this</c><00:01:09.759><c> is</c><00:01:09.880><c> then</c>
+
+00:01:09.990 --> 00:01:10.000 align:start position:0%
+multiple sclerosis and this is then
+ 
+
+00:01:10.000 --> 00:01:11.270 align:start position:0%
+multiple sclerosis and this is then
+being<00:01:10.200><c> used</c><00:01:10.439><c> to</c><00:01:10.560><c> determine</c><00:01:10.960><c> whether</c><00:01:11.159><c> the</c>
+
+00:01:11.270 --> 00:01:11.280 align:start position:0%
+being used to determine whether the
+ 
+
+00:01:11.280 --> 00:01:13.030 align:start position:0%
+being used to determine whether the
+patient<00:01:11.600><c> should</c><00:01:11.799><c> receive</c><00:01:12.119><c> an</c><00:01:12.280><c> MRI</c><00:01:12.759><c> of</c><00:01:12.880><c> their</c>
+
+00:01:13.030 --> 00:01:13.040 align:start position:0%
+patient should receive an MRI of their
+ 
+
+00:01:13.040 --> 00:01:15.469 align:start position:0%
+patient should receive an MRI of their
+cervical<00:01:13.400><c> spine</c><00:01:14.320><c> so</c><00:01:14.520><c> our</c><00:01:14.680><c> AI</c><00:01:15.119><c> may</c><00:01:15.280><c> show</c>
+
+00:01:15.469 --> 00:01:15.479 align:start position:0%
+cervical spine so our AI may show
+ 
+
+00:01:15.479 --> 00:01:17.030 align:start position:0%
+cervical spine so our AI may show
+something<00:01:15.759><c> like</c><00:01:15.960><c> this</c><00:01:16.520><c> that</c><00:01:16.640><c> the</c><00:01:16.720><c> medical</c>
+
+00:01:17.030 --> 00:01:17.040 align:start position:0%
+something like this that the medical
+ 
+
+00:01:17.040 --> 00:01:19.630 align:start position:0%
+something like this that the medical
+record<00:01:17.360><c> shows</c><00:01:17.680><c> a</c><00:01:17.799><c> brain</c><00:01:18.040><c> MRI</c><00:01:18.640><c> from</c><00:01:18.880><c> this</c><00:01:19.040><c> date</c>
+
+00:01:19.630 --> 00:01:19.640 align:start position:0%
+record shows a brain MRI from this date
+ 
+
+00:01:19.640 --> 00:01:22.069 align:start position:0%
+record shows a brain MRI from this date
+that<00:01:19.840><c> demonstrates</c><00:01:20.560><c> hyperintensity</c><00:01:21.560><c> in</c><00:01:21.680><c> the</c>
+
+00:01:22.069 --> 00:01:22.079 align:start position:0%
+that demonstrates hyperintensity in the
+ 
+
+00:01:22.079 --> 00:01:24.310 align:start position:0%
+that demonstrates hyperintensity in the
+infratentorial<00:01:23.079><c> DRX</c><00:01:23.400><c> theortical</c><00:01:23.759><c> and</c><00:01:24.079><c> per</c>
+
+00:01:24.310 --> 00:01:24.320 align:start position:0%
+infratentorial DRX theortical and per
+ 
+
+00:01:24.320 --> 00:01:26.030 align:start position:0%
+infratentorial DRX theortical and per
+ventricular<00:01:24.759><c> white</c><00:01:24.920><c> matter</c><00:01:25.520><c> which</c><00:01:25.640><c> is</c><00:01:25.759><c> noted</c>
+
+00:01:26.030 --> 00:01:26.040 align:start position:0%
+ventricular white matter which is noted
+ 
+
+00:01:26.040 --> 00:01:28.310 align:start position:0%
+ventricular white matter which is noted
+to<00:01:26.159><c> be</c><00:01:26.280><c> consistent</c><00:01:26.680><c> with</c><00:01:26.799><c> multiple</c><00:01:27.320><c> sclerosis</c>
+
+00:01:28.310 --> 00:01:28.320 align:start position:0%
+to be consistent with multiple sclerosis
+ 
+
+00:01:28.320 --> 00:01:30.670 align:start position:0%
+to be consistent with multiple sclerosis
+and<00:01:28.479><c> this</c><00:01:28.640><c> confirms</c><00:01:29.119><c> prior</c><00:01:29.400><c> brain</c><00:01:29.640><c> m</c><00:01:30.119><c> findings</c>
+
+00:01:30.670 --> 00:01:30.680 align:start position:0%
+and this confirms prior brain m findings
+ 
+
+00:01:30.680 --> 00:01:32.749 align:start position:0%
+and this confirms prior brain m findings
+suspicious<00:01:31.360><c> for</c><00:01:31.520><c> MS</c><00:01:32.040><c> and</c><00:01:32.119><c> on</c><00:01:32.240><c> the</c><00:01:32.360><c> surface</c>
+
+00:01:32.749 --> 00:01:32.759 align:start position:0%
+suspicious for MS and on the surface
+ 
+
+00:01:32.759 --> 00:01:34.670 align:start position:0%
+suspicious for MS and on the surface
+this<00:01:32.840><c> looks</c><00:01:33.079><c> pretty</c><00:01:33.320><c> reasonable</c><00:01:34.320><c> but</c><00:01:34.479><c> the</c>
+
+00:01:34.670 --> 00:01:34.680 align:start position:0%
+this looks pretty reasonable but the
+ 
+
+00:01:34.680 --> 00:01:36.310 align:start position:0%
+this looks pretty reasonable but the
+problem<00:01:35.000><c> is</c><00:01:35.119><c> that</c><00:01:35.280><c> this</c><00:01:35.360><c> is</c><00:01:35.520><c> missing</c><00:01:35.840><c> some</c><00:01:36.079><c> key</c>
+
+00:01:36.310 --> 00:01:36.320 align:start position:0%
+problem is that this is missing some key
+ 
+
+00:01:36.320 --> 00:01:39.950 align:start position:0%
+problem is that this is missing some key
+medical<00:01:37.119><c> Nuance</c><00:01:38.119><c> now</c><00:01:38.479><c> in</c><00:01:38.600><c> a</c><00:01:38.720><c> medical</c><00:01:39.159><c> context</c>
+
+00:01:39.950 --> 00:01:39.960 align:start position:0%
+medical Nuance now in a medical context
+ 
+
+00:01:39.960 --> 00:01:41.590 align:start position:0%
+medical Nuance now in a medical context
+if<00:01:40.079><c> I</c><00:01:40.240><c> as</c><00:01:40.320><c> a</c><00:01:40.479><c> doctor</c><00:01:40.759><c> say</c><00:01:41.000><c> that</c><00:01:41.159><c> something</c><00:01:41.439><c> is</c>
+
+00:01:41.590 --> 00:01:41.600 align:start position:0%
+if I as a doctor say that something is
+ 
+
+00:01:41.600 --> 00:01:43.510 align:start position:0%
+if I as a doctor say that something is
+suspicious<00:01:42.320><c> I'm</c><00:01:42.479><c> implying</c><00:01:42.880><c> that</c><00:01:43.000><c> the</c><00:01:43.119><c> patient</c>
+
+00:01:43.510 --> 00:01:43.520 align:start position:0%
+suspicious I'm implying that the patient
+ 
+
+00:01:43.520 --> 00:01:44.830 align:start position:0%
+suspicious I'm implying that the patient
+doesn't<00:01:43.840><c> already</c><00:01:44.200><c> have</c><00:01:44.360><c> a</c><00:01:44.479><c> confirmed</c>
+
+00:01:44.830 --> 00:01:44.840 align:start position:0%
+doesn't already have a confirmed
+ 
+
+00:01:44.840 --> 00:01:46.590 align:start position:0%
+doesn't already have a confirmed
+diagnosis<00:01:45.520><c> but</c><00:01:45.640><c> in</c><00:01:45.719><c> this</c><00:01:45.960><c> case</c><00:01:46.200><c> the</c><00:01:46.280><c> patient</c>
+
+00:01:46.590 --> 00:01:46.600 align:start position:0%
+diagnosis but in this case the patient
+ 
+
+00:01:46.600 --> 00:01:48.429 align:start position:0%
+diagnosis but in this case the patient
+actually<00:01:46.799><c> did</c><00:01:47.000><c> have</c><00:01:47.119><c> an</c><00:01:47.240><c> existing</c><00:01:47.560><c> diagnosis</c>
+
+00:01:48.429 --> 00:01:48.439 align:start position:0%
+actually did have an existing diagnosis
+ 
+
+00:01:48.439 --> 00:01:49.749 align:start position:0%
+actually did have an existing diagnosis
+and<00:01:48.640><c> therefore</c><00:01:49.159><c> this</c><00:01:49.280><c> is</c><00:01:49.399><c> not</c><00:01:49.560><c> just</c>
+
+00:01:49.749 --> 00:01:49.759 align:start position:0%
+and therefore this is not just
+ 
+
+00:01:49.759 --> 00:01:51.789 align:start position:0%
+and therefore this is not just
+suspicious<00:01:50.280><c> it's</c><00:01:50.479><c> confirmed</c><00:01:51.439><c> which</c><00:01:51.560><c> means</c>
+
+00:01:51.789 --> 00:01:51.799 align:start position:0%
+suspicious it's confirmed which means
+ 
+
+00:01:51.799 --> 00:01:54.030 align:start position:0%
+suspicious it's confirmed which means
+that<00:01:51.960><c> this</c><00:01:52.079><c> answer</c><00:01:52.320><c> is</c><00:01:52.520><c> actually</c><00:01:52.880><c> wrong</c><00:01:53.880><c> now</c>
+
+00:01:54.030 --> 00:01:54.040 align:start position:0%
+that this answer is actually wrong now
+ 
+
+00:01:54.040 --> 00:01:55.910 align:start position:0%
+that this answer is actually wrong now
+this<00:01:54.119><c> kind</c><00:01:54.240><c> of</c><00:01:54.360><c> mistake</c><00:01:54.719><c> might</c><00:01:54.960><c> happen</c><00:01:55.600><c> every</c>
+
+00:01:55.910 --> 00:01:55.920 align:start position:0%
+this kind of mistake might happen every
+ 
+
+00:01:55.920 --> 00:01:57.749 align:start position:0%
+this kind of mistake might happen every
+thousand<00:01:56.360><c> cases</c><00:01:56.640><c> or</c><00:01:56.799><c> even</c><00:01:57.000><c> every</c><00:01:57.200><c> 10,000</c>
+
+00:01:57.749 --> 00:01:57.759 align:start position:0%
+thousand cases or even every 10,000
+ 
+
+00:01:57.759 --> 00:01:59.670 align:start position:0%
+thousand cases or even every 10,000
+cases<00:01:58.439><c> but</c><00:01:58.560><c> if</c><00:01:58.640><c> you're</c><00:01:58.880><c> processing</c><00:01:59.280><c> more</c><00:01:59.439><c> than</c>
+
+00:01:59.670 --> 00:01:59.680 align:start position:0%
+cases but if you're processing more than
+ 
+
+00:01:59.680 --> 00:02:01.950 align:start position:0%
+cases but if you're processing more than
+100<00:01:59.880><c> ,000</c><00:02:00.360><c> cases</c><00:02:00.759><c> every</c><00:02:01.039><c> day</c><00:02:01.560><c> then</c><00:02:01.719><c> that's</c><00:02:01.840><c> a</c>
+
+00:02:01.950 --> 00:02:01.960 align:start position:0%
+100 ,000 cases every day then that's a
+ 
+
+00:02:01.960 --> 00:02:04.190 align:start position:0%
+100 ,000 cases every day then that's a
+lot<00:02:02.079><c> of</c><00:02:02.240><c> mistakes</c><00:02:02.640><c> that</c><00:02:02.719><c> you</c><00:02:02.840><c> need</c><00:02:02.960><c> to</c><00:02:03.119><c> pick</c><00:02:03.280><c> up</c>
+
+00:02:04.190 --> 00:02:04.200 align:start position:0%
+lot of mistakes that you need to pick up
+ 
+
+00:02:04.200 --> 00:02:05.950 align:start position:0%
+lot of mistakes that you need to pick up
+and<00:02:04.320><c> the</c><00:02:04.479><c> problem</c><00:02:04.759><c> is</c><00:02:05.159><c> we</c><00:02:05.320><c> just</c><00:02:05.479><c> can't</c><00:02:05.719><c> make</c>
+
+00:02:05.950 --> 00:02:05.960 align:start position:0%
+and the problem is we just can't make
+ 
+
+00:02:05.960 --> 00:02:07.510 align:start position:0%
+and the problem is we just can't make
+mistakes<00:02:06.399><c> like</c><00:02:06.600><c> this</c><00:02:07.039><c> there</c><00:02:07.159><c> are</c><00:02:07.320><c> many</c>
+
+00:02:07.510 --> 00:02:07.520 align:start position:0%
+mistakes like this there are many
+ 
+
+00:02:07.520 --> 00:02:09.150 align:start position:0%
+mistakes like this there are many
+organizations<00:02:08.119><c> in</c><00:02:08.280><c> US</c><00:02:08.520><c> Healthcare</c><00:02:08.959><c> that</c><00:02:09.039><c> are</c>
+
+00:02:09.150 --> 00:02:09.160 align:start position:0%
+organizations in US Healthcare that are
+ 
+
+00:02:09.160 --> 00:02:10.830 align:start position:0%
+organizations in US Healthcare that are
+being<00:02:09.319><c> sued</c><00:02:09.759><c> right</c><00:02:09.920><c> now</c><00:02:10.119><c> for</c><00:02:10.280><c> using</c><00:02:10.560><c> AI</c>
+
+00:02:10.830 --> 00:02:10.840 align:start position:0%
+being sued right now for using AI
+ 
+
+00:02:10.840 --> 00:02:13.790 align:start position:0%
+being sued right now for using AI
+automation<00:02:11.680><c> inappropriately</c><00:02:12.680><c> so</c><00:02:13.280><c> how</c><00:02:13.480><c> do</c><00:02:13.599><c> you</c>
+
+00:02:13.790 --> 00:02:13.800 align:start position:0%
+automation inappropriately so how do you
+ 
+
+00:02:13.800 --> 00:02:16.229 align:start position:0%
+automation inappropriately so how do you
+identify<00:02:14.200><c> and</c><00:02:14.319><c> handle</c><00:02:14.560><c> failure</c><00:02:15.000><c> cases</c><00:02:16.000><c> well</c>
+
+00:02:16.229 --> 00:02:16.239 align:start position:0%
+identify and handle failure cases well
+ 
+
+00:02:16.239 --> 00:02:17.910 align:start position:0%
+identify and handle failure cases well
+the<00:02:16.400><c> first</c><00:02:16.680><c> thing</c><00:02:17.000><c> you</c><00:02:17.080><c> should</c><00:02:17.319><c> consider</c><00:02:17.760><c> is</c>
+
+00:02:17.910 --> 00:02:17.920 align:start position:0%
+the first thing you should consider is
+ 
+
+00:02:17.920 --> 00:02:21.150 align:start position:0%
+the first thing you should consider is
+performing<00:02:18.360><c> human</c><00:02:18.640><c> reviews</c><00:02:19.160><c> of</c><00:02:19.360><c> AI</c><00:02:20.160><c> outputs</c>
+
+00:02:21.150 --> 00:02:21.160 align:start position:0%
+performing human reviews of AI outputs
+ 
+
+00:02:21.160 --> 00:02:22.910 align:start position:0%
+performing human reviews of AI outputs
+and<00:02:21.360><c> interior</c><00:02:21.879><c> we've</c><00:02:22.080><c> built</c><00:02:22.280><c> out</c><00:02:22.440><c> an</c><00:02:22.560><c> internal</c>
+
+00:02:22.910 --> 00:02:22.920 align:start position:0%
+and interior we've built out an internal
+ 
+
+00:02:22.920 --> 00:02:24.710 align:start position:0%
+and interior we've built out an internal
+clinical<00:02:23.280><c> team</c><00:02:23.879><c> and</c><00:02:24.000><c> created</c><00:02:24.319><c> internal</c>
+
+00:02:24.710 --> 00:02:24.720 align:start position:0%
+clinical team and created internal
+ 
+
+00:02:24.720 --> 00:02:26.190 align:start position:0%
+clinical team and created internal
+tooling<00:02:25.239><c> to</c><00:02:25.360><c> make</c><00:02:25.519><c> this</c><00:02:25.680><c> as</c><00:02:25.800><c> easy</c><00:02:26.040><c> and</c>
+
+00:02:26.190 --> 00:02:26.200 align:start position:0%
+tooling to make this as easy and
+ 
+
+00:02:26.200 --> 00:02:28.150 align:start position:0%
+tooling to make this as easy and
+effective<00:02:26.519><c> as</c><00:02:26.680><c> possible</c><00:02:27.599><c> so</c><00:02:27.800><c> this</c><00:02:27.879><c> is</c><00:02:28.000><c> our</c>
+
+00:02:28.150 --> 00:02:28.160 align:start position:0%
+effective as possible so this is our
+ 
+
+00:02:28.160 --> 00:02:29.470 align:start position:0%
+effective as possible so this is our
+review<00:02:28.480><c> dashboard</c><00:02:29.000><c> which</c><00:02:29.120><c> we've</c><00:02:29.280><c> called</c>
+
+00:02:29.470 --> 00:02:29.480 align:start position:0%
+review dashboard which we've called
+ 
+
+00:02:29.480 --> 00:02:30.550 align:start position:0%
+review dashboard which we've called
+scalp
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+scalp
+ 
+
+00:02:30.560 --> 00:02:32.110 align:start position:0%
+scalp
+and<00:02:30.680><c> on</c><00:02:30.800><c> the</c><00:02:30.920><c> right</c><00:02:31.160><c> hand</c><00:02:31.319><c> side</c><00:02:31.560><c> here</c><00:02:31.680><c> we</c><00:02:31.840><c> have</c>
+
+00:02:32.110 --> 00:02:32.120 align:start position:0%
+and on the right hand side here we have
+ 
+
+00:02:32.120 --> 00:02:33.550 align:start position:0%
+and on the right hand side here we have
+all<00:02:32.280><c> of</c><00:02:32.400><c> the</c><00:02:32.560><c> context</c><00:02:32.959><c> that</c><00:02:33.080><c> our</c><00:02:33.200><c> reviewer</c>
+
+00:02:33.550 --> 00:02:33.560 align:start position:0%
+all of the context that our reviewer
+ 
+
+00:02:33.560 --> 00:02:35.670 align:start position:0%
+all of the context that our reviewer
+needs<00:02:34.040><c> surfaced</c><00:02:34.519><c> in</c><00:02:34.599><c> an</c><00:02:34.760><c> accessible</c><00:02:35.239><c> way</c>
+
+00:02:35.670 --> 00:02:35.680 align:start position:0%
+needs surfaced in an accessible way
+ 
+
+00:02:35.680 --> 00:02:37.630 align:start position:0%
+needs surfaced in an accessible way
+without<00:02:35.920><c> any</c><00:02:36.080><c> scrolling</c><00:02:36.560><c> required</c><00:02:37.319><c> so</c><00:02:37.519><c> they</c>
+
+00:02:37.630 --> 00:02:37.640 align:start position:0%
+without any scrolling required so they
+ 
+
+00:02:37.640 --> 00:02:39.509 align:start position:0%
+without any scrolling required so they
+can<00:02:37.720><c> see</c><00:02:37.920><c> the</c><00:02:38.000><c> medical</c><00:02:38.319><c> record</c><00:02:39.000><c> and</c><00:02:39.280><c> they</c><00:02:39.400><c> can</c>
+
+00:02:39.509 --> 00:02:39.519 align:start position:0%
+can see the medical record and they can
+ 
+
+00:02:39.519 --> 00:02:41.589 align:start position:0%
+can see the medical record and they can
+also<00:02:39.680><c> see</c><00:02:39.879><c> the</c><00:02:40.000><c> guideline</c><00:02:40.920><c> and</c><00:02:41.120><c> on</c><00:02:41.239><c> the</c><00:02:41.360><c> left</c>
+
+00:02:41.589 --> 00:02:41.599 align:start position:0%
+also see the guideline and on the left
+ 
+
+00:02:41.599 --> 00:02:43.630 align:start position:0%
+also see the guideline and on the left
+hand<00:02:41.840><c> side</c><00:02:42.159><c> we</c><00:02:42.319><c> have</c><00:02:42.480><c> the</c><00:02:42.720><c> question</c><00:02:43.560><c> that</c>
+
+00:02:43.630 --> 00:02:43.640 align:start position:0%
+hand side we have the question that
+ 
+
+00:02:43.640 --> 00:02:46.149 align:start position:0%
+hand side we have the question that
+we're<00:02:43.840><c> answering</c><00:02:44.400><c> and</c><00:02:44.519><c> the</c><00:02:44.640><c> required</c><00:02:45.159><c> context</c>
+
+00:02:46.149 --> 00:02:46.159 align:start position:0%
+we're answering and the required context
+ 
+
+00:02:46.159 --> 00:02:47.630 align:start position:0%
+we're answering and the required context
+and<00:02:46.280><c> this</c><00:02:46.440><c> empowers</c><00:02:46.800><c> our</c><00:02:46.959><c> reviewers</c><00:02:47.440><c> to</c>
+
+00:02:47.630 --> 00:02:47.640 align:start position:0%
+and this empowers our reviewers to
+ 
+
+00:02:47.640 --> 00:02:48.990 align:start position:0%
+and this empowers our reviewers to
+review<00:02:47.879><c> a</c><00:02:48.000><c> high</c><00:02:48.159><c> number</c><00:02:48.360><c> of</c><00:02:48.480><c> questions</c><00:02:48.800><c> very</c>
+
+00:02:48.990 --> 00:02:49.000 align:start position:0%
+review a high number of questions very
+ 
+
+00:02:49.000 --> 00:02:50.830 align:start position:0%
+review a high number of questions very
+quickly<00:02:49.560><c> so</c><00:02:49.760><c> continuing</c><00:02:50.200><c> our</c><00:02:50.360><c> example</c><00:02:50.640><c> from</c>
+
+00:02:50.830 --> 00:02:50.840 align:start position:0%
+quickly so continuing our example from
+ 
+
+00:02:50.840 --> 00:02:53.509 align:start position:0%
+quickly so continuing our example from
+before<00:02:51.560><c> we</c><00:02:51.680><c> can</c><00:02:51.879><c> ask</c><00:02:52.080><c> our</c><00:02:52.239><c> reviewers</c><00:02:52.920><c> to</c><00:02:53.200><c> add</c><00:02:53.360><c> a</c>
+
+00:02:53.509 --> 00:02:53.519 align:start position:0%
+before we can ask our reviewers to add a
+ 
+
+00:02:53.519 --> 00:02:55.949 align:start position:0%
+before we can ask our reviewers to add a
+critique<00:02:54.159><c> saying</c><00:02:54.560><c> why</c><00:02:54.760><c> this</c><00:02:54.879><c> is</c><00:02:55.159><c> wrong</c><00:02:55.800><c> and</c>
+
+00:02:55.949 --> 00:02:55.959 align:start position:0%
+critique saying why this is wrong and
+ 
+
+00:02:55.959 --> 00:02:58.110 align:start position:0%
+critique saying why this is wrong and
+label<00:02:56.280><c> it</c><00:02:56.400><c> as</c><00:02:56.560><c> Incorrect</c><00:02:57.400><c> and</c><00:02:57.519><c> then</c><00:02:57.680><c> save</c><00:02:57.959><c> that</c>
+
+00:02:58.110 --> 00:02:58.120 align:start position:0%
+label it as Incorrect and then save that
+ 
+
+00:02:58.120 --> 00:03:00.270 align:start position:0%
+label it as Incorrect and then save that
+into<00:02:58.280><c> our</c><00:02:58.560><c> system</c><00:02:59.560><c> and</c><00:02:59.840><c> one</c><00:02:59.920><c> thing</c><00:03:00.040><c> we</c><00:03:00.120><c> can</c><00:03:00.200><c> do</c>
+
+00:03:00.270 --> 00:03:00.280 align:start position:0%
+into our system and one thing we can do
+ 
+
+00:03:00.280 --> 00:03:01.630 align:start position:0%
+into our system and one thing we can do
+with<00:03:00.440><c> these</c><00:03:00.640><c> critiques</c><00:03:01.319><c> which</c><00:03:01.400><c> are</c><00:03:01.560><c> a</c>
+
+00:03:01.630 --> 00:03:01.640 align:start position:0%
+with these critiques which are a
+ 
+
+00:03:01.640 --> 00:03:03.229 align:start position:0%
+with these critiques which are a
+statement<00:03:01.959><c> of</c><00:03:02.120><c> what's</c><00:03:02.360><c> wrong</c><00:03:02.879><c> is</c><00:03:03.000><c> we</c><00:03:03.120><c> can</c>
+
+00:03:03.229 --> 00:03:03.239 align:start position:0%
+statement of what's wrong is we can
+ 
+
+00:03:03.239 --> 00:03:05.070 align:start position:0%
+statement of what's wrong is we can
+generate<00:03:03.640><c> ground</c><00:03:03.959><c> truths</c><00:03:04.720><c> which</c><00:03:04.840><c> are</c><00:03:04.959><c> a</c>
+
+00:03:05.070 --> 00:03:05.080 align:start position:0%
+generate ground truths which are a
+ 
+
+00:03:05.080 --> 00:03:06.670 align:start position:0%
+generate ground truths which are a
+statement<00:03:05.560><c> a</c><00:03:05.760><c> description</c><00:03:06.280><c> of</c><00:03:06.440><c> what</c><00:03:06.560><c> the</c>
+
+00:03:06.670 --> 00:03:06.680 align:start position:0%
+statement a description of what the
+ 
+
+00:03:06.680 --> 00:03:09.710 align:start position:0%
+statement a description of what the
+correct<00:03:06.959><c> answer</c><00:03:07.280><c> is</c><00:03:08.200><c> so</c><00:03:08.400><c> using</c><00:03:08.680><c> that</c><00:03:08.879><c> critique</c>
+
+00:03:09.710 --> 00:03:09.720 align:start position:0%
+correct answer is so using that critique
+ 
+
+00:03:09.720 --> 00:03:11.509 align:start position:0%
+correct answer is so using that critique
+and<00:03:09.959><c> the</c><00:03:10.080><c> original</c><00:03:10.440><c> answer</c><00:03:11.120><c> we</c><00:03:11.200><c> can</c><00:03:11.360><c> then</c>
+
+00:03:11.509 --> 00:03:11.519 align:start position:0%
+and the original answer we can then
+ 
+
+00:03:11.519 --> 00:03:13.309 align:start position:0%
+and the original answer we can then
+generate<00:03:12.120><c> these</c><00:03:12.280><c> ground</c><00:03:12.560><c> truths</c><00:03:13.040><c> and</c><00:03:13.159><c> we</c><00:03:13.239><c> can</c>
+
+00:03:13.309 --> 00:03:13.319 align:start position:0%
+generate these ground truths and we can
+ 
+
+00:03:13.319 --> 00:03:14.589 align:start position:0%
+generate these ground truths and we can
+use<00:03:13.519><c> those</c><00:03:13.640><c> ground</c><00:03:13.879><c> truths</c><00:03:14.120><c> in</c><00:03:14.239><c> offline</c>
+
+00:03:14.589 --> 00:03:14.599 align:start position:0%
+use those ground truths in offline
+ 
+
+00:03:14.599 --> 00:03:17.149 align:start position:0%
+use those ground truths in offline
+evaluations<00:03:15.280><c> which</c><00:03:15.400><c> I'll</c><00:03:15.519><c> talk</c><00:03:15.680><c> about</c>
+
+00:03:17.149 --> 00:03:17.159 align:start position:0%
+evaluations which I'll talk about
+ 
+
+00:03:17.159 --> 00:03:19.190 align:start position:0%
+evaluations which I'll talk about
+shortly<00:03:18.159><c> but</c><00:03:18.280><c> there's</c><00:03:18.440><c> a</c><00:03:18.599><c> problem</c><00:03:18.840><c> with</c><00:03:18.959><c> human</c>
+
+00:03:19.190 --> 00:03:19.200 align:start position:0%
+shortly but there's a problem with human
+ 
+
+00:03:19.200 --> 00:03:21.630 align:start position:0%
+shortly but there's a problem with human
+reviews<00:03:19.959><c> and</c><00:03:20.040><c> it's</c><00:03:20.239><c> the</c><00:03:20.360><c> following</c><00:03:21.360><c> let's</c><00:03:21.519><c> say</c>
+
+00:03:21.630 --> 00:03:21.640 align:start position:0%
+reviews and it's the following let's say
+ 
+
+00:03:21.640 --> 00:03:23.630 align:start position:0%
+reviews and it's the following let's say
+we've<00:03:21.799><c> created</c><00:03:22.080><c> an</c><00:03:22.200><c> MVP</c><00:03:23.000><c> we</c><00:03:23.120><c> have</c><00:03:23.239><c> our</c><00:03:23.400><c> first</c>
+
+00:03:23.630 --> 00:03:23.640 align:start position:0%
+we've created an MVP we have our first
+ 
+
+00:03:23.640 --> 00:03:25.229 align:start position:0%
+we've created an MVP we have our first
+customer<00:03:24.080><c> and</c><00:03:24.159><c> we're</c><00:03:24.319><c> making</c><00:03:24.599><c> around</c><00:03:24.840><c> a</c><00:03:24.959><c> th000</c>
+
+00:03:25.229 --> 00:03:25.239 align:start position:0%
+customer and we're making around a th000
+ 
+
+00:03:25.239 --> 00:03:27.750 align:start position:0%
+customer and we're making around a th000
+medical<00:03:25.560><c> decisions</c><00:03:25.959><c> per</c><00:03:26.200><c> day</c><00:03:27.200><c> well</c><00:03:27.519><c> we</c><00:03:27.640><c> want</c>
+
+00:03:27.750 --> 00:03:27.760 align:start position:0%
+medical decisions per day well we want
+ 
+
+00:03:27.760 --> 00:03:28.830 align:start position:0%
+medical decisions per day well we want
+to<00:03:27.840><c> know</c><00:03:27.959><c> how</c><00:03:28.080><c> we're</c><00:03:28.200><c> doing</c><00:03:28.439><c> so</c><00:03:28.560><c> let's</c><00:03:28.720><c> say</c>
+
+00:03:28.830 --> 00:03:28.840 align:start position:0%
+to know how we're doing so let's say
+ 
+
+00:03:28.840 --> 00:03:30.630 align:start position:0%
+to know how we're doing so let's say
+we'll<00:03:29.040><c> review</c><00:03:29.400><c> half</c><00:03:29.560><c> of</c><00:03:29.840><c> those</c><00:03:30.000><c> cases</c><00:03:30.400><c> to</c><00:03:30.519><c> give</c>
+
+00:03:30.630 --> 00:03:30.640 align:start position:0%
+we'll review half of those cases to give
+ 
+
+00:03:30.640 --> 00:03:32.390 align:start position:0%
+we'll review half of those cases to give
+us<00:03:30.720><c> a</c><00:03:30.840><c> good</c>
+
+00:03:32.390 --> 00:03:32.400 align:start position:0%
+us a good
+ 
+
+00:03:32.400 --> 00:03:34.990 align:start position:0%
+us a good
+estimat<00:03:33.400><c> um</c><00:03:34.000><c> now</c><00:03:34.159><c> reviewing</c><00:03:34.560><c> half</c><00:03:34.720><c> of</c><00:03:34.840><c> those</c>
+
+00:03:34.990 --> 00:03:35.000 align:start position:0%
+estimat um now reviewing half of those
+ 
+
+00:03:35.000 --> 00:03:37.429 align:start position:0%
+estimat um now reviewing half of those
+means<00:03:35.319><c> 500</c><00:03:35.879><c> human</c><00:03:36.080><c> reviews</c><00:03:36.439><c> per</c><00:03:36.599><c> day</c><00:03:37.200><c> and</c><00:03:37.319><c> if</c>
+
+00:03:37.429 --> 00:03:37.439 align:start position:0%
+means 500 human reviews per day and if
+ 
+
+00:03:37.439 --> 00:03:39.229 align:start position:0%
+means 500 human reviews per day and if
+every<00:03:37.640><c> clinician</c><00:03:38.040><c> on</c><00:03:38.120><c> our</c><00:03:38.280><c> team</c><00:03:38.519><c> can</c><00:03:38.799><c> do</c><00:03:38.959><c> about</c>
+
+00:03:39.229 --> 00:03:39.239 align:start position:0%
+every clinician on our team can do about
+ 
+
+00:03:39.239 --> 00:03:40.910 align:start position:0%
+every clinician on our team can do about
+100<00:03:39.480><c> reviews</c><00:03:39.840><c> per</c><00:03:40.000><c> day</c><00:03:40.360><c> that</c><00:03:40.439><c> means</c><00:03:40.640><c> we</c><00:03:40.760><c> need</c>
+
+00:03:40.910 --> 00:03:40.920 align:start position:0%
+100 reviews per day that means we need
+ 
+
+00:03:40.920 --> 00:03:42.830 align:start position:0%
+100 reviews per day that means we need
+five<00:03:41.120><c> clinicians</c><00:03:41.560><c> to</c><00:03:41.680><c> do</c><00:03:41.799><c> all</c><00:03:41.920><c> of</c><00:03:42.040><c> these</c>
+
+00:03:42.830 --> 00:03:42.840 align:start position:0%
+five clinicians to do all of these
+ 
+
+00:03:42.840 --> 00:03:46.190 align:start position:0%
+five clinicians to do all of these
+reviews<00:03:43.840><c> and</c><00:03:44.560><c> that's</c><00:03:44.879><c> okay</c><00:03:45.159><c> that</c><00:03:45.280><c> can</c><00:03:45.439><c> work</c>
+
+00:03:46.190 --> 00:03:46.200 align:start position:0%
+reviews and that's okay that can work
+ 
+
+00:03:46.200 --> 00:03:48.630 align:start position:0%
+reviews and that's okay that can work
+but<00:03:46.360><c> the</c><00:03:46.519><c> problem</c><00:03:46.840><c> is</c><00:03:47.400><c> when</c><00:03:47.519><c> we</c><00:03:47.680><c> go</c><00:03:47.799><c> beyond</c><00:03:48.080><c> MVP</c>
+
+00:03:48.630 --> 00:03:48.640 align:start position:0%
+but the problem is when we go beyond MVP
+ 
+
+00:03:48.640 --> 00:03:50.229 align:start position:0%
+but the problem is when we go beyond MVP
+and<00:03:48.799><c> we</c><00:03:49.120><c> you</c><00:03:49.200><c> know</c><00:03:49.360><c> we</c><00:03:49.439><c> start</c><00:03:49.640><c> doing</c><00:03:49.840><c> 10,000</c>
+
+00:03:50.229 --> 00:03:50.239 align:start position:0%
+and we you know we start doing 10,000
+ 
+
+00:03:50.239 --> 00:03:51.990 align:start position:0%
+and we you know we start doing 10,000
+medical<00:03:50.519><c> decisions</c><00:03:50.840><c> a</c><00:03:51.000><c> day</c><00:03:51.280><c> to</c><00:03:51.480><c> maintain</c><00:03:51.879><c> the</c>
+
+00:03:51.990 --> 00:03:52.000 align:start position:0%
+medical decisions a day to maintain the
+ 
+
+00:03:52.000 --> 00:03:53.750 align:start position:0%
+medical decisions a day to maintain the
+same<00:03:52.239><c> percentage</c><00:03:52.720><c> we</c><00:03:52.799><c> would</c><00:03:53.000><c> now</c><00:03:53.159><c> have</c><00:03:53.280><c> to</c><00:03:53.360><c> do</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+same percentage we would now have to do
+ 
+
+00:03:53.760 --> 00:03:55.789 align:start position:0%
+same percentage we would now have to do
+5,000<00:03:54.280><c> human</c><00:03:54.519><c> reviews</c><00:03:54.879><c> every</c><00:03:55.079><c> day</c><00:03:55.599><c> so</c>
+
+00:03:55.789 --> 00:03:55.799 align:start position:0%
+5,000 human reviews every day so
+ 
+
+00:03:55.799 --> 00:03:57.550 align:start position:0%
+5,000 human reviews every day so
+maintaining<00:03:56.200><c> the</c><00:03:56.319><c> same</c><00:03:56.560><c> ratio</c><00:03:57.079><c> we</c><00:03:57.200><c> now</c><00:03:57.360><c> need</c>
+
+00:03:57.550 --> 00:03:57.560 align:start position:0%
+maintaining the same ratio we now need
+ 
+
+00:03:57.560 --> 00:04:00.429 align:start position:0%
+maintaining the same ratio we now need
+50<00:03:58.159><c> clinicians</c><00:03:59.159><c> and</c><00:03:59.840><c> that's</c><00:03:59.959><c> bigger</c><00:04:00.200><c> than</c><00:04:00.280><c> our</c>
+
+00:04:00.429 --> 00:04:00.439 align:start position:0%
+50 clinicians and that's bigger than our
+ 
+
+00:04:00.439 --> 00:04:02.949 align:start position:0%
+50 clinicians and that's bigger than our
+entire<00:04:00.720><c> companies</c><00:04:01.159><c> at</c><00:04:01.280><c> the</c><00:04:01.720><c> moment</c><00:04:02.720><c> okay</c><00:04:02.840><c> so</c>
+
+00:04:02.949 --> 00:04:02.959 align:start position:0%
+entire companies at the moment okay so
+ 
+
+00:04:02.959 --> 00:04:04.589 align:start position:0%
+entire companies at the moment okay so
+what<00:04:03.079><c> we</c><00:04:03.200><c> might</c><00:04:03.360><c> do</c><00:04:03.519><c> is</c><00:04:03.680><c> say</c><00:04:03.920><c> well</c><00:04:04.040><c> maybe</c><00:04:04.280><c> let's</c>
+
+00:04:04.589 --> 00:04:04.599 align:start position:0%
+what we might do is say well maybe let's
+ 
+
+00:04:04.599 --> 00:04:06.030 align:start position:0%
+what we might do is say well maybe let's
+you<00:04:04.720><c> know</c><00:04:04.840><c> review</c><00:04:05.120><c> a</c><00:04:05.200><c> smaller</c><00:04:05.519><c> subset</c><00:04:05.879><c> of</c>
+
+00:04:06.030 --> 00:04:06.040 align:start position:0%
+you know review a smaller subset of
+ 
+
+00:04:06.040 --> 00:04:09.030 align:start position:0%
+you know review a smaller subset of
+cases<00:04:06.560><c> let's</c><00:04:06.760><c> only</c><00:04:06.959><c> review</c><00:04:07.599><c> 5%</c><00:04:08.599><c> that</c><00:04:08.720><c> gets</c><00:04:08.879><c> us</c>
+
+00:04:09.030 --> 00:04:09.040 align:start position:0%
+cases let's only review 5% that gets us
+ 
+
+00:04:09.040 --> 00:04:11.270 align:start position:0%
+cases let's only review 5% that gets us
+back<00:04:09.239><c> down</c><00:04:09.360><c> to</c><00:04:09.560><c> 500</c><00:04:09.920><c> human</c><00:04:10.159><c> reviews</c><00:04:10.480><c> a</c><00:04:10.640><c> day</c>
+
+00:04:11.270 --> 00:04:11.280 align:start position:0%
+back down to 500 human reviews a day
+ 
+
+00:04:11.280 --> 00:04:13.069 align:start position:0%
+back down to 500 human reviews a day
+which<00:04:11.439><c> can</c><00:04:11.560><c> be</c><00:04:11.680><c> done</c><00:04:11.879><c> by</c><00:04:12.000><c> five</c><00:04:12.200><c> clinicians</c><00:04:12.959><c> but</c>
+
+00:04:13.069 --> 00:04:13.079 align:start position:0%
+which can be done by five clinicians but
+ 
+
+00:04:13.079 --> 00:04:14.429 align:start position:0%
+which can be done by five clinicians but
+the<00:04:13.239><c> problem</c><00:04:13.480><c> comes</c><00:04:13.720><c> as</c><00:04:13.840><c> we</c><00:04:13.959><c> scale</c><00:04:14.239><c> even</c>
+
+00:04:14.429 --> 00:04:14.439 align:start position:0%
+the problem comes as we scale even
+ 
+
+00:04:14.439 --> 00:04:17.390 align:start position:0%
+the problem comes as we scale even
+further<00:04:15.360><c> let's</c><00:04:15.519><c> say</c><00:04:15.799><c> we</c><00:04:16.120><c> now</c><00:04:16.320><c> grow</c><00:04:16.600><c> to</c><00:04:16.959><c> 100,000</c>
+
+00:04:17.390 --> 00:04:17.400 align:start position:0%
+further let's say we now grow to 100,000
+ 
+
+00:04:17.400 --> 00:04:18.909 align:start position:0%
+further let's say we now grow to 100,000
+medical<00:04:17.720><c> decisions</c><00:04:18.120><c> per</c><00:04:18.280><c> day</c><00:04:18.519><c> which</c><00:04:18.639><c> is</c><00:04:18.759><c> still</c>
+
+00:04:18.909 --> 00:04:18.919 align:start position:0%
+medical decisions per day which is still
+ 
+
+00:04:18.919 --> 00:04:21.390 align:start position:0%
+medical decisions per day which is still
+a<00:04:19.040><c> very</c><00:04:19.199><c> conservative</c><00:04:19.720><c> number</c><00:04:20.639><c> again</c><00:04:21.199><c> we're</c>
+
+00:04:21.390 --> 00:04:21.400 align:start position:0%
+a very conservative number again we're
+ 
+
+00:04:21.400 --> 00:04:23.550 align:start position:0%
+a very conservative number again we're
+back<00:04:21.560><c> at</c><00:04:21.959><c> 5,000</c><00:04:22.400><c> human</c><00:04:22.639><c> reviews</c><00:04:23.080><c> and</c><00:04:23.199><c> 50</c>
+
+00:04:23.550 --> 00:04:23.560 align:start position:0%
+back at 5,000 human reviews and 50
+ 
+
+00:04:23.560 --> 00:04:25.909 align:start position:0%
+back at 5,000 human reviews and 50
+clinicians<00:04:24.560><c> so</c><00:04:24.759><c> the</c><00:04:24.919><c> problem</c><00:04:25.160><c> here</c><00:04:25.320><c> is</c><00:04:25.479><c> clear</c>
+
+00:04:25.909 --> 00:04:25.919 align:start position:0%
+clinicians so the problem here is clear
+ 
+
+00:04:25.919 --> 00:04:28.030 align:start position:0%
+clinicians so the problem here is clear
+this<00:04:26.080><c> just</c><00:04:26.240><c> doesn't</c><00:04:26.560><c> scale</c><00:04:27.520><c> and</c><00:04:27.639><c> we're</c><00:04:27.800><c> left</c>
+
+00:04:28.030 --> 00:04:28.040 align:start position:0%
+this just doesn't scale and we're left
+ 
+
+00:04:28.040 --> 00:04:30.469 align:start position:0%
+this just doesn't scale and we're left
+with<00:04:28.240><c> these</c><00:04:28.479><c> two</c><00:04:29.120><c> questions</c><00:04:29.520><c> which</c><00:04:29.720><c> which</c><00:04:29.840><c> is</c>
+
+00:04:30.469 --> 00:04:30.479 align:start position:0%
+with these two questions which which is
+ 
+
+00:04:30.479 --> 00:04:33.110 align:start position:0%
+with these two questions which which is
+firstly<00:04:31.240><c> which</c><00:04:31.440><c> cases</c><00:04:31.720><c> should</c><00:04:31.880><c> we</c><00:04:32.080><c> review</c><00:04:32.960><c> and</c>
+
+00:04:33.110 --> 00:04:33.120 align:start position:0%
+firstly which cases should we review and
+ 
+
+00:04:33.120 --> 00:04:34.830 align:start position:0%
+firstly which cases should we review and
+secondly<00:04:33.840><c> of</c><00:04:33.960><c> all</c><00:04:34.080><c> the</c><00:04:34.199><c> cases</c><00:04:34.440><c> that</c><00:04:34.520><c> we</c><00:04:34.639><c> didn't</c>
+
+00:04:34.830 --> 00:04:34.840 align:start position:0%
+secondly of all the cases that we didn't
+ 
+
+00:04:34.840 --> 00:04:36.830 align:start position:0%
+secondly of all the cases that we didn't
+review<00:04:35.440><c> what</c><00:04:35.560><c> how</c><00:04:35.680><c> did</c><00:04:35.840><c> we</c>
+
+00:04:36.830 --> 00:04:36.840 align:start position:0%
+review what how did we
+ 
+
+00:04:36.840 --> 00:04:39.950 align:start position:0%
+review what how did we
+perform<00:04:37.840><c> so</c><00:04:38.039><c> another</c><00:04:38.360><c> component</c><00:04:38.800><c> of</c><00:04:39.039><c> this</c><00:04:39.520><c> is</c>
+
+00:04:39.950 --> 00:04:39.960 align:start position:0%
+perform so another component of this is
+ 
+
+00:04:39.960 --> 00:04:42.430 align:start position:0%
+perform so another component of this is
+offline<00:04:40.360><c> eval</c><00:04:40.759><c> data</c><00:04:41.000><c> sets</c><00:04:41.680><c> and</c><00:04:41.800><c> by</c><00:04:41.960><c> offline</c>
+
+00:04:42.430 --> 00:04:42.440 align:start position:0%
+offline eval data sets and by offline
+ 
+
+00:04:42.440 --> 00:04:44.189 align:start position:0%
+offline eval data sets and by offline
+here<00:04:42.840><c> I'm</c><00:04:42.960><c> referring</c><00:04:43.240><c> to</c><00:04:43.360><c> data</c><00:04:43.600><c> sets</c><00:04:43.880><c> that</c><00:04:44.039><c> we</c>
+
+00:04:44.189 --> 00:04:44.199 align:start position:0%
+here I'm referring to data sets that we
+ 
+
+00:04:44.199 --> 00:04:46.909 align:start position:0%
+here I'm referring to data sets that we
+build<00:04:45.000><c> that</c><00:04:45.199><c> live</c><00:04:45.680><c> outside</c><00:04:46.000><c> of</c><00:04:46.120><c> our</c><00:04:46.320><c> product</c>
+
+00:04:46.909 --> 00:04:46.919 align:start position:0%
+build that live outside of our product
+ 
+
+00:04:46.919 --> 00:04:48.469 align:start position:0%
+build that live outside of our product
+and<00:04:47.039><c> we</c><00:04:47.120><c> can</c><00:04:47.240><c> keep</c><00:04:47.400><c> on</c><00:04:47.520><c> running</c><00:04:47.840><c> evals</c><00:04:48.240><c> against</c>
+
+00:04:48.469 --> 00:04:48.479 align:start position:0%
+and we can keep on running evals against
+ 
+
+00:04:48.479 --> 00:04:50.310 align:start position:0%
+and we can keep on running evals against
+them<00:04:48.600><c> and</c><00:04:48.720><c> getting</c><00:04:48.919><c> scores</c><00:04:49.800><c> so</c><00:04:49.960><c> we</c><00:04:50.039><c> can</c><00:04:50.160><c> take</c>
+
+00:04:50.310 --> 00:04:50.320 align:start position:0%
+them and getting scores so we can take
+ 
+
+00:04:50.320 --> 00:04:51.510 align:start position:0%
+them and getting scores so we can take
+the<00:04:50.400><c> ground</c><00:04:50.639><c> truths</c><00:04:50.880><c> that</c><00:04:50.960><c> we</c><00:04:51.039><c> generated</c><00:04:51.400><c> from</c>
+
+00:04:51.510 --> 00:04:51.520 align:start position:0%
+the ground truths that we generated from
+ 
+
+00:04:51.520 --> 00:04:53.189 align:start position:0%
+the ground truths that we generated from
+our<00:04:51.639><c> human</c><00:04:51.919><c> reviews</c><00:04:52.400><c> to</c><00:04:52.520><c> build</c><00:04:52.759><c> these</c><00:04:52.919><c> data</c>
+
+00:04:53.189 --> 00:04:53.199 align:start position:0%
+our human reviews to build these data
+ 
+
+00:04:53.199 --> 00:04:55.909 align:start position:0%
+our human reviews to build these data
+sets<00:04:54.199><c> and</c><00:04:54.320><c> this</c><00:04:54.440><c> can</c><00:04:54.560><c> be</c><00:04:54.720><c> helpful</c><00:04:55.600><c> we</c><00:04:55.720><c> can</c>
+
+00:04:55.909 --> 00:04:55.919 align:start position:0%
+sets and this can be helpful we can
+ 
+
+00:04:55.919 --> 00:04:57.510 align:start position:0%
+sets and this can be helpful we can
+Define<00:04:56.199><c> some</c><00:04:56.320><c> gold</c><00:04:56.600><c> standard</c><00:04:56.919><c> data</c><00:04:57.160><c> sets</c><00:04:57.440><c> we</c>
+
+00:04:57.510 --> 00:04:57.520 align:start position:0%
+Define some gold standard data sets we
+ 
+
+00:04:57.520 --> 00:05:00.830 align:start position:0%
+Define some gold standard data sets we
+can<00:04:57.720><c> segment</c><00:04:58.160><c> them</c><00:04:58.400><c> by</c><00:04:58.680><c> Enterprise</c><00:04:59.800><c> by</c><00:05:00.560><c> uh</c>
+
+00:05:00.830 --> 00:05:00.840 align:start position:0%
+can segment them by Enterprise by uh
+ 
+
+00:05:00.840 --> 00:05:03.070 align:start position:0%
+can segment them by Enterprise by uh
+specific<00:05:01.240><c> medical</c><00:05:01.840><c> type</c><00:05:02.160><c> medical</c><00:05:02.639><c> conditions</c>
+
+00:05:03.070 --> 00:05:03.080 align:start position:0%
+specific medical type medical conditions
+ 
+
+00:05:03.080 --> 00:05:04.749 align:start position:0%
+specific medical type medical conditions
+you<00:05:03.160><c> know</c><00:05:03.440><c> tough</c><00:05:03.680><c> questions</c><00:05:04.120><c> complex</c><00:05:04.479><c> cases</c>
+
+00:05:04.749 --> 00:05:04.759 align:start position:0%
+you know tough questions complex cases
+ 
+
+00:05:04.759 --> 00:05:06.749 align:start position:0%
+you know tough questions complex cases
+ambiguous<00:05:05.199><c> outcomes</c><00:05:06.080><c> and</c><00:05:06.160><c> we</c><00:05:06.280><c> can</c><00:05:06.360><c> plot</c><00:05:06.639><c> those</c>
+
+00:05:06.749 --> 00:05:06.759 align:start position:0%
+ambiguous outcomes and we can plot those
+ 
+
+00:05:06.759 --> 00:05:08.230 align:start position:0%
+ambiguous outcomes and we can plot those
+performances<00:05:07.199><c> over</c><00:05:07.440><c> time</c><00:05:07.720><c> we</c><00:05:07.800><c> can</c><00:05:07.919><c> use</c><00:05:08.120><c> them</c>
+
+00:05:08.230 --> 00:05:08.240 align:start position:0%
+performances over time we can use them
+ 
+
+00:05:08.240 --> 00:05:10.029 align:start position:0%
+performances over time we can use them
+for<00:05:08.479><c> iterating</c><00:05:09.000><c> our</c><00:05:09.199><c> our</c><00:05:09.320><c> AI</c><00:05:09.600><c> pipelines</c>
+
+00:05:10.029 --> 00:05:10.039 align:start position:0%
+for iterating our our AI pipelines
+ 
+
+00:05:10.039 --> 00:05:11.950 align:start position:0%
+for iterating our our AI pipelines
+against<00:05:10.440><c> and</c><00:05:10.600><c> and</c><00:05:10.680><c> it's</c><00:05:10.800><c> helpful</c><00:05:11.600><c> but</c><00:05:11.759><c> the</c>
+
+00:05:11.950 --> 00:05:11.960 align:start position:0%
+against and and it's helpful but the
+ 
+
+00:05:11.960 --> 00:05:14.350 align:start position:0%
+against and and it's helpful but the
+problem<00:05:12.280><c> is</c><00:05:12.600><c> that</c><00:05:13.240><c> if</c><00:05:13.360><c> you</c><00:05:13.600><c> wait</c><00:05:13.800><c> until</c><00:05:14.120><c> New</c>
+
+00:05:14.350 --> 00:05:14.360 align:start position:0%
+problem is that if you wait until New
+ 
+
+00:05:14.360 --> 00:05:16.430 align:start position:0%
+problem is that if you wait until New
+edge<00:05:14.680><c> cases</c><00:05:15.080><c> are</c><00:05:15.280><c> represented</c><00:05:15.840><c> in</c><00:05:15.960><c> this</c><00:05:16.120><c> data</c>
+
+00:05:16.430 --> 00:05:16.440 align:start position:0%
+edge cases are represented in this data
+ 
+
+00:05:16.440 --> 00:05:17.870 align:start position:0%
+edge cases are represented in this data
+set<00:05:16.840><c> which</c><00:05:16.960><c> You're</c><00:05:17.160><c> Building</c><00:05:17.639><c> kind</c><00:05:17.759><c> of</c>
+
+00:05:17.870 --> 00:05:17.880 align:start position:0%
+set which You're Building kind of
+ 
+
+00:05:17.880 --> 00:05:19.150 align:start position:0%
+set which You're Building kind of
+Downstream<00:05:18.360><c> of</c><00:05:18.520><c> actually</c><00:05:18.720><c> giving</c><00:05:18.919><c> this</c><00:05:19.080><c> to</c>
+
+00:05:19.150 --> 00:05:19.160 align:start position:0%
+Downstream of actually giving this to
+ 
+
+00:05:19.160 --> 00:05:21.870 align:start position:0%
+Downstream of actually giving this to
+the<00:05:19.280><c> customer</c><00:05:19.880><c> it</c><00:05:20.039><c> could</c><00:05:20.160><c> be</c><00:05:20.280><c> too</c><00:05:20.479><c> late</c><00:05:21.400><c> so</c>
+
+00:05:21.870 --> 00:05:21.880 align:start position:0%
+the customer it could be too late so
+ 
+
+00:05:21.880 --> 00:05:24.510 align:start position:0%
+the customer it could be too late so
+relying<00:05:22.319><c> only</c><00:05:22.639><c> on</c><00:05:22.960><c> offline</c><00:05:23.319><c> evals</c><00:05:24.080><c> is</c><00:05:24.280><c> playing</c>
+
+00:05:24.510 --> 00:05:24.520 align:start position:0%
+relying only on offline evals is playing
+ 
+
+00:05:24.520 --> 00:05:27.710 align:start position:0%
+relying only on offline evals is playing
+with<00:05:25.199><c> fire</c><00:05:26.199><c> um</c><00:05:26.800><c> and</c><00:05:26.960><c> the</c><00:05:27.120><c> input</c><00:05:27.440><c> space</c><00:05:27.639><c> of</c>
+
+00:05:27.710 --> 00:05:27.720 align:start position:0%
+with fire um and the input space of
+ 
+
+00:05:27.720 --> 00:05:29.830 align:start position:0%
+with fire um and the input space of
+medical<00:05:28.000><c> records</c><00:05:28.280><c> is</c><00:05:28.479><c> huge</c><00:05:29.000><c> there's</c><00:05:29.440><c> very</c>
+
+00:05:29.830 --> 00:05:29.840 align:start position:0%
+medical records is huge there's very
+ 
+
+00:05:29.840 --> 00:05:32.550 align:start position:0%
+medical records is huge there's very
+high<00:05:30.280><c> heterogeneity</c><00:05:31.280><c> so</c><00:05:31.680><c> at</c><00:05:31.919><c> scale</c><00:05:32.400><c> you're</c>
+
+00:05:32.550 --> 00:05:32.560 align:start position:0%
+high heterogeneity so at scale you're
+ 
+
+00:05:32.560 --> 00:05:34.749 align:start position:0%
+high heterogeneity so at scale you're
+continually<00:05:33.000><c> going</c><00:05:33.160><c> to</c><00:05:33.280><c> see</c><00:05:33.520><c> new</c><00:05:33.720><c> edge</c><00:05:34.039><c> cases</c>
+
+00:05:34.749 --> 00:05:34.759 align:start position:0%
+continually going to see new edge cases
+ 
+
+00:05:34.759 --> 00:05:37.309 align:start position:0%
+continually going to see new edge cases
+that<00:05:34.840><c> you</c><00:05:34.960><c> need</c><00:05:35.080><c> to</c><00:05:35.440><c> identify</c><00:05:36.120><c> and</c><00:05:36.280><c> respond</c>
+
+00:05:37.309 --> 00:05:37.319 align:start position:0%
+that you need to identify and respond
+ 
+
+00:05:37.319 --> 00:05:40.029 align:start position:0%
+that you need to identify and respond
+to<00:05:38.319><c> and</c><00:05:38.479><c> the</c><00:05:38.600><c> solution</c><00:05:39.000><c> for</c><00:05:39.240><c> that</c><00:05:39.680><c> for</c><00:05:39.880><c> these</c>
+
+00:05:40.029 --> 00:05:40.039 align:start position:0%
+to and the solution for that for these
+ 
+
+00:05:40.039 --> 00:05:42.230 align:start position:0%
+to and the solution for that for these
+two<00:05:40.240><c> problems</c><00:05:40.680><c> is</c><00:05:40.960><c> realtime</c><00:05:41.680><c> reference-free</c>
+
+00:05:42.230 --> 00:05:42.240 align:start position:0%
+two problems is realtime reference-free
+ 
+
+00:05:42.240 --> 00:05:45.670 align:start position:0%
+two problems is realtime reference-free
+evaluation<00:05:42.919><c> system</c><00:05:43.919><c> so</c><00:05:44.360><c> reference</c><00:05:44.840><c> free</c><00:05:45.360><c> also</c>
+
+00:05:45.670 --> 00:05:45.680 align:start position:0%
+evaluation system so reference free also
+ 
+
+00:05:45.680 --> 00:05:47.590 align:start position:0%
+evaluation system so reference free also
+known<00:05:45.840><c> as</c><00:05:45.960><c> label</c><00:05:46.319><c> free</c><00:05:46.960><c> means</c><00:05:47.240><c> that</c><00:05:47.400><c> you</c>
+
+00:05:47.590 --> 00:05:47.600 align:start position:0%
+known as label free means that you
+ 
+
+00:05:47.600 --> 00:05:49.230 align:start position:0%
+known as label free means that you
+evaluate<00:05:48.280><c> before</c><00:05:48.560><c> you</c><00:05:48.680><c> know</c><00:05:48.880><c> the</c><00:05:49.000><c> true</c>
+
+00:05:49.230 --> 00:05:49.240 align:start position:0%
+evaluate before you know the true
+ 
+
+00:05:49.240 --> 00:05:51.430 align:start position:0%
+evaluate before you know the true
+outcome<00:05:49.960><c> I.E</c><00:05:50.400><c> before</c><00:05:50.680><c> you</c><00:05:50.800><c> have</c><00:05:50.960><c> done</c><00:05:51.080><c> a</c><00:05:51.160><c> human</c>
+
+00:05:51.430 --> 00:05:51.440 align:start position:0%
+outcome I.E before you have done a human
+ 
+
+00:05:51.440 --> 00:05:53.830 align:start position:0%
+outcome I.E before you have done a human
+review<00:05:52.400><c> and</c><00:05:52.560><c> that</c><00:05:52.680><c> enables</c><00:05:53.080><c> the</c><00:05:53.199><c> system</c><00:05:53.479><c> to</c><00:05:53.680><c> be</c>
+
+00:05:53.830 --> 00:05:53.840 align:start position:0%
+review and that enables the system to be
+ 
+
+00:05:53.840 --> 00:05:55.790 align:start position:0%
+review and that enables the system to be
+real<00:05:54.120><c> time</c><00:05:54.560><c> it</c><00:05:54.680><c> enables</c><00:05:55.039><c> you</c><00:05:55.120><c> to</c><00:05:55.319><c> respond</c><00:05:55.639><c> to</c>
+
+00:05:55.790 --> 00:05:55.800 align:start position:0%
+real time it enables you to respond to
+ 
+
+00:05:55.800 --> 00:05:57.950 align:start position:0%
+real time it enables you to respond to
+issues<00:05:56.240><c> immediately</c><00:05:56.720><c> as</c><00:05:56.880><c> they</c>
+
+00:05:57.950 --> 00:05:57.960 align:start position:0%
+issues immediately as they
+ 
+
+00:05:57.960 --> 00:05:59.990 align:start position:0%
+issues immediately as they
+arise<00:05:58.960><c> so</c><00:05:59.120><c> we</c><00:05:59.240><c> saw</c><00:05:59.400><c> we</c><00:05:59.479><c> had</c><00:05:59.720><c> these</c><00:05:59.840><c> two</c>
+
+00:05:59.990 --> 00:06:00.000 align:start position:0%
+arise so we saw we had these two
+ 
+
+00:06:00.000 --> 00:06:02.830 align:start position:0%
+arise so we saw we had these two
+questions<00:06:00.840><c> which</c><00:06:01.039><c> cases</c><00:06:01.319><c> should</c><00:06:01.479><c> we</c><00:06:01.840><c> review</c>
+
+00:06:02.830 --> 00:06:02.840 align:start position:0%
+questions which cases should we review
+ 
+
+00:06:02.840 --> 00:06:04.670 align:start position:0%
+questions which cases should we review
+and<00:06:03.280><c> how</c><00:06:03.400><c> do</c><00:06:03.520><c> we</c><00:06:03.600><c> do</c><00:06:03.759><c> on</c><00:06:03.880><c> the</c><00:06:03.960><c> cases</c><00:06:04.280><c> that</c><00:06:04.520><c> we</c>
+
+00:06:04.670 --> 00:06:04.680 align:start position:0%
+and how do we do on the cases that we
+ 
+
+00:06:04.680 --> 00:06:07.270 align:start position:0%
+and how do we do on the cases that we
+couldn't<00:06:04.919><c> do</c><00:06:05.039><c> a</c><00:06:05.160><c> human</c><00:06:05.400><c> review</c><00:06:06.039><c> on</c><00:06:07.039><c> well</c><00:06:07.160><c> a</c>
+
+00:06:07.270 --> 00:06:07.280 align:start position:0%
+couldn't do a human review on well a
+ 
+
+00:06:07.280 --> 00:06:08.790 align:start position:0%
+couldn't do a human review on well a
+great<00:06:07.440><c> starting</c><00:06:07.840><c> point</c><00:06:08.120><c> here</c><00:06:08.319><c> is</c><00:06:08.440><c> using</c><00:06:08.680><c> an</c>
+
+00:06:08.790 --> 00:06:08.800 align:start position:0%
+great starting point here is using an
+ 
+
+00:06:08.800 --> 00:06:10.710 align:start position:0%
+great starting point here is using an
+llm<00:06:09.120><c> as</c><00:06:09.240><c> judge</c><00:06:09.800><c> the</c><00:06:09.919><c> way</c><00:06:10.080><c> this</c><00:06:10.199><c> works</c><00:06:10.479><c> is</c><00:06:10.639><c> the</c>
+
+00:06:10.710 --> 00:06:10.720 align:start position:0%
+llm as judge the way this works is the
+ 
+
+00:06:10.720 --> 00:06:12.950 align:start position:0%
+llm as judge the way this works is the
+following<00:06:11.160><c> so</c><00:06:11.319><c> we</c><00:06:11.440><c> have</c><00:06:11.599><c> our</c><00:06:11.800><c> inputs</c><00:06:12.639><c> they</c><00:06:12.800><c> go</c>
+
+00:06:12.950 --> 00:06:12.960 align:start position:0%
+following so we have our inputs they go
+ 
+
+00:06:12.960 --> 00:06:14.390 align:start position:0%
+following so we have our inputs they go
+into<00:06:13.160><c> our</c><00:06:13.280><c> llm</c><00:06:13.720><c> pipeline</c><00:06:14.120><c> that</c><00:06:14.240><c> we're</c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+into our llm pipeline that we're
+ 
+
+00:06:14.400 --> 00:06:15.870 align:start position:0%
+into our llm pipeline that we're
+evaluating<00:06:15.039><c> and</c><00:06:15.120><c> it</c><00:06:15.240><c> gives</c><00:06:15.440><c> some</c><00:06:15.599><c> kind</c><00:06:15.759><c> of</c>
+
+00:06:15.870 --> 00:06:15.880 align:start position:0%
+evaluating and it gives some kind of
+ 
+
+00:06:15.880 --> 00:06:18.309 align:start position:0%
+evaluating and it gives some kind of
+outputs<00:06:16.880><c> we</c><00:06:17.039><c> then</c><00:06:17.160><c> feed</c><00:06:17.479><c> that</c><00:06:17.599><c> output</c><00:06:17.960><c> into</c><00:06:18.160><c> an</c>
+
+00:06:18.309 --> 00:06:18.319 align:start position:0%
+outputs we then feed that output into an
+ 
+
+00:06:18.319 --> 00:06:21.430 align:start position:0%
+outputs we then feed that output into an
+llm<00:06:18.680><c> as</c><00:06:18.840><c> judge</c><00:06:19.639><c> along</c><00:06:19.880><c> with</c><00:06:20.039><c> a</c><00:06:20.160><c> scoring</c><00:06:20.680><c> system</c>
+
+00:06:21.430 --> 00:06:21.440 align:start position:0%
+llm as judge along with a scoring system
+ 
+
+00:06:21.440 --> 00:06:23.430 align:start position:0%
+llm as judge along with a scoring system
+and<00:06:21.560><c> this</c><00:06:21.680><c> scoring</c><00:06:22.080><c> system</c><00:06:22.560><c> can</c><00:06:22.759><c> be</c><00:06:23.199><c> many</c>
+
+00:06:23.430 --> 00:06:23.440 align:start position:0%
+and this scoring system can be many
+ 
+
+00:06:23.440 --> 00:06:25.070 align:start position:0%
+and this scoring system can be many
+different<00:06:23.720><c> things</c><00:06:23.919><c> it</c><00:06:24.039><c> could</c><00:06:24.199><c> be</c><00:06:24.800><c> uh</c><00:06:24.919><c> how</c>
+
+00:06:25.070 --> 00:06:25.080 align:start position:0%
+different things it could be uh how
+ 
+
+00:06:25.080 --> 00:06:27.029 align:start position:0%
+different things it could be uh how
+helpful<00:06:25.440><c> is</c><00:06:25.520><c> the</c><00:06:25.639><c> output</c><00:06:26.080><c> how</c><00:06:26.360><c> concise</c><00:06:26.800><c> is</c><00:06:26.919><c> the</c>
+
+00:06:27.029 --> 00:06:27.039 align:start position:0%
+helpful is the output how concise is the
+ 
+
+00:06:27.039 --> 00:06:29.029 align:start position:0%
+helpful is the output how concise is the
+output<00:06:27.800><c> is</c><00:06:27.960><c> the</c><00:06:28.120><c> tone</c><00:06:28.400><c> of</c><00:06:28.520><c> the</c><00:06:28.599><c> output</c><00:06:28.919><c> on</c>
+
+00:06:29.029 --> 00:06:29.039 align:start position:0%
+output is the tone of the output on
+ 
+
+00:06:29.039 --> 00:06:31.189 align:start position:0%
+output is the tone of the output on
+brand<00:06:29.639><c> it</c><00:06:29.759><c> could</c><00:06:29.919><c> be</c><00:06:30.319><c> how</c><00:06:30.560><c> confident</c><00:06:30.919><c> are</c><00:06:31.039><c> we</c>
+
+00:06:31.189 --> 00:06:31.199 align:start position:0%
+brand it could be how confident are we
+ 
+
+00:06:31.199 --> 00:06:33.309 align:start position:0%
+brand it could be how confident are we
+that<00:06:31.280><c> the</c><00:06:31.360><c> output</c><00:06:31.680><c> is</c><00:06:31.800><c> correct</c><00:06:32.639><c> if</c><00:06:32.800><c> our</c><00:06:33.039><c> if</c><00:06:33.160><c> our</c>
+
+00:06:33.309 --> 00:06:33.319 align:start position:0%
+that the output is correct if our if our
+ 
+
+00:06:33.319 --> 00:06:35.390 align:start position:0%
+that the output is correct if our if our
+output<00:06:33.960><c> is</c><00:06:34.160><c> a</c><00:06:34.319><c> binary</c><00:06:34.680><c> or</c><00:06:34.840><c> multiclass</c>
+
+00:06:35.390 --> 00:06:35.400 align:start position:0%
+output is a binary or multiclass
+ 
+
+00:06:35.400 --> 00:06:36.790 align:start position:0%
+output is a binary or multiclass
+classification<00:06:36.240><c> we</c><00:06:36.319><c> can</c><00:06:36.479><c> give</c><00:06:36.639><c> that</c>
+
+00:06:36.790 --> 00:06:36.800 align:start position:0%
+classification we can give that
+ 
+
+00:06:36.800 --> 00:06:38.950 align:start position:0%
+classification we can give that
+confidence<00:06:37.199><c> level</c><00:06:38.000><c> so</c><00:06:38.160><c> in</c><00:06:38.280><c> our</c><00:06:38.479><c> case</c><00:06:38.639><c> at</c>
+
+00:06:38.950 --> 00:06:38.960 align:start position:0%
+confidence level so in our case at
+ 
+
+00:06:38.960 --> 00:06:41.189 align:start position:0%
+confidence level so in our case at
+anterior<00:06:39.960><c> we</c><00:06:40.120><c> do</c><00:06:40.280><c> have</c><00:06:40.400><c> a</c><00:06:40.479><c> binary</c><00:06:40.800><c> output</c><00:06:41.080><c> our</c>
+
+00:06:41.189 --> 00:06:41.199 align:start position:0%
+anterior we do have a binary output our
+ 
+
+00:06:41.199 --> 00:06:44.150 align:start position:0%
+anterior we do have a binary output our
+generated<00:06:41.639><c> output</c><00:06:42.360><c> is</c><00:06:42.639><c> either</c><00:06:43.080><c> approval</c><00:06:44.000><c> that</c>
+
+00:06:44.150 --> 00:06:44.160 align:start position:0%
+generated output is either approval that
+ 
+
+00:06:44.160 --> 00:06:45.070 align:start position:0%
+generated output is either approval that
+we<00:06:44.319><c> think</c><00:06:44.440><c> this</c><00:06:44.560><c> treatment</c><00:06:44.840><c> should</c><00:06:44.960><c> be</c>
+
+00:06:45.070 --> 00:06:45.080 align:start position:0%
+we think this treatment should be
+ 
+
+00:06:45.080 --> 00:06:46.790 align:start position:0%
+we think this treatment should be
+approved<00:06:45.599><c> or</c><00:06:45.759><c> it's</c><00:06:45.880><c> an</c><00:06:46.039><c> escalation</c><00:06:46.560><c> for</c>
+
+00:06:46.790 --> 00:06:46.800 align:start position:0%
+approved or it's an escalation for
+ 
+
+00:06:46.800 --> 00:06:48.990 align:start position:0%
+approved or it's an escalation for
+review<00:06:47.360><c> and</c><00:06:47.800><c> we</c><00:06:47.919><c> can</c><00:06:48.120><c> take</c><00:06:48.360><c> that</c><00:06:48.599><c> we</c><00:06:48.680><c> can</c><00:06:48.840><c> put</c>
+
+00:06:48.990 --> 00:06:49.000 align:start position:0%
+review and we can take that we can put
+ 
+
+00:06:49.000 --> 00:06:51.110 align:start position:0%
+review and we can take that we can put
+that<00:06:49.120><c> into</c><00:06:49.280><c> our</c><00:06:49.360><c> reference</c><00:06:49.639><c> free</c><00:06:50.160><c> eval</c><00:06:50.880><c> which</c>
+
+00:06:51.110 --> 00:06:51.120 align:start position:0%
+that into our reference free eval which
+ 
+
+00:06:51.120 --> 00:06:53.550 align:start position:0%
+that into our reference free eval which
+could<00:06:51.280><c> be</c><00:06:51.400><c> an</c><00:06:51.520><c> llm</c><00:06:51.840><c> as</c><00:06:52.000><c> judge</c><00:06:52.639><c> but</c><00:06:52.800><c> can</c><00:06:53.000><c> also</c><00:06:53.240><c> be</c>
+
+00:06:53.550 --> 00:06:53.560 align:start position:0%
+could be an llm as judge but can also be
+ 
+
+00:06:53.560 --> 00:06:55.029 align:start position:0%
+could be an llm as judge but can also be
+other<00:06:53.759><c> methods</c><00:06:54.280><c> such</c><00:06:54.440><c> as</c><00:06:54.599><c> confidence</c>
+
+00:06:55.029 --> 00:06:55.039 align:start position:0%
+other methods such as confidence
+ 
+
+00:06:55.039 --> 00:06:58.270 align:start position:0%
+other methods such as confidence
+estimation<00:06:55.639><c> using</c><00:06:55.919><c> logic</c><00:06:56.199><c> based</c><00:06:56.680><c> methods</c><00:06:57.680><c> and</c>
+
+00:06:58.270 --> 00:06:58.280 align:start position:0%
+estimation using logic based methods and
+ 
+
+00:06:58.280 --> 00:07:00.070 align:start position:0%
+estimation using logic based methods and
+using<00:06:58.639><c> those</c><00:06:58.800><c> methods</c><00:06:59.160><c> either</c><00:06:59.599><c> alone</c><00:06:59.800><c> or</c><00:06:59.919><c> in</c>
+
+00:07:00.070 --> 00:07:00.080 align:start position:0%
+using those methods either alone or in
+ 
+
+00:07:00.080 --> 00:07:02.270 align:start position:0%
+using those methods either alone or in
+combination<00:07:00.840><c> we</c><00:07:00.960><c> can</c><00:07:01.160><c> then</c><00:07:01.319><c> give</c><00:07:01.479><c> an</c><00:07:01.599><c> output</c>
+
+00:07:02.270 --> 00:07:02.280 align:start position:0%
+combination we can then give an output
+ 
+
+00:07:02.280 --> 00:07:03.830 align:start position:0%
+combination we can then give an output
+and<00:07:02.360><c> in</c><00:07:02.479><c> our</c><00:07:02.680><c> case</c><00:07:02.960><c> we</c><00:07:03.120><c> use</c><00:07:03.280><c> it</c><00:07:03.400><c> to</c><00:07:03.520><c> give</c><00:07:03.599><c> us</c><00:07:03.720><c> a</c>
+
+00:07:03.830 --> 00:07:03.840 align:start position:0%
+and in our case we use it to give us a
+ 
+
+00:07:03.840 --> 00:07:05.909 align:start position:0%
+and in our case we use it to give us a
+confidence<00:07:04.240><c> grading</c><00:07:04.879><c> how</c><00:07:05.120><c> confident</c><00:07:05.520><c> are</c><00:07:05.720><c> we</c>
+
+00:07:05.909 --> 00:07:05.919 align:start position:0%
+confidence grading how confident are we
+ 
+
+00:07:05.919 --> 00:07:08.230 align:start position:0%
+confidence grading how confident are we
+that<00:07:06.080><c> our</c><00:07:06.360><c> llm</c><00:07:06.800><c> outputs</c><00:07:07.599><c> from</c><00:07:07.720><c> our</c><00:07:07.879><c> actual</c>
+
+00:07:08.230 --> 00:07:08.240 align:start position:0%
+that our llm outputs from our actual
+ 
+
+00:07:08.240 --> 00:07:10.830 align:start position:0%
+that our llm outputs from our actual
+pipeline<00:07:09.160><c> here</c><00:07:09.599><c> is</c><00:07:09.800><c> correct</c><00:07:10.360><c> we</c><00:07:10.440><c> can</c><00:07:10.599><c> go</c><00:07:10.720><c> all</c>
+
+00:07:10.830 --> 00:07:10.840 align:start position:0%
+pipeline here is correct we can go all
+ 
+
+00:07:10.840 --> 00:07:12.749 align:start position:0%
+pipeline here is correct we can go all
+the<00:07:10.960><c> way</c><00:07:11.120><c> from</c><00:07:11.879><c> high</c><00:07:12.120><c> confidence</c><00:07:12.479><c> that</c><00:07:12.599><c> it's</c>
+
+00:07:12.749 --> 00:07:12.759 align:start position:0%
+the way from high confidence that it's
+ 
+
+00:07:12.759 --> 00:07:15.029 align:start position:0%
+the way from high confidence that it's
+correct<00:07:13.240><c> down</c><00:07:13.440><c> to</c><00:07:14.120><c> such</c><00:07:14.400><c> low</c><00:07:14.599><c> confidence</c><00:07:14.960><c> that</c>
+
+00:07:15.029 --> 00:07:15.039 align:start position:0%
+correct down to such low confidence that
+ 
+
+00:07:15.039 --> 00:07:16.510 align:start position:0%
+correct down to such low confidence that
+we<00:07:15.160><c> actively</c><00:07:15.560><c> think</c><00:07:15.720><c> this</c><00:07:15.840><c> is</c><00:07:16.000><c> wrong</c><00:07:16.319><c> and</c><00:07:16.440><c> then</c>
+
+00:07:16.510 --> 00:07:16.520 align:start position:0%
+we actively think this is wrong and then
+ 
+
+00:07:16.520 --> 00:07:17.909 align:start position:0%
+we actively think this is wrong and then
+we<00:07:16.599><c> can</c><00:07:16.759><c> use</c><00:07:16.960><c> that</c><00:07:17.080><c> score</c><00:07:17.560><c> and</c><00:07:17.639><c> use</c><00:07:17.800><c> a</c>
+
+00:07:17.909 --> 00:07:17.919 align:start position:0%
+we can use that score and use a
+ 
+
+00:07:17.919 --> 00:07:19.830 align:start position:0%
+we can use that score and use a
+threshold<00:07:18.560><c> to</c><00:07:18.720><c> convert</c><00:07:19.120><c> that</c><00:07:19.360><c> into</c><00:07:19.599><c> what</c><00:07:19.720><c> the</c>
+
+00:07:19.830 --> 00:07:19.840 align:start position:0%
+threshold to convert that into what the
+ 
+
+00:07:19.840 --> 00:07:21.550 align:start position:0%
+threshold to convert that into what the
+predicted<00:07:20.240><c> correct</c><00:07:20.520><c> output</c><00:07:20.879><c> is</c><00:07:21.240><c> so</c><00:07:21.360><c> what</c><00:07:21.479><c> do</c>
+
+00:07:21.550 --> 00:07:21.560 align:start position:0%
+predicted correct output is so what do
+ 
+
+00:07:21.560 --> 00:07:23.430 align:start position:0%
+predicted correct output is so what do
+we<00:07:21.680><c> think</c><00:07:22.000><c> the</c><00:07:22.199><c> the</c><00:07:22.400><c> right</c><00:07:22.639><c> answer</c><00:07:22.960><c> is</c><00:07:23.319><c> and</c>
+
+00:07:23.430 --> 00:07:23.440 align:start position:0%
+we think the the right answer is and
+ 
+
+00:07:23.440 --> 00:07:24.869 align:start position:0%
+we think the the right answer is and
+these<00:07:23.599><c> are</c><00:07:23.680><c> two</c><00:07:23.800><c> pieces</c><00:07:24.039><c> of</c><00:07:24.160><c> information</c><00:07:24.759><c> that</c>
+
+00:07:24.869 --> 00:07:24.879 align:start position:0%
+these are two pieces of information that
+ 
+
+00:07:24.879 --> 00:07:27.110 align:start position:0%
+these are two pieces of information that
+we<00:07:25.000><c> can</c><00:07:25.199><c> then</c><00:07:25.360><c> use</c><00:07:25.680><c> in</c><00:07:25.840><c> different</c>
+
+00:07:27.110 --> 00:07:27.120 align:start position:0%
+we can then use in different
+ 
+
+00:07:27.120 --> 00:07:29.550 align:start position:0%
+we can then use in different
+ways<00:07:28.120><c> the</c><00:07:28.240><c> first</c><00:07:28.440><c> thing</c><00:07:28.560><c> we</c><00:07:28.639><c> can</c><00:07:28.800><c> do</c><00:07:29.000><c> is</c><00:07:29.120><c> we</c><00:07:29.199><c> can</c>
+
+00:07:29.550 --> 00:07:29.560 align:start position:0%
+ways the first thing we can do is we can
+ 
+
+00:07:29.560 --> 00:07:32.110 align:start position:0%
+ways the first thing we can do is we can
+predict<00:07:30.319><c> the</c><00:07:30.560><c> estimated</c><00:07:31.080><c> performance</c><00:07:31.759><c> on</c><00:07:31.960><c> all</c>
+
+00:07:32.110 --> 00:07:32.120 align:start position:0%
+predict the estimated performance on all
+ 
+
+00:07:32.120 --> 00:07:33.710 align:start position:0%
+predict the estimated performance on all
+of<00:07:32.199><c> the</c><00:07:32.360><c> cases</c><00:07:32.800><c> real</c><00:07:33.080><c> time</c><00:07:33.440><c> as</c><00:07:33.560><c> we're</c>
+
+00:07:33.710 --> 00:07:33.720 align:start position:0%
+of the cases real time as we're
+ 
+
+00:07:33.720 --> 00:07:35.510 align:start position:0%
+of the cases real time as we're
+processing<00:07:34.160><c> them</c><00:07:34.800><c> so</c><00:07:34.919><c> we</c><00:07:35.039><c> get</c><00:07:35.160><c> our</c><00:07:35.240><c> medical</c>
+
+00:07:35.510 --> 00:07:35.520 align:start position:0%
+processing them so we get our medical
+ 
+
+00:07:35.520 --> 00:07:37.150 align:start position:0%
+processing them so we get our medical
+decisions<00:07:35.919><c> coming</c><00:07:36.160><c> in</c><00:07:36.599><c> we</c><00:07:36.759><c> put</c><00:07:36.879><c> them</c><00:07:37.000><c> through</c>
+
+00:07:37.150 --> 00:07:37.160 align:start position:0%
+decisions coming in we put them through
+ 
+
+00:07:37.160 --> 00:07:38.589 align:start position:0%
+decisions coming in we put them through
+our<00:07:37.240><c> reference</c><00:07:37.520><c> for</c><00:07:37.720><c> evals</c><00:07:38.160><c> and</c><00:07:38.240><c> we</c><00:07:38.360><c> get</c><00:07:38.479><c> our</c>
+
+00:07:38.589 --> 00:07:38.599 align:start position:0%
+our reference for evals and we get our
+ 
+
+00:07:38.599 --> 00:07:40.550 align:start position:0%
+our reference for evals and we get our
+predicted<00:07:38.960><c> correct</c><00:07:39.280><c> outputs</c><00:07:40.080><c> we</c><00:07:40.199><c> can</c><00:07:40.360><c> then</c>
+
+00:07:40.550 --> 00:07:40.560 align:start position:0%
+predicted correct outputs we can then
+ 
+
+00:07:40.560 --> 00:07:42.390 align:start position:0%
+predicted correct outputs we can then
+see<00:07:40.840><c> across</c><00:07:41.160><c> all</c><00:07:41.280><c> of</c><00:07:41.400><c> these</c><00:07:41.599><c> cases</c><00:07:42.120><c> not</c><00:07:42.280><c> just</c>
+
+00:07:42.390 --> 00:07:42.400 align:start position:0%
+see across all of these cases not just
+ 
+
+00:07:42.400 --> 00:07:43.589 align:start position:0%
+see across all of these cases not just
+the<00:07:42.520><c> ones</c><00:07:42.680><c> that</c><00:07:42.759><c> we're</c><00:07:42.879><c> doing</c><00:07:43.039><c> human</c><00:07:43.280><c> reviews</c>
+
+00:07:43.589 --> 00:07:43.599 align:start position:0%
+the ones that we're doing human reviews
+ 
+
+00:07:43.599 --> 00:07:45.350 align:start position:0%
+the ones that we're doing human reviews
+on<00:07:44.120><c> how</c><00:07:44.280><c> do</c><00:07:44.400><c> we</c><00:07:44.560><c> think</c><00:07:44.720><c> we</c><00:07:44.879><c> performed</c><00:07:45.280><c> and</c>
+
+00:07:45.350 --> 00:07:45.360 align:start position:0%
+on how do we think we performed and
+ 
+
+00:07:45.360 --> 00:07:46.550 align:start position:0%
+on how do we think we performed and
+that's<00:07:45.560><c> useful</c><00:07:45.879><c> because</c><00:07:46.080><c> we</c><00:07:46.159><c> can</c><00:07:46.319><c> then</c>
+
+00:07:46.550 --> 00:07:46.560 align:start position:0%
+that's useful because we can then
+ 
+
+00:07:46.560 --> 00:07:48.149 align:start position:0%
+that's useful because we can then
+respond<00:07:46.840><c> to</c><00:07:47.039><c> that</c><00:07:47.560><c> and</c><00:07:47.639><c> we</c><00:07:47.720><c> can</c><00:07:47.800><c> feed</c><00:07:48.039><c> that</c>
+
+00:07:48.149 --> 00:07:48.159 align:start position:0%
+respond to that and we can feed that
+ 
+
+00:07:48.159 --> 00:07:50.230 align:start position:0%
+respond to that and we can feed that
+back<00:07:48.280><c> to</c><00:07:48.599><c> customers</c><00:07:49.599><c> we</c><00:07:49.720><c> can</c><00:07:49.840><c> then</c><00:07:49.960><c> take</c><00:07:50.080><c> our</c>
+
+00:07:50.230 --> 00:07:50.240 align:start position:0%
+back to customers we can then take our
+ 
+
+00:07:50.240 --> 00:07:52.390 align:start position:0%
+back to customers we can then take our
+cases<00:07:50.560><c> where</c><00:07:50.680><c> we</c><00:07:50.840><c> did</c><00:07:50.960><c> do</c><00:07:51.120><c> human</c><00:07:51.360><c> reviews</c><00:07:52.240><c> as</c>
+
+00:07:52.390 --> 00:07:52.400 align:start position:0%
+cases where we did do human reviews as
+ 
+
+00:07:52.400 --> 00:07:54.869 align:start position:0%
+cases where we did do human reviews as
+well<00:07:52.560><c> as</c><00:07:52.919><c> reference</c><00:07:53.280><c> free</c><00:07:53.560><c> evals</c><00:07:54.479><c> and</c><00:07:54.599><c> we</c><00:07:54.680><c> can</c>
+
+00:07:54.869 --> 00:07:54.879 align:start position:0%
+well as reference free evals and we can
+ 
+
+00:07:54.879 --> 00:07:56.629 align:start position:0%
+well as reference free evals and we can
+compare<00:07:55.280><c> those</c><00:07:55.479><c> outputs</c><00:07:56.039><c> based</c><00:07:56.280><c> on</c><00:07:56.400><c> that</c><00:07:56.560><c> we</c>
+
+00:07:56.629 --> 00:07:56.639 align:start position:0%
+compare those outputs based on that we
+ 
+
+00:07:56.639 --> 00:07:58.270 align:start position:0%
+compare those outputs based on that we
+can<00:07:56.800><c> compute</c><00:07:57.080><c> an</c><00:07:57.240><c> alignment</c><00:07:57.639><c> and</c><00:07:57.800><c> see</c><00:07:58.120><c> how</c>
+
+00:07:58.270 --> 00:07:58.280 align:start position:0%
+can compute an alignment and see how
+ 
+
+00:07:58.280 --> 00:07:59.830 align:start position:0%
+can compute an alignment and see how
+well<00:07:58.440><c> is</c><00:07:58.560><c> our</c><00:07:58.720><c> system</c><00:07:59.000><c> doing</c><00:07:59.240><c> and</c><00:07:59.520><c> how</c><00:07:59.680><c> much</c>
+
+00:07:59.830 --> 00:07:59.840 align:start position:0%
+well is our system doing and how much
+ 
+
+00:07:59.840 --> 00:08:01.029 align:start position:0%
+well is our system doing and how much
+can<00:07:59.960><c> we</c><00:08:00.120><c> trust</c>
+
+00:08:01.029 --> 00:08:01.039 align:start position:0%
+can we trust
+ 
+
+00:08:01.039 --> 00:08:03.469 align:start position:0%
+can we trust
+it<00:08:02.039><c> and</c><00:08:02.199><c> another</c><00:08:02.400><c> thing</c><00:08:02.520><c> that</c><00:08:02.639><c> we</c><00:08:02.720><c> can</c><00:08:02.879><c> do</c><00:08:03.319><c> is</c>
+
+00:08:03.469 --> 00:08:03.479 align:start position:0%
+it and another thing that we can do is
+ 
+
+00:08:03.479 --> 00:08:05.149 align:start position:0%
+it and another thing that we can do is
+we<00:08:03.560><c> can</c><00:08:03.680><c> take</c><00:08:03.840><c> our</c><00:08:04.080><c> confidence</c><00:08:04.520><c> grading</c>
+
+00:08:05.149 --> 00:08:05.159 align:start position:0%
+we can take our confidence grading
+ 
+
+00:08:05.159 --> 00:08:06.950 align:start position:0%
+we can take our confidence grading
+rather<00:08:05.360><c> than</c><00:08:05.479><c> our</c><00:08:05.599><c> predicted</c><00:08:05.919><c> outputs</c><00:08:06.800><c> from</c>
+
+00:08:06.950 --> 00:08:06.960 align:start position:0%
+rather than our predicted outputs from
+ 
+
+00:08:06.960 --> 00:08:09.149 align:start position:0%
+rather than our predicted outputs from
+our<00:08:07.080><c> reference</c><00:08:07.479><c> evals</c><00:08:08.280><c> and</c><00:08:08.400><c> we</c><00:08:08.479><c> can</c><00:08:08.680><c> combine</c>
+
+00:08:09.149 --> 00:08:09.159 align:start position:0%
+our reference evals and we can combine
+ 
+
+00:08:09.159 --> 00:08:11.110 align:start position:0%
+our reference evals and we can combine
+those<00:08:09.520><c> with</c><00:08:09.720><c> contextual</c><00:08:10.319><c> factors</c><00:08:10.879><c> things</c>
+
+00:08:11.110 --> 00:08:11.120 align:start position:0%
+those with contextual factors things
+ 
+
+00:08:11.120 --> 00:08:12.629 align:start position:0%
+those with contextual factors things
+like<00:08:11.280><c> the</c><00:08:11.400><c> cost</c><00:08:11.560><c> of</c><00:08:11.720><c> procedure</c><00:08:12.159><c> the</c><00:08:12.280><c> risk</c><00:08:12.479><c> of</c>
+
+00:08:12.629 --> 00:08:12.639 align:start position:0%
+like the cost of procedure the risk of
+ 
+
+00:08:12.639 --> 00:08:14.909 align:start position:0%
+like the cost of procedure the risk of
+bias<00:08:13.000><c> the</c><00:08:13.120><c> previous</c><00:08:13.440><c> error</c><00:08:13.720><c> rates</c><00:08:14.599><c> and</c><00:08:14.680><c> we</c><00:08:14.800><c> can</c>
+
+00:08:14.909 --> 00:08:14.919 align:start position:0%
+bias the previous error rates and we can
+ 
+
+00:08:14.919 --> 00:08:16.909 align:start position:0%
+bias the previous error rates and we can
+use<00:08:15.159><c> those</c><00:08:15.319><c> to</c><00:08:15.560><c> dynamically</c><00:08:16.159><c> prioritize</c><00:08:16.800><c> the</c>
+
+00:08:16.909 --> 00:08:16.919 align:start position:0%
+use those to dynamically prioritize the
+ 
+
+00:08:16.919 --> 00:08:19.869 align:start position:0%
+use those to dynamically prioritize the
+order<00:08:17.440><c> for</c><00:08:17.680><c> cases</c><00:08:18.440><c> so</c><00:08:18.599><c> we</c><00:08:18.720><c> can</c><00:08:18.919><c> identify</c><00:08:19.680><c> the</c>
+
+00:08:19.869 --> 00:08:19.879 align:start position:0%
+order for cases so we can identify the
+ 
+
+00:08:19.879 --> 00:08:21.469 align:start position:0%
+order for cases so we can identify the
+most<00:08:20.159><c> relevant</c><00:08:20.639><c> cases</c><00:08:21.120><c> with</c><00:08:21.240><c> the</c><00:08:21.319><c> highest</c>
+
+00:08:21.469 --> 00:08:21.479 align:start position:0%
+most relevant cases with the highest
+ 
+
+00:08:21.479 --> 00:08:23.029 align:start position:0%
+most relevant cases with the highest
+probability<00:08:21.840><c> of</c><00:08:21.879><c> error</c><00:08:22.199><c> to</c><00:08:22.400><c> then</c><00:08:22.599><c> prioritize</c>
+
+00:08:23.029 --> 00:08:23.039 align:start position:0%
+probability of error to then prioritize
+ 
+
+00:08:23.039 --> 00:08:24.909 align:start position:0%
+probability of error to then prioritize
+those<00:08:23.120><c> for</c><00:08:23.240><c> human</c>
+
+00:08:24.909 --> 00:08:24.919 align:start position:0%
+those for human
+ 
+
+00:08:24.919 --> 00:08:27.110 align:start position:0%
+those for human
+review<00:08:25.919><c> and</c><00:08:26.080><c> this</c><00:08:26.199><c> creates</c><00:08:26.520><c> this</c><00:08:26.680><c> virtuous</c>
+
+00:08:27.110 --> 00:08:27.120 align:start position:0%
+review and this creates this virtuous
+ 
+
+00:08:27.120 --> 00:08:29.830 align:start position:0%
+review and this creates this virtuous
+cycle<00:08:28.039><c> where</c><00:08:28.360><c> we</c><00:08:28.520><c> can</c><00:08:28.720><c> keep</c><00:08:28.879><c> on</c><00:08:29.039><c> using</c><00:08:29.599><c> human</c>
+
+00:08:29.830 --> 00:08:29.840 align:start position:0%
+cycle where we can keep on using human
+ 
+
+00:08:29.840 --> 00:08:31.670 align:start position:0%
+cycle where we can keep on using human
+reviews<00:08:30.440><c> to</c><00:08:30.680><c> validate</c><00:08:31.080><c> and</c><00:08:31.199><c> improve</c><00:08:31.479><c> our</c>
+
+00:08:31.670 --> 00:08:31.680 align:start position:0%
+reviews to validate and improve our
+ 
+
+00:08:31.680 --> 00:08:33.750 align:start position:0%
+reviews to validate and improve our
+performance<00:08:32.320><c> and</c><00:08:32.440><c> then</c><00:08:32.640><c> we</c><00:08:32.800><c> can</c><00:08:33.200><c> prioritize</c>
+
+00:08:33.750 --> 00:08:33.760 align:start position:0%
+performance and then we can prioritize
+ 
+
+00:08:33.760 --> 00:08:35.269 align:start position:0%
+performance and then we can prioritize
+cases<00:08:34.159><c> dynamically</c><00:08:34.680><c> and</c><00:08:34.760><c> keep</c><00:08:34.880><c> on</c><00:08:35.000><c> feeding</c>
+
+00:08:35.269 --> 00:08:35.279 align:start position:0%
+cases dynamically and keep on feeding
+ 
+
+00:08:35.279 --> 00:08:37.110 align:start position:0%
+cases dynamically and keep on feeding
+that<00:08:35.440><c> back</c><00:08:35.640><c> so</c><00:08:35.800><c> our</c><00:08:35.959><c> reference</c><00:08:36.360><c> free</c><00:08:36.640><c> evals</c>
+
+00:08:37.110 --> 00:08:37.120 align:start position:0%
+that back so our reference free evals
+ 
+
+00:08:37.120 --> 00:08:38.630 align:start position:0%
+that back so our reference free evals
+surface<00:08:37.560><c> the</c><00:08:37.680><c> cases</c><00:08:38.039><c> and</c><00:08:38.159><c> then</c><00:08:38.240><c> our</c><00:08:38.399><c> human</c>
+
+00:08:38.630 --> 00:08:38.640 align:start position:0%
+surface the cases and then our human
+ 
+
+00:08:38.640 --> 00:08:40.029 align:start position:0%
+surface the cases and then our human
+review<00:08:38.919><c> determines</c><00:08:39.279><c> the</c><00:08:39.399><c> accuracy</c><00:08:39.839><c> and</c><00:08:39.919><c> we</c>
+
+00:08:40.029 --> 00:08:40.039 align:start position:0%
+review determines the accuracy and we
+ 
+
+00:08:40.039 --> 00:08:41.550 align:start position:0%
+review determines the accuracy and we
+can<00:08:40.159><c> keep</c><00:08:40.320><c> on</c><00:08:40.479><c> doing</c><00:08:40.760><c> this</c><00:08:41.039><c> in</c><00:08:41.120><c> a</c><00:08:41.279><c> process</c>
+
+00:08:41.550 --> 00:08:41.560 align:start position:0%
+can keep on doing this in a process
+ 
+
+00:08:41.560 --> 00:08:43.589 align:start position:0%
+can keep on doing this in a process
+that's<00:08:41.800><c> often</c><00:08:42.039><c> described</c><00:08:42.839><c> as</c><00:08:43.039><c> validating</c><00:08:43.479><c> the</c>
+
+00:08:43.589 --> 00:08:43.599 align:start position:0%
+that's often described as validating the
+ 
+
+00:08:43.599 --> 00:08:45.590 align:start position:0%
+that's often described as validating the
+validator<00:08:44.560><c> and</c><00:08:44.760><c> over</c><00:08:44.959><c> time</c><00:08:45.160><c> the</c><00:08:45.240><c> number</c><00:08:45.480><c> of</c>
+
+00:08:45.590 --> 00:08:45.600 align:start position:0%
+validator and over time the number of
+ 
+
+00:08:45.600 --> 00:08:46.990 align:start position:0%
+validator and over time the number of
+edge<00:08:45.800><c> cases</c><00:08:46.080><c> that</c><00:08:46.200><c> we've</c><00:08:46.360><c> never</c><00:08:46.480><c> seen</c><00:08:46.720><c> before</c>
+
+00:08:46.990 --> 00:08:47.000 align:start position:0%
+edge cases that we've never seen before
+ 
+
+00:08:47.000 --> 00:08:48.750 align:start position:0%
+edge cases that we've never seen before
+get<00:08:47.120><c> smaller</c><00:08:47.440><c> and</c><00:08:47.560><c> smaller</c><00:08:48.200><c> and</c><00:08:48.320><c> our</c><00:08:48.480><c> ability</c>
+
+00:08:48.750 --> 00:08:48.760 align:start position:0%
+get smaller and smaller and our ability
+ 
+
+00:08:48.760 --> 00:08:50.550 align:start position:0%
+get smaller and smaller and our ability
+to<00:08:48.920><c> detect</c><00:08:49.240><c> them</c><00:08:49.480><c> improves</c><00:08:50.120><c> and</c><00:08:50.240><c> now</c><00:08:50.399><c> we've</c>
+
+00:08:50.550 --> 00:08:50.560 align:start position:0%
+to detect them improves and now we've
+ 
+
+00:08:50.560 --> 00:08:51.550 align:start position:0%
+to detect them improves and now we've
+built<00:08:50.760><c> something</c><00:08:50.959><c> that's</c><00:08:51.120><c> really</c><00:08:51.240><c> hard</c><00:08:51.399><c> to</c>
+
+00:08:51.550 --> 00:08:51.560 align:start position:0%
+built something that's really hard to
+ 
+
+00:08:51.560 --> 00:08:53.190 align:start position:0%
+built something that's really hard to
+replicate<00:08:52.120><c> so</c><00:08:52.240><c> while</c><00:08:52.360><c> a</c><00:08:52.480><c> competitor</c><00:08:52.959><c> may</c><00:08:53.120><c> be</c>
+
+00:08:53.190 --> 00:08:53.200 align:start position:0%
+replicate so while a competitor may be
+ 
+
+00:08:53.200 --> 00:08:55.230 align:start position:0%
+replicate so while a competitor may be
+able<00:08:53.360><c> to</c><00:08:53.480><c> make</c><00:08:53.600><c> a</c><00:08:53.720><c> similar</c><00:08:54.080><c> product</c><00:08:54.920><c> you</c><00:08:55.040><c> can</c>
+
+00:08:55.230 --> 00:08:55.240 align:start position:0%
+able to make a similar product you can
+ 
+
+00:08:55.240 --> 00:08:57.030 align:start position:0%
+able to make a similar product you can
+only<00:08:55.519><c> build</c><00:08:55.800><c> this</c><00:08:56.000><c> system</c><00:08:56.360><c> by</c><00:08:56.519><c> processing</c>
+
+00:08:57.030 --> 00:08:57.040 align:start position:0%
+only build this system by processing
+ 
+
+00:08:57.040 --> 00:08:58.949 align:start position:0%
+only build this system by processing
+High<00:08:57.279><c> volumes</c><00:08:57.720><c> of</c><00:08:57.880><c> real</c><00:08:58.240><c> data</c><00:08:58.640><c> and</c><00:08:58.760><c> going</c>
+
+00:08:58.949 --> 00:08:58.959 align:start position:0%
+High volumes of real data and going
+ 
+
+00:08:58.959 --> 00:09:00.350 align:start position:0%
+High volumes of real data and going
+through<00:08:59.120><c> a</c><00:08:59.200><c> number</c><00:08:59.440><c> number</c><00:08:59.680><c> of</c><00:08:59.800><c> datadriven</c>
+
+00:09:00.350 --> 00:09:00.360 align:start position:0%
+through a number number of datadriven
+ 
+
+00:09:00.360 --> 00:09:01.750 align:start position:0%
+through a number number of datadriven
+iterations<00:09:01.000><c> and</c><00:09:01.079><c> once</c><00:09:01.200><c> we're</c><00:09:01.360><c> confident</c><00:09:01.680><c> in</c>
+
+00:09:01.750 --> 00:09:01.760 align:start position:0%
+iterations and once we're confident in
+ 
+
+00:09:01.760 --> 00:09:03.310 align:start position:0%
+iterations and once we're confident in
+the<00:09:01.839><c> performance</c><00:09:02.160><c> of</c><00:09:02.279><c> our</c><00:09:02.440><c> system</c><00:09:03.079><c> we</c><00:09:03.160><c> can</c>
+
+00:09:03.310 --> 00:09:03.320 align:start position:0%
+the performance of our system we can
+ 
+
+00:09:03.320 --> 00:09:04.590 align:start position:0%
+the performance of our system we can
+then<00:09:03.519><c> actually</c><00:09:03.760><c> incorporate</c><00:09:04.200><c> it</c><00:09:04.320><c> into</c><00:09:04.480><c> the</c>
+
+00:09:04.590 --> 00:09:04.600 align:start position:0%
+then actually incorporate it into the
+ 
+
+00:09:04.600 --> 00:09:06.870 align:start position:0%
+then actually incorporate it into the
+pipeline<00:09:05.040><c> itself</c><00:09:06.040><c> so</c><00:09:06.240><c> now</c><00:09:06.360><c> it</c><00:09:06.480><c> looks</c><00:09:06.640><c> like</c><00:09:06.800><c> the</c>
+
+00:09:06.870 --> 00:09:06.880 align:start position:0%
+pipeline itself so now it looks like the
+ 
+
+00:09:06.880 --> 00:09:09.030 align:start position:0%
+pipeline itself so now it looks like the
+following<00:09:07.399><c> we</c><00:09:07.560><c> have</c><00:09:07.640><c> our</c><00:09:07.839><c> inputs</c><00:09:08.640><c> we</c><00:09:08.760><c> pass</c><00:09:08.920><c> it</c>
+
+00:09:09.030 --> 00:09:09.040 align:start position:0%
+following we have our inputs we pass it
+ 
+
+00:09:09.040 --> 00:09:10.190 align:start position:0%
+following we have our inputs we pass it
+through<00:09:09.160><c> our</c><00:09:09.279><c> original</c><00:09:09.640><c> Pipeline</c><00:09:10.040><c> and</c><00:09:10.120><c> we</c>
+
+00:09:10.190 --> 00:09:10.200 align:start position:0%
+through our original Pipeline and we
+ 
+
+00:09:10.200 --> 00:09:12.430 align:start position:0%
+through our original Pipeline and we
+generate<00:09:10.519><c> our</c><00:09:10.760><c> outputs</c><00:09:11.760><c> and</c><00:09:11.880><c> we</c><00:09:12.000><c> then</c><00:09:12.200><c> pass</c><00:09:12.320><c> it</c>
+
+00:09:12.430 --> 00:09:12.440 align:start position:0%
+generate our outputs and we then pass it
+ 
+
+00:09:12.440 --> 00:09:14.110 align:start position:0%
+generate our outputs and we then pass it
+into<00:09:12.640><c> our</c><00:09:12.760><c> reference</c><00:09:13.079><c> free</c><00:09:13.320><c> evals</c><00:09:13.920><c> and</c>
+
+00:09:14.110 --> 00:09:14.120 align:start position:0%
+into our reference free evals and
+ 
+
+00:09:14.120 --> 00:09:15.430 align:start position:0%
+into our reference free evals and
+depending<00:09:14.519><c> on</c><00:09:14.680><c> what</c><00:09:14.800><c> the</c><00:09:14.880><c> reference</c><00:09:15.200><c> free</c>
+
+00:09:15.430 --> 00:09:15.440 align:start position:0%
+depending on what the reference free
+ 
+
+00:09:15.440 --> 00:09:17.430 align:start position:0%
+depending on what the reference free
+eval<00:09:15.800><c> output</c><00:09:16.160><c> is</c><00:09:16.480><c> we</c><00:09:16.600><c> can</c><00:09:16.839><c> either</c><00:09:17.200><c> give</c><00:09:17.320><c> it</c>
+
+00:09:17.430 --> 00:09:17.440 align:start position:0%
+eval output is we can either give it
+ 
+
+00:09:17.440 --> 00:09:18.710 align:start position:0%
+eval output is we can either give it
+back<00:09:17.560><c> to</c><00:09:17.680><c> the</c><00:09:17.839><c> customer</c><00:09:18.279><c> because</c><00:09:18.480><c> we're</c>
+
+00:09:18.710 --> 00:09:18.720 align:start position:0%
+back to the customer because we're
+ 
+
+00:09:18.720 --> 00:09:19.870 align:start position:0%
+back to the customer because we're
+confident<00:09:19.120><c> in</c><00:09:19.240><c> the</c><00:09:19.360><c> response</c><00:09:19.680><c> that</c><00:09:19.760><c> we're</c>
+
+00:09:19.870 --> 00:09:19.880 align:start position:0%
+confident in the response that we're
+ 
+
+00:09:19.880 --> 00:09:21.350 align:start position:0%
+confident in the response that we're
+giving<00:09:20.200><c> or</c><00:09:20.320><c> we</c><00:09:20.440><c> can</c><00:09:20.600><c> decide</c><00:09:20.920><c> to</c><00:09:21.120><c> take</c><00:09:21.240><c> a</c>
+
+00:09:21.350 --> 00:09:21.360 align:start position:0%
+giving or we can decide to take a
+ 
+
+00:09:21.360 --> 00:09:23.269 align:start position:0%
+giving or we can decide to take a
+further<00:09:21.720><c> action</c><00:09:22.440><c> and</c><00:09:22.600><c> this</c><00:09:22.720><c> further</c><00:09:23.000><c> action</c>
+
+00:09:23.269 --> 00:09:23.279 align:start position:0%
+further action and this further action
+ 
+
+00:09:23.279 --> 00:09:24.630 align:start position:0%
+further action and this further action
+might<00:09:23.560><c> be</c><00:09:23.680><c> that</c><00:09:23.760><c> we</c><00:09:23.880><c> send</c><00:09:24.040><c> it</c><00:09:24.160><c> off</c><00:09:24.279><c> to</c><00:09:24.399><c> another</c>
+
+00:09:24.630 --> 00:09:24.640 align:start position:0%
+might be that we send it off to another
+ 
+
+00:09:24.640 --> 00:09:26.670 align:start position:0%
+might be that we send it off to another
+llm<00:09:25.040><c> pipeline</c><00:09:25.680><c> perhaps</c><00:09:25.959><c> with</c><00:09:26.120><c> more</c><00:09:26.279><c> expensive</c>
+
+00:09:26.670 --> 00:09:26.680 align:start position:0%
+llm pipeline perhaps with more expensive
+ 
+
+00:09:26.680 --> 00:09:28.910 align:start position:0%
+llm pipeline perhaps with more expensive
+models<00:09:27.600><c> it</c><00:09:27.720><c> might</c><00:09:27.880><c> be</c><00:09:28.040><c> that</c><00:09:28.160><c> we</c><00:09:28.279><c> want</c><00:09:28.440><c> to</c><00:09:28.560><c> do</c><00:09:28.800><c> a</c>
+
+00:09:28.910 --> 00:09:28.920 align:start position:0%
+models it might be that we want to do a
+ 
+
+00:09:28.920 --> 00:09:31.230 align:start position:0%
+models it might be that we want to do a
+human<00:09:29.640><c> internally</c><00:09:30.440><c> and</c><00:09:30.560><c> give</c><00:09:30.680><c> it</c><00:09:30.760><c> to</c><00:09:30.880><c> an</c><00:09:31.000><c> on</c>
+
+00:09:31.230 --> 00:09:31.240 align:start position:0%
+human internally and give it to an on
+ 
+
+00:09:31.240 --> 00:09:32.990 align:start position:0%
+human internally and give it to an on
+call<00:09:31.399><c> clinician</c><00:09:32.000><c> to</c><00:09:32.160><c> review</c><00:09:32.480><c> it</c><00:09:32.680><c> and</c><00:09:32.760><c> then</c>
+
+00:09:32.990 --> 00:09:33.000 align:start position:0%
+call clinician to review it and then
+ 
+
+00:09:33.000 --> 00:09:34.310 align:start position:0%
+call clinician to review it and then
+return<00:09:33.160><c> it</c><00:09:33.240><c> to</c><00:09:33.360><c> the</c><00:09:33.440><c> customer</c><00:09:33.839><c> or</c><00:09:33.959><c> it</c><00:09:34.040><c> might</c><00:09:34.200><c> be</c>
+
+00:09:34.310 --> 00:09:34.320 align:start position:0%
+return it to the customer or it might be
+ 
+
+00:09:34.320 --> 00:09:35.550 align:start position:0%
+return it to the customer or it might be
+that<00:09:34.399><c> we</c><00:09:34.480><c> want</c><00:09:34.600><c> to</c><00:09:34.760><c> actually</c><00:09:34.920><c> surface</c><00:09:35.240><c> it</c><00:09:35.360><c> into</c>
+
+00:09:35.550 --> 00:09:35.560 align:start position:0%
+that we want to actually surface it into
+ 
+
+00:09:35.560 --> 00:09:37.230 align:start position:0%
+that we want to actually surface it into
+the<00:09:35.680><c> customer's</c><00:09:36.160><c> review</c><00:09:36.440><c> dashboard</c><00:09:36.959><c> so</c><00:09:37.079><c> that</c>
+
+00:09:37.230 --> 00:09:37.240 align:start position:0%
+the customer's review dashboard so that
+ 
+
+00:09:37.240 --> 00:09:38.750 align:start position:0%
+the customer's review dashboard so that
+their<00:09:37.440><c> team</c><00:09:37.600><c> can</c><00:09:37.760><c> review</c><00:09:38.040><c> it</c><00:09:38.200><c> but</c><00:09:38.320><c> Al</c><00:09:38.600><c> together</c>
+
+00:09:38.750 --> 00:09:38.760 align:start position:0%
+their team can review it but Al together
+ 
+
+00:09:38.760 --> 00:09:40.710 align:start position:0%
+their team can review it but Al together
+this<00:09:38.920><c> becomes</c><00:09:39.160><c> a</c><00:09:39.320><c> powerful</c><00:09:39.680><c> mechanism</c><00:09:40.440><c> for</c><00:09:40.600><c> us</c>
+
+00:09:40.710 --> 00:09:40.720 align:start position:0%
+this becomes a powerful mechanism for us
+ 
+
+00:09:40.720 --> 00:09:43.069 align:start position:0%
+this becomes a powerful mechanism for us
+to<00:09:40.920><c> really</c><00:09:41.240><c> ensure</c><00:09:42.240><c> that</c><00:09:42.399><c> our</c><00:09:42.560><c> customer</c><00:09:42.959><c> can</c>
+
+00:09:43.069 --> 00:09:43.079 align:start position:0%
+to really ensure that our customer can
+ 
+
+00:09:43.079 --> 00:09:44.269 align:start position:0%
+to really ensure that our customer can
+trust<00:09:43.320><c> the</c><00:09:43.399><c> outputs</c><00:09:43.720><c> that</c><00:09:43.800><c> we're</c><00:09:43.959><c> giving</c><00:09:44.120><c> to</c>
+
+00:09:44.269 --> 00:09:44.279 align:start position:0%
+trust the outputs that we're giving to
+ 
+
+00:09:44.279 --> 00:09:46.790 align:start position:0%
+trust the outputs that we're giving to
+them<00:09:45.040><c> so</c><00:09:45.399><c> what's</c><00:09:45.600><c> the</c><00:09:45.720><c> impact</c><00:09:46.000><c> been</c><00:09:46.200><c> for</c><00:09:46.360><c> us</c><00:09:46.680><c> at</c>
+
+00:09:46.790 --> 00:09:46.800 align:start position:0%
+them so what's the impact been for us at
+ 
+
+00:09:46.800 --> 00:09:49.190 align:start position:0%
+them so what's the impact been for us at
+anterior<00:09:47.240><c> how</c><00:09:47.360><c> has</c><00:09:47.480><c> this</c><00:09:47.600><c> helped</c><00:09:47.920><c> us</c><00:09:48.920><c> well</c><00:09:49.079><c> the</c>
+
+00:09:49.190 --> 00:09:49.200 align:start position:0%
+anterior how has this helped us well the
+ 
+
+00:09:49.200 --> 00:09:51.150 align:start position:0%
+anterior how has this helped us well the
+first<00:09:49.360><c> thing</c><00:09:49.480><c> that's</c><00:09:49.640><c> enabled</c><00:09:49.959><c> us</c><00:09:50.079><c> to</c><00:09:50.279><c> not</c><00:09:50.519><c> do</c>
+
+00:09:51.150 --> 00:09:51.160 align:start position:0%
+first thing that's enabled us to not do
+ 
+
+00:09:51.160 --> 00:09:52.870 align:start position:0%
+first thing that's enabled us to not do
+is<00:09:51.279><c> to</c><00:09:51.480><c> hire</c><00:09:51.680><c> out</c><00:09:51.839><c> an</c><00:09:51.959><c> ever</c><00:09:52.200><c> expanding</c><00:09:52.560><c> team</c><00:09:52.760><c> of</c>
+
+00:09:52.870 --> 00:09:52.880 align:start position:0%
+is to hire out an ever expanding team of
+ 
+
+00:09:52.880 --> 00:09:55.110 align:start position:0%
+is to hire out an ever expanding team of
+expert<00:09:53.240><c> contians</c><00:09:53.760><c> to</c><00:09:53.920><c> review</c><00:09:54.240><c> these</c><00:09:54.399><c> cases</c>
+
+00:09:55.110 --> 00:09:55.120 align:start position:0%
+expert contians to review these cases
+ 
+
+00:09:55.120 --> 00:09:56.550 align:start position:0%
+expert contians to review these cases
+one<00:09:55.240><c> of</c><00:09:55.320><c> our</c><00:09:55.440><c> biggest</c><00:09:55.680><c> competitors</c><00:09:56.160><c> has</c><00:09:56.320><c> hired</c>
+
+00:09:56.550 --> 00:09:56.560 align:start position:0%
+one of our biggest competitors has hired
+ 
+
+00:09:56.560 --> 00:09:59.030 align:start position:0%
+one of our biggest competitors has hired
+over<00:09:56.720><c> 800</c><00:09:57.160><c> nurses</c><00:09:57.519><c> to</c><00:09:57.640><c> perform</c><00:09:57.959><c> reviews</c><00:09:58.920><c> now</c>
+
+00:09:59.030 --> 00:09:59.040 align:start position:0%
+over 800 nurses to perform reviews now
+ 
+
+00:09:59.040 --> 00:10:01.790 align:start position:0%
+over 800 nurses to perform reviews now
+we<00:09:59.399><c> haven't</c><00:09:59.600><c> needed</c><00:09:59.839><c> to</c><00:09:59.959><c> do</c><00:10:00.160><c> this</c><00:10:01.000><c> instead</c>
+
+00:10:01.790 --> 00:10:01.800 align:start position:0%
+we haven't needed to do this instead
+ 
+
+00:10:01.800 --> 00:10:03.710 align:start position:0%
+we haven't needed to do this instead
+we're<00:10:02.040><c> able</c><00:10:02.279><c> to</c><00:10:02.440><c> review</c><00:10:02.880><c> tens</c><00:10:03.160><c> of</c><00:10:03.399><c> thousands</c>
+
+00:10:03.710 --> 00:10:03.720 align:start position:0%
+we're able to review tens of thousands
+ 
+
+00:10:03.720 --> 00:10:06.590 align:start position:0%
+we're able to review tens of thousands
+of<00:10:03.920><c> cases</c><00:10:04.720><c> with</c><00:10:04.880><c> a</c><00:10:05.240><c> review</c><00:10:05.600><c> team</c><00:10:06.000><c> of</c><00:10:06.240><c> less</c><00:10:06.440><c> than</c>
+
+00:10:06.590 --> 00:10:06.600 align:start position:0%
+of cases with a review team of less than
+ 
+
+00:10:06.600 --> 00:10:08.150 align:start position:0%
+of cases with a review team of less than
+10<00:10:06.880><c> clinical</c>
+
+00:10:08.150 --> 00:10:08.160 align:start position:0%
+10 clinical
+ 
+
+00:10:08.160 --> 00:10:10.310 align:start position:0%
+10 clinical
+experts<00:10:09.160><c> we've</c><00:10:09.320><c> been</c><00:10:09.440><c> able</c><00:10:09.640><c> to</c><00:10:09.760><c> achieve</c><00:10:10.079><c> very</c>
+
+00:10:10.310 --> 00:10:10.320 align:start position:0%
+experts we've been able to achieve very
+ 
+
+00:10:10.320 --> 00:10:11.630 align:start position:0%
+experts we've been able to achieve very
+strong<00:10:10.480><c> alignment</c><00:10:11.120><c> after</c><00:10:11.360><c> several</c>
+
+00:10:11.630 --> 00:10:11.640 align:start position:0%
+strong alignment after several
+ 
+
+00:10:11.640 --> 00:10:13.389 align:start position:0%
+strong alignment after several
+iterations<00:10:12.200><c> between</c><00:10:12.480><c> our</c><00:10:12.680><c> Ai</c><00:10:13.000><c> and</c><00:10:13.120><c> human</c>
+
+00:10:13.389 --> 00:10:13.399 align:start position:0%
+iterations between our Ai and human
+ 
+
+00:10:13.399 --> 00:10:15.470 align:start position:0%
+iterations between our Ai and human
+reviews<00:10:14.120><c> to</c><00:10:14.279><c> a</c><00:10:14.399><c> level</c><00:10:14.640><c> that</c><00:10:14.760><c> is</c><00:10:14.920><c> comparable</c>
+
+00:10:15.470 --> 00:10:15.480 align:start position:0%
+reviews to a level that is comparable
+ 
+
+00:10:15.480 --> 00:10:16.790 align:start position:0%
+reviews to a level that is comparable
+with<00:10:15.560><c> the</c><00:10:15.680><c> alignment</c><00:10:16.040><c> we</c><00:10:16.160><c> see</c><00:10:16.360><c> between</c><00:10:16.640><c> our</c>
+
+00:10:16.790 --> 00:10:16.800 align:start position:0%
+with the alignment we see between our
+ 
+
+00:10:16.800 --> 00:10:18.230 align:start position:0%
+with the alignment we see between our
+human
+
+00:10:18.230 --> 00:10:18.240 align:start position:0%
+human
+ 
+
+00:10:18.240 --> 00:10:20.550 align:start position:0%
+human
+reviewers<00:10:19.240><c> and</c><00:10:19.360><c> we're</c><00:10:19.519><c> now</c><00:10:19.680><c> able</c><00:10:19.880><c> to</c><00:10:20.200><c> quickly</c>
+
+00:10:20.550 --> 00:10:20.560 align:start position:0%
+reviewers and we're now able to quickly
+ 
+
+00:10:20.560 --> 00:10:22.470 align:start position:0%
+reviewers and we're now able to quickly
+identify<00:10:21.000><c> and</c><00:10:21.120><c> respond</c><00:10:21.399><c> to</c><00:10:21.519><c> errors</c><00:10:22.040><c> so</c><00:10:22.200><c> using</c>
+
+00:10:22.470 --> 00:10:22.480 align:start position:0%
+identify and respond to errors so using
+ 
+
+00:10:22.480 --> 00:10:24.310 align:start position:0%
+identify and respond to errors so using
+this<00:10:22.640><c> example</c><00:10:22.920><c> from</c><00:10:23.040><c> earlier</c><00:10:23.600><c> we</c><00:10:23.680><c> can</c><00:10:23.880><c> quickly</c>
+
+00:10:24.310 --> 00:10:24.320 align:start position:0%
+this example from earlier we can quickly
+ 
+
+00:10:24.320 --> 00:10:26.310 align:start position:0%
+this example from earlier we can quickly
+go<00:10:24.519><c> from</c><00:10:24.720><c> this</c><00:10:24.880><c> incorrect</c><00:10:25.320><c> answer</c><00:10:25.959><c> to</c><00:10:26.200><c> a</c>
+
+00:10:26.310 --> 00:10:26.320 align:start position:0%
+go from this incorrect answer to a
+ 
+
+00:10:26.320 --> 00:10:28.230 align:start position:0%
+go from this incorrect answer to a
+correct<00:10:26.680><c> answer</c><00:10:27.440><c> this</c><00:10:27.560><c> means</c><00:10:27.760><c> we're</c><00:10:27.920><c> able</c><00:10:28.120><c> to</c>
+
+00:10:28.230 --> 00:10:28.240 align:start position:0%
+correct answer this means we're able to
+ 
+
+00:10:28.240 --> 00:10:29.590 align:start position:0%
+correct answer this means we're able to
+respond<00:10:28.600><c> quickly</c><00:10:28.959><c> and</c><00:10:29.079><c> still</c><00:10:29.320><c> still</c><00:10:29.440><c> meet</c>
+
+00:10:29.590 --> 00:10:29.600 align:start position:0%
+respond quickly and still still meet
+ 
+
+00:10:29.600 --> 00:10:31.990 align:start position:0%
+respond quickly and still still meet
+customer<00:10:29.959><c> slas</c><00:10:30.480><c> around</c><00:10:30.680><c> time</c><00:10:31.079><c> expectations</c>
+
+00:10:31.990 --> 00:10:32.000 align:start position:0%
+customer slas around time expectations
+ 
+
+00:10:32.000 --> 00:10:33.310 align:start position:0%
+customer slas around time expectations
+and<00:10:32.120><c> we</c><00:10:32.200><c> can</c><00:10:32.320><c> be</c><00:10:32.480><c> confident</c><00:10:32.839><c> in</c><00:10:32.959><c> the</c><00:10:33.040><c> results</c>
+
+00:10:33.310 --> 00:10:33.320 align:start position:0%
+and we can be confident in the results
+ 
+
+00:10:33.320 --> 00:10:35.590 align:start position:0%
+and we can be confident in the results
+that<00:10:33.399><c> we're</c><00:10:33.519><c> returning</c><00:10:33.839><c> to</c><00:10:34.399><c> them</c><00:10:35.399><c> and</c><00:10:35.519><c> the</c>
+
+00:10:35.590 --> 00:10:35.600 align:start position:0%
+that we're returning to them and the
+ 
+
+00:10:35.600 --> 00:10:37.150 align:start position:0%
+that we're returning to them and the
+ultimate<00:10:35.959><c> impact</c><00:10:36.240><c> of</c><00:10:36.399><c> this</c><00:10:36.600><c> is</c><00:10:36.680><c> that</c><00:10:36.800><c> we</c><00:10:36.959><c> now</c>
+
+00:10:37.150 --> 00:10:37.160 align:start position:0%
+ultimate impact of this is that we now
+ 
+
+00:10:37.160 --> 00:10:38.670 align:start position:0%
+ultimate impact of this is that we now
+have<00:10:37.480><c> provably</c><00:10:38.000><c> industry-leading</c>
+
+00:10:38.670 --> 00:10:38.680 align:start position:0%
+have provably industry-leading
+ 
+
+00:10:38.680 --> 00:10:40.590 align:start position:0%
+have provably industry-leading
+performance<00:10:39.079><c> at</c><00:10:39.240><c> prior</c><00:10:39.480><c> authorization</c><00:10:40.440><c> with</c>
+
+00:10:40.590 --> 00:10:40.600 align:start position:0%
+performance at prior authorization with
+ 
+
+00:10:40.600 --> 00:10:43.350 align:start position:0%
+performance at prior authorization with
+an<00:10:40.720><c> F1</c><00:10:41.079><c> score</c><00:10:41.360><c> of</c><00:10:41.519><c> nearly</c><00:10:41.760><c> 96%</c><00:10:42.639><c> in</c><00:10:42.720><c> a</c><00:10:42.839><c> recent</c>
+
+00:10:43.350 --> 00:10:43.360 align:start position:0%
+an F1 score of nearly 96% in a recent
+ 
+
+00:10:43.360 --> 00:10:45.670 align:start position:0%
+an F1 score of nearly 96% in a recent
+study<00:10:44.360><c> and</c><00:10:44.480><c> this</c><00:10:44.600><c> has</c><00:10:44.720><c> enabled</c><00:10:45.079><c> us</c><00:10:45.200><c> to</c><00:10:45.399><c> gain</c>
+
+00:10:45.670 --> 00:10:45.680 align:start position:0%
+study and this has enabled us to gain
+ 
+
+00:10:45.680 --> 00:10:48.110 align:start position:0%
+study and this has enabled us to gain
+customer<00:10:46.079><c> trust</c><00:10:47.040><c> and</c><00:10:47.240><c> Beyond</c><00:10:47.519><c> even</c><00:10:47.760><c> customer</c>
+
+00:10:48.110 --> 00:10:48.120 align:start position:0%
+customer trust and Beyond even customer
+ 
+
+00:10:48.120 --> 00:10:51.110 align:start position:0%
+customer trust and Beyond even customer
+trust<00:10:48.920><c> this</c><00:10:49.040><c> has</c><00:10:49.320><c> led</c><00:10:49.639><c> customers</c><00:10:50.000><c> to</c><00:10:50.240><c> love</c><00:10:50.600><c> our</c>
+
+00:10:51.110 --> 00:10:51.120 align:start position:0%
+trust this has led customers to love our
+ 
+
+00:10:51.120 --> 00:10:53.590 align:start position:0%
+trust this has led customers to love our
+product<00:10:52.120><c> in</c><00:10:52.200><c> a</c><00:10:52.360><c> recent</c><00:10:52.680><c> case</c><00:10:52.880><c> study</c><00:10:53.279><c> we</c><00:10:53.399><c> saw</c>
+
+00:10:53.590 --> 00:10:53.600 align:start position:0%
+product in a recent case study we saw
+ 
+
+00:10:53.600 --> 00:10:55.190 align:start position:0%
+product in a recent case study we saw
+that<00:10:53.720><c> one</c><00:10:53.839><c> of</c><00:10:53.959><c> the</c><00:10:54.040><c> nurses</c><00:10:54.720><c> after</c><00:10:54.920><c> they</c><00:10:55.040><c> were</c>
+
+00:10:55.190 --> 00:10:55.200 align:start position:0%
+that one of the nurses after they were
+ 
+
+00:10:55.200 --> 00:10:57.150 align:start position:0%
+that one of the nurses after they were
+told<00:10:55.440><c> they</c><00:10:55.519><c> could</c><00:10:55.680><c> keep</c><00:10:55.839><c> on</c><00:10:56.000><c> using</c><00:10:56.360><c> Florence</c><00:10:56.920><c> R</c>
+
+00:10:57.150 --> 00:10:57.160 align:start position:0%
+told they could keep on using Florence R
+ 
+
+00:10:57.160 --> 00:11:01.750 align:start position:0%
+told they could keep on using Florence R
+AI<00:10:57.760><c> said</c><00:10:58.399><c> Thank</c><00:10:58.639><c> God</c><00:10:58.959><c> with</c><00:10:59.360><c> lucky</c>
+
+00:11:01.750 --> 00:11:01.760 align:start position:0%
+ 
+ 
+
+00:11:01.760 --> 00:11:04.509 align:start position:0%
+ 
+ones<00:11:02.760><c> so</c><00:11:03.360><c> the</c><00:11:03.480><c> principles</c><00:11:03.880><c> that</c><00:11:04.000><c> we</c><00:11:04.120><c> followed</c>
+
+00:11:04.509 --> 00:11:04.519 align:start position:0%
+ones so the principles that we followed
+ 
+
+00:11:04.519 --> 00:11:05.710 align:start position:0%
+ones so the principles that we followed
+for<00:11:04.680><c> building</c><00:11:04.959><c> our</c><00:11:05.120><c> system</c><00:11:05.399><c> and</c><00:11:05.519><c> what</c><00:11:05.639><c> we</c>
+
+00:11:05.710 --> 00:11:05.720 align:start position:0%
+for building our system and what we
+ 
+
+00:11:05.720 --> 00:11:08.230 align:start position:0%
+for building our system and what we
+would<00:11:05.880><c> recommend</c><00:11:06.760><c> is</c><00:11:06.959><c> firstly</c><00:11:07.839><c> make</c><00:11:08.000><c> sure</c><00:11:08.120><c> you</c>
+
+00:11:08.230 --> 00:11:08.240 align:start position:0%
+would recommend is firstly make sure you
+ 
+
+00:11:08.240 --> 00:11:10.230 align:start position:0%
+would recommend is firstly make sure you
+build<00:11:08.440><c> a</c><00:11:08.600><c> system</c><00:11:09.240><c> you</c><00:11:09.320><c> know</c><00:11:09.519><c> think</c><00:11:09.760><c> big</c><00:11:10.040><c> don't</c>
+
+00:11:10.230 --> 00:11:10.240 align:start position:0%
+build a system you know think big don't
+ 
+
+00:11:10.240 --> 00:11:12.949 align:start position:0%
+build a system you know think big don't
+just<00:11:10.360><c> use</c><00:11:10.560><c> review</c><00:11:10.920><c> data</c><00:11:11.360><c> to</c><00:11:11.880><c> to</c><00:11:12.079><c> audit</c><00:11:12.560><c> your</c>
+
+00:11:12.949 --> 00:11:12.959 align:start position:0%
+just use review data to to audit your
+ 
+
+00:11:12.959 --> 00:11:15.430 align:start position:0%
+just use review data to to audit your
+performance<00:11:13.959><c> use</c><00:11:14.160><c> it</c><00:11:14.279><c> to</c><00:11:14.480><c> build</c><00:11:14.880><c> audit</c><00:11:15.279><c> and</c>
+
+00:11:15.430 --> 00:11:15.440 align:start position:0%
+performance use it to build audit and
+ 
+
+00:11:15.440 --> 00:11:17.230 align:start position:0%
+performance use it to build audit and
+improve<00:11:16.120><c> your</c><00:11:16.360><c> auditing</c><00:11:16.760><c> system</c><00:11:17.040><c> your</c>
+
+00:11:17.230 --> 00:11:17.240 align:start position:0%
+improve your auditing system your
+ 
+
+00:11:17.240 --> 00:11:19.470 align:start position:0%
+improve your auditing system your
+evaluation<00:11:17.800><c> system</c><00:11:18.800><c> the</c><00:11:18.920><c> second</c><00:11:19.200><c> thing</c><00:11:19.320><c> is</c>
+
+00:11:19.470 --> 00:11:19.480 align:start position:0%
+evaluation system the second thing is
+ 
+
+00:11:19.480 --> 00:11:21.590 align:start position:0%
+evaluation system the second thing is
+evaluating<00:11:19.880><c> on</c><00:11:20.079><c> live</c><00:11:20.279><c> production</c><00:11:20.680><c> data</c><00:11:21.360><c> don't</c>
+
+00:11:21.590 --> 00:11:21.600 align:start position:0%
+evaluating on live production data don't
+ 
+
+00:11:21.600 --> 00:11:24.389 align:start position:0%
+evaluating on live production data don't
+rely<00:11:21.839><c> on</c><00:11:21.959><c> offline</c><00:11:22.480><c> evals</c><00:11:23.480><c> identify</c><00:11:24.079><c> problems</c>
+
+00:11:24.389 --> 00:11:24.399 align:start position:0%
+rely on offline evals identify problems
+ 
+
+00:11:24.399 --> 00:11:25.910 align:start position:0%
+rely on offline evals identify problems
+immediately<00:11:25.040><c> so</c><00:11:25.160><c> that</c><00:11:25.279><c> you</c><00:11:25.360><c> can</c><00:11:25.480><c> respond</c><00:11:25.800><c> to</c>
+
+00:11:25.910 --> 00:11:25.920 align:start position:0%
+immediately so that you can respond to
+ 
+
+00:11:25.920 --> 00:11:28.230 align:start position:0%
+immediately so that you can respond to
+them<00:11:26.279><c> quickly</c><00:11:27.279><c> and</c><00:11:27.440><c> thirdly</c><00:11:27.760><c> get</c><00:11:27.920><c> the</c><00:11:28.040><c> best</c>
+
+00:11:28.230 --> 00:11:28.240 align:start position:0%
+them quickly and thirdly get the best
+ 
+
+00:11:28.240 --> 00:11:30.350 align:start position:0%
+them quickly and thirdly get the best
+reviewers<00:11:28.680><c> and</c><00:11:28.800><c> empowers</c><00:11:29.399><c> them</c><00:11:29.760><c> prioritize</c>
+
+00:11:30.350 --> 00:11:30.360 align:start position:0%
+reviewers and empowers them prioritize
+ 
+
+00:11:30.360 --> 00:11:32.710 align:start position:0%
+reviewers and empowers them prioritize
+the<00:11:30.560><c> quality</c><00:11:30.920><c> of</c><00:11:31.079><c> reviews</c><00:11:31.440><c> over</c><00:11:31.680><c> quantity</c><00:11:32.600><c> and</c>
+
+00:11:32.710 --> 00:11:32.720 align:start position:0%
+the quality of reviews over quantity and
+ 
+
+00:11:32.720 --> 00:11:34.310 align:start position:0%
+the quality of reviews over quantity and
+build<00:11:32.920><c> your</c><00:11:33.040><c> own</c><00:11:33.160><c> tooling</c><00:11:33.639><c> if</c><00:11:33.800><c> that</c><00:11:33.920><c> helps</c><00:11:34.160><c> you</c>
+
+00:11:34.310 --> 00:11:34.320 align:start position:0%
+build your own tooling if that helps you
+ 
+
+00:11:34.320 --> 00:11:35.870 align:start position:0%
+build your own tooling if that helps you
+to<00:11:34.480><c> move</c>
+
+00:11:35.870 --> 00:11:35.880 align:start position:0%
+to move
+ 
+
+00:11:35.880 --> 00:11:37.750 align:start position:0%
+to move
+faster<00:11:36.880><c> this</c><00:11:37.000><c> is</c><00:11:37.120><c> how</c><00:11:37.320><c> we</c><00:11:37.440><c> built</c><00:11:37.600><c> an</c>
+
+00:11:37.750 --> 00:11:37.760 align:start position:0%
+faster this is how we built an
+ 
+
+00:11:37.760 --> 00:11:39.750 align:start position:0%
+faster this is how we built an
+evaluation<00:11:38.279><c> system</c><00:11:38.639><c> that</c><00:11:38.800><c> gives</c><00:11:39.200><c> real-time</c>
+
+00:11:39.750 --> 00:11:39.760 align:start position:0%
+evaluation system that gives real-time
+ 
+
+00:11:39.760 --> 00:11:41.430 align:start position:0%
+evaluation system that gives real-time
+performance<00:11:40.200><c> estimates</c><00:11:40.760><c> enabling</c><00:11:41.160><c> us</c><00:11:41.279><c> to</c>
+
+00:11:41.430 --> 00:11:41.440 align:start position:0%
+performance estimates enabling us to
+ 
+
+00:11:41.440 --> 00:11:44.350 align:start position:0%
+performance estimates enabling us to
+respond<00:11:42.240><c> is</c><00:11:42.600><c> accurate</c><00:11:43.519><c> that</c><00:11:43.639><c> can</c><00:11:43.839><c> scale</c><00:11:44.240><c> to</c>
+
+00:11:44.350 --> 00:11:44.360 align:start position:0%
+respond is accurate that can scale to
+ 
+
+00:11:44.360 --> 00:11:46.910 align:start position:0%
+respond is accurate that can scale to
+meet<00:11:44.600><c> demand</c><00:11:45.079><c> while</c><00:11:45.320><c> maintaining</c><00:11:45.800><c> a</c><00:11:45.959><c> low</c><00:11:46.240><c> cost</c>
+
+00:11:46.910 --> 00:11:46.920 align:start position:0%
+meet demand while maintaining a low cost
+ 
+
+00:11:46.920 --> 00:11:49.230 align:start position:0%
+meet demand while maintaining a low cost
+all<00:11:47.240><c> powered</c><00:11:47.639><c> by</c><00:11:47.760><c> a</c><00:11:47.959><c> small</c><00:11:48.399><c> focused</c><00:11:48.839><c> team</c><00:11:49.040><c> of</c>
+
+00:11:49.230 --> 00:11:49.240 align:start position:0%
+all powered by a small focused team of
+ 
+
+00:11:49.240 --> 00:11:51.590 align:start position:0%
+all powered by a small focused team of
+experts<00:11:50.200><c> and</c><00:11:50.320><c> it's</c><00:11:50.480><c> enabled</c><00:11:50.839><c> us</c><00:11:51.120><c> to</c><00:11:51.279><c> go</c><00:11:51.440><c> from</c>
+
+00:11:51.590 --> 00:11:51.600 align:start position:0%
+experts and it's enabled us to go from
+ 
+
+00:11:51.600 --> 00:11:54.030 align:start position:0%
+experts and it's enabled us to go from
+our<00:11:51.760><c> MVP</c><00:11:52.639><c> to</c><00:11:52.839><c> now</c><00:11:53.000><c> serving</c><00:11:53.480><c> customers</c><00:11:53.920><c> and</c>
+
+00:11:54.030 --> 00:11:54.040 align:start position:0%
+our MVP to now serving customers and
+ 
+
+00:11:54.040 --> 00:11:56.269 align:start position:0%
+our MVP to now serving customers and
+maintaining<00:11:54.519><c> their</c><00:11:54.680><c> trust</c><00:11:55.040><c> at</c><00:11:55.240><c> scale</c><00:11:56.200><c> and</c>
+
+00:11:56.269 --> 00:11:56.279 align:start position:0%
+maintaining their trust at scale and
+ 
+
+00:11:56.279 --> 00:11:58.350 align:start position:0%
+maintaining their trust at scale and
+it's<00:11:56.440><c> how</c><00:11:56.600><c> we</c><00:11:56.720><c> think</c><00:11:56.880><c> you</c><00:11:57.000><c> can</c><00:11:57.200><c> too</c><00:11:58.040><c> so</c><00:11:58.200><c> thank</c>
+
+00:11:58.350 --> 00:11:58.360 align:start position:0%
+it's how we think you can too so thank
+ 
+
+00:11:58.360 --> 00:12:00.069 align:start position:0%
+it's how we think you can too so thank
+you<00:11:58.440><c> for</c><00:11:58.560><c> your</c><00:11:58.680><c> attention</c><00:11:59.519><c> um</c><00:11:59.680><c> we'</c><00:11:59.839><c> love</c><00:11:59.959><c> to</c>
+
+00:12:00.069 --> 00:12:00.079 align:start position:0%
+you for your attention um we' love to
+ 
+
+00:12:00.079 --> 00:12:01.269 align:start position:0%
+you for your attention um we' love to
+talk<00:12:00.240><c> more</c><00:12:00.399><c> about</c><00:12:00.600><c> this</c><00:12:00.760><c> if</c><00:12:00.839><c> you</c><00:12:00.959><c> have</c><00:12:01.079><c> any</c>
+
+00:12:01.269 --> 00:12:01.279 align:start position:0%
+talk more about this if you have any
+ 
+
+00:12:01.279 --> 00:12:03.110 align:start position:0%
+talk more about this if you have any
+thoughts<00:12:01.480><c> or</c><00:12:01.639><c> ideas</c><00:12:02.120><c> please</c><00:12:02.360><c> reach</c><00:12:02.519><c> out</c><00:12:02.680><c> to</c><00:12:02.839><c> me</c>
+
+00:12:03.110 --> 00:12:03.120 align:start position:0%
+thoughts or ideas please reach out to me
+ 
+
+00:12:03.120 --> 00:12:05.910 align:start position:0%
+thoughts or ideas please reach out to me
+my<00:12:03.279><c> email</c><00:12:03.600><c> here</c><00:12:03.800><c> is</c><00:12:04.000><c> is</c><00:12:04.200><c> Chris</c><00:12:04.680><c> an.com</c><00:12:05.279><c> and</c>
+
+00:12:05.910 --> 00:12:05.920 align:start position:0%
+my email here is is Chris an.com and
+ 
+
+00:12:05.920 --> 00:12:07.350 align:start position:0%
+my email here is is Chris an.com and
+we're<00:12:06.079><c> also</c><00:12:06.279><c> hiring</c><00:12:06.560><c> at</c><00:12:06.680><c> the</c><00:12:06.760><c> moment</c><00:12:07.200><c> so</c><00:12:07.279><c> if</c>
+
+00:12:07.350 --> 00:12:07.360 align:start position:0%
+we're also hiring at the moment so if
+ 
+
+00:12:07.360 --> 00:12:08.710 align:start position:0%
+we're also hiring at the moment so if
+you<00:12:07.440><c> want</c><00:12:07.519><c> to</c><00:12:07.639><c> be</c><00:12:07.800><c> The</c><00:12:07.880><c> Cutting</c><00:12:08.120><c> Edge</c><00:12:08.279><c> of</c><00:12:08.399><c> LM</c>
+
+00:12:08.710 --> 00:12:08.720 align:start position:0%
+you want to be The Cutting Edge of LM
+ 
+
+00:12:08.720 --> 00:12:10.389 align:start position:0%
+you want to be The Cutting Edge of LM
+application<00:12:09.079><c> in</c><00:12:09.240><c> healthcare</c><00:12:09.959><c> then</c><00:12:10.120><c> check</c><00:12:10.279><c> out</c>
+
+00:12:10.389 --> 00:12:10.399 align:start position:0%
+application in healthcare then check out
+ 
+
+00:12:10.399 --> 00:12:12.509 align:start position:0%
+application in healthcare then check out
+our<00:12:10.560><c> open</c><00:12:10.839><c> posts</c><00:12:11.200><c> at</c><00:12:11.360><c> ani.com</c>
+
+00:12:12.509 --> 00:12:12.519 align:start position:0%
+our open posts at ani.com
+ 
+
+00:12:12.519 --> 00:12:16.199 align:start position:0%
+our open posts at ani.com
+compan<00:12:13.519><c> thank</c><00:12:13.680><c> you</c>
+

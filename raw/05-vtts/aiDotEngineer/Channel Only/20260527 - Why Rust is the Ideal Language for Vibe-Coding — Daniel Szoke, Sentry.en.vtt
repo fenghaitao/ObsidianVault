@@ -1,0 +1,3008 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:14.680 --> 00:00:17.870 align:start position:0%
+ 
+My<00:00:14.760><c> name</c><00:00:14.920><c> is</c><00:00:15.080><c> Daniel</c><00:00:15.520><c> Zook.</c><00:00:16.000><c> I'm</c><00:00:16.840><c> uh</c><00:00:17.360><c> the</c><00:00:17.520><c> Rust</c>
+
+00:00:17.870 --> 00:00:17.880 align:start position:0%
+My name is Daniel Zook. I'm uh the Rust
+ 
+
+00:00:17.880 --> 00:00:20.750 align:start position:0%
+My name is Daniel Zook. I'm uh the Rust
+SDK<00:00:18.480><c> maintainer</c><00:00:19.040><c> at</c><00:00:19.200><c> Sentry</c><00:00:19.800><c> and</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+SDK maintainer at Sentry and
+ 
+
+00:00:20.760 --> 00:00:22.990 align:start position:0%
+SDK maintainer at Sentry and
+I<00:00:20.880><c> want</c><00:00:21.040><c> to</c><00:00:21.120><c> tell</c><00:00:21.360><c> you</c><00:00:21.520><c> why</c><00:00:21.760><c> I</c><00:00:21.880><c> think</c><00:00:22.280><c> Rust</c><00:00:22.720><c> is</c>
+
+00:00:22.990 --> 00:00:23.000 align:start position:0%
+I want to tell you why I think Rust is
+ 
+
+00:00:23.000 --> 00:00:26.110 align:start position:0%
+I want to tell you why I think Rust is
+the<00:00:23.360><c> ideal</c><00:00:23.880><c> language</c><00:00:24.440><c> for</c><00:00:24.560><c> vibe</c><00:00:24.880><c> coding.</c>
+
+00:00:26.110 --> 00:00:26.120 align:start position:0%
+the ideal language for vibe coding.
+ 
+
+00:00:26.120 --> 00:00:28.070 align:start position:0%
+the ideal language for vibe coding.
+So,
+
+00:00:28.070 --> 00:00:28.080 align:start position:0%
+So,
+ 
+
+00:00:28.080 --> 00:00:30.710 align:start position:0%
+So,
+the<00:00:28.280><c> conventional</c><00:00:28.920><c> wisdom</c><00:00:29.440><c> on</c><00:00:29.760><c> what</c><00:00:30.040><c> language</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+the conventional wisdom on what language
+ 
+
+00:00:30.720 --> 00:00:33.110 align:start position:0%
+the conventional wisdom on what language
+to<00:00:30.880><c> use</c><00:00:31.360><c> for</c><00:00:31.800><c> agentic</c><00:00:32.320><c> coding</c><00:00:32.720><c> or</c><00:00:32.800><c> vibe</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+to use for agentic coding or vibe
+ 
+
+00:00:33.120 --> 00:00:36.390 align:start position:0%
+to use for agentic coding or vibe
+coding,<00:00:33.480><c> however</c><00:00:33.960><c> you</c><00:00:34.200><c> refer</c><00:00:34.560><c> to</c><00:00:34.800><c> it,</c><00:00:35.640><c> um</c>
+
+00:00:36.390 --> 00:00:36.400 align:start position:0%
+coding, however you refer to it, um
+ 
+
+00:00:36.400 --> 00:00:38.870 align:start position:0%
+coding, however you refer to it, um
+it's<00:00:37.160><c> Rust</c><00:00:37.520><c> is</c><00:00:37.720><c> probably</c><00:00:38.240><c> not</c><00:00:38.520><c> one</c><00:00:38.680><c> of</c><00:00:38.760><c> the</c>
+
+00:00:38.870 --> 00:00:38.880 align:start position:0%
+it's Rust is probably not one of the
+ 
+
+00:00:38.880 --> 00:00:41.470 align:start position:0%
+it's Rust is probably not one of the
+first<00:00:39.280><c> things</c><00:00:39.600><c> you</c><00:00:39.720><c> think</c><00:00:40.040><c> of.</c><00:00:40.480><c> Um</c>
+
+00:00:41.470 --> 00:00:41.480 align:start position:0%
+first things you think of. Um
+ 
+
+00:00:41.480 --> 00:00:44.230 align:start position:0%
+first things you think of. Um
+You<00:00:41.640><c> know,</c><00:00:41.800><c> maybe</c><00:00:42.120><c> you</c><00:00:42.280><c> think</c>
+
+00:00:44.230 --> 00:00:44.240 align:start position:0%
+You know, maybe you think
+ 
+
+00:00:44.240 --> 00:00:46.110 align:start position:0%
+You know, maybe you think
+you<00:00:44.360><c> know,</c><00:00:44.560><c> probably</c><00:00:44.960><c> chat</c><00:00:45.200><c> GPT</c><00:00:45.680><c> has</c><00:00:45.840><c> a</c><00:00:45.920><c> good</c>
+
+00:00:46.110 --> 00:00:46.120 align:start position:0%
+you know, probably chat GPT has a good
+ 
+
+00:00:46.120 --> 00:00:48.150 align:start position:0%
+you know, probably chat GPT has a good
+idea,<00:00:46.480><c> what's</c><00:00:46.720><c> the</c><00:00:46.840><c> best</c><00:00:47.360><c> agentic</c><00:00:47.840><c> coding</c>
+
+00:00:48.150 --> 00:00:48.160 align:start position:0%
+idea, what's the best agentic coding
+ 
+
+00:00:48.160 --> 00:00:51.030 align:start position:0%
+idea, what's the best agentic coding
+language<00:00:48.600><c> given</c><00:00:48.920><c> that</c><00:00:49.040><c> it's</c><00:00:49.720><c> also</c><00:00:50.160><c> a</c>
+
+00:00:51.030 --> 00:00:51.040 align:start position:0%
+language given that it's also a
+ 
+
+00:00:51.040 --> 00:00:53.630 align:start position:0%
+language given that it's also a
+an<00:00:51.240><c> agent</c><00:00:51.720><c> of</c><00:00:51.840><c> some</c><00:00:52.080><c> sort.</c><00:00:53.000><c> And</c><00:00:53.200><c> it</c><00:00:53.280><c> would</c><00:00:53.440><c> tell</c>
+
+00:00:53.630 --> 00:00:53.640 align:start position:0%
+an agent of some sort. And it would tell
+ 
+
+00:00:53.640 --> 00:00:55.270 align:start position:0%
+an agent of some sort. And it would tell
+you<00:00:53.760><c> that</c><00:00:53.920><c> there's</c><00:00:54.120><c> no</c><00:00:54.280><c> single</c><00:00:54.760><c> number</c><00:00:55.080><c> one</c>
+
+00:00:55.270 --> 00:00:55.280 align:start position:0%
+you that there's no single number one
+ 
+
+00:00:55.280 --> 00:00:59.110 align:start position:0%
+you that there's no single number one
+language,<00:00:56.200><c> um</c><00:00:56.720><c> but</c><00:00:57.200><c> that</c><00:00:57.440><c> Python</c><00:00:57.960><c> is</c><00:00:58.520><c> probably</c>
+
+00:00:59.110 --> 00:00:59.120 align:start position:0%
+language, um but that Python is probably
+ 
+
+00:00:59.120 --> 00:01:01.950 align:start position:0%
+language, um but that Python is probably
+the<00:00:59.280><c> top</c><00:01:00.040><c> language,</c><00:01:01.000><c> um</c><00:01:01.160><c> and</c><00:01:01.360><c> as</c><00:01:01.520><c> a</c><00:01:01.560><c> strong</c>
+
+00:01:01.950 --> 00:01:01.960 align:start position:0%
+the top language, um and as a strong
+ 
+
+00:01:01.960 --> 00:01:03.270 align:start position:0%
+the top language, um and as a strong
+number<00:01:02.280><c> two,</c>
+
+00:01:03.270 --> 00:01:03.280 align:start position:0%
+number two,
+ 
+
+00:01:03.280 --> 00:01:05.710 align:start position:0%
+number two,
+it<00:01:03.560><c> said</c><00:01:04.120><c> JavaScript</c><00:01:04.760><c> and</c><00:01:04.879><c> TypeScript</c><00:01:05.480><c> when</c><00:01:05.640><c> I</c>
+
+00:01:05.710 --> 00:01:05.720 align:start position:0%
+it said JavaScript and TypeScript when I
+ 
+
+00:01:05.720 --> 00:01:08.270 align:start position:0%
+it said JavaScript and TypeScript when I
+asked<00:01:06.160><c> it.</c><00:01:06.480><c> Um</c><00:01:06.960><c> and</c><00:01:07.080><c> I</c><00:01:07.200><c> think</c><00:01:07.560><c> that</c><00:01:07.800><c> this</c><00:01:08.040><c> is</c>
+
+00:01:08.270 --> 00:01:08.280 align:start position:0%
+asked it. Um and I think that this is
+ 
+
+00:01:08.280 --> 00:01:11.190 align:start position:0%
+asked it. Um and I think that this is
+in,<00:01:08.680><c> at</c><00:01:08.800><c> least</c><00:01:09.120><c> my</c><00:01:09.360><c> experience,</c>
+
+00:01:11.190 --> 00:01:11.200 align:start position:0%
+in, at least my experience,
+ 
+
+00:01:11.200 --> 00:01:13.470 align:start position:0%
+in, at least my experience,
+pretty<00:01:11.680><c> true,</c><00:01:12.160><c> although</c><00:01:12.560><c> I</c><00:01:12.640><c> would</c><00:01:12.880><c> flip</c><00:01:13.280><c> the</c>
+
+00:01:13.470 --> 00:01:13.480 align:start position:0%
+pretty true, although I would flip the
+ 
+
+00:01:13.480 --> 00:01:15.230 align:start position:0%
+pretty true, although I would flip the
+order<00:01:13.960><c> because</c>
+
+00:01:15.230 --> 00:01:15.240 align:start position:0%
+order because
+ 
+
+00:01:15.240 --> 00:01:18.710 align:start position:0%
+order because
+um<00:01:16.240><c> TypeScript</c><00:01:16.960><c> seems</c><00:01:17.440><c> to</c><00:01:17.680><c> have</c><00:01:18.000><c> come</c><00:01:18.240><c> out</c><00:01:18.520><c> as</c>
+
+00:01:18.710 --> 00:01:18.720 align:start position:0%
+um TypeScript seems to have come out as
+ 
+
+00:01:18.720 --> 00:01:21.670 align:start position:0%
+um TypeScript seems to have come out as
+like<00:01:19.040><c> the</c><00:01:19.160><c> top</c><00:01:19.880><c> choice</c><00:01:20.400><c> for</c><00:01:20.600><c> agentic</c><00:01:21.120><c> coding</c>
+
+00:01:21.670 --> 00:01:21.680 align:start position:0%
+like the top choice for agentic coding
+ 
+
+00:01:21.680 --> 00:01:24.750 align:start position:0%
+like the top choice for agentic coding
+lately.<00:01:22.680><c> And</c><00:01:23.240><c> um</c><00:01:23.760><c> so</c><00:01:23.920><c> there's</c><00:01:24.280><c> even</c><00:01:24.560><c> this</c>
+
+00:01:24.750 --> 00:01:24.760 align:start position:0%
+lately. And um so there's even this
+ 
+
+00:01:24.760 --> 00:01:28.310 align:start position:0%
+lately. And um so there's even this
+article<00:01:25.320><c> from</c><00:01:25.680><c> GitHub</c><00:01:26.280><c> that</c><00:01:26.520><c> came</c><00:01:26.880><c> out</c><00:01:27.840><c> uh</c><00:01:28.200><c> I</c>
+
+00:01:28.310 --> 00:01:28.320 align:start position:0%
+article from GitHub that came out uh I
+ 
+
+00:01:28.320 --> 00:01:31.230 align:start position:0%
+article from GitHub that came out uh I
+guess<00:01:28.640><c> late</c><00:01:28.920><c> last</c><00:01:29.320><c> year</c><00:01:29.800><c> and</c><00:01:30.000><c> it</c><00:01:30.200><c> says</c><00:01:30.560><c> that</c>
+
+00:01:31.230 --> 00:01:31.240 align:start position:0%
+guess late last year and it says that
+ 
+
+00:01:31.240 --> 00:01:33.950 align:start position:0%
+guess late last year and it says that
+AI,<00:01:31.960><c> like</c><00:01:32.200><c> they</c><00:01:32.360><c> think</c><00:01:32.680><c> that</c><00:01:32.880><c> AI</c><00:01:33.240><c> has</c><00:01:33.520><c> pushed</c>
+
+00:01:33.950 --> 00:01:33.960 align:start position:0%
+AI, like they think that AI has pushed
+ 
+
+00:01:33.960 --> 00:01:37.110 align:start position:0%
+AI, like they think that AI has pushed
+TypeScript<00:01:34.720><c> to</c><00:01:34.960><c> the</c><00:01:35.080><c> number</c><00:01:35.400><c> one</c><00:01:36.400><c> um</c><00:01:36.760><c> language</c>
+
+00:01:37.110 --> 00:01:37.120 align:start position:0%
+TypeScript to the number one um language
+ 
+
+00:01:37.120 --> 00:01:39.030 align:start position:0%
+TypeScript to the number one um language
+on<00:01:37.280><c> GitHub</c><00:01:37.680><c> by</c><00:01:37.880><c> contributor</c><00:01:38.520><c> counts</c><00:01:38.880><c> at</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+on GitHub by contributor counts at
+ 
+
+00:01:39.040 --> 00:01:41.190 align:start position:0%
+on GitHub by contributor counts at
+least.<00:01:40.040><c> Um</c>
+
+00:01:41.190 --> 00:01:41.200 align:start position:0%
+least. Um
+ 
+
+00:01:41.200 --> 00:01:43.430 align:start position:0%
+least. Um
+so<00:01:41.440><c> they</c><00:01:41.600><c> know</c><00:01:41.840><c> it's</c><00:01:42.560><c> TypeScript</c><00:01:43.200><c> is</c><00:01:43.360><c> the</c>
+
+00:01:43.430 --> 00:01:43.440 align:start position:0%
+so they know it's TypeScript is the
+ 
+
+00:01:43.440 --> 00:01:45.470 align:start position:0%
+so they know it's TypeScript is the
+number<00:01:43.720><c> one</c><00:01:43.880><c> language</c><00:01:44.320><c> and</c><00:01:44.480><c> they</c><00:01:44.840><c> they</c>
+
+00:01:45.470 --> 00:01:45.480 align:start position:0%
+number one language and they they
+ 
+
+00:01:45.480 --> 00:01:48.750 align:start position:0%
+number one language and they they
+strongly<00:01:46.600><c> suspect</c><00:01:47.160><c> that</c><00:01:47.280><c> that's</c><00:01:47.520><c> because</c><00:01:47.960><c> of</c>
+
+00:01:48.750 --> 00:01:48.760 align:start position:0%
+strongly suspect that that's because of
+ 
+
+00:01:48.760 --> 00:01:51.510 align:start position:0%
+strongly suspect that that's because of
+people<00:01:49.120><c> using</c><00:01:49.520><c> it</c><00:01:49.800><c> for</c><00:01:50.640><c> AI-assisted</c>
+
+00:01:51.510 --> 00:01:51.520 align:start position:0%
+people using it for AI-assisted
+ 
+
+00:01:51.520 --> 00:01:53.030 align:start position:0%
+people using it for AI-assisted
+development.
+
+00:01:53.030 --> 00:01:53.040 align:start position:0%
+development.
+ 
+
+00:01:53.040 --> 00:01:55.510 align:start position:0%
+development.
+But<00:01:53.240><c> why</c><00:01:53.440><c> are</c><00:01:53.600><c> these</c><00:01:53.920><c> languages</c>
+
+00:01:55.510 --> 00:01:55.520 align:start position:0%
+But why are these languages
+ 
+
+00:01:55.520 --> 00:01:58.430 align:start position:0%
+But why are these languages
+Python,<00:01:56.040><c> TypeScript,</c><00:01:56.600><c> JavaScript</c><00:01:57.280><c> so</c><00:01:57.760><c> ideal</c>
+
+00:01:58.430 --> 00:01:58.440 align:start position:0%
+Python, TypeScript, JavaScript so ideal
+ 
+
+00:01:58.440 --> 00:02:00.670 align:start position:0%
+Python, TypeScript, JavaScript so ideal
+for<00:01:59.040><c> vibe</c><00:01:59.400><c> coding.</c>
+
+00:02:00.670 --> 00:02:00.680 align:start position:0%
+for vibe coding.
+ 
+
+00:02:00.680 --> 00:02:01.790 align:start position:0%
+for vibe coding.
+Um
+
+00:02:01.790 --> 00:02:01.800 align:start position:0%
+Um
+ 
+
+00:02:01.800 --> 00:02:04.630 align:start position:0%
+Um
+at<00:02:01.960><c> least</c><00:02:02.240><c> to</c><00:02:02.440><c> in</c><00:02:02.720><c> the</c><00:02:03.080><c> this</c><00:02:03.320><c> sort</c><00:02:03.640><c> of</c>
+
+00:02:04.630 --> 00:02:04.640 align:start position:0%
+at least to in the this sort of
+ 
+
+00:02:04.640 --> 00:02:06.990 align:start position:0%
+at least to in the this sort of
+conventional<00:02:05.280><c> wisdom.</c><00:02:06.000><c> So,</c><00:02:06.360><c> first</c><00:02:06.720><c> of</c><00:02:06.840><c> all,</c>
+
+00:02:06.990 --> 00:02:07.000 align:start position:0%
+conventional wisdom. So, first of all,
+ 
+
+00:02:07.000 --> 00:02:10.029 align:start position:0%
+conventional wisdom. So, first of all,
+they're<00:02:07.200><c> common</c><00:02:07.640><c> and</c><00:02:07.840><c> familiar</c><00:02:08.399><c> languages.</c>
+
+00:02:10.029 --> 00:02:10.039 align:start position:0%
+they're common and familiar languages.
+ 
+
+00:02:10.039 --> 00:02:11.470 align:start position:0%
+they're common and familiar languages.
+Um
+
+00:02:11.470 --> 00:02:11.480 align:start position:0%
+Um
+ 
+
+00:02:11.480 --> 00:02:13.430 align:start position:0%
+Um
+So,<00:02:11.920><c> they're</c><00:02:12.280><c> they're</c><00:02:12.800><c> they're</c><00:02:12.959><c> usually</c><00:02:13.360><c> the</c>
+
+00:02:13.430 --> 00:02:13.440 align:start position:0%
+So, they're they're they're usually the
+ 
+
+00:02:13.440 --> 00:02:15.510 align:start position:0%
+So, they're they're they're usually the
+languages<00:02:14.080><c> you</c><00:02:14.200><c> would</c><00:02:14.400><c> learn</c><00:02:15.000><c> if</c><00:02:15.240><c> you</c><00:02:15.360><c> were</c>
+
+00:02:15.510 --> 00:02:15.520 align:start position:0%
+languages you would learn if you were
+ 
+
+00:02:15.520 --> 00:02:17.590 align:start position:0%
+languages you would learn if you were
+learning<00:02:16.040><c> programming</c><00:02:16.640><c> from</c><00:02:16.880><c> scratch.</c><00:02:17.440><c> So,</c>
+
+00:02:17.590 --> 00:02:17.600 align:start position:0%
+learning programming from scratch. So,
+ 
+
+00:02:17.600 --> 00:02:20.230 align:start position:0%
+learning programming from scratch. So,
+they're<00:02:17.840><c> easy</c><00:02:18.200><c> for</c><00:02:18.360><c> humans,</c><00:02:19.440><c> and</c><00:02:19.800><c> they</c><00:02:19.920><c> also</c>
+
+00:02:20.230 --> 00:02:20.240 align:start position:0%
+they're easy for humans, and they also
+ 
+
+00:02:20.240 --> 00:02:22.830 align:start position:0%
+they're easy for humans, and they also
+seem<00:02:20.480><c> to</c><00:02:20.560><c> be</c><00:02:20.760><c> easy</c><00:02:21.080><c> for</c><00:02:21.280><c> LLMs.</c>
+
+00:02:22.830 --> 00:02:22.840 align:start position:0%
+seem to be easy for LLMs.
+ 
+
+00:02:22.840 --> 00:02:24.430 align:start position:0%
+seem to be easy for LLMs.
+There's<00:02:23.040><c> also</c><00:02:23.320><c> a</c><00:02:23.400><c> lot</c><00:02:23.640><c> of</c><00:02:23.760><c> frameworks,</c>
+
+00:02:24.430 --> 00:02:24.440 align:start position:0%
+There's also a lot of frameworks,
+ 
+
+00:02:24.440 --> 00:02:27.910 align:start position:0%
+There's also a lot of frameworks,
+libraries,<00:02:25.080><c> and</c><00:02:25.200><c> examples</c><00:02:25.920><c> out</c><00:02:26.200><c> there.</c><00:02:26.840><c> Um</c>
+
+00:02:27.910 --> 00:02:27.920 align:start position:0%
+libraries, and examples out there. Um
+ 
+
+00:02:27.920 --> 00:02:29.830 align:start position:0%
+libraries, and examples out there. Um
+so,<00:02:28.120><c> that</c><00:02:28.959><c> that's</c><00:02:29.200><c> helpful</c><00:02:29.600><c> if</c><00:02:29.720><c> you're</c>
+
+00:02:29.830 --> 00:02:29.840 align:start position:0%
+so, that that's helpful if you're
+ 
+
+00:02:29.840 --> 00:02:31.630 align:start position:0%
+so, that that's helpful if you're
+building<00:02:30.240><c> something</c><00:02:30.640><c> new</c><00:02:30.840><c> from</c><00:02:31.040><c> scratch,</c><00:02:31.480><c> of</c>
+
+00:02:31.630 --> 00:02:31.640 align:start position:0%
+building something new from scratch, of
+ 
+
+00:02:31.640 --> 00:02:33.990 align:start position:0%
+building something new from scratch, of
+course,<00:02:32.000><c> that</c><00:02:32.160><c> you</c><00:02:32.280><c> can</c><00:02:32.959><c> build</c><00:02:33.320><c> it</c><00:02:33.480><c> on</c><00:02:33.640><c> top</c><00:02:33.880><c> of</c>
+
+00:02:33.990 --> 00:02:34.000 align:start position:0%
+course, that you can build it on top of
+ 
+
+00:02:34.000 --> 00:02:36.430 align:start position:0%
+course, that you can build it on top of
+something.<00:02:35.000><c> And</c>
+
+00:02:36.430 --> 00:02:36.440 align:start position:0%
+something. And
+ 
+
+00:02:36.440 --> 00:02:37.830 align:start position:0%
+something. And
+you<00:02:36.560><c> know,</c><00:02:36.680><c> it's</c><00:02:36.840><c> helpful</c><00:02:37.160><c> for</c><00:02:37.320><c> humans,</c><00:02:37.720><c> it's</c>
+
+00:02:37.830 --> 00:02:37.840 align:start position:0%
+you know, it's helpful for humans, it's
+ 
+
+00:02:37.840 --> 00:02:40.790 align:start position:0%
+you know, it's helpful for humans, it's
+also<00:02:38.120><c> helpful</c><00:02:38.560><c> for</c><00:02:38.760><c> agents.</c>
+
+00:02:40.790 --> 00:02:40.800 align:start position:0%
+also helpful for agents.
+ 
+
+00:02:40.800 --> 00:02:42.870 align:start position:0%
+also helpful for agents.
+They're<00:02:41.000><c> fast</c><00:02:41.400><c> to</c><00:02:41.520><c> scaffold</c><00:02:42.080><c> and</c><00:02:42.240><c> run.</c>
+
+00:02:42.870 --> 00:02:42.880 align:start position:0%
+They're fast to scaffold and run.
+ 
+
+00:02:42.880 --> 00:02:45.790 align:start position:0%
+They're fast to scaffold and run.
+They're<00:02:43.480><c> dynamic</c><00:02:44.120><c> languages.</c><00:02:44.959><c> They're</c>
+
+00:02:45.790 --> 00:02:45.800 align:start position:0%
+They're dynamic languages. They're
+ 
+
+00:02:45.800 --> 00:02:47.710 align:start position:0%
+They're dynamic languages. They're
+interpreted,<00:02:46.440><c> at</c><00:02:46.520><c> least</c><00:02:46.959><c> JavaScript</c><00:02:47.600><c> and</c>
+
+00:02:47.710 --> 00:02:47.720 align:start position:0%
+interpreted, at least JavaScript and
+ 
+
+00:02:47.720 --> 00:02:49.470 align:start position:0%
+interpreted, at least JavaScript and
+Python<00:02:48.200><c> are.</c><00:02:48.400><c> TypeScript,</c><00:02:49.000><c> maybe</c><00:02:49.240><c> there's</c>
+
+00:02:49.470 --> 00:02:49.480 align:start position:0%
+Python are. TypeScript, maybe there's
+ 
+
+00:02:49.480 --> 00:02:51.790 align:start position:0%
+Python are. TypeScript, maybe there's
+some<00:02:49.680><c> light</c><00:02:49.920><c> compilation</c><00:02:51.400><c> down</c><00:02:51.680><c> to</c>
+
+00:02:51.790 --> 00:02:51.800 align:start position:0%
+some light compilation down to
+ 
+
+00:02:51.800 --> 00:02:54.270 align:start position:0%
+some light compilation down to
+JavaScript<00:02:52.520><c> or</c><00:02:52.640><c> something,</c><00:02:53.160><c> but</c><00:02:53.800><c> it's</c><00:02:54.000><c> pretty</c>
+
+00:02:54.270 --> 00:02:54.280 align:start position:0%
+JavaScript or something, but it's pretty
+ 
+
+00:02:54.280 --> 00:02:55.790 align:start position:0%
+JavaScript or something, but it's pretty
+easy<00:02:54.520><c> just</c><00:02:54.720><c> to</c><00:02:54.840><c> run</c><00:02:55.080><c> it</c><00:02:55.200><c> and</c><00:02:55.360><c> see</c><00:02:55.520><c> what</c><00:02:55.680><c> it</c>
+
+00:02:55.790 --> 00:02:55.800 align:start position:0%
+easy just to run it and see what it
+ 
+
+00:02:55.800 --> 00:02:59.030 align:start position:0%
+easy just to run it and see what it
+does,<00:02:56.240><c> and</c><00:02:56.400><c> then</c><00:02:57.000><c> you</c><00:02:57.240><c> iterate</c><00:02:57.760><c> on</c><00:02:57.959><c> that.</c>
+
+00:02:59.030 --> 00:02:59.040 align:start position:0%
+does, and then you iterate on that.
+ 
+
+00:02:59.040 --> 00:03:01.630 align:start position:0%
+does, and then you iterate on that.
+And<00:02:59.800><c> uh</c><00:03:00.000><c> particularly</c><00:03:00.800><c> for</c><00:03:01.000><c> agents,</c><00:03:01.519><c> the</c>
+
+00:03:01.630 --> 00:03:01.640 align:start position:0%
+And uh particularly for agents, the
+ 
+
+00:03:01.640 --> 00:03:03.750 align:start position:0%
+And uh particularly for agents, the
+typing<00:03:02.080><c> support</c><00:03:02.519><c> is</c><00:03:02.680><c> helpful</c><00:03:03.280><c> so</c><00:03:03.440><c> that</c><00:03:03.640><c> the</c>
+
+00:03:03.750 --> 00:03:03.760 align:start position:0%
+typing support is helpful so that the
+ 
+
+00:03:03.760 --> 00:03:07.470 align:start position:0%
+typing support is helpful so that the
+agent<00:03:04.400><c> doesn't</c><00:03:04.800><c> misuse</c><00:03:05.519><c> types.</c><00:03:06.360><c> Um</c>
+
+00:03:07.470 --> 00:03:07.480 align:start position:0%
+agent doesn't misuse types. Um
+ 
+
+00:03:07.480 --> 00:03:10.790 align:start position:0%
+agent doesn't misuse types. Um
+but<00:03:08.400><c> uh</c><00:03:08.720><c> yeah,</c><00:03:08.959><c> there's</c><00:03:09.320><c> the</c><00:03:09.480><c> any</c><00:03:09.720><c> type</c><00:03:10.200><c> that</c>
+
+00:03:10.790 --> 00:03:10.800 align:start position:0%
+but uh yeah, there's the any type that
+ 
+
+00:03:10.800 --> 00:03:12.990 align:start position:0%
+but uh yeah, there's the any type that
+it<00:03:10.880><c> kind</c><00:03:11.239><c> of</c><00:03:11.400><c> undermines</c><00:03:12.120><c> that</c><00:03:12.400><c> a</c><00:03:12.440><c> little</c><00:03:12.760><c> bit</c>
+
+00:03:12.990 --> 00:03:13.000 align:start position:0%
+it kind of undermines that a little bit
+ 
+
+00:03:13.000 --> 00:03:16.270 align:start position:0%
+it kind of undermines that a little bit
+in<00:03:13.840><c> in</c><00:03:14.000><c> TypeScript</c><00:03:14.720><c> and</c><00:03:15.080><c> and</c><00:03:15.239><c> typed</c><00:03:15.640><c> Python,</c>
+
+00:03:16.270 --> 00:03:16.280 align:start position:0%
+in in TypeScript and and typed Python,
+ 
+
+00:03:16.280 --> 00:03:17.390 align:start position:0%
+in in TypeScript and and typed Python,
+but
+
+00:03:17.390 --> 00:03:17.400 align:start position:0%
+but
+ 
+
+00:03:17.400 --> 00:03:20.630 align:start position:0%
+but
+you<00:03:17.519><c> know,</c><00:03:17.720><c> overall,</c><00:03:18.959><c> these</c><00:03:19.239><c> languages,</c>
+
+00:03:20.630 --> 00:03:20.640 align:start position:0%
+you know, overall, these languages,
+ 
+
+00:03:20.640 --> 00:03:23.590 align:start position:0%
+you know, overall, these languages,
+LLMs,<00:03:21.440><c> the</c><00:03:21.560><c> models</c><00:03:22.040><c> themselves</c><00:03:22.800><c> are</c>
+
+00:03:23.590 --> 00:03:23.600 align:start position:0%
+LLMs, the models themselves are
+ 
+
+00:03:23.600 --> 00:03:26.150 align:start position:0%
+LLMs, the models themselves are
+pretty<00:03:24.000><c> good</c><00:03:24.280><c> at</c><00:03:24.480><c> outputting</c><00:03:25.120><c> runnable</c><00:03:25.600><c> code</c>
+
+00:03:26.150 --> 00:03:26.160 align:start position:0%
+pretty good at outputting runnable code
+ 
+
+00:03:26.160 --> 00:03:29.790 align:start position:0%
+pretty good at outputting runnable code
+in<00:03:26.320><c> the</c><00:03:26.440><c> first</c><00:03:26.840><c> try</c><00:03:27.519><c> because</c><00:03:28.600><c> these</c><00:03:28.920><c> languages</c>
+
+00:03:29.790 --> 00:03:29.800 align:start position:0%
+in the first try because these languages
+ 
+
+00:03:29.800 --> 00:03:31.310 align:start position:0%
+in the first try because these languages
+are<00:03:29.959><c> simple,</c>
+
+00:03:31.310 --> 00:03:31.320 align:start position:0%
+are simple,
+ 
+
+00:03:31.320 --> 00:03:35.190 align:start position:0%
+are simple,
+um<00:03:32.040><c> and</c><00:03:32.239><c> they</c><00:03:32.400><c> impose</c><00:03:32.920><c> few</c><00:03:33.160><c> constraints.</c><00:03:34.080><c> So,</c>
+
+00:03:35.190 --> 00:03:35.200 align:start position:0%
+um and they impose few constraints. So,
+ 
+
+00:03:35.200 --> 00:03:38.070 align:start position:0%
+um and they impose few constraints. So,
+I<00:03:35.280><c> think</c><00:03:35.560><c> because</c><00:03:36.040><c> of</c><00:03:36.280><c> this</c><00:03:36.640><c> fact</c><00:03:37.200><c> that</c><00:03:37.440><c> LLMs</c>
+
+00:03:38.070 --> 00:03:38.080 align:start position:0%
+I think because of this fact that LLMs
+ 
+
+00:03:38.080 --> 00:03:40.350 align:start position:0%
+I think because of this fact that LLMs
+just<00:03:38.320><c> seem</c><00:03:38.560><c> to</c><00:03:38.680><c> be</c><00:03:39.000><c> good</c><00:03:39.239><c> at</c><00:03:39.400><c> writing</c><00:03:39.720><c> them,</c>
+
+00:03:40.350 --> 00:03:40.360 align:start position:0%
+just seem to be good at writing them,
+ 
+
+00:03:40.360 --> 00:03:44.110 align:start position:0%
+just seem to be good at writing them,
+people<00:03:40.840><c> jump</c><00:03:41.160><c> to</c><00:03:41.280><c> these</c><00:03:41.560><c> languages.</c><00:03:42.920><c> Um</c>
+
+00:03:44.110 --> 00:03:44.120 align:start position:0%
+people jump to these languages. Um
+ 
+
+00:03:44.120 --> 00:03:46.270 align:start position:0%
+people jump to these languages. Um
+but<00:03:44.280><c> I</c><00:03:44.360><c> think</c><00:03:45.239><c> something</c><00:03:45.720><c> that</c><00:03:45.880><c> a</c><00:03:45.920><c> lot</c><00:03:46.160><c> of</c>
+
+00:03:46.270 --> 00:03:46.280 align:start position:0%
+but I think something that a lot of
+ 
+
+00:03:46.280 --> 00:03:48.910 align:start position:0%
+but I think something that a lot of
+people<00:03:47.320><c> in</c><00:03:47.480><c> my</c><00:03:47.560><c> experience</c><00:03:48.160><c> don't</c><00:03:48.440><c> question</c>
+
+00:03:48.910 --> 00:03:48.920 align:start position:0%
+people in my experience don't question
+ 
+
+00:03:48.920 --> 00:03:51.470 align:start position:0%
+people in my experience don't question
+as<00:03:49.080><c> much</c><00:03:49.400><c> as</c><00:03:49.640><c> whether</c><00:03:50.000><c> this</c><00:03:50.280><c> is</c><00:03:50.480><c> even</c>
+
+00:03:51.470 --> 00:03:51.480 align:start position:0%
+as much as whether this is even
+ 
+
+00:03:51.480 --> 00:03:54.110 align:start position:0%
+as much as whether this is even
+something<00:03:52.200><c> we</c><00:03:52.440><c> want</c><00:03:52.840><c> to</c><00:03:52.960><c> optimize</c><00:03:53.720><c> for,</c>
+
+00:03:54.110 --> 00:03:54.120 align:start position:0%
+something we want to optimize for,
+ 
+
+00:03:54.120 --> 00:03:56.230 align:start position:0%
+something we want to optimize for,
+right?<00:03:55.120><c> Um</c>
+
+00:03:56.230 --> 00:03:56.240 align:start position:0%
+right? Um
+ 
+
+00:03:56.240 --> 00:03:58.990 align:start position:0%
+right? Um
+the<00:03:56.320><c> classic</c><00:03:56.800><c> vibe</c><00:03:57.040><c> coding</c><00:03:57.360><c> languages</c><00:03:58.600><c> are</c>
+
+00:03:58.990 --> 00:03:59.000 align:start position:0%
+the classic vibe coding languages are
+ 
+
+00:03:59.000 --> 00:04:02.270 align:start position:0%
+the classic vibe coding languages are
+easy<00:03:59.640><c> for</c><00:03:59.840><c> the</c><00:03:59.960><c> models</c><00:04:00.400><c> to</c><00:04:00.560><c> write,</c><00:04:01.120><c> but</c><00:04:02.120><c> is</c>
+
+00:04:02.270 --> 00:04:02.280 align:start position:0%
+easy for the models to write, but is
+ 
+
+00:04:02.280 --> 00:04:04.670 align:start position:0%
+easy for the models to write, but is
+that<00:04:02.480><c> even</c><00:04:02.760><c> a</c><00:04:02.840><c> good</c><00:04:03.080><c> thing?</c>
+
+00:04:04.670 --> 00:04:04.680 align:start position:0%
+that even a good thing?
+ 
+
+00:04:04.680 --> 00:04:07.150 align:start position:0%
+that even a good thing?
+My<00:04:04.960><c> argument</c><00:04:05.760><c> is</c><00:04:06.040><c> that</c>
+
+00:04:07.150 --> 00:04:07.160 align:start position:0%
+My argument is that
+ 
+
+00:04:07.160 --> 00:04:09.550 align:start position:0%
+My argument is that
+the<00:04:07.280><c> importance</c><00:04:08.000><c> of</c><00:04:08.160><c> it</c><00:04:08.400><c> being</c><00:04:08.840><c> easy</c><00:04:09.240><c> for</c><00:04:09.440><c> the</c>
+
+00:04:09.550 --> 00:04:09.560 align:start position:0%
+the importance of it being easy for the
+ 
+
+00:04:09.560 --> 00:04:11.110 align:start position:0%
+the importance of it being easy for the
+model<00:04:10.000><c> to</c><00:04:10.160><c> write</c><00:04:10.400><c> the</c><00:04:10.480><c> language</c><00:04:10.920><c> is</c>
+
+00:04:11.110 --> 00:04:11.120 align:start position:0%
+model to write the language is
+ 
+
+00:04:11.120 --> 00:04:14.150 align:start position:0%
+model to write the language is
+overstated.<00:04:12.120><c> In</c><00:04:12.720><c> fact,</c><00:04:13.200><c> I</c><00:04:13.320><c> would</c><00:04:13.520><c> even</c><00:04:13.800><c> say</c>
+
+00:04:14.150 --> 00:04:14.160 align:start position:0%
+overstated. In fact, I would even say
+ 
+
+00:04:14.160 --> 00:04:17.710 align:start position:0%
+overstated. In fact, I would even say
+that<00:04:14.400><c> in</c><00:04:14.600><c> some</c><00:04:14.920><c> cases</c><00:04:15.560><c> it's</c><00:04:15.840><c> a</c><00:04:15.920><c> bad</c><00:04:16.400><c> thing</c><00:04:17.000><c> that</c>
+
+00:04:17.710 --> 00:04:17.720 align:start position:0%
+that in some cases it's a bad thing that
+ 
+
+00:04:17.720 --> 00:04:20.430 align:start position:0%
+that in some cases it's a bad thing that
+these<00:04:17.959><c> languages</c><00:04:18.959><c> are</c><00:04:19.160><c> easy</c><00:04:19.519><c> for</c><00:04:19.680><c> the</c><00:04:19.799><c> models</c>
+
+00:04:20.430 --> 00:04:20.440 align:start position:0%
+these languages are easy for the models
+ 
+
+00:04:20.440 --> 00:04:22.030 align:start position:0%
+these languages are easy for the models
+to<00:04:20.600><c> write.</c>
+
+00:04:22.030 --> 00:04:22.040 align:start position:0%
+to write.
+ 
+
+00:04:22.040 --> 00:04:24.670 align:start position:0%
+to write.
+Um<00:04:22.640><c> the</c><00:04:22.800><c> dynamic</c><00:04:23.360><c> and</c><00:04:23.520><c> flexible</c><00:04:24.080><c> nature</c><00:04:24.560><c> of</c>
+
+00:04:24.670 --> 00:04:24.680 align:start position:0%
+Um the dynamic and flexible nature of
+ 
+
+00:04:24.680 --> 00:04:26.470 align:start position:0%
+Um the dynamic and flexible nature of
+the<00:04:24.800><c> languages</c><00:04:25.480><c> is</c>
+
+00:04:26.470 --> 00:04:26.480 align:start position:0%
+the languages is
+ 
+
+00:04:26.480 --> 00:04:29.790 align:start position:0%
+the languages is
+what<00:04:26.800><c> makes</c><00:04:27.120><c> it</c><00:04:27.320><c> easy</c><00:04:27.720><c> for</c><00:04:28.040><c> the</c><00:04:28.800><c> agent</c><00:04:29.400><c> or</c><00:04:29.600><c> for</c>
+
+00:04:29.790 --> 00:04:29.800 align:start position:0%
+what makes it easy for the agent or for
+ 
+
+00:04:29.800 --> 00:04:31.310 align:start position:0%
+what makes it easy for the agent or for
+the<00:04:29.919><c> LLM,</c><00:04:30.440><c> I</c><00:04:30.520><c> should</c><00:04:30.800><c> say,</c><00:04:30.960><c> to</c><00:04:31.080><c> write</c>
+
+00:04:31.310 --> 00:04:31.320 align:start position:0%
+the LLM, I should say, to write
+ 
+
+00:04:31.320 --> 00:04:35.230 align:start position:0%
+the LLM, I should say, to write
+JavaScript,<00:04:32.000><c> Python,</c><00:04:32.400><c> TypeScript.</c><00:04:33.720><c> Um</c>
+
+00:04:35.230 --> 00:04:35.240 align:start position:0%
+JavaScript, Python, TypeScript. Um
+ 
+
+00:04:35.240 --> 00:04:38.110 align:start position:0%
+JavaScript, Python, TypeScript. Um
+but<00:04:35.720><c> this</c><00:04:36.000><c> same</c><00:04:36.320><c> flexibility</c><00:04:37.200><c> also</c><00:04:37.640><c> makes</c><00:04:38.000><c> it</c>
+
+00:04:38.110 --> 00:04:38.120 align:start position:0%
+but this same flexibility also makes it
+ 
+
+00:04:38.120 --> 00:04:40.630 align:start position:0%
+but this same flexibility also makes it
+very<00:04:38.480><c> easy</c><00:04:38.760><c> to</c><00:04:38.880><c> make</c><00:04:39.120><c> mistakes.</c>
+
+00:04:40.630 --> 00:04:40.640 align:start position:0%
+very easy to make mistakes.
+ 
+
+00:04:40.640 --> 00:04:42.630 align:start position:0%
+very easy to make mistakes.
+Sometimes<00:04:41.240><c> even</c><00:04:41.520><c> obvious</c><00:04:42.000><c> mistakes,</c>
+
+00:04:42.630 --> 00:04:42.640 align:start position:0%
+Sometimes even obvious mistakes,
+ 
+
+00:04:42.640 --> 00:04:45.590 align:start position:0%
+Sometimes even obvious mistakes,
+sometimes<00:04:43.200><c> less</c><00:04:43.480><c> obvious</c><00:04:43.960><c> mistakes.</c>
+
+00:04:45.590 --> 00:04:45.600 align:start position:0%
+sometimes less obvious mistakes.
+ 
+
+00:04:45.600 --> 00:04:48.310 align:start position:0%
+sometimes less obvious mistakes.
+Adding<00:04:45.919><c> typing</c><00:04:46.400><c> is</c><00:04:46.560><c> a</c><00:04:46.600><c> helpful</c><00:04:47.040><c> constraint,</c>
+
+00:04:48.310 --> 00:04:48.320 align:start position:0%
+Adding typing is a helpful constraint,
+ 
+
+00:04:48.320 --> 00:04:51.510 align:start position:0%
+Adding typing is a helpful constraint,
+but<00:04:48.560><c> that</c><00:04:48.760><c> only</c><00:04:49.000><c> gets</c><00:04:49.360><c> you</c><00:04:49.520><c> so</c><00:04:49.760><c> far</c><00:04:50.760><c> um</c><00:04:51.200><c> because</c>
+
+00:04:51.510 --> 00:04:51.520 align:start position:0%
+but that only gets you so far um because
+ 
+
+00:04:51.520 --> 00:04:53.350 align:start position:0%
+but that only gets you so far um because
+it<00:04:51.640><c> only</c><00:04:51.880><c> gives</c><00:04:52.120><c> you</c><00:04:52.240><c> the</c><00:04:52.360><c> type</c><00:04:52.640><c> safety</c><00:04:53.240><c> and</c>
+
+00:04:53.350 --> 00:04:53.360 align:start position:0%
+it only gives you the type safety and
+ 
+
+00:04:53.360 --> 00:04:56.550 align:start position:0%
+it only gives you the type safety and
+also<00:04:53.720><c> it's</c><00:04:53.919><c> not</c><00:04:54.160><c> a</c><00:04:54.200><c> very</c><00:04:54.520><c> strong</c><00:04:55.000><c> type</c><00:04:55.280><c> safety</c>
+
+00:04:56.550 --> 00:04:56.560 align:start position:0%
+also it's not a very strong type safety
+ 
+
+00:04:56.560 --> 00:04:59.830 align:start position:0%
+also it's not a very strong type safety
+um<00:04:57.160><c> in</c><00:04:57.360><c> TypeScript</c><00:04:58.000><c> or</c><00:04:58.120><c> Python.</c>
+
+00:04:59.830 --> 00:04:59.840 align:start position:0%
+um in TypeScript or Python.
+ 
+
+00:04:59.840 --> 00:05:01.550 align:start position:0%
+um in TypeScript or Python.
+And<00:04:59.960><c> this</c><00:05:00.160><c> is</c><00:05:00.280><c> of</c><00:05:00.400><c> course</c><00:05:00.680><c> a</c><00:05:00.760><c> problem</c><00:05:01.200><c> because</c>
+
+00:05:01.550 --> 00:05:01.560 align:start position:0%
+And this is of course a problem because
+ 
+
+00:05:01.560 --> 00:05:04.230 align:start position:0%
+And this is of course a problem because
+LLMs<00:05:02.280><c> are</c><00:05:02.440><c> fallible.</c><00:05:03.280><c> They</c><00:05:03.440><c> will</c><00:05:03.640><c> always</c><00:05:04.040><c> be</c>
+
+00:05:04.230 --> 00:05:04.240 align:start position:0%
+LLMs are fallible. They will always be
+ 
+
+00:05:04.240 --> 00:05:05.670 align:start position:0%
+LLMs are fallible. They will always be
+fallible
+
+00:05:05.670 --> 00:05:05.680 align:start position:0%
+fallible
+ 
+
+00:05:05.680 --> 00:05:07.870 align:start position:0%
+fallible
+because<00:05:06.560><c> they're</c><00:05:07.080><c> by</c><00:05:07.280><c> design</c>
+
+00:05:07.870 --> 00:05:07.880 align:start position:0%
+because they're by design
+ 
+
+00:05:07.880 --> 00:05:10.990 align:start position:0%
+because they're by design
+non-deterministic<00:05:09.000><c> systems.</c><00:05:09.760><c> So,</c><00:05:10.560><c> hopefully</c>
+
+00:05:10.990 --> 00:05:11.000 align:start position:0%
+non-deterministic systems. So, hopefully
+ 
+
+00:05:11.000 --> 00:05:13.670 align:start position:0%
+non-deterministic systems. So, hopefully
+in<00:05:11.120><c> the</c><00:05:11.200><c> future</c><00:05:11.680><c> they</c><00:05:11.840><c> get</c><00:05:12.040><c> better</c><00:05:12.480><c> at</c><00:05:13.240><c> making</c>
+
+00:05:13.670 --> 00:05:13.680 align:start position:0%
+in the future they get better at making
+ 
+
+00:05:13.680 --> 00:05:16.190 align:start position:0%
+in the future they get better at making
+mistakes<00:05:14.240><c> less</c><00:05:14.520><c> often,</c><00:05:15.040><c> but</c><00:05:15.240><c> I</c><00:05:15.360><c> don't</c><00:05:15.880><c> think</c>
+
+00:05:16.190 --> 00:05:16.200 align:start position:0%
+mistakes less often, but I don't think
+ 
+
+00:05:16.200 --> 00:05:18.670 align:start position:0%
+mistakes less often, but I don't think
+this<00:05:16.440><c> is</c><00:05:16.640><c> something</c><00:05:17.160><c> that</c><00:05:17.400><c> would</c><00:05:17.640><c> ever</c>
+
+00:05:18.670 --> 00:05:18.680 align:start position:0%
+this is something that would ever
+ 
+
+00:05:18.680 --> 00:05:21.590 align:start position:0%
+this is something that would ever
+disappear<00:05:19.200><c> entirely.</c><00:05:20.040><c> And</c><00:05:20.280><c> so,</c><00:05:20.440><c> just</c><00:05:20.760><c> like</c>
+
+00:05:21.590 --> 00:05:21.600 align:start position:0%
+disappear entirely. And so, just like
+ 
+
+00:05:21.600 --> 00:05:24.590 align:start position:0%
+disappear entirely. And so, just like
+the<00:05:21.720><c> smartest</c><00:05:22.280><c> humans</c><00:05:22.840><c> make</c><00:05:23.120><c> mistakes</c><00:05:24.280><c> and</c><00:05:24.480><c> we</c>
+
+00:05:24.590 --> 00:05:24.600 align:start position:0%
+the smartest humans make mistakes and we
+ 
+
+00:05:24.600 --> 00:05:27.030 align:start position:0%
+the smartest humans make mistakes and we
+need<00:05:25.000><c> to</c><00:05:25.360><c> guard</c><00:05:25.680><c> against</c><00:05:26.120><c> human</c><00:05:26.480><c> error,</c><00:05:26.880><c> we're</c>
+
+00:05:27.030 --> 00:05:27.040 align:start position:0%
+need to guard against human error, we're
+ 
+
+00:05:27.040 --> 00:05:29.870 align:start position:0%
+need to guard against human error, we're
+also<00:05:27.440><c> going</c><00:05:27.600><c> to</c><00:05:27.680><c> need</c><00:05:27.919><c> to</c><00:05:28.000><c> guard</c><00:05:28.320><c> against</c><00:05:29.320><c> LLM</c>
+
+00:05:29.870 --> 00:05:29.880 align:start position:0%
+also going to need to guard against LLM
+ 
+
+00:05:29.880 --> 00:05:31.150 align:start position:0%
+also going to need to guard against LLM
+error.
+
+00:05:31.150 --> 00:05:31.160 align:start position:0%
+error.
+ 
+
+00:05:31.160 --> 00:05:33.550 align:start position:0%
+error.
+One<00:05:31.480><c> way</c><00:05:31.680><c> that</c><00:05:31.960><c> folks</c><00:05:32.440><c> often</c><00:05:32.840><c> would</c><00:05:33.040><c> do</c><00:05:33.240><c> that,</c>
+
+00:05:33.550 --> 00:05:33.560 align:start position:0%
+One way that folks often would do that,
+ 
+
+00:05:33.560 --> 00:05:36.510 align:start position:0%
+One way that folks often would do that,
+especially<00:05:34.440><c> also</c><00:05:34.760><c> in</c><00:05:34.880><c> the</c><00:05:35.000><c> conventional</c>
+
+00:05:36.510 --> 00:05:36.520 align:start position:0%
+especially also in the conventional
+ 
+
+00:05:36.520 --> 00:05:39.470 align:start position:0%
+especially also in the conventional
+uh<00:05:36.600><c> vibe</c><00:05:36.919><c> coding</c><00:05:37.320><c> languages,</c><00:05:38.400><c> is</c><00:05:39.120><c> adding</c>
+
+00:05:39.470 --> 00:05:39.480 align:start position:0%
+uh vibe coding languages, is adding
+ 
+
+00:05:39.480 --> 00:05:40.950 align:start position:0%
+uh vibe coding languages, is adding
+tests.
+
+00:05:40.950 --> 00:05:40.960 align:start position:0%
+tests.
+ 
+
+00:05:40.960 --> 00:05:43.790 align:start position:0%
+tests.
+This<00:05:41.160><c> is</c><00:05:41.320><c> a</c><00:05:41.400><c> huge</c><00:05:41.840><c> help,</c><00:05:42.240><c> but</c><00:05:42.960><c> there</c><00:05:43.200><c> are</c><00:05:43.480><c> a</c><00:05:43.560><c> lot</c>
+
+00:05:43.790 --> 00:05:43.800 align:start position:0%
+This is a huge help, but there are a lot
+ 
+
+00:05:43.800 --> 00:05:47.150 align:start position:0%
+This is a huge help, but there are a lot
+of<00:05:44.240><c> problems</c><00:05:45.000><c> with</c><00:05:45.280><c> only</c><00:05:45.640><c> relying</c><00:05:46.280><c> on</c><00:05:46.720><c> having</c>
+
+00:05:47.150 --> 00:05:47.160 align:start position:0%
+of problems with only relying on having
+ 
+
+00:05:47.160 --> 00:05:50.830 align:start position:0%
+of problems with only relying on having
+tests<00:05:48.320><c> and</c><00:05:48.760><c> and</c><00:05:49.000><c> code</c><00:05:49.240><c> review</c><00:05:49.560><c> agents.</c>
+
+00:05:50.830 --> 00:05:50.840 align:start position:0%
+tests and and code review agents.
+ 
+
+00:05:50.840 --> 00:05:52.310 align:start position:0%
+tests and and code review agents.
+Um
+
+00:05:52.310 --> 00:05:52.320 align:start position:0%
+Um
+ 
+
+00:05:52.320 --> 00:05:54.950 align:start position:0%
+Um
+firstly,<00:05:53.240><c> you</c><00:05:53.400><c> know,</c><00:05:54.080><c> if</c><00:05:54.280><c> you</c><00:05:54.360><c> don't</c><00:05:54.600><c> prompt</c>
+
+00:05:54.950 --> 00:05:54.960 align:start position:0%
+firstly, you know, if you don't prompt
+ 
+
+00:05:54.960 --> 00:05:57.070 align:start position:0%
+firstly, you know, if you don't prompt
+the<00:05:55.080><c> agent</c><00:05:55.440><c> skillfully,</c><00:05:56.080><c> it'll</c><00:05:56.400><c> often</c><00:05:56.840><c> write</c>
+
+00:05:57.070 --> 00:05:57.080 align:start position:0%
+the agent skillfully, it'll often write
+ 
+
+00:05:57.080 --> 00:05:59.110 align:start position:0%
+the agent skillfully, it'll often write
+the<00:05:57.240><c> tests</c><00:05:57.720><c> after</c><00:05:58.040><c> the</c><00:05:58.160><c> implementation</c><00:05:59.000><c> and</c>
+
+00:05:59.110 --> 00:05:59.120 align:start position:0%
+the tests after the implementation and
+ 
+
+00:05:59.120 --> 00:06:00.830 align:start position:0%
+the tests after the implementation and
+then<00:05:59.280><c> you</c><00:05:59.400><c> just</c><00:05:59.800><c> end</c><00:06:00.040><c> up</c><00:06:00.440><c> testing</c>
+
+00:06:00.830 --> 00:06:00.840 align:start position:0%
+then you just end up testing
+ 
+
+00:06:00.840 --> 00:06:03.030 align:start position:0%
+then you just end up testing
+implementation<00:06:01.720><c> details</c><00:06:02.240><c> without</c><00:06:02.640><c> actually</c>
+
+00:06:03.030 --> 00:06:03.040 align:start position:0%
+implementation details without actually
+ 
+
+00:06:03.040 --> 00:06:06.190 align:start position:0%
+implementation details without actually
+testing<00:06:03.960><c> the</c><00:06:04.080><c> behavior</c><00:06:04.640><c> properly.</c>
+
+00:06:06.190 --> 00:06:06.200 align:start position:0%
+testing the behavior properly.
+ 
+
+00:06:06.200 --> 00:06:07.950 align:start position:0%
+testing the behavior properly.
+Uh<00:06:06.600><c> even</c><00:06:06.920><c> with</c><00:06:07.080><c> that</c><00:06:07.320><c> test-driven</c>
+
+00:06:07.950 --> 00:06:07.960 align:start position:0%
+Uh even with that test-driven
+ 
+
+00:06:07.960 --> 00:06:09.710 align:start position:0%
+Uh even with that test-driven
+development<00:06:08.640><c> though,</c>
+
+00:06:09.710 --> 00:06:09.720 align:start position:0%
+development though,
+ 
+
+00:06:09.720 --> 00:06:12.390 align:start position:0%
+development though,
+tests<00:06:10.800><c> usually</c><00:06:11.480><c> can</c><00:06:11.680><c> only</c><00:06:12.040><c> prove</c>
+
+00:06:12.390 --> 00:06:12.400 align:start position:0%
+tests usually can only prove
+ 
+
+00:06:12.400 --> 00:06:15.190 align:start position:0%
+tests usually can only prove
+incorrectness<00:06:13.360><c> when</c><00:06:13.560><c> they</c><00:06:13.760><c> fail</c><00:06:14.800><c> because</c>
+
+00:06:15.190 --> 00:06:15.200 align:start position:0%
+incorrectness when they fail because
+ 
+
+00:06:15.200 --> 00:06:17.950 align:start position:0%
+incorrectness when they fail because
+it's<00:06:15.520><c> impractical</c><00:06:16.480><c> call</c><00:06:16.840><c> to</c><00:06:17.000><c> test</c><00:06:17.600><c> every</c>
+
+00:06:17.950 --> 00:06:17.960 align:start position:0%
+it's impractical call to test every
+ 
+
+00:06:17.960 --> 00:06:21.670 align:start position:0%
+it's impractical call to test every
+single<00:06:18.880><c> possible</c><00:06:19.440><c> input</c><00:06:19.880><c> combination.</c>
+
+00:06:21.670 --> 00:06:21.680 align:start position:0%
+single possible input combination.
+ 
+
+00:06:21.680 --> 00:06:24.590 align:start position:0%
+single possible input combination.
+You<00:06:21.880><c> can't</c><00:06:22.360><c> prove</c><00:06:23.160><c> that</c><00:06:23.720><c> every</c><00:06:24.120><c> input</c>
+
+00:06:24.590 --> 00:06:24.600 align:start position:0%
+You can't prove that every input
+ 
+
+00:06:24.600 --> 00:06:27.150 align:start position:0%
+You can't prove that every input
+produces<00:06:25.280><c> the</c><00:06:25.400><c> correct</c><00:06:26.000><c> output</c><00:06:26.560><c> in</c><00:06:26.680><c> a</c><00:06:26.760><c> lot</c><00:06:27.000><c> of</c>
+
+00:06:27.150 --> 00:06:27.160 align:start position:0%
+produces the correct output in a lot of
+ 
+
+00:06:27.160 --> 00:06:29.030 align:start position:0%
+produces the correct output in a lot of
+cases.
+
+00:06:29.030 --> 00:06:29.040 align:start position:0%
+cases.
+ 
+
+00:06:29.040 --> 00:06:31.470 align:start position:0%
+cases.
+And<00:06:29.160><c> then</c><00:06:29.320><c> of</c><00:06:29.440><c> course,</c><00:06:30.040><c> if</c><00:06:30.320><c> LLMs</c><00:06:30.919><c> are</c><00:06:31.040><c> the</c><00:06:31.160><c> ones</c>
+
+00:06:31.470 --> 00:06:31.480 align:start position:0%
+And then of course, if LLMs are the ones
+ 
+
+00:06:31.480 --> 00:06:33.510 align:start position:0%
+And then of course, if LLMs are the ones
+generating<00:06:32.040><c> the</c><00:06:32.160><c> tests,</c><00:06:32.760><c> they</c><00:06:32.960><c> may</c><00:06:33.200><c> make</c>
+
+00:06:33.510 --> 00:06:33.520 align:start position:0%
+generating the tests, they may make
+ 
+
+00:06:33.520 --> 00:06:35.470 align:start position:0%
+generating the tests, they may make
+mistakes<00:06:34.120><c> when</c><00:06:34.320><c> writing</c><00:06:34.640><c> those</c><00:06:34.960><c> tests</c><00:06:35.320><c> and</c>
+
+00:06:35.470 --> 00:06:35.480 align:start position:0%
+mistakes when writing those tests and
+ 
+
+00:06:35.480 --> 00:06:38.030 align:start position:0%
+mistakes when writing those tests and
+the<00:06:35.560><c> same</c><00:06:35.840><c> thing</c><00:06:36.040><c> applies</c><00:06:36.720><c> to</c><00:06:37.200><c> coding</c><00:06:37.640><c> review</c>
+
+00:06:38.030 --> 00:06:38.040 align:start position:0%
+the same thing applies to coding review
+ 
+
+00:06:38.040 --> 00:06:39.909 align:start position:0%
+the same thing applies to coding review
+agents.
+
+00:06:39.909 --> 00:06:39.919 align:start position:0%
+agents.
+ 
+
+00:06:39.919 --> 00:06:42.070 align:start position:0%
+agents.
+And<00:06:40.040><c> then</c><00:06:40.280><c> kind</c><00:06:40.560><c> of</c><00:06:40.640><c> more</c><00:06:40.880><c> on</c><00:06:41.040><c> a</c><00:06:41.120><c> philosophical</c>
+
+00:06:42.070 --> 00:06:42.080 align:start position:0%
+And then kind of more on a philosophical
+ 
+
+00:06:42.080 --> 00:06:44.150 align:start position:0%
+And then kind of more on a philosophical
+level,<00:06:42.480><c> right?</c><00:06:42.760><c> We</c><00:06:42.880><c> all</c><00:06:43.080><c> know</c>
+
+00:06:44.150 --> 00:06:44.160 align:start position:0%
+level, right? We all know
+ 
+
+00:06:44.160 --> 00:06:46.590 align:start position:0%
+level, right? We all know
+AI<00:06:44.560><c> stands</c><00:06:45.000><c> for</c><00:06:45.160><c> artificial</c><00:06:45.760><c> intelligence,</c>
+
+00:06:46.590 --> 00:06:46.600 align:start position:0%
+AI stands for artificial intelligence,
+ 
+
+00:06:46.600 --> 00:06:47.590 align:start position:0%
+AI stands for artificial intelligence,
+but
+
+00:06:47.590 --> 00:06:47.600 align:start position:0%
+but
+ 
+
+00:06:47.600 --> 00:06:49.670 align:start position:0%
+but
+there's<00:06:47.880><c> this</c><00:06:48.120><c> book</c><00:06:48.520><c> called</c><00:06:48.840><c> Nexus</c><00:06:49.560><c> I</c>
+
+00:06:49.670 --> 00:06:49.680 align:start position:0%
+there's this book called Nexus I
+ 
+
+00:06:49.680 --> 00:06:52.470 align:start position:0%
+there's this book called Nexus I
+recently<00:06:50.360><c> read</c><00:06:50.800><c> and</c><00:06:51.000><c> I</c><00:06:51.120><c> can</c><00:06:51.480><c> highly</c><00:06:51.880><c> recommend</c>
+
+00:06:52.470 --> 00:06:52.480 align:start position:0%
+recently read and I can highly recommend
+ 
+
+00:06:52.480 --> 00:06:54.110 align:start position:0%
+recently read and I can highly recommend
+it<00:06:52.640><c> to</c><00:06:52.720><c> anyone</c><00:06:53.000><c> who</c><00:06:53.120><c> hasn't</c><00:06:53.440><c> read</c><00:06:53.600><c> it</c><00:06:53.760><c> yet.</c>
+
+00:06:54.110 --> 00:06:54.120 align:start position:0%
+it to anyone who hasn't read it yet.
+ 
+
+00:06:54.120 --> 00:06:57.030 align:start position:0%
+it to anyone who hasn't read it yet.
+It's<00:06:54.440><c> from</c><00:06:55.120><c> an</c><00:06:55.360><c> author</c><00:06:55.760><c> Yuval</c><00:06:56.120><c> Noah</c><00:06:56.480><c> Harari.</c>
+
+00:06:57.030 --> 00:06:57.040 align:start position:0%
+It's from an author Yuval Noah Harari.
+ 
+
+00:06:57.040 --> 00:06:59.710 align:start position:0%
+It's from an author Yuval Noah Harari.
+He's<00:06:57.360><c> a</c><00:06:57.480><c> historian</c><00:06:58.240><c> and</c><00:06:58.320><c> he</c><00:06:58.400><c> has</c><00:06:58.640><c> kind</c><00:06:58.919><c> of</c><00:06:59.080><c> a</c>
+
+00:06:59.710 --> 00:06:59.720 align:start position:0%
+He's a historian and he has kind of a
+ 
+
+00:06:59.720 --> 00:07:02.110 align:start position:0%
+He's a historian and he has kind of a
+unique<00:07:00.160><c> perspective</c><00:07:00.919><c> on</c><00:07:01.560><c> artificial</c>
+
+00:07:02.110 --> 00:07:02.120 align:start position:0%
+unique perspective on artificial
+ 
+
+00:07:02.120 --> 00:07:05.230 align:start position:0%
+unique perspective on artificial
+intelligence.<00:07:02.880><c> So</c><00:07:03.040><c> he's</c><00:07:03.280><c> discussing</c>
+
+00:07:05.230 --> 00:07:05.240 align:start position:0%
+intelligence. So he's discussing
+ 
+
+00:07:05.240 --> 00:07:07.950 align:start position:0%
+intelligence. So he's discussing
+human<00:07:05.680><c> information</c><00:07:06.400><c> networks</c><00:07:07.080><c> all</c><00:07:07.320><c> the</c><00:07:07.440><c> way</c>
+
+00:07:07.950 --> 00:07:07.960 align:start position:0%
+human information networks all the way
+ 
+
+00:07:07.960 --> 00:07:12.350 align:start position:0%
+human information networks all the way
+from<00:07:08.560><c> Stone</c><00:07:08.919><c> Ages</c><00:07:09.800><c> to</c><00:07:10.800><c> printing</c><00:07:11.240><c> press</c><00:07:11.960><c> to</c>
+
+00:07:12.350 --> 00:07:12.360 align:start position:0%
+from Stone Ages to printing press to
+ 
+
+00:07:12.360 --> 00:07:16.030 align:start position:0%
+from Stone Ages to printing press to
+internet<00:07:13.080><c> to</c><00:07:13.240><c> now</c><00:07:13.600><c> with</c><00:07:14.080><c> LLMs,</c><00:07:14.880><c> right?</c>
+
+00:07:16.030 --> 00:07:16.040 align:start position:0%
+internet to now with LLMs, right?
+ 
+
+00:07:16.040 --> 00:07:18.870 align:start position:0%
+internet to now with LLMs, right?
+Um<00:07:17.000><c> and</c><00:07:17.160><c> he</c><00:07:17.280><c> thinks</c><00:07:17.640><c> LLMs</c><00:07:18.160><c> are</c><00:07:18.240><c> really</c><00:07:18.480><c> unique</c>
+
+00:07:18.870 --> 00:07:18.880 align:start position:0%
+Um and he thinks LLMs are really unique
+ 
+
+00:07:18.880 --> 00:07:20.510 align:start position:0%
+Um and he thinks LLMs are really unique
+because<00:07:19.160><c> it's</c><00:07:19.320><c> the</c><00:07:19.440><c> first</c><00:07:19.840><c> time</c><00:07:20.160><c> we</c><00:07:20.280><c> have</c>
+
+00:07:20.510 --> 00:07:20.520 align:start position:0%
+because it's the first time we have
+ 
+
+00:07:20.520 --> 00:07:23.110 align:start position:0%
+because it's the first time we have
+something<00:07:20.960><c> that's</c><00:07:21.240><c> non-human</c><00:07:22.440><c> that's</c><00:07:22.760><c> able</c>
+
+00:07:23.110 --> 00:07:23.120 align:start position:0%
+something that's non-human that's able
+ 
+
+00:07:23.120 --> 00:07:25.710 align:start position:0%
+something that's non-human that's able
+to<00:07:23.280><c> produce</c><00:07:23.760><c> human</c><00:07:24.200><c> language.</c>
+
+00:07:25.710 --> 00:07:25.720 align:start position:0%
+to produce human language.
+ 
+
+00:07:25.720 --> 00:07:28.470 align:start position:0%
+to produce human language.
+And<00:07:26.680><c> um</c><00:07:27.200><c> a</c><00:07:27.280><c> point</c><00:07:27.680><c> he</c><00:07:27.800><c> makes</c><00:07:28.080><c> that</c><00:07:28.200><c> really</c>
+
+00:07:28.470 --> 00:07:28.480 align:start position:0%
+And um a point he makes that really
+ 
+
+00:07:28.480 --> 00:07:31.190 align:start position:0%
+And um a point he makes that really
+stuck<00:07:28.840><c> with</c><00:07:29.120><c> me</c><00:07:29.280><c> is</c><00:07:29.440><c> that</c><00:07:29.680><c> he</c><00:07:29.960><c> doesn't</c><00:07:30.640><c> like</c>
+
+00:07:31.190 --> 00:07:31.200 align:start position:0%
+stuck with me is that he doesn't like
+ 
+
+00:07:31.200 --> 00:07:32.430 align:start position:0%
+stuck with me is that he doesn't like
+that
+
+00:07:32.430 --> 00:07:32.440 align:start position:0%
+that
+ 
+
+00:07:32.440 --> 00:07:35.950 align:start position:0%
+that
+the<00:07:32.760><c> A</c><00:07:33.200><c> in</c><00:07:33.800><c> AI</c><00:07:34.360><c> is</c><00:07:34.720><c> artificial</c><00:07:35.440><c> because</c><00:07:35.760><c> it</c>
+
+00:07:35.950 --> 00:07:35.960 align:start position:0%
+the A in AI is artificial because it
+ 
+
+00:07:35.960 --> 00:07:39.790 align:start position:0%
+the A in AI is artificial because it
+understates<00:07:36.760><c> how</c><00:07:36.960><c> different</c><00:07:38.200><c> um</c><00:07:39.000><c> LLMs</c><00:07:39.680><c> and</c>
+
+00:07:39.790 --> 00:07:39.800 align:start position:0%
+understates how different um LLMs and
+ 
+
+00:07:39.800 --> 00:07:41.950 align:start position:0%
+understates how different um LLMs and
+other<00:07:40.120><c> AI</c><00:07:40.400><c> technologies</c><00:07:41.240><c> are</c><00:07:41.480><c> from</c><00:07:41.760><c> how</c>
+
+00:07:41.950 --> 00:07:41.960 align:start position:0%
+other AI technologies are from how
+ 
+
+00:07:41.960 --> 00:07:44.910 align:start position:0%
+other AI technologies are from how
+humans<00:07:42.560><c> think</c><00:07:42.920><c> and</c><00:07:43.080><c> he</c><00:07:43.280><c> actually</c><00:07:44.520><c> likes</c><00:07:44.800><c> to</c>
+
+00:07:44.910 --> 00:07:44.920 align:start position:0%
+humans think and he actually likes to
+ 
+
+00:07:44.920 --> 00:07:47.990 align:start position:0%
+humans think and he actually likes to
+call<00:07:45.200><c> it</c><00:07:45.400><c> alien</c><00:07:45.840><c> intelligence</c><00:07:46.680><c> instead.</c>
+
+00:07:47.990 --> 00:07:48.000 align:start position:0%
+call it alien intelligence instead.
+ 
+
+00:07:48.000 --> 00:07:49.390 align:start position:0%
+call it alien intelligence instead.
+Um
+
+00:07:49.390 --> 00:07:49.400 align:start position:0%
+Um
+ 
+
+00:07:49.400 --> 00:07:50.390 align:start position:0%
+Um
+because
+
+00:07:50.390 --> 00:07:50.400 align:start position:0%
+because
+ 
+
+00:07:50.400 --> 00:07:52.870 align:start position:0%
+because
+the<00:07:50.600><c> internal</c><00:07:51.080><c> workings</c><00:07:51.640><c> of</c><00:07:51.800><c> how</c><00:07:52.000><c> they</c><00:07:52.200><c> think</c>
+
+00:07:52.870 --> 00:07:52.880 align:start position:0%
+the internal workings of how they think
+ 
+
+00:07:52.880 --> 00:07:55.070 align:start position:0%
+the internal workings of how they think
+at<00:07:53.000><c> a</c><00:07:53.080><c> low</c><00:07:53.320><c> level</c><00:07:53.760><c> is</c><00:07:54.120><c> different</c><00:07:54.560><c> from</c><00:07:54.760><c> how</c><00:07:54.920><c> we</c>
+
+00:07:55.070 --> 00:07:55.080 align:start position:0%
+at a low level is different from how we
+ 
+
+00:07:55.080 --> 00:07:58.350 align:start position:0%
+at a low level is different from how we
+think.<00:07:55.440><c> LLMs</c><00:07:56.520><c> predict</c><00:07:57.120><c> tokens</c><00:07:57.760><c> that</c><00:07:57.960><c> come</c><00:07:58.200><c> in</c>
+
+00:07:58.350 --> 00:07:58.360 align:start position:0%
+think. LLMs predict tokens that come in
+ 
+
+00:07:58.360 --> 00:08:01.390 align:start position:0%
+think. LLMs predict tokens that come in
+streams<00:07:59.240><c> and</c><00:08:00.280><c> it's</c><00:08:00.440><c> a</c><00:08:00.480><c> very</c><00:08:00.840><c> powerful</c>
+
+00:08:01.390 --> 00:08:01.400 align:start position:0%
+streams and it's a very powerful
+ 
+
+00:08:01.400 --> 00:08:03.350 align:start position:0%
+streams and it's a very powerful
+mechanism<00:08:01.960><c> of</c><00:08:02.120><c> thinking,</c><00:08:02.520><c> but</c><00:08:02.680><c> it's</c><00:08:02.880><c> not</c><00:08:03.160><c> how</c>
+
+00:08:03.350 --> 00:08:03.360 align:start position:0%
+mechanism of thinking, but it's not how
+ 
+
+00:08:03.360 --> 00:08:04.710 align:start position:0%
+mechanism of thinking, but it's not how
+we<00:08:03.560><c> think.</c>
+
+00:08:04.710 --> 00:08:04.720 align:start position:0%
+we think.
+ 
+
+00:08:04.720 --> 00:08:07.070 align:start position:0%
+we think.
+And<00:08:05.200><c> my</c><00:08:05.400><c> point</c><00:08:05.800><c> here</c><00:08:06.080><c> is</c><00:08:06.240><c> that</c><00:08:06.440><c> the</c><00:08:06.560><c> failure</c>
+
+00:08:07.070 --> 00:08:07.080 align:start position:0%
+And my point here is that the failure
+ 
+
+00:08:07.080 --> 00:08:09.470 align:start position:0%
+And my point here is that the failure
+modes<00:08:07.480><c> might</c><00:08:07.720><c> be</c><00:08:07.840><c> totally</c><00:08:08.280><c> unexpected</c><00:08:09.080><c> to</c><00:08:09.240><c> us.</c>
+
+00:08:09.470 --> 00:08:09.480 align:start position:0%
+modes might be totally unexpected to us.
+ 
+
+00:08:09.480 --> 00:08:11.870 align:start position:0%
+modes might be totally unexpected to us.
+And<00:08:09.600><c> I'm</c><00:08:09.800><c> sure</c><00:08:10.240><c> if</c><00:08:10.480><c> you've</c><00:08:10.800><c> done</c><00:08:11.120><c> any</c><00:08:11.480><c> coding</c>
+
+00:08:11.870 --> 00:08:11.880 align:start position:0%
+And I'm sure if you've done any coding
+ 
+
+00:08:11.880 --> 00:08:15.070 align:start position:0%
+And I'm sure if you've done any coding
+with<00:08:12.680><c> AI,</c><00:08:13.640><c> you</c><00:08:13.800><c> might</c><00:08:13.960><c> have</c><00:08:14.080><c> had</c><00:08:14.280><c> a</c><00:08:14.320><c> situation</c>
+
+00:08:15.070 --> 00:08:15.080 align:start position:0%
+with AI, you might have had a situation
+ 
+
+00:08:15.080 --> 00:08:16.710 align:start position:0%
+with AI, you might have had a situation
+where<00:08:15.240><c> you</c><00:08:15.360><c> got</c><00:08:15.640><c> code</c><00:08:15.960><c> that</c><00:08:16.120><c> looked</c><00:08:16.440><c> really</c>
+
+00:08:16.710 --> 00:08:16.720 align:start position:0%
+where you got code that looked really
+ 
+
+00:08:16.720 --> 00:08:18.750 align:start position:0%
+where you got code that looked really
+nice.<00:08:17.200><c> It</c><00:08:17.320><c> might</c><00:08:17.480><c> have</c><00:08:17.640><c> had</c>
+
+00:08:18.750 --> 00:08:18.760 align:start position:0%
+nice. It might have had
+ 
+
+00:08:18.760 --> 00:08:21.350 align:start position:0%
+nice. It might have had
+sensible<00:08:19.400><c> variable</c><00:08:19.919><c> names,</c><00:08:20.360><c> good</c><00:08:20.640><c> comments,</c>
+
+00:08:21.350 --> 00:08:21.360 align:start position:0%
+sensible variable names, good comments,
+ 
+
+00:08:21.360 --> 00:08:23.070 align:start position:0%
+sensible variable names, good comments,
+and<00:08:21.520><c> whatever.</c><00:08:21.960><c> But</c><00:08:22.120><c> when</c><00:08:22.280><c> you</c><00:08:22.400><c> take</c><00:08:22.640><c> a</c><00:08:22.720><c> look,</c>
+
+00:08:23.070 --> 00:08:23.080 align:start position:0%
+and whatever. But when you take a look,
+ 
+
+00:08:23.080 --> 00:08:25.230 align:start position:0%
+and whatever. But when you take a look,
+something<00:08:23.919><c> might</c><00:08:24.160><c> not</c><00:08:24.400><c> be</c><00:08:24.560><c> right.</c><00:08:24.919><c> Like</c><00:08:25.120><c> there</c>
+
+00:08:25.230 --> 00:08:25.240 align:start position:0%
+something might not be right. Like there
+ 
+
+00:08:25.240 --> 00:08:27.790 align:start position:0%
+something might not be right. Like there
+might<00:08:25.440><c> be</c><00:08:25.600><c> a</c><00:08:25.680><c> subtle</c><00:08:26.160><c> bug</c><00:08:26.600><c> or</c><00:08:26.720><c> maybe</c><00:08:27.080><c> it's</c>
+
+00:08:27.790 --> 00:08:27.800 align:start position:0%
+might be a subtle bug or maybe it's
+ 
+
+00:08:27.800 --> 00:08:30.390 align:start position:0%
+might be a subtle bug or maybe it's
+relying<00:08:28.320><c> on</c><00:08:28.520><c> some</c><00:08:28.720><c> heuristic</c><00:08:29.480><c> when</c><00:08:29.680><c> you</c><00:08:29.919><c> could</c>
+
+00:08:30.390 --> 00:08:30.400 align:start position:0%
+relying on some heuristic when you could
+ 
+
+00:08:30.400 --> 00:08:33.510 align:start position:0%
+relying on some heuristic when you could
+check<00:08:30.720><c> the</c><00:08:30.840><c> actual</c><00:08:31.520><c> thing</c><00:08:32.159><c> and</c><00:08:32.479><c> more</c><00:08:32.760><c> reliably</c>
+
+00:08:33.510 --> 00:08:33.520 align:start position:0%
+check the actual thing and more reliably
+ 
+
+00:08:33.520 --> 00:08:36.310 align:start position:0%
+check the actual thing and more reliably
+and<00:08:33.680><c> more</c><00:08:33.960><c> easily</c><00:08:34.400><c> in</c><00:08:34.560><c> some</c><00:08:34.840><c> cases.</c>
+
+00:08:36.310 --> 00:08:36.320 align:start position:0%
+and more easily in some cases.
+ 
+
+00:08:36.320 --> 00:08:38.469 align:start position:0%
+and more easily in some cases.
+So,<00:08:36.840><c> you</c><00:08:37.039><c> really</c><00:08:37.320><c> need</c><00:08:37.520><c> to</c><00:08:37.599><c> be</c><00:08:37.760><c> careful</c><00:08:38.240><c> with</c>
+
+00:08:38.469 --> 00:08:38.479 align:start position:0%
+So, you really need to be careful with
+ 
+
+00:08:38.479 --> 00:08:40.190 align:start position:0%
+So, you really need to be careful with
+this<00:08:39.159><c> with</c>
+
+00:08:40.190 --> 00:08:40.200 align:start position:0%
+this with
+ 
+
+00:08:40.200 --> 00:08:44.630 align:start position:0%
+this with
+um<00:08:40.960><c> LLM</c><00:08:42.000><c> and</c><00:08:42.240><c> agent</c><00:08:43.159><c> tech-based</c><00:08:44.000><c> development,</c>
+
+00:08:44.630 --> 00:08:44.640 align:start position:0%
+um LLM and agent tech-based development,
+ 
+
+00:08:44.640 --> 00:08:46.430 align:start position:0%
+um LLM and agent tech-based development,
+right?
+
+00:08:46.430 --> 00:08:46.440 align:start position:0%
+right?
+ 
+
+00:08:46.440 --> 00:08:47.950 align:start position:0%
+right?
+And<00:08:46.520><c> then</c><00:08:46.680><c> that</c><00:08:46.839><c> brings</c><00:08:47.080><c> me</c><00:08:47.160><c> to</c><00:08:47.280><c> Murphy's</c><00:08:47.720><c> Law,</c>
+
+00:08:47.950 --> 00:08:47.960 align:start position:0%
+And then that brings me to Murphy's Law,
+ 
+
+00:08:47.960 --> 00:08:49.710 align:start position:0%
+And then that brings me to Murphy's Law,
+which<00:08:48.200><c> basically</c><00:08:48.720><c> states</c><00:08:49.160><c> that</c><00:08:49.320><c> anything</c>
+
+00:08:49.710 --> 00:08:49.720 align:start position:0%
+which basically states that anything
+ 
+
+00:08:49.720 --> 00:08:52.390 align:start position:0%
+which basically states that anything
+that<00:08:49.920><c> can</c><00:08:50.200><c> go</c><00:08:50.440><c> wrong</c><00:08:51.040><c> will</c><00:08:51.400><c> go</c><00:08:51.680><c> wrong</c>
+
+00:08:52.390 --> 00:08:52.400 align:start position:0%
+that can go wrong will go wrong
+ 
+
+00:08:52.400 --> 00:08:54.350 align:start position:0%
+that can go wrong will go wrong
+eventually<00:08:52.920><c> at</c><00:08:53.080><c> some</c><00:08:53.320><c> point,</c><00:08:53.640><c> right?</c><00:08:53.960><c> So,</c><00:08:54.160><c> if</c>
+
+00:08:54.350 --> 00:08:54.360 align:start position:0%
+eventually at some point, right? So, if
+ 
+
+00:08:54.360 --> 00:08:55.310 align:start position:0%
+eventually at some point, right? So, if
+you
+
+00:08:55.310 --> 00:08:55.320 align:start position:0%
+you
+ 
+
+00:08:55.320 --> 00:08:57.190 align:start position:0%
+you
+are<00:08:55.520><c> using</c><00:08:55.920><c> a</c><00:08:55.960><c> language</c><00:08:56.680><c> without</c>
+
+00:08:57.190 --> 00:08:57.200 align:start position:0%
+are using a language without
+ 
+
+00:08:57.200 --> 00:08:59.430 align:start position:0%
+are using a language without
+deterministic<00:08:58.120><c> guardrails,</c><00:08:58.839><c> even</c><00:08:59.080><c> if</c><00:08:59.280><c> you</c>
+
+00:08:59.430 --> 00:08:59.440 align:start position:0%
+deterministic guardrails, even if you
+ 
+
+00:08:59.440 --> 00:09:03.590 align:start position:0%
+deterministic guardrails, even if you
+apply<00:09:00.520><c> human</c><00:09:01.000><c> review,</c><00:09:02.280><c> uh</c><00:09:02.480><c> agentic</c><00:09:03.120><c> review,</c>
+
+00:09:03.590 --> 00:09:03.600 align:start position:0%
+apply human review, uh agentic review,
+ 
+
+00:09:03.600 --> 00:09:06.750 align:start position:0%
+apply human review, uh agentic review,
+test<00:09:04.400><c> a</c><00:09:04.480><c> good</c><00:09:04.760><c> testing</c><00:09:05.280><c> process,</c>
+
+00:09:06.750 --> 00:09:06.760 align:start position:0%
+test a good testing process,
+ 
+
+00:09:06.760 --> 00:09:09.670 align:start position:0%
+test a good testing process,
+if<00:09:06.920><c> you</c><00:09:07.080><c> don't</c><00:09:07.400><c> have</c><00:09:07.600><c> something</c><00:09:08.080><c> that</c><00:09:08.320><c> is</c><00:09:08.560><c> a</c>
+
+00:09:09.670 --> 00:09:09.680 align:start position:0%
+if you don't have something that is a
+ 
+
+00:09:09.680 --> 00:09:11.910 align:start position:0%
+if you don't have something that is a
+absolute<00:09:10.280><c> deterministic</c><00:09:11.160><c> guard</c><00:09:11.440><c> against</c>
+
+00:09:11.910 --> 00:09:11.920 align:start position:0%
+absolute deterministic guard against
+ 
+
+00:09:11.920 --> 00:09:13.390 align:start position:0%
+absolute deterministic guard against
+this,<00:09:12.120><c> eventually</c><00:09:12.760><c> you're</c><00:09:12.920><c> going</c><00:09:13.080><c> to</c><00:09:13.200><c> have</c>
+
+00:09:13.390 --> 00:09:13.400 align:start position:0%
+this, eventually you're going to have
+ 
+
+00:09:13.400 --> 00:09:14.870 align:start position:0%
+this, eventually you're going to have
+some<00:09:13.640><c> failures.</c>
+
+00:09:14.870 --> 00:09:14.880 align:start position:0%
+some failures.
+ 
+
+00:09:14.880 --> 00:09:16.710 align:start position:0%
+some failures.
+And<00:09:15.040><c> in</c><00:09:15.200><c> these</c><00:09:15.440><c> languages</c><00:09:16.000><c> like</c><00:09:16.160><c> JavaScript,</c>
+
+00:09:16.710 --> 00:09:16.720 align:start position:0%
+And in these languages like JavaScript,
+ 
+
+00:09:16.720 --> 00:09:19.510 align:start position:0%
+And in these languages like JavaScript,
+Python,<00:09:17.120><c> TypeScript,</c><00:09:18.480><c> where</c><00:09:18.720><c> you</c><00:09:18.880><c> lack</c><00:09:19.240><c> these</c>
+
+00:09:19.510 --> 00:09:19.520 align:start position:0%
+Python, TypeScript, where you lack these
+ 
+
+00:09:19.520 --> 00:09:21.710 align:start position:0%
+Python, TypeScript, where you lack these
+guardrails<00:09:20.120><c> a</c><00:09:20.200><c> lot</c><00:09:20.440><c> of</c><00:09:20.560><c> the</c><00:09:20.680><c> times,</c><00:09:21.480><c> you're</c>
+
+00:09:21.710 --> 00:09:21.720 align:start position:0%
+guardrails a lot of the times, you're
+ 
+
+00:09:21.720 --> 00:09:24.870 align:start position:0%
+guardrails a lot of the times, you're
+going<00:09:21.920><c> to</c><00:09:22.040><c> have</c><00:09:23.160><c> failures</c><00:09:23.839><c> more</c><00:09:24.320><c> often,</c>
+
+00:09:24.870 --> 00:09:24.880 align:start position:0%
+going to have failures more often,
+ 
+
+00:09:24.880 --> 00:09:26.310 align:start position:0%
+going to have failures more often,
+right?
+
+00:09:26.310 --> 00:09:26.320 align:start position:0%
+right?
+ 
+
+00:09:26.320 --> 00:09:27.870 align:start position:0%
+right?
+Um
+
+00:09:27.870 --> 00:09:27.880 align:start position:0%
+Um
+ 
+
+00:09:27.880 --> 00:09:31.070 align:start position:0%
+Um
+and<00:09:28.000><c> this</c><00:09:28.200><c> brings</c><00:09:28.600><c> me</c><00:09:28.920><c> to</c><00:09:29.920><c> Rust,</c><00:09:30.640><c> which</c><00:09:30.880><c> is</c><00:09:31.000><c> a</c>
+
+00:09:31.070 --> 00:09:31.080 align:start position:0%
+and this brings me to Rust, which is a
+ 
+
+00:09:31.080 --> 00:09:35.230 align:start position:0%
+and this brings me to Rust, which is a
+language<00:09:31.880><c> with</c><00:09:32.160><c> many</c><00:09:32.480><c> constraints.</c><00:09:33.640><c> Um</c>
+
+00:09:35.230 --> 00:09:35.240 align:start position:0%
+language with many constraints. Um
+ 
+
+00:09:35.240 --> 00:09:36.870 align:start position:0%
+language with many constraints. Um
+and<00:09:35.400><c> so</c><00:09:35.560><c> for</c><00:09:35.720><c> those</c><00:09:36.000><c> of</c><00:09:36.120><c> you</c><00:09:36.280><c> who</c><00:09:36.440><c> don't</c><00:09:36.720><c> know</c>
+
+00:09:36.870 --> 00:09:36.880 align:start position:0%
+and so for those of you who don't know
+ 
+
+00:09:36.880 --> 00:09:39.030 align:start position:0%
+and so for those of you who don't know
+anything<00:09:37.280><c> about</c><00:09:37.720><c> Rust</c><00:09:38.120><c> or</c><00:09:38.400><c> don't</c><00:09:38.680><c> know</c><00:09:38.800><c> that</c>
+
+00:09:39.030 --> 00:09:39.040 align:start position:0%
+anything about Rust or don't know that
+ 
+
+00:09:39.040 --> 00:09:42.350 align:start position:0%
+anything about Rust or don't know that
+much<00:09:39.280><c> about</c><00:09:39.680><c> it,</c><00:09:40.200><c> some</c><00:09:40.480><c> basic</c><00:09:40.920><c> background.</c>
+
+00:09:42.350 --> 00:09:42.360 align:start position:0%
+much about it, some basic background.
+ 
+
+00:09:42.360 --> 00:09:44.870 align:start position:0%
+much about it, some basic background.
+It's<00:09:42.600><c> a</c><00:09:42.640><c> compiled</c><00:09:43.360><c> language.</c><00:09:43.880><c> It's</c><00:09:44.120><c> designed</c>
+
+00:09:44.870 --> 00:09:44.880 align:start position:0%
+It's a compiled language. It's designed
+ 
+
+00:09:44.880 --> 00:09:47.230 align:start position:0%
+It's a compiled language. It's designed
+with<00:09:45.200><c> safety</c><00:09:45.720><c> and</c><00:09:45.880><c> performance</c><00:09:46.600><c> in</c><00:09:46.760><c> mind.</c><00:09:47.120><c> It</c>
+
+00:09:47.230 --> 00:09:47.240 align:start position:0%
+with safety and performance in mind. It
+ 
+
+00:09:47.240 --> 00:09:50.470 align:start position:0%
+with safety and performance in mind. It
+wants<00:09:47.560><c> to</c><00:09:47.680><c> be</c><00:09:47.800><c> as</c><00:09:48.040><c> fast</c><00:09:48.600><c> as</c><00:09:48.800><c> C</c><00:09:49.000><c> and</c><00:09:49.160><c> C++,</c><00:09:50.160><c> but</c><00:09:50.320><c> it</c>
+
+00:09:50.470 --> 00:09:50.480 align:start position:0%
+wants to be as fast as C and C++, but it
+ 
+
+00:09:50.480 --> 00:09:55.150 align:start position:0%
+wants to be as fast as C and C++, but it
+wants<00:09:50.800><c> to</c><00:09:50.920><c> be</c><00:09:51.600><c> memory</c><00:09:52.160><c> safe,</c><00:09:52.560><c> type</c><00:09:52.880><c> safe,</c><00:09:54.040><c> um</c>
+
+00:09:55.150 --> 00:09:55.160 align:start position:0%
+wants to be memory safe, type safe, um
+ 
+
+00:09:55.160 --> 00:09:58.590 align:start position:0%
+wants to be memory safe, type safe, um
+and<00:09:55.880><c> basically</c><00:09:56.520><c> wants</c><00:09:56.840><c> to</c><00:09:56.960><c> be</c><00:09:57.160><c> such</c><00:09:57.920><c> like</c><00:09:58.440><c> it</c>
+
+00:09:58.590 --> 00:09:58.600 align:start position:0%
+and basically wants to be such like it
+ 
+
+00:09:58.600 --> 00:10:00.430 align:start position:0%
+and basically wants to be such like it
+wants<00:09:58.800><c> to</c><00:09:58.880><c> have</c><00:09:59.000><c> such</c><00:09:59.280><c> a</c><00:09:59.360><c> strict</c><00:09:59.720><c> compiler</c>
+
+00:10:00.430 --> 00:10:00.440 align:start position:0%
+wants to have such a strict compiler
+ 
+
+00:10:00.440 --> 00:10:02.550 align:start position:0%
+wants to have such a strict compiler
+that<00:10:00.680><c> if</c><00:10:00.960><c> the</c><00:10:01.080><c> code</c><00:10:01.440><c> compiles,</c><00:10:02.160><c> you</c><00:10:02.280><c> can</c><00:10:02.440><c> be</c>
+
+00:10:02.550 --> 00:10:02.560 align:start position:0%
+that if the code compiles, you can be
+ 
+
+00:10:02.560 --> 00:10:05.470 align:start position:0%
+that if the code compiles, you can be
+reasonably<00:10:03.240><c> confident</c><00:10:04.360><c> that</c>
+
+00:10:05.470 --> 00:10:05.480 align:start position:0%
+reasonably confident that
+ 
+
+00:10:05.480 --> 00:10:08.270 align:start position:0%
+reasonably confident that
+a<00:10:05.600><c> lot</c><00:10:05.920><c> of</c><00:10:06.400><c> different</c><00:10:06.840><c> types</c><00:10:07.160><c> of</c><00:10:07.400><c> bugs</c><00:10:07.800><c> are</c><00:10:07.920><c> not</c>
+
+00:10:08.270 --> 00:10:08.280 align:start position:0%
+a lot of different types of bugs are not
+ 
+
+00:10:08.280 --> 00:10:10.270 align:start position:0%
+a lot of different types of bugs are not
+present<00:10:08.760><c> in</c><00:10:08.880><c> your</c><00:10:09.080><c> code.</c>
+
+00:10:10.270 --> 00:10:10.280 align:start position:0%
+present in your code.
+ 
+
+00:10:10.280 --> 00:10:11.910 align:start position:0%
+present in your code.
+Um
+
+00:10:11.910 --> 00:10:11.920 align:start position:0%
+Um
+ 
+
+00:10:11.920 --> 00:10:13.790 align:start position:0%
+Um
+and<00:10:12.120><c> that</c><00:10:12.600><c> that</c><00:10:12.840><c> happens</c><00:10:13.320><c> because</c><00:10:13.720><c> the</c>
+
+00:10:13.790 --> 00:10:13.800 align:start position:0%
+and that that happens because the
+ 
+
+00:10:13.800 --> 00:10:16.230 align:start position:0%
+and that that happens because the
+compiler<00:10:14.480><c> is</c><00:10:14.640><c> enforcing</c><00:10:15.280><c> invariants</c><00:10:15.960><c> like</c>
+
+00:10:16.230 --> 00:10:16.240 align:start position:0%
+compiler is enforcing invariants like
+ 
+
+00:10:16.240 --> 00:10:19.150 align:start position:0%
+compiler is enforcing invariants like
+type<00:10:16.520><c> safety,</c><00:10:16.920><c> memory</c><00:10:17.320><c> safety,</c><00:10:18.280><c> concurrency,</c>
+
+00:10:19.150 --> 00:10:19.160 align:start position:0%
+type safety, memory safety, concurrency,
+ 
+
+00:10:19.160 --> 00:10:21.270 align:start position:0%
+type safety, memory safety, concurrency,
+et<00:10:19.360><c> cetera.</c>
+
+00:10:21.270 --> 00:10:21.280 align:start position:0%
+et cetera.
+ 
+
+00:10:21.280 --> 00:10:23.110 align:start position:0%
+et cetera.
+Um<00:10:21.720><c> and</c><00:10:21.840><c> the</c><00:10:21.960><c> language</c><00:10:22.360><c> tries</c><00:10:22.680><c> to</c><00:10:22.760><c> be</c><00:10:22.880><c> very</c>
+
+00:10:23.110 --> 00:10:23.120 align:start position:0%
+Um and the language tries to be very
+ 
+
+00:10:23.120 --> 00:10:26.270 align:start position:0%
+Um and the language tries to be very
+beginner-friendly.<00:10:24.240><c> So,</c><00:10:25.200><c> Rust</c><00:10:25.640><c> itself,</c><00:10:26.160><c> I</c>
+
+00:10:26.270 --> 00:10:26.280 align:start position:0%
+beginner-friendly. So, Rust itself, I
+ 
+
+00:10:26.280 --> 00:10:29.070 align:start position:0%
+beginner-friendly. So, Rust itself, I
+think<00:10:26.840><c> people</c><00:10:27.440><c> who</c><00:10:27.960><c> haven't</c><00:10:28.320><c> encountered</c><00:10:28.920><c> it</c>
+
+00:10:29.070 --> 00:10:29.080 align:start position:0%
+think people who haven't encountered it
+ 
+
+00:10:29.080 --> 00:10:31.070 align:start position:0%
+think people who haven't encountered it
+would<00:10:29.760><c> kind</c><00:10:30.000><c> of</c><00:10:30.080><c> have</c><00:10:30.240><c> the</c><00:10:30.360><c> perception</c><00:10:30.920><c> that</c>
+
+00:10:31.070 --> 00:10:31.080 align:start position:0%
+would kind of have the perception that
+ 
+
+00:10:31.080 --> 00:10:32.950 align:start position:0%
+would kind of have the perception that
+it's<00:10:31.240><c> very</c><00:10:31.560><c> advanced,</c><00:10:32.160><c> but</c><00:10:32.280><c> they</c><00:10:32.400><c> try</c><00:10:32.600><c> to</c><00:10:32.720><c> make</c>
+
+00:10:32.950 --> 00:10:32.960 align:start position:0%
+it's very advanced, but they try to make
+ 
+
+00:10:32.960 --> 00:10:35.230 align:start position:0%
+it's very advanced, but they try to make
+the<00:10:33.040><c> language</c><00:10:33.480><c> easy</c><00:10:33.760><c> to</c><00:10:33.920><c> learn.</c><00:10:34.360><c> The</c><00:10:34.560><c> compiler</c>
+
+00:10:35.230 --> 00:10:35.240 align:start position:0%
+the language easy to learn. The compiler
+ 
+
+00:10:35.240 --> 00:10:37.550 align:start position:0%
+the language easy to learn. The compiler
+errors<00:10:35.800><c> give</c><00:10:36.000><c> you</c><00:10:36.120><c> a</c><00:10:36.200><c> lot</c><00:10:36.440><c> of</c><00:10:36.600><c> information</c><00:10:37.360><c> on</c>
+
+00:10:37.550 --> 00:10:37.560 align:start position:0%
+errors give you a lot of information on
+ 
+
+00:10:37.560 --> 00:10:38.950 align:start position:0%
+errors give you a lot of information on
+what<00:10:37.720><c> went</c><00:10:37.960><c> wrong</c><00:10:38.200><c> and</c><00:10:38.320><c> how</c><00:10:38.440><c> to</c><00:10:38.560><c> fix</c><00:10:38.840><c> the</c>
+
+00:10:38.950 --> 00:10:38.960 align:start position:0%
+what went wrong and how to fix the
+ 
+
+00:10:38.960 --> 00:10:40.510 align:start position:0%
+what went wrong and how to fix the
+problem.
+
+00:10:40.510 --> 00:10:40.520 align:start position:0%
+problem.
+ 
+
+00:10:40.520 --> 00:10:43.510 align:start position:0%
+problem.
+And<00:10:41.480><c> so,</c><00:10:41.800><c> they</c><00:10:42.120><c> provide</c><00:10:42.480><c> a</c><00:10:42.520><c> lot</c><00:10:42.720><c> of</c><00:10:42.839><c> context,</c>
+
+00:10:43.510 --> 00:10:43.520 align:start position:0%
+And so, they provide a lot of context,
+ 
+
+00:10:43.520 --> 00:10:45.750 align:start position:0%
+And so, they provide a lot of context,
+and<00:10:43.640><c> of</c><00:10:43.760><c> course,</c><00:10:44.120><c> this</c><00:10:44.360><c> is</c><00:10:44.520><c> really</c><00:10:44.839><c> helpful</c>
+
+00:10:45.750 --> 00:10:45.760 align:start position:0%
+and of course, this is really helpful
+ 
+
+00:10:45.760 --> 00:10:48.350 align:start position:0%
+and of course, this is really helpful
+when<00:10:46.040><c> AI</c><00:10:46.400><c> agents</c><00:10:46.960><c> compile</c><00:10:47.480><c> Rust</c><00:10:47.760><c> code,</c><00:10:48.080><c> hit</c><00:10:48.240><c> an</c>
+
+00:10:48.350 --> 00:10:48.360 align:start position:0%
+when AI agents compile Rust code, hit an
+ 
+
+00:10:48.360 --> 00:10:52.829 align:start position:0%
+when AI agents compile Rust code, hit an
+error,<00:10:48.720><c> and</c><00:10:49.040><c> then</c><00:10:49.320><c> need</c><00:10:49.520><c> to</c><00:10:49.600><c> fix</c><00:10:49.960><c> it.</c>
+
+00:10:52.829 --> 00:10:52.839 align:start position:0%
+ 
+ 
+
+00:10:52.839 --> 00:10:54.870 align:start position:0%
+ 
+So,<00:10:53.040><c> as</c><00:10:53.160><c> I</c><00:10:53.240><c> mentioned,</c><00:10:53.680><c> there's</c><00:10:54.480><c> a</c><00:10:54.560><c> lot</c><00:10:54.760><c> of</c>
+
+00:10:54.870 --> 00:10:54.880 align:start position:0%
+So, as I mentioned, there's a lot of
+ 
+
+00:10:54.880 --> 00:10:57.990 align:start position:0%
+So, as I mentioned, there's a lot of
+safety<00:10:55.280><c> guarantees</c><00:10:55.880><c> in</c><00:10:56.080><c> Rust,</c><00:10:56.600><c> right?</c><00:10:57.560><c> Um</c>
+
+00:10:57.990 --> 00:10:58.000 align:start position:0%
+safety guarantees in Rust, right? Um
+ 
+
+00:10:58.000 --> 00:11:00.750 align:start position:0%
+safety guarantees in Rust, right? Um
+first<00:10:58.400><c> one</c><00:10:59.000><c> worth</c><00:10:59.280><c> mentioning</c><00:10:59.800><c> is</c><00:10:59.920><c> that</c><00:11:00.360><c> the</c>
+
+00:11:00.750 --> 00:11:00.760 align:start position:0%
+first one worth mentioning is that the
+ 
+
+00:11:00.760 --> 00:11:03.030 align:start position:0%
+first one worth mentioning is that the
+type<00:11:01.080><c> safety</c><00:11:01.480><c> is</c><00:11:01.960><c> is</c><00:11:02.160><c> strict.</c><00:11:02.640><c> You</c><00:11:02.760><c> can't</c>
+
+00:11:03.030 --> 00:11:03.040 align:start position:0%
+type safety is is strict. You can't
+ 
+
+00:11:03.040 --> 00:11:05.270 align:start position:0%
+type safety is is strict. You can't
+bypass<00:11:03.680><c> it</c><00:11:03.800><c> with</c><00:11:04.000><c> some</c><00:11:04.240><c> any</c><00:11:04.520><c> type</c><00:11:04.960><c> or</c><00:11:05.120><c> an</c>
+
+00:11:05.270 --> 00:11:05.280 align:start position:0%
+bypass it with some any type or an
+ 
+
+00:11:05.280 --> 00:11:08.070 align:start position:0%
+bypass it with some any type or an
+unchecked<00:11:06.000><c> cast.</c>
+
+00:11:08.070 --> 00:11:08.080 align:start position:0%
+unchecked cast.
+ 
+
+00:11:08.080 --> 00:11:10.829 align:start position:0%
+unchecked cast.
+Null<00:11:08.480><c> safety</c><00:11:08.960><c> is</c><00:11:09.080><c> another</c><00:11:10.000><c> big</c><00:11:10.280><c> one</c><00:11:10.480><c> if</c><00:11:10.680><c> you've</c>
+
+00:11:10.829 --> 00:11:10.839 align:start position:0%
+Null safety is another big one if you've
+ 
+
+00:11:10.839 --> 00:11:13.110 align:start position:0%
+Null safety is another big one if you've
+come<00:11:11.120><c> from</c><00:11:11.680><c> other</c><00:11:11.960><c> languages.</c><00:11:12.680><c> There's</c><00:11:12.920><c> no</c>
+
+00:11:13.110 --> 00:11:13.120 align:start position:0%
+come from other languages. There's no
+ 
+
+00:11:13.120 --> 00:11:15.870 align:start position:0%
+come from other languages. There's no
+universal<00:11:13.880><c> null</c><00:11:14.200><c> value.</c><00:11:14.880><c> If</c><00:11:15.120><c> you</c><00:11:15.320><c> want</c><00:11:15.760><c> to</c>
+
+00:11:15.870 --> 00:11:15.880 align:start position:0%
+universal null value. If you want to
+ 
+
+00:11:15.880 --> 00:11:18.630 align:start position:0%
+universal null value. If you want to
+have<00:11:16.120><c> an</c><00:11:16.240><c> option</c><00:11:16.720><c> that</c><00:11:17.080><c> or</c><00:11:17.400><c> an</c><00:11:18.040><c> a</c><00:11:18.160><c> type</c><00:11:18.480><c> that</c>
+
+00:11:18.630 --> 00:11:18.640 align:start position:0%
+have an option that or an a type that
+ 
+
+00:11:18.640 --> 00:11:20.390 align:start position:0%
+have an option that or an a type that
+can<00:11:18.880><c> be</c><00:11:19.040><c> empty,</c><00:11:19.400><c> you</c><00:11:19.520><c> need</c><00:11:19.760><c> to</c><00:11:19.880><c> define</c><00:11:20.280><c> it</c>
+
+00:11:20.390 --> 00:11:20.400 align:start position:0%
+can be empty, you need to define it
+ 
+
+00:11:20.400 --> 00:11:22.430 align:start position:0%
+can be empty, you need to define it
+explicitly<00:11:21.160><c> as</c><00:11:21.280><c> an</c><00:11:21.400><c> option</c><00:11:21.880><c> type,</c><00:11:22.160><c> and</c><00:11:22.320><c> the</c>
+
+00:11:22.430 --> 00:11:22.440 align:start position:0%
+explicitly as an option type, and the
+ 
+
+00:11:22.440 --> 00:11:25.630 align:start position:0%
+explicitly as an option type, and the
+compiler<00:11:23.080><c> will</c><00:11:23.320><c> force</c><00:11:23.800><c> you</c><00:11:23.960><c> to</c><00:11:24.160><c> always</c><00:11:24.760><c> check</c>
+
+00:11:25.630 --> 00:11:25.640 align:start position:0%
+compiler will force you to always check
+ 
+
+00:11:25.640 --> 00:11:27.790 align:start position:0%
+compiler will force you to always check
+that<00:11:25.920><c> the</c><00:11:26.040><c> value</c><00:11:26.560><c> is</c><00:11:26.800><c> there</c><00:11:27.160><c> before</c><00:11:27.600><c> you</c>
+
+00:11:27.790 --> 00:11:27.800 align:start position:0%
+that the value is there before you
+ 
+
+00:11:27.800 --> 00:11:30.870 align:start position:0%
+that the value is there before you
+access<00:11:28.360><c> the</c><00:11:28.480><c> inner</c><00:11:28.680><c> value.</c>
+
+00:11:30.870 --> 00:11:30.880 align:start position:0%
+access the inner value.
+ 
+
+00:11:30.880 --> 00:11:34.270 align:start position:0%
+access the inner value.
+And<00:11:31.240><c> fearless</c><00:11:31.680><c> concurrency,</c><00:11:32.760><c> which</c>
+
+00:11:34.270 --> 00:11:34.280 align:start position:0%
+And fearless concurrency, which
+ 
+
+00:11:34.280 --> 00:11:36.310 align:start position:0%
+And fearless concurrency, which
+is,<00:11:34.600><c> I</c><00:11:34.680><c> think,</c><00:11:35.040><c> really</c><00:11:35.400><c> powerful</c><00:11:36.040><c> and</c><00:11:36.160><c> it</c>
+
+00:11:36.310 --> 00:11:36.320 align:start position:0%
+is, I think, really powerful and it
+ 
+
+00:11:36.320 --> 00:11:39.590 align:start position:0%
+is, I think, really powerful and it
+basically<00:11:36.880><c> means</c><00:11:37.480><c> that</c><00:11:37.960><c> the</c><00:11:38.120><c> Rust</c><00:11:38.480><c> compiler</c>
+
+00:11:39.590 --> 00:11:39.600 align:start position:0%
+basically means that the Rust compiler
+ 
+
+00:11:39.600 --> 00:11:41.430 align:start position:0%
+basically means that the Rust compiler
+will<00:11:39.840><c> check</c><00:11:40.240><c> if</c><00:11:40.440><c> you</c><00:11:40.560><c> have</c><00:11:40.880><c> a</c><00:11:41.240><c> any</c>
+
+00:11:41.430 --> 00:11:41.440 align:start position:0%
+will check if you have a any
+ 
+
+00:11:41.440 --> 00:11:44.830 align:start position:0%
+will check if you have a any
+multi-threaded<00:11:42.280><c> code</c><00:11:43.240><c> that</c><00:11:43.760><c> any</c><00:11:44.040><c> data</c><00:11:44.480><c> shared</c>
+
+00:11:44.830 --> 00:11:44.840 align:start position:0%
+multi-threaded code that any data shared
+ 
+
+00:11:44.840 --> 00:11:47.670 align:start position:0%
+multi-threaded code that any data shared
+between<00:11:45.720><c> the</c><00:11:45.840><c> threads</c><00:11:46.240><c> is</c><00:11:46.360><c> done</c><00:11:47.280><c> that</c><00:11:47.480><c> that's</c>
+
+00:11:47.670 --> 00:11:47.680 align:start position:0%
+between the threads is done that that's
+ 
+
+00:11:47.680 --> 00:11:49.830 align:start position:0%
+between the threads is done that that's
+all<00:11:47.880><c> done</c><00:11:48.080><c> in</c><00:11:48.240><c> a</c><00:11:48.320><c> thread-safe</c><00:11:48.960><c> way.</c><00:11:49.160><c> And</c><00:11:49.600><c> this</c>
+
+00:11:49.830 --> 00:11:49.840 align:start position:0%
+all done in a thread-safe way. And this
+ 
+
+00:11:49.840 --> 00:11:52.550 align:start position:0%
+all done in a thread-safe way. And this
+is<00:11:50.080><c> really</c><00:11:50.400><c> just</c><00:11:50.760><c> a</c><00:11:50.840><c> small</c><00:11:51.280><c> list.</c><00:11:51.600><c> There's</c>
+
+00:11:52.550 --> 00:11:52.560 align:start position:0%
+is really just a small list. There's
+ 
+
+00:11:52.560 --> 00:11:54.550 align:start position:0%
+is really just a small list. There's
+there's<00:11:52.840><c> so</c><00:11:53.000><c> many</c><00:11:53.280><c> more</c><00:11:53.600><c> things</c><00:11:54.080><c> that</c><00:11:54.440><c> the</c>
+
+00:11:54.550 --> 00:11:54.560 align:start position:0%
+there's so many more things that the
+ 
+
+00:11:54.560 --> 00:11:57.070 align:start position:0%
+there's so many more things that the
+Rust<00:11:54.840><c> compiler</c><00:11:55.440><c> enforces,</c>
+
+00:11:57.070 --> 00:11:57.080 align:start position:0%
+Rust compiler enforces,
+ 
+
+00:11:57.080 --> 00:12:00.030 align:start position:0%
+Rust compiler enforces,
+but<00:11:57.640><c> I</c><00:11:57.720><c> just</c><00:11:57.920><c> want</c><00:11:58.040><c> to</c><00:11:58.120><c> give</c><00:11:58.320><c> you</c><00:11:58.480><c> all</c><00:11:59.320><c> a</c>
+
+00:12:00.030 --> 00:12:00.040 align:start position:0%
+but I just want to give you all a
+ 
+
+00:12:00.040 --> 00:12:03.830 align:start position:0%
+but I just want to give you all a
+quick<00:12:00.280><c> example</c><00:12:01.200><c> on</c><00:12:01.680><c> fearless</c><00:12:02.240><c> concurrency</c>
+
+00:12:03.830 --> 00:12:03.840 align:start position:0%
+quick example on fearless concurrency
+ 
+
+00:12:03.840 --> 00:12:05.510 align:start position:0%
+quick example on fearless concurrency
+because<00:12:04.160><c> I</c><00:12:04.240><c> think</c><00:12:04.480><c> it's</c><00:12:04.960><c> it's</c><00:12:05.200><c> really</c>
+
+00:12:05.510 --> 00:12:05.520 align:start position:0%
+because I think it's it's really
+ 
+
+00:12:05.520 --> 00:12:07.310 align:start position:0%
+because I think it's it's really
+powerful.<00:12:06.280><c> So,</c>
+
+00:12:07.310 --> 00:12:07.320 align:start position:0%
+powerful. So,
+ 
+
+00:12:07.320 --> 00:12:09.470 align:start position:0%
+powerful. So,
+here's<00:12:07.560><c> a</c><00:12:07.600><c> little</c><00:12:07.920><c> code</c><00:12:08.200><c> example.</c><00:12:08.840><c> Basically,</c>
+
+00:12:09.470 --> 00:12:09.480 align:start position:0%
+here's a little code example. Basically,
+ 
+
+00:12:09.480 --> 00:12:11.310 align:start position:0%
+here's a little code example. Basically,
+we<00:12:09.680><c> have</c><00:12:10.240><c> a</c>
+
+00:12:11.310 --> 00:12:11.320 align:start position:0%
+we have a
+ 
+
+00:12:11.320 --> 00:12:13.390 align:start position:0%
+we have a
+counter<00:12:11.920><c> here,</c><00:12:12.400><c> which</c><00:12:12.640><c> is</c><00:12:12.800><c> going</c><00:12:12.960><c> to</c><00:12:13.080><c> start</c>
+
+00:12:13.390 --> 00:12:13.400 align:start position:0%
+counter here, which is going to start
+ 
+
+00:12:13.400 --> 00:12:15.870 align:start position:0%
+counter here, which is going to start
+with<00:12:13.600><c> a</c><00:12:13.680><c> value</c><00:12:14.080><c> of</c><00:12:14.240><c> zero,</c><00:12:15.320><c> and</c><00:12:15.480><c> we're</c><00:12:15.600><c> going</c><00:12:15.760><c> to</c>
+
+00:12:15.870 --> 00:12:15.880 align:start position:0%
+with a value of zero, and we're going to
+ 
+
+00:12:15.880 --> 00:12:19.590 align:start position:0%
+with a value of zero, and we're going to
+create<00:12:16.320><c> 100</c><00:12:16.880><c> threads</c><00:12:17.440><c> here.</c><00:12:18.320><c> Um</c>
+
+00:12:19.590 --> 00:12:19.600 align:start position:0%
+create 100 threads here. Um
+ 
+
+00:12:19.600 --> 00:12:22.070 align:start position:0%
+create 100 threads here. Um
+And<00:12:20.560><c> each</c><00:12:20.840><c> time</c><00:12:21.280><c> we're</c><00:12:21.440><c> going</c><00:12:21.600><c> to</c><00:12:21.720><c> take</c><00:12:21.960><c> the</c>
+
+00:12:22.070 --> 00:12:22.080 align:start position:0%
+And each time we're going to take the
+ 
+
+00:12:22.080 --> 00:12:26.670 align:start position:0%
+And each time we're going to take the
+counter<00:12:23.280><c> and</c><00:12:23.880><c> add</c><00:12:24.240><c> one</c><00:12:24.680><c> to</c><00:12:24.840><c> this</c><00:12:25.320><c> inner</c><00:12:25.640><c> value.</c>
+
+00:12:26.670 --> 00:12:26.680 align:start position:0%
+counter and add one to this inner value.
+ 
+
+00:12:26.680 --> 00:12:28.990 align:start position:0%
+counter and add one to this inner value.
+So,<00:12:27.200><c> once</c><00:12:27.480><c> all</c><00:12:27.640><c> these</c><00:12:27.880><c> threads</c><00:12:28.280><c> finish,</c><00:12:28.840><c> you</c>
+
+00:12:28.990 --> 00:12:29.000 align:start position:0%
+So, once all these threads finish, you
+ 
+
+00:12:29.000 --> 00:12:31.590 align:start position:0%
+So, once all these threads finish, you
+would<00:12:29.160><c> expect</c><00:12:29.720><c> this</c><00:12:30.040><c> to</c><00:12:30.200><c> have</c><00:12:30.360><c> a</c><00:12:30.440><c> value</c><00:12:30.880><c> of</c>
+
+00:12:31.590 --> 00:12:31.600 align:start position:0%
+would expect this to have a value of
+ 
+
+00:12:31.600 --> 00:12:32.910 align:start position:0%
+would expect this to have a value of
+100.
+
+00:12:32.910 --> 00:12:32.920 align:start position:0%
+100.
+ 
+
+00:12:32.920 --> 00:12:35.030 align:start position:0%
+100.
+Now,<00:12:33.080><c> there's</c><00:12:33.360><c> a</c><00:12:33.400><c> problem</c><00:12:34.000><c> here,</c><00:12:34.600><c> which</c><00:12:34.839><c> is</c>
+
+00:12:35.030 --> 00:12:35.040 align:start position:0%
+Now, there's a problem here, which is
+ 
+
+00:12:35.040 --> 00:12:38.510 align:start position:0%
+Now, there's a problem here, which is
+that<00:12:35.960><c> um</c><00:12:36.960><c> these</c><00:12:37.440><c> types</c><00:12:37.920><c> here,</c><00:12:38.280><c> they're</c>
+
+00:12:38.510 --> 00:12:38.520 align:start position:0%
+that um these types here, they're
+ 
+
+00:12:38.520 --> 00:12:42.550 align:start position:0%
+that um these types here, they're
+designed<00:12:39.280><c> for</c><00:12:40.160><c> um</c><00:12:40.920><c> sharing</c><00:12:41.520><c> mutable</c><00:12:42.040><c> data,</c>
+
+00:12:42.550 --> 00:12:42.560 align:start position:0%
+designed for um sharing mutable data,
+ 
+
+00:12:42.560 --> 00:12:44.670 align:start position:0%
+designed for um sharing mutable data,
+but<00:12:42.839><c> only</c><00:12:43.120><c> within</c><00:12:43.480><c> a</c><00:12:43.560><c> single</c><00:12:44.000><c> thread.</c><00:12:44.480><c> They're</c>
+
+00:12:44.670 --> 00:12:44.680 align:start position:0%
+but only within a single thread. They're
+ 
+
+00:12:44.680 --> 00:12:49.190 align:start position:0%
+but only within a single thread. They're
+not<00:12:45.400><c> synchronized</c><00:12:46.600><c> for</c><00:12:47.560><c> um</c><00:12:48.040><c> multi-threaded</c>
+
+00:12:49.190 --> 00:12:49.200 align:start position:0%
+not synchronized for um multi-threaded
+ 
+
+00:12:49.200 --> 00:12:51.150 align:start position:0%
+not synchronized for um multi-threaded
+safe<00:12:49.680><c> access.</c>
+
+00:12:51.150 --> 00:12:51.160 align:start position:0%
+safe access.
+ 
+
+00:12:51.160 --> 00:12:54.310 align:start position:0%
+safe access.
+Um<00:12:52.200><c> so,</c><00:12:52.600><c> in</c><00:12:52.760><c> a</c><00:12:52.800><c> language</c><00:12:53.320><c> like</c>
+
+00:12:54.310 --> 00:12:54.320 align:start position:0%
+Um so, in a language like
+ 
+
+00:12:54.320 --> 00:12:56.790 align:start position:0%
+Um so, in a language like
+TypeScript,<00:12:55.200><c> something</c><00:12:55.640><c> like</c><00:12:55.920><c> this</c><00:12:56.520><c> might</c>
+
+00:12:56.790 --> 00:12:56.800 align:start position:0%
+TypeScript, something like this might
+ 
+
+00:12:56.800 --> 00:12:59.910 align:start position:0%
+TypeScript, something like this might
+compile,<00:12:58.000><c> it</c><00:12:58.160><c> might</c><00:12:58.480><c> run,</c><00:12:59.480><c> and</c><00:12:59.680><c> then</c><00:12:59.839><c> you</c>
+
+00:12:59.910 --> 00:12:59.920 align:start position:0%
+compile, it might run, and then you
+ 
+
+00:12:59.920 --> 00:13:01.750 align:start position:0%
+compile, it might run, and then you
+would<00:13:00.080><c> only</c><00:13:00.320><c> notice</c><00:13:00.720><c> the</c><00:13:00.839><c> problem</c><00:13:01.320><c> when</c><00:13:01.480><c> every</c>
+
+00:13:01.750 --> 00:13:01.760 align:start position:0%
+would only notice the problem when every
+ 
+
+00:13:01.760 --> 00:13:04.310 align:start position:0%
+would only notice the problem when every
+once<00:13:02.040><c> in</c><00:13:02.120><c> a</c><00:13:02.200><c> while</c><00:13:02.680><c> you</c><00:13:02.800><c> would</c><00:13:03.480><c> get</c><00:13:03.720><c> a</c><00:13:03.760><c> value</c>
+
+00:13:04.310 --> 00:13:04.320 align:start position:0%
+once in a while you would get a value
+ 
+
+00:13:04.320 --> 00:13:06.790 align:start position:0%
+once in a while you would get a value
+other<00:13:04.640><c> than</c><00:13:04.880><c> 100</c><00:13:05.600><c> out</c><00:13:05.800><c> of</c><00:13:05.960><c> this,</c><00:13:06.360><c> right?</c><00:13:06.680><c> And</c>
+
+00:13:06.790 --> 00:13:06.800 align:start position:0%
+other than 100 out of this, right? And
+ 
+
+00:13:06.800 --> 00:13:09.310 align:start position:0%
+other than 100 out of this, right? And
+it<00:13:07.040><c> might</c><00:13:07.400><c> be,</c><00:13:08.200><c> especially</c><00:13:08.800><c> if</c><00:13:08.920><c> this</c><00:13:09.120><c> is</c><00:13:09.240><c> a</c>
+
+00:13:09.310 --> 00:13:09.320 align:start position:0%
+it might be, especially if this is a
+ 
+
+00:13:09.320 --> 00:13:11.630 align:start position:0%
+it might be, especially if this is a
+small<00:13:09.800><c> part</c><00:13:10.280><c> in</c><00:13:10.400><c> a</c><00:13:10.480><c> bigger</c><00:13:10.839><c> application,</c><00:13:11.520><c> it</c>
+
+00:13:11.630 --> 00:13:11.640 align:start position:0%
+small part in a bigger application, it
+ 
+
+00:13:11.640 --> 00:13:14.990 align:start position:0%
+small part in a bigger application, it
+could<00:13:11.839><c> be</c><00:13:12.720><c> very</c><00:13:13.120><c> difficult</c><00:13:13.839><c> to</c><00:13:13.960><c> debug</c><00:13:14.640><c> where</c>
+
+00:13:14.990 --> 00:13:15.000 align:start position:0%
+could be very difficult to debug where
+ 
+
+00:13:15.000 --> 00:13:17.829 align:start position:0%
+could be very difficult to debug where
+this<00:13:15.600><c> data</c><00:13:15.920><c> race</c><00:13:16.280><c> is</c><00:13:16.440><c> occurring.</c>
+
+00:13:17.829 --> 00:13:17.839 align:start position:0%
+this data race is occurring.
+ 
+
+00:13:17.839 --> 00:13:19.590 align:start position:0%
+this data race is occurring.
+But<00:13:18.080><c> in</c><00:13:18.240><c> Rust,</c>
+
+00:13:19.590 --> 00:13:19.600 align:start position:0%
+But in Rust,
+ 
+
+00:13:19.600 --> 00:13:21.390 align:start position:0%
+But in Rust,
+this<00:13:19.880><c> just</c><00:13:20.120><c> doesn't</c><00:13:20.480><c> compile.</c><00:13:21.080><c> You're</c><00:13:21.240><c> going</c>
+
+00:13:21.390 --> 00:13:21.400 align:start position:0%
+this just doesn't compile. You're going
+ 
+
+00:13:21.400 --> 00:13:24.430 align:start position:0%
+this just doesn't compile. You're going
+to<00:13:21.480><c> get</c><00:13:21.640><c> a</c><00:13:21.720><c> compile</c><00:13:22.320><c> error,</c><00:13:23.160><c> and</c><00:13:23.320><c> it</c><00:13:23.440><c> will</c><00:13:23.640><c> say,</c>
+
+00:13:24.430 --> 00:13:24.440 align:start position:0%
+to get a compile error, and it will say,
+ 
+
+00:13:24.440 --> 00:13:26.750 align:start position:0%
+to get a compile error, and it will say,
+"Error:<00:13:24.760><c> Future</c><00:13:25.200><c> cannot</c><00:13:25.560><c> be</c><00:13:25.920><c> sent</c><00:13:26.320><c> between</c>
+
+00:13:26.750 --> 00:13:26.760 align:start position:0%
+"Error: Future cannot be sent between
+ 
+
+00:13:26.760 --> 00:13:30.310 align:start position:0%
+"Error: Future cannot be sent between
+threads<00:13:27.040><c> safely.</c><00:13:28.120><c> Um</c><00:13:28.800><c> this</c><00:13:29.120><c> future,</c><00:13:29.760><c> so</c><00:13:29.960><c> this</c>
+
+00:13:30.310 --> 00:13:30.320 align:start position:0%
+threads safely. Um this future, so this
+ 
+
+00:13:30.320 --> 00:13:34.750 align:start position:0%
+threads safely. Um this future, so this
+little<00:13:31.320><c> async</c><00:13:31.920><c> block</c><00:13:32.320><c> in</c><00:13:32.520><c> here,</c><00:13:33.520><c> um</c><00:13:34.240><c> is</c><00:13:34.400><c> not</c>
+
+00:13:34.750 --> 00:13:34.760 align:start position:0%
+little async block in here, um is not
+ 
+
+00:13:34.760 --> 00:13:37.630 align:start position:0%
+little async block in here, um is not
+send.<00:13:35.160><c> And</c><00:13:35.320><c> all</c><00:13:35.480><c> send</c><00:13:35.920><c> means</c><00:13:36.320><c> is</c>
+
+00:13:37.630 --> 00:13:37.640 align:start position:0%
+send. And all send means is
+ 
+
+00:13:37.640 --> 00:13:39.710 align:start position:0%
+send. And all send means is
+safe<00:13:38.080><c> to</c><00:13:38.160><c> be</c><00:13:38.360><c> sent</c><00:13:38.680><c> between</c><00:13:39.080><c> threads,</c><00:13:39.560><c> and</c>
+
+00:13:39.710 --> 00:13:39.720 align:start position:0%
+safe to be sent between threads, and
+ 
+
+00:13:39.720 --> 00:13:41.350 align:start position:0%
+safe to be sent between threads, and
+it's<00:13:39.920><c> not.</c>
+
+00:13:41.350 --> 00:13:41.360 align:start position:0%
+it's not.
+ 
+
+00:13:41.360 --> 00:13:43.830 align:start position:0%
+it's not.
+So<00:13:41.480><c> this</c><00:13:41.920><c> error</c><00:13:42.280><c> isn't</c><00:13:42.720><c> that</c><00:13:43.040><c> helpful,</c><00:13:43.520><c> but</c><00:13:43.680><c> if</c>
+
+00:13:43.830 --> 00:13:43.840 align:start position:0%
+So this error isn't that helpful, but if
+ 
+
+00:13:43.840 --> 00:13:45.990 align:start position:0%
+So this error isn't that helpful, but if
+you<00:13:43.960><c> scroll</c><00:13:44.400><c> down</c><00:13:44.720><c> in</c><00:13:44.840><c> the</c><00:13:44.960><c> error</c><00:13:45.280><c> message,</c>
+
+00:13:45.990 --> 00:13:46.000 align:start position:0%
+you scroll down in the error message,
+ 
+
+00:13:46.000 --> 00:13:48.550 align:start position:0%
+you scroll down in the error message,
+it'll<00:13:46.440><c> explain</c><00:13:47.160><c> further.</c><00:13:47.960><c> And</c><00:13:48.160><c> this</c><00:13:48.360><c> is</c>
+
+00:13:48.550 --> 00:13:48.560 align:start position:0%
+it'll explain further. And this is
+ 
+
+00:13:48.560 --> 00:13:50.390 align:start position:0%
+it'll explain further. And this is
+what's<00:13:49.040><c> going</c><00:13:49.200><c> to</c><00:13:49.280><c> be</c><00:13:49.400><c> really</c><00:13:49.720><c> helpful</c><00:13:50.280><c> to</c>
+
+00:13:50.390 --> 00:13:50.400 align:start position:0%
+what's going to be really helpful to
+ 
+
+00:13:50.400 --> 00:13:53.910 align:start position:0%
+what's going to be really helpful to
+your<00:13:50.640><c> AI</c><00:13:50.960><c> agent</c><00:13:51.440><c> because</c><00:13:51.760><c> it</c><00:13:51.920><c> says,</c><00:13:52.920><c> "Oh,</c><00:13:53.400><c> the</c>
+
+00:13:53.910 --> 00:13:53.920 align:start position:0%
+your AI agent because it says, "Oh, the
+ 
+
+00:13:53.920 --> 00:13:56.350 align:start position:0%
+your AI agent because it says, "Oh, the
+value<00:13:54.480><c> here,</c><00:13:54.800><c> this</c><00:13:55.040><c> counter</c><00:13:55.480><c> value</c><00:13:56.000><c> that</c><00:13:56.160><c> was</c>
+
+00:13:56.350 --> 00:13:56.360 align:start position:0%
+value here, this counter value that was
+ 
+
+00:13:56.360 --> 00:14:00.670 align:start position:0%
+value here, this counter value that was
+captured,<00:13:57.520><c> it's</c><00:13:57.760><c> not</c><00:13:58.080><c> send.</c><00:13:59.000><c> It</c><00:13:59.240><c> has</c><00:13:59.640><c> type</c><00:14:00.240><c> RC</c>
+
+00:14:00.670 --> 00:14:00.680 align:start position:0%
+captured, it's not send. It has type RC
+ 
+
+00:14:00.680 --> 00:14:04.510 align:start position:0%
+captured, it's not send. It has type RC
+RefCell<00:14:01.360><c> i32,</c><00:14:02.840><c> and</c><00:14:02.960><c> that's</c><00:14:03.160><c> not</c><00:14:03.480><c> send."</c><00:14:04.280><c> And</c>
+
+00:14:04.510 --> 00:14:04.520 align:start position:0%
+RefCell i32, and that's not send." And
+ 
+
+00:14:04.520 --> 00:14:07.390 align:start position:0%
+RefCell i32, and that's not send." And
+so<00:14:04.800><c> if</c><00:14:05.560><c> your</c><00:14:05.880><c> AI</c><00:14:06.240><c> agent,</c><00:14:06.880><c> when</c><00:14:07.040><c> it</c><00:14:07.160><c> just</c>
+
+00:14:07.390 --> 00:14:07.400 align:start position:0%
+so if your AI agent, when it just
+ 
+
+00:14:07.400 --> 00:14:11.150 align:start position:0%
+so if your AI agent, when it just
+compiles<00:14:07.960><c> your</c><00:14:08.120><c> project,</c><00:14:09.440><c> it'll</c><00:14:09.760><c> get</c><00:14:10.520><c> this</c>
+
+00:14:11.150 --> 00:14:11.160 align:start position:0%
+compiles your project, it'll get this
+ 
+
+00:14:11.160 --> 00:14:13.870 align:start position:0%
+compiles your project, it'll get this
+compiler<00:14:11.840><c> error,</c><00:14:12.280><c> and</c><00:14:12.480><c> it</c><00:14:12.600><c> can</c><00:14:12.840><c> immediately</c>
+
+00:14:13.870 --> 00:14:13.880 align:start position:0%
+compiler error, and it can immediately
+ 
+
+00:14:13.880 --> 00:14:17.550 align:start position:0%
+compiler error, and it can immediately
+go<00:14:14.840><c> and</c><00:14:15.360><c> change</c><00:14:15.800><c> this</c><00:14:16.200><c> to</c><00:14:16.760><c> a</c><00:14:16.840><c> thread-safe</c>
+
+00:14:17.550 --> 00:14:17.560 align:start position:0%
+go and change this to a thread-safe
+ 
+
+00:14:17.560 --> 00:14:20.550 align:start position:0%
+go and change this to a thread-safe
+type,<00:14:17.840><c> of</c><00:14:17.960><c> which</c><00:14:18.200><c> there's</c><00:14:18.960><c> there's</c><00:14:19.280><c> plenty</c><00:14:19.840><c> in</c>
+
+00:14:20.550 --> 00:14:20.560 align:start position:0%
+type, of which there's there's plenty in
+ 
+
+00:14:20.560 --> 00:14:22.310 align:start position:0%
+type, of which there's there's plenty in
+in<00:14:20.800><c> Rust.</c>
+
+00:14:22.310 --> 00:14:22.320 align:start position:0%
+in Rust.
+ 
+
+00:14:22.320 --> 00:14:23.390 align:start position:0%
+in Rust.
+Um
+
+00:14:23.390 --> 00:14:23.400 align:start position:0%
+Um
+ 
+
+00:14:23.400 --> 00:14:25.990 align:start position:0%
+Um
+so<00:14:23.520><c> of</c><00:14:23.640><c> course,</c><00:14:24.120><c> all</c><00:14:24.360><c> these</c><00:14:25.200><c> uh</c><00:14:25.480><c> constraints</c>
+
+00:14:25.990 --> 00:14:26.000 align:start position:0%
+so of course, all these uh constraints
+ 
+
+00:14:26.000 --> 00:14:28.150 align:start position:0%
+so of course, all these uh constraints
+come<00:14:26.160><c> with</c><00:14:26.320><c> a</c><00:14:26.400><c> trade-off.</c><00:14:27.160><c> Rust</c><00:14:27.520><c> is</c><00:14:27.680><c> harder</c>
+
+00:14:28.150 --> 00:14:28.160 align:start position:0%
+come with a trade-off. Rust is harder
+ 
+
+00:14:28.160 --> 00:14:31.630 align:start position:0%
+come with a trade-off. Rust is harder
+for<00:14:28.360><c> LLMs</c><00:14:29.000><c> to</c><00:14:29.440><c> get</c><00:14:29.760><c> right</c><00:14:30.160><c> on</c><00:14:30.320><c> the</c><00:14:30.440><c> first</c><00:14:30.800><c> try</c>
+
+00:14:31.630 --> 00:14:31.640 align:start position:0%
+for LLMs to get right on the first try
+ 
+
+00:14:31.640 --> 00:14:33.750 align:start position:0%
+for LLMs to get right on the first try
+because<00:14:32.120><c> there's</c><00:14:32.400><c> so</c><00:14:32.560><c> many</c><00:14:32.880><c> rules</c><00:14:33.400><c> they</c><00:14:33.520><c> need</c>
+
+00:14:33.750 --> 00:14:33.760 align:start position:0%
+because there's so many rules they need
+ 
+
+00:14:33.760 --> 00:14:35.430 align:start position:0%
+because there's so many rules they need
+to<00:14:33.880><c> follow.</c>
+
+00:14:35.430 --> 00:14:35.440 align:start position:0%
+to follow.
+ 
+
+00:14:35.440 --> 00:14:37.710 align:start position:0%
+to follow.
+But<00:14:35.560><c> I</c><00:14:35.640><c> think</c><00:14:35.920><c> this</c><00:14:36.120><c> is</c><00:14:36.280><c> a</c><00:14:36.360><c> good</c><00:14:36.640><c> thing.</c>
+
+00:14:37.710 --> 00:14:37.720 align:start position:0%
+But I think this is a good thing.
+ 
+
+00:14:37.720 --> 00:14:39.070 align:start position:0%
+But I think this is a good thing.
+Um
+
+00:14:39.070 --> 00:14:39.080 align:start position:0%
+Um
+ 
+
+00:14:39.080 --> 00:14:41.270 align:start position:0%
+Um
+that's<00:14:39.320><c> because</c><00:14:39.640><c> it's</c><00:14:39.800><c> not</c><00:14:40.040><c> just</c><00:14:40.480><c> LLMs</c><00:14:41.080><c> that</c>
+
+00:14:41.270 --> 00:14:41.280 align:start position:0%
+that's because it's not just LLMs that
+ 
+
+00:14:41.280 --> 00:14:43.790 align:start position:0%
+that's because it's not just LLMs that
+write<00:14:41.560><c> code.</c><00:14:41.960><c> We</c><00:14:42.120><c> put</c><00:14:42.360><c> the</c><00:14:42.480><c> LLM</c><00:14:43.120><c> in</c><00:14:43.280><c> an</c><00:14:43.440><c> AI</c>
+
+00:14:43.790 --> 00:14:43.800 align:start position:0%
+write code. We put the LLM in an AI
+ 
+
+00:14:43.800 --> 00:14:46.030 align:start position:0%
+write code. We put the LLM in an AI
+agent.<00:14:44.280><c> It's</c><00:14:44.480><c> in</c><00:14:44.600><c> a</c><00:14:44.640><c> loop.</c><00:14:45.000><c> It</c><00:14:45.160><c> can</c><00:14:45.400><c> do</c><00:14:45.640><c> things</c>
+
+00:14:46.030 --> 00:14:46.040 align:start position:0%
+agent. It's in a loop. It can do things
+ 
+
+00:14:46.040 --> 00:14:48.829 align:start position:0%
+agent. It's in a loop. It can do things
+autonomously.<00:14:47.480><c> And</c><00:14:47.680><c> AI</c><00:14:48.000><c> agents</c><00:14:48.480><c> are</c><00:14:48.560><c> very</c>
+
+00:14:48.829 --> 00:14:48.839 align:start position:0%
+autonomously. And AI agents are very
+ 
+
+00:14:48.839 --> 00:14:51.550 align:start position:0%
+autonomously. And AI agents are very
+well<00:14:49.080><c> suited</c><00:14:49.800><c> to</c><00:14:50.440><c> be</c><00:14:50.560><c> able</c><00:14:50.760><c> to</c><00:14:50.880><c> compile</c><00:14:51.360><c> their</c>
+
+00:14:51.550 --> 00:14:51.560 align:start position:0%
+well suited to be able to compile their
+ 
+
+00:14:51.560 --> 00:14:54.510 align:start position:0%
+well suited to be able to compile their
+code,<00:14:52.640><c> check</c><00:14:52.920><c> any</c><00:14:53.200><c> failures,</c><00:14:53.960><c> and</c><00:14:54.080><c> then</c><00:14:54.320><c> go</c>
+
+00:14:54.510 --> 00:14:54.520 align:start position:0%
+code, check any failures, and then go
+ 
+
+00:14:54.520 --> 00:14:56.310 align:start position:0%
+code, check any failures, and then go
+and<00:14:54.680><c> fix</c><00:14:55.000><c> them.</c>
+
+00:14:56.310 --> 00:14:56.320 align:start position:0%
+and fix them.
+ 
+
+00:14:56.320 --> 00:14:59.870 align:start position:0%
+and fix them.
+And<00:14:56.760><c> every</c><00:14:57.080><c> compile</c><00:14:57.680><c> error</c><00:14:58.680><c> um</c>
+
+00:14:59.870 --> 00:14:59.880 align:start position:0%
+And every compile error um
+ 
+
+00:14:59.880 --> 00:15:02.310 align:start position:0%
+And every compile error um
+is<00:15:00.080><c> potentially</c><00:15:00.720><c> a</c><00:15:00.800><c> bug</c><00:15:01.120><c> that</c><00:15:01.280><c> you</c><00:15:01.440><c> avoid</c><00:15:02.120><c> in</c>
+
+00:15:02.310 --> 00:15:02.320 align:start position:0%
+is potentially a bug that you avoid in
+ 
+
+00:15:02.320 --> 00:15:06.550 align:start position:0%
+is potentially a bug that you avoid in
+your<00:15:02.560><c> production</c><00:15:03.240><c> code.</c><00:15:03.800><c> So</c><00:15:04.839><c> um</c>
+
+00:15:06.550 --> 00:15:06.560 align:start position:0%
+your production code. So um
+ 
+
+00:15:06.560 --> 00:15:08.790 align:start position:0%
+your production code. So um
+and<00:15:06.760><c> and</c><00:15:06.960><c> with</c><00:15:07.520><c> the</c><00:15:07.680><c> Rust</c><00:15:07.960><c> compiler,</c><00:15:08.560><c> like</c>
+
+00:15:08.790 --> 00:15:08.800 align:start position:0%
+and and with the Rust compiler, like
+ 
+
+00:15:08.800 --> 00:15:10.590 align:start position:0%
+and and with the Rust compiler, like
+something<00:15:09.240><c> I</c><00:15:09.360><c> hear</c><00:15:09.600><c> sometimes</c><00:15:10.240><c> people</c>
+
+00:15:10.590 --> 00:15:10.600 align:start position:0%
+something I hear sometimes people
+ 
+
+00:15:10.600 --> 00:15:13.230 align:start position:0%
+something I hear sometimes people
+complain<00:15:11.080><c> that</c><00:15:11.280><c> compile</c><00:15:11.800><c> times</c><00:15:12.160><c> are</c><00:15:12.320><c> slow.</c>
+
+00:15:13.230 --> 00:15:13.240 align:start position:0%
+complain that compile times are slow.
+ 
+
+00:15:13.240 --> 00:15:15.670 align:start position:0%
+complain that compile times are slow.
+But<00:15:13.400><c> I</c><00:15:13.520><c> guarantee</c><00:15:14.240><c> you</c><00:15:14.520><c> that</c><00:15:14.720><c> it's</c><00:15:14.960><c> faster</c>
+
+00:15:15.670 --> 00:15:15.680 align:start position:0%
+But I guarantee you that it's faster
+ 
+
+00:15:15.680 --> 00:15:18.070 align:start position:0%
+But I guarantee you that it's faster
+than<00:15:15.920><c> letting</c><00:15:16.240><c> an</c><00:15:16.440><c> AI</c><00:15:16.920><c> agent</c><00:15:17.480><c> review</c><00:15:17.839><c> your</c>
+
+00:15:18.070 --> 00:15:18.080 align:start position:0%
+than letting an AI agent review your
+ 
+
+00:15:18.080 --> 00:15:21.510 align:start position:0%
+than letting an AI agent review your
+code,<00:15:19.200><c> and</c><00:15:19.320><c> it</c><00:15:19.440><c> might</c><00:15:19.680><c> not</c><00:15:19.960><c> even</c><00:15:20.320><c> find</c><00:15:21.200><c> all</c><00:15:21.400><c> the</c>
+
+00:15:21.510 --> 00:15:21.520 align:start position:0%
+code, and it might not even find all the
+ 
+
+00:15:21.520 --> 00:15:23.830 align:start position:0%
+code, and it might not even find all the
+errors<00:15:22.160><c> that</c><00:15:22.600><c> the</c><00:15:22.720><c> Rust</c><00:15:23.040><c> compiler</c><00:15:23.680><c> is</c>
+
+00:15:23.830 --> 00:15:23.840 align:start position:0%
+errors that the Rust compiler is
+ 
+
+00:15:23.840 --> 00:15:26.310 align:start position:0%
+errors that the Rust compiler is
+guaranteed<00:15:24.520><c> to</c><00:15:24.640><c> find.</c><00:15:25.600><c> I</c><00:15:25.720><c> still</c><00:15:25.960><c> think</c><00:15:26.200><c> you</c>
+
+00:15:26.310 --> 00:15:26.320 align:start position:0%
+guaranteed to find. I still think you
+ 
+
+00:15:26.320 --> 00:15:29.230 align:start position:0%
+guaranteed to find. I still think you
+should<00:15:26.600><c> use</c><00:15:27.080><c> use</c><00:15:27.320><c> it,</c><00:15:27.480><c> of</c><00:15:27.640><c> course,</c><00:15:28.120><c> but</c><00:15:29.040><c> it's</c>
+
+00:15:29.230 --> 00:15:29.240 align:start position:0%
+should use use it, of course, but it's
+ 
+
+00:15:29.240 --> 00:15:32.310 align:start position:0%
+should use use it, of course, but it's
+good<00:15:29.600><c> to</c><00:15:29.720><c> have</c><00:15:30.440><c> this</c><00:15:31.440><c> um</c>
+
+00:15:32.310 --> 00:15:32.320 align:start position:0%
+good to have this um
+ 
+
+00:15:32.320 --> 00:15:36.150 align:start position:0%
+good to have this um
+additional<00:15:32.920><c> element</c><00:15:33.280><c> of</c><00:15:33.440><c> safety,</c><00:15:33.920><c> I</c><00:15:34.040><c> guess.</c>
+
+00:15:36.150 --> 00:15:36.160 align:start position:0%
+additional element of safety, I guess.
+ 
+
+00:15:36.160 --> 00:15:39.070 align:start position:0%
+additional element of safety, I guess.
+And<00:15:36.800><c> of</c><00:15:36.920><c> course,</c><00:15:37.480><c> this</c><00:15:37.680><c> is</c><00:15:37.840><c> a</c><00:15:37.920><c> sponsored</c><00:15:38.520><c> talk</c>
+
+00:15:39.070 --> 00:15:39.080 align:start position:0%
+And of course, this is a sponsored talk
+ 
+
+00:15:39.080 --> 00:15:42.030 align:start position:0%
+And of course, this is a sponsored talk
+and<00:15:39.400><c> I'm</c><00:15:39.560><c> from</c><00:15:39.800><c> Sentry,</c><00:15:40.320><c> so</c><00:15:41.400><c> this</c><00:15:41.640><c> is</c><00:15:41.920><c> the</c>
+
+00:15:42.030 --> 00:15:42.040 align:start position:0%
+and I'm from Sentry, so this is the
+ 
+
+00:15:42.040 --> 00:15:44.350 align:start position:0%
+and I'm from Sentry, so this is the
+little<00:15:42.280><c> marketing</c><00:15:42.840><c> slide.</c><00:15:43.560><c> Um</c>
+
+00:15:44.350 --> 00:15:44.360 align:start position:0%
+little marketing slide. Um
+ 
+
+00:15:44.360 --> 00:15:45.830 align:start position:0%
+little marketing slide. Um
+you<00:15:44.480><c> should</c><00:15:44.720><c> try</c><00:15:44.960><c> us</c><00:15:45.160><c> out</c><00:15:45.360><c> if</c><00:15:45.480><c> you</c><00:15:45.600><c> don't</c>
+
+00:15:45.830 --> 00:15:45.840 align:start position:0%
+you should try us out if you don't
+ 
+
+00:15:45.840 --> 00:15:49.110 align:start position:0%
+you should try us out if you don't
+already.<00:15:46.840><c> This</c><00:15:47.120><c> QR</c><00:15:47.520><c> code</c><00:15:47.840><c> would</c><00:15:48.000><c> give</c><00:15:48.240><c> you</c><00:15:48.840><c> 3</c>
+
+00:15:49.110 --> 00:15:49.120 align:start position:0%
+already. This QR code would give you 3
+ 
+
+00:15:49.120 --> 00:15:52.590 align:start position:0%
+already. This QR code would give you 3
+months<00:15:49.600><c> for</c><00:15:49.800><c> free</c><00:15:50.080><c> of</c><00:15:50.240><c> our</c><00:15:50.960><c> business</c><00:15:51.440><c> plan.</c>
+
+00:15:52.590 --> 00:15:52.600 align:start position:0%
+months for free of our business plan.
+ 
+
+00:15:52.600 --> 00:15:55.070 align:start position:0%
+months for free of our business plan.
+Um<00:15:53.120><c> we</c><00:15:53.280><c> have</c><00:15:53.480><c> agent</c><00:15:53.800><c> monitoring</c><00:15:54.320><c> features.</c><00:15:54.960><c> We</c>
+
+00:15:55.070 --> 00:15:55.080 align:start position:0%
+Um we have agent monitoring features. We
+ 
+
+00:15:55.080 --> 00:15:57.310 align:start position:0%
+Um we have agent monitoring features. We
+have<00:15:55.240><c> a</c><00:15:55.280><c> booth</c><00:15:55.600><c> downstairs.</c><00:15:56.320><c> Come</c><00:15:56.520><c> by.</c><00:15:57.000><c> Feel</c>
+
+00:15:57.310 --> 00:15:57.320 align:start position:0%
+have a booth downstairs. Come by. Feel
+ 
+
+00:15:57.320 --> 00:15:58.910 align:start position:0%
+have a booth downstairs. Come by. Feel
+free<00:15:57.840><c> to</c>
+
+00:15:58.910 --> 00:15:58.920 align:start position:0%
+free to
+ 
+
+00:15:58.920 --> 00:16:00.830 align:start position:0%
+free to
+ask<00:15:59.120><c> questions</c><00:15:59.680><c> about</c><00:16:00.000><c> Sentry</c><00:16:00.440><c> or</c><00:16:00.560><c> if</c><00:16:00.760><c> you</c>
+
+00:16:00.830 --> 00:16:00.840 align:start position:0%
+ask questions about Sentry or if you
+ 
+
+00:16:00.840 --> 00:16:02.470 align:start position:0%
+ask questions about Sentry or if you
+want<00:16:01.000><c> to</c><00:16:01.080><c> talk</c><00:16:01.360><c> to</c><00:16:01.480><c> me</c><00:16:01.600><c> about</c><00:16:01.880><c> the</c><00:16:02.000><c> talk,</c><00:16:02.360><c> you</c>
+
+00:16:02.470 --> 00:16:02.480 align:start position:0%
+want to talk to me about the talk, you
+ 
+
+00:16:02.480 --> 00:16:05.750 align:start position:0%
+want to talk to me about the talk, you
+can<00:16:02.800><c> also</c><00:16:03.120><c> come</c><00:16:03.320><c> by</c><00:16:03.480><c> and</c><00:16:03.600><c> I'm</c><00:16:03.720><c> happy</c><00:16:03.960><c> to</c><00:16:04.080><c> chat.</c>
+
+00:16:05.750 --> 00:16:05.760 align:start position:0%
+can also come by and I'm happy to chat.
+ 
+
+00:16:05.760 --> 00:16:08.280 align:start position:0%
+can also come by and I'm happy to chat.
+Thank<00:16:05.960><c> you.</c>
+

@@ -1,0 +1,3768 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:14.520 --> 00:00:16.470 align:start position:0%
+ 
+Hi,<00:00:14.840><c> I'm</c><00:00:15.160><c> Isaac</c><00:00:15.480><c> Robinson.</c><00:00:15.880><c> I'm</c><00:00:15.960><c> the</c><00:00:16.080><c> research</c>
+
+00:00:16.470 --> 00:00:16.480 align:start position:0%
+Hi, I'm Isaac Robinson. I'm the research
+ 
+
+00:00:16.480 --> 00:00:18.350 align:start position:0%
+Hi, I'm Isaac Robinson. I'm the research
+lead<00:00:16.640><c> at</c><00:00:16.760><c> Roboflow</c><00:00:17.240><c> and</c><00:00:17.440><c> I'm</c><00:00:17.720><c> here</c><00:00:17.960><c> to</c><00:00:18.040><c> talk</c><00:00:18.240><c> to</c>
+
+00:00:18.350 --> 00:00:18.360 align:start position:0%
+lead at Roboflow and I'm here to talk to
+ 
+
+00:00:18.360 --> 00:00:20.750 align:start position:0%
+lead at Roboflow and I'm here to talk to
+you<00:00:18.520><c> today</c><00:00:18.880><c> about</c><00:00:19.480><c> how</c><00:00:19.640><c> transformers</c><00:00:20.360><c> finally</c>
+
+00:00:20.750 --> 00:00:20.760 align:start position:0%
+you today about how transformers finally
+ 
+
+00:00:20.760 --> 00:00:22.990 align:start position:0%
+you today about how transformers finally
+ate<00:00:20.960><c> vision.</c>
+
+00:00:22.990 --> 00:00:23.000 align:start position:0%
+ate vision.
+ 
+
+00:00:23.000 --> 00:00:24.710 align:start position:0%
+ate vision.
+Uh
+
+00:00:24.710 --> 00:00:24.720 align:start position:0%
+Uh
+ 
+
+00:00:24.720 --> 00:00:26.670 align:start position:0%
+Uh
+So,<00:00:25.320><c> I'm</c><00:00:25.400><c> going</c><00:00:25.520><c> to</c><00:00:25.560><c> start</c><00:00:25.800><c> off</c><00:00:26.040><c> with</c><00:00:26.360><c> a</c><00:00:26.400><c> brief</c>
+
+00:00:26.670 --> 00:00:26.680 align:start position:0%
+So, I'm going to start off with a brief
+ 
+
+00:00:26.680 --> 00:00:28.830 align:start position:0%
+So, I'm going to start off with a brief
+summary<00:00:27.040><c> of</c>
+
+00:00:28.830 --> 00:00:28.840 align:start position:0%
+summary of
+ 
+
+00:00:28.840 --> 00:00:30.310 align:start position:0%
+summary of
+the<00:00:28.920><c> competition.</c>
+
+00:00:30.310 --> 00:00:30.320 align:start position:0%
+the competition.
+ 
+
+00:00:30.320 --> 00:00:31.030 align:start position:0%
+the competition.
+Then<00:00:30.400><c> we're</c><00:00:30.480><c> going</c><00:00:30.600><c> to</c><00:00:30.680><c> go</c><00:00:30.760><c> through</c><00:00:30.960><c> an</c>
+
+00:00:31.030 --> 00:00:31.040 align:start position:0%
+Then we're going to go through an
+ 
+
+00:00:31.040 --> 00:00:32.550 align:start position:0%
+Then we're going to go through an
+overview<00:00:31.520><c> of</c>
+
+00:00:32.550 --> 00:00:32.560 align:start position:0%
+overview of
+ 
+
+00:00:32.560 --> 00:00:34.950 align:start position:0%
+overview of
+the<00:00:32.640><c> evolution</c><00:00:33.000><c> of</c><00:00:33.080><c> the</c><00:00:33.160><c> transformer,</c>
+
+00:00:34.950 --> 00:00:34.960 align:start position:0%
+the evolution of the transformer,
+ 
+
+00:00:34.960 --> 00:00:36.830 align:start position:0%
+the evolution of the transformer,
+why<00:00:35.200><c> that</c><00:00:35.400><c> ended</c><00:00:35.640><c> up</c><00:00:35.760><c> winning</c><00:00:36.000><c> out,</c><00:00:36.680><c> some</c>
+
+00:00:36.830 --> 00:00:36.840 align:start position:0%
+why that ended up winning out, some
+ 
+
+00:00:36.840 --> 00:00:40.110 align:start position:0%
+why that ended up winning out, some
+consequences<00:00:37.400><c> of</c><00:00:37.440><c> that,</c><00:00:38.080><c> and</c><00:00:38.200><c> what's</c><00:00:38.360><c> next.</c>
+
+00:00:40.110 --> 00:00:40.120 align:start position:0%
+consequences of that, and what's next.
+ 
+
+00:00:40.120 --> 00:00:41.750 align:start position:0%
+consequences of that, and what's next.
+So,
+
+00:00:41.750 --> 00:00:41.760 align:start position:0%
+So,
+ 
+
+00:00:41.760 --> 00:00:43.070 align:start position:0%
+So,
+where<00:00:41.840><c> we</c><00:00:41.920><c> started,</c><00:00:42.360><c> convolutional</c><00:00:42.880><c> neural</c>
+
+00:00:43.070 --> 00:00:43.080 align:start position:0%
+where we started, convolutional neural
+ 
+
+00:00:43.080 --> 00:00:45.230 align:start position:0%
+where we started, convolutional neural
+networks.<00:00:43.880><c> I'm</c><00:00:44.000><c> sure</c><00:00:44.680><c> everyone</c><00:00:44.960><c> here</c><00:00:45.120><c> is</c>
+
+00:00:45.230 --> 00:00:45.240 align:start position:0%
+networks. I'm sure everyone here is
+ 
+
+00:00:45.240 --> 00:00:46.550 align:start position:0%
+networks. I'm sure everyone here is
+aware<00:00:45.480><c> of</c><00:00:45.560><c> how</c><00:00:45.680><c> these</c><00:00:45.880><c> work,</c><00:00:46.080><c> but</c><00:00:46.240><c> just</c><00:00:46.480><c> to</c>
+
+00:00:46.550 --> 00:00:46.560 align:start position:0%
+aware of how these work, but just to
+ 
+
+00:00:46.560 --> 00:00:48.510 align:start position:0%
+aware of how these work, but just to
+summarize,
+
+00:00:48.510 --> 00:00:48.520 align:start position:0%
+summarize,
+ 
+
+00:00:48.520 --> 00:00:50.030 align:start position:0%
+summarize,
+they<00:00:48.600><c> have</c><00:00:48.800><c> excellent</c><00:00:49.200><c> inductive</c><00:00:49.600><c> bias</c>
+
+00:00:50.030 --> 00:00:50.040 align:start position:0%
+they have excellent inductive bias
+ 
+
+00:00:50.040 --> 00:00:52.510 align:start position:0%
+they have excellent inductive bias
+motivated<00:00:50.520><c> by</c><00:00:51.360><c> looking</c><00:00:51.680><c> at</c><00:00:51.800><c> how</c><00:00:51.920><c> the</c><00:00:52.080><c> eye</c>
+
+00:00:52.510 --> 00:00:52.520 align:start position:0%
+motivated by looking at how the eye
+ 
+
+00:00:52.520 --> 00:00:54.790 align:start position:0%
+motivated by looking at how the eye
+works.<00:00:53.440><c> So,</c><00:00:53.560><c> you</c><00:00:53.680><c> have</c><00:00:53.920><c> a</c>
+
+00:00:54.790 --> 00:00:54.800 align:start position:0%
+works. So, you have a
+ 
+
+00:00:54.800 --> 00:00:57.430 align:start position:0%
+works. So, you have a
+a<00:00:54.880><c> filter</c><00:00:55.960><c> that</c><00:00:56.080><c> you</c><00:00:56.200><c> convolve</c><00:00:56.680><c> against</c><00:00:57.320><c> your</c>
+
+00:00:57.430 --> 00:00:57.440 align:start position:0%
+a filter that you convolve against your
+ 
+
+00:00:57.440 --> 00:01:00.710 align:start position:0%
+a filter that you convolve against your
+image,<00:00:58.400><c> and</c><00:00:58.560><c> you</c><00:00:58.680><c> have</c><00:00:59.320><c> activations</c><00:01:00.520><c> that</c>
+
+00:01:00.710 --> 00:01:00.720 align:start position:0%
+image, and you have activations that
+ 
+
+00:01:00.720 --> 00:01:02.150 align:start position:0%
+image, and you have activations that
+light<00:01:00.920><c> up</c>
+
+00:01:02.150 --> 00:01:02.160 align:start position:0%
+light up
+ 
+
+00:01:02.160 --> 00:01:03.910 align:start position:0%
+light up
+the<00:01:02.280><c> same</c><00:01:02.560><c> way</c><00:01:02.840><c> regardless</c><00:01:03.360><c> of</c><00:01:03.520><c> where</c><00:01:03.760><c> in</c><00:01:03.840><c> the</c>
+
+00:01:03.910 --> 00:01:03.920 align:start position:0%
+the same way regardless of where in the
+ 
+
+00:01:03.920 --> 00:01:05.590 align:start position:0%
+the same way regardless of where in the
+image<00:01:04.160><c> the</c><00:01:04.239><c> thing</c><00:01:04.400><c> is</c><00:01:04.480><c> happening.</c><00:01:05.360><c> Great</c>
+
+00:01:05.590 --> 00:01:05.600 align:start position:0%
+image the thing is happening. Great
+ 
+
+00:01:05.600 --> 00:01:07.790 align:start position:0%
+image the thing is happening. Great
+inductive<00:01:05.920><c> bias.</c><00:01:06.680><c> A</c><00:01:06.760><c> person</c><00:01:07.160><c> in</c><00:01:07.280><c> an</c><00:01:07.400><c> image</c><00:01:07.720><c> is</c>
+
+00:01:07.790 --> 00:01:07.800 align:start position:0%
+inductive bias. A person in an image is
+ 
+
+00:01:07.800 --> 00:01:09.190 align:start position:0%
+inductive bias. A person in an image is
+a<00:01:07.880><c> person</c><00:01:08.240><c> regardless</c><00:01:08.680><c> of</c><00:01:08.800><c> whether</c><00:01:09.000><c> they're</c>
+
+00:01:09.190 --> 00:01:09.200 align:start position:0%
+a person regardless of whether they're
+ 
+
+00:01:09.200 --> 00:01:11.310 align:start position:0%
+a person regardless of whether they're
+in<00:01:09.320><c> the</c><00:01:09.400><c> upper</c><00:01:09.600><c> left</c><00:01:09.840><c> or</c><00:01:09.920><c> the</c><00:01:10.000><c> bottom</c><00:01:10.280><c> right.</c>
+
+00:01:11.310 --> 00:01:11.320 align:start position:0%
+in the upper left or the bottom right.
+ 
+
+00:01:11.320 --> 00:01:13.070 align:start position:0%
+in the upper left or the bottom right.
+And<00:01:11.440><c> you</c><00:01:11.800><c> we</c><00:01:12.000><c> build</c><00:01:12.240><c> these</c><00:01:12.520><c> uh</c><00:01:12.640><c> interesting</c>
+
+00:01:13.070 --> 00:01:13.080 align:start position:0%
+And you we build these uh interesting
+ 
+
+00:01:13.080 --> 00:01:15.350 align:start position:0%
+And you we build these uh interesting
+hierarchical<00:01:13.640><c> structures</c><00:01:14.040><c> out</c><00:01:14.160><c> of</c><00:01:14.200><c> these,</c>
+
+00:01:15.350 --> 00:01:15.360 align:start position:0%
+hierarchical structures out of these,
+ 
+
+00:01:15.360 --> 00:01:17.670 align:start position:0%
+hierarchical structures out of these,
+ResNets,<00:01:16.320><c> etc.</c>
+
+00:01:17.670 --> 00:01:17.680 align:start position:0%
+ResNets, etc.
+ 
+
+00:01:17.680 --> 00:01:19.070 align:start position:0%
+ResNets, etc.
+This<00:01:17.760><c> is</c><00:01:17.880><c> how</c><00:01:18.000><c> we've</c><00:01:18.120><c> done</c><00:01:18.280><c> vision</c><00:01:18.520><c> for</c><00:01:18.840><c> a</c><00:01:18.880><c> very</c>
+
+00:01:19.070 --> 00:01:19.080 align:start position:0%
+This is how we've done vision for a very
+ 
+
+00:01:19.080 --> 00:01:21.230 align:start position:0%
+This is how we've done vision for a very
+long<00:01:19.280><c> time.</c>
+
+00:01:21.230 --> 00:01:21.240 align:start position:0%
+long time.
+ 
+
+00:01:21.240 --> 00:01:23.030 align:start position:0%
+long time.
+Then<00:01:21.360><c> comes</c><00:01:21.520><c> the</c><00:01:21.600><c> transformer.</c><00:01:22.480><c> Again,</c><00:01:22.920><c> I'm</c>
+
+00:01:23.030 --> 00:01:23.040 align:start position:0%
+Then comes the transformer. Again, I'm
+ 
+
+00:01:23.040 --> 00:01:24.390 align:start position:0%
+Then comes the transformer. Again, I'm
+sure<00:01:23.160><c> everyone</c><00:01:23.440><c> is</c><00:01:23.520><c> aware</c><00:01:23.760><c> of</c><00:01:24.240><c> how</c><00:01:24.360><c> a</c>
+
+00:01:24.390 --> 00:01:24.400 align:start position:0%
+sure everyone is aware of how a
+ 
+
+00:01:24.400 --> 00:01:25.830 align:start position:0%
+sure everyone is aware of how a
+transformer<00:01:24.840><c> works,</c><00:01:25.440><c> but</c><00:01:25.600><c> just</c><00:01:25.760><c> to</c>
+
+00:01:25.830 --> 00:01:25.840 align:start position:0%
+transformer works, but just to
+ 
+
+00:01:25.840 --> 00:01:27.310 align:start position:0%
+transformer works, but just to
+summarize,
+
+00:01:27.310 --> 00:01:27.320 align:start position:0%
+summarize,
+ 
+
+00:01:27.320 --> 00:01:30.950 align:start position:0%
+summarize,
+we<00:01:27.680><c> uh</c><00:01:28.160><c> have</c><00:01:28.320><c> a</c><00:01:28.360><c> just</c><00:01:28.600><c> a</c><00:01:28.680><c> set</c><00:01:29.240><c> of</c><00:01:29.600><c> tokens.</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+we uh have a just a set of tokens.
+ 
+
+00:01:30.960 --> 00:01:33.950 align:start position:0%
+we uh have a just a set of tokens.
+We<00:01:31.120><c> run</c><00:01:31.440><c> a</c><00:01:31.840><c> set-to-set</c><00:01:32.560><c> operation.</c>
+
+00:01:33.950 --> 00:01:33.960 align:start position:0%
+We run a set-to-set operation.
+ 
+
+00:01:33.960 --> 00:01:36.270 align:start position:0%
+We run a set-to-set operation.
+So,<00:01:34.080><c> there's</c><00:01:34.480><c> no</c><00:01:34.720><c> inductive</c><00:01:35.120><c> bias.</c><00:01:36.040><c> This</c><00:01:36.200><c> is</c>
+
+00:01:36.270 --> 00:01:36.280 align:start position:0%
+So, there's no inductive bias. This is
+ 
+
+00:01:36.280 --> 00:01:38.550 align:start position:0%
+So, there's no inductive bias. This is
+just<00:01:36.480><c> an</c><00:01:36.600><c> n-squared</c><00:01:37.120><c> transformation.</c>
+
+00:01:38.550 --> 00:01:38.560 align:start position:0%
+just an n-squared transformation.
+ 
+
+00:01:38.560 --> 00:01:40.750 align:start position:0%
+just an n-squared transformation.
+We<00:01:38.840><c> inject</c><00:01:39.320><c> the</c><00:01:39.400><c> inductive</c><00:01:39.800><c> biases</c><00:01:40.400><c> into</c><00:01:40.680><c> the</c>
+
+00:01:40.750 --> 00:01:40.760 align:start position:0%
+We inject the inductive biases into the
+ 
+
+00:01:40.760 --> 00:01:42.790 align:start position:0%
+We inject the inductive biases into the
+transformer.<00:01:41.560><c> So,</c><00:01:42.240><c> for</c><00:01:42.360><c> example,</c><00:01:42.760><c> a</c>
+
+00:01:42.790 --> 00:01:42.800 align:start position:0%
+transformer. So, for example, a
+ 
+
+00:01:42.800 --> 00:01:44.030 align:start position:0%
+transformer. So, for example, a
+classical
+
+00:01:44.030 --> 00:01:44.040 align:start position:0%
+classical
+ 
+
+00:01:44.040 --> 00:01:46.710 align:start position:0%
+classical
+uh<00:01:44.240><c> autoregressive</c><00:01:44.760><c> transformer,</c><00:01:45.720><c> we</c><00:01:46.120><c> add</c><00:01:46.400><c> a</c>
+
+00:01:46.710 --> 00:01:46.720 align:start position:0%
+uh autoregressive transformer, we add a
+ 
+
+00:01:46.720 --> 00:01:48.950 align:start position:0%
+uh autoregressive transformer, we add a
+causal<00:01:47.080><c> mask</c><00:01:47.840><c> to</c><00:01:48.000><c> the</c><00:01:48.120><c> attention</c><00:01:48.520><c> matrix</c>
+
+00:01:48.950 --> 00:01:48.960 align:start position:0%
+causal mask to the attention matrix
+ 
+
+00:01:48.960 --> 00:01:50.270 align:start position:0%
+causal mask to the attention matrix
+matrix,
+
+00:01:50.270 --> 00:01:50.280 align:start position:0%
+matrix,
+ 
+
+00:01:50.280 --> 00:01:53.470 align:start position:0%
+matrix,
+and<00:01:50.560><c> that</c><00:01:50.720><c> gives</c><00:01:50.880><c> us</c><00:01:51.040><c> a</c><00:01:51.200><c> sequential</c><00:01:51.760><c> modeling.</c>
+
+00:01:53.470 --> 00:01:53.480 align:start position:0%
+and that gives us a sequential modeling.
+ 
+
+00:01:53.480 --> 00:01:58.870 align:start position:0%
+and that gives us a sequential modeling.
+Uh<00:01:54.240><c> for</c><00:01:55.200><c> vision,</c>
+
+00:01:58.870 --> 00:01:58.880 align:start position:0%
+ 
+ 
+
+00:01:58.880 --> 00:02:01.350 align:start position:0%
+ 
+we<00:01:59.000><c> have</c><00:01:59.200><c> a</c><00:01:59.280><c> vision</c><00:01:59.560><c> transformer.</c>
+
+00:02:01.350 --> 00:02:01.360 align:start position:0%
+we have a vision transformer.
+ 
+
+00:02:01.360 --> 00:02:03.190 align:start position:0%
+we have a vision transformer.
+And<00:02:01.640><c> this</c><00:02:01.840><c> is</c>
+
+00:02:03.190 --> 00:02:03.200 align:start position:0%
+And this is
+ 
+
+00:02:03.200 --> 00:02:04.870 align:start position:0%
+And this is
+very<00:02:03.520><c> complicated.</c>
+
+00:02:04.870 --> 00:02:04.880 align:start position:0%
+very complicated.
+ 
+
+00:02:04.880 --> 00:02:06.750 align:start position:0%
+very complicated.
+A<00:02:04.920><c> lot</c><00:02:05.080><c> of</c><00:02:05.200><c> engineering</c><00:02:05.600><c> went</c><00:02:05.720><c> into</c><00:02:05.920><c> this.</c><00:02:06.640><c> We</c>
+
+00:02:06.750 --> 00:02:06.760 align:start position:0%
+A lot of engineering went into this. We
+ 
+
+00:02:06.760 --> 00:02:09.630 align:start position:0%
+A lot of engineering went into this. We
+take<00:02:06.960><c> our</c><00:02:07.120><c> image,</c><00:02:07.760><c> we</c><00:02:07.920><c> split</c><00:02:08.240><c> it</c><00:02:08.360><c> into</c>
+
+00:02:09.630 --> 00:02:09.640 align:start position:0%
+take our image, we split it into
+ 
+
+00:02:09.640 --> 00:02:11.230 align:start position:0%
+take our image, we split it into
+uh<00:02:10.000><c> patches.</c>
+
+00:02:11.230 --> 00:02:11.240 align:start position:0%
+uh patches.
+ 
+
+00:02:11.240 --> 00:02:14.110 align:start position:0%
+uh patches.
+16<00:02:11.680><c> by</c><00:02:11.800><c> 16</c><00:02:12.320><c> was</c><00:02:12.440><c> the</c><00:02:12.520><c> original.</c>
+
+00:02:14.110 --> 00:02:14.120 align:start position:0%
+16 by 16 was the original.
+ 
+
+00:02:14.120 --> 00:02:15.710 align:start position:0%
+16 by 16 was the original.
+And
+
+00:02:15.710 --> 00:02:15.720 align:start position:0%
+And
+ 
+
+00:02:15.720 --> 00:02:18.790 align:start position:0%
+And
+we<00:02:15.960><c> add</c><00:02:16.240><c> a</c><00:02:16.520><c> learned</c><00:02:17.040><c> positional</c><00:02:17.520><c> encoding,</c>
+
+00:02:18.790 --> 00:02:18.800 align:start position:0%
+we add a learned positional encoding,
+ 
+
+00:02:18.800 --> 00:02:19.670 align:start position:0%
+we add a learned positional encoding,
+and<00:02:18.880><c> then</c><00:02:19.000><c> we</c><00:02:19.080><c> throw</c><00:02:19.280><c> that</c><00:02:19.440><c> into</c><00:02:19.640><c> a</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+and then we throw that into a
+ 
+
+00:02:19.680 --> 00:02:21.870 align:start position:0%
+and then we throw that into a
+transformer,
+
+00:02:21.870 --> 00:02:21.880 align:start position:0%
+transformer,
+ 
+
+00:02:21.880 --> 00:02:23.430 align:start position:0%
+transformer,
+and<00:02:21.960><c> that's</c><00:02:22.200><c> it.</c>
+
+00:02:23.430 --> 00:02:23.440 align:start position:0%
+and that's it.
+ 
+
+00:02:23.440 --> 00:02:27.230 align:start position:0%
+and that's it.
+So,<00:02:24.440><c> transformer</c><00:02:24.960><c> is</c><00:02:25.400><c> n-squared</c><00:02:26.080><c> set-to-set.</c>
+
+00:02:27.230 --> 00:02:27.240 align:start position:0%
+So, transformer is n-squared set-to-set.
+ 
+
+00:02:27.240 --> 00:02:30.510 align:start position:0%
+So, transformer is n-squared set-to-set.
+We've<00:02:27.360><c> got</c><00:02:28.120><c> patches</c><00:02:29.120><c> in</c><00:02:29.240><c> our</c><00:02:29.360><c> image.</c>
+
+00:02:30.510 --> 00:02:30.520 align:start position:0%
+We've got patches in our image.
+ 
+
+00:02:30.520 --> 00:02:31.750 align:start position:0%
+We've got patches in our image.
+This<00:02:30.800><c> is</c><00:02:31.080><c> uh</c>
+
+00:02:31.750 --> 00:02:31.760 align:start position:0%
+This is uh
+ 
+
+00:02:31.760 --> 00:02:34.550 align:start position:0%
+This is uh
+we've<00:02:31.880><c> got</c>
+
+00:02:34.550 --> 00:02:34.560 align:start position:0%
+ 
+ 
+
+00:02:34.560 --> 00:02:37.430 align:start position:0%
+ 
+uh<00:02:35.000><c> n</c><00:02:35.160><c> over</c><00:02:35.360><c> 16</c><00:02:35.800><c> patches</c><00:02:36.320><c> for</c><00:02:36.480><c> the</c><00:02:37.160><c> side</c>
+
+00:02:37.430 --> 00:02:37.440 align:start position:0%
+uh n over 16 patches for the side
+ 
+
+00:02:37.440 --> 00:02:39.550 align:start position:0%
+uh n over 16 patches for the side
+length,<00:02:37.840><c> and</c><00:02:38.480><c> and</c><00:02:38.600><c> we</c><00:02:38.680><c> end</c><00:02:38.840><c> up</c><00:02:39.080><c> actually</c><00:02:39.360><c> with</c>
+
+00:02:39.550 --> 00:02:39.560 align:start position:0%
+length, and and we end up actually with
+ 
+
+00:02:39.560 --> 00:02:41.350 align:start position:0%
+length, and and we end up actually with
+n<00:02:39.720><c> to</c><00:02:39.840><c> the</c><00:02:39.920><c> fourth</c><00:02:40.280><c> power</c>
+
+00:02:41.350 --> 00:02:41.360 align:start position:0%
+n to the fourth power
+ 
+
+00:02:41.360 --> 00:02:44.030 align:start position:0%
+n to the fourth power
+with<00:02:41.520><c> the</c><00:02:41.600><c> resolution</c><00:02:42.600><c> uh</c><00:02:42.800><c> compute</c><00:02:43.160><c> scaling.</c>
+
+00:02:44.030 --> 00:02:44.040 align:start position:0%
+with the resolution uh compute scaling.
+ 
+
+00:02:44.040 --> 00:02:45.790 align:start position:0%
+with the resolution uh compute scaling.
+We<00:02:44.120><c> have</c><00:02:44.200><c> no</c><00:02:44.360><c> inductive</c><00:02:44.720><c> bias.</c>
+
+00:02:45.790 --> 00:02:45.800 align:start position:0%
+We have no inductive bias.
+ 
+
+00:02:45.800 --> 00:02:48.430 align:start position:0%
+We have no inductive bias.
+The<00:02:45.960><c> thing</c><00:02:46.240><c> that</c><00:02:46.560><c> is</c><00:02:46.800><c> in</c><00:02:46.920><c> the</c><00:02:47.040><c> upper</c><00:02:47.280><c> left</c><00:02:48.320><c> can</c>
+
+00:02:48.430 --> 00:02:48.440 align:start position:0%
+The thing that is in the upper left can
+ 
+
+00:02:48.440 --> 00:02:49.630 align:start position:0%
+The thing that is in the upper left can
+have<00:02:48.600><c> a</c><00:02:48.640><c> totally</c><00:02:48.960><c> different</c><00:02:49.200><c> activation</c>
+
+00:02:49.630 --> 00:02:49.640 align:start position:0%
+have a totally different activation
+ 
+
+00:02:49.640 --> 00:02:53.390 align:start position:0%
+have a totally different activation
+pattern<00:02:50.280><c> if</c><00:02:50.440><c> it's</c><00:02:50.560><c> in</c><00:02:50.680><c> the</c><00:02:51.040><c> bottom</c><00:02:51.360><c> right.</c>
+
+00:02:53.390 --> 00:02:53.400 align:start position:0%
+pattern if it's in the bottom right.
+ 
+
+00:02:53.400 --> 00:02:55.790 align:start position:0%
+pattern if it's in the bottom right.
+And<00:02:53.840><c> so,</c><00:02:54.320><c> the</c><00:02:54.400><c> question</c><00:02:54.720><c> naturally</c><00:02:55.040><c> arises,</c>
+
+00:02:55.790 --> 00:02:55.800 align:start position:0%
+And so, the question naturally arises,
+ 
+
+00:02:55.800 --> 00:02:56.990 align:start position:0%
+And so, the question naturally arises,
+which<00:02:56.000><c> is</c><00:02:56.080><c> better?</c>
+
+00:02:56.990 --> 00:02:57.000 align:start position:0%
+which is better?
+ 
+
+00:02:57.000 --> 00:02:58.470 align:start position:0%
+which is better?
+The<00:02:57.080><c> high</c><00:02:57.280><c> inductive</c><00:02:57.640><c> bias</c><00:02:58.000><c> n-squared</c>
+
+00:02:58.470 --> 00:02:58.480 align:start position:0%
+The high inductive bias n-squared
+ 
+
+00:02:58.480 --> 00:02:59.910 align:start position:0%
+The high inductive bias n-squared
+convolutional<00:02:59.000><c> network</c><00:02:59.560><c> or</c><00:02:59.600><c> the</c><00:02:59.720><c> no</c>
+
+00:02:59.910 --> 00:02:59.920 align:start position:0%
+convolutional network or the no
+ 
+
+00:02:59.920 --> 00:03:01.590 align:start position:0%
+convolutional network or the no
+inductive<00:03:00.320><c> bias</c><00:03:00.760><c> n</c><00:03:00.920><c> to</c><00:03:01.000><c> the</c><00:03:01.080><c> fourth</c><00:03:01.360><c> power</c>
+
+00:03:01.590 --> 00:03:01.600 align:start position:0%
+inductive bias n to the fourth power
+ 
+
+00:03:01.600 --> 00:03:03.510 align:start position:0%
+inductive bias n to the fourth power
+VIT?
+
+00:03:03.510 --> 00:03:03.520 align:start position:0%
+VIT?
+ 
+
+00:03:03.520 --> 00:03:05.910 align:start position:0%
+VIT?
+So,<00:03:03.720><c> as</c><00:03:03.880><c> everyone</c><00:03:04.240><c> would</c><00:03:04.320><c> expect,</c>
+
+00:03:05.910 --> 00:03:05.920 align:start position:0%
+So, as everyone would expect,
+ 
+
+00:03:05.920 --> 00:03:09.110 align:start position:0%
+So, as everyone would expect,
+it's<00:03:06.120><c> the</c><00:03:06.200><c> VIT.</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+ 
+ 
+
+00:03:09.120 --> 00:03:10.510 align:start position:0%
+ 
+So,
+
+00:03:10.510 --> 00:03:10.520 align:start position:0%
+So,
+ 
+
+00:03:10.520 --> 00:03:12.830 align:start position:0%
+So,
+how<00:03:10.640><c> is</c><00:03:10.720><c> this</c><00:03:10.840><c> possible?</c>
+
+00:03:12.830 --> 00:03:12.840 align:start position:0%
+how is this possible?
+ 
+
+00:03:12.840 --> 00:03:14.870 align:start position:0%
+how is this possible?
+And<00:03:12.960><c> I'm</c><00:03:13.360><c> I'm</c><00:03:14.000><c> going</c><00:03:14.200><c> to</c><00:03:14.280><c> make</c><00:03:14.400><c> the</c><00:03:14.520><c> argument</c>
+
+00:03:14.870 --> 00:03:14.880 align:start position:0%
+And I'm I'm going to make the argument
+ 
+
+00:03:14.880 --> 00:03:16.790 align:start position:0%
+And I'm I'm going to make the argument
+that<00:03:15.040><c> it</c><00:03:15.120><c> is</c><00:03:15.240><c> because</c><00:03:15.560><c> of</c><00:03:16.200><c> massive</c>
+
+00:03:16.790 --> 00:03:16.800 align:start position:0%
+that it is because of massive
+ 
+
+00:03:16.800 --> 00:03:19.710 align:start position:0%
+that it is because of massive
+VIT-specific<00:03:17.920><c> pretraining,</c>
+
+00:03:19.710 --> 00:03:19.720 align:start position:0%
+VIT-specific pretraining,
+ 
+
+00:03:19.720 --> 00:03:21.990 align:start position:0%
+VIT-specific pretraining,
+and<00:03:19.880><c> then</c><00:03:20.400><c> we</c><00:03:20.520><c> get</c><00:03:20.680><c> to</c><00:03:20.800><c> borrow</c><00:03:21.200><c> a</c><00:03:21.240><c> lot</c><00:03:21.480><c> of</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+and then we get to borrow a lot of
+ 
+
+00:03:22.000 --> 00:03:23.510 align:start position:0%
+and then we get to borrow a lot of
+speedups<00:03:22.520><c> and</c><00:03:22.640><c> infrastructure</c><00:03:23.240><c> from</c><00:03:23.440><c> the</c>
+
+00:03:23.510 --> 00:03:23.520 align:start position:0%
+speedups and infrastructure from the
+ 
+
+00:03:23.520 --> 00:03:27.190 align:start position:0%
+speedups and infrastructure from the
+fact<00:03:23.760><c> that</c><00:03:23.960><c> LLMs</c><00:03:24.320><c> are</c><00:03:24.400><c> blowing</c><00:03:24.720><c> up.</c>
+
+00:03:27.190 --> 00:03:27.200 align:start position:0%
+ 
+ 
+
+00:03:27.200 --> 00:03:29.110 align:start position:0%
+ 
+So,
+
+00:03:29.110 --> 00:03:29.120 align:start position:0%
+So,
+ 
+
+00:03:29.120 --> 00:03:30.870 align:start position:0%
+So,
+to<00:03:29.680><c> trace</c><00:03:30.080><c> this</c><00:03:30.240><c> evolution,</c><00:03:30.640><c> we're</c><00:03:30.720><c> going</c><00:03:30.840><c> to</c>
+
+00:03:30.870 --> 00:03:30.880 align:start position:0%
+to trace this evolution, we're going to
+ 
+
+00:03:30.880 --> 00:03:32.110 align:start position:0%
+to trace this evolution, we're going to
+talk<00:03:31.000><c> about</c>
+
+00:03:32.110 --> 00:03:32.120 align:start position:0%
+talk about
+ 
+
+00:03:32.120 --> 00:03:33.550 align:start position:0%
+talk about
+we<00:03:32.360><c> we</c><00:03:32.480><c> just</c><00:03:32.680><c> talked</c><00:03:32.800><c> about</c><00:03:32.960><c> the</c><00:03:33.080><c> introduction</c>
+
+00:03:33.550 --> 00:03:33.560 align:start position:0%
+we we just talked about the introduction
+ 
+
+00:03:33.560 --> 00:03:34.950 align:start position:0%
+we we just talked about the introduction
+of<00:03:33.640><c> the</c><00:03:33.720><c> VIT,</c>
+
+00:03:34.950 --> 00:03:34.960 align:start position:0%
+of the VIT,
+ 
+
+00:03:34.960 --> 00:03:37.630 align:start position:0%
+of the VIT,
+then<00:03:35.920><c> how</c><00:03:36.120><c> it</c><00:03:36.560><c> how</c><00:03:36.720><c> people</c><00:03:37.000><c> tried</c><00:03:37.440><c> to</c><00:03:37.480><c> say,</c>
+
+00:03:37.630 --> 00:03:37.640 align:start position:0%
+then how it how people tried to say,
+ 
+
+00:03:37.640 --> 00:03:39.190 align:start position:0%
+then how it how people tried to say,
+"Okay,<00:03:37.880><c> well,</c><00:03:38.000><c> this</c><00:03:38.240><c> this</c><00:03:38.440><c> cannot</c><00:03:38.720><c> possibly</c>
+
+00:03:39.190 --> 00:03:39.200 align:start position:0%
+"Okay, well, this this cannot possibly
+ 
+
+00:03:39.200 --> 00:03:40.670 align:start position:0%
+"Okay, well, this this cannot possibly
+be<00:03:39.360><c> the</c><00:03:39.440><c> best</c><00:03:39.640><c> thing</c><00:03:39.800><c> that</c><00:03:39.960><c> we</c><00:03:40.000><c> can</c><00:03:40.120><c> do.</c><00:03:40.480><c> How</c><00:03:40.600><c> do</c>
+
+00:03:40.670 --> 00:03:40.680 align:start position:0%
+be the best thing that we can do. How do
+ 
+
+00:03:40.680 --> 00:03:42.110 align:start position:0%
+be the best thing that we can do. How do
+we<00:03:40.760><c> make</c><00:03:40.960><c> this</c><00:03:41.160><c> better?"</c>
+
+00:03:42.110 --> 00:03:42.120 align:start position:0%
+we make this better?"
+ 
+
+00:03:42.120 --> 00:03:43.750 align:start position:0%
+we make this better?"
+So,<00:03:42.320><c> we</c><00:03:42.440><c> go</c><00:03:42.600><c> to</c><00:03:42.720><c> Swin,</c>
+
+00:03:43.750 --> 00:03:43.760 align:start position:0%
+So, we go to Swin,
+ 
+
+00:03:43.760 --> 00:03:45.550 align:start position:0%
+So, we go to Swin,
+then<00:03:43.920><c> back</c><00:03:44.160><c> to</c><00:03:44.560><c> a</c><00:03:44.640><c> a</c><00:03:44.680><c> convolutional-based</c>
+
+00:03:45.550 --> 00:03:45.560 align:start position:0%
+then back to a a convolutional-based
+ 
+
+00:03:45.560 --> 00:03:48.990 align:start position:0%
+then back to a a convolutional-based
+network,<00:03:46.120><c> ConvNeXt,</c><00:03:47.120><c> then</c><00:03:47.600><c> uh</c><00:03:47.680><c> Hera,</c>
+
+00:03:48.990 --> 00:03:49.000 align:start position:0%
+network, ConvNeXt, then uh Hera,
+ 
+
+00:03:49.000 --> 00:03:51.190 align:start position:0%
+network, ConvNeXt, then uh Hera,
+um<00:03:49.320><c> which</c><00:03:49.520><c> I</c><00:03:49.560><c> think</c><00:03:49.760><c> is</c><00:03:49.960><c> a</c>
+
+00:03:51.190 --> 00:03:51.200 align:start position:0%
+um which I think is a
+ 
+
+00:03:51.200 --> 00:03:52.830 align:start position:0%
+um which I think is a
+kind<00:03:51.360><c> of</c><00:03:51.480><c> a</c><00:03:51.800><c> ha-</c><00:03:52.040><c> has</c><00:03:52.200><c> some</c><00:03:52.360><c> really</c><00:03:52.600><c> really</c>
+
+00:03:52.830 --> 00:03:52.840 align:start position:0%
+kind of a ha- has some really really
+ 
+
+00:03:52.840 --> 00:03:55.390 align:start position:0%
+kind of a ha- has some really really
+beautiful<00:03:53.120><c> takeaways.</c><00:03:54.080><c> And</c><00:03:54.240><c> then,</c>
+
+00:03:55.390 --> 00:03:55.400 align:start position:0%
+beautiful takeaways. And then,
+ 
+
+00:03:55.400 --> 00:03:57.230 align:start position:0%
+beautiful takeaways. And then,
+as<00:03:56.000><c> always</c><00:03:56.320><c> happens</c><00:03:56.600><c> with</c><00:03:56.720><c> machine</c><00:03:57.000><c> learning,</c>
+
+00:03:57.230 --> 00:03:57.240 align:start position:0%
+as always happens with machine learning,
+ 
+
+00:03:57.240 --> 00:03:59.670 align:start position:0%
+as always happens with machine learning,
+we<00:03:57.320><c> come</c><00:03:57.480><c> back</c><00:03:58.280><c> better</c><00:03:58.480><c> listen</c><00:03:58.960><c> to</c><00:03:59.120><c> the</c><00:03:59.320><c> simple</c>
+
+00:03:59.670 --> 00:03:59.680 align:start position:0%
+we come back better listen to the simple
+ 
+
+00:03:59.680 --> 00:04:05.190 align:start position:0%
+we come back better listen to the simple
+thing<00:04:00.000><c> that</c><00:04:00.400><c> scales</c><00:04:00.720><c> well,</c><00:04:01.520><c> the</c><00:04:01.600><c> VIT.</c>
+
+00:04:05.190 --> 00:04:05.200 align:start position:0%
+ 
+ 
+
+00:04:05.200 --> 00:04:06.430 align:start position:0%
+ 
+So,
+
+00:04:06.430 --> 00:04:06.440 align:start position:0%
+So,
+ 
+
+00:04:06.440 --> 00:04:08.110 align:start position:0%
+So,
+uh
+
+00:04:08.110 --> 00:04:08.120 align:start position:0%
+uh
+ 
+
+00:04:08.120 --> 00:04:10.230 align:start position:0%
+uh
+first<00:04:08.280><c> we're</c><00:04:08.360><c> going</c><00:04:08.480><c> to</c><00:04:08.520><c> start</c><00:04:08.640><c> with</c><00:04:08.800><c> Swin.</c>
+
+00:04:10.230 --> 00:04:10.240 align:start position:0%
+first we're going to start with Swin.
+ 
+
+00:04:10.240 --> 00:04:13.390 align:start position:0%
+first we're going to start with Swin.
+So,<00:04:10.480><c> we</c><00:04:10.600><c> have</c><00:04:10.760><c> this</c><00:04:11.080><c> patchify</c><00:04:11.600><c> operation,</c>
+
+00:04:13.390 --> 00:04:13.400 align:start position:0%
+So, we have this patchify operation,
+ 
+
+00:04:13.400 --> 00:04:15.350 align:start position:0%
+So, we have this patchify operation,
+and
+
+00:04:15.350 --> 00:04:15.360 align:start position:0%
+and
+ 
+
+00:04:15.360 --> 00:04:17.710 align:start position:0%
+and
+we<00:04:15.480><c> take</c><00:04:15.800><c> our</c><00:04:16.400><c> uh</c><00:04:16.480><c> our</c><00:04:16.600><c> patches,</c><00:04:17.239><c> and</c><00:04:17.320><c> we</c><00:04:17.440><c> split</c>
+
+00:04:17.710 --> 00:04:17.720 align:start position:0%
+we take our uh our patches, and we split
+ 
+
+00:04:17.720 --> 00:04:19.470 align:start position:0%
+we take our uh our patches, and we split
+them<00:04:18.000><c> instead</c><00:04:18.280><c> of</c><00:04:18.359><c> doing</c><00:04:18.600><c> global</c><00:04:18.880><c> attention</c>
+
+00:04:19.470 --> 00:04:19.480 align:start position:0%
+them instead of doing global attention
+ 
+
+00:04:19.480 --> 00:04:20.670 align:start position:0%
+them instead of doing global attention
+across<00:04:19.720><c> all</c><00:04:19.799><c> the</c><00:04:19.880><c> patches</c><00:04:20.160><c> at</c><00:04:20.280><c> once,</c><00:04:20.480><c> we</c><00:04:20.560><c> just</c>
+
+00:04:20.670 --> 00:04:20.680 align:start position:0%
+across all the patches at once, we just
+ 
+
+00:04:20.680 --> 00:04:22.310 align:start position:0%
+across all the patches at once, we just
+say,<00:04:20.799><c> "Okay,</c><00:04:21.000><c> we're</c><00:04:21.079><c> going</c><00:04:21.200><c> to</c><00:04:21.280><c> do</c><00:04:21.840><c> attention</c>
+
+00:04:22.310 --> 00:04:22.320 align:start position:0%
+say, "Okay, we're going to do attention
+ 
+
+00:04:22.320 --> 00:04:24.150 align:start position:0%
+say, "Okay, we're going to do attention
+this<00:04:22.480><c> window."</c>
+
+00:04:24.150 --> 00:04:24.160 align:start position:0%
+this window."
+ 
+
+00:04:24.160 --> 00:04:25.550 align:start position:0%
+this window."
+If<00:04:24.280><c> we</c><00:04:24.360><c> just</c><00:04:24.520><c> keep</c><00:04:24.680><c> doing</c><00:04:24.880><c> attention</c><00:04:25.280><c> in</c><00:04:25.400><c> this</c>
+
+00:04:25.550 --> 00:04:25.560 align:start position:0%
+If we just keep doing attention in this
+ 
+
+00:04:25.560 --> 00:04:28.670 align:start position:0%
+If we just keep doing attention in this
+window,<00:04:25.840><c> though,</c><00:04:26.240><c> the</c><00:04:26.560><c> the</c><00:04:27.480><c> uh</c><00:04:27.640><c> tokens</c><00:04:28.600><c> will</c>
+
+00:04:28.670 --> 00:04:28.680 align:start position:0%
+window, though, the the uh tokens will
+ 
+
+00:04:28.680 --> 00:04:30.630 align:start position:0%
+window, though, the the uh tokens will
+not<00:04:28.880><c> be</c><00:04:29.000><c> able</c><00:04:29.240><c> to</c><00:04:29.760><c> interact</c><00:04:30.240><c> with</c><00:04:30.360><c> each</c><00:04:30.480><c> other.</c>
+
+00:04:30.630 --> 00:04:30.640 align:start position:0%
+not be able to interact with each other.
+ 
+
+00:04:30.640 --> 00:04:33.110 align:start position:0%
+not be able to interact with each other.
+So,<00:04:30.720><c> these</c><00:04:30.960><c> two</c><00:04:31.760><c> will</c><00:04:31.840><c> never</c><00:04:32.040><c> see</c><00:04:32.160><c> each</c><00:04:32.320><c> other.</c>
+
+00:04:33.110 --> 00:04:33.120 align:start position:0%
+So, these two will never see each other.
+ 
+
+00:04:33.120 --> 00:04:34.470 align:start position:0%
+So, these two will never see each other.
+And<00:04:33.240><c> so,</c><00:04:33.360><c> the</c><00:04:33.480><c> next</c><00:04:33.720><c> layer,</c><00:04:34.040><c> in</c><00:04:34.160><c> fact,</c><00:04:34.360><c> we</c>
+
+00:04:34.470 --> 00:04:34.480 align:start position:0%
+And so, the next layer, in fact, we
+ 
+
+00:04:34.480 --> 00:04:36.310 align:start position:0%
+And so, the next layer, in fact, we
+shift<00:04:34.840><c> the</c><00:04:34.920><c> window</c><00:04:35.200><c> a</c><00:04:35.240><c> little</c><00:04:35.440><c> bit.</c><00:04:36.160><c> So,</c><00:04:36.200><c> we've</c>
+
+00:04:36.310 --> 00:04:36.320 align:start position:0%
+shift the window a little bit. So, we've
+ 
+
+00:04:36.320 --> 00:04:37.910 align:start position:0%
+shift the window a little bit. So, we've
+got<00:04:36.440><c> these</c><00:04:36.960><c> back-and-forth</c><00:04:37.480><c> overlapping</c>
+
+00:04:37.910 --> 00:04:37.920 align:start position:0%
+got these back-and-forth overlapping
+ 
+
+00:04:37.920 --> 00:04:40.310 align:start position:0%
+got these back-and-forth overlapping
+windows,<00:04:38.760><c> and</c><00:04:39.040><c> this</c><00:04:39.600><c> looks</c><00:04:39.920><c> very</c><00:04:40.120><c> very</c>
+
+00:04:40.310 --> 00:04:40.320 align:start position:0%
+windows, and this looks very very
+ 
+
+00:04:40.320 --> 00:04:42.190 align:start position:0%
+windows, and this looks very very
+similar<00:04:40.600><c> to</c><00:04:40.720><c> what</c><00:04:41.080><c> I</c><00:04:41.360><c> described</c><00:04:41.880><c> with</c><00:04:42.040><c> the</c>
+
+00:04:42.190 --> 00:04:42.200 align:start position:0%
+similar to what I described with the
+ 
+
+00:04:42.200 --> 00:04:43.470 align:start position:0%
+similar to what I described with the
+convolution.
+
+00:04:43.470 --> 00:04:43.480 align:start position:0%
+convolution.
+ 
+
+00:04:43.480 --> 00:04:45.350 align:start position:0%
+convolution.
+Yes,<00:04:43.800><c> so</c><00:04:44.120><c> we've</c><00:04:44.320><c> got</c><00:04:44.520><c> this</c><00:04:44.840><c> uh</c>
+
+00:04:45.350 --> 00:04:45.360 align:start position:0%
+Yes, so we've got this uh
+ 
+
+00:04:45.360 --> 00:04:46.750 align:start position:0%
+Yes, so we've got this uh
+similar-looking<00:04:46.080><c> operation</c><00:04:46.560><c> that</c><00:04:46.680><c> is</c>
+
+00:04:46.750 --> 00:04:46.760 align:start position:0%
+similar-looking operation that is
+ 
+
+00:04:46.760 --> 00:04:48.310 align:start position:0%
+similar-looking operation that is
+happening<00:04:47.200><c> on</c><00:04:47.320><c> these</c><00:04:47.680><c> sections</c><00:04:48.120><c> of</c><00:04:48.200><c> the</c>
+
+00:04:48.310 --> 00:04:48.320 align:start position:0%
+happening on these sections of the
+ 
+
+00:04:48.320 --> 00:04:49.710 align:start position:0%
+happening on these sections of the
+image,
+
+00:04:49.710 --> 00:04:49.720 align:start position:0%
+image,
+ 
+
+00:04:49.720 --> 00:04:51.430 align:start position:0%
+image,
+and<00:04:50.640><c> uh</c>
+
+00:04:51.430 --> 00:04:51.440 align:start position:0%
+and uh
+ 
+
+00:04:51.440 --> 00:04:53.390 align:start position:0%
+and uh
+then<00:04:51.600><c> we</c><00:04:51.720><c> end</c><00:04:51.840><c> up</c><00:04:51.920><c> with</c><00:04:52.080><c> like</c><00:04:52.360><c> overlap</c><00:04:53.040><c> between</c>
+
+00:04:53.390 --> 00:04:53.400 align:start position:0%
+then we end up with like overlap between
+ 
+
+00:04:53.400 --> 00:04:55.190 align:start position:0%
+then we end up with like overlap between
+the<00:04:53.480><c> filters,</c><00:04:54.440><c> the</c><00:04:54.520><c> locations</c><00:04:54.920><c> that</c><00:04:55.000><c> they</c><00:04:55.080><c> get</c>
+
+00:04:55.190 --> 00:04:55.200 align:start position:0%
+the filters, the locations that they get
+ 
+
+00:04:55.200 --> 00:04:58.310 align:start position:0%
+the filters, the locations that they get
+applied<00:04:55.520><c> on.</c><00:04:55.880><c> And</c><00:04:55.960><c> this</c><00:04:56.080><c> is</c><00:04:56.200><c> how</c><00:04:56.280><c> we</c><00:04:56.720><c> proceed.</c>
+
+00:04:58.310 --> 00:04:58.320 align:start position:0%
+applied on. And this is how we proceed.
+ 
+
+00:04:58.320 --> 00:05:00.710 align:start position:0%
+applied on. And this is how we proceed.
+And<00:04:58.600><c> this</c><00:04:58.720><c> actually</c><00:04:59.080><c> gets</c><00:04:59.320><c> us</c><00:04:59.640><c> down</c><00:04:59.920><c> to</c>
+
+00:05:00.710 --> 00:05:00.720 align:start position:0%
+And this actually gets us down to
+ 
+
+00:05:00.720 --> 00:05:03.270 align:start position:0%
+And this actually gets us down to
+n-squared<00:05:01.560><c> if</c><00:05:01.800><c> your</c><00:05:02.280><c> window</c><00:05:02.640><c> size</c><00:05:03.080><c> is</c>
+
+00:05:03.270 --> 00:05:03.280 align:start position:0%
+n-squared if your window size is
+ 
+
+00:05:03.280 --> 00:05:05.310 align:start position:0%
+n-squared if your window size is
+independent<00:05:03.760><c> of</c><00:05:03.840><c> your</c><00:05:03.960><c> resolution,</c>
+
+00:05:05.310 --> 00:05:05.320 align:start position:0%
+independent of your resolution,
+ 
+
+00:05:05.320 --> 00:05:07.110 align:start position:0%
+independent of your resolution,
+and<00:05:05.560><c> it</c><00:05:05.680><c> adds</c><00:05:05.840><c> a</c><00:05:05.920><c> locality</c><00:05:06.480><c> inductive</c><00:05:06.840><c> bias</c>
+
+00:05:07.110 --> 00:05:07.120 align:start position:0%
+and it adds a locality inductive bias
+ 
+
+00:05:07.120 --> 00:05:08.470 align:start position:0%
+and it adds a locality inductive bias
+following<00:05:07.440><c> the</c><00:05:07.720><c> convolutional</c><00:05:08.160><c> net.</c><00:05:08.360><c> So,</c>
+
+00:05:08.470 --> 00:05:08.480 align:start position:0%
+following the convolutional net. So,
+ 
+
+00:05:08.480 --> 00:05:10.070 align:start position:0%
+following the convolutional net. So,
+that<00:05:08.840><c> that</c><00:05:09.000><c> seems</c><00:05:09.200><c> logical.</c><00:05:09.800><c> That</c><00:05:09.920><c> makes</c>
+
+00:05:10.070 --> 00:05:10.080 align:start position:0%
+that that seems logical. That makes
+ 
+
+00:05:10.080 --> 00:05:11.310 align:start position:0%
+that that seems logical. That makes
+sense.
+
+00:05:11.310 --> 00:05:11.320 align:start position:0%
+sense.
+ 
+
+00:05:11.320 --> 00:05:13.950 align:start position:0%
+sense.
+Um
+
+00:05:13.950 --> 00:05:13.960 align:start position:0%
+Um
+ 
+
+00:05:13.960 --> 00:05:15.950 align:start position:0%
+Um
+then<00:05:14.040><c> we</c><00:05:14.160><c> go</c><00:05:14.320><c> to</c><00:05:14.560><c> the</c><00:05:15.200><c> uh</c>
+
+00:05:15.950 --> 00:05:15.960 align:start position:0%
+then we go to the uh
+ 
+
+00:05:15.960 --> 00:05:17.790 align:start position:0%
+then we go to the uh
+someone<00:05:16.440><c> said,</c>
+
+00:05:17.790 --> 00:05:17.800 align:start position:0%
+someone said,
+ 
+
+00:05:17.800 --> 00:05:19.430 align:start position:0%
+someone said,
+"Okay,<00:05:18.200><c> look,</c><00:05:18.600><c> there's</c><00:05:18.840><c> this</c><00:05:18.960><c> transformer</c>
+
+00:05:19.430 --> 00:05:19.440 align:start position:0%
+"Okay, look, there's this transformer
+ 
+
+00:05:19.440 --> 00:05:21.310 align:start position:0%
+"Okay, look, there's this transformer
+operation<00:05:19.920><c> that</c><00:05:20.040><c> has</c><00:05:20.280><c> no</c><00:05:20.720><c> inherent</c>
+
+00:05:21.310 --> 00:05:21.320 align:start position:0%
+operation that has no inherent
+ 
+
+00:05:21.320 --> 00:05:23.350 align:start position:0%
+operation that has no inherent
+relationship<00:05:22.080><c> with</c>
+
+00:05:23.350 --> 00:05:23.360 align:start position:0%
+relationship with
+ 
+
+00:05:23.360 --> 00:05:24.830 align:start position:0%
+relationship with
+vision.<00:05:24.320><c> Let's</c><00:05:24.480><c> go</c><00:05:24.560><c> back</c><00:05:24.720><c> to</c><00:05:24.760><c> the</c>
+
+00:05:24.830 --> 00:05:24.840 align:start position:0%
+vision. Let's go back to the
+ 
+
+00:05:24.840 --> 00:05:27.830 align:start position:0%
+vision. Let's go back to the
+convolutional
+
+00:05:27.830 --> 00:05:27.840 align:start position:0%
+convolutional
+ 
+
+00:05:27.840 --> 00:05:29.710 align:start position:0%
+convolutional
+network.<00:05:28.160><c> Let's</c><00:05:28.520><c> take</c><00:05:28.920><c> all</c><00:05:29.200><c> the</c><00:05:29.360><c> learnings</c>
+
+00:05:29.710 --> 00:05:29.720 align:start position:0%
+network. Let's take all the learnings
+ 
+
+00:05:29.720 --> 00:05:31.510 align:start position:0%
+network. Let's take all the learnings
+that<00:05:29.840><c> we've</c><00:05:30.000><c> had</c><00:05:30.360><c> from</c><00:05:30.640><c> the</c><00:05:30.720><c> vision</c>
+
+00:05:31.510 --> 00:05:31.520 align:start position:0%
+that we've had from the vision
+ 
+
+00:05:31.520 --> 00:05:33.110 align:start position:0%
+that we've had from the vision
+transformers<00:05:32.240><c> and</c><00:05:32.360><c> just</c><00:05:32.440><c> spit</c><00:05:32.720><c> them</c><00:05:32.880><c> into</c><00:05:33.080><c> a</c>
+
+00:05:33.110 --> 00:05:33.120 align:start position:0%
+transformers and just spit them into a
+ 
+
+00:05:33.120 --> 00:05:34.270 align:start position:0%
+transformers and just spit them into a
+convolutional<00:05:33.560><c> network</c><00:05:33.800><c> and</c><00:05:33.880><c> see</c><00:05:34.000><c> what</c><00:05:34.120><c> do</c><00:05:34.240><c> a</c>
+
+00:05:34.270 --> 00:05:34.280 align:start position:0%
+convolutional network and see what do a
+ 
+
+00:05:34.280 --> 00:05:35.990 align:start position:0%
+convolutional network and see what do a
+patchify<00:05:34.760><c> operation.</c>
+
+00:05:35.990 --> 00:05:36.000 align:start position:0%
+patchify operation.
+ 
+
+00:05:36.000 --> 00:05:36.870 align:start position:0%
+patchify operation.
+We<00:05:36.080><c> do</c><00:05:36.240><c> a</c>
+
+00:05:36.870 --> 00:05:36.880 align:start position:0%
+We do a
+ 
+
+00:05:36.880 --> 00:05:38.590 align:start position:0%
+We do a
+I<00:05:36.920><c> think</c><00:05:37.080><c> it</c><00:05:37.120><c> was</c><00:05:37.240><c> a</c>
+
+00:05:38.590 --> 00:05:38.600 align:start position:0%
+I think it was a
+ 
+
+00:05:38.600 --> 00:05:40.630 align:start position:0%
+I think it was a
+it<00:05:38.680><c> was</c><00:05:38.800><c> a</c><00:05:38.840><c> 4</c><00:05:39.040><c> by</c><00:05:39.160><c> 4</c><00:05:39.400><c> patch</c><00:05:39.840><c> instead</c><00:05:40.040><c> of</c><00:05:40.120><c> a</c><00:05:40.160><c> 16</c><00:05:40.520><c> by</c>
+
+00:05:40.630 --> 00:05:40.640 align:start position:0%
+it was a 4 by 4 patch instead of a 16 by
+ 
+
+00:05:40.640 --> 00:05:42.150 align:start position:0%
+it was a 4 by 4 patch instead of a 16 by
+16<00:05:41.000><c> patch,</c>
+
+00:05:42.150 --> 00:05:42.160 align:start position:0%
+16 patch,
+ 
+
+00:05:42.160 --> 00:05:44.190 align:start position:0%
+16 patch,
+and<00:05:42.640><c> we're</c><00:05:42.720><c> going</c><00:05:42.840><c> to</c><00:05:42.920><c> say,</c>
+
+00:05:44.190 --> 00:05:44.200 align:start position:0%
+and we're going to say,
+ 
+
+00:05:44.200 --> 00:05:46.430 align:start position:0%
+and we're going to say,
+"Our<00:05:44.320><c> VIT</c><00:05:45.240><c> was</c>
+
+00:05:46.430 --> 00:05:46.440 align:start position:0%
+"Our VIT was
+ 
+
+00:05:46.440 --> 00:05:48.070 align:start position:0%
+"Our VIT was
+as<00:05:46.560><c> all</c><00:05:46.680><c> transformers,</c>
+
+00:05:48.070 --> 00:05:48.080 align:start position:0%
+as all transformers,
+ 
+
+00:05:48.080 --> 00:05:49.350 align:start position:0%
+as all transformers,
+a
+
+00:05:49.350 --> 00:05:49.360 align:start position:0%
+a
+ 
+
+00:05:49.360 --> 00:05:50.870 align:start position:0%
+a
+self-attention,<00:05:50.320><c> feed-forward,</c>
+
+00:05:50.870 --> 00:05:50.880 align:start position:0%
+self-attention, feed-forward,
+ 
+
+00:05:50.880 --> 00:05:53.350 align:start position:0%
+self-attention, feed-forward,
+self-attention,<00:05:51.320><c> feed-forward,</c><00:05:51.800><c> etc.</c>
+
+00:05:53.350 --> 00:05:53.360 align:start position:0%
+self-attention, feed-forward, etc.
+ 
+
+00:05:53.360 --> 00:05:55.830 align:start position:0%
+self-attention, feed-forward, etc.
+And<00:05:54.440><c> that</c><00:05:54.680><c> self-attention</c><00:05:55.200><c> is</c><00:05:55.320><c> mixing</c><00:05:55.720><c> your</c>
+
+00:05:55.830 --> 00:05:55.840 align:start position:0%
+And that self-attention is mixing your
+ 
+
+00:05:55.840 --> 00:05:57.350 align:start position:0%
+And that self-attention is mixing your
+spatial<00:05:56.160><c> information.</c>
+
+00:05:57.350 --> 00:05:57.360 align:start position:0%
+spatial information.
+ 
+
+00:05:57.360 --> 00:05:58.190 align:start position:0%
+spatial information.
+Okay?
+
+00:05:58.190 --> 00:05:58.200 align:start position:0%
+Okay?
+ 
+
+00:05:58.200 --> 00:06:00.550 align:start position:0%
+Okay?
+So,<00:05:59.200><c> for</c><00:05:59.320><c> the</c><00:05:59.400><c> convolutional</c><00:06:00.000><c> network,</c><00:06:00.440><c> what</c>
+
+00:06:00.550 --> 00:06:00.560 align:start position:0%
+So, for the convolutional network, what
+ 
+
+00:06:00.560 --> 00:06:01.550 align:start position:0%
+So, for the convolutional network, what
+if<00:06:00.680><c> we</c><00:06:00.760><c> just</c><00:06:00.920><c> say,</c><00:06:01.080><c> 'Okay,</c><00:06:01.280><c> we're</c><00:06:01.360><c> going</c><00:06:01.480><c> to</c>
+
+00:06:01.550 --> 00:06:01.560 align:start position:0%
+if we just say, 'Okay, we're going to
+ 
+
+00:06:01.560 --> 00:06:02.830 align:start position:0%
+if we just say, 'Okay, we're going to
+have<00:06:01.680><c> the</c><00:06:01.760><c> convolution</c><00:06:02.280><c> mix</c><00:06:02.440><c> the</c><00:06:02.520><c> spatial</c>
+
+00:06:02.830 --> 00:06:02.840 align:start position:0%
+have the convolution mix the spatial
+ 
+
+00:06:02.840 --> 00:06:03.790 align:start position:0%
+have the convolution mix the spatial
+information.<00:06:03.240><c> We're</c><00:06:03.320><c> going</c><00:06:03.440><c> to</c><00:06:03.520><c> do</c><00:06:03.560><c> the</c><00:06:03.640><c> same</c>
+
+00:06:03.790 --> 00:06:03.800 align:start position:0%
+information. We're going to do the same
+ 
+
+00:06:03.800 --> 00:06:05.110 align:start position:0%
+information. We're going to do the same
+pattern.
+
+00:06:05.110 --> 00:06:05.120 align:start position:0%
+pattern.
+ 
+
+00:06:05.120 --> 00:06:06.990 align:start position:0%
+pattern.
+Uh<00:06:05.320><c> mixer,</c>
+
+00:06:06.990 --> 00:06:07.000 align:start position:0%
+Uh mixer,
+ 
+
+00:06:07.000 --> 00:06:08.630 align:start position:0%
+Uh mixer,
+feed-forward,<00:06:07.600><c> mixer,</c><00:06:07.880><c> feed-forward,</c>
+
+00:06:08.630 --> 00:06:08.640 align:start position:0%
+feed-forward, mixer, feed-forward,
+ 
+
+00:06:08.640 --> 00:06:09.870 align:start position:0%
+feed-forward, mixer, feed-forward,
+onwards.'<00:06:09.240><c> And</c><00:06:09.320><c> we're</c><00:06:09.400><c> going</c><00:06:09.520><c> to</c><00:06:09.560><c> borrow</c><00:06:09.760><c> the</c>
+
+00:06:09.870 --> 00:06:09.880 align:start position:0%
+onwards.' And we're going to borrow the
+ 
+
+00:06:09.880 --> 00:06:11.310 align:start position:0%
+onwards.' And we're going to borrow the
+same<00:06:10.120><c> hierarchical</c><00:06:10.680><c> structure</c><00:06:11.160><c> that</c>
+
+00:06:11.310 --> 00:06:11.320 align:start position:0%
+same hierarchical structure that
+ 
+
+00:06:11.320 --> 00:06:12.870 align:start position:0%
+same hierarchical structure that
+everyone<00:06:12.080><c> has</c><00:06:12.240><c> been</c><00:06:12.360><c> using</c><00:06:12.640><c> for</c><00:06:12.760><c> these</c>
+
+00:06:12.870 --> 00:06:12.880 align:start position:0%
+everyone has been using for these
+ 
+
+00:06:12.880 --> 00:06:14.950 align:start position:0%
+everyone has been using for these
+convolutional<00:06:13.320><c> networks."</c>
+
+00:06:14.950 --> 00:06:14.960 align:start position:0%
+convolutional networks."
+ 
+
+00:06:14.960 --> 00:06:16.750 align:start position:0%
+convolutional networks."
+And<00:06:15.920><c> uh</c>
+
+00:06:16.750 --> 00:06:16.760 align:start position:0%
+And uh
+ 
+
+00:06:16.760 --> 00:06:18.350 align:start position:0%
+And uh
+also<00:06:17.040><c> throw</c><00:06:17.240><c> in</c><00:06:17.520><c> layer</c><00:06:17.720><c> norm</c><00:06:18.000><c> and</c><00:06:18.080><c> a</c><00:06:18.120><c> couple</c>
+
+00:06:18.350 --> 00:06:18.360 align:start position:0%
+also throw in layer norm and a couple
+ 
+
+00:06:18.360 --> 00:06:20.910 align:start position:0%
+also throw in layer norm and a couple
+other<00:06:19.120><c> innovations,</c><00:06:20.160><c> and</c><00:06:20.320><c> that's</c><00:06:20.520><c> it.</c><00:06:20.840><c> We're</c>
+
+00:06:20.910 --> 00:06:20.920 align:start position:0%
+other innovations, and that's it. We're
+ 
+
+00:06:20.920 --> 00:06:22.630 align:start position:0%
+other innovations, and that's it. We're
+going<00:06:21.040><c> to</c><00:06:21.080><c> try</c><00:06:21.200><c> that.</c><00:06:21.840><c> Turns</c><00:06:22.080><c> out</c><00:06:22.160><c> that</c><00:06:22.360><c> beats</c>
+
+00:06:22.630 --> 00:06:22.640 align:start position:0%
+going to try that. Turns out that beats
+ 
+
+00:06:22.640 --> 00:06:25.790 align:start position:0%
+going to try that. Turns out that beats
+VIT<00:06:22.960><c> and</c><00:06:23.080><c> Swin</c><00:06:23.800><c> when</c><00:06:23.960><c> you</c><00:06:24.080><c> apply</c><00:06:24.400><c> it</c><00:06:24.640><c> on</c><00:06:24.920><c> the</c><00:06:25.440><c> uh</c>
+
+00:06:25.790 --> 00:06:25.800 align:start position:0%
+VIT and Swin when you apply it on the uh
+ 
+
+00:06:25.800 --> 00:06:28.470 align:start position:0%
+VIT and Swin when you apply it on the uh
+standard<00:06:27.000><c> ImageNet</c>
+
+00:06:28.470 --> 00:06:28.480 align:start position:0%
+standard ImageNet
+ 
+
+00:06:28.480 --> 00:06:30.510 align:start position:0%
+standard ImageNet
+reference.
+
+00:06:30.510 --> 00:06:30.520 align:start position:0%
+reference.
+ 
+
+00:06:30.520 --> 00:06:32.150 align:start position:0%
+reference.
+That's<00:06:30.720><c> great.</c><00:06:31.400><c> Finally,</c><00:06:31.760><c> we</c><00:06:31.840><c> have</c><00:06:31.960><c> something</c>
+
+00:06:32.150 --> 00:06:32.160 align:start position:0%
+That's great. Finally, we have something
+ 
+
+00:06:32.160 --> 00:06:35.430 align:start position:0%
+That's great. Finally, we have something
+that<00:06:32.280><c> makes</c><00:06:32.440><c> a</c><00:06:32.480><c> little</c><00:06:32.640><c> bit</c><00:06:32.720><c> of</c><00:06:32.800><c> sense.</c>
+
+00:06:35.430 --> 00:06:35.440 align:start position:0%
+ 
+ 
+
+00:06:35.440 --> 00:06:37.150 align:start position:0%
+ 
+Um
+
+00:06:37.150 --> 00:06:37.160 align:start position:0%
+Um
+ 
+
+00:06:37.160 --> 00:06:41.270 align:start position:0%
+Um
+turns<00:06:37.360><c> out</c><00:06:37.440><c> that's</c><00:06:37.640><c> not</c><00:06:38.040><c> super</c><00:06:38.400><c> fast.</c>
+
+00:06:41.270 --> 00:06:41.280 align:start position:0%
+ 
+ 
+
+00:06:41.280 --> 00:06:42.470 align:start position:0%
+ 
+So,
+
+00:06:42.470 --> 00:06:42.480 align:start position:0%
+So,
+ 
+
+00:06:42.480 --> 00:06:44.910 align:start position:0%
+So,
+someone<00:06:43.400><c> uh</c><00:06:43.520><c> Meta</c><00:06:44.080><c> decided,</c><00:06:44.440><c> "Okay,</c><00:06:44.680><c> what</c>
+
+00:06:44.910 --> 00:06:44.920 align:start position:0%
+someone uh Meta decided, "Okay, what
+ 
+
+00:06:44.920 --> 00:06:46.230 align:start position:0%
+someone uh Meta decided, "Okay, what
+what<00:06:45.200><c> what</c><00:06:45.360><c> are</c><00:06:45.520><c> what</c><00:06:45.640><c> are</c><00:06:45.680><c> the</c><00:06:45.760><c> actual</c>
+
+00:06:46.230 --> 00:06:46.240 align:start position:0%
+what what are what are the actual
+ 
+
+00:06:46.240 --> 00:06:48.590 align:start position:0%
+what what are what are the actual
+important<00:06:46.600><c> things</c><00:06:46.800><c> here?</c><00:06:47.360><c> The</c><00:06:47.560><c> ConvNeXt</c><00:06:48.440><c> has</c>
+
+00:06:48.590 --> 00:06:48.600 align:start position:0%
+important things here? The ConvNeXt has
+ 
+
+00:06:48.600 --> 00:06:50.110 align:start position:0%
+important things here? The ConvNeXt has
+a<00:06:48.640><c> bunch</c><00:06:48.840><c> of</c><00:06:49.160><c> these</c><00:06:49.440><c> beautiful</c><00:06:49.760><c> inductive</c>
+
+00:06:50.110 --> 00:06:50.120 align:start position:0%
+a bunch of these beautiful inductive
+ 
+
+00:06:50.120 --> 00:06:52.510 align:start position:0%
+a bunch of these beautiful inductive
+biases.<00:06:50.600><c> It's</c><00:06:50.720><c> following</c><00:06:51.080><c> this</c><00:06:51.840><c> formula</c><00:06:52.400><c> that</c>
+
+00:06:52.510 --> 00:06:52.520 align:start position:0%
+biases. It's following this formula that
+ 
+
+00:06:52.520 --> 00:06:55.750 align:start position:0%
+biases. It's following this formula that
+we<00:06:52.640><c> got</c><00:06:52.920><c> from</c><00:06:53.040><c> the</c><00:06:53.120><c> transformer.</c>
+
+00:06:55.750 --> 00:06:55.760 align:start position:0%
+we got from the transformer.
+ 
+
+00:06:55.760 --> 00:06:58.030 align:start position:0%
+we got from the transformer.
+Let's<00:06:56.600><c> look</c><00:06:56.800><c> at</c><00:06:57.160><c> what</c><00:06:57.520><c> those</c><00:06:57.720><c> inductive</c>
+
+00:06:58.030 --> 00:06:58.040 align:start position:0%
+Let's look at what those inductive
+ 
+
+00:06:58.040 --> 00:07:00.590 align:start position:0%
+Let's look at what those inductive
+biases<00:06:58.440><c> are</c><00:06:58.520><c> actually</c><00:06:59.160><c> useful</c><00:06:59.600><c> for.</c><00:07:00.000><c> So,</c>
+
+00:07:00.590 --> 00:07:00.600 align:start position:0%
+biases are actually useful for. So,
+ 
+
+00:07:00.600 --> 00:07:02.390 align:start position:0%
+biases are actually useful for. So,
+we're<00:07:00.680><c> going</c><00:07:00.800><c> to</c><00:07:00.840><c> take</c><00:07:01.000><c> a</c><00:07:01.080><c> really</c><00:07:01.400><c> really</c><00:07:01.600><c> good</c>
+
+00:07:02.390 --> 00:07:02.400 align:start position:0%
+we're going to take a really really good
+ 
+
+00:07:02.400 --> 00:07:04.310 align:start position:0%
+we're going to take a really really good
+inductively<00:07:02.840><c> biased</c><00:07:03.280><c> transformer</c><00:07:03.680><c> model.</c>
+
+00:07:04.310 --> 00:07:04.320 align:start position:0%
+inductively biased transformer model.
+ 
+
+00:07:04.320 --> 00:07:05.710 align:start position:0%
+inductively biased transformer model.
+We're<00:07:04.400><c> going</c><00:07:04.520><c> to</c><00:07:04.560><c> strip</c><00:07:04.920><c> out</c><00:07:05.080><c> the</c><00:07:05.160><c> biases</c><00:07:05.600><c> one</c>
+
+00:07:05.710 --> 00:07:05.720 align:start position:0%
+We're going to strip out the biases one
+ 
+
+00:07:05.720 --> 00:07:07.550 align:start position:0%
+We're going to strip out the biases one
+at<00:07:05.840><c> a</c><00:07:05.880><c> time.</c><00:07:06.480><c> We're</c><00:07:06.560><c> going</c><00:07:06.680><c> to</c><00:07:06.760><c> get</c><00:07:06.880><c> a</c><00:07:06.920><c> speedup</c>
+
+00:07:07.550 --> 00:07:07.560 align:start position:0%
+at a time. We're going to get a speedup
+ 
+
+00:07:07.560 --> 00:07:08.350 align:start position:0%
+at a time. We're going to get a speedup
+because<00:07:07.760><c> we</c><00:07:07.840><c> don't</c><00:07:08.000><c> have</c><00:07:08.160><c> all</c><00:07:08.240><c> the</c>
+
+00:07:08.350 --> 00:07:08.360 align:start position:0%
+because we don't have all the
+ 
+
+00:07:08.360 --> 00:07:10.430 align:start position:0%
+because we don't have all the
+specialized<00:07:08.920><c> equipment</c><00:07:09.800><c> anymore</c><00:07:10.200><c> for</c><00:07:10.320><c> the</c>
+
+00:07:10.430 --> 00:07:10.440 align:start position:0%
+specialized equipment anymore for the
+ 
+
+00:07:10.440 --> 00:07:12.190 align:start position:0%
+specialized equipment anymore for the
+inductive<00:07:10.800><c> bias,</c><00:07:11.760><c> and</c><00:07:11.840><c> we're</c><00:07:11.920><c> going</c><00:07:12.040><c> to</c><00:07:12.080><c> use</c>
+
+00:07:12.190 --> 00:07:12.200 align:start position:0%
+inductive bias, and we're going to use
+ 
+
+00:07:12.200 --> 00:07:14.790 align:start position:0%
+inductive bias, and we're going to use
+pretraining<00:07:12.720><c> to</c><00:07:12.800><c> learn</c><00:07:13.000><c> the</c><00:07:13.080><c> bias</c><00:07:13.360><c> instead."</c>
+
+00:07:14.790 --> 00:07:14.800 align:start position:0%
+pretraining to learn the bias instead."
+ 
+
+00:07:14.800 --> 00:07:16.750 align:start position:0%
+pretraining to learn the bias instead."
+So,<00:07:15.200><c> this</c><00:07:15.400><c> is</c><00:07:15.640><c> I</c><00:07:15.680><c> think</c><00:07:16.000><c> a</c><00:07:16.240><c> really</c><00:07:16.520><c> really</c>
+
+00:07:16.750 --> 00:07:16.760 align:start position:0%
+So, this is I think a really really
+ 
+
+00:07:16.760 --> 00:07:19.310 align:start position:0%
+So, this is I think a really really
+great<00:07:16.960><c> example</c><00:07:17.440><c> of</c><00:07:17.680><c> the</c><00:07:18.400><c> balance</c><00:07:18.840><c> between</c>
+
+00:07:19.310 --> 00:07:19.320 align:start position:0%
+great example of the balance between
+ 
+
+00:07:19.320 --> 00:07:22.270 align:start position:0%
+great example of the balance between
+pretraining<00:07:20.120><c> and</c><00:07:20.680><c> inherent</c><00:07:21.120><c> inductive</c><00:07:21.440><c> bias,</c>
+
+00:07:22.270 --> 00:07:22.280 align:start position:0%
+pretraining and inherent inductive bias,
+ 
+
+00:07:22.280 --> 00:07:23.870 align:start position:0%
+pretraining and inherent inductive bias,
+which<00:07:22.440><c> ends</c><00:07:22.600><c> up</c><00:07:22.680><c> being</c><00:07:22.960><c> how</c><00:07:23.440><c> transformers</c>
+
+00:07:23.870 --> 00:07:23.880 align:start position:0%
+which ends up being how transformers
+ 
+
+00:07:23.880 --> 00:07:26.710 align:start position:0%
+which ends up being how transformers
+ultimately<00:07:24.320><c> win</c><00:07:24.480><c> out.</c><00:07:25.200><c> Here</c><00:07:25.400><c> we're</c><00:07:25.560><c> using</c><00:07:26.440><c> uh</c>
+
+00:07:26.710 --> 00:07:26.720 align:start position:0%
+ultimately win out. Here we're using uh
+ 
+
+00:07:26.720 --> 00:07:27.310 align:start position:0%
+ultimately win out. Here we're using uh
+uh
+
+00:07:27.310 --> 00:07:27.320 align:start position:0%
+uh
+ 
+
+00:07:27.320 --> 00:07:29.670 align:start position:0%
+uh
+MAE,<00:07:27.960><c> masked</c><00:07:28.280><c> autoencoder,</c>
+
+00:07:29.670 --> 00:07:29.680 align:start position:0%
+MAE, masked autoencoder,
+ 
+
+00:07:29.680 --> 00:07:31.150 align:start position:0%
+MAE, masked autoencoder,
+um<00:07:30.320><c> for</c><00:07:30.560><c> those</c><00:07:30.680><c> of</c><00:07:30.800><c> you</c><00:07:30.880><c> who</c><00:07:30.960><c> are</c><00:07:31.040><c> not</c>
+
+00:07:31.150 --> 00:07:31.160 align:start position:0%
+um for those of you who are not
+ 
+
+00:07:31.160 --> 00:07:32.510 align:start position:0%
+um for those of you who are not
+familiar,
+
+00:07:32.510 --> 00:07:32.520 align:start position:0%
+familiar,
+ 
+
+00:07:32.520 --> 00:07:33.430 align:start position:0%
+familiar,
+you<00:07:32.560><c> take</c><00:07:32.760><c> your</c><00:07:32.880><c> image,</c><00:07:33.120><c> you</c><00:07:33.200><c> take</c><00:07:33.360><c> your</c>
+
+00:07:33.430 --> 00:07:33.440 align:start position:0%
+you take your image, you take your
+ 
+
+00:07:33.440 --> 00:07:34.910 align:start position:0%
+you take your image, you take your
+patches,<00:07:34.040><c> you</c><00:07:34.120><c> drop</c><00:07:34.480><c> a</c><00:07:34.520><c> bunch</c><00:07:34.760><c> of</c><00:07:34.840><c> the</c>
+
+00:07:34.910 --> 00:07:34.920 align:start position:0%
+patches, you drop a bunch of the
+ 
+
+00:07:34.920 --> 00:07:37.910 align:start position:0%
+patches, you drop a bunch of the
+patches,<00:07:35.800><c> and</c><00:07:36.040><c> you</c><00:07:36.120><c> ask</c><00:07:36.560><c> the</c>
+
+00:07:37.910 --> 00:07:37.920 align:start position:0%
+patches, and you ask the
+ 
+
+00:07:37.920 --> 00:07:39.790 align:start position:0%
+patches, and you ask the
+the<00:07:37.960><c> model</c><00:07:38.400><c> to</c><00:07:38.680><c> reconstruct</c><00:07:39.440><c> what</c><00:07:39.600><c> would</c><00:07:39.720><c> have</c>
+
+00:07:39.790 --> 00:07:39.800 align:start position:0%
+the model to reconstruct what would have
+ 
+
+00:07:39.800 --> 00:07:41.350 align:start position:0%
+the model to reconstruct what would have
+been<00:07:39.920><c> in</c><00:07:40.000><c> the</c><00:07:40.080><c> patches</c>
+
+00:07:41.350 --> 00:07:41.360 align:start position:0%
+been in the patches
+ 
+
+00:07:41.360 --> 00:07:44.070 align:start position:0%
+been in the patches
+just<00:07:41.560><c> based</c><00:07:41.760><c> on</c><00:07:41.800><c> the</c><00:07:41.880><c> context.</c>
+
+00:07:44.070 --> 00:07:44.080 align:start position:0%
+just based on the context.
+ 
+
+00:07:44.080 --> 00:07:46.030 align:start position:0%
+just based on the context.
+Very<00:07:44.280><c> very</c><00:07:44.480><c> similar</c><00:07:44.760><c> to</c><00:07:44.880><c> BERT</c>
+
+00:07:46.030 --> 00:07:46.040 align:start position:0%
+Very very similar to BERT
+ 
+
+00:07:46.040 --> 00:07:47.270 align:start position:0%
+Very very similar to BERT
+for<00:07:46.320><c> those</c><00:07:46.600><c> of</c><00:07:46.720><c> you</c><00:07:46.840><c> who</c><00:07:46.920><c> come</c><00:07:47.080><c> from</c><00:07:47.200><c> the</c>
+
+00:07:47.270 --> 00:07:47.280 align:start position:0%
+for those of you who come from the
+ 
+
+00:07:47.280 --> 00:07:48.990 align:start position:0%
+for those of you who come from the
+language<00:07:47.600><c> space.</c>
+
+00:07:48.990 --> 00:07:49.000 align:start position:0%
+language space.
+ 
+
+00:07:49.000 --> 00:07:50.470 align:start position:0%
+language space.
+Uh
+
+00:07:50.470 --> 00:07:50.480 align:start position:0%
+Uh
+ 
+
+00:07:50.480 --> 00:07:52.590 align:start position:0%
+Uh
+you<00:07:50.560><c> do</c><00:07:50.680><c> this</c><00:07:50.840><c> at</c><00:07:50.960><c> scale,</c><00:07:51.800><c> and</c><00:07:52.160><c> it</c><00:07:52.240><c> turns</c><00:07:52.480><c> out</c>
+
+00:07:52.590 --> 00:07:52.600 align:start position:0%
+you do this at scale, and it turns out
+ 
+
+00:07:52.600 --> 00:07:54.070 align:start position:0%
+you do this at scale, and it turns out
+the<00:07:52.680><c> model</c><00:07:53.120><c> actually</c><00:07:53.480><c> learns</c><00:07:53.800><c> back</c><00:07:54.000><c> the</c>
+
+00:07:54.070 --> 00:07:54.080 align:start position:0%
+the model actually learns back the
+ 
+
+00:07:54.080 --> 00:07:55.830 align:start position:0%
+the model actually learns back the
+inductive<00:07:54.400><c> biases.</c>
+
+00:07:55.830 --> 00:07:55.840 align:start position:0%
+inductive biases.
+ 
+
+00:07:55.840 --> 00:07:58.910 align:start position:0%
+inductive biases.
+But,<00:07:56.480><c> you</c><00:07:56.600><c> can't</c><00:07:57.200><c> actually</c><00:07:57.520><c> apply</c><00:07:57.920><c> MAE</c><00:07:58.400><c> to</c><00:07:58.840><c> a</c>
+
+00:07:58.910 --> 00:07:58.920 align:start position:0%
+But, you can't actually apply MAE to a
+ 
+
+00:07:58.920 --> 00:08:00.990 align:start position:0%
+But, you can't actually apply MAE to a
+convolutional<00:07:59.520><c> network.</c><00:08:00.440><c> How</c><00:08:00.560><c> do</c><00:08:00.640><c> you</c><00:08:00.720><c> drop</c>
+
+00:08:00.990 --> 00:08:01.000 align:start position:0%
+convolutional network. How do you drop
+ 
+
+00:08:01.000 --> 00:08:02.590 align:start position:0%
+convolutional network. How do you drop
+out<00:08:01.080><c> a</c><00:08:01.160><c> patch</c><00:08:01.880><c> when</c><00:08:02.000><c> you're</c><00:08:02.080><c> doing</c><00:08:02.320><c> this</c>
+
+00:08:02.590 --> 00:08:02.600 align:start position:0%
+out a patch when you're doing this
+ 
+
+00:08:02.600 --> 00:08:04.230 align:start position:0%
+out a patch when you're doing this
+convolution<00:08:03.160><c> that's</c><00:08:03.440><c> invariant</c><00:08:03.960><c> across</c>
+
+00:08:04.230 --> 00:08:04.240 align:start position:0%
+convolution that's invariant across
+ 
+
+00:08:04.240 --> 00:08:05.550 align:start position:0%
+convolution that's invariant across
+patches?
+
+00:08:05.550 --> 00:08:05.560 align:start position:0%
+patches?
+ 
+
+00:08:05.560 --> 00:08:08.070 align:start position:0%
+patches?
+So,<00:08:05.680><c> it's</c><00:08:05.800><c> a</c><00:08:05.840><c> VIT-specific</c>
+
+00:08:08.070 --> 00:08:08.080 align:start position:0%
+So, it's a VIT-specific
+ 
+
+00:08:08.080 --> 00:08:10.230 align:start position:0%
+So, it's a VIT-specific
+uh<00:08:08.680><c> pretraining</c><00:08:09.120><c> technique</c><00:08:09.800><c> that</c><00:08:10.000><c> adds</c>
+
+00:08:10.230 --> 00:08:10.240 align:start position:0%
+uh pretraining technique that adds
+ 
+
+00:08:10.240 --> 00:08:11.470 align:start position:0%
+uh pretraining technique that adds
+inductive<00:08:10.600><c> bias</c><00:08:10.840><c> that</c><00:08:10.960><c> would</c><00:08:11.080><c> otherwise</c><00:08:11.400><c> be</c>
+
+00:08:11.470 --> 00:08:11.480 align:start position:0%
+inductive bias that would otherwise be
+ 
+
+00:08:11.480 --> 00:08:14.070 align:start position:0%
+inductive bias that would otherwise be
+missing<00:08:11.760><c> from</c><00:08:11.880><c> the</c><00:08:11.960><c> structure.</c>
+
+00:08:14.070 --> 00:08:14.080 align:start position:0%
+missing from the structure.
+ 
+
+00:08:14.080 --> 00:08:15.670 align:start position:0%
+missing from the structure.
+Um
+
+00:08:15.670 --> 00:08:15.680 align:start position:0%
+Um
+ 
+
+00:08:15.680 --> 00:08:16.590 align:start position:0%
+Um
+So,<00:08:15.880><c> that's</c><00:08:16.040><c> great.</c><00:08:16.280><c> That's</c><00:08:16.400><c> super</c>
+
+00:08:16.590 --> 00:08:16.600 align:start position:0%
+So, that's great. That's super
+ 
+
+00:08:16.600 --> 00:08:20.190 align:start position:0%
+So, that's great. That's super
+interesting.<00:08:16.920><c> That</c><00:08:17.520><c> That</c><00:08:17.680><c> works</c><00:08:17.880><c> nicely.</c>
+
+00:08:20.190 --> 00:08:20.200 align:start position:0%
+interesting. That That works nicely.
+ 
+
+00:08:20.200 --> 00:08:22.110 align:start position:0%
+interesting. That That works nicely.
+Turns<00:08:20.480><c> out</c><00:08:20.600><c> it</c><00:08:20.680><c> doesn't</c><00:08:21.240><c> You</c><00:08:21.360><c> can</c><00:08:21.760><c> take</c><00:08:21.960><c> that</c>
+
+00:08:22.110 --> 00:08:22.120 align:start position:0%
+Turns out it doesn't You can take that
+ 
+
+00:08:22.120 --> 00:08:23.910 align:start position:0%
+Turns out it doesn't You can take that
+to<00:08:22.240><c> an</c><00:08:22.320><c> extreme,</c>
+
+00:08:23.910 --> 00:08:23.920 align:start position:0%
+to an extreme,
+ 
+
+00:08:23.920 --> 00:08:27.390 align:start position:0%
+to an extreme,
+and<00:08:24.160><c> you</c><00:08:24.240><c> throw</c><00:08:24.520><c> in</c><00:08:25.200><c> DINOv2,</c><00:08:25.800><c> DINOv3,</c>
+
+00:08:27.390 --> 00:08:27.400 align:start position:0%
+and you throw in DINOv2, DINOv3,
+ 
+
+00:08:27.400 --> 00:08:29.670 align:start position:0%
+and you throw in DINOv2, DINOv3,
+these<00:08:27.920><c> really</c>
+
+00:08:29.670 --> 00:08:29.680 align:start position:0%
+these really
+ 
+
+00:08:29.680 --> 00:08:31.870 align:start position:0%
+these really
+again,<00:08:30.240><c> VIT-specific</c><00:08:31.360><c> pretraining</c>
+
+00:08:31.870 --> 00:08:31.880 align:start position:0%
+again, VIT-specific pretraining
+ 
+
+00:08:31.880 --> 00:08:33.310 align:start position:0%
+again, VIT-specific pretraining
+techniques,
+
+00:08:33.310 --> 00:08:33.320 align:start position:0%
+techniques,
+ 
+
+00:08:33.320 --> 00:08:34.750 align:start position:0%
+techniques,
+and<00:08:33.520><c> you</c>
+
+00:08:34.750 --> 00:08:34.760 align:start position:0%
+and you
+ 
+
+00:08:34.760 --> 00:08:36.230 align:start position:0%
+and you
+at<00:08:34.880><c> the</c><00:08:34.960><c> end</c><00:08:35.080><c> of</c><00:08:35.159><c> it</c><00:08:35.280><c> don't</c><00:08:35.479><c> just</c><00:08:35.640><c> have</c><00:08:36.080><c> these</c>
+
+00:08:36.230 --> 00:08:36.240 align:start position:0%
+at the end of it don't just have these
+ 
+
+00:08:36.240 --> 00:08:37.750 align:start position:0%
+at the end of it don't just have these
+inductive<00:08:36.599><c> biases</c><00:08:37.120><c> towards</c><00:08:37.360><c> how</c><00:08:37.400><c> to</c><00:08:37.479><c> process</c>
+
+00:08:37.750 --> 00:08:37.760 align:start position:0%
+inductive biases towards how to process
+ 
+
+00:08:37.760 --> 00:08:39.270 align:start position:0%
+inductive biases towards how to process
+an<00:08:37.840><c> image.</c><00:08:38.080><c> You</c><00:08:38.159><c> actually</c><00:08:38.440><c> have</c>
+
+00:08:39.270 --> 00:08:39.280 align:start position:0%
+an image. You actually have
+ 
+
+00:08:39.280 --> 00:08:41.510 align:start position:0%
+an image. You actually have
+really<00:08:39.520><c> really</c><00:08:39.760><c> really</c><00:08:40.039><c> fit</c><00:08:40.880><c> uh</c>
+
+00:08:41.510 --> 00:08:41.520 align:start position:0%
+really really really fit uh
+ 
+
+00:08:41.520 --> 00:08:43.630 align:start position:0%
+really really really fit uh
+rich<00:08:41.880><c> feature</c><00:08:42.159><c> maps</c><00:08:42.440><c> out</c><00:08:42.560><c> of</c><00:08:42.640><c> the</c><00:08:42.680><c> box.</c>
+
+00:08:43.630 --> 00:08:43.640 align:start position:0%
+rich feature maps out of the box.
+ 
+
+00:08:43.640 --> 00:08:45.670 align:start position:0%
+rich feature maps out of the box.
+So,<00:08:43.800><c> for</c><00:08:43.919><c> example,</c><00:08:44.760><c> this</c><00:08:44.920><c> is</c><00:08:45.080><c> a</c><00:08:45.240><c> PCA</c>
+
+00:08:45.670 --> 00:08:45.680 align:start position:0%
+So, for example, this is a PCA
+ 
+
+00:08:45.680 --> 00:08:47.390 align:start position:0%
+So, for example, this is a PCA
+decomposition<00:08:46.520><c> of</c><00:08:46.720><c> the</c><00:08:46.840><c> feature</c><00:08:47.080><c> maps</c>
+
+00:08:47.390 --> 00:08:47.400 align:start position:0%
+decomposition of the feature maps
+ 
+
+00:08:47.400 --> 00:08:50.870 align:start position:0%
+decomposition of the feature maps
+produced<00:08:47.800><c> by</c><00:08:48.040><c> a</c><00:08:48.240><c> DINOv3</c><00:08:49.200><c> pretrained</c><00:08:49.640><c> VIT,</c>
+
+00:08:50.870 --> 00:08:50.880 align:start position:0%
+produced by a DINOv3 pretrained VIT,
+ 
+
+00:08:50.880 --> 00:08:54.270 align:start position:0%
+produced by a DINOv3 pretrained VIT,
+and<00:08:51.000><c> we</c><00:08:51.160><c> see</c><00:08:52.080><c> that</c><00:08:52.320><c> the</c><00:08:52.440><c> paws</c><00:08:52.880><c> of</c><00:08:53.040><c> the</c><00:08:53.120><c> cat</c><00:08:54.040><c> have</c>
+
+00:08:54.270 --> 00:08:54.280 align:start position:0%
+and we see that the paws of the cat have
+ 
+
+00:08:54.280 --> 00:08:56.510 align:start position:0%
+and we see that the paws of the cat have
+different<00:08:54.600><c> colors,</c><00:08:55.600><c> and</c><00:08:55.720><c> that</c><00:08:55.960><c> it's</c><00:08:56.160><c> tracing</c>
+
+00:08:56.510 --> 00:08:56.520 align:start position:0%
+different colors, and that it's tracing
+ 
+
+00:08:56.520 --> 00:08:58.230 align:start position:0%
+different colors, and that it's tracing
+the<00:08:56.600><c> paws</c><00:08:56.960><c> correctly</c><00:08:57.480><c> for</c><00:08:57.640><c> each</c><00:08:57.840><c> of</c><00:08:57.920><c> the</c>
+
+00:08:58.230 --> 00:08:58.240 align:start position:0%
+the paws correctly for each of the
+ 
+
+00:08:58.240 --> 00:08:59.750 align:start position:0%
+the paws correctly for each of the
+different<00:08:58.520><c> cats.</c>
+
+00:08:59.750 --> 00:08:59.760 align:start position:0%
+different cats.
+ 
+
+00:08:59.760 --> 00:09:01.470 align:start position:0%
+different cats.
+The<00:08:59.840><c> satellite</c><00:09:00.360><c> imagery</c><00:09:00.760><c> is</c><00:09:00.840><c> decomposed</c><00:09:01.360><c> in</c><00:09:01.440><c> a</c>
+
+00:09:01.470 --> 00:09:01.480 align:start position:0%
+The satellite imagery is decomposed in a
+ 
+
+00:09:01.480 --> 00:09:03.870 align:start position:0%
+The satellite imagery is decomposed in a
+way<00:09:01.600><c> that</c><00:09:01.760><c> is</c><00:09:01.880><c> semantically</c><00:09:02.320><c> meaningful.</c>
+
+00:09:03.870 --> 00:09:03.880 align:start position:0%
+way that is semantically meaningful.
+ 
+
+00:09:03.880 --> 00:09:05.510 align:start position:0%
+way that is semantically meaningful.
+And<00:09:04.560><c> uh</c><00:09:04.640><c> in</c><00:09:04.720><c> fact,</c><00:09:04.880><c> the</c><00:09:04.960><c> self-supervised</c>
+
+00:09:05.510 --> 00:09:05.520 align:start position:0%
+And uh in fact, the self-supervised
+ 
+
+00:09:05.520 --> 00:09:07.150 align:start position:0%
+And uh in fact, the self-supervised
+learning<00:09:05.720><c> objective</c><00:09:06.080><c> is</c><00:09:06.360><c> is</c><00:09:06.560><c> catching</c><00:09:07.000><c> up</c>
+
+00:09:07.150 --> 00:09:07.160 align:start position:0%
+learning objective is is catching up
+ 
+
+00:09:07.160 --> 00:09:09.790 align:start position:0%
+learning objective is is catching up
+with<00:09:07.280><c> the</c><00:09:07.360><c> best</c><00:09:07.600><c> that</c><00:09:07.720><c> we</c><00:09:07.840><c> have</c><00:09:08.680><c> from</c>
+
+00:09:09.790 --> 00:09:09.800 align:start position:0%
+with the best that we have from
+ 
+
+00:09:09.800 --> 00:09:11.270 align:start position:0%
+with the best that we have from
+supervised<00:09:10.240><c> learning,</c>
+
+00:09:11.270 --> 00:09:11.280 align:start position:0%
+supervised learning,
+ 
+
+00:09:11.280 --> 00:09:13.030 align:start position:0%
+supervised learning,
+and<00:09:11.360><c> this</c><00:09:11.520><c> is</c><00:09:11.680><c> via</c><00:09:11.920><c> linear</c><00:09:12.280><c> probe.</c><00:09:12.800><c> So,</c><00:09:12.960><c> you</c>
+
+00:09:13.030 --> 00:09:13.040 align:start position:0%
+and this is via linear probe. So, you
+ 
+
+00:09:13.040 --> 00:09:14.390 align:start position:0%
+and this is via linear probe. So, you
+have<00:09:13.200><c> your</c><00:09:13.320><c> frozen</c><00:09:13.640><c> features,</c><00:09:14.080><c> you're</c><00:09:14.200><c> just</c>
+
+00:09:14.390 --> 00:09:14.400 align:start position:0%
+have your frozen features, you're just
+ 
+
+00:09:14.400 --> 00:09:16.030 align:start position:0%
+have your frozen features, you're just
+probing<00:09:14.800><c> into</c><00:09:15.000><c> them.</c>
+
+00:09:16.030 --> 00:09:16.040 align:start position:0%
+probing into them.
+ 
+
+00:09:16.040 --> 00:09:16.910 align:start position:0%
+probing into them.
+You're<00:09:16.080><c> not</c><00:09:16.240><c> training</c><00:09:16.640><c> anything</c>
+
+00:09:16.910 --> 00:09:16.920 align:start position:0%
+You're not training anything
+ 
+
+00:09:16.920 --> 00:09:18.910 align:start position:0%
+You're not training anything
+specifically<00:09:17.480><c> on</c><00:09:17.560><c> your</c><00:09:17.680><c> data</c><00:09:18.480><c> except</c><00:09:18.800><c> for</c>
+
+00:09:18.910 --> 00:09:18.920 align:start position:0%
+specifically on your data except for
+ 
+
+00:09:18.920 --> 00:09:21.510 align:start position:0%
+specifically on your data except for
+that<00:09:19.120><c> linear</c><00:09:19.440><c> projection</c><00:09:19.880><c> at</c><00:09:19.960><c> the</c><00:09:20.080><c> end,</c>
+
+00:09:21.510 --> 00:09:21.520 align:start position:0%
+that linear projection at the end,
+ 
+
+00:09:21.520 --> 00:09:23.550 align:start position:0%
+that linear projection at the end,
+and<00:09:21.640><c> you're</c><00:09:22.080><c> getting</c><00:09:22.440><c> very</c><00:09:22.760><c> very</c><00:09:22.960><c> very</c><00:09:23.200><c> close</c>
+
+00:09:23.550 --> 00:09:23.560 align:start position:0%
+and you're getting very very very close
+ 
+
+00:09:23.560 --> 00:09:25.110 align:start position:0%
+and you're getting very very very close
+to<00:09:23.880><c> the</c><00:09:24.000><c> best</c><00:09:24.240><c> that</c><00:09:24.320><c> we</c><00:09:24.440><c> know</c><00:09:24.600><c> how</c><00:09:24.720><c> to</c><00:09:24.840><c> do</c><00:09:24.960><c> with</c>
+
+00:09:25.110 --> 00:09:25.120 align:start position:0%
+to the best that we know how to do with
+ 
+
+00:09:25.120 --> 00:09:28.990 align:start position:0%
+to the best that we know how to do with
+self-<00:09:25.480><c> with</c><00:09:26.000><c> uh</c><00:09:26.080><c> fully</c><00:09:26.280><c> supervised</c><00:09:26.680><c> learning.</c>
+
+00:09:28.990 --> 00:09:29.000 align:start position:0%
+self- with uh fully supervised learning.
+ 
+
+00:09:29.000 --> 00:09:30.270 align:start position:0%
+self- with uh fully supervised learning.
+Okay,<00:09:29.160><c> but</c><00:09:29.320><c> what</c><00:09:29.440><c> about</c><00:09:29.600><c> the</c><00:09:29.640><c> speed</c><00:09:29.960><c> issue?</c>
+
+00:09:30.270 --> 00:09:30.280 align:start position:0%
+Okay, but what about the speed issue?
+ 
+
+00:09:30.280 --> 00:09:33.710 align:start position:0%
+Okay, but what about the speed issue?
+This<00:09:30.480><c> is</c><00:09:30.600><c> still</c><00:09:30.840><c> n</c><00:09:30.960><c> to</c><00:09:31.040><c> the</c><00:09:31.080><c> fourth</c><00:09:31.360><c> power.</c>
+
+00:09:33.710 --> 00:09:33.720 align:start position:0%
+This is still n to the fourth power.
+ 
+
+00:09:33.720 --> 00:09:35.950 align:start position:0%
+This is still n to the fourth power.
+Uh
+
+00:09:35.950 --> 00:09:35.960 align:start position:0%
+Uh
+ 
+
+00:09:35.960 --> 00:09:38.830 align:start position:0%
+Uh
+it<00:09:36.160><c> turns</c><00:09:36.520><c> out</c><00:09:36.880><c> that</c><00:09:37.640><c> people</c>
+
+00:09:38.830 --> 00:09:38.840 align:start position:0%
+it turns out that people
+ 
+
+00:09:38.840 --> 00:09:41.190 align:start position:0%
+it turns out that people
+are<00:09:39.120><c> care</c><00:09:39.480><c> a</c><00:09:39.520><c> lot</c><00:09:39.720><c> about</c><00:09:39.920><c> attention.</c><00:09:40.920><c> So,</c><00:09:41.120><c> in</c>
+
+00:09:41.190 --> 00:09:41.200 align:start position:0%
+are care a lot about attention. So, in
+ 
+
+00:09:41.200 --> 00:09:42.750 align:start position:0%
+are care a lot about attention. So, in
+the<00:09:41.280><c> LLM</c><00:09:41.680><c> world,</c><00:09:41.960><c> we</c><00:09:42.080><c> start</c><00:09:42.320><c> introducing</c>
+
+00:09:42.750 --> 00:09:42.760 align:start position:0%
+the LLM world, we start introducing
+ 
+
+00:09:42.760 --> 00:09:45.510 align:start position:0%
+the LLM world, we start introducing
+these<00:09:42.920><c> tools,</c><00:09:43.800><c> uh</c><00:09:44.000><c> flash</c><00:09:44.280><c> attention,</c>
+
+00:09:45.510 --> 00:09:45.520 align:start position:0%
+these tools, uh flash attention,
+ 
+
+00:09:45.520 --> 00:09:46.790 align:start position:0%
+these tools, uh flash attention,
+the<00:09:45.560><c> biggest</c><00:09:45.880><c> one,</c>
+
+00:09:46.790 --> 00:09:46.800 align:start position:0%
+the biggest one,
+ 
+
+00:09:46.800 --> 00:09:48.190 align:start position:0%
+the biggest one,
+and
+
+00:09:48.190 --> 00:09:48.200 align:start position:0%
+and
+ 
+
+00:09:48.200 --> 00:09:50.310 align:start position:0%
+and
+uh<00:09:49.160><c> Hera</c>
+
+00:09:50.310 --> 00:09:50.320 align:start position:0%
+uh Hera
+ 
+
+00:09:50.320 --> 00:09:52.390 align:start position:0%
+uh Hera
+explicitly<00:09:50.960><c> showed</c><00:09:51.280><c> a</c><00:09:51.360><c> speedup</c><00:09:51.920><c> for</c><00:09:52.040><c> the</c><00:09:52.160><c> same</c>
+
+00:09:52.390 --> 00:09:52.400 align:start position:0%
+explicitly showed a speedup for the same
+ 
+
+00:09:52.400 --> 00:09:55.190 align:start position:0%
+explicitly showed a speedup for the same
+accuracy<00:09:52.800><c> versus</c><00:09:53.160><c> VIT,</c><00:09:54.240><c> but</c><00:09:54.840><c> they</c><00:09:54.960><c> have</c><00:09:55.160><c> a</c>
+
+00:09:55.190 --> 00:09:55.200 align:start position:0%
+accuracy versus VIT, but they have a
+ 
+
+00:09:55.200 --> 00:09:57.070 align:start position:0%
+accuracy versus VIT, but they have a
+note<00:09:55.800><c> in</c><00:09:55.920><c> their</c><00:09:56.080><c> paper</c><00:09:56.440><c> where</c><00:09:56.560><c> they</c><00:09:56.840><c> where</c>
+
+00:09:57.070 --> 00:09:57.080 align:start position:0%
+note in their paper where they where
+ 
+
+00:09:57.080 --> 00:09:58.670 align:start position:0%
+note in their paper where they where
+they<00:09:57.240><c> say,</c><00:09:57.480><c> "Okay,</c>
+
+00:09:58.670 --> 00:09:58.680 align:start position:0%
+they say, "Okay,
+ 
+
+00:09:58.680 --> 00:10:01.230 align:start position:0%
+they say, "Okay,
+we<00:09:58.800><c> see</c><00:09:59.000><c> the</c><00:09:59.120><c> speed</c><00:09:59.400><c> up</c>
+
+00:10:01.230 --> 00:10:01.240 align:start position:0%
+we see the speed up
+ 
+
+00:10:01.240 --> 00:10:02.830 align:start position:0%
+we see the speed up
+and<00:10:01.480><c> we're</c><00:10:01.600><c> not</c><00:10:01.840><c> going</c><00:10:01.960><c> to</c><00:10:02.040><c> measure</c><00:10:02.640><c> with</c>
+
+00:10:02.830 --> 00:10:02.840 align:start position:0%
+and we're not going to measure with
+ 
+
+00:10:02.840 --> 00:10:06.230 align:start position:0%
+and we're not going to measure with
+flash<00:10:03.040><c> attention."</c>
+
+00:10:06.230 --> 00:10:06.240 align:start position:0%
+ 
+ 
+
+00:10:06.240 --> 00:10:07.630 align:start position:0%
+ 
+So,<00:10:06.480><c> then</c><00:10:06.720><c> you</c><00:10:06.840><c> add</c><00:10:07.040><c> back</c><00:10:07.280><c> in</c><00:10:07.400><c> flash</c>
+
+00:10:07.630 --> 00:10:07.640 align:start position:0%
+So, then you add back in flash
+ 
+
+00:10:07.640 --> 00:10:08.670 align:start position:0%
+So, then you add back in flash
+attention,<00:10:08.000><c> suddenly</c><00:10:08.280><c> it</c><00:10:08.320><c> doesn't</c><00:10:08.520><c> really</c>
+
+00:10:08.670 --> 00:10:08.680 align:start position:0%
+attention, suddenly it doesn't really
+ 
+
+00:10:08.680 --> 00:10:09.630 align:start position:0%
+attention, suddenly it doesn't really
+matter.
+
+00:10:09.630 --> 00:10:09.640 align:start position:0%
+matter.
+ 
+
+00:10:09.640 --> 00:10:11.310 align:start position:0%
+matter.
+You've<00:10:09.760><c> got</c><00:10:09.920><c> you're</c><00:10:10.040><c> back</c><00:10:10.240><c> to</c><00:10:10.360><c> this</c><00:10:10.680><c> very</c>
+
+00:10:11.310 --> 00:10:11.320 align:start position:0%
+You've got you're back to this very
+ 
+
+00:10:11.320 --> 00:10:14.350 align:start position:0%
+You've got you're back to this very
+silly<00:10:12.200><c> ends</c><00:10:12.560><c> end</c><00:10:12.760><c> of</c><00:10:12.840><c> the</c><00:10:12.920><c> fourth</c><00:10:13.200><c> power</c><00:10:14.080><c> thing</c>
+
+00:10:14.350 --> 00:10:14.360 align:start position:0%
+silly ends end of the fourth power thing
+ 
+
+00:10:14.360 --> 00:10:16.710 align:start position:0%
+silly ends end of the fourth power thing
+that<00:10:14.520><c> benefits</c><00:10:14.960><c> from</c><00:10:15.080><c> this</c><00:10:15.560><c> VIT</c><00:10:16.080><c> specific</c>
+
+00:10:16.710 --> 00:10:16.720 align:start position:0%
+that benefits from this VIT specific
+ 
+
+00:10:16.720 --> 00:10:18.510 align:start position:0%
+that benefits from this VIT specific
+pre-training<00:10:17.160><c> method,</c>
+
+00:10:18.510 --> 00:10:18.520 align:start position:0%
+pre-training method,
+ 
+
+00:10:18.520 --> 00:10:22.270 align:start position:0%
+pre-training method,
+and<00:10:18.640><c> that's</c><00:10:18.880><c> it.</c><00:10:19.320><c> We're</c>
+
+00:10:22.270 --> 00:10:22.280 align:start position:0%
+ 
+ 
+
+00:10:22.280 --> 00:10:24.350 align:start position:0%
+ 
+uh<00:10:22.760><c> we've</c><00:10:22.960><c> kind</c><00:10:23.160><c> of</c><00:10:23.560><c> we're</c><00:10:23.760><c> we're</c><00:10:24.000><c> we've</c><00:10:24.200><c> kind</c>
+
+00:10:24.350 --> 00:10:24.360 align:start position:0%
+uh we've kind of we're we're we've kind
+ 
+
+00:10:24.360 --> 00:10:26.230 align:start position:0%
+uh we've kind of we're we're we've kind
+of<00:10:24.480><c> won.</c>
+
+00:10:26.230 --> 00:10:26.240 align:start position:0%
+of won.
+ 
+
+00:10:26.240 --> 00:10:28.070 align:start position:0%
+of won.
+So,
+
+00:10:28.070 --> 00:10:28.080 align:start position:0%
+So,
+ 
+
+00:10:28.080 --> 00:10:30.390 align:start position:0%
+So,
+this<00:10:28.240><c> is</c><00:10:28.440><c> a</c><00:10:28.640><c> a</c><00:10:28.680><c> talk</c><00:10:28.880><c> about</c><00:10:29.720><c> this</c><00:10:29.920><c> is</c><00:10:30.080><c> a</c><00:10:30.280><c> an</c>
+
+00:10:30.390 --> 00:10:30.400 align:start position:0%
+this is a a talk about this is a an
+ 
+
+00:10:30.400 --> 00:10:32.190 align:start position:0%
+this is a a talk about this is a an
+evolution<00:10:30.760><c> of</c><00:10:30.800><c> the</c><00:10:30.880><c> backbones.</c><00:10:31.560><c> How</c><00:10:31.840><c> it</c><00:10:31.960><c> is</c>
+
+00:10:32.190 --> 00:10:32.200 align:start position:0%
+evolution of the backbones. How it is
+ 
+
+00:10:32.200 --> 00:10:33.470 align:start position:0%
+evolution of the backbones. How it is
+how<00:10:32.440><c> it</c><00:10:32.560><c> is</c><00:10:32.680><c> that</c><00:10:32.800><c> the</c><00:10:32.880><c> end</c><00:10:33.000><c> of</c><00:10:33.080><c> the</c><00:10:33.160><c> fourth</c>
+
+00:10:33.470 --> 00:10:33.480 align:start position:0%
+how it is that the end of the fourth
+ 
+
+00:10:33.480 --> 00:10:35.710 align:start position:0%
+how it is that the end of the fourth
+thing<00:10:34.080><c> ended</c><00:10:34.360><c> up</c><00:10:34.920><c> beating</c><00:10:35.240><c> out</c><00:10:35.360><c> everyone</c><00:10:35.600><c> that</c>
+
+00:10:35.710 --> 00:10:35.720 align:start position:0%
+thing ended up beating out everyone that
+ 
+
+00:10:35.720 --> 00:10:38.150 align:start position:0%
+thing ended up beating out everyone that
+tried<00:10:35.880><c> to</c><00:10:35.960><c> beat</c><00:10:36.120><c> it.</c>
+
+00:10:38.150 --> 00:10:38.160 align:start position:0%
+tried to beat it.
+ 
+
+00:10:38.160 --> 00:10:39.910 align:start position:0%
+tried to beat it.
+What<00:10:38.320><c> does</c><00:10:38.400><c> this</c><00:10:38.560><c> mean</c><00:10:38.800><c> in</c>
+
+00:10:39.910 --> 00:10:39.920 align:start position:0%
+What does this mean in
+ 
+
+00:10:39.920 --> 00:10:42.630 align:start position:0%
+What does this mean in
+practice<00:10:40.280><c> and</c><00:10:40.360><c> application?</c><00:10:41.520><c> So,</c>
+
+00:10:42.630 --> 00:10:42.640 align:start position:0%
+practice and application? So,
+ 
+
+00:10:42.640 --> 00:10:46.870 align:start position:0%
+practice and application? So,
+SAM<00:10:43.440><c> is</c><00:10:43.680><c> a</c><00:10:44.040><c> very</c><00:10:44.280><c> famous</c><00:10:44.680><c> series</c><00:10:45.000><c> of</c><00:10:45.080><c> models.</c>
+
+00:10:46.870 --> 00:10:46.880 align:start position:0%
+SAM is a very famous series of models.
+ 
+
+00:10:46.880 --> 00:10:48.750 align:start position:0%
+SAM is a very famous series of models.
+Again,<00:10:47.200><c> if</c><00:10:47.480><c> I</c><00:10:47.520><c> I</c><00:10:47.720><c> I</c><00:10:47.800><c> don't</c><00:10:47.960><c> know</c><00:10:48.240><c> where</c><00:10:48.480><c> people</c>
+
+00:10:48.750 --> 00:10:48.760 align:start position:0%
+Again, if I I I don't know where people
+ 
+
+00:10:48.760 --> 00:10:51.870 align:start position:0%
+Again, if I I I don't know where people
+come<00:10:49.000><c> from,</c><00:10:49.400><c> but</c><00:10:50.160><c> SAM</c><00:10:50.480><c> was</c><00:10:50.720><c> a</c>
+
+00:10:51.870 --> 00:10:51.880 align:start position:0%
+come from, but SAM was a
+ 
+
+00:10:51.880 --> 00:10:53.430 align:start position:0%
+come from, but SAM was a
+what<00:10:52.440><c> from</c><00:10:52.600><c> my</c><00:10:52.720><c> perspective</c><00:10:53.080><c> one</c><00:10:53.160><c> of</c><00:10:53.240><c> the</c><00:10:53.280><c> most</c>
+
+00:10:53.430 --> 00:10:53.440 align:start position:0%
+what from my perspective one of the most
+ 
+
+00:10:53.440 --> 00:10:57.310 align:start position:0%
+what from my perspective one of the most
+important<00:10:54.400><c> uh</c><00:10:54.480><c> foundation</c><00:10:54.880><c> model</c><00:10:55.400><c> series</c><00:10:56.040><c> in</c>
+
+00:10:57.310 --> 00:10:57.320 align:start position:0%
+important uh foundation model series in
+ 
+
+00:10:57.320 --> 00:10:59.710 align:start position:0%
+important uh foundation model series in
+vision,<00:10:58.440><c> period.</c>
+
+00:10:59.710 --> 00:10:59.720 align:start position:0%
+vision, period.
+ 
+
+00:10:59.720 --> 00:11:01.950 align:start position:0%
+vision, period.
+And<00:11:00.080><c> we</c><00:11:00.200><c> actually</c><00:11:00.560><c> see</c><00:11:00.800><c> the</c><00:11:00.920><c> same</c><00:11:01.520><c> pattern.</c>
+
+00:11:01.950 --> 00:11:01.960 align:start position:0%
+And we actually see the same pattern.
+ 
+
+00:11:01.960 --> 00:11:05.430 align:start position:0%
+And we actually see the same pattern.
+So,<00:11:02.640><c> SAM</c><00:11:02.960><c> to</c><00:11:03.080><c> mobile</c><00:11:03.320><c> SAM</c><00:11:03.560><c> to</c><00:11:03.680><c> SAM</c><00:11:03.920><c> 2</c><00:11:04.080><c> to</c><00:11:04.200><c> SAM</c><00:11:04.400><c> 3,</c>
+
+00:11:05.430 --> 00:11:05.440 align:start position:0%
+So, SAM to mobile SAM to SAM 2 to SAM 3,
+ 
+
+00:11:05.440 --> 00:11:06.670 align:start position:0%
+So, SAM to mobile SAM to SAM 2 to SAM 3,
+if<00:11:05.480><c> you</c><00:11:05.560><c> look</c><00:11:05.720><c> at</c><00:11:05.880><c> the</c><00:11:05.960><c> backbones</c><00:11:06.480><c> that</c><00:11:06.600><c> are</c>
+
+00:11:06.670 --> 00:11:06.680 align:start position:0%
+if you look at the backbones that are
+ 
+
+00:11:06.680 --> 00:11:08.829 align:start position:0%
+if you look at the backbones that are
+underlying<00:11:07.120><c> it,</c><00:11:07.400><c> it's</c><00:11:07.600><c> a</c><00:11:07.640><c> VIT</c><00:11:08.320><c> trained</c><00:11:08.560><c> with</c>
+
+00:11:08.829 --> 00:11:08.839 align:start position:0%
+underlying it, it's a VIT trained with
+ 
+
+00:11:08.839 --> 00:11:10.110 align:start position:0%
+underlying it, it's a VIT trained with
+MAE.
+
+00:11:10.110 --> 00:11:10.120 align:start position:0%
+MAE.
+ 
+
+00:11:10.120 --> 00:11:11.710 align:start position:0%
+MAE.
+Then<00:11:10.480><c> someone</c><00:11:10.800><c> says,</c><00:11:11.000><c> "Okay,</c><00:11:11.200><c> well,</c><00:11:11.360><c> surely</c>
+
+00:11:11.710 --> 00:11:11.720 align:start position:0%
+Then someone says, "Okay, well, surely
+ 
+
+00:11:11.720 --> 00:11:13.070 align:start position:0%
+Then someone says, "Okay, well, surely
+this<00:11:11.880><c> cannot</c><00:11:12.240><c> be</c><00:11:12.360><c> the</c><00:11:12.440><c> best</c><00:11:12.680><c> that</c><00:11:12.760><c> we</c><00:11:12.839><c> can</c><00:11:12.960><c> do."</c>
+
+00:11:13.070 --> 00:11:13.080 align:start position:0%
+this cannot be the best that we can do."
+ 
+
+00:11:13.080 --> 00:11:15.750 align:start position:0%
+this cannot be the best that we can do."
+So,<00:11:13.200><c> they</c><00:11:13.920><c> uh</c><00:11:13.960><c> mobile</c><00:11:14.240><c> SAM</c><00:11:14.600><c> actually</c><00:11:14.880><c> uses</c>
+
+00:11:15.750 --> 00:11:15.760 align:start position:0%
+So, they uh mobile SAM actually uses
+ 
+
+00:11:15.760 --> 00:11:18.750 align:start position:0%
+So, they uh mobile SAM actually uses
+a<00:11:16.040><c> specialized</c><00:11:16.839><c> convolutional</c><00:11:18.240><c> transformer</c>
+
+00:11:18.750 --> 00:11:18.760 align:start position:0%
+a specialized convolutional transformer
+ 
+
+00:11:18.760 --> 00:11:21.750 align:start position:0%
+a specialized convolutional transformer
+hybrid<00:11:19.880><c> uh</c><00:11:20.080><c> called</c><00:11:20.320><c> tiny</c><00:11:20.600><c> VIT</c><00:11:21.120><c> and</c><00:11:21.200><c> replaces</c>
+
+00:11:21.750 --> 00:11:21.760 align:start position:0%
+hybrid uh called tiny VIT and replaces
+ 
+
+00:11:21.760 --> 00:11:23.590 align:start position:0%
+hybrid uh called tiny VIT and replaces
+the<00:11:22.040><c> the</c><00:11:22.120><c> VIT</c><00:11:22.400><c> backbone.</c>
+
+00:11:23.590 --> 00:11:23.600 align:start position:0%
+the the VIT backbone.
+ 
+
+00:11:23.600 --> 00:11:26.630 align:start position:0%
+the the VIT backbone.
+And<00:11:23.680><c> then</c><00:11:23.839><c> SAM</c><00:11:24.160><c> 2</c><00:11:24.680><c> actually</c><00:11:25.040><c> uses</c><00:11:25.320><c> Hera</c>
+
+00:11:26.630 --> 00:11:26.640 align:start position:0%
+And then SAM 2 actually uses Hera
+ 
+
+00:11:26.640 --> 00:11:28.790 align:start position:0%
+And then SAM 2 actually uses Hera
+with<00:11:26.839><c> uh</c><00:11:27.040><c> this</c><00:11:27.240><c> MAE</c><00:11:27.600><c> pre-training,</c>
+
+00:11:28.790 --> 00:11:28.800 align:start position:0%
+with uh this MAE pre-training,
+ 
+
+00:11:28.800 --> 00:11:31.829 align:start position:0%
+with uh this MAE pre-training,
+and<00:11:28.960><c> then</c><00:11:29.480><c> SAM</c><00:11:29.760><c> 3</c><00:11:30.000><c> just</c><00:11:30.760><c> gives</c><00:11:31.000><c> up</c><00:11:31.200><c> on</c><00:11:31.360><c> the</c>
+
+00:11:31.829 --> 00:11:31.839 align:start position:0%
+and then SAM 3 just gives up on the
+ 
+
+00:11:31.839 --> 00:11:33.150 align:start position:0%
+and then SAM 3 just gives up on the
+architecture<00:11:32.360><c> ablation</c><00:11:32.800><c> and</c><00:11:32.880><c> just</c><00:11:33.040><c> says,</c>
+
+00:11:33.150 --> 00:11:33.160 align:start position:0%
+architecture ablation and just says,
+ 
+
+00:11:33.160 --> 00:11:34.950 align:start position:0%
+architecture ablation and just says,
+"Okay,<00:11:33.400><c> well,</c><00:11:33.960><c> we've</c><00:11:34.120><c> got</c><00:11:34.240><c> this</c><00:11:34.480><c> massively</c>
+
+00:11:34.950 --> 00:11:34.960 align:start position:0%
+"Okay, well, we've got this massively
+ 
+
+00:11:34.960 --> 00:11:36.390 align:start position:0%
+"Okay, well, we've got this massively
+pre-trained
+
+00:11:36.390 --> 00:11:36.400 align:start position:0%
+pre-trained
+ 
+
+00:11:36.400 --> 00:11:39.110 align:start position:0%
+pre-trained
+backbone.<00:11:37.480><c> Let's</c><00:11:37.680><c> just</c><00:11:37.839><c> stick</c><00:11:38.040><c> it</c><00:11:38.160><c> in.</c><00:11:38.880><c> That's</c>
+
+00:11:39.110 --> 00:11:39.120 align:start position:0%
+backbone. Let's just stick it in. That's
+ 
+
+00:11:39.120 --> 00:11:41.190 align:start position:0%
+backbone. Let's just stick it in. That's
+the<00:11:39.200><c> best</c><00:11:39.400><c> that</c><00:11:39.480><c> we</c><00:11:39.600><c> can</c><00:11:39.720><c> do."</c>
+
+00:11:41.190 --> 00:11:41.200 align:start position:0%
+the best that we can do."
+ 
+
+00:11:41.200 --> 00:11:43.790 align:start position:0%
+the best that we can do."
+Um
+
+00:11:43.790 --> 00:11:43.800 align:start position:0%
+Um
+ 
+
+00:11:43.800 --> 00:11:45.870 align:start position:0%
+Um
+So,<00:11:44.839><c> that's</c><00:11:45.080><c> all</c><00:11:45.200><c> good</c><00:11:45.320><c> and</c><00:11:45.440><c> fine,</c><00:11:45.640><c> but</c><00:11:45.760><c> where</c>
+
+00:11:45.870 --> 00:11:45.880 align:start position:0%
+So, that's all good and fine, but where
+ 
+
+00:11:45.880 --> 00:11:48.150 align:start position:0%
+So, that's all good and fine, but where
+does<00:11:46.000><c> that</c><00:11:46.200><c> actually</c><00:11:46.560><c> leave</c><00:11:46.839><c> us?</c>
+
+00:11:48.150 --> 00:11:48.160 align:start position:0%
+does that actually leave us?
+ 
+
+00:11:48.160 --> 00:11:49.990 align:start position:0%
+does that actually leave us?
+Um
+
+00:11:49.990 --> 00:11:50.000 align:start position:0%
+Um
+ 
+
+00:11:50.000 --> 00:11:53.030 align:start position:0%
+Um
+this<00:11:50.280><c> is</c><00:11:51.120><c> really</c><00:11:51.480><c> expensive</c><00:11:52.600><c> if</c><00:11:52.880><c> we're</c>
+
+00:11:53.030 --> 00:11:53.040 align:start position:0%
+this is really expensive if we're
+ 
+
+00:11:53.040 --> 00:11:54.750 align:start position:0%
+this is really expensive if we're
+relying<00:11:53.480><c> on</c><00:11:53.600><c> these</c><00:11:53.800><c> huge</c><00:11:54.160><c> pre-training</c>
+
+00:11:54.750 --> 00:11:54.760 align:start position:0%
+relying on these huge pre-training
+ 
+
+00:11:54.760 --> 00:11:56.790 align:start position:0%
+relying on these huge pre-training
+strategies<00:11:55.520><c> in</c><00:11:55.680><c> order</c><00:11:55.880><c> to</c><00:11:56.200><c> recover</c><00:11:56.640><c> the</c>
+
+00:11:56.790 --> 00:11:56.800 align:start position:0%
+strategies in order to recover the
+ 
+
+00:11:56.800 --> 00:11:58.510 align:start position:0%
+strategies in order to recover the
+performance<00:11:57.280><c> that</c><00:11:57.440><c> is</c><00:11:57.560><c> lost</c><00:11:58.080><c> due</c><00:11:58.200><c> to</c><00:11:58.280><c> the</c><00:11:58.360><c> fact</c>
+
+00:11:58.510 --> 00:11:58.520 align:start position:0%
+performance that is lost due to the fact
+ 
+
+00:11:58.520 --> 00:12:00.310 align:start position:0%
+performance that is lost due to the fact
+that<00:11:58.600><c> our</c><00:11:58.680><c> architecture</c><00:11:59.080><c> is</c><00:11:59.680><c> not</c><00:12:00.000><c> biased</c>
+
+00:12:00.310 --> 00:12:00.320 align:start position:0%
+that our architecture is not biased
+ 
+
+00:12:00.320 --> 00:12:02.470 align:start position:0%
+that our architecture is not biased
+towards<00:12:00.520><c> the</c><00:12:00.600><c> subject</c><00:12:00.920><c> at</c><00:12:01.000><c> all.</c>
+
+00:12:02.470 --> 00:12:02.480 align:start position:0%
+towards the subject at all.
+ 
+
+00:12:02.480 --> 00:12:03.790 align:start position:0%
+towards the subject at all.
+Uh<00:12:02.800><c> that</c><00:12:02.920><c> means</c><00:12:03.080><c> we</c><00:12:03.160><c> have</c><00:12:03.320><c> to</c><00:12:03.400><c> spend</c><00:12:03.560><c> a</c><00:12:03.600><c> huge</c>
+
+00:12:03.790 --> 00:12:03.800 align:start position:0%
+Uh that means we have to spend a huge
+ 
+
+00:12:03.800 --> 00:12:05.430 align:start position:0%
+Uh that means we have to spend a huge
+amount<00:12:03.960><c> of</c><00:12:04.000><c> money</c><00:12:04.160><c> every</c><00:12:04.360><c> time</c><00:12:04.480><c> we</c><00:12:04.600><c> want</c><00:12:04.760><c> to</c><00:12:04.839><c> do</c>
+
+00:12:05.430 --> 00:12:05.440 align:start position:0%
+amount of money every time we want to do
+ 
+
+00:12:05.440 --> 00:12:07.350 align:start position:0%
+amount of money every time we want to do
+a<00:12:05.560><c> deployment.</c>
+
+00:12:07.350 --> 00:12:07.360 align:start position:0%
+a deployment.
+ 
+
+00:12:07.360 --> 00:12:10.270 align:start position:0%
+a deployment.
+So,<00:12:07.800><c> no</c><00:12:07.960><c> deployment</c><00:12:08.839><c> flexibility</c><00:12:09.880><c> means</c><00:12:10.160><c> that</c>
+
+00:12:10.270 --> 00:12:10.280 align:start position:0%
+So, no deployment flexibility means that
+ 
+
+00:12:10.280 --> 00:12:12.790 align:start position:0%
+So, no deployment flexibility means that
+we<00:12:10.400><c> have</c><00:12:10.680><c> these</c><00:12:10.960><c> one-size-fits-all</c><00:12:12.000><c> models.</c>
+
+00:12:12.790 --> 00:12:12.800 align:start position:0%
+we have these one-size-fits-all models.
+ 
+
+00:12:12.800 --> 00:12:14.390 align:start position:0%
+we have these one-size-fits-all models.
+So,<00:12:12.920><c> SAM</c><00:12:13.280><c> 3</c>
+
+00:12:14.390 --> 00:12:14.400 align:start position:0%
+So, SAM 3
+ 
+
+00:12:14.400 --> 00:12:15.550 align:start position:0%
+So, SAM 3
+is<00:12:14.560><c> this</c>
+
+00:12:15.550 --> 00:12:15.560 align:start position:0%
+is this
+ 
+
+00:12:15.560 --> 00:12:17.630 align:start position:0%
+is this
+very<00:12:15.760><c> very</c><00:12:15.960><c> powerful</c><00:12:16.280><c> thing,</c><00:12:16.520><c> but</c><00:12:16.640><c> is</c><00:12:16.720><c> also</c>
+
+00:12:17.630 --> 00:12:17.640 align:start position:0%
+very very powerful thing, but is also
+ 
+
+00:12:17.640 --> 00:12:20.070 align:start position:0%
+very very powerful thing, but is also
+800<00:12:18.000><c> million</c><00:12:18.240><c> parameters.</c><00:12:19.200><c> It</c><00:12:19.320><c> takes</c><00:12:19.640><c> 300</c>
+
+00:12:20.070 --> 00:12:20.080 align:start position:0%
+800 million parameters. It takes 300
+ 
+
+00:12:20.080 --> 00:12:23.030 align:start position:0%
+800 million parameters. It takes 300
+milliseconds<00:12:20.640><c> to</c><00:12:20.760><c> run</c><00:12:21.040><c> on</c><00:12:21.200><c> a</c><00:12:21.400><c> T4</c><00:12:21.760><c> GPU.</c>
+
+00:12:23.030 --> 00:12:23.040 align:start position:0%
+milliseconds to run on a T4 GPU.
+ 
+
+00:12:23.040 --> 00:12:24.550 align:start position:0%
+milliseconds to run on a T4 GPU.
+It's<00:12:23.240><c> not</c>
+
+00:12:24.550 --> 00:12:24.560 align:start position:0%
+It's not
+ 
+
+00:12:24.560 --> 00:12:27.270 align:start position:0%
+It's not
+actually<00:12:25.120><c> usable</c><00:12:25.680><c> in</c><00:12:25.760><c> a</c><00:12:25.800><c> lot</c><00:12:26.000><c> of</c><00:12:26.120><c> cases,</c>
+
+00:12:27.270 --> 00:12:27.280 align:start position:0%
+actually usable in a lot of cases,
+ 
+
+00:12:27.280 --> 00:12:28.910 align:start position:0%
+actually usable in a lot of cases,
+uh<00:12:27.880><c> especially</c><00:12:28.280><c> because</c><00:12:28.640><c> vision</c>
+
+00:12:28.910 --> 00:12:28.920 align:start position:0%
+uh especially because vision
+ 
+
+00:12:28.920 --> 00:12:30.110 align:start position:0%
+uh especially because vision
+historically<00:12:29.440><c> has</c><00:12:29.520><c> been</c><00:12:29.640><c> focused</c><00:12:29.920><c> on</c><00:12:30.000><c> these</c>
+
+00:12:30.110 --> 00:12:30.120 align:start position:0%
+historically has been focused on these
+ 
+
+00:12:30.120 --> 00:12:32.430 align:start position:0%
+historically has been focused on these
+very<00:12:30.400><c> low-power</c><00:12:31.000><c> edge</c><00:12:31.200><c> devices,</c>
+
+00:12:32.430 --> 00:12:32.440 align:start position:0%
+very low-power edge devices,
+ 
+
+00:12:32.440 --> 00:12:34.829 align:start position:0%
+very low-power edge devices,
+these<00:12:32.720><c> uh</c><00:12:32.920><c> resource</c><00:12:33.680><c> constrained</c><00:12:34.360><c> deployment</c>
+
+00:12:34.829 --> 00:12:34.839 align:start position:0%
+these uh resource constrained deployment
+ 
+
+00:12:34.839 --> 00:12:36.670 align:start position:0%
+these uh resource constrained deployment
+scenarios.
+
+00:12:36.670 --> 00:12:36.680 align:start position:0%
+scenarios.
+ 
+
+00:12:36.680 --> 00:12:38.270 align:start position:0%
+scenarios.
+So,
+
+00:12:38.270 --> 00:12:38.280 align:start position:0%
+So,
+ 
+
+00:12:38.280 --> 00:12:41.790 align:start position:0%
+So,
+uh<00:12:38.800><c> at</c><00:12:38.960><c> Roboflow,</c><00:12:40.080><c> what</c><00:12:40.240><c> we</c><00:12:40.400><c> have</c><00:12:40.520><c> done</c>
+
+00:12:41.790 --> 00:12:41.800 align:start position:0%
+uh at Roboflow, what we have done
+ 
+
+00:12:41.800 --> 00:12:44.670 align:start position:0%
+uh at Roboflow, what we have done
+is<00:12:42.040><c> we've</c><00:12:42.400><c> attempted</c><00:12:42.839><c> to</c><00:12:42.920><c> say,</c>
+
+00:12:44.670 --> 00:12:44.680 align:start position:0%
+is we've attempted to say,
+ 
+
+00:12:44.680 --> 00:12:47.430 align:start position:0%
+is we've attempted to say,
+"How<00:12:44.839><c> do</c><00:12:44.960><c> we</c><00:12:45.080><c> actually</c><00:12:46.000><c> take</c><00:12:46.320><c> these</c>
+
+00:12:47.430 --> 00:12:47.440 align:start position:0%
+"How do we actually take these
+ 
+
+00:12:47.440 --> 00:12:49.790 align:start position:0%
+"How do we actually take these
+fixed<00:12:48.240><c> foundation</c><00:12:48.680><c> models</c>
+
+00:12:49.790 --> 00:12:49.800 align:start position:0%
+fixed foundation models
+ 
+
+00:12:49.800 --> 00:12:51.310 align:start position:0%
+fixed foundation models
+and<00:12:50.120><c> to</c><00:12:50.200><c> transform</c><00:12:50.640><c> them</c><00:12:50.800><c> into</c><00:12:50.960><c> something</c>
+
+00:12:51.310 --> 00:12:51.320 align:start position:0%
+and to transform them into something
+ 
+
+00:12:51.320 --> 00:12:53.950 align:start position:0%
+and to transform them into something
+that<00:12:51.520><c> has</c><00:12:52.480><c> flexibility?"</c>
+
+00:12:53.950 --> 00:12:53.960 align:start position:0%
+that has flexibility?"
+ 
+
+00:12:53.960 --> 00:12:55.390 align:start position:0%
+that has flexibility?"
+So,
+
+00:12:55.390 --> 00:12:55.400 align:start position:0%
+So,
+ 
+
+00:12:55.400 --> 00:12:58.790 align:start position:0%
+So,
+we<00:12:55.720><c> introduce</c><00:12:56.080><c> a</c><00:12:56.120><c> data</c><00:12:56.360><c> set,</c><00:12:57.400><c> RF100VL,</c><00:12:58.560><c> that</c>
+
+00:12:58.790 --> 00:12:58.800 align:start position:0%
+we introduce a data set, RF100VL, that
+ 
+
+00:12:58.800 --> 00:13:01.430 align:start position:0%
+we introduce a data set, RF100VL, that
+measures<00:12:59.920><c> how</c><00:13:00.080><c> well</c>
+
+00:13:01.430 --> 00:13:01.440 align:start position:0%
+measures how well
+ 
+
+00:13:01.440 --> 00:13:02.790 align:start position:0%
+measures how well
+uh
+
+00:13:02.790 --> 00:13:02.800 align:start position:0%
+uh
+ 
+
+00:13:02.800 --> 00:13:05.590 align:start position:0%
+uh
+foundation<00:13:03.200><c> models</c><00:13:03.680><c> transfer</c><00:13:04.200><c> to</c><00:13:05.080><c> downstream</c>
+
+00:13:05.590 --> 00:13:05.600 align:start position:0%
+foundation models transfer to downstream
+ 
+
+00:13:05.600 --> 00:13:07.510 align:start position:0%
+foundation models transfer to downstream
+diverse<00:13:05.960><c> tasks</c><00:13:06.760><c> with</c><00:13:06.880><c> respect</c><00:13:07.160><c> to</c><00:13:07.240><c> object</c>
+
+00:13:07.510 --> 00:13:07.520 align:start position:0%
+diverse tasks with respect to object
+ 
+
+00:13:07.520 --> 00:13:09.150 align:start position:0%
+diverse tasks with respect to object
+detection,<00:13:07.960><c> which</c><00:13:08.160><c> is</c>
+
+00:13:09.150 --> 00:13:09.160 align:start position:0%
+detection, which is
+ 
+
+00:13:09.160 --> 00:13:11.190 align:start position:0%
+detection, which is
+one<00:13:09.280><c> of</c><00:13:09.360><c> the</c><00:13:09.720><c> canonical</c><00:13:10.480><c> vision-centric</c>
+
+00:13:11.190 --> 00:13:11.200 align:start position:0%
+one of the canonical vision-centric
+ 
+
+00:13:11.200 --> 00:13:12.870 align:start position:0%
+one of the canonical vision-centric
+tasks.
+
+00:13:12.870 --> 00:13:12.880 align:start position:0%
+tasks.
+ 
+
+00:13:12.880 --> 00:13:15.110 align:start position:0%
+tasks.
+And<00:13:13.640><c> we</c><00:13:13.839><c> see</c>
+
+00:13:15.110 --> 00:13:15.120 align:start position:0%
+And we see
+ 
+
+00:13:15.120 --> 00:13:17.870 align:start position:0%
+And we see
+about<00:13:15.280><c> a</c><00:13:15.360><c> 40x</c><00:13:16.000><c> speed</c><00:13:16.320><c> up</c><00:13:16.480><c> for</c><00:13:16.600><c> the</c><00:13:16.720><c> same</c>
+
+00:13:17.870 --> 00:13:17.880 align:start position:0%
+about a 40x speed up for the same
+ 
+
+00:13:17.880 --> 00:13:20.990 align:start position:0%
+about a 40x speed up for the same
+accuracy<00:13:18.640><c> versus</c><00:13:19.000><c> fine-tuning</c><00:13:19.480><c> SAM</c><00:13:19.720><c> 3,</c>
+
+00:13:20.990 --> 00:13:21.000 align:start position:0%
+accuracy versus fine-tuning SAM 3,
+ 
+
+00:13:21.000 --> 00:13:24.510 align:start position:0%
+accuracy versus fine-tuning SAM 3,
+uh<00:13:21.800><c> and</c><00:13:22.160><c> for</c><00:13:22.440><c> merely</c><00:13:22.960><c> a</c><00:13:23.000><c> 15x</c><00:13:23.800><c> speed</c><00:13:24.120><c> up,</c><00:13:24.280><c> we</c><00:13:24.360><c> get</c>
+
+00:13:24.510 --> 00:13:24.520 align:start position:0%
+uh and for merely a 15x speed up, we get
+ 
+
+00:13:24.520 --> 00:13:26.910 align:start position:0%
+uh and for merely a 15x speed up, we get
+a<00:13:24.560><c> a</c><00:13:24.600><c> meaningful</c><00:13:25.120><c> improvement.</c>
+
+00:13:26.910 --> 00:13:26.920 align:start position:0%
+a a meaningful improvement.
+ 
+
+00:13:26.920 --> 00:13:29.230 align:start position:0%
+a a meaningful improvement.
+Um
+
+00:13:29.230 --> 00:13:29.240 align:start position:0%
+Um
+ 
+
+00:13:29.240 --> 00:13:32.710 align:start position:0%
+Um
+So,<00:13:30.000><c> this</c><00:13:30.800><c> combination</c><00:13:31.400><c> of</c><00:13:32.360><c> this</c><00:13:32.480><c> huge</c>
+
+00:13:32.710 --> 00:13:32.720 align:start position:0%
+So, this combination of this huge
+ 
+
+00:13:32.720 --> 00:13:34.190 align:start position:0%
+So, this combination of this huge
+advancement<00:13:33.280><c> in</c><00:13:33.560><c> foundation</c><00:13:34.000><c> model</c>
+
+00:13:34.190 --> 00:13:34.200 align:start position:0%
+advancement in foundation model
+ 
+
+00:13:34.200 --> 00:13:36.829 align:start position:0%
+advancement in foundation model
+pre-training<00:13:35.480><c> and</c><00:13:35.760><c> these</c><00:13:36.160><c> strong</c><00:13:36.480><c> deployment</c>
+
+00:13:36.829 --> 00:13:36.839 align:start position:0%
+pre-training and these strong deployment
+ 
+
+00:13:36.839 --> 00:13:38.150 align:start position:0%
+pre-training and these strong deployment
+methods
+
+00:13:38.150 --> 00:13:38.160 align:start position:0%
+methods
+ 
+
+00:13:38.160 --> 00:13:40.310 align:start position:0%
+methods
+combined<00:13:38.600><c> with</c><00:13:39.240><c> uh</c>
+
+00:13:40.310 --> 00:13:40.320 align:start position:0%
+combined with uh
+ 
+
+00:13:40.320 --> 00:13:42.150 align:start position:0%
+combined with uh
+an<00:13:40.440><c> actual</c><00:13:40.880><c> ability</c><00:13:41.320><c> to</c><00:13:41.480><c> deploy</c><00:13:41.760><c> these</c><00:13:42.040><c> in</c>
+
+00:13:42.150 --> 00:13:42.160 align:start position:0%
+an actual ability to deploy these in
+ 
+
+00:13:42.160 --> 00:13:44.390 align:start position:0%
+an actual ability to deploy these in
+hardware<00:13:42.560><c> constrained</c><00:13:43.200><c> environments</c><00:13:44.160><c> ends</c>
+
+00:13:44.390 --> 00:13:44.400 align:start position:0%
+hardware constrained environments ends
+ 
+
+00:13:44.400 --> 00:13:45.870 align:start position:0%
+hardware constrained environments ends
+up<00:13:44.520><c> being</c><00:13:44.800><c> the</c>
+
+00:13:45.870 --> 00:13:45.880 align:start position:0%
+up being the
+ 
+
+00:13:45.880 --> 00:13:47.430 align:start position:0%
+up being the
+uh
+
+00:13:47.430 --> 00:13:47.440 align:start position:0%
+uh
+ 
+
+00:13:47.440 --> 00:13:49.470 align:start position:0%
+uh
+uh<00:13:47.680><c> final</c><00:13:48.080><c> nail</c><00:13:48.360><c> in</c><00:13:48.440><c> the</c><00:13:48.520><c> coffin</c><00:13:48.920><c> for</c><00:13:49.040><c> these</c>
+
+00:13:49.470 --> 00:13:49.480 align:start position:0%
+uh final nail in the coffin for these
+ 
+
+00:13:49.480 --> 00:13:52.030 align:start position:0%
+uh final nail in the coffin for these
+classical<00:13:49.960><c> convolutional-based</c><00:13:50.880><c> methods.</c>
+
+00:13:52.030 --> 00:13:52.040 align:start position:0%
+classical convolutional-based methods.
+ 
+
+00:13:52.040 --> 00:13:54.390 align:start position:0%
+classical convolutional-based methods.
+Uh<00:13:52.440><c> these</c><00:13:53.280><c> at</c><00:13:53.360><c> the</c><00:13:53.440><c> time</c><00:13:53.640><c> of</c><00:13:53.760><c> our</c><00:13:53.839><c> publication</c>
+
+00:13:54.390 --> 00:13:54.400 align:start position:0%
+Uh these at the time of our publication
+ 
+
+00:13:54.400 --> 00:13:56.430 align:start position:0%
+Uh these at the time of our publication
+of<00:13:54.960><c> RFDetR,</c>
+
+00:13:56.430 --> 00:13:56.440 align:start position:0%
+of RFDetR,
+ 
+
+00:13:56.440 --> 00:13:59.990 align:start position:0%
+of RFDetR,
+these<00:13:56.680><c> were</c><00:13:56.800><c> the</c><00:13:57.160><c> best</c><00:13:57.880><c> convolutional</c>
+
+00:13:59.990 --> 00:14:00.000 align:start position:0%
+these were the best convolutional
+ 
+
+00:14:00.000 --> 00:14:02.390 align:start position:0%
+these were the best convolutional
+uh<00:14:00.440><c> these</c><00:14:00.640><c> were</c><00:14:00.720><c> the</c><00:14:00.800><c> best</c><00:14:01.040><c> real-time</c>
+
+00:14:02.390 --> 00:14:02.400 align:start position:0%
+uh these were the best real-time
+ 
+
+00:14:02.400 --> 00:14:05.590 align:start position:0%
+uh these were the best real-time
+instance<00:14:02.720><c> segmentation</c><00:14:03.240><c> models,</c><00:14:04.040><c> and</c><00:14:04.280><c> we</c><00:14:04.839><c> uh</c>
+
+00:14:05.590 --> 00:14:05.600 align:start position:0%
+instance segmentation models, and we uh
+ 
+
+00:14:05.600 --> 00:14:08.070 align:start position:0%
+instance segmentation models, and we uh
+we<00:14:05.880><c> we</c><00:14:06.200><c> we</c><00:14:06.440><c> we</c><00:14:06.600><c> outperformed</c><00:14:07.080><c> them</c><00:14:07.600><c> in</c><00:14:07.760><c> a</c><00:14:07.920><c> in</c><00:14:08.040><c> a</c>
+
+00:14:08.070 --> 00:14:08.080 align:start position:0%
+we we we we outperformed them in a in a
+ 
+
+00:14:08.080 --> 00:14:09.470 align:start position:0%
+we we we we outperformed them in a in a
+meaningful<00:14:08.440><c> way.</c>
+
+00:14:09.470 --> 00:14:09.480 align:start position:0%
+meaningful way.
+ 
+
+00:14:09.480 --> 00:14:12.470 align:start position:0%
+meaningful way.
+Uh
+
+00:14:12.470 --> 00:14:12.480 align:start position:0%
+ 
+ 
+
+00:14:12.480 --> 00:14:15.350 align:start position:0%
+ 
+Um<00:14:13.440><c> and</c><00:14:13.560><c> so,</c><00:14:13.720><c> this</c><00:14:13.920><c> is</c><00:14:14.480><c> all</c><00:14:14.720><c> those</c><00:14:14.920><c> models</c><00:14:15.240><c> on</c>
+
+00:14:15.350 --> 00:14:15.360 align:start position:0%
+Um and so, this is all those models on
+ 
+
+00:14:15.360 --> 00:14:16.910 align:start position:0%
+Um and so, this is all those models on
+that<00:14:15.520><c> line</c><00:14:15.760><c> use</c><00:14:16.000><c> actually</c><00:14:16.280><c> the</c><00:14:16.400><c> same</c>
+
+00:14:16.910 --> 00:14:16.920 align:start position:0%
+that line use actually the same
+ 
+
+00:14:16.920 --> 00:14:18.350 align:start position:0%
+that line use actually the same
+foundation<00:14:17.400><c> model.</c>
+
+00:14:18.350 --> 00:14:18.360 align:start position:0%
+foundation model.
+ 
+
+00:14:18.360 --> 00:14:20.790 align:start position:0%
+foundation model.
+We<00:14:18.480><c> just</c><00:14:19.480><c> modify</c><00:14:19.959><c> the</c><00:14:20.079><c> foundation</c><00:14:20.560><c> model</c>
+
+00:14:20.790 --> 00:14:20.800 align:start position:0%
+We just modify the foundation model
+ 
+
+00:14:20.800 --> 00:14:22.750 align:start position:0%
+We just modify the foundation model
+using<00:14:21.040><c> neural</c><00:14:21.240><c> architecture</c><00:14:21.640><c> search</c>
+
+00:14:22.750 --> 00:14:22.760 align:start position:0%
+using neural architecture search
+ 
+
+00:14:22.760 --> 00:14:24.750 align:start position:0%
+using neural architecture search
+such<00:14:23.040><c> that</c><00:14:23.440><c> we</c><00:14:23.560><c> generate</c><00:14:23.920><c> an</c><00:14:24.040><c> entire</c><00:14:24.360><c> family</c>
+
+00:14:24.750 --> 00:14:24.760 align:start position:0%
+such that we generate an entire family
+ 
+
+00:14:24.760 --> 00:14:25.990 align:start position:0%
+such that we generate an entire family
+of
+
+00:14:25.990 --> 00:14:26.000 align:start position:0%
+of
+ 
+
+00:14:26.000 --> 00:14:30.870 align:start position:0%
+of
+uh<00:14:26.640><c> high-performance</c><00:14:27.680><c> models</c><00:14:28.240><c> in</c><00:14:28.440><c> in</c><00:14:28.640><c> one</c><00:14:28.800><c> go.</c>
+
+00:14:30.870 --> 00:14:30.880 align:start position:0%
+uh high-performance models in in one go.
+ 
+
+00:14:30.880 --> 00:14:32.510 align:start position:0%
+uh high-performance models in in one go.
+To<00:14:31.040><c> do</c><00:14:31.200><c> this,</c><00:14:31.560><c> we</c><00:14:31.760><c> actually</c><00:14:32.079><c> introduce</c><00:14:32.480><c> a</c>
+
+00:14:32.510 --> 00:14:32.520 align:start position:0%
+To do this, we actually introduce a
+ 
+
+00:14:32.520 --> 00:14:35.350 align:start position:0%
+To do this, we actually introduce a
+bunch<00:14:32.800><c> of</c><00:14:33.040><c> uh</c><00:14:33.120><c> flexible</c><00:14:33.560><c> knobs.</c><00:14:34.520><c> All</c><00:14:34.720><c> of</c><00:14:34.800><c> these</c>
+
+00:14:35.350 --> 00:14:35.360 align:start position:0%
+bunch of uh flexible knobs. All of these
+ 
+
+00:14:35.360 --> 00:14:38.150 align:start position:0%
+bunch of uh flexible knobs. All of these
+are<00:14:35.560><c> drop-in</c><00:14:36.040><c> compatible</c><00:14:36.680><c> with</c><00:14:37.000><c> the</c><00:14:37.120><c> existing</c>
+
+00:14:38.150 --> 00:14:38.160 align:start position:0%
+are drop-in compatible with the existing
+ 
+
+00:14:38.160 --> 00:14:41.030 align:start position:0%
+are drop-in compatible with the existing
+foundation<00:14:38.600><c> model</c><00:14:39.640><c> infrastructure,</c>
+
+00:14:41.030 --> 00:14:41.040 align:start position:0%
+foundation model infrastructure,
+ 
+
+00:14:41.040 --> 00:14:43.829 align:start position:0%
+foundation model infrastructure,
+and<00:14:41.600><c> by</c><00:14:42.160><c> mixing</c><00:14:42.520><c> and</c><00:14:42.600><c> matching</c><00:14:42.959><c> them</c><00:14:43.520><c> in</c><00:14:43.640><c> a</c><00:14:43.680><c> way</c>
+
+00:14:43.829 --> 00:14:43.839 align:start position:0%
+and by mixing and matching them in a way
+ 
+
+00:14:43.839 --> 00:14:45.910 align:start position:0%
+and by mixing and matching them in a way
+that<00:14:44.000><c> is</c><00:14:44.120><c> dependent</c><00:14:44.640><c> on</c><00:14:44.920><c> target</c><00:14:45.360><c> data</c><00:14:45.800><c> and</c>
+
+00:14:45.910 --> 00:14:45.920 align:start position:0%
+that is dependent on target data and
+ 
+
+00:14:45.920 --> 00:14:47.630 align:start position:0%
+that is dependent on target data and
+target<00:14:46.200><c> hardware,</c>
+
+00:14:47.630 --> 00:14:47.640 align:start position:0%
+target hardware,
+ 
+
+00:14:47.640 --> 00:14:48.990 align:start position:0%
+target hardware,
+we<00:14:47.760><c> can</c><00:14:48.320><c> uh</c>
+
+00:14:48.990 --> 00:14:49.000 align:start position:0%
+we can uh
+ 
+
+00:14:49.000 --> 00:14:52.430 align:start position:0%
+we can uh
+resolve<00:14:49.400><c> the</c><00:14:49.560><c> issue</c><00:14:50.240><c> that</c>
+
+00:14:52.430 --> 00:14:52.440 align:start position:0%
+resolve the issue that
+ 
+
+00:14:52.440 --> 00:14:54.630 align:start position:0%
+resolve the issue that
+uh<00:14:52.720><c> these</c><00:14:52.880><c> foundation</c><00:14:53.280><c> models</c><00:14:53.839><c> do</c><00:14:53.959><c> not</c><00:14:54.160><c> have</c>
+
+00:14:54.630 --> 00:14:54.640 align:start position:0%
+uh these foundation models do not have
+ 
+
+00:14:54.640 --> 00:14:57.470 align:start position:0%
+uh these foundation models do not have
+deployment<00:14:55.000><c> flexibility.</c>
+
+00:14:57.470 --> 00:14:57.480 align:start position:0%
+deployment flexibility.
+ 
+
+00:14:57.480 --> 00:14:59.069 align:start position:0%
+deployment flexibility.
+Um
+
+00:14:59.069 --> 00:14:59.079 align:start position:0%
+Um
+ 
+
+00:14:59.079 --> 00:15:02.550 align:start position:0%
+Um
+So,<00:15:00.079><c> massive</c><00:15:00.760><c> VIT</c><00:15:01.120><c> specific</c><00:15:01.520><c> pre-training</c>
+
+00:15:02.550 --> 00:15:02.560 align:start position:0%
+So, massive VIT specific pre-training
+ 
+
+00:15:02.560 --> 00:15:06.430 align:start position:0%
+So, massive VIT specific pre-training
+plus<00:15:03.480><c> speed</c><00:15:03.920><c> ups</c><00:15:04.079><c> from</c><00:15:04.240><c> LLMs</c><00:15:05.280><c> plus</c>
+
+00:15:06.430 --> 00:15:06.440 align:start position:0%
+plus speed ups from LLMs plus
+ 
+
+00:15:06.440 --> 00:15:07.790 align:start position:0%
+plus speed ups from LLMs plus
+uh<00:15:06.600><c> pre-training</c><00:15:07.120><c> compatible</c><00:15:07.560><c> neural</c>
+
+00:15:07.790 --> 00:15:07.800 align:start position:0%
+uh pre-training compatible neural
+ 
+
+00:15:07.800 --> 00:15:09.430 align:start position:0%
+uh pre-training compatible neural
+architecture<00:15:08.200><c> search,</c>
+
+00:15:09.430 --> 00:15:09.440 align:start position:0%
+architecture search,
+ 
+
+00:15:09.440 --> 00:15:11.710 align:start position:0%
+architecture search,
+and<00:15:10.360><c> uh</c>
+
+00:15:11.710 --> 00:15:11.720 align:start position:0%
+and uh
+ 
+
+00:15:11.720 --> 00:15:22.350 align:start position:0%
+and uh
+that's<00:15:11.959><c> it.</c>
+
+00:15:22.350 --> 00:15:22.360 align:start position:0%
+ 
+ 
+
+00:15:22.360 --> 00:15:24.310 align:start position:0%
+ 
+Do<00:15:22.440><c> we</c><00:15:22.560><c> have</c><00:15:23.000><c> architectures</c><00:15:23.640><c> that</c><00:15:23.800><c> support</c>
+
+00:15:24.310 --> 00:15:24.320 align:start position:0%
+Do we have architectures that support
+ 
+
+00:15:24.320 --> 00:15:25.949 align:start position:0%
+Do we have architectures that support
+like<00:15:24.520><c> video</c><00:15:25.000><c> or</c>
+
+00:15:25.949 --> 00:15:25.959 align:start position:0%
+like video or
+ 
+
+00:15:25.959 --> 00:15:29.590 align:start position:0%
+like video or
+video<00:15:26.680><c> plus</c><00:15:27.320><c> image</c><00:15:28.160><c> plus</c><00:15:28.520><c> text</c><00:15:28.959><c> pre-training</c>
+
+00:15:29.590 --> 00:15:29.600 align:start position:0%
+video plus image plus text pre-training
+ 
+
+00:15:29.600 --> 00:15:31.069 align:start position:0%
+video plus image plus text pre-training
+already?
+
+00:15:31.069 --> 00:15:31.079 align:start position:0%
+already?
+ 
+
+00:15:31.079 --> 00:15:33.069 align:start position:0%
+already?
+Is<00:15:31.240><c> someone</c><00:15:31.560><c> working</c><00:15:31.880><c> on</c><00:15:31.959><c> that?</c>
+
+00:15:33.069 --> 00:15:33.079 align:start position:0%
+Is someone working on that?
+ 
+
+00:15:33.079 --> 00:15:35.870 align:start position:0%
+Is someone working on that?
+So,
+
+00:15:35.870 --> 00:15:35.880 align:start position:0%
+So,
+ 
+
+00:15:35.880 --> 00:15:37.350 align:start position:0%
+So,
+there<00:15:36.200><c> are</c><00:15:36.280><c> a</c><00:15:36.320><c> lot</c><00:15:36.560><c> of</c><00:15:36.640><c> people</c><00:15:36.920><c> working</c><00:15:37.200><c> on</c>
+
+00:15:37.350 --> 00:15:37.360 align:start position:0%
+there are a lot of people working on
+ 
+
+00:15:37.360 --> 00:15:38.430 align:start position:0%
+there are a lot of people working on
+like<00:15:37.520><c> a</c><00:15:37.560><c> huge</c><00:15:37.920><c> amount</c><00:15:38.120><c> of</c><00:15:38.200><c> different</c>
+
+00:15:38.430 --> 00:15:38.440 align:start position:0%
+like a huge amount of different
+ 
+
+00:15:38.440 --> 00:15:40.069 align:start position:0%
+like a huge amount of different
+combinations<00:15:38.920><c> of</c><00:15:39.000><c> things.</c><00:15:39.560><c> I</c><00:15:39.640><c> actually</c><00:15:39.920><c> think</c>
+
+00:15:40.069 --> 00:15:40.079 align:start position:0%
+combinations of things. I actually think
+ 
+
+00:15:40.079 --> 00:15:43.390 align:start position:0%
+combinations of things. I actually think
+SAM<00:15:40.360><c> 3</c><00:15:40.560><c> is</c><00:15:40.720><c> a</c><00:15:40.800><c> good</c><00:15:41.200><c> example</c><00:15:41.720><c> of</c><00:15:42.160><c> that.</c><00:15:42.520><c> They</c><00:15:42.640><c> do</c>
+
+00:15:43.390 --> 00:15:43.400 align:start position:0%
+SAM 3 is a good example of that. They do
+ 
+
+00:15:43.400 --> 00:15:45.870 align:start position:0%
+SAM 3 is a good example of that. They do
+Well,<00:15:43.600><c> in</c><00:15:43.839><c> terms</c><00:15:44.079><c> of</c>
+
+00:15:45.870 --> 00:15:45.880 align:start position:0%
+Well, in terms of
+ 
+
+00:15:45.880 --> 00:15:48.230 align:start position:0%
+Well, in terms of
+in<00:15:46.000><c> terms</c><00:15:46.240><c> of</c><00:15:46.560><c> vision-specific</c><00:15:47.959><c> video</c>
+
+00:15:48.230 --> 00:15:48.240 align:start position:0%
+in terms of vision-specific video
+ 
+
+00:15:48.240 --> 00:15:49.710 align:start position:0%
+in terms of vision-specific video
+processing,
+
+00:15:49.710 --> 00:15:49.720 align:start position:0%
+processing,
+ 
+
+00:15:49.720 --> 00:15:52.390 align:start position:0%
+processing,
+it<00:15:50.480><c> does</c><00:15:50.680><c> video</c><00:15:50.880><c> processing</c><00:15:51.320><c> in</c><00:15:51.440><c> the</c><00:15:51.920><c> in</c><00:15:52.200><c> from</c>
+
+00:15:52.390 --> 00:15:52.400 align:start position:0%
+it does video processing in the in from
+ 
+
+00:15:52.400 --> 00:15:53.670 align:start position:0%
+it does video processing in the in from
+the<00:15:52.480><c> perspective</c><00:15:52.839><c> of</c><00:15:52.959><c> tracking</c><00:15:53.320><c> objects</c>
+
+00:15:53.670 --> 00:15:53.680 align:start position:0%
+the perspective of tracking objects
+ 
+
+00:15:53.680 --> 00:15:55.470 align:start position:0%
+the perspective of tracking objects
+through<00:15:53.800><c> video.</c>
+
+00:15:55.470 --> 00:15:55.480 align:start position:0%
+through video.
+ 
+
+00:15:55.480 --> 00:15:57.750 align:start position:0%
+through video.
+So,<00:15:55.600><c> they</c><00:15:55.720><c> do</c><00:15:56.600><c> massive-scale</c><00:15:57.240><c> pre-training.</c>
+
+00:15:57.750 --> 00:15:57.760 align:start position:0%
+So, they do massive-scale pre-training.
+ 
+
+00:15:57.760 --> 00:15:59.310 align:start position:0%
+So, they do massive-scale pre-training.
+They<00:15:57.880><c> do</c><00:15:58.000><c> the</c><00:15:58.400><c> perception</c><00:15:58.800><c> encoder</c>
+
+00:15:59.310 --> 00:15:59.320 align:start position:0%
+They do the perception encoder
+ 
+
+00:15:59.320 --> 00:16:00.630 align:start position:0%
+They do the perception encoder
+pre-training<00:15:59.760><c> for</c><00:15:59.839><c> the</c><00:15:59.959><c> backbone,</c><00:16:00.440><c> and</c><00:16:00.520><c> then</c>
+
+00:16:00.630 --> 00:16:00.640 align:start position:0%
+pre-training for the backbone, and then
+ 
+
+00:16:00.640 --> 00:16:02.069 align:start position:0%
+pre-training for the backbone, and then
+they<00:16:00.720><c> do</c><00:16:00.880><c> a</c><00:16:00.920><c> huge</c><00:16:01.160><c> amount</c><00:16:01.360><c> of</c><00:16:01.640><c> downstream</c>
+
+00:16:02.069 --> 00:16:02.079 align:start position:0%
+they do a huge amount of downstream
+ 
+
+00:16:02.079 --> 00:16:04.190 align:start position:0%
+they do a huge amount of downstream
+pre-training.
+
+00:16:04.190 --> 00:16:04.200 align:start position:0%
+pre-training.
+ 
+
+00:16:04.200 --> 00:16:04.990 align:start position:0%
+pre-training.
+Or<00:16:04.280><c> I</c><00:16:04.360><c> guess</c><00:16:04.520><c> you</c><00:16:04.560><c> would</c><00:16:04.680><c> just</c><00:16:04.800><c> call</c><00:16:04.920><c> it</c>
+
+00:16:04.990 --> 00:16:05.000 align:start position:0%
+Or I guess you would just call it
+ 
+
+00:16:05.000 --> 00:16:06.670 align:start position:0%
+Or I guess you would just call it
+training<00:16:05.240><c> at</c><00:16:05.320><c> that</c><00:16:05.440><c> point.</c>
+
+00:16:06.670 --> 00:16:06.680 align:start position:0%
+training at that point.
+ 
+
+00:16:06.680 --> 00:16:08.150 align:start position:0%
+training at that point.
+Um
+
+00:16:08.150 --> 00:16:08.160 align:start position:0%
+Um
+ 
+
+00:16:08.160 --> 00:16:10.430 align:start position:0%
+Um
+What<00:16:08.400><c> about</c><00:16:08.560><c> JEPA</c><00:16:09.000><c> like</c><00:16:09.680><c> Yeah,</c><00:16:09.959><c> the</c><00:16:10.079><c> video</c>
+
+00:16:10.430 --> 00:16:10.440 align:start position:0%
+What about JEPA like Yeah, the video
+ 
+
+00:16:10.440 --> 00:16:15.630 align:start position:0%
+What about JEPA like Yeah, the video
+Yeah,<00:16:11.160><c> JEPA</c><00:16:11.440><c> and</c><00:16:11.560><c> the</c><00:16:11.640><c> VJEPA,</c><00:16:12.600><c> those</c><00:16:12.920><c> are</c><00:16:13.520><c> uh</c>
+
+00:16:15.630 --> 00:16:15.640 align:start position:0%
+ 
+ 
+
+00:16:15.640 --> 00:16:17.230 align:start position:0%
+ 
+I<00:16:15.760><c> mean,</c><00:16:15.920><c> yeah,</c><00:16:16.120><c> those</c><00:16:16.360><c> are</c><00:16:16.440><c> another</c><00:16:16.839><c> variety</c>
+
+00:16:17.230 --> 00:16:17.240 align:start position:0%
+I mean, yeah, those are another variety
+ 
+
+00:16:17.240 --> 00:16:19.069 align:start position:0%
+I mean, yeah, those are another variety
+of<00:16:17.320><c> foundation</c><00:16:17.680><c> model.</c><00:16:17.959><c> I</c><00:16:18.040><c> think</c><00:16:18.560><c> in</c><00:16:18.680><c> terms</c><00:16:18.920><c> of</c>
+
+00:16:19.069 --> 00:16:19.079 align:start position:0%
+of foundation model. I think in terms of
+ 
+
+00:16:19.079 --> 00:16:20.710 align:start position:0%
+of foundation model. I think in terms of
+single
+
+00:16:20.710 --> 00:16:20.720 align:start position:0%
+single
+ 
+
+00:16:20.720 --> 00:16:23.750 align:start position:0%
+single
+like<00:16:20.920><c> image-centric</c><00:16:21.640><c> pre-training,</c>
+
+00:16:23.750 --> 00:16:23.760 align:start position:0%
+like image-centric pre-training,
+ 
+
+00:16:23.760 --> 00:16:26.069 align:start position:0%
+like image-centric pre-training,
+JEPA<00:16:24.160><c> doesn't</c><00:16:24.640><c> seem</c><00:16:24.800><c> to</c><00:16:24.880><c> outperform</c><00:16:25.760><c> a</c><00:16:25.839><c> lot</c><00:16:26.000><c> of</c>
+
+00:16:26.069 --> 00:16:26.079 align:start position:0%
+JEPA doesn't seem to outperform a lot of
+ 
+
+00:16:26.079 --> 00:16:27.510 align:start position:0%
+JEPA doesn't seem to outperform a lot of
+the<00:16:26.160><c> other</c><00:16:26.320><c> ones.</c>
+
+00:16:27.510 --> 00:16:27.520 align:start position:0%
+the other ones.
+ 
+
+00:16:27.520 --> 00:16:29.949 align:start position:0%
+the other ones.
+Video<00:16:28.000><c> JEPA,</c>
+
+00:16:29.949 --> 00:16:29.959 align:start position:0%
+Video JEPA,
+ 
+
+00:16:29.959 --> 00:16:32.190 align:start position:0%
+Video JEPA,
+I<00:16:30.079><c> haven't</c><00:16:30.400><c> seen</c><00:16:30.560><c> anyone</c><00:16:31.440><c> use</c><00:16:31.680><c> it</c>
+
+00:16:32.190 --> 00:16:32.200 align:start position:0%
+I haven't seen anyone use it
+ 
+
+00:16:32.200 --> 00:16:34.630 align:start position:0%
+I haven't seen anyone use it
+meaningfully<00:16:32.640><c> in</c><00:16:32.720><c> a</c><00:16:32.760><c> video</c><00:16:33.680><c> context</c><00:16:34.520><c> for</c>
+
+00:16:34.630 --> 00:16:34.640 align:start position:0%
+meaningfully in a video context for
+ 
+
+00:16:34.640 --> 00:16:37.030 align:start position:0%
+meaningfully in a video context for
+downstream<00:16:35.040><c> transfer</c><00:16:35.400><c> yet,</c><00:16:35.839><c> but</c>
+
+00:16:37.030 --> 00:16:37.040 align:start position:0%
+downstream transfer yet, but
+ 
+
+00:16:37.040 --> 00:16:38.910 align:start position:0%
+downstream transfer yet, but
+you<00:16:37.120><c> know,</c><00:16:37.240><c> we'll</c><00:16:37.360><c> see.</c><00:16:38.120><c> Yeah.</c>
+
+00:16:38.910 --> 00:16:38.920 align:start position:0%
+you know, we'll see. Yeah.
+ 
+
+00:16:38.920 --> 00:16:40.790 align:start position:0%
+you know, we'll see. Yeah.
+Yeah.
+
+00:16:40.790 --> 00:16:40.800 align:start position:0%
+Yeah.
+ 
+
+00:16:40.800 --> 00:16:43.590 align:start position:0%
+Yeah.
+Any<00:16:40.880><c> other</c><00:16:41.000><c> questions?</c>
+
+00:16:43.590 --> 00:16:43.600 align:start position:0%
+ 
+ 
+
+00:16:43.600 --> 00:16:44.870 align:start position:0%
+ 
+Cool.
+
+00:16:44.870 --> 00:16:44.880 align:start position:0%
+Cool.
+ 
+
+00:16:44.880 --> 00:16:47.160 align:start position:0%
+Cool.
+Okay.
+
