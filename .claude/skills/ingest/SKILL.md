@@ -18,7 +18,7 @@ You are maintaining an LLM Wiki (Obsidian knowledge base). `raw/` is the inbox; 
 - `raw/03-transcripts/` — video/podcast transcripts (markdown)
 - `raw/04-meeting_notes/` — meeting notes, brainstorming
 - `raw/05-vtts/` — **raw WebVTT subtitle inputs. Never ingest these.** They are upstream artifacts used to *generate* the markdown transcripts in `raw/03-transcripts/`. Ignore the entire folder during scans.
-- `wiki/sources/` — one summary per raw file, **mirroring the raw subpath** (e.g. `03-transcripts/Claude/Claude Code 101/summary-01 - What is Claude Code.md`)
+- `wiki/sources/` — one summary per raw file, **mirroring the raw subpath** (see Step 3)
 - `wiki/entities/` — people, companies, tools, products (TitleCase)
 - `wiki/concepts/` — frameworks, methodologies, theories (TitleCase)
 
@@ -39,11 +39,23 @@ You are maintaining an LLM Wiki (Obsidian knowledge base). `raw/` is the inbox; 
 ### Batch processing
 
 When the user confirms processing multiple files in one run:
-- **De-duplicate first.** If the same source appears in more than one form (e.g. a transcript and its subtitle twin), keep only the canonical `.md`/`.pdf` content file and drop the rest. Never compile the same underlying source twice.
+- **De-duplicate first.** If the same source appears in more than one form (e.g. a transcript and its subtitle twin), keep only the canonical .md/.pdf content file and drop the rest. Never compile the same underlying source twice.
 - **Process oldest-first** (by filename date prefix where present) so the wiki accretes in chronological order.
-- **Run the full pipeline per file, one at a time** — finish Steps 1–6 for a file before starting the next. Don't batch all reads then all writes; that loses the incremental-merge and conflict-pause guarantees.
-- **A conflict pauses the whole batch.** If Step 4 hits a conflict on any file, stop, report it, and wait for the user's decision before resuming the remaining files (see Conflict handling). Already-completed files stay done; the rest wait.
-- **Summarize at the end**: list which files were ingested, which were skipped as duplicates, and any conflicts that paused.
+- **Use parallel workers for content creation (Steps 1–4 only).** Each file gets its own subagent that reads the source, extracts entities/concepts, creates the mirrored source summary, and creates/updates entity and concept pages. Workers must **never** touch index.md or log.md — those are shared state edited in the consolidation step below. For entity/concept pages, workers may safely read and write their own pages in parallel since each entity/concept page is a distinct file.
+- **A conflict pauses the whole batch.** If Step 4 hits a conflict on any file, the worker stops, reports it, and the orchestrator waits for the user's decision before resuming the remaining files (see Conflict handling). Already-completed files stay done; the rest wait.
+- **Consolidate registries after the batch (Steps 5–6 once).** After all workers finish, a single sequential process updates index.md and log.md once for the entire batch. This eliminates race conditions on shared state.
+
+#### Batch orchestration protocol
+
+1. **Dispatch workers in parallel** — one subagent per file. Each worker executes Steps 1–4 only. Workers create source summaries, entity pages, and concept pages. Workers must NOT read or write wiki/index.md or wiki/log.md.
+2. **Collect results** — wait for all workers to finish. Gather the list of created/updated pages from each worker's summary.
+3. **Run consolidation** — a single sequential process:
+   a. Read wiki/index.md once.
+   b. Add every new source summary, entity, and concept entry to the appropriate section. Check for duplicates (parallel workers may have created the same entity/concept pages — pick one entry per page).
+   c. Write wiki/index.md once.
+   d. Append one log entry per ingested file to wiki/log.md.
+4. **Summarize at the end**: list which files were ingested, total pages created/updated, any conflicts that paused, and any workers that failed.
+
 
 ## Compilation pipeline
 
@@ -65,23 +77,27 @@ From the source, identify:
 
 If the source is in a non-English language, translate to English. Preserve original-language proper nouns and key terminology in parentheses where helpful.
 
-### Step 3: Create the source summary
+### Step 3: Create the source summary (mirrored path)
 
-Create the source summary at a **mirrored path** under `wiki/sources/`. The path mirrors the raw file's subpath: strip the `raw/` prefix, then prepend `summary-` to the raw filename.
+The summary **mirrors the raw file's path** so the two are linked deterministically and reversibly, with no archiving:
 
-```
-raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md
-→ wiki/sources/03-transcripts/Claude/Claude Code 101/summary-01 - What is Claude Code.md
-```
-
-This makes the link between summary and source deterministic and reversible by path alone. The `sources:` frontmatter stays valid permanently because the raw file is never moved.
+- **Mirror the raw subpath** under `wiki/sources/`, and name the file `summary-` + the raw file's exact basename. The summary is always a markdown file.
+- Markdown source → keep the basename as-is (it already ends in `.md`):
+  - `raw/03-transcripts/Cole Medin/Channel Only/20260101 - AI Exploded.md`
+  - → `wiki/sources/03-transcripts/Cole Medin/Channel Only/summary-20260101 - AI Exploded.md`
+- PDF (or other) source → keep the full basename and append `.md` (so the summary stays markdown):
+  - `raw/02-papers/building-effective-agents.pdf`
+  - → `wiki/sources/02-papers/summary-building-effective-agents.pdf.md`
+- **Reverse lookup** (summary → raw): strip the `wiki/sources/` prefix and the `summary-` filename prefix, drop a trailing `.md` only if it was appended to a non-`.md` source, then prepend `raw/`.
+- Preserve the original (possibly non-ASCII) characters in the basename exactly — do not re-slugify. Spaces, fullwidth colons (`：`), curly quotes, etc. are fine and **must match the raw filename byte-for-byte** so the mapping holds.
+- Create any mirrored subdirectories under `wiki/sources/` as needed.
 
 ```markdown
 ---
 title: "summary-{raw-basename}"
 type: source
 tags: [source, original-material]
-sources: [raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md]
+sources: ["raw/03-transcripts/Cole Medin/Channel Only/20260101 - AI Exploded.md"]
 last_updated: YYYY-MM-DD
 ---
 
@@ -121,7 +137,7 @@ For each entity and concept extracted in Step 2:
 title: "PageName"
 type: entity | concept
 tags: [tag1, tag2]
-sources: [raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md]
+sources: [raw/01-articles/example.md]
 last_updated: YYYY-MM-DD
 ---
 
@@ -154,15 +170,15 @@ last_updated: YYYY-MM-DD
 
 If conflicts were paused on, note: `**Conflicts**: paused on [[ConflictPage]] — awaiting user decision`.
 
-### Step 6: Confirm completion (no archiving)
+### Step 6: Finalize (no archiving)
 
-Once **all** of the following are confirmed:
-- Source summary created at the mirrored path under `wiki/sources/`
-- All entity/concept pages created or updated
-- `wiki/index.md` updated
-- `wiki/log.md` updated
+**Do not move or modify the raw file — ever.** It stays in place permanently. The existence of the mirrored summary at `wiki/sources/<subpath>/summary-<basename>` is itself the "processed" marker, so no archive is needed.
 
-…the ingest is complete. **The raw file stays in place — never moved, never archived.** The mirrored summary under `wiki/sources/` is the sole signal that a source has been processed.
+Before considering the source done, confirm **all** of:
+- Mirrored source summary created in `wiki/sources/` (correct mirrored path; `sources:` points to the real raw path).
+- All entity/concept pages created or updated.
+- `wiki/index.md` updated.
+- `wiki/log.md` updated.
 
 ## Conflict handling
 
@@ -177,14 +193,14 @@ When ingestion would contradict existing wiki content:
    - **A)** Keep both as a `## Knowledge Conflicts` section on the page (default for genuine debate or evolving understanding).
    - **B)** Replace the old claim with the new one (use when the old was incorrect).
    - **C)** Abort this ingest entirely.
-4. **Continue** based on the choice. If A, add the conflict block. If B, update and note the supersession in the source citation. If C, leave wiki unchanged.
+4. **Continue** based on the choice. If A, add the conflict block. If B, update and note the supersession in the source citation. If C, leave the wiki unchanged and don't create the summary (so the source remains un-processed and will resurface on the next scan).
 
 ## Hard rules
 
-- **Never modify, move, rename, or delete `raw/` files.** Raw is strictly read-only and immutable; there is no archive.
-- **A source is "processed" when its mirrored summary exists** under `wiki/sources/` — that is the single dedup signal.
+- **Never move or modify a `raw/` file.** Raw is strictly read-only and immutable; there is no archive. "Processed" = the mirrored summary exists under `wiki/sources/`.
+- Source summaries mirror the raw subpath: `wiki/sources/<subpath>/summary-<raw-basename>` (markdown summary; reversible to the raw path by construction). The `sources:` frontmatter must match the real raw filename byte-for-byte.
 - Every wiki page must have a `## Related` section. No orphans.
 - All wiki content is in English. Translate non-English sources.
-- Entity & concept filenames: `TitleCase.md`. Source filenames: mirror the raw subpath with `summary-` prefix. Synthesis filenames: `kebab-case.md`.
+- Entity & concept filenames: `TitleCase.md`. Synthesis filenames: `kebab-case.md`.
 - Always update `index.md` and `log.md` after any wiki mutation.
 - **Use the real current date** for every `last_updated` field and log entry — read it from the injected current-date context or run `date +%F`. Never guess or copy the `YYYY-MM-DD` placeholder literally.

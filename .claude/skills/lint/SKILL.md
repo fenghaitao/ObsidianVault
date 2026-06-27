@@ -67,7 +67,7 @@ Check that filenames match the schema's required style for their folder (`CLAUDE
 | `wiki/sources/` | mirrors raw subpath: `<subpath>/summary-<raw-basename>` | `03-transcripts/Cole Medin/Channel Only/summary-20260101 - AI Exploded.md` |
 | `wiki/syntheses/` | `{slug}.md` (kebab-case) | `analysis-rag-vs-wiki.md` |
 
-Flag violations as a **yellow** issue (e.g. a concept in kebab-case, or a source summary whose path/name doesn't mirror its raw file — see below). Renaming is a fix the user must approve — propose the corrected name, and remember that renaming a page also requires updating every inbound `[[wikilink]]` and its `index.md` entry, so list those downstream edits alongside the rename. Renaming is a fix the user must approve — propose the corrected name, and remember that renaming a page also requires updating every inbound `[[wikilink]]` and its `index.md` entry, so list those downstream edits alongside the rename.
+Flag violations as a **yellow** issue (e.g. a concept in kebab-case, or a source summary whose path/name doesn't mirror its raw file — see below). Renaming is a fix the user must approve — propose the corrected name, and remember that renaming a page also requires updating every inbound `[[wikilink]]` and its `index.md` entry, so list those downstream edits alongside the rename.
 
 ## Report format
 
