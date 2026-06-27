@@ -53,3 +53,6 @@ desktop.ini
 
 # Python venv for .claude download scripts
 .claude/.venv/
+
+# .claude download run logs (transient yt-dlp output)
+.claude/*.log
