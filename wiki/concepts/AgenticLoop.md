@@ -2,8 +2,8 @@
 title: "AgenticLoop"
 type: concept
 tags: [ai, agent, loop, automation]
-sources: [raw/03-transcripts/Claude/Claude Code 101/03 - How Claude Code Works.md]
-last_updated: 2026-06-23
+sources: [raw/03-transcripts/Claude/Claude Code 101/03 - How Claude Code Works.md, raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md]
+last_updated: 2026-06-28
 ---
 
 ## Definition

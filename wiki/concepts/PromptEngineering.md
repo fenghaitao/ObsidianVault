@@ -2,8 +2,8 @@
 title: "PromptEngineering"
 type: concept
 tags: [prompting, system-prompt, interview, requirements, progressive-disclosure]
-sources: [raw/03-transcripts/Claude/Code with Claude 2026 - London/05 - The prompting playbook.md, raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/06 - How we Claude Code.md, raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/04 - Evals for taste： Hill-climbing a slide-generation agent.md]
-last_updated: 2026-06-23
+sources: [raw/03-transcripts/Claude/Code with Claude 2026 - London/05 - The prompting playbook.md, raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/06 - How we Claude Code.md, raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/04 - Evals for taste： Hill-climbing a slide-generation agent.md, raw/01-articles/claude/2024-05-20 - Generate better prompts in the developer console.md, raw/01-articles/claude/2024-10-14 - Improve your prompts in the developer console.md]
+last_updated: 2026-06-28
 ---
 
 ## Definition
@@ -20,6 +20,11 @@ Prompt engineering is the practice of designing effective instructions for AI mo
 - **QA loop prompting:** "Approach QA as a bug hunt, not a confirmation step" — adversarial self-critique produces better results than confirmatory review.
 - **Smarter models reduce prompt engineering:** Opus 4.7 with a minimal prompt can outperform Sonnet 4.6 with extensive instructions, as model intelligence substitutes for detailed configuration.
 - **HTML over Markdown for specs:** HTML specs are more information-dense and ergonomic for human review, enabling richer feedback loops.
+- **Role setting:** Encourage Claude to adopt the characteristics of an expert at the chosen task (e.g., "You will be acting as a content moderator...").
+- **Chain of Thought reasoning:** Provide space for Claude to explicitly articulate intermediate reasoning steps and collect thoughts before answering, improving thoroughness and quality.
+- **XML tag structuring:** Use XML-style delimiters (e.g., `<code>`, `<instruction>`) to clearly delineate different parts of prompts, improving clarity and information density.
+- **Automated prompt generation:** The [[AnthropicConsole]] includes a feature to automatically generate production-ready prompt templates by applying prompt engineering best practices, helping both novices and experienced engineers accelerate development.
+- **Automated prompt improvement:** The [[AnthropicConsole]] prompt improver refines existing prompts using advanced techniques like [[ChainOfThoughtReasoning]] and example enrichment. Particularly useful for adapting prompts originally written for other AI models or optimizing hand-written prompts. Includes iterative feedback loops for continuous refinement. Testing shows 30% accuracy improvements on multilabel classification and 100% adherence to output format constraints on summarization tasks.
 
 ## Related
 
@@ -28,3 +33,11 @@ Prompt engineering is the practice of designing effective instructions for AI mo
 - [[summary-04 - Evals for taste： Hill-climbing a slide-generation agent]] — eval-driven prompt refinement
 - [[ClaudeFable5]] — smarter models reducing prompt engineering burden
 - [[CLAUDE-md]] — persistent project-level prompting
+- [[PromptEvaluation]] — systematic testing and evaluation of prompts
+- [[summary-2024-07-09 - Evaluate prompts in the developer console]] — prompt evaluation in Anthropic Console
+- [[ChainOfThoughtReasoning]] — detailed exploration of CoT as a core technique
+- [[XMLTags]] — structural technique for prompt clarity
+- [[AnthropicConsole]] — platform with integrated prompt generator and improver
+- [[summary-2024-05-20 - Generate better prompts in the developer console]] — automated prompt generation feature
+- [[summary-2024-10-14 - Improve your prompts in the developer console]] — automated prompt improvement, example management, and evaluation enhancements
+- [[RetrievalAugmentedGeneration]] — application architecture benefiting from effective prompting

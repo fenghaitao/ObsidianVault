@@ -82,6 +82,36 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-13 - How to get to production faster with Claude Managed Agents]] — Managed Agents primitives: agent definitions, sandboxes, event streams.
 - [[summary-14 - Build a production-ready agent with Claude Managed Agents]] — Hands-on workshop: building a deal desk agent with Managed Agents.
 - [[summary-19 - Build a proactive agent workflow with Claude Code]] — Claude Code Routines: scheduled and event-driven autonomous sessions.
+- [[summary-2023-08-23 - Claude 2 on Amazon Bedrock]] — Claude availability on AWS Bedrock with early enterprise customers.
+- [[summary-2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer]] — General availability of Claude on Amazon Bedrock with agent orchestration.
+- [[summary-2023-12-06 - Long context prompting for Claude 2.1]] — 200K context window and techniques to overcome model reluctance on context retrieval.
+- [[summary-2024-05-01 - Introducing the Claude Team plan and iOS app]] — $30/user/month Team Plan and free iOS app launch.
+- [[summary-2024-05-20 - Generate better prompts in the developer console]] — Anthropic Console prompt generator using proven engineering techniques.
+- [[summary-2024-05-30 - Claude can now use tools]] — Tool use general availability across APIs and platforms with enterprise case studies.
+- [[summary-2024-07-09 - Evaluate prompts in the developer console]] — Prompt evaluation framework in Anthropic Console with test case generation.
+- [[summary-2024-07-10 - Fine-tune Claude 3 Haiku in Amazon Bedrock]] — Fine-tuning capability for Claude 3 Haiku on Amazon Bedrock.
+- [[summary-2024-07-16 - Claude Android app]] — Claude Android app release with Claude 3.5 Sonnet capabilities.
+- [[summary-2024-09-10 - Claude for Enterprise]] — Enterprise product with 500K context, GitHub integration, and security features.
+- [[summary-2024-09-10 - Workspaces in the Anthropic API Console]] — Resource management with multi-environment workspaces and API key scoping.
+- [[summary-2024-10-08 - Introducing the Message Batches API]] — Asynchronous batch processing for up to 10,000 queries at 50% cost reduction.
+- [[summary-2024-10-14 - Improve your prompts in the developer console]] — Prompt improver, example management, and enhanced evaluation features.
+- [[summary-2024-10-24 - Introducing the analysis tool in Claude.ai]] — Code execution capabilities replacing the previous analysis tool.
+- [[summary-2024-12-03 - Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock]] — Model distillation and optimized inference on Trainium2.
+- [[summary-2025-03-06 - Get to production faster with the upgraded Anthropic Console]] — Extended thinking support and collaboration features.
+- [[summary-2025-03-13 - Token-saving updates on the Anthropic API]] — Prompt caching, cache-aware rate limits, and token optimization.
+- [[summary-2025-03-20 - Claude can now search the web]] — Real-time web search with citations integrated into Claude.
+- [[summary-2025-04-02 - Claude on Google Cloud's Vertex AI FedRAMP High and IL2 Authorized]] — Government compliance authorizations for Claude on Google Cloud.
+- [[summary-2025-04-15 - Claude takes research to new places]] — Research capabilities with Google Workspace integration.
+- [[summary-2025-05-01 - Claude can now connect to your world]] — Integrations and advanced research capabilities across platforms.
+- [[summary-2025-05-07 - Introducing web search on the Anthropic API]] — Web search feature for API with citations and real-time data.
+- [[summary-2025-05-22 - New capabilities for building agents on the Anthropic API]] — Code execution, Files API, MCP connectors, and Claude 4 launch.
+- [[summary-2025-06-18 - Remote MCP support in Claude Code]] — OAuth authentication and remote MCP server integration.
+- [[summary-2025-06-23 - Introducing Citations on the Anthropic API]] — Citation feature with source attribution for RAG applications.
+- [[summary-2025-06-25 - Turn ideas into interactive AI-powered apps]] — Artifacts with MCP and persistent storage support.
+- [[summary-2025-07-14 - Discover tools that work with Claude]] — Tool directory enabling one-click integrations and desktop extensions.
+- [[summary-2025-07-24 - How Anthropic teams use Claude Code]] — Internal usage patterns across engineering, marketing, and operations teams.
+- [[summary-2025-07-25 - Build and share AI-powered apps with Claude]] — Artifacts as deployment-free app building platform.
+- [[summary-2025-08-06 - Automate security reviews with Claude Code]] — /security-review command and GitHub Actions integration.
 
 ## Entities
 
@@ -89,6 +119,13 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[ClaudeFable5]] — Anthropic's most capable generally available model (5th generation).
 - [[ClaudeManagedAgents]] — Anthropic's platform for building and deploying production AI agents.
 - [[ClaudeCowork]] — Anthropic's knowledge worker product for file-based automation with skills and scheduled tasks.
+- [[ClaudeEnterprise]] — Enterprise product with 500K context window, GitHub integration, and advanced security features.
+- [[Claude2]] — Second-generation Claude model with improved performance and reasoning.
+- [[Claude2.1]] — Enhanced Claude 2 with 200K context window and reduced hallucination (30% fewer incorrect answers).
+- [[Claude3]] — Third-generation model family with tool use and vision capabilities.
+- [[Claude3Opus]] — Flagship Claude 3 model with advanced thinking and reasoning.
+- [[Claude3Haiku]] — Smallest Claude 3 model optimized for speed and cost-efficiency.
+- [[Claude3.5Sonnet]] — Mid-tier model with vision, multilingual, and advanced reasoning capabilities.
 - [[Anthropic]] — The AI company behind Claude models and platform.
 - [[Canva]] — Australian design platform using Claude for Canva AI 2.0 and Canva Code.
 - [[Cursor]] — AI-powered coding tool with cloud agents and computer use capabilities.
@@ -107,6 +144,46 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Genspark]] — All-in-one AI workspace with spreadsheets, slides, and documents.
 - [[Cognition]] — Creator of Devin, the first AI software engineer.
 - [[ManGroup]] — Alternative investment manager ($200B+ AUM) using Claude for systematic trading signals.
+- [[AmazonBedrock]] — AWS managed service for foundation models including Claude deployment.
+- [[AgentsForAmazonBedrock]] — Feature enabling Claude to orchestrate API calls and AWS Lambda functions.
+- [[AppleAppStore]] — iOS app distribution platform; Claude app available.
+- [[BridgewaterAssociates]] — Asset management firm using Claude for investment analysis.
+- [[GitLab]] — DevOps platform using Claude Enterprise with GitHub integration.
+- [[Handlebars]] — Template notation system for prompt engineering.
+- [[Hebbia]] — Financial and legal services platform using Claude 3 Haiku for knowledge work.
+- [[Intuned]] — Browser automation platform using Claude 3 Haiku for data extraction.
+- [[LexisNexis]] — Legal research company early adopter of Claude on Amazon Bedrock.
+- [[LonelyPlanet]] — Travel publishing company early adopter of Claude on Amazon Bedrock.
+- [[Midjourney]] — AI image generation platform using Claude Enterprise.
+- [[RicohUSA]] — Office equipment company early adopter of Claude on Amazon Bedrock.
+- [[SKTelecom]] — South Korean telecommunications company fine-tuning Claude 3 Haiku in Amazon Bedrock.
+- [[StudyFetch]] — AI tutoring platform using Claude tool use for interactive learning.
+- [[ThomsonReuters]] — Information and analytics company fine-tuning Claude 3 Haiku in Amazon Bedrock.
+- [[ZoomInfo]] — B2B data and intelligence platform using Claude for prompt generation.
+- [[Claude.ai]] — Anthropic's web interface with code execution and analysis capabilities.
+- [[Claude3.5Haiku]] — Optimized Claude model with 60% faster inference on AWS Trainium2.
+- [[Claude3.7Sonnet]] — Latest Claude model with extended thinking, web search, and government compliance support.
+- [[ClaudeMax]] — Premium Claude plan for advanced research and enterprise capabilities.
+- [[GoogleCloud]] — Cloud platform providing Claude via Vertex AI with FedRAMP and DoD IL2 authorization.
+- [[Kapa.ai]] — Company using Claude for knowledge management and workflow automation.
+- [[MessageBatchesAPI]] — Asynchronous API for batch processing up to 10,000 queries at 50% cost savings.
+- [[Quora]] — Q&A platform using Message Batches API for content summarization.
+- [[Workspace]] — Resource management feature in Anthropic Console for multi-environment access control.
+- [[Adaptive]] — App-building tool integrating Claude web search for dynamic content.
+- [[Claude]] — Anthropic's flagship conversational AI model and platform.
+- [[Claude4]] — Fourth-generation Claude model family.
+- [[Claude4Opus]] — Flagship Claude 4 model.
+- [[Claude4Sonnet]] — Mid-tier Claude 4 model.
+- [[ClaudeArtifacts]] — Feature for creating interactive AI-powered apps without coding.
+- [[GitHub]] — Version control platform with Claude Code integration via actions.
+- [[Poe]] — Q&A platform by Quora integrating Claude web search.
+- [[Prisma]] — Database ORM with desktop integration for Claude.
+- [[React]] — JavaScript UI framework for building Claude-assisted visualizations.
+- [[Rust]] — Systems programming language used in cross-language testing with Claude.
+- [[Sentry]] — Error tracking platform with MCP integration for Claude Code.
+- [[Socket]] — Development tool with local desktop integration for Claude.
+- [[TypeScript]] — Programming language for interactive artifact development.
+- [[Zapier]] — No-code automation platform integrating with Claude API.
 
 ## Concepts
 
@@ -124,6 +201,48 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[ExplorePlanCodeCommit]] — The recommended four-phase workflow for Claude Code.
 - [[ModelContextProtocol]] — Open standard for connecting AI agents to external tools and data sources.
 - [[AdvisorStrategy]] — Claude API pattern splitting execution from advising for frontier quality at lower cost.
+- [[ConstitutionalAI]] — Training approach using a set of constitutional principles to guide model behavior.
+- [[LongContextRetrieval]] — Pattern for effectively retrieving information from very large documents (100K+ tokens).
+- [[ChainOfThoughtReasoning]] — Prompt engineering technique encouraging step-by-step reasoning for better answers.
+- [[XMLTags]] — Structured prompt notation for organizing instructions and context hierarchically.
+- [[RetrievalAugmentedGeneration]] — Pattern augmenting LLM generation with information retrieval from external sources.
+- [[ToolUse]] — Capability allowing Claude to call external APIs and tools for agentic automation.
+- [[PromptEvaluation]] — Systematic quality testing framework for assessing prompt effectiveness.
+- [[TestCaseGeneration]] — Automated creation of test cases for evaluating model behavior.
+- [[FineTuning]] — Technique for customizing Claude models on domain-specific data.
+- [[GitHubIntegration]] — Native GitHub sync feature for Claude Enterprise enabling seamless code access.
+- [[BatchProcessing]] — Asynchronous processing pattern for bulk queries with cost advantages over real-time APIs.
+- [[CodeExecution]] — Capability allowing Claude to execute and analyze code (evolved from analysis tool).
+- [[CostOptimization]] — Strategy for reducing inference costs through batching and discounted-rate APIs.
+- [[DoD-IL2]] — Defense Department compliance standard for contractor AI systems.
+- [[ExtendedThinking]] — Claude's capability for visible step-by-step reasoning with adjustable token budgets.
+- [[FedRAMP]] — Federal compliance standard for cloud services used by civilian agencies.
+- [[GovernmentAI]] — Compliance and authorization patterns for AI deployment in government contexts.
+- [[GoogleWorkspaceIntegration]] — Integration enabling Claude to work with Google Docs, Sheets, and Slides.
+- [[ModelDistillation]] — Technique for creating smaller, faster models by transferring knowledge from larger teacher models.
+- [[PromptCaching]] — Feature providing up to 90% cost savings by caching long prompts for reuse.
+- [[Research]] — Agentic capability enabling Claude to conduct deep research and analysis.
+- [[TokenOptimization]] — Strategies for reducing token usage including caching and efficient tool calls.
+- [[WebSearch]] — Real-time internet search capability integrated into Claude with cited sources.
+- [[Workspace]] — Resource management concept for multi-tenancy and access control.
+- [[AgenticCoding]] — Development paradigm using Claude Code to dissolve technical/non-technical boundaries.
+- [[Artifacts]] — Feature for creating interactive AI-powered applications through conversation.
+- [[AutomatedSecurityReview]] — Feature automating vulnerability detection in code.
+- [[CodeExecution]] — Claude's capability to execute and analyze code (evolved from analysis tool).
+- [[CodeSecurity]] — Security patterns and practices in development workflows with Claude.
+- [[CodeExecutionTool]] — API capability for running arbitrary code safely.
+- [[FilesAPI]] — Anthropic API for persistent file management across sessions.
+- [[Integrations]] — Feature enabling Claude to connect to external services and data sources.
+- [[MCPConnector]] — Connection pattern for Model Context Protocol servers via API.
+- [[MessagesAPI]] — Core Anthropic API endpoint for message-based interactions.
+- [[No-CodeDevelopment]] — Paradigm for building applications through conversation without writing code.
+- [[PromptCaching]] — Feature providing up to 90% cost savings by caching long prompts for reuse.
+- [[ReinforcementLearning]] — ML technique for improving model performance through feedback loops.
+- [[TestDrivenDevelopment]] — Development workflow transformed by Claude Code's test automation.
+- [[ToolIntegration]] — Pattern for integrating external tools via one-click authentication or desktop extensions.
+- [[UnitTesting]] — Automated test generation and execution through Claude Code.
+- [[VulnerabilityDetection]] — Pattern for identifying security flaws (SQL injection, XSS, SSRF, auth issues).
+- [[WebSearch]] — Real-time internet search capability integrated into Claude with citations.
 
 ## Syntheses
 

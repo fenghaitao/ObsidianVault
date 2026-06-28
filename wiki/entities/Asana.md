@@ -2,13 +2,13 @@
 title: "Asana"
 type: entity
 tags: [company, work-management, ai-teammates, managed-agents, enterprise]
-sources: [raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/12 - Building with Claude Managed Agents and Asana AI teammates.md]
+sources: [raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/12 - Building with Claude Managed Agents and Asana AI teammates.md, raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md]
 last_updated: 2026-06-23
 ---
 
 ## Definition
 
-Asana is a work management platform that uses Claude Managed Agents to power AI teammates — AI agents that work alongside humans in multiplayer mode on complex multi-step workflows. Asana provides the enterprise context layer (17-year work graph), security, and human interface, while Claude Managed Agents handles multi-step action execution.
+Asana is a work management platform that integrates with [[Anthropic]] to power AI-driven task management and automation. It offers both [[ClaudeManagedAgents|AI teammates]] powered by Claude and a remote [[ModelContextProtocol|MCP server]] for API-based agent integration. Asana provides the enterprise context layer (17-year work graph), security, and human interface, while Claude handles multi-step action execution.
 
 ## Key Information
 
@@ -16,10 +16,16 @@ Asana is a work management platform that uses Claude Managed Agents to power AI 
 - **Multiplayer agents:** Agents are real actors with sharing controls, working with multiple humans, receiving nudges, and retaining memory.
 - **Enterprise memory:** Historical decisions, approvals, and interactions tracked and provided to agents with security and auditability.
 - **Work graph:** 17 years of structured context (mission → goals → portfolios → projects → tasks with approvals).
+- **Remote MCP server:** Asana offers a remote [[ModelContextProtocol|MCP server]] that Claude agents can access through the [[Anthropic]] API [[MCPConnector|MCP connector]], enabling API-based agents to reference tasks, assign work, and integrate with Asana workflows.
 
 ## Related
 
 - [[ClaudeManagedAgents]] — the platform powering AI teammates
-- [[summary-12 - Building with Claude Managed Agents and Asana AI teammates]] — source talk
+- [[MCPConnector]] — Anthropic API feature for connecting to Asana MCP server
+- [[ModelContextProtocol]] — protocol Asana implements
+- [[Anthropic]] — model provider and API partner
+- [[Claude4Opus]] — model accessing Asana via MCP connector
+- [[Claude4Sonnet]] — model accessing Asana via MCP connector
+- [[summary-12 - Building with Claude Managed Agents and Asana AI teammates]] — source talk on AI teammates
+- [[summary-2025-05-22 - New capabilities for building agents on the Anthropic API]] — announcement of Asana MCP server
 - [[AgenticMemory]] — memory from user feedback
-- [[Anthropic]] — model provider
