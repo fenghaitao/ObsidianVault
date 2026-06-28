@@ -112,6 +112,16 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-2025-07-24 - How Anthropic teams use Claude Code]] — Internal usage patterns across engineering, marketing, and operations teams.
 - [[summary-2025-07-25 - Build and share AI-powered apps with Claude]] — Artifacts as deployment-free app building platform.
 - [[summary-2025-08-06 - Automate security reviews with Claude Code]] — /security-review command and GitHub Actions integration.
+- [[summary-2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context]] — 1M token context expansion for Claude Sonnet 4 with enterprise customer case studies.
+- [[summary-2025-08-14 - Prompt caching with Claude]] — Prompt caching deep-dive: pricing tiers, compatible models, and Notion early-adopter case study.
+- [[summary-2025-08-20 - Claude Code and new admin controls for business plans]] — Premium Claude Code seats and Compliance API for Enterprise and Team plans.
+- [[summary-2025-08-25 - Piloting Claude in Chrome]] — Claude's first browser-using agent pilot in Google Chrome with computer-use safety model.
+- [[summary-2025-09-09 - Claude can now create and edit files]] — File creation and editing (Excel, Word, PDF) in Claude.ai via private code-execution environment.
+- [[summary-2025-09-11 - Bringing memory to Claude]] — Persistent cross-conversation memory for Claude app with team, project, and incognito modes.
+- [[summary-2025-09-24 - Claude is now available in Microsoft 365 Copilot]] — Claude available in M365 Copilot and Copilot Studio for enterprise agent building.
+- [[summary-2025-09-29 - Building agents with the Claude Agent SDK]] — Claude Agent SDK (renamed from Claude Code SDK) for building general-purpose agents.
+- [[summary-2025-09-29 - Managing context on the Claude Developer Platform]] — Context editing and Claude Sonnet 4.5 for autonomous context management in agents.
+- [[summary-2025-10-01 - Claude and Slack]] — Native Claude integration in Slack channels via Claude for Work.
 
 ## Entities
 
@@ -184,6 +194,18 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Socket]] — Development tool with local desktop integration for Claude.
 - [[TypeScript]] — Programming language for interactive artifact development.
 - [[Zapier]] — No-code automation platform integrating with Claude API.
+- [[Altana]] — AI-powered supply chain network; reported 2–10x development velocity with Claude Code.
+- [[Behavox]] — Compliance and security company using Claude Code as primary AI pair programmer.
+- [[BoltNew]] — Browser-based web development platform using Claude 4 Sonnet for in-browser app building.
+- [[ClaudeAgentSDK]] — SDK (formerly Claude Code SDK) for building general-purpose agents on top of Claude Code.
+- [[ClaudeInChrome]] — Anthropic's Chrome browser extension enabling Claude to take actions in the browser.
+- [[Claude4.5Sonnet]] — Anthropic model (Sept 2025) with built-in context awareness for autonomous agent operation.
+- [[CopilotStudio]] — Microsoft's low-code platform for building enterprise AI agents within Microsoft 365.
+- [[GoogleChrome]] — Google's web browser; platform for Anthropic's first browser-using agent pilot.
+- [[iGentAI]] — London-based AI coding company building Maestro, an autonomous software development agent.
+- [[Microsoft]] — Enterprise software company; integrated Claude into Microsoft 365 Copilot.
+- [[Microsoft365Copilot]] — Microsoft's enterprise AI platform integrating Claude alongside Copilot across M365 apps.
+- [[Salesforce]] — Enterprise CRM and cloud software company; parent of Slack.
 
 ## Concepts
 
@@ -243,6 +265,13 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[UnitTesting]] — Automated test generation and execution through Claude Code.
 - [[VulnerabilityDetection]] — Pattern for identifying security flaws (SQL injection, XSS, SSRF, auth issues).
 - [[WebSearch]] — Real-time internet search capability integrated into Claude with citations.
+- [[BrowserUseAgent]] — AI agent pattern enabling perception and action within web browsers on behalf of users.
+- [[ClaudeMemory]] — Persistent cross-conversation memory in the Claude app for teams and individuals.
+- [[ComplianceAPI]] — Anthropic Enterprise feature providing programmatic real-time access to usage data for governance.
+- [[ContextEditing]] — Automatic context management that removes stale tool calls when agents approach token limits.
+- [[ContextEngineering]] — Practice of designing agent file/folder structure to flow the right information into context.
+- [[IncognitoChat]] — Privacy mode in Claude app for conversations not saved to memory or history.
+- [[PromptInjection]] — Security attack embedding hidden instructions in web content to hijack AI agent behavior.
 
 ## Syntheses
 

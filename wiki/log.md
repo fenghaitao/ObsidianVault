@@ -165,4 +165,9 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Files processed**: 2025-05-01 Integrations/Research, 2025-05-07 Web search on API, 2025-05-22 New agent capabilities (Claude 4), 2025-06-18 Remote MCP in Claude Code, 2025-06-23 Citations API, 2025-06-25 Interactive AI apps, 2025-07-14 Tools that work with Claude, 2025-07-24 How Anthropic teams use Claude Code, 2025-07-25 Build and share AI apps, 2025-08-06 Automate security reviews
 - **Conflicts**: none
 
+## [2026-06-29] ingest | Anthropic Claude blog batch 4 (10 posts)
+- **Changes**: created 10 source summaries from raw/01-articles/claude/, created 12 new entity pages (Altana, Behavox, BoltNew, ClaudeAgentSDK, ClaudeInChrome, Claude4.5Sonnet, CopilotStudio, GoogleChrome, iGentAI, Microsoft, Microsoft365Copilot, Salesforce), created 7 new concept pages (BrowserUseAgent, ClaudeMemory, ComplianceAPI, ContextEditing, ContextEngineering, IncognitoChat, PromptInjection), updated 10+ existing pages (AmazonBedrock, Claude.ai, ClaudeCode, ClaudeEnterprise, ClaudeTeamPlan, ContextWindow, Notion, PromptCaching, VertexAI, Anthropic), updated [[index.md]] and [[log.md]]
+- **Files processed**: 2025-08-12 Claude Sonnet 4 1M context, 2025-08-14 Prompt caching with Claude, 2025-08-20 Claude Code admin controls, 2025-08-25 Piloting Claude in Chrome, 2025-09-09 Claude can now create and edit files, 2025-09-11 Bringing memory to Claude, 2025-09-24 Claude in Microsoft 365 Copilot, 2025-09-29 Building agents with Claude Agent SDK, 2025-09-29 Managing context on Claude Developer Platform, 2025-10-01 Claude and Slack
+- **Conflicts**: none
+
 ---
