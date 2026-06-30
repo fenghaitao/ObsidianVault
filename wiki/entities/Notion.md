@@ -2,8 +2,8 @@
 title: "Notion"
 type: entity
 tags: [platform, knowledge-management, integration]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -16,6 +16,7 @@ Notion is a knowledge management platform that integrates with Manus AI via pre-
 - Enables internal deep research agents that reference company knowledge bases
 - Accessible to anyone in a company who can edit Notion pages
 - **Braintrust Customer**: Notion sends large volumes of unstructured trace data to Braintrust, exposing limitations in the original data architecture — specifically the need for full-text search across traces, which existing technologies (open-source data warehouse, BTQL, DuckDB) couldn't handle. This drove Braintrust's evolution toward a more capable data platform for traces.
+- **n8n Workshop Materials**: Liam McGarrigle's n8n workshop at AI Engineer used a Notion page as the home for all workshop materials, including step-by-step instructions, workflow JSON for copy-paste, and homework prompts for extending the agent afterward
 
 ## Related
 - [[summary-20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)]] — source (Manus connector)
@@ -25,3 +26,5 @@ Notion is a knowledge management platform that integrates with Manus AI via pre-
 - [[TraceDataChallenges]] — data problems surfaced by Notion's usage
 - [[Agent Connectors]] — general connector concept
 - [[ManusAPI]] — API that uses connector UIDs
+- [[n8n]] — platform using Notion for workshop documentation
+- [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — source

@@ -2,8 +2,8 @@
 title: "Jeba"
 type: concept
 tags: [prompt-engineering, optimization, llm, technique]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251219 - From Arc to Dia： Lessons learned building AI Browsers – Samir Mody, The Browser Company of New York.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251219 - From Arc to Dia： Lessons learned building AI Browsers – Samir Mody, The Browser Company of New York.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -22,6 +22,9 @@ Jeba is a sample-efficient technique for improving complex LLM systems through i
 ## Related
 
 - [[summary-20251219 - From Arc to Dia： Lessons learned building AI Browsers – Samir Mody, The Browser Company of New York]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (GEPA as related technique)
 - [[TheBrowserCompany]] — company using this technique
 - [[ModelBehavior]] — broader discipline this technique supports
 - [[DiaBrowser]] — product optimized with this technique
+- [[GEPA]] — related genetic evolutionary algorithm
+- [[PromptOptimization]] — broader category

@@ -188,3 +188,323 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-06-26] ingest | The Future of MCP — David Soria Parra
 - **Changes**: created [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]], created/updated 24 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-06-26] ingest | Build Your Own Deep Research Agents — Louis-François Bouchard, Paul Iusztin, Samridhi
+- **Changes**: created [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]], created/updated 25 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Gemma, DeepMind's Family of Open Models — Omar Sanseviero
+- **Changes**: created [[summary-20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Running LLMs on iPhone with MLX — Adrien Grondin
+- **Changes**: created [[summary-20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI]], created/updated 15 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | The New Application Layer — Malte Ubl
+- **Changes**: created [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]], created/updated 25 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Building Generative Image & Video models at Scale — Sander Dieleman
+- **Changes**: created [[summary-20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind]], created/updated 25 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | How AI is changing Software Engineering — Gergely Orosz
+- **Changes**: created [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Taste & Craft — Tuomas Artman & Gergely Orosz
+- **Changes**: created [[summary-20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Agents need more than a chat — Jacob Lauritzen
+- **Changes**: created [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | Software Fundamentals Matter More Than Ever — Matt Pocock
+- **Changes**: created [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]], created/updated 16 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-26] ingest | The End of Apps — Kitze
+- **Changes**: created [[summary-20260423 - The End of Apps — Kitze, Sizzy.co]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Full Walkthrough: Workflow for AI Coding — Matt Pocock
+- **Changes**: created [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]], created/updated 30 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | What Do Models Still Suck At — Peter Gostev
+- **Changes**: created [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]], created/updated 17 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | AgentCraft: Putting the Orc in Orchestration — Ido Salomon
+- **Changes**: created [[summary-20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon]], created/updated 13 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | MCP = Mega Context Problem — Matt Carey
+- **Changes**: created [[summary-20260425 - MCP = Mega Context Problem - Matt Carey]], created/updated 24 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Collaborative AI Engineering — Maggie Appleton
+- **Changes**: created [[summary-20260426 - Collaborative AI Engineering： One Dev, Two Dozen Agents, Zero Alignment — Maggie Appleton, GitHub]], created/updated 20 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | LLM codegen fails and how to stop them — Danilo Campos
+- **Changes**: created [[summary-20260430 - LLM codegen fails and how to stop ''em — Danilo Campos, PostHog]], created/updated 11 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Replacing 12K LoC with a 200 LoC Skill — David Gomes
+- **Changes**: created [[summary-20260430 - Replacing 12K LoC with a 200 LoC Skill — David Gomes, Cursor]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Agents for Everything Else — swyx
+- **Changes**: created [[summary-20260501 - Agents for Everything Else — swyx]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Agents on the Canvas in tldraw — Steve Ruiz
+- **Changes**: created [[summary-20260501 - Agents on the Canvas in tldraw — Steve Ruiz, tldraw]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Mastering AI Pricing — Mayank Pant
+- **Changes**: created [[summary-20260501 - Mastering AI Pricing — Mayank Pant, Stripe]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Human-in-the-Loop Automation with n8n — Liam McGarrigle
+- **Changes**: created [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]], created/updated 25 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | I Gave an AI Agent the Keys to My Life — Radek Sienkiewicz
+- **Changes**: created [[summary-20260502 - I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com)]], created/updated 23 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Software Engineering Is Becoming Plan and Review — Louis Knight-Webb
+- **Changes**: created [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Context Is the New Code — Patrick Debois
+- **Changes**: created [[summary-20260503 - Context Is the New Code — Patrick Debois, Tessl]], created/updated 19 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | TLMs: Tiny LLMs on Edge with LiteRT-LM — Cormac Brick
+- **Changes**: created [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]], created/updated 38 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Ralph Loops: Build Dumb AI Loops That Ship — Chris Parsons
+- **Changes**: created [[summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick]], created/updated 43 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Training an LLM from Scratch, Locally — Angelos Perivolaropoulos
+- **Changes**: created [[summary-20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs]], created/updated 35 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Accelerating AI on Edge — Chintan Parikh and Weiyi Wang
+- **Changes**: created [[summary-20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Demand-Driven Context — Raj
+- **Changes**: created [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]], created/updated 40 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | The Small Model Infrastructure — Filip Makraduli
+- **Changes**: created [[summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Writing & Using Skills — Nick Nisi and Zack Proser
+- **Changes**: created [[summary-20260506 - Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser]], created/updated entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | MCP UI: Extending the frontier — Liad Yosef and Ido Salomon
+- **Changes**: created [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]], created/updated 45 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Agent Optimization with Pydantic AI — Samuel Colvin
+- **Changes**: created [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]], created/updated 31 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Everything About Agent Observability — Danny Gollapalli & Zubin Koticha
+- **Changes**: created [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]], created/updated 22 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Vibe Engineering Effect Apps — Michael Arnaldi
+- **Changes**: created [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]], created/updated 20 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Agentic Search for Context Engineering — Leonie Monigatti
+- **Changes**: created [[summary-20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Shipping complex AI applications — Braintrust & Trainline
+- **Changes**: created [[summary-20260501 - Shipping complex AI applications — Braintrust & Trainline]], created [[Braintrust]], [[Trainline]], [[EvalFlywheel]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Mergeable by default — Peter Werry, Unblocked
+- **Changes**: created [[summary-20260503 - Mergeable by default： Building the context engine to save time and tokens — Peter Werry, Unblocked]], created [[Unblocked]], [[PeterWerry]], [[ContextEngine]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Skill Issue — Pedro Rodrigues, Supabase
+- **Changes**: created [[summary-20260504 - Skill Issue： How We Used AI to Make Agents Actually Good at Supabase — Pedro Rodrigues, Supabase]], created [[Supabase]], [[PedroRodrigues]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory
+- **Changes**: created [[summary-20260506 - The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory]], created [[LukeAlvoeiro]], [[ValidationContracts]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | FLUX, Open Research, and the Future of Visual AI — Stephen Batifol
+- **Changes**: created [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | How Transformers Finally Ate Vision — Isaac Robinson
+- **Changes**: created [[summary-20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow]], created/updated 19 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Give Your Chat Agent a Voice — Luke Harries
+- **Changes**: created [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]], created/updated 15 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Voice AI: when is the Her moment — Neil Zeghidour
+- **Changes**: created [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]], created/updated 28 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Why TTS Models Now Look Like LLMs — Samuel Humeau
+- **Changes**: created [[summary-20260509 - Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral]], created/updated 8 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Feedback Loops are All You Need — Mehedi Hassan
+- **Changes**: created [[summary-20260510 - Feedback Loops are All You Need — Mehedi Hassan, Granola]], created/updated 6 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | How we solved Context Management in Agents — Sally-Ann Delucia
+- **Changes**: created [[summary-20260510 - How we solved Context Management in Agents — Sally-Ann Delucia]], created/updated 10 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Two Roads to Durable Agents — Eric Allam
+- **Changes**: created [[summary-20260510 - Two Roads to Durable Agents： Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev]], created/updated 13 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | A Piece of Pi: Embedding OpenClaw — Matthias Luebken
+- **Changes**: created [[summary-20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon]], created/updated 10 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Viktor: AI Coworker That Lives in Slack — Fryderyk Wiatrowski
+- **Changes**: created [[summary-20260511 - Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski]], created/updated 14 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Why MLX — Prince Canuma
+- **Changes**: created [[summary-20260511 - Why MLX — Prince Canuma, Neywa Labs]], created/updated 22 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Give Your Agent a Computer — Nico Albanese
+- **Changes**: created [[summary-20260512 - Give Your Agent a Computer — Nico Albanese, Vercel]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Lessons from Trillion Token Deployments — Alessandro Cappelli
+- **Changes**: created [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]], created/updated 19 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Malleable Evals — Vincent Koc
+- **Changes**: created [[summary-20260512 - Malleable Evals： Why Are We Evaluating Adaptive Systems with Static Tests — Vincent Koc, OpenClaw]], created/updated 11 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | CI/CD Is Dead, Agents Need Continuous Compute — Hugo Santos & Madison Faulkner
+- **Changes**: created [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]], created/updated 22 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Self-Training Agents — Merve Noyan
+- **Changes**: created [[summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face]], created/updated 15 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Mind the Gap (Agent Observability) — Amy Boyd & Nitya Narasimhan
+- **Changes**: created [[summary-20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft]], created/updated 11 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Ship Real Agents: Hands-On Evals — Laurie Voss
+- **Changes**: created [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]], created/updated 26 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Building a Chess Coach — Anant Dole & Asbjorn Steinskog
+- **Changes**: created [[summary-20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take]], created [[PlayMagnus]], [[ChessAI]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Make your own event-sourced agent harness — Jonas Templestein
+- **Changes**: created [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]], created [[JonasTemplestein]], [[Iterate]], [[AgentHarness]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Agents Don''t Do Standups — Mike Spitz
+- **Changes**: created [[summary-20260515 - Agents Don''t Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | How Building with AI Can Double Throughput — Brian Scanlan
+- **Changes**: created [[summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom]], created/updated 24 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Beyond Code Coverage: Playwright MCP — Marlene Mhangami
+- **Changes**: created [[summary-20260516 - Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft]], created/updated 15 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Connecting the Dots with Context Graphs — Stephen Chin
+- **Changes**: created [[summary-20260516 - Connecting the Dots with Context Graphs — Stephen Chin, Neo4j]], created/updated 11 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | How to Leverage Domain Expertise — Chris Lovejoy
+- **Changes**: created [[summary-20260516 - How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs]], created/updated 13 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Fighting AI with AI — Lawrence Jones
+- **Changes**: created [[summary-20260517 - Fighting AI with AI — Lawrence Jones, Incident]], created/updated 8 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Why Your AI UX Is Broken — Mike Christensen
+- **Changes**: created [[summary-20260517 - Why Your AI UX Is Broken (and It''s Not the Model''s Fault) — Mike Christensen, Ably]], created/updated 7 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues
+- **Changes**: created [[summary-20260515 - Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Supabase]], created [[ContextGap]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Harnesses in AI: A Deep Dive — Tejas Kumar
+- **Changes**: created [[summary-20260517 - Harnesses in AI： A Deep Dive — Tejas Kumar, IBM]], created [[TejasKumar]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Anthropic Workshop: Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson
+- **Changes**: created [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Let''s go Bananas with GenMedia — Guillaume Vernade
+- **Changes**: created [[summary-20260518 - Let''s go Bananas with GenMedia — Guillaume Vernade, Google DeepMind]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Rewiring the State — Eoin Mulgrew
+- **Changes**: created [[summary-20260518 - Rewiring the State — Eoin Mulgrew, No. 10 (Downing Street)]], created/updated 16 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Personalization in the Era of LLMs — Shivam Verma
+- **Changes**: created [[summary-20260519 - Personalization in the Era of LLMs - Shivam Verma, Spotify]], created/updated 12 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Introducing WebMCP — RL Nabors
+- **Changes**: created [[summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors]], created/updated 13 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne
+- **Changes**: created [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]], created/updated 14 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Let''s Talk About FOMAT — Michael Richman
+- **Changes**: created [[summary-20260524 - Let''s Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl]], created/updated 7 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Scaling Heterogeneous Intelligence — Adrian Bertagnoli
+- **Changes**: created [[summary-20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Agentic Evaluations at Scale — Nicholas Kang & Michael Aaron
+- **Changes**: created [[summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind]], created/updated 11 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Bounded Autonomy — Angus J. McLean
+- **Changes**: created [[summary-20260525 - Bounded Autonomy： Between Free Will and Determinism — Angus J. McLean, Oliver]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-29] ingest | Does GenAI belong to data scientists — Phil Hetzel
+- **Changes**: created [[summary-20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust]], created/updated 12 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none

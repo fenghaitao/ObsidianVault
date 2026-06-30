@@ -2,7 +2,7 @@
 title: "Thinking Levels"
 type: concept
 tags: [gemini, reasoning, configuration, token-budget]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench.md"]
 last_updated: 2026-06-26
 ---
 
@@ -17,6 +17,7 @@ Thinking Levels are configurable reasoning depth settings (minimal, low, medium,
 - High thinking level demonstrated for complex tasks like SVG generation from images
 - Higher thinking = more tokens consumed = higher cost but potentially better results for complex tasks
 - Configurable in the thinking config section of AI Studio
+- **Counterintuitive finding**: Peter Gostev's BullshitBench shows that higher thinking/reasoning can make performance worse on tasks requiring judgment (like nonsense detection). Models with high reasoning may question the premise then spend paragraphs trying to solve anyway. "Crank up the reasoning" is not a universal solution.
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
@@ -24,3 +25,6 @@ Thinking Levels are configurable reasoning depth settings (minimal, low, medium,
 - [[Gemini 3.1 Pro]] — model supporting thinking levels
 - [[ReasoningBudgets]] — related concept
 - [[ChainOfThought]] — related reasoning technique
+- [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source (reasoning can worsen judgment tasks)
+- [[Reasoning Limits]] — concept that reasoning is not universally beneficial
+- [[BullshitBench]] — benchmark where high reasoning performed worse

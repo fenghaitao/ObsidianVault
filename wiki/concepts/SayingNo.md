@@ -4,6 +4,7 @@ type: concept
 tags: [product, discipline, feature-requests, steve-jobs, ai]
 sources:
   - "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer.md"
+  - "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench.md"
 last_updated: 2026-06-26
 ---
 
@@ -19,6 +20,7 @@ Saying No is the product discipline of rejecting feature requests to maintain pr
 - Saying no requires understanding the actual customer problem behind the surface request
 - AI can help summarize and group requests but cannot exercise the judgment of what to say no to
 - The discipline of saying no is what prevents "feature factory" dynamics where quantity of features replaces quality of experience
+- **AI models can't say no either**: Peter Gostev's BullshitBench reveals that AI models are trained to solve at any cost and rarely push back on nonsense questions. GPT and Gemini models comply with nonsense ~50% of the time. This is the same failure mode as shipping every feature request — the inability to exercise judgment about what not to do.
 
 ## Related
 - [[summary-20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer]] — source transcript
@@ -28,3 +30,7 @@ Saying No is the product discipline of rejecting feature requests to maintain pr
 - [[AIAndTaste]] — why AI cannot exercise this judgment
 - [[ProductEngineer]] — role that requires this skill
 - [[Hypergrowth]] — the opposite dynamic where everything gets shipped
+- [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source (models also can't say no)
+- [[BullshitBench]] — benchmark exposing models' inability to push back
+- [[Nonsense Detection]] — the capability models lack
+- [[ModelBehavior]] — solve-at-any-cost training pattern

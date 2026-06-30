@@ -2,8 +2,8 @@
 title: "Agent-Human Collaboration"
 type: concept
 tags: [agents, human-in-the-loop, trust, control, collaboration]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -20,9 +20,13 @@ Agent-human collaboration is the paradigm of humans and AI agents working togeth
 - Chat is a poor collaboration interface for complex work: it's one-dimensional, low-bandwidth, and collapses a work tree/DAG into a linear conversation
 - Better interface: high-bandwidth, persistent, domain-specific artifacts (documents, tabular reviews) where humans can quickly see what the agent did and inject judgment
 - The right interface varies by industry and task type
+- AgentCraft's workspaces extend collaboration to multi-human scenarios: multiple humans (e.g., product designer and engineer) share a workspace where they can see each other's agents, hand off work, and collaborate in real-time with both humans and agents
+- AgentCraft's soft collaboration mechanism: agents announce what they're working on in a shared chat, know what files each participant is changing, and coordinate implicitly
+- **Demand-Driven Context**: A specific collaboration pattern where the human acts as domain expert, filling knowledge gaps surfaced by agent failures. The agent produces a checklist of missing information, the human provides answers, and the agent curates the knowledge. This is a structured elicitation pattern optimized for knowledge transfer rather than task steering.
 
 ## Related
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source
+- [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[VerifiersRule]] — drives the trust dimension
 - [[High-Bandwidth Artifacts]] — the proposed interface paradigm
 - [[Decision Log]] — non-blocking elicitation pattern
@@ -32,3 +36,9 @@ Agent-human collaboration is the paradigm of humans and AI agents working togeth
 - [[Task Decomposition]] — breaking tasks into verifiable sub-tasks
 - [[HumanInTheLoopWorkflows]] — related pattern
 - [[JacobLauritzen]] — presented this framework
+- [[Agent Workspaces]] — AgentCraft's multi-human collaboration feature
+- [[AgentCraft]] — orchestrator with workspace-based collaboration
+- [[summary-20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon]] — source
+- [[Demand-Driven Context]] — specific collaboration pattern for knowledge transfer
+- [[Agent Failure as Discovery]] — the failure step in the collaboration
+- [[Knowledge Curation]] — the curation step in the collaboration

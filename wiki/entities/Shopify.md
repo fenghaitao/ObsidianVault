@@ -2,8 +2,8 @@
 title: "Shopify"
 type: entity
 tags: [company, ecommerce, gemini, live-api]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -19,12 +19,17 @@ Shopify is an e-commerce platform company that uses the Gemini Live API for Shop
 - Gives unlimited AI tool budget to engineers; strategy is to trade churn and expense for being months ahead of competition
 - CTO Mikael Paryk: Shopify's ML infrastructure is so impressive it "makes me want to be a customer" (swyx)
 
+- **GEPA cost reduction case study**: Shopify used GEPA to optimize prompts for analyzing Shopify sites for fraud and tax categorization. They switched from giving entire websites to GPT-5 to using a Qwen-based agent with GEPA-optimized prompts, reducing costs from $5M/year to $73K/year while improving performance.
+
 ## Related
 - [[summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind]] — source
 - [[GeminiLiveAPI]] — API used
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (Copilot early access, churn as investment)
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (GEPA cost reduction)
 - [[FarhanThawar]] — head of engineering who secured Copilot access
 - [[ThomasDohmke]] — GitHub CEO who granted early access
 - [[GitHubCopilot]] — tool Shopify got early access to
 - [[ChurnAsInvestment]] — Shopify's AI strategy
 - [[MikaelParyk]] — Shopify CTO
+- [[GEPA]] — optimization algorithm used for cost reduction
+- [[Agent Optimization]] — the broader practice

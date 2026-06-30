@@ -2,8 +2,8 @@
 title: "Raspberry Pi"
 type: entity
 tags: [hardware, single-board-computer, open-source, robotics]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -19,6 +19,7 @@ Raspberry Pi is a single-board computer used as the hardware platform for the Pu
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[summary-20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind]] — source
+- [[summary-20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind]] — source (live robot demo running Lite RT LLM on CPU)
 - [[Pupper]] — robot using Raspberry Pi
 - [[Gemma4]] — model family with Raspberry Pi as target device
 - [[Google DeepMind]] — model provider

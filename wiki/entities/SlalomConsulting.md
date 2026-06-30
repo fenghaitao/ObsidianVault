@@ -2,8 +2,8 @@
 title: "Slalom Consulting"
 type: entity
 tags: [company, consulting]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -17,6 +17,7 @@ Slalom Consulting is a business and technology consulting firm. Phil Hetzel work
 
 ## Related
 - [[summary-20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust]] — source
+- [[summary-20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust]] — source
 - [[PhilHetzel]] — former employee
 - [[KPMG]] — previous employer
 - [[Databricks]] — technology he specialized in at Slalom

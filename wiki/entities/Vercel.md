@@ -2,7 +2,7 @@
 title: "Vercel"
 type: entity
 category: company
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -24,10 +24,13 @@ Vercel is a cloud platform company that provides the frontend deployment platfor
 - **Agent Traffic**: Over 60% of page views on vercel.com are now AI agents (as of April 2026); usage is shifting from dashboard UIs to APIs and CLIs
 - **Internal Agent Use**: Vercel uses agents internally for compressed research (contact sales form analysis, abuse report investigation) and support (in-house support agent with 90% deflection rate)
 - **CTO**: Malte Ubl, with over 25 years of software engineering experience, previously at Google, former organizer of JSConfEU
+- Design language used alongside shadcn as the style basis for ElevenLabs Voice Engine UI components
 
 ## Related
 
 - [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source
+- [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]] — source (design language reference)
+- [[VoiceEngine]] — uses Vercel-style UI components
 - [[Malte Ubl]] — CTO
 - [[WorkflowDevKit]]
 - [[AISDK]]
@@ -41,3 +44,4 @@ Vercel is a cloud platform company that provides the frontend deployment platfor
 - [[Compressed Research]] — agent pattern used internally
 - [[Eliminating Boring Work]] — support agent case study
 - [[Agents as Software Users]] — 60% agent traffic insight
+- [[Chat Agents]] — paradigm whose UI components follow Vercel design language

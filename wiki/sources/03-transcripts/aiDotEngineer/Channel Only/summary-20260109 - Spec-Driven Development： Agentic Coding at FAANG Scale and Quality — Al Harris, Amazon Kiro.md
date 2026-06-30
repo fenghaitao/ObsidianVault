@@ -38,7 +38,7 @@ Amazon Kiro implements spec-driven development as a structured SDLC workflow (re
 - [[AmazonS3]] — AWS object storage, used as a persistence backend in the demo
 - [[AmazonDynamoDB]] — AWS NoSQL database, mentioned as an alternative to S3
 - [[CodeOSS]] — The open-source VS Code base that Kiro is forked from
-- [[Tessle]] — Company doing specs for knowledge bases, hosted a conference earlier that week
+- [[Tessl]] — Company doing specs for knowledge bases, hosted a conference earlier that week
 - [[Sonnet]] — Anthropic's Claude model family, referenced as a backend LLM for Kiro
 
 ## Concepts

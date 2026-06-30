@@ -2,8 +2,8 @@
 title: "GEA"
 type: concept
 tags: [prompt-engineering, optimization, dspy, evolutionary]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -22,3 +22,6 @@ GEA (Genetic Evolutionary Algorithm) is DSPy's prompt optimization technique tha
 - [[PromptLearning]] — the technique that outperformed GEA in benchmarks
 - [[EvalEngineering]] — the practice that made the difference in the comparison
 - [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (GEPA as standalone alternative to GEA)
+- [[GEPA]] — standalone genetic evolutionary Pareto algorithm (related but independent)
+- [[PromptOptimization]] — broader category

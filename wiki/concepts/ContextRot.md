@@ -2,7 +2,7 @@
 title: "ContextRot"
 type: concept
 tags: [ai-systems, context-management, quality]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson.md"]
 last_updated: 2026-06-25
 ---
 
@@ -18,6 +18,7 @@ Context rot is the degradation of context quality in AI systems over extended in
 
 ## Related
 - [[summary-20251222 - No More Slop – swyx]] — source
+- [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source (one of three key challenges for long-running agents)
 - [[SubAgents]] — technique to fight context rot
 - [[Slop]] — context rot contributes to this
 - [[CodeSlop]] — context rot in coding contexts

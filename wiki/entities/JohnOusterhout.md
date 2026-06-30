@@ -2,8 +2,8 @@
 title: "JohnOusterhout"
 type: entity
 tags: [person, author, computer-scientist, software-design]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -20,7 +20,9 @@ John Ousterhout is a computer scientist and author of "A Philosophy of Software 
 
 ## Related
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[Deep Modules]] — his core concept
 - [[Shallow Modules]] — his contrasting concept
 - [[MattPocock]] — speaker who referenced his work
 - [[CodebaseTestability]] — related concept
+- [[Feedback Loops as AI Speed Limit]] — deep modules enable better feedback

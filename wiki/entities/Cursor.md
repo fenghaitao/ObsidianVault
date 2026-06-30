@@ -2,8 +2,8 @@
 title: "Cursor"
 type: entity
 tags: [tool, code-editor, ai, coding-agent]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Building your own software factory — Eric Zakariasson, Cursor.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Building your own software factory — Eric Zakariasson, Cursor.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Replacing 12K LoC with a 200 LoC Skill — David Gomes, Cursor.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -36,6 +36,10 @@ Cursor is an AI-powered code editor that integrates LLMs for code generation, ed
 - The internal dev tool abstracts complex service startup (OrbStack, ClickHouse, Postgres, Redis, Electron, Glass) behind simple commands
 - **WorkOS Integration**: Uses WorkOS for authentication — if you've logged into Cursor with username/password or an enterprise IDP, you've used WorkOS
 - **XAA Support**: Cursor is implementing Cross-App Access (XAA) via WorkOS, enabling automatic MCP server connections without consent screens when using Okta SSO
+- **Git Work Trees**: Shipped in Cursor 2.0 (October 2025) as a code-heavy feature (~15,000 lines). Later replaced with a ~200-line markdown skill/command using /worktree and /bestofn. The new implementation uses agent skills and sub-agents as primitives, with server-controlled commands for prompt iteration.
+- **Best of N**: Feature where users give the same task to different models simultaneously in isolated work trees, then compare results. Re-implemented as a ~40-line markdown skill.
+- **Commands vs Skills**: Cursor uses server-controlled commands (/worktree, /bestofn) rather than local skills so prompts can be iterated on the backend without client updates.
+- **Composer**: Cursor's in-house trained and distilled model, trained via RL. Future versions will include RL tasks for work tree environments.
 
 ## Related
 - [[ClaudeCode]] — another coding agent compared alongside Cursor
@@ -63,3 +67,14 @@ Cursor is an AI-powered code editor that integrates LLMs for code generation, ed
 - [[WorkOS]] — authentication provider for Cursor
 - [[CrossAppAccess]] — XAA implementation for MCP
 - [[summary-20260428 - One Login to Rule Them All： Cross-App Access for MCP — Garrett Galow, WorkOS]] — source
+- [[summary-20260430 - Replacing 12K LoC with a 200 LoC Skill — David Gomes, Cursor]] — source
+- [[DavidGomes]] — engineer who led the work tree skill refactor
+- [[Composer]] — Cursor's in-house model
+- [[GitWorktrees]] — the feature re-implemented as a skill
+- [[BestOfN]] — competing models on the same task
+- [[AgentCommandsVsSkills]] — server-controlled command mechanism
+- [[MarkdownAsCode]] — paradigm behind the work tree refactor
+- **Intercom evaluation**: Used by Intercom engineers before the company consolidated on Claude Code for the 2x project. Intercom chose to go all-in on Claude Code instead, applying platform consolidation strategy.
+- [[summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom]] — source (evaluated by Intercom)
+- [[Intercom]] — evaluated Cursor before consolidating on Claude Code
+- [[Platform Consolidation for AI Coding]] — strategy behind not choosing Cursor

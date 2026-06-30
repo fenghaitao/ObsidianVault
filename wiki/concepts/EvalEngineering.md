@@ -2,8 +2,8 @@
 title: "EvalEngineering"
 type: concept
 tags: [eval, prompt-engineering, llm, evaluation]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -19,6 +19,7 @@ Eval engineering is the practice of carefully crafting LLM-as-judge evaluation p
 - Aman Khan demonstrated the iterative eval engineering workflow: write an eval prompt, run it on a dataset, compare against human labels, identify gaps (e.g., missing few-shot examples), refine the eval prompt, and re-run.
 - Arize's co-pilot can auto-generate eval prompts with best practices, and the prompt playground can be used to iterate on eval prompts just like application prompts.
 - Khan noted it may take 5-10 tries to get an eval that matches human labels, and that's expected given system complexity.
+- **Demand-Driven Context**: Raj observes that engineers building MCP servers and RAG pipelines don't do evals — "it's more like a data machine learning concept but we don't do evals." Teams check whether MCP output is coming, not whether it's valuable. This is a major gap in enterprise AI adoption.
 
 ## Related
 - [[LLM-as-Judge]] — the evaluation method that eval engineering optimizes
@@ -31,3 +32,9 @@ Eval engineering is the practice of carefully crafting LLM-as-judge evaluation p
 - [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — source
 - [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — source
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (deterministic custom evaluators preferred over LLM-as-judge)
+- [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
+- [[Golden Dataset]] — preferred foundation for deterministic evals
+- [[Agent Optimization]] — optimization depends on eval quality
+- [[MCP]] — MCP outputs lack evals in practice
+- [[MCPEnterpriseChallenges]] — related challenge

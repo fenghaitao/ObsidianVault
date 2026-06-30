@@ -2,8 +2,8 @@
 title: "swyx"
 type: entity
 tags: [person, speaker, ai-engineering]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260501 - Agents for Everything Else — swyx.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -25,20 +25,58 @@ swyx (Shawn Wang) is the organizer of the AI Engineer Summit and a prominent voi
 - Referenced Goodhart's Law during discussion of token maxing: "whatever gets measured gets sort of abused"
 - Joked: "I am a one-pizza team because I eat a lot of pizza"
 - Next podcast guest: Mikael Paryk, CTO of Shopify
+- Co-founder of AI Engineer conferences alongside Ben Lear; runs a 9-person tiny team with $9M+ in revenue
+- Joined Cognition and started using coding agents (Devin) seriously at work, then introduced them to the AI Engineer company Slack
+- Hooked Devin up to Figma via Coworker to produce pixel-perfect websites; the ai.engineer website was built this way
+- Observed "multiplayer agent usage": kicks off Devin work, goes to bed, designer in Indonesia wakes up and continues prompting with red-line annotations
+- Discovered that agents make work more fun for employees, leading to more output — animations, polish, Easter eggs that were never produced before
+- Key insight: "I'm no longer talking about agents for coding or how many lines of code. I'm getting more productivity out of my humans."
+- Theme for 2026: "Agents for Everything Else" — expanding agents beyond coding to conference management, ETL, buying, and knowledge work
+- Replaced CMS with code as source of truth managed by Devin; forwards speaker change emails with "Devin, handle it"
+- Used Devin to research and buy a lobster for the conference in London — "personal automation for everything else"
+- Argues for AI replacing SaaS tools; method: identify top 3 concerns and systematically reduce them
+- Coined "AI psychosis" for extreme belief in AI capabilities; emphasizes bringing skeptical employees along
+- Referenced Malte Ubl's data that 60% of Vercel's user base is bots/agents, supporting the Agent Experience (AX) shift
+- Prescribes "AGI pills" (physical prop) to coworkers who aren't sufficiently bought into AI
 
 ## Related
 - [[summary-20251222 - No More Slop – swyx]] — source
 - [[summary-20240719 - Lessons From A Year Building With LLMs]] — source (credited for popularizing "AI Engineer")
 - [[summary-20260417 - State of the Claw — Peter Steinberger]] — source (AMA moderator)
+- [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (host, conversation with Gergely Orosz)
+- [[summary-20260501 - Agents for Everything Else — swyx]] — source (this talk)
 - [[Slop]] — the concept swyx declared war on
 - [[GregBrockman]] — discussed modularity with swyx
 - [[SemiSyncValueOfDepth]] — framework swyx developed
 - [[CodeSlop]] — code quality issue swyx addresses
 - [[AIEngineer]] — the term he popularized
 - [[PeterSteinberger]] — AMA guest at AI Engineer Summit
-- [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (host, conversation with Gergely Orosz)
 - [[GergelyOrosz]] — guest at AI Engineer
 - [[TokenMaxing]] — topic discussed
 - [[GoodhartsLaw]] — referenced during discussion
 - [[OnePizzaTeam]] — joked about
 - [[MikaelParyk]] — next podcast guest
+- [[TinyTeam]] — concept he champions; AI Engineer is one
+- [[YakShaving]] — eliminated by agents
+- [[AgentsForEverythingElse]] — his 2026 theme
+- [[AgentExperience]] — AX shift he highlights
+- [[AIReplacingSaaS]] — approach he advocates
+- [[AIPsychosis]] — term he coined
+- [[ServerlessDevelopers]] — non-technical team members enabled by agents
+- [[CodeAsSourceOfTruth]] — CMS replacement pattern
+- [[PersonalAutomation]] — agents replacing executive assistants
+- [[FigmaToCode]] — workflow he demonstrated
+- [[AgentOnboarding]] — getting teams comfortable with agents
+- [[FunAsProductivityDriver]] — agents making work enjoyable
+- [[MultiplayerAgentUsage]] — multiple humans on one agent session
+- [[AgentsForBuying]] — using agents for purchasing
+- [[AgentsForETL]] — using agents for data tasks
+- [[AgentsForCMS]] — using agents to replace CMS
+- [[Devin]] — primary agent tool used
+- [[Cognition]] — company he joined
+- [[Coworker]] — tool for Figma-Devn hookup
+- [[SteveRuiz]] — TLDraw creator, annotation workflow inspiration
+- [[BenLear]] — AI Engineer co-founder
+- [[Malte Ubl]] — cited for agent traffic data
+- [[Vercel]] — 60% agent traffic
+- [[OpenClaw]] — referenced as personal agent equivalent

@@ -2,8 +2,8 @@
 title: "Meta"
 type: entity
 tags: [company, social-media, developer-experience, measurement]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -26,6 +26,8 @@ Meta (formerly Facebook) is a large technology company with what Joel Becker des
 - [[JoelBecker]] — referenced Meta's developer experience research
 - [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]] — source (Meta as Bedrock model provider)
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (token maxing, leaderboard)
+- [[summary-20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow]] — source (Hera vision research)
+- [[Hera]] — vision transformer model developed by Meta
 - [[TokenMaxing]] — phenomenon observed at Meta
 - [[DeveloperProductivityMeasurement]] — broader context
 - [[InternalAIPlatform]] — building custom AI infra

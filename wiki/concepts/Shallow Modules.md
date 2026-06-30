@@ -2,8 +2,8 @@
 title: "Shallow Modules"
 type: concept
 tags: [software-design, architecture, anti-pattern, code-quality, ai-coding]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -21,6 +21,7 @@ Shallow modules are a software design anti-pattern from John Ousterhout's "A Phi
 
 ## Related
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[JohnOusterhout]] — author of A Philosophy of Software Design
 - [[Deep Modules]] — the contrasting concept
 - [[Software Entropy]] — shallow modules are a symptom of entropy

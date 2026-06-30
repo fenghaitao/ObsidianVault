@@ -1,9 +1,9 @@
 ---
 title: "Event Sourcing"
 type: concept
-tags: [temporal, architecture, state-management, durability, distributed-systems]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md"]
-last_updated: 2026-06-26
+tags: [temporal, architecture, state-management, durability, distributed-systems, stream-processors, agent-harness]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition

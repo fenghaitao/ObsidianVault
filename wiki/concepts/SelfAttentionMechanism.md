@@ -2,7 +2,7 @@
 title: "SelfAttentionMechanism"
 type: concept
 tags: [architecture, attention, llm, transformer]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -20,6 +20,7 @@ The self-attention mechanism is the core computation in transformer-based LLMs, 
 
 ## Related
 - [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — source
+- [[summary-20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs]] — source (attention as relationship understanding between tokens)
 - [[SoftmaxNumericalStability]] — the subtract-max trick for stable attention
 - [[RoPE]] — positional embeddings applied to Q and K before attention
 - [[LayerNorm]] — normalization applied before/after attention blocks
@@ -27,3 +28,5 @@ The self-attention mechanism is the core computation in transformer-based LLMs, 
 - [[GroupedQueryAttention]] — attention variant sharing KV across query heads
 - [[MultiQueryAttention]] — extreme variant with single KV head shared across all queries
 - [[RepeatKV]] — inference optimization for KV cache
+- [[MultiHeadAttention]] — multiple attention heads attending to different features
+- [[CausalSelfAttention]] — decoder-only variant for next-token prediction

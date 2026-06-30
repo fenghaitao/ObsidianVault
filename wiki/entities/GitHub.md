@@ -1,30 +1,32 @@
-# GitHub
+---
+title: "GitHub"
+type: entity
+category: platform
+tags: [platform, code-hosting, version-control, microsoft, agent-integration]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md"]
+last_updated: 2026-06-29
+---
 
 ## Definition
-
-GitHub is a code hosting and collaboration platform. Under Jason Warner's tenure as CTO (starting 2017), it was transformed from a collaborative code host into an end-to-end software development platform, launching products including GitHub Actions, Packages, Alerts, Notifications, Code Spaces, and ultimately GitHub Copilot. It also serves as the primary open-source hosting platform for projects like CrewAI (16,000+ stars) and as a deployment target for CrewAI Plus (crews pushed to GitHub become deployable APIs).
+GitHub is a code hosting and version control platform. In the context of n8n agent workflows, GitHub issues and PRs are mentioned as use cases for sub-agents. In Demand-Driven Context, GitHub is the preferred storage location for curated knowledge bases.
 
 ## Key Information
 
-- **CEO**: Thomas Dohmke (current)
-- **CTO (2017+)**: Jason Warner
-- **Key Products Launched**: GitHub Actions, Packages, Alerts, Notifications, Code Spaces, Copilot, Copilot Workspace
-- **Copilot Origins**: Incubated in the Office of the CTO by Jason Warner, Nat Friedman, and team; built remotely during the 2020 lockdown with early access to OpenAI's Codex model
-- **Copilot Workspace**: Announced at GitHub Universe 2023, bridges from GitHub issues to pull requests with AI assistance at every step
-- **Acquisition Attempt**: Tried to acquire Eiso Kant's code completion company in 2017
-- **Scale**: Approximately 3,000-person company, part of Microsoft
-- **CrewAI**: Hosts CrewAI's open-source repository (16,000+ stars); CrewAI Plus pushes crews to GitHub repos that become deployable APIs
+- **Agent Use Case**: GitHub issues and PR management via specialized sub-agents
+- **Human-in-the-Loop Pattern**: Agent scans code, drafts messages to contributors, but routes through human review before sending — "I don't want to AI message co-workers or clients or anything without seeing it first"
+- **Enterprise Git Integration**: n8n enterprise plans include git integration for workflow versioning with dev/staging/prod environments
+- **MCP Server**: GitHub provides an MCP server for interacting with the GitHub API (pull requests, issues), though it reportedly ships ~200K tokens on handshake
+- **Demand-Driven Context**: Raj prefers GitHub repositories as the storage location for curated knowledge bases because GitHub provides built-in PR processes, review workflows, and conflict resolution for multi-agent, multi-team contributions. Curated knowledge can also be published to Confluence or Slack from GitHub. The file structure of the knowledge base serves as a meta model for agent navigation.
 
 ## Related
 
-- [[Thomas Dohmke]] — current CEO
-- [[JasonWarner]]
-- [[GitHubCopilot]]
-- [[GitHub Workspace]]
-- [[NatFriedman]]
-- [[EisoKant]]
-- [[Poolside]]
-- [[CrewAI]] — open-source project hosted on GitHub
-- [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source
-- [[summary-20240808 - Using agents to build an agent company： Joao Moura]] — source
-- [[AI for Engineers]] — core philosophy
+- [[n8n]] — platform for GitHub agent workflows
+- [[Jira]] — alternative ticketing system for sub-agents
+- [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — source
+- [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
+- [[Sub-agent Orchestration]] — pattern for GitHub issues sub-agent
+- [[MCP]] — GitHub MCP server
+- [[HumanInTheLoopWorkflows]] — review before messaging contributors
+- [[Demand-Driven Context]] — methodology using GitHub for knowledge storage
+- [[Meta Model]] — file structure as navigation map
+- [[Knowledge Curation]] — agents curating knowledge into GitHub repos

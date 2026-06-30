@@ -2,8 +2,8 @@
 title: "LLM-as-Judge"
 type: concept
 tags: [eval, llm, evaluation, prompt-engineering]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -22,6 +22,15 @@ LLM-as-Judge is an evaluation technique where a language model is used to assess
 - Few-shot examples in eval prompts improve classification accuracy and reduce variance.
 - In the 2024 AI Engineer Summit keynote, Eugene Yan was "super bullish" on LLM-as-judge for quick prototyping with minimal dev effort but acknowledged key limitations: difficult to align to specific business criteria, requires chain-of-thought (5-8 seconds latency), and needs ongoing maintenance of dynamic few-shot examples. He recommended fine-tuned classifiers/reward models for production use (100x lower latency in milliseconds, higher precision).
 - The keynote's verdict: LLM-as-judge is a resources question — use it for low-volume prototyping, invest in fine-tuned evaluators for sticky production products.
+- **BullshitBench usage**: Peter Gostev used LLM-as-judge to grade model responses to 155 nonsense questions, validated by his own human review of the responses. The judge classified responses as green (clear pushback), amber (partial acceptance), or red (full compliance).
+- **Chess coach evaluation**: The Play Magnus team uses LLM-as-judge to evaluate chess commentary across 16 scenarios covering tactical patterns, blunders, and hallucination limits. They extract scenarios from real games and use LLM-as-judge to assert whether the model correctly identifies and mentions specific chess features (e.g., knight forks). Models are compared via Open Router: Gemini 3 Flash (~75%), Claude with thinking (~60%), GPT-5 Mini (lower). Domain experts (the speakers, both strong chess players) serve as the final quality arbiter.
+- **Rubric structure**: Laurie Voss defined five essential parts of a good LLM-as-judge rubric: (1) define the judge's role, (2) explicit, observable criteria mapped to actual trace failures, (3) clearly presented data with labeled fields (XML tags), (4) labeled examples of good and bad outputs (the most useful addition — LLMs learn patterns from examples better than from instructions), (5) constrained output (binary yes/no, avoid 1-10 scales)
+- **Binary over scales**: LLMs are bad at numeric ratings — what's the difference between 6 and 7? Binary labels (yes/no) are much more reliable. If nuance is needed, use three categories (incorrect/partially correct/completely correct)
+- **Chain of thought for judges**: Telling the judge to explain its reasoning before outputting the label demonstrably improves quality
+- **Biases**: Position bias (favors first or last option), length bias (prefers longer responses), confidence bias (fooled by confident-sounding wrong answers), self-preference bias (prefers outputs from the same model)
+- **Model choice**: Use a more capable model for judging than for generating. Using a different provider entirely (e.g., Claude for agent, OpenAI for judge) improves reliability by reducing self-preference bias
+- **One eval per dimension**: Don't create a "god evaluator" that tests everything — split into separate evals for accuracy, completeness, tone, etc.
+- **Guardrails vs North Star metrics**: Some evals are ship blockers (hallucinating a stock price), others are nice-to-have (recommending complimentary investments)
 
 ## Related
 - [[PromptLearning]] — the technique that depends on LLM-as-judge feedback
@@ -37,3 +46,15 @@ LLM-as-Judge is an evaluation technique where a language model is used to assess
 - [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — source
 - [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — source
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source
+- [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source (BullshitBench grading)
+- [[summary-20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust]] — source (data scientists uniquely qualified to validate LLM judges with labeled datasets)
+- [[BullshitBench]] — benchmark graded by LLM-as-judge
+- [[Peter Gostev]] — validated LLM judge against human review
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (Colvin's critique: "lunatics running the asylum")
+- [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source (rubric structure, biases, binary over scales)
+- [[Golden Dataset]] — preferred alternative to LLM-as-judge for deterministic evals
+- [[Code Evals]] — complementary deterministic eval type
+- [[Meta-Evaluation]] — validating LLM judges
+- [[Actionability Eval]] — example of custom LLM-as-judge rubric
+- [[Pairwise Evaluation]] — comparison-based LLM judging
+- [[DataScientistsAsGuardrails]] — data scientists can validate LLM-as-judge with labeled datasets and traditional metrics

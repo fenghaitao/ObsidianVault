@@ -2,8 +2,8 @@
 title: "Pi (coding agent)"
 type: entity
 tags: [tool, coding-agent, open-source, typescript, extensibility, self-modifying]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -41,3 +41,9 @@ Pi is a self-modifying, extensible coding agent harness built by Mario Zechner. 
 - [[Skills]] — markdown-based instructions Pi adopted
 - [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (cited as European innovation leader)
 - [[Model Commoditization]] — context for application-layer innovation
+- [[summary-20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon]] — source (Pi as product embedding foundation, extension API for UI interaction)
+- [[Matthias Luebken]] — demonstrated Pi-based product embedding
+- [[Seven AI]] — company using Pi for sales automation
+- [[AgentExtensibility]] — Pi's extension API used for UI interaction and slash commands
+- [[AgentHooks]] — Pi's beforeToolCall and event hooks for enterprise control
+- [[Coding Agents as Building Blocks]] — thesis Pi enables

@@ -2,8 +2,8 @@
 title: "Online Evals"
 type: concept
 category: methodology
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -21,8 +21,10 @@ Online evals are scoring functions pointed at live observability/production traf
 ## Related
 
 - [[summary-20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (managed variables enable online eval A/B testing)
 - [[OfflineEvals]] — the complementary evaluation mode
 - [[EvalFlywheel]] — the loop connecting online and offline evals
 - [[EvalMaturityStages]] — Stage 4 enables online evals
 - [[AgentObservability]] — the data source for online evals
+- [[Managed Variables]] — Logfire feature for production experimentation
 - [[FailureModeAnalysis]] — detecting failure modes via online evals

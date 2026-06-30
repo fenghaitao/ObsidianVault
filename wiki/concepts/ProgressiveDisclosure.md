@@ -2,8 +2,8 @@
 title: "Progressive Disclosure"
 type: concept
 tags: [mcp, design-pattern, context, token-budget]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -20,10 +20,12 @@ Progressive Disclosure is a design pattern for MCP servers where tool informatio
 
 ## Related
 - [[summary-20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect]] — source
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (progressive discovery as client-side counterpart)
+- [[summary-20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic]] — source (agent skills as progressive disclosure for tool parameters)
 - [[TokenBudget]] — constraint this pattern addresses
 - [[ErrorsAsPrompts]] — related form of progressive disclosure
 - [[ClaudeDesktop]] — client that breaks progressive disclosure
 - [[MCP]] — protocol
-- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (progressive discovery as client-side counterpart)
 - [[ProgressiveDiscovery]] — related client-side pattern for on-demand tool loading
 - [[ToolSearch]] — mechanism for progressive discovery
+- [[Agent Skills]] — uses progressive disclosure for skill documentation

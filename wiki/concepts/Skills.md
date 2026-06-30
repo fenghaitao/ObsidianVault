@@ -2,8 +2,8 @@
 title: "Skills"
 type: concept
 tags: [coding-agents, prompt-engineering, system-prompt, extensibility]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Replacing 12K LoC with a 200 LoC Skill — David Gomes, Cursor.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -40,3 +40,7 @@ Skills are an extendable system prompt mechanism in Claude Code that allows load
 - [[Agent-Human Collaboration]] — skills increase control by encoding human judgment that activates during work, unlike planning which requires upfront knowledge
 - [[ProgressiveDiscovery]] — skills enable progressive discovery by handling contingencies encountered during execution
 - [[JacobLauritzen]] — argued skills are superior to planning because they handle contingencies (e.g., a skill for reviewing termination clauses can encode special EU law)
+- [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — source (DeepMind's Darwinian skills governance)
+- [[KP Sawhney]] — prefers skills over MCP; describes skills governance at Google scale
+- [[SkillsGovernance]] — curating skills in large organizations to prevent sprawl
+- [[SkillsOverMCP]] — the debate between skills and MCP as agent extensibility mechanisms

@@ -2,8 +2,8 @@
 title: "BERT"
 type: entity
 tags: [model, encoder, nlp, google, transformer]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -21,6 +21,8 @@ BERT (Bidirectional Encoder Representations from Transformers) is Google's origi
 ## Related
 
 - [[summary-20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero]] — source
+- [[summary-20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow]] — source (MAE analogy to BERT)
 - [[ModernBERT]] — advanced successor model
+- [[MAE (Masked Autoencoder)]] — vision analog of masked pretraining
 - [[EncoderModels]] — model class
 - [[AlternatingAttention]] — improvement over BERT's global-only attention

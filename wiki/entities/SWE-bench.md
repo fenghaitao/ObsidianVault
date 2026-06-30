@@ -3,7 +3,7 @@ title: "SWE-bench"
 type: entity
 tags: [benchmark, software-engineering, evaluation]
 sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md"]
-last_updated: 2026-06-25
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -28,3 +28,5 @@ SWE-bench (Software Engineering Benchmark) is a dataset of real-world GitHub iss
 - [[summary-20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR]] — source
 - [[MergeabilityScoring]] — holistic evaluation beyond SWE-bench's unit test approach
 - [[BenchmarkSaturation]] — related limitation of benchmarks
+- [[Louis Knight-Webb]] — placed ahead of OpenAI on SWE-bench verified leaderboard
+- [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]] — source

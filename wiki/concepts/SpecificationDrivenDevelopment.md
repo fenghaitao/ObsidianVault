@@ -2,7 +2,7 @@
 title: "SpecificationDrivenDevelopment"
 type: concept
 tags: [concept, development-paradigm, specification, verification, coding-agents]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - Making Codebases Agent Ready – Eno Reyes, Factory AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - Making Codebases Agent Ready – Eno Reyes, Factory AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful.md"]
 last_updated: 2026-06-26
 ---
 
@@ -26,6 +26,7 @@ Specification-driven development is a paradigm shift from traditional coding whe
 ## Related
 - [[summary-20251222 - Making Codebases Agent Ready – Eno Reyes, Factory AI]] — source transcript
 - [[summary-20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro]] — source transcript
+- [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]] — source transcript
 - [[AgentReadyCodebases]] — the codebase state that enables this
 - [[AutomatedValidation]] — the verification component
 - [[Software2.0]] — precursor concept by Andrej Karpathy
@@ -35,3 +36,4 @@ Specification-driven development is a paradigm shift from traditional coding whe
 - [[PropertyBasedTesting]] — verification approach integrated into Kiro
 - [[NeurosymbolicReasoning]] — backend strategy in Kiro
 - [[SpecAsLivingDocumentation]] — Kiro's approach to evolving specs
+- [[Vibe Engineering]] — uses spec-driven development with markdown plans

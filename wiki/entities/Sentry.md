@@ -4,7 +4,8 @@ type: entity
 tags: [company, monitoring, error-tracking]
 sources:
   - "raw/03-transcripts/aiDotEngineer/Channel Only/20260418 - The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil.md"
-last_updated: 2026-06-26
+  - "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop.md"
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -18,5 +19,8 @@ Sentry is an error tracking and performance monitoring platform. Armin Ronacher 
 
 ## Related
 - [[summary-20260418 - The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil]] — source transcript
+- [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — source (used alongside Raindrop)
 - [[ArminRonacher]] — former employee
 - [[Earendil]] — company Ronacher co-founded after leaving
+- [[Raindrop]] — complementary agent observability platform
+- [[LogRocket]] — used alongside Sentry at Raindrop

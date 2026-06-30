@@ -2,7 +2,7 @@
 title: "Tokenization"
 type: concept
 tags: [nlp, preprocessing, llm, encoding]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -21,6 +21,10 @@ Tokenization is the process of splitting text into discrete tokens (subwords, ch
 
 ## Related
 - [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — source
+- [[summary-20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs]] — source (character-level vs BPE, tokenizer trade-offs)
 - [[LLMImplementationAnalysis]] — methodology for finding tokenizer inconsistencies
 - [[Mistral]] — company with known tokenizer inconsistencies across model variants
 - [[DanielHan]] — researcher who analyzed tokenization issues
+- [[CharacterLevelTokenization]] — simplest approach, used in the workshop
+- [[BytePairEncoding]] — production standard for LLM tokenization
+- [[EmbeddingLayer]] — converts token IDs to vectors

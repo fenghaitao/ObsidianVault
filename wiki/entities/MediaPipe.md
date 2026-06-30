@@ -2,7 +2,7 @@
 title: "MediaPipe"
 type: entity
 tags: [framework, google, multimodal, ml-pipeline, computer-vision]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md"]
 last_updated: 2026-06-26
 ---
 
@@ -17,5 +17,8 @@ MediaPipe is Google's framework for building multimodal machine learning pipelin
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
+- [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[AI Studio]] — platform where demo was shown
 - [[Google DeepMind]] — related Google division
+- [[Google AI Edge]] — division using MediaPipe in edge AI stack
+- [[LiteRT-LM]] — LLM runtime in the same stack

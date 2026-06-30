@@ -1,32 +1,36 @@
 ---
 title: "Braintrust"
 type: entity
-tags: [company, evals, observability, agent-quality]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md"]
-last_updated: 2026-06-26
+tags: [company, evals, observability, ai-platform]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260501 - Shipping complex AI applications — Braintrust & Trainline.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260515 - Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Supabase.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
-Braintrust is an agent quality platform built on two main pillars: evals (pre-production experimentation to build confidence) and observability (post-production monitoring to maintain confidence). It started ~3 years ago as an evals-only platform and expanded into observability after noticing customers piping production traffic into evals.
+
+Braintrust is an AI observability and evaluation platform that helps organizations ship quality AI applications at scale. Founded by Ankur Goyal, it raised $80M Series B at an $800M valuation from investors including a16z and Greylock.
 
 ## Key Information
-- Self-described as an "agent quality platform"
-- Two pillars: evals and observability, treated as the same problem from a systems perspective
-- Started as an evals-only platform ~3 years ago (circa 2023)
-- Added observability after a customer was running massive evals every hour against production traffic
-- Built a custom domain-specific language called BTQL (later deprecated) for stitching data sources
-- Used an open-source data warehouse plus DuckDB in the browser for client-side aggregation
-- Customers include Notion, which sends large volumes of unstructured trace data
-- Handles multimodal traces (audio, video) by storing in object storage and referencing in trace views
-- Supports prompt management (optionally)
-- Has a blog post about their data architecture for handling trace data
+
+- Founded approximately 3 years ago, Series B company
+- $80M raised at $800M valuation; investors include Iconic, Andreessen Horowitz, Greylock
+- Founder Ankur Goyal previously founded Impira (acquired by Figma) and led ML at Figma
+- Created Brainstorm, a custom database for semi-structured AI evaluation data
+- Tool-agnostic: works with any agent framework or LLM provider
+- Key concept: the evaluation flywheel (start with evals, identify failures, remediate, ship, monitor, repeat)
+- Two pillars of agent quality: evals (experimentation confidence) and observability (production confidence)
+- Solutions engineering team (led by Phil Hetzel) ensures customers get maximum value quickly
+- Platform includes human labeling component for domain expert annotation workflows
+- Agent and prompt playground lets both technical and non-technical users experiment with prompts
+- European customers include Lovable, Doctolib, Trainline
 
 ## Related
-- [[summary-20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust]] — source
+
+- [[summary-20260501 - Shipping complex AI applications — Braintrust & Trainline]] — source
+- [[summary-20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust]] — source
 - [[PhilHetzel]] — solutions engineering lead
-- [[EvalPlatforms]] — the problem space they operate in
-- [[EvalFlywheel]] — the observability-evals loop they advocate
-- [[AgentQualityPlatform]] — the platform category
-- [[BTQL]] — their deprecated query language
-- [[DuckDB]] — technology used in their architecture
-- [[Notion]] — customer example
+- [[EvalEngineering]] — evaluation engineering
+- [[AgentObservability]] — agent observability
+- [[EvalFlywheel]] — iterative evaluation cycle
+- [[HumanAnnotation]] — human labeling component of the platform
+- [[CrossFunctionalAgentTeams]] — team composition advocated by Braintrust's Phil Hetzel

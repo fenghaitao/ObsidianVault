@@ -2,8 +2,8 @@
 title: "MitchellHashimoto"
 type: entity
 tags: [person, developer, open-source]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -16,6 +16,7 @@ Mitchell Hashimoto is the founder of Ghosty, the open-source terminal emulator. 
 - Told Mario Zechner that Claude Code is "now a game engine" (a running gag about feature bloat)
 - Created the "vouch" tool based on Mario Zechner's approach: auto-close PRs, ask for a human-written issue, whitelist accounts that respond — clankers never come back, making it a perfect filter
 - Runs exactly two agents — "two is enough for me" — cited by Gergely Orosz as an example of personal preference in agent orchestration
+- Wrote a vision for fixing GitHub: evolve it to serve AI and agentic users first (potentially shutting down Copilot), enable inference at scale, and provide friendly code storage solutions — cited by Madison Faulkner at AIE Code Summit 2026
 
 ## Related
 - [[summary-20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code]] — source
@@ -24,4 +25,7 @@ Mitchell Hashimoto is the founder of Ghosty, the open-source terminal emulator. 
 - [[AmpCode]] — coding agent he uses
 - [[MarioZechner]] — inspired the vouch tool
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (runs two agents)
+- [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — source (vision for fixing GitHub)
 - [[MechSuit]] — related concept of agent orchestration preference
+- [[Continuous Compute]] — paradigm his GitHub vision supports
+- [[GitHub]] — platform he proposed evolving for AI-first users

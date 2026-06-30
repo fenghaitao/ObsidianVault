@@ -2,8 +2,8 @@
 title: "Eval Platforms"
 type: concept
 category: methodology
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -22,8 +22,15 @@ Eval platforms are systems for evaluating LLM-powered agents before and after pr
 ## Related
 
 - [[summary-20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (Logfire as an eval platform)
 - [[Braintrust]] — agent quality platform
+- [[Pydantic Logfire]] — observability platform with eval capabilities
 - [[EvalMaturityStages]] — progression of eval platform sophistication
 - [[EvalFlywheel]] — observability-evals loop
 - [[TraceDataChallenges]] — data layer challenges
 - [[AgentQualityPlatform]] — platform category
+- [[summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind]] — source
+- [[Kaggle]] — platform with multiple open-source eval products
+- [[Game Arena]] — Kaggle's PvP benchmark platform
+- [[Agent Exams]] — Kaggle's standardized agent testing
+- [[Eval Hackathons]] — Kaggle's community-driven benchmark creation

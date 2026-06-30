@@ -34,3 +34,7 @@ GitHub Copilot is an AI coding assistant that was the last product launched from
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source
 - [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — source (historical context)
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (Shopify early access story)
+- **Intercom evaluation**: Adopted early by Intercom engineers but later consolidated away from in favor of Claude Code for the 2x project. Intercom chose platform consolidation over multi-tool usage.
+- [[summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom]] — source (evaluated by Intercom)
+- [[Intercom]] — company that adopted then consolidated away from GitHub Copilot
+- [[Platform Consolidation for AI Coding]] — strategy behind the consolidation

@@ -2,7 +2,7 @@
 title: "AgentsDotMd"
 type: concept
 tags: [ai, agents, configuration, standards, project-management]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful.md"]
 last_updated: 2026-06-26
 ---
 
@@ -20,7 +20,11 @@ agents.md is a de facto standard file for AI coding agent project configuration.
 
 ## Related
 - [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — source transcript
+- [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]] — source transcript
 - [[AgentModes]] — complementary mode-based configuration
 - [[Skills]] — complementary on-demand configuration
 - [[ContextEngineering]] — the practice of managing what goes into context
 - [[AgenticEngineering]] — the parent paradigm
+- [[Clone the Repo Pattern]] — references agents.md for repo configuration
+- [[Pattern Files (AI)]] — referenced from agents.md
+- [[Model Prompting Styles]] — affects how agents.md is written

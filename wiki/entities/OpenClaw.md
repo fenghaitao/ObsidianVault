@@ -1,9 +1,9 @@
 ---
 title: "OpenClaw"
 type: entity
-tags: [tool, ai, agent, safety, open-source, gemini, smart-glasses, personal-agent]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md"]
-last_updated: 2026-06-26
+tags: [tool, ai, agent, safety, open-source, gemini, smart-glasses, personal-agent, cli]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - MCP = Mega Context Problem - Matt Carey.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -112,7 +112,43 @@ OpenClaw is the fastest-growing open-source project in GitHub history, created b
 - [[Agent Fatigue]] — community burnout documented by Kitze
 - [[Agent Unreliability]] — cron jobs, multi-agent, memory failures
 - [[Hermes]] — alternative agent framework
+- [[Hermes Agent]] — evolution beyond OpenClaw with advanced memory management
 - [[Wolfer]] — Kitze's alternative built on Codex
 - [[Telegram]] — messaging UI (not designed for Life OS)
 - [[Discord]] — messaging UI (not designed for Life OS)
 - [[Life OS]] — the purpose these UIs weren't designed for
+- [[summary-20260425 - MCP = Mega Context Problem - Matt Carey]] — source (referenced as using CLI-based agent interaction)
+- [[CLI for Agents]] — pattern used by OpenClaw for agent-tool interaction
+
+### Radek Sienkiewicz's Setup
+- Radek, an OpenClaw maintainer, incrementally gave OpenClaw access to his entire digital life: emails, notes, files, calendars, tools, and operating system
+- Uses dedicated Discord channels organized by job type: general, inbox, consulting, video research, briefing, Instagram, YouTube, open-claw, and playground
+- Integrates a ~3,000-page Obsidian vault with search and memory — the agent finds connections, adds tags, and contextualizes bookmarks
+- Runs nightly automation (3-6 AM): indexing, backup, QMD/memory/Obsidian index refresh, email/calendar summaries, and OpenClaw version updates with verification scripts
+- Five types of agent jobs: ambient operations, attention filtering, execution support, inbox processing, and specialized channels
+- Attention filtering examples: Netflix payment failure fixed in 5 minutes, domain renewal caught before expiry, email drafts with project context
+- Memory management: evolved from one memory file to a memory folder, uses dreaming for memory promotion, maintains critical rules MD
+- [[RadekSienkiewicz]] — maintainer and power user
+- [[summary-20260502 - I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com)]] — source
+- [[IncrementalAgentAdoption]] — Radek's methodology
+- [[AmbientAgentOperations]] — nightly automation concept
+- [[AgentAttentionFiltering]] — proactive notification concept
+- [[AgentKnowledgeBase]] — Obsidian integration concept
+- [[AgentChannelOrganization]] — Discord channel organization
+- [[AgentNightlyMaintenance]] — scheduled overnight routines
+- [[AgentPlayground]] — isolated testing channel
+- [[PastMeFutureMe]] — motivational framework
+- [[CriticalRules]] — non-negotiable behavioral rules
+- [[SoulMD]] — agent personality configuration
+- [[BrittleAutomations]] — multi-step automation fragility
+- [[NoisyNodes]] — knowledge nodes needing cleanup
+- [[WeakBoundaries]] — insufficient guardrails
+- [[summary-20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon]] — source (product embedding, FFmpeg discovery, multi-channel routing, sales RFP processing)
+- [[summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face]] — source (Hermes Agent as evolution)
+- [[Matthias Luebken]] — demonstrated OpenClaw-based product embedding for sales automation
+- [[Seven AI]] — company using OpenClaw for sales RFP processing
+- [[FFmpeg]] — tool autonomously discovered by OpenClaw via shell access
+- [[Coding Agents as Building Blocks]] — thesis OpenClaw enables
+- [[Multi-Channel Agent Routing]] — pattern in OpenClaw's architecture
+- [[Agent Session Reuse]] — session-based context continuity in OpenClaw
+- [[Agent-Specific MD Files]] — agent.md/customer.md pattern used with OpenClaw agents

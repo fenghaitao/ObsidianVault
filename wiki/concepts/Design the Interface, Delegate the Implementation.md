@@ -2,8 +2,8 @@
 title: "Design the Interface, Delegate the Implementation"
 type: concept
 tags: [software-design, ai-coding, architecture, delegation, strategy]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -23,6 +23,7 @@ last_updated: 2026-06-26
 
 ## Related
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[Deep Modules]] — the architectural prerequisite
 - [[MattPocock]] — originator of the strategy
 - [[KentBeck]] — "invest in the design of the system every day"

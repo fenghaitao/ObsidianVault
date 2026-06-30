@@ -2,8 +2,8 @@
 title: "Deep Modules"
 type: concept
 tags: [software-design, architecture, modularity, code-quality, ai-coding]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -24,9 +24,12 @@ Deep modules are a software design concept from John Ousterhout's "A Philosophy 
 
 ## Related
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[JohnOusterhout]] — author of A Philosophy of Software Design
 - [[Shallow Modules]] — the contrasting concept
 - [[Design the Interface, Delegate the Implementation]] — strategy enabled by deep modules
 - [[MattPocock]] — speaker who advocates this pattern
 - [[CodebaseTestability]] — related concept
+- [[Feedback Loops as AI Speed Limit]] — deep modules enable better feedback loops
+- [[TDD with AI]] — deep modules make TDD easier
 - [[Modularity]] — broader concept

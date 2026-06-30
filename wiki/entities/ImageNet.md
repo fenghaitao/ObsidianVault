@@ -2,8 +2,8 @@
 title: "ImageNet"
 type: entity
 tags: [dataset, computer-vision, benchmark, image-classification]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -18,6 +18,8 @@ ImageNet is a large-scale image dataset used by Sander Dieleman to demonstrate F
 
 ## Related
 - [[summary-20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind]] — source
+- [[summary-20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow]] — source (benchmark for ViT vs ConvNeXt vs Swin)
+- [[ConvNeXt]] — beat ViT and Swin on ImageNet
 - [[FourierAnalysisOfImages]] — analysis technique demonstrated
 - [[SpectralAutoRegression]] — concept derived from this analysis
 - [[DiffusionModels]] — modeling paradigm informed by spectral properties

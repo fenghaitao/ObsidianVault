@@ -2,8 +2,8 @@
 title: "AgentReviewerApprover"
 type: concept
 tags: [ai, agents, quality-assurance, workflow, paperclip]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -17,11 +17,16 @@ Agent reviewer/approver is a workflow pattern in Paperclip where tasks can requi
 - Different from hooks in individual coding tools (Claude, Codex) which work differently in each tool — Paperclip provides a vendor-neutral harness
 - Creates a higher degree of reliability that agents actually complete work as instructed
 - Example: coder completes task → QA agent reviews with browser testing → iterations between coder and reviewer → manager approves final result
+- **Intercom's automated code review**: 17.6% auto-approval rate using backtesting with human-labeled outputs. Uses multimodal reviews including Codex. SOC 2, ISO 27001, HIPAA compliant without humans in the loop. Shaped pull requests toward safe, simple changes for auto-approval.
 
 ## Related
 - [[Paperclip]] — the orchestrator implementing reviewer/approver gates
 - [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — source transcript
+- [[summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom]] — source (Intercom's automated code review)
 - [[AgentOrgChart]] — reviewer/approver roles fit within the org hierarchy
 - [[HumanInTheLoopWorkflows]] — related human-in-the-loop pattern
 - [[AgenticWorkflows]] — broader workflow automation context
 - [[Skills]] — agent browser skill used by QA reviewers
+- [[Automated Code Review and Approval]] — Intercom's production implementation
+- [[Backtesting Agent Skills]] — methodology used by Intercom for auto-approval confidence
+- [[Codex]] — used for multimodal code review at Intercom

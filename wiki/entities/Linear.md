@@ -2,7 +2,7 @@
 title: "Linear"
 type: entity
 tags: [tool, ticketing, project-management, quality, design]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -17,6 +17,7 @@ Linear is a modern ticketing and project management system for software teams, r
 - **Zero Bug Policy**: Every reported bug is assigned immediately and becomes the assignee's highest priority. Bugs are typically fixed within 2-3 hours. Linear spent three weeks fixing all bugs to reach zero, then enforced immediate fixing going forward.
 - **AI for bug fixing**: 10% of bugs are automatically fixed by single-shot AI — an agent creates a PR and lands it without engineer involvement. Tuomas Artman foresees this approaching 100%.
 - **Customer proximity**: Slack channels with all big customers are open to any engineer. Every customer meeting is recorded and tagged. Engineers are exposed to a "fire hose" of customer feedback.
+- **Chat agent pioneer**: One of the first companies to move their home screen to a chat interface, cited by Luke Harries as an example of the 2025 chat agent trend.
 - **Hiring**: Full-week paid trial where candidates build a greenfield project from start to finish. Very few hiring misses.
 - **Feature request philosophy**: Linear rarely ships feature requests as-is. Instead, they talk to customers, group requests, find root causes, and design a single perfect solution.
 - **Design details**: Every highlight must be instantaneous on hover; every fade-out must be 150ms. These micro-interactions are enforced across the entire application.
@@ -25,6 +26,8 @@ Linear is a modern ticketing and project management system for software teams, r
 ## Related
 - [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — source
 - [[summary-20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer]] — source
+- [[summary-20260426 - Collaborative AI Engineering： One Dev, Two Dozen Agents, Zero Alignment — Maggie Appleton, GitHub]] — source (critiqued as not designed for agentic development)
+- [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]] — source (chat agent home screen pioneer)
 - [[Baz]] — company using Linear in spec reviewer
 - [[Jira]] — alternative ticketing system
 - [[TuomasArtman]] — CTO of Linear
@@ -32,3 +35,4 @@ Linear is a modern ticketing and project management system for software teams, r
 - [[ZeroBugPolicy]] — policy at Linear
 - [[CustomerProximity]] — practice at Linear
 - [[AIAndTaste]] — concept discussed in context of Linear's approach
+- [[Chat Agents]] — paradigm Linear pioneered with its chat home screen

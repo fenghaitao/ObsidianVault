@@ -2,8 +2,8 @@
 title: "Discord"
 type: entity
 tags: [platform, community, communication, social, agent-ui]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240808 - Using agents to build an agent company： Joao Moura.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240808 - Using agents to build an agent company： Joao Moura.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com).md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -17,11 +17,13 @@ Discord is a community communication platform used both for community building (
 - Kitze's critique: "Discord and Telegram were not meant for Life OS" — "just molding them into something, but they'll never be the right UI"
 - People started using Discord topics, Slack, and other platforms to organize agent conversations after finding one-on-one chat with a single agent insufficient
 - Wolfer deliberately does not support Discord — forces use of its own purpose-built UI
+- Radek Sienkiewicz uses dedicated Discord channels mapped to agent job types: general (all conversations), inbox (link drops for knowledge base), consulting (client projects), video research (YouTube research), briefing (morning briefings), Instagram (social posting), YouTube (video creation), open-claw (maintainer work), and playground (testing new models/workspaces)
 
 ## Related
 - [[CrewAI]] — framework with Discord community
 - [[summary-20240808 - Using agents to build an agent company： Joao Moura]] — source
 - [[summary-20260423 - The End of Apps — Kitze, Sizzy.co]] — source (agent UI critique)
+- [[summary-20260502 - I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com)]] — source (channel organization)
 - [[GitHub]] — other community platform
 - [[Reddit]] — other community platform
 - [[Telegram]] — alternative messaging platform used similarly
@@ -29,3 +31,5 @@ Discord is a community communication platform used both for community building (
 - [[Wolfer]] — deliberately excludes Discord support
 - [[Life OS]] — the purpose Discord wasn't designed for
 - [[Kitze]] — user with five Discords for agents
+- [[RadekSienkiewicz]] — user with dedicated Discord channels by job type
+- [[AgentChannelOrganization]] — concept of organizing agent interactions by channel

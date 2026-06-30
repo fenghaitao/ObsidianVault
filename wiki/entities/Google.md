@@ -2,8 +2,8 @@
 title: "Google"
 type: entity
 tags: [company, ai, models, infrastructure, cloud]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -17,6 +17,7 @@ Google is a technology company that Malte Ubl identifies as playing a key commod
 - This benefits AI engineers by ensuring value accrues to the application layer rather than model providers
 - Malte gave Google "props" for playing "an amazing role" in keeping model costs down
 - Part of the three-way competition (OpenAI/Anthropic/Google) that drives model commoditization
+- **n8n Integration**: Google services (Gmail, Google Calendar) are primary integration targets for n8n AI agents. OAuth authentication is one-click. Google Calendar API has a naming quirk where "summary" is the event title
 
 ## Related
 
@@ -26,3 +27,7 @@ Google is a technology company that Malte Ubl identifies as playing a key commod
 - [[OpenAI]] — competitor in model market
 - [[Anthropic]] — competitor in model market
 - [[GoogleDeepMind]] — AI research division
+- [[Gmail]] — email service used in n8n agent workflows
+- [[Google Calendar]] — calendar service used in n8n agent workflows
+- [[n8n]] — platform integrating Google services
+- [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — source

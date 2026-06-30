@@ -2,7 +2,7 @@
 title: "Mistral"
 type: entity
 tags: [company, llm, open-source, ai]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -14,9 +14,13 @@ Mistral AI is a French AI company producing open-source language models. Their m
 - The "sun smiley face" tokenization example demonstrates that models from the Mistral family tokenize the same character differently depending on the variant
 - According to the HuggingFace team, some of these inconsistencies are correct tokenizer choices while others are bugs where the Mistral team forgot to update models to the fast tokenization variant
 - Tokenizer issues exist even before training or inference begins, breaking the pipeline before the model is even loaded
+- Enterprise customer of Black Forest Labs, using FLUX models for image generation and editing
 
 ## Related
 - [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — source
+- [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — source
 - [[Tokenization]] — the broader concept of tokenizer inconsistencies
 - [[DanielHan]] — researcher who analyzed these inconsistencies
 - [[LLMImplementationAnalysis]] — methodology for finding such issues
+- [[Black Forest Labs]] — model provider to Mistral
+- [[Flux]] — model family used

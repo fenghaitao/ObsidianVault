@@ -2,8 +2,8 @@
 title: "OverfittingAsExpertise"
 type: concept
 tags: [prompt-engineering, optimization, expertise, domain-knowledge]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -21,3 +21,6 @@ Overfitting as expertise is a reframing of the traditional ML concern about over
 - [[RuleBasedPrompting]] — the rules generated are domain-specific by design
 - [[CoEvolvingLoops]] — continuous refinement prevents stagnation
 - [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (GEPA overfitting example: excluding uncles/aunts)
+- [[Agent Optimization]] — optimization risks overfitting to small training sets
+- [[Golden Dataset]] — small datasets cause overfitting

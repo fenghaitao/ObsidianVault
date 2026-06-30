@@ -2,8 +2,8 @@
 title: "PromptOptimization"
 type: concept
 tags: [prompt-engineering, optimization, llm, dspy]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -22,6 +22,9 @@ Prompt Optimization is the process of iteratively improving the prompts sent to 
 - [[DSPy]] — framework providing prompt optimization
 - [[DSPyOptimizers]] — DSPy's implementation
 - [[GEA]] — DSPy's evolutionary optimizer
+- [[GEPA]] — standalone genetic evolutionary Pareto algorithm
 - [[PromptOptimizationLoop]] — the iterative process
+- [[Agent Optimization]] — broader optimization beyond prompts
 - [[ModelTransferability]] — enabled by optimization
 - [[summary-20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source

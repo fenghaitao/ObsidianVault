@@ -2,8 +2,8 @@
 title: "Nvidia"
 type: entity
 tags: [company, hardware, gpu, chip-manufacturing, ai]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -23,6 +23,8 @@ Nvidia is the dominant GPU and AI chip manufacturer whose CUDA software stack is
 - Launched **NeMo Claw**, a security layer and sandbox plugin for OpenClaw — Peter Steinberger hooked it to Codex security and found 5 sandbox breakout methods in 30 minutes using Nvidia's internal model which is "quite a bit smarter in terms of cyber than what the public has access to"
 - Provided engineers to OpenClaw who "basically work full-time going through the slop and hardening the code base" — Peter described Nvidia as "one of the coolest companies in terms of here's some engineers who actually just hire agency and just do things"
 - Contributor to the Open Claw Foundation alongside Microsoft, Red Hat, Telegram, Salesforce, Tencent, ByteDance, and others
+- Published **PersonalPlex**, a speech-to-speech model based on Moshi's full-duplex architecture — one of the only models to adopt Kyutai's open research on full-duplex conversation
+- In the [[Three Eras of Compute]] framework: dominated the second era (massively parallel compute), now giving way to the third era of heterogeneous compute mapping onto multi-agentic workloads
 
 ## Related
 - [[MAX]] — AI framework that replaces CUDA with a unified stack
@@ -42,3 +44,10 @@ Nvidia is the dominant GPU and AI chip manufacturer whose CUDA software stack is
 - [[Codex]] — used to test NeMo Claw security
 - [[ChipProductionAutomation]] — concept involving Nvidia's manufacturing context
 - [[FPTraining]] — float4 precision on B100 GPUs
+- [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source (PersonalPlex)
+- [[PersonalPlex]] — speech-to-speech model based on Moshi
+- [[Moshi]] — base model for PersonalPlex
+- [[Kyutai]] — creator of Moshi
+- [[Three Eras of Compute]] — framework where Nvidia dominated the second era
+- [[Heterogeneous Intelligence]] — the emerging third era paradigm
+- [[summary-20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum]] — source

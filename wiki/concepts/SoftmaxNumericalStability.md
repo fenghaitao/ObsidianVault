@@ -2,7 +2,7 @@
 title: "SoftmaxNumericalStability"
 type: concept
 tags: [numerical-methods, attention, training, llm]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -18,5 +18,7 @@ The softmax numerical stability trick subtracts the maximum value from each row 
 
 ## Related
 - [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — source
+- [[summary-20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs]] — source (softmax used in inference with temperature)
 - [[SelfAttentionMechanism]] — the attention mechanism using this trick
 - [[LLMImplementationAnalysis]] — comparison across implementations checking for this
+- [[TemperatureInAI]] — temperature applied during softmax in inference

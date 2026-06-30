@@ -2,8 +2,8 @@
 title: "GoogleDeepMind"
 type: entity
 tags: [company, ai, google, frontier-models, coding-agents]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Welcome to AIE CODE - Jed Borovik, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Welcome to AIE CODE - Jed Borovik, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -24,6 +24,7 @@ Google DeepMind is Google's AI research division and the presenting sponsor of t
 - Gemma 4 ecosystem strategy: collaborate with open-source community (Unsloth, MLX, llama.cpp, Hugging Face, vLLM, C Lang) to ensure tools work at launch
 - Gemma family has 500M+ total downloads and 100K+ community models ("Gemmaverse")
 - Official Gemma variants: Shield Gemma (safety/guardrails), Med-Gemini (medical/multimodal)
+- **BullshitBench performance**: Gemini models score ~50/50 on BullshitBench — they go along with nonsense questions about half the time. Example response starts by acknowledging the question doesn't make sense, then pivots to "however, both act as strong proxy variables for engineering culture." Google models show no clear upward trend in nonsense detection over time.
 
 ## Related
 - [[summary-20260105 - Welcome to AIE CODE - Jed Borovik, Google DeepMind]] — source
@@ -59,3 +60,27 @@ Google DeepMind is Google's AI research division and the presenting sponsor of t
 - [[JAX]] — primary ML framework
 - [[TPU]] — AI accelerator hardware
 - [[StatelessTransportProtocol]] — Google's proposal for scalable MCP transport
+- [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source (BullshitBench ~50/50 performance)
+- [[BullshitBench]] — benchmark where Gemini models are mid-tier
+- [[Nonsense Detection]] — capability where Gemini models struggle
+- [[Peter Gostev]] — BullshitBench creator
+- [[summary-20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind]] — source (Lite RT, Gemma 4 Edge, on-device AI)
+- [[Chintan Parikh]] — product manager for Lite RT
+- [[Weiyi Wang]] — colleague
+- [[Lite RT]] — on-device inference framework
+- [[Google AI Edge]] — division
+- [[NPU Acceleration]] — hardware acceleration for on-device AI
+- [[summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind]] — source
+- [[NicholasKang]] — PM for Kaggle Benchmarks
+- [[MichaelAaron]] — SWE on Kaggle evaluations and benchmarks
+- [[Game Arena]] — PvP unsaturable benchmark on Kaggle
+- [[Agent Exams]] — standardized agent testing on Kaggle
+- [[Eval Hackathons]] — community-driven benchmark creation on Kaggle
+- [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — source
+- [[KP Sawhney]] — software engineer on AI platform team
+- [[Ian Ballantyne]] — developer relations engineer
+- [[Antigravity]] — agentic IDE and platform
+- [[Agent Quota Management]] — scaling challenge for token-hungry agents
+- [[Model Tiering]] — seamless model fallback strategy
+- [[Agent Trajectory Store]] — internal observability for coding agents
+- [[Agentic Code Review]] — automated PR review with fine-tuned models

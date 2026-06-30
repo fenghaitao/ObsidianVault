@@ -2,8 +2,8 @@
 title: "ModelTransferability"
 type: concept
 tags: [dspy, llm, optimization, model-switching]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -22,3 +22,6 @@ Model Transferability is the ability to swap the underlying LLM in a DSPy progra
 - [[DSPyOptimizers]] — mechanism for recovering performance
 - [[DeclarativePromptProgramming]] — paradigm that separates logic from models
 - [[summary-20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (optimization is model-specific; changing models requires re-optimization)
+- [[Agent Optimization]] — broader optimization context
+- [[GEPA]] — optimization algorithm tied to specific models

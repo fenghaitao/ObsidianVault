@@ -2,8 +2,8 @@
 title: "Evaluator-Optimizer Pattern"
 type: concept
 tags: [workflows, content-generation, llm, structured-outputs, quality]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -22,6 +22,7 @@ The Evaluator-Optimizer Pattern is a content refinement workflow where a writer 
 
 ## Related
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (GEPA proposer agent as evaluator-optimizer)
 - [[Writing Profiles]] — static styling layer used by the reviewer
 - [[Structured Outputs]] — Pydantic objects for reviewer feedback
 - [[Pydantic]] — library used for structured reviewer output
@@ -29,3 +30,5 @@ The Evaluator-Optimizer Pattern is a content refinement workflow where a writer 
 - [[FewShotExamples]] — used in both writer and evaluator prompts
 - [[Paul Iusztin]] — presenter who designed this pattern
 - [[Deep Research Agent]] — produces the research input for the writer
+- [[GEPA]] — genetic algorithm using evaluator-optimizer meta-pattern
+- [[Agentic Optimization]] — meta-agent optimization pattern

@@ -2,8 +2,8 @@
 title: "LangChain"
 type: entity
 tags: [framework, llm, python, mcp]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -21,5 +21,8 @@ LangChain is an LLM application framework used for building agentic workflows. I
 - [[DSPy]] — framework compared to LangChain
 - [[summary-20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners]] — source
 - [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — source (MCP tool loading)
+- [[summary-20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic]] — source (shell tool, agent skills, tool decorator)
 - [[MCP]] — protocol for tool integration
 - [[ThirdPartyToolOptimization]] — framework for improving tools loaded via LangChain
+- [[Shell Tool]] — built-in LangChain tool for terminal commands
+- [[Agent Skills]] — LangChain has boilerplate for agent skill loading

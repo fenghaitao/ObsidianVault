@@ -2,7 +2,7 @@
 title: "End of Apps"
 type: concept
 tags: [prediction, future, consumer-apps, ai, generative-ui]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md"]
 last_updated: 2026-06-26
 ---
 
@@ -18,6 +18,9 @@ The End of Apps is Kitze's prediction that most consumer applications will disap
 - Kitze's ChatGPT plugins moment: called his wife saying "it's over for all the apps, for all SaaS"
 - Apple may be the one to deliver this: local Siri agent with tool capabilities from installed apps
 - Google Pixel already demonstrates the direction: launches apps in background, orders coffee
+- MCP Apps talk echoes this vision: a "new web" where personal assistants compose experiences from atomic UI chunks rather than users navigating monolithic websites
+- In the MCP Apps vision, companies send branded UI chunks (Google Calendar, Amazon, Booking.com) that the assistant composes, rather than users visiting individual websites
+- "Perhaps in 2 years, we won't have browsers as we know them. We won't have websites as we know them."
 
 ## Related
 - [[summary-20260423 - The End of Apps — Kitze, Sizzy.co]] — source
@@ -29,3 +32,6 @@ The End of Apps is Kitze's prediction that most consumer applications will disap
 - [[Siri]] — potential local agent for this future
 - [[OnDeviceAI]] — enabling technology
 - [[Local Models for Agents]] — enabling technology
+- [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]] — source (new web vision)
+- [[MCP Apps]] — protocol enabling the atomic UI chunk vision
+- [[MCPApplications]] — concept page for MCP Applications

@@ -2,8 +2,8 @@
 title: "Deep Research Agent"
 type: concept
 tags: [agents, deep-research, mcp, web-search, content-synthesis]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -33,3 +33,8 @@ A Deep Research Agent is an agentic system that autonomously researches a topic 
 - [[Firecrawl]] — web scraping service used for content ingestion
 - [[Apify]] — web scraping platform used for content ingestion
 - [[Towards AI]] — company that built the system
+- [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — source (DeepMind re-architecting with shared workspace)
+- [[KP Sawhney]] — engineer who worked on the DeepMind deep research agent
+- [[Antigravity]] — harness being used to re-architect deep research with shared file system collaboration
+- [[Agent Workspaces]] — shared workspace collaboration pattern
+- [[GeminiInteractionsAPI]] — API through which the DeepMind deep research agent is available

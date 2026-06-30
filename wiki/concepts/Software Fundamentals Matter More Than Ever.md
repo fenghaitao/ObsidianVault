@@ -2,8 +2,8 @@
 title: "Software Fundamentals Matter More Than Ever"
 type: concept
 tags: [software-engineering, ai, thesis, education, software-design]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -27,6 +27,7 @@ last_updated: 2026-06-26
 
 ## Related
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[MattPocock]] — originator of the thesis
 - [[Code is Not Cheap]] — supporting argument
 - [[Specs-to-Code]] — the movement this thesis critiques
@@ -36,3 +37,6 @@ last_updated: 2026-06-26
 - [[Ubiquitous Language]] — key skill
 - [[Software Entropy]] — the problem this thesis addresses
 - [[AgenticEngineering]] — broader paradigm
+- [[TDD with AI]] — implementation methodology
+- [[Traceable Bullets]] — vertical slice methodology
+- [[Feedback Loops as AI Speed Limit]] — quality principle

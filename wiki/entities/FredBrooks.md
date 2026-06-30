@@ -2,8 +2,8 @@
 title: "FredBrooks"
 type: entity
 tags: [person, computer-scientist, author, software-engineering]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251220 - The Infinite Software Crisis – Jake Nations, Netflix.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251220 - The Infinite Software Crisis – Jake Nations, Netflix.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -23,6 +23,7 @@ Fred Brooks is a computer scientist and author best known for "The Mythical Man-
 ## Related
 - [[summary-20251220 - The Infinite Software Crisis – Jake Nations, Netflix]] — source transcript
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[NoSilverBullet]] — his 1986 paper
 - [[EssentialVsAccidentalComplexity]] — his taxonomy of complexity
 - [[SoftwareCrisis]] — recurring pattern his work addressed

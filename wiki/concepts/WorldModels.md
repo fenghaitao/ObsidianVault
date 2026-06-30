@@ -2,7 +2,7 @@
 title: "WorldModels"
 type: concept
 tags: [ai, world-model, simulation, game-generation, deepmind]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -18,12 +18,17 @@ World Models are AI systems that generate interactive, navigable environments fr
 - **Applications**: Entertainment (new form of gaming with adversarial prompting), education (go into a world to learn about it)
 - **No physics engine**: Frames generated pixel by pixel without Unity, Unreal, or physics engines
 - **Built on**: DeepMind's long history of work on games and simulation (Atari, Go, StarCraft, MuJoCo)
+- **Black Forest Labs perspective**: World models are an intermediate step toward physical AI — training models to understand and simulate geometry, relationships, and world interactions. BFL's motivation is robotics and automation: training agents in generative worlds to scale self-driving and automate manufacturing. Their Self Flow approach can train a single model on images, video, audio, and robot actions jointly
 
 ## Related
 - [[summary-20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research]] — source
+- [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — source
 - [[Genie1]] — first generation
 - [[Genie2]] — second generation
 - [[Genie 3]] — third generation (current)
 - [[World Model Building]] — related concept
-- [[GoogleDeepMind]] — creator
+- [[GoogleDeepMind]] — creator (Genie series)
 - [[RaiaHadsell]] — research lead
+- [[Black Forest Labs]] — using world models for robotics
+- [[Self Flow]] — training approach for world models
+- [[Physical AI]] — ultimate application

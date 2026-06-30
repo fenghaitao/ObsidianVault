@@ -2,8 +2,8 @@
 title: "OpenAI"
 type: entity
 tags: [company, ai, frontier-models]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260501 - Mastering AI Pricing — Mayank Pant, Stripe.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -35,6 +35,9 @@ OpenAI is a leading AI research company co-founded by Greg Brockman, known for f
 - Peter deliberately limits OpenAI involvement in OpenClaw to avoid perception of takeover — "I could get a lot more people from OpenAI to help with the project, but that would just make a picture that they could have taken over the project and I don't want that."
 - Part of Peter's role at OpenAI is "to help them not make the same mistakes again" that were learned at OpenClaw
 - **Malte Ubl's perspective**: OpenAI is one of the three major model providers (alongside Anthropic and Google) in the model commoditization thesis. Codex is described as "amazing" and part of the competitive dynamic that drives prices down.
+- **BullshitBench performance**: GPT models score ~50/50 on BullshitBench — they go along with nonsense questions about half the time. GPT-5.4 traces show the model questioning the premise in one line then spending 20 paragraphs trying to solve it anyway. OpenAI models show no clear upward trend in nonsense detection over time.
+- **MCP Apps co-development**: Partnered with Anthropic and the MCPUI team to standardize MCP Apps as the first official MCP extension. ChatGPT supports MCP Apps and recommends it as the way to build ChatGPT apps.
+- **Advanced Voice Mode**: Half-duplex speech-to-speech model — either listening or speaking, not both. Runs at a loss as a marketing initiative, using a "gigantic multimodal model." Cannot handle simultaneous speaking or back-channeling.
 
 ## Related
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
@@ -73,3 +76,16 @@ OpenAI is a leading AI research company co-founded by Greg Brockman, known for f
 - [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (model commoditization thesis)
 - [[Model Commoditization]] — strategic context
 - [[Google]] — commoditizing competitor
+- [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source (BullshitBench ~50/50 performance)
+- [[BullshitBench]] — benchmark where GPT models are mid-tier
+- [[Nonsense Detection]] — capability where OpenAI models struggle
+- [[Reasoning Limits]] — GPT-5.4 overthinking observed in traces
+- [[Peter Gostev]] — BullshitBench creator
+- [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — source (self-diagnostics inspiration paper)
+- [[SelfDiagnostics]] — inspired by OpenAI's December paper on self-confessing misalignment
+- [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]] — source (GPT 5.4 used for vibe engineering)
+- [[Model Prompting Styles]] — GPT models prefer lowercase prompts
+- [[Vibe Engineering]] — methodology using GPT 5.4
+- [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source (advanced voice mode)
+- [[Half Duplex]] — limitation of advanced voice mode
+- [[Voice AI Cost]] — voice mode runs at a loss

@@ -2,8 +2,8 @@
 title: "ToolCalling"
 type: concept
 tags: [llm, agent-architecture, function-calling, coding-agents, mcp]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -29,6 +29,7 @@ Tool calling is the LLM capability that enables models to output structured func
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source for Anthropic Tool Use API
 - [[summary-20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer]] — source
 - [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — source (tool optimization)
+- [[summary-20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic]] — source (tool descriptions, failure modes)
 - [[MasterWhileLoop]] — the architecture enabled by tool calling
 - [[BashAsUniversalAdapter]] — the argument for minimizing tool calls
 - [[DAGvsLoopArchitecture]] — related design trade-off
@@ -36,3 +37,5 @@ Tool calling is the LLM capability that enables models to output structured func
 - [[MCP]] — protocol for tool integration
 - [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]] — source (Bedrock Converse API function/tool calling)
 - [[Converse API]] — Bedrock API with built-in function calling support
+- [[Tool Description]] — critical for tool calling success
+- [[Agentic Search]] — context where tool calling is central

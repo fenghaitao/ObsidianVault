@@ -2,8 +2,8 @@
 title: "Self-Improving Agents"
 type: concept
 tags: [agents, self-improvement, planning, reasoning, emergence]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Emergence Launch： AI Agents and the future enterprise： Dr. Satya Nitta.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Emergence Launch： AI Agents and the future enterprise： Dr. Satya Nitta.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -27,3 +27,6 @@ Self-improving agents are AI agents capable of learning from their own experienc
 - [[AgenticLoop]] — the plan-act-verify-remember-improve cycle
 - [[Agent Orchestration]] — multi-agent coordination
 - [[summary-20240731 - Emergence Launch： AI Agents and the future enterprise： Dr. Satya Nitta]] — source
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (agentic optimization as self-improvement)
+- [[Agentic Optimization]] — meta-agent pattern for self-improvement
+- [[GEPA]] — optimization algorithm enabling self-improvement

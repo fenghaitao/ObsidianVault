@@ -2,8 +2,8 @@
 title: "Playwright"
 type: entity
 tags: [tool, browser-automation, testing, microsoft, mcp]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260516 - Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -19,12 +19,20 @@ Playwright is a browser automation library that provides both a programmatic API
 - **Generic descriptions**: The MCP server's tool descriptions are intentionally shallow and generic (e.g., "Press a key on the keyboard", "Resize the browser window") because they must cater to all possible use cases.
 - **Tool optimization needed**: For specific use cases, the generic tools often need curation, wrapping with enhanced descriptions, deterministic guardrails, and composition to work effectively.
 - **Accessibility snapshot**: A particularly useful tool that captures the page's accessibility tree as text, showing all buttons and menu items, giving agents a good understanding of page structure.
+- **Playwright Agents**: An alternative integration path that installs three agent.md files (planner, generator, healer) for specialized Playwright testing workflows, recommended for complex state management scenarios.
+- **Functionality Testing**: Used in a modified TDD workflow where AI agents write failing Playwright behavioral tests (red), generate code to pass them (green), and developers refactor for quality.
 
 ## Related
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source (Replit testing)
 - [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — source (MCP server optimization)
+- [[summary-20260516 - Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft]] — source (functionality testing)
 - [[Browser-based Autonomous Testing]] — methodology
 - [[Replit]] — company using Playwright for testing
 - [[Baz]] — company using Playwright MCP for spec review
 - [[Stagehand]] — related browser automation library
 - [[ThirdPartyToolOptimization]] — framework for optimizing Playwright MCP tools
+- [[Playwright MCP]] — MCP server integration
+- [[Playwright Agents]] — planner/generator/healer agent files
+- [[Marlene Mhangami]] — speaker on Playwright for TDD
+- [[Functionality Testing]] — testing approach enabled
+- [[TDD with AI]] — methodology Playwright supports

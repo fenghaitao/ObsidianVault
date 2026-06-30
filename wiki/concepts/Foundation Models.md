@@ -2,8 +2,8 @@
 title: "Foundation Models"
 type: concept
 tags: [ai, llm, machine-learning]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow.md"]
+last_updated: 2026-06-29
 ---
 ## Definition
 Foundation models are large-scale AI models trained on broad data that can be adapted to a wide range of downstream tasks. Understanding how they work at a basic level is the first step in becoming an AI engineer, as they form the backbone of modern AI applications.
@@ -18,6 +18,7 @@ Foundation models are large-scale AI models trained on broad data that can be ad
 
 ## Related
 - [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]] — source
+- [[summary-20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow]] — source (vision foundation models)
 - [[AI Engineer]]
 - [[AmazonBedrock]]
 - [[Prompt Engineering]]
@@ -25,3 +26,7 @@ Foundation models are large-scale AI models trained on broad data that can be ad
 - [[Fine-tuning]]
 - [[Function Calling]]
 - [[Model Evaluation]]
+- [[SAM (Segment Anything Model)]] — vision foundation model series
+- [[ViT (Vision Transformer)]] — backbone for vision foundation models
+- [[DINOv3]] — self-supervised pretrained vision model
+- [[Neural Architecture Search]] — technique for deploying foundation models on edge devices

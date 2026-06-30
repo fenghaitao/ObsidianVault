@@ -2,8 +2,8 @@
 title: "Arize"
 type: entity
 tags: [company, ai, observability, eval, platform]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260510 - How we solved Context Management in Agents — Sally-Ann Delucia.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -20,12 +20,17 @@ Arize is an AI observability and evaluation platform that helps teams monitor, d
 - Series C company with investment from Datadog and Microsoft.
 - Open-source version called Phoenix provides core observability and eval workflows.
 - The company publishes content on eval prompt optimization and is actively hiring.
+- Laurie Voss (Head of Developer Experience) delivered a hands-on workshop covering the full eval lifecycle: instrumentation with OpenTelemetry and Phoenix, code evals, built-in LLM evals (correctness, faithfulness), custom LLM-as-judge evals (actionability), meta-evaluation, experiments, and practical frameworks like the impact hierarchy, data flywheel, and Swiss cheese model.
+- Phoenix Cloud provides a zero-install option for workshops — traces are sent to app.phoenix/s/<username> with an API key.
+- Has two products: Arize Phoenix (open-source) and Arize AX (enterprise). Signing up on the homepage defaults to AX.
 
 ## Related
 - [[AparnaDhinakaran]] — speaker from Arize
-- [[SallyAnnDeLucia]] — Director of RISE at Arize
+- [[SallyAnnDeLucia]] — Head of Product at Arize
 - [[FuadAli]] — Product Manager at Arize
 - [[AmanKhan]] — AI PM at Arize
+- [[LaurieVoss]] — Head of Developer Experience at Arize
+- [[AlexArizeAgent]] — Arize's internal AI agent
 - [[BookingCom]] — Arize client
 - [[Phoenix]] — open-source version of Arize
 - [[LLM-as-Judge]] — core evaluation technique used by the platform
@@ -34,6 +39,11 @@ Arize is an AI observability and evaluation platform that helps teams monitor, d
 - [[CoEvolvingLoops]] — optimization philosophy promoted by Arize
 - [[AgentVisualization]] — feature shipped by Arize
 - [[PromptPlayground]] — feature in the Arize platform
+- [[SmartTruncation]] — context management strategy used by Arize's Alex
+- [[LongSessionEvals]] — evaluation technique developed at Arize
 - [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — source
 - [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — source
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source
+- [[summary-20260510 - How we solved Context Management in Agents — Sally-Ann Delucia]] — source
+- [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source
+- [[ArizeAX]] — enterprise version

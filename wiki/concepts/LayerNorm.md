@@ -2,7 +2,7 @@
 title: "LayerNorm"
 type: concept
 tags: [architecture, training, stability, llm]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -22,6 +22,8 @@ Layer Normalization (LayerNorm) is a normalization technique that stabilizes LLM
 
 ## Related
 - [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — source
+- [[summary-20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs]] — source (prevents activation explosion across layers)
 - [[SelfAttentionMechanism]] — attention blocks wrapped in LayerNorm
 - [[Triton]] — GPU kernel language for writing LayerNorm operations
 - [[BatchNormalization]] — related technique, reduces internal covariate shift
+- [[ResidualConnections]] — paired stability mechanism

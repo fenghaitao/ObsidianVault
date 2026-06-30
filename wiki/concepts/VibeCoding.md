@@ -2,7 +2,7 @@
 title: "VibeCoding"
 type: concept
 tags: [ai-coding, development-methodology]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful.md"]
 last_updated: 2026-06-26
 ---
 
@@ -25,9 +25,11 @@ Vibe Coding is an AI-assisted coding approach where developers guide AI to write
 - [[summary-20251222 - No More Slop – swyx]] — source
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source
 - [[summary-20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro]] — source
+- [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (Malte's vibe coding stack)
+- [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]] — source
 - [[ThriveCoding]] — the data-driven alternative to vibe coding
 - [[CodeSlop]] — the negative outcome of poor vibe coding
 - [[Kino]] — the positive outcome of good vibe coding
 - [[Slop]] — the broader quality problem
-- [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (Malte's vibe coding stack)
 - [[Malte Ubl]] — uses vibe coding for personal projects
+- [[Vibe Engineering]] — structured extension with engineering practices

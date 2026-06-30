@@ -2,7 +2,7 @@
 title: "KnowledgeCutoff"
 type: concept
 tags: [llm, training, limitations]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful.md"]
 last_updated: 2026-06-25
 ---
 
@@ -19,6 +19,8 @@ Knowledge cutoff is the date boundary after which an LLM has no training data, m
 
 ## Related
 - [[summary-20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is]] — source
+- [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]] — source
 - [[NeuralFileSystem]] — proposed solution
 - [[SyntheticContinuedPreTraining]] — technique to inject post-cutoff knowledge
 - [[RAG]] — alternative approach to bypass cutoff
+- [[Clone the Repo Pattern]] — technique to work around cutoff for library knowledge

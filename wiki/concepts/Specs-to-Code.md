@@ -2,8 +2,8 @@
 title: "Specs-to-Code"
 type: concept
 tags: [ai-coding, development-methodology, anti-pattern, software-design]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -20,6 +20,7 @@ Specs-to-code is a movement in AI-assisted development that proposes writing a s
 
 ## Related
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[Software Entropy]] — the mechanism by which specs-to-code fails
 - [[VibeCoding]] — related anti-pattern
 - [[SpecificationDrivenDevelopment]] — related but more structured approach
@@ -27,3 +28,4 @@ Specs-to-code is a movement in AI-assisted development that proposes writing a s
 - [[Code is Free]] — the premise specs-to-code is built on
 - [[Code as Disposable Build Artifact]] — related paradigm
 - [[MattPocock]] — critic of this approach
+- [[PRD (Product Requirements Document)]] — Pocock's alternative to specs-to-code

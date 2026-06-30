@@ -2,7 +2,7 @@
 title: "Bun"
 type: entity
 tags: [tool, javascript-runtime, typescript, prototyping]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful.md"]
 last_updated: 2026-06-25
 ---
 
@@ -17,4 +17,6 @@ Bun is a fast JavaScript runtime and toolkit that includes built-in TypeScript c
 
 ## Related
 - [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — source
+- [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]] — source
 - [[CodeGenerationForNonCoding]] — Bun simplifies the code generation workflow
+- [[Vibe Engineering]] — used as the runtime in the workshop

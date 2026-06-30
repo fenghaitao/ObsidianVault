@@ -2,7 +2,7 @@
 title: "SQLite"
 type: entity
 tags: [tool, database, sql, cli]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful.md"]
 last_updated: 2026-06-25
 ---
 
@@ -17,5 +17,7 @@ SQLite is a self-contained SQL database engine. In the Claude Agent SDK workshop
 
 ## Related
 - [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — source
+- [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]] — source
 - [[AgenticSearchInterface]] — the design pattern SQLite enables
 - [[BashTool]] — the mechanism for invoking SQLite
+- [[Effect]] — used with Effect SQL for persistence in the workshop

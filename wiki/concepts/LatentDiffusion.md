@@ -2,7 +2,7 @@
 title: "LatentDiffusion"
 type: concept
 tags: [generative-models, diffusion, compression, autoencoders, image-generation, video-generation]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md"]
 last_updated: 2026-06-26
 ---
 
@@ -19,12 +19,16 @@ Latent diffusion is a two-stage approach to generative modeling where data is fi
 - **Memory feasibility**: Compression is the difference between fitting training data in memory and not being able to train at all
 - **Decoder required**: After sampling in latent space, the decoder converts latents back to pixel space
 - **Used by**: Stable Diffusion, Veo, NanoBanana, and most modern image/video generation models
+- The Black Forest Labs team were the original creators of the Latent Diffusion technique, which later became the foundation for Stable Diffusion and the FLUX model family
 
 ## Related
 - [[summary-20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind]] — source
+- [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — source
 - [[DiffusionModels]] — generative modeling paradigm
 - [[Autoencoders]] — compression mechanism
 - [[EQ-VAE]] — paper on improving autoencoder training
 - [[Stable Diffusion]] — canonical example
 - [[Veo]] — video latent diffusion model
 - [[NanoBanana]] — image latent diffusion model
+- [[Black Forest Labs]] — original creators of the technique
+- [[Flux]] — model family built on latent diffusion

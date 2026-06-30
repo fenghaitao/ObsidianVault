@@ -2,8 +2,8 @@
 title: "Design Concept"
 type: concept
 tags: [software-design, collaboration, ai, communication]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -21,7 +21,9 @@ The design concept is the ephemeral, shared understanding of what is being built
 
 ## Related
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[FredBrooks]] — author of The Design of Design
 - [[Grill Me]] — Matt Pocock's skill based on this concept
 - [[Ubiquitous Language]] — complementary concept for shared understanding
 - [[MattPocock]] — speaker who applied this concept to AI
+- [[PRD (Product Requirements Document)]] — the document that captures the design concept

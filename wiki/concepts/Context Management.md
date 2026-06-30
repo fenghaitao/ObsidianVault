@@ -2,8 +2,8 @@
 title: "Context Management"
 type: concept
 tags: [agents, context, architecture, llm, tools]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260510 - How we solved Context Management in Agents — Sally-Ann Delucia.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -22,11 +22,16 @@ Context management is the third pillar of Replit's autonomy framework, referring
 - **Brendan O'Leary's four habits**: (1) Persist information outside the context window (scratch pads, memory files, agents.md). (2) Be selective about what to pull in — only what's relevant for this step. (3) Summarize, trim, and compress as the window grows. (4) Isolate context across sessions using parallel agents or fresh sessions.
 - **Context window degradation**: Quality degrades past ~50% context window fullness (the "dumb zone"). Bad context can poison everything — mixing unrelated tasks, outdated comments, or negative patterns from earlier sessions.
 - **Session hygiene**: When things go off the rails, start a new session. Have the agent summarize the session for a new agent, verify the summary, then proceed with clean context. "AI is really great at writing prompts for AI."
+- **Demand-Driven Context**: Raj's approach is fundamentally about context management at the knowledge base level. Per-domain knowledge bases average ~96K tokens — fitting easily in modern context windows (Claude Code: 1M tokens). The 80/20 rule applies: curate the critical 20% of documentation as a "cache database" (context blocks) and leave the rest as links. This is context management applied to institutional knowledge rather than session state.
+- **Smart Truncation with Memory (Arize's Alex)**: Keep the head (first ~100 chars) and tail (last ~100 chars) of context, truncate the middle and store it in a memory store. The agent can retrieve from memory when needed. Deduplicate messages, keep latest tool call results, never reset the system prompt. Gives the agent agency over what to retrieve. This strategy has worked for months without changes.
+- **Long Session Evals (Arize's Alex)**: Long conversations cause late-stage failures that go unnoticed. Solution: load 10 turns, test the 11th to measure context degradation. Makes context quality testable rather than relying on user reports.
+- **SallyAnn DeLucia's Key Insight**: Context management is a product and UX problem, not just an engineering one. If an agent doesn't have the right context, it gives bad answers, and nobody uses the product. Agents fail because of context, not prompts.
 
 ## Related
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
 - [[summary-20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)]] — source
 - [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — source (tool curation for context)
+- [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[Three Pillars of Autonomy]] — parent framework
 - [[Sub-agent Orchestration]] — key technique
 - [[Autonomous Coding Agents]] — application domain
@@ -41,3 +46,10 @@ Context management is the third pillar of Replit's autonomy framework, referring
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (context rot as a failure mode of long-running agents)
 - [[Context Rot]] — failure mode where context degrades after extended operation, signaled by compaction
 - [[High-Bandwidth Artifacts]] — persistent interfaces that mitigate context rot by not depending on linear chat context
+- [[Demand-Driven Context]] — context management applied to institutional knowledge
+- [[Context Blocks]] — curated knowledge chunks as context management output
+- [[Knowledge Base Monolith]] — what context management decomposes
+- [[SmartTruncation]] — head+tail truncation with memory store retrieval
+- [[LongSessionEvals]] — testing context quality at late conversation turns
+- [[AlexArizeAgent]] — Arize's agent using smart truncation and sub-agents
+- [[summary-20260510 - How we solved Context Management in Agents — Sally-Ann Delucia]] — source

@@ -2,8 +2,8 @@
 title: "EdgeModels"
 type: concept
 tags: [models, deployment, on-device, small-models]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind.md"]
+last_updated: 2026-06-29
 ---
 
 ## Definition
@@ -24,6 +24,7 @@ Edge models are AI models designed for on-device deployment on memory-constraine
 ## Related
 - [[summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI]] — source
 - [[summary-20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI]] — source
+- [[summary-20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind]] — source (Gemma 4 E2B/E4B Edge models, Lite RT deployment, NPU acceleration)
 - [[LiquidAI]] — company focused on edge models
 - [[LFM]] — Liquid Foundation Models
 - [[OnDeviceProfiling]] — architecture optimization methodology
