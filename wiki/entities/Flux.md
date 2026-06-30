@@ -2,7 +2,7 @@
 title: "Flux"
 type: entity
 tags: [model, image-generation, image-editing, diffusion, open-source, multimodal]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna.md"]
 last_updated: 2026-06-29
 ---
 
@@ -14,12 +14,15 @@ Flux is the model family from Black Forest Labs, spanning text-to-image generati
 - **Flux Context**: First open-source editing model, combined text-to-image and image editing, ~7-8s generation (vs. 40-50s competitors), enabled storyboarding for video model input frames
 - **Flux 2** (November 2024): BFL's best image model, multi-reference (up to 10 images simultaneously), state-of-the-art in text-to-image and image editing, indistinguishable-from-real samples, excellent character/product/style consistency
 - **Flux 2 Klein** (January 2025): Interactive editing/generation, 500ms editing / 300ms generation, on par or better than other open-source models while ~30x faster than Kwen
+- **Flux 2 Flex**: Optimized variant for text rendering, developed in collaboration with [[Pruna]]; achieves way faster generation while staying on the Pareto frontier for text rendering quality vs. efficiency
 - All models released as open source
 - Each release raised the bar on quality as part of BFL's first operating principle
 
 ## Related
 - [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — source
+- [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source (Flux 2 Flex optimization)
 - [[Black Forest Labs]] — creator
+- [[Pruna]] — collaboration partner for Flux 2 Flex optimization
 - [[Flux 2 Klein]] — real-time interactive variant
 - [[Self Flow]] — next-generation training approach for future Flux models
 - [[DiffusionModels]] — underlying paradigm

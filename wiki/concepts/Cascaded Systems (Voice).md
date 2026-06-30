@@ -2,7 +2,7 @@
 title: "Cascaded Systems (Voice)"
 type: concept
 tags: [voice-ai, architecture, speech-to-text, llm, text-to-speech, streaming]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI.md"]
 last_updated: 2026-06-29
 ---
 
@@ -19,10 +19,15 @@ Cascaded systems in voice AI refer to the three-stage architecture where audio i
 - Tool call latency (500ms-4s via OpenRouter) is now the bigger bottleneck than TTS latency
 - Fillers can mitigate tool call latency by keeping conversation flowing during waits
 - Anything not in the text (paralinguistic cues) is lost in cascaded systems
+- LLM takes majority of latency and cost budget, followed by TTS, then STT
+- Model size constrained to 8-30B parameters to meet ~200-300ms TTFT budget
+- Network latency between components can add 75ms+ — co-location in same data center is key optimization
 
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
+- [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source
 - [[Speech-to-Speech Models]] — alternative architecture
+- [[Voice Agent Pipeline Architecture]] — the full pipeline including orchestrator and infrastructure
 - [[Voice AI]] — parent domain
 - [[Fillers (Voice AI)]] — latency mitigation technique
 - [[Latency]] — key challenge
@@ -30,3 +35,5 @@ Cascaded systems in voice AI refer to the three-stage architecture where audio i
 - [[Gradium AI]] — implements streaming cascaded systems
 - [[Streaming TTS]] — component of cascaded systems
 - [[Semantic VAD]] — component of cascaded systems
+- [[Co-location (Voice AI)]] — latency optimization strategy
+- [[Auto Scaling for Voice Agents]] — scaling infrastructure

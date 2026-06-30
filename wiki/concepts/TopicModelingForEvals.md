@@ -2,7 +2,7 @@
 title: "Topic Modeling for Evals"
 type: concept
 category: methodology
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-26
 ---
 
@@ -25,3 +25,5 @@ Topic Modeling for Evals is the application of topic modeling techniques to agen
 - [[FailureModeAnalysis]] — discovering failure modes through topic modeling
 - [[AgentObservability]] — the data source for topic modeling
 - [[TraceDataChallenges]] — the data infrastructure needed to support this
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source (Phase 4 advanced technique)
+- [[EvalPracticePhases]] — Phase 4 where topic modeling is an emerging technique

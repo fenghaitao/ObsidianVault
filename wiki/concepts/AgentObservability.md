@@ -2,7 +2,7 @@
 title: "Agent Observability"
 type: concept
 category: methodology
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-30
 ---
 
@@ -39,10 +39,17 @@ Braintrust treats observability and evals as the same problem from a systems per
 
 Key challenges of agent observability at scale:
 - **Data velocity**: Production traffic generates traces at high speed
-- **Data size**: Individual spans can be 10-20MB (vs. traditional spans at a few KB)
+- **Data size**: Individual spans can be 10-20MB (vs. traditional spans at a few KB); entire agent traces can exceed a gigabyte
 - **Structure**: Semi-structured to unstructured, heavy on text
 - **Query patterns**: Need both low-latency point queries (viewing a trace) and aggregate analytics plus full-text search
 - **Multimodal**: Traces may contain audio, video, and other media stored in object storage
+
+Braintrust's 20260528 talk frames agent observability as fundamentally different from traditional observability across three dimensions:
+- **Data**: Agents are non-deterministic, producing qualitative concerns (groundedness, tool usage correctness, brand alignment) that traditional metrics cannot measure
+- **Systems**: Requires custom databases with write-ahead logs for immediate ingestion, text-based indexing (Tantivy) for full-text search across traces, and SQL unification — capabilities absent from traditional OLAP databases like ClickHouse
+- **Personas**: Non-technical domain experts (clinicians, lawyers, wealth advisors) actively review traces and contribute improvements — a workflow absent from traditional observability
+
+Braintrust also notes that observability and evals are the same problem from a systems perspective — the only difference is that evals run in batch with known inputs while observability runs in real time with unknown inputs. Both are solved by the same underlying infrastructure.
 
 ### Raindrop Perspective
 
@@ -123,3 +130,12 @@ The observability loop: instrumentation → traces → evaluation → annotation
 - [[OpenInference]] — LLM-specific OTel extension
 - [[Agent Trajectory Store]] — Google's custom trajectory store for coding agents
 - [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — source (Google's custom observability)
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source (observability + evals as same problem)
+- [[summary-20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust]] — source (three-dimension framework)
+- [[TraditionalObservability]] — the complementary, narrower category
+- [[NonDeterministicAgents]] — why agent behavior drives different observability needs
+- [[AgentTraceData]] — semi-structured, voluminous trace data challenges
+- [[TextBasedIndexing]] — full-text search requirement unique to agent traces
+- [[Tantivy]] — text indexing framework used for agent trace search
+- [[TopicModelingForAgents]] — automated trace clustering to surface patterns
+- [[ObservabilityAndEvalsUnified]] — observability and evals as the same systems problem

@@ -2,7 +2,7 @@
 title: "Trace-Linked Evaluations"
 type: concept
 tags: [observability, evaluations, tracing, debugging, agents]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-30
 ---
 
@@ -39,3 +39,6 @@ Trace-linked evaluations combine agent traces (showing how an agent executed) wi
 - [[Microsoft Foundry]] — platform implementing trace-linked evaluations
 - [[summary-20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft]] — source
 - [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — related observability talk
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source (evaluating entire agent traces at Phase 3)
+- [[ToolCallsInEvals]] — Phase 3 challenge requiring trace-level evaluation
+- [[EvalPracticePhases]] — Phase 3 where trace evaluation becomes necessary

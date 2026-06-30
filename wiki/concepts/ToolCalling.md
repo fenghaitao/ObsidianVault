@@ -2,7 +2,7 @@
 title: "ToolCalling"
 type: concept
 tags: [llm, agent-architecture, function-calling, coding-agents, mcp]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240805 - What's new from Anthropic and what's next： Alex Albert.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI.md"]
 last_updated: 2026-06-29
 ---
 
@@ -24,6 +24,9 @@ Tool calling is the LLM capability that enables models to output structured func
 - **Description importance**: Tool descriptions are critical because they let agents know when to use the code and how to use it. Generic descriptions from third-party MCP servers are often too shallow for specific applications.
 - MLX Swift LM supports tool calling natively for on-device models on iOS/macOS
 - On-device models are getting better at tool calling over time (noted improvement from a year ago to April 2026)
+- For voice agents, tool calling is a critical capability and a major constraint on LLM model size (must fit within 8-30B parameter range to meet latency budgets)
+- Fine-tuning smaller LLMs on use-case-specific data improves tool calling quality while staying within voice agent latency budgets
+- Speech-to-speech models currently struggle with tool calling — a key reason pipeline architectures dominate production
 
 ## Related
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source for Anthropic Tool Use API
@@ -39,3 +42,6 @@ Tool calling is the LLM capability that enables models to output structured func
 - [[Converse API]] — Bedrock API with built-in function calling support
 - [[Tool Description]] — critical for tool calling success
 - [[Agentic Search]] — context where tool calling is central
+- [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source (voice agent constraints)
+- [[Voice Agent Pipeline Architecture]] — tool calling in voice context
+- [[Thinker-Talker Pattern]] — pattern for tool calling under latency constraints

@@ -2,7 +2,7 @@
 title: "Raspberry Pi"
 type: entity
 tags: [hardware, single-board-computer, open-source, robotics]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face.md"]
 last_updated: 2026-06-29
 ---
 
@@ -15,6 +15,7 @@ Raspberry Pi is a single-board computer used as the hardware platform for the Pu
 - Hosts Gemini models for object detection and environmental response
 - Part of the Pupper robot's fully open-source hardware and software stack
 - Mentioned as a target device for the smallest Gemma 4 models (E2B), which can run on Raspberry Pi for on-device AI applications
+- Onboard computer for the $450 version of Reachy Mini; the $300 version omits it for users who provide their own compute
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
@@ -22,4 +23,5 @@ Raspberry Pi is a single-board computer used as the hardware platform for the Pu
 - [[summary-20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind]] — source (live robot demo running Lite RT LLM on CPU)
 - [[Pupper]] — robot using Raspberry Pi
 - [[Gemma4]] — model family with Raspberry Pi as target device
-- [[Google DeepMind]] — model provider
+- [[Reachy Mini]] — robot using Raspberry Pi for onboard compute
+- [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source

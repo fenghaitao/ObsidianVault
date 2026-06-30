@@ -2,8 +2,8 @@
 title: "JakeNations"
 type: entity
 tags: [person, engineer, netflix, speaker]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251220 - The Infinite Software Crisis – Jake Nations, Netflix.md"]
-last_updated: 2026-06-25
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251220 - The Infinite Software Crisis – Jake Nations, Netflix.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -19,7 +19,9 @@ Jake Nations is a software engineer at Netflix who has spent recent years drivin
 
 ## Related
 - [[summary-20251220 - The Infinite Software Crisis – Jake Nations, Netflix]] — source transcript
+- [[summary-20260527 - The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry]] — source (Priscila references his blog post and three-phase approach)
 - [[Netflix]] — employer
 - [[ContextCompression]] — methodology he developed
-- [[ThreePhaseApproach]] — workflow he advocates
+- [[ThreePhaseApproach]] — workflow he advocates; critiqued by [[Priscila Andre de Oliveira]] as missing a comprehension step
 - [[InfiniteSoftwareCrisis]] — concept from his talk
+- [[Priscila Andre de Oliveira]] — referenced his blog post "vibe coding our way to disaster"

@@ -2,7 +2,7 @@
 title: "Context Rot"
 type: concept
 tags: [agents, context-management, failure-mode, long-running]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260602 - How Lovable self-improves every hour — Benjamin Verbeek, Lovable.md"]
 last_updated: 2026-06-29
 ---
 
@@ -18,6 +18,7 @@ Context rot is a failure mode in long-running AI agents where the context window
 - Context rot is exacerbated by chat interfaces because chat is linear and cannot effectively represent the tree/DAG structure of complex work
 - High-bandwidth artifacts help mitigate context rot by providing persistent, structured interfaces that don't depend on maintaining all context in a single linear thread
 - **Chris Parsons' perspective**: With Claude Code's `loop` command, context persists across iterations (same session). With external while loops, each run gets fresh context. Parsons prefers fresh context because it forces information to be codified into the repository, making it accessible to any session or human — "if you treat sessions as ephemeral and make sure you capture everything within them into your repository anyway, I think that could be more powerful"
+- **Lovable's knowledge rot**: Benjamin Verbeek describes a parallel form of context rot in agent knowledge bases. When new models are released or platform features change, previously useful knowledge entries become stale and can actually degrade agent performance. Lovable's [[Lovable Stack Overflow]] uses an A/B evaluation loop to continuously measure whether injected knowledge improves project outcomes — solutions that worsen results are shown less or pruned entirely. This prevents "context rot" in the knowledge base from harming agent quality.
 
 ## Related
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source
@@ -31,3 +32,6 @@ Context rot is a failure mode in long-running AI agents where the context window
 - [[Ralph Loop]] — pattern where context rot is a trade-off
 - [[Loop Command]] — same-session approach that risks context rot
 - [[Compacting]] — related context management technique
+- [[Lovable Stack Overflow]] — knowledge base with A/B eval to combat knowledge rot
+- [[Benjamin Verbeek]] — described knowledge rot in agent knowledge bases
+- [[summary-20260602 - How Lovable self-improves every hour — Benjamin Verbeek, Lovable]] — source

@@ -2,7 +2,7 @@
 title: "CrossFunctionalAgentTeams"
 type: concept
 tags: [agents, team-composition, organizational-design, genai, collaboration]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-30
 ---
 
@@ -29,3 +29,6 @@ Cross-functional agent teams are diverse groups that bring together data scienti
 - [[DataScientistsAsGuardrails]] — the data scientist contribution
 - [[TraditionalEnterpriseVsAINatives]] — contrasting organizational approaches
 - [[ModelAsAPI]] — why product engineers belong on the team
+- [[summary-20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust]] — source
+- [[NonDeterministicAgents]] — non-deterministic agent behavior requiring diverse team perspectives
+- [[AgentObservability]] — observability as a shared team responsibility

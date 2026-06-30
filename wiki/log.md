@@ -508,3 +508,83 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-06-29] ingest | Does GenAI belong to data scientists — Phil Hetzel
 - **Changes**: created [[summary-20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust]], created/updated 12 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-06-30] ingest | Run Frontier AI at Home — Alex Cheema
+- **Changes**: created [[summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs]], created/updated 25 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Stop babysitting your agents — Brandon Waselnuk
+- **Changes**: created [[summary-20260526 - Stop babysitting your agents... — Brandon Waselnuk, Unblocked]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | What the Best Agents Share — Mardu Swanepoel
+- **Changes**: created [[summary-20260526 - What the Best Agents Share — Mardu Swanepoel, Flinn AI]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | The AI Skill I Rely On Daily — Priscila Andre de Oliveira
+- **Changes**: created [[summary-20260527 - The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry]], created/updated 15 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | The maturity phases of running evals — Phil Hetzel
+- **Changes**: created [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]], created/updated 19 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke
+- **Changes**: created [[summary-20260527 - Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry]], created/updated 10 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | How agent o11y differs from traditional o11y — Phil Hetzel
+- **Changes**: created [[summary-20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust]], created/updated 19 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Most Enterprise Agentic Projects Are Doomed — Jess Grogan-Avignon & Jack Wang
+- **Changes**: created [[summary-20260528 - Most Enterprise Agentic Projects Are Doomed, Here''s Why — Jess Grogan-Avignon & Jack Wang, Accenture]], created/updated 16 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Reachy Mini: $300 open source robot — Andres Marafioti
+- **Changes**: created [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]], created/updated 14 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Context Graphs for Explainable, Decision-Aware Agents — Andreas Kollegger & Zaid Zaim
+- **Changes**: created [[summary-20260528 - Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kollegger & Zaid Zaim, Neo4j]], created [[DecisionAwareAgents]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Reverse engineering a Viking VOIP phone — Boris Starkov
+- **Changes**: created [[summary-20260529 - Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs]], created/updated 12 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Why your agents need decision traces — Zach Blumenfeld
+- **Changes**: created [[summary-20260529 - Why your agents need decision traces, not just documents — Zach Blumenfeld, Neo4j]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | How I deleted 95% of my agent skills — Nick Nisi
+- **Changes**: created [[summary-20260530 - How I deleted 95% of my agent skills and got better results — Nick Nisi, WorkOS]], created/updated 16 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid
+- **Changes**: created [[summary-20260530 - Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind]], created/updated 13 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Can LLMs generate Enterprise Quality Code — Prasenjit Sarkar
+- **Changes**: created [[summary-20260531 - Can LLMs generate Enterprise Quality Code — Prasenjit Sarkar, Sonar]], created/updated 17 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Engineering voice agents — Rishabh Bhargava
+- **Changes**: created [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]], created/updated 22 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Spec-Driven Testing for Agents — Steven Willmott
+- **Changes**: created [[summary-20260531 - Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence]], created/updated 7 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | 20 days of compute vs 7 hours — Bertrand Charpentier
+- **Changes**: created [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]], created/updated 16 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | How to talk to statues — Joe Reeve
+- **Changes**: created [[summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs]], created/updated 16 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | How We Built Zeta2 — Ben Kunkle
+- **Changes**: created [[summary-20260530 - How We Built Zeta2： Training an Edit Prediction Model in Production — Ben Kunkle, Zed]], created [[Zeta2]], [[EditPrediction]], updated [[index.md]]
+- **Conflicts**: none

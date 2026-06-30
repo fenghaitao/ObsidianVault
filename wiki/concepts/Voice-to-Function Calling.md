@@ -2,7 +2,7 @@
 title: "Voice-to-Function Calling"
 type: concept
 tags: [voice, function-calling, on-device, agents, multimodal]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI.md"]
 last_updated: 2026-06-29
 ---
 
@@ -18,11 +18,15 @@ Voice-to-Function Calling is the capability where a voice command is transcribed
 - Modularity pattern: separate transcription and function-calling models often preferred for reusability and debuggability
 - Part of the tiny LLM (TLM) in-app GenAI deployment pattern
 - Runs on-device for privacy and latency benefits
+- For voice agents in production, evals focus on tool call structure correctness (near 100%) and correctness depending on use case
+- Fine-tuning smaller LLMs on use-case-specific data is a common pattern to improve tool calling quality while staying within latency budgets
 
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
+- [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source
 - [[Function Gemma]] — model designed for this use case
 - [[Function Calling]] — underlying capability
 - [[Tiny LLMs]] — model category
 - [[FineTuning]] — required for reliability
 - [[AI Edge Gallery]] — app where derivatives can be tested
+- [[Thinker-Talker Pattern]] — related pattern for voice agent guardrails

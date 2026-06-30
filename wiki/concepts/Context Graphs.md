@@ -2,7 +2,7 @@
 title: "Context Graphs"
 type: concept
 tags: [context-graphs, knowledge-graphs, agent-memory, graph-rag, neo4j, reasoning-traces, short-term-memory, long-term-memory]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260516 - Connecting the Dots with Context Graphs — Stephen Chin, Neo4j.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260516 - Connecting the Dots with Context Graphs — Stephen Chin, Neo4j.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260529 - Why your agents need decision traces, not just documents — Zach Blumenfeld, Neo4j.md"]
 last_updated: 2026-06-30
 ---
 
@@ -25,15 +25,29 @@ Context Graphs are a unified architecture for agent memory that combines knowled
 ### Neo4j Agent Memory
 The Neo4j Agent Memory is an open-source package that implements the three-layer memory architecture on Neo4j. It provides APIs for agents to access memory as tools, enabling short-term memory, long-term memory, and reasoning traces within a context graph structure. Available on GitHub with an open contribution model.
 
+### Decision Traces and Precedents
+Context graphs store decision traces — structured records of past decisions linked in causal chains. Unlike documents, decision traces capture the why: what context, policies, and precedents led to each decision. Agents use hybrid search (semantic vector search + structural graph embedding search) to find similar past decision patterns as precedents for new decisions. Graph embeddings (via Neo4j GDS FastRP) encode the structural shape of decision chains into vectors, enabling similarity search over patterns invisible to text-based retrieval.
+
+### Create Context Graph CLI
+A scaffolding tool (`uvx create-context-graph`) that generates full-stack context graph applications with a single command. Supports 22 built-in domains (Healthcare, FinServ, custom), multiple agent frameworks (Pydantic AI, OpenAI, LangGraph, Crew, Strands, Google ADK), and data connectors for GitHub, Notion, Jira, and Slack.
+
 ## Related
 - [[Knowledge Graphs]] — foundational data structure for context graphs
 - [[Graph RAG]] — retrieval technique that grounds LLM responses in graph-structured knowledge
-- [[Reasoning Traces]] — the memory layer capturing decision provenance
+- [[Decision Traces]] — the memory layer capturing decision provenance and causal chains
+- [[Graph Embeddings]] — embedding graph structures for similarity search
+- [[Graph Data Science]] — Neo4j library for graph algorithms and embeddings
 - [[Agent Memory]] — the broader concept of agent memory, including Neo4j's graph-based approach
 - [[Neo4j]] — company providing the graph database and Agent Memory package
+- [[Neo4j Agent Memory]] — open-source memory package
+- [[Create Context Graph]] — CLI scaffolding tool for context graph apps
 - [[Stephen Chin]] — speaker who presented the context graph architecture
+- [[Zach Blumenfeld]] — speaker who presented decision traces
+- [[William Lyon]] — built the context graph demo and Create Context Graph tool
 - [[Gartner]] — recognized context graphs on the AI hype cycle
 - [[Foundation Capital]] — identified context graphs as a $3 trillion opportunity
 - [[Cypher]] — query language used for knowledge graph traversal
 - [[Explainable AI]] — context graphs enable explainable and auditable AI decisions
+- [[DecisionAwareAgents]] — agents that use context graphs for decisions
 - [[summary-20260516 - Connecting the Dots with Context Graphs — Stephen Chin, Neo4j]] — source
+- [[summary-20260529 - Why your agents need decision traces, not just documents — Zach Blumenfeld, Neo4j]] — source

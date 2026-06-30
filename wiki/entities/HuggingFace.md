@@ -2,7 +2,7 @@
 title: "HuggingFace"
 type: entity
 tags: [platform, models, open-source, hosting]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face.md"]
 last_updated: 2026-06-30
 ---
 
@@ -28,6 +28,9 @@ Hugging Face is a model hosting platform and library (Hugging Face Transformers)
 - **GGUF**: File format for quantized models with hardware compatibility info on model pages
 - Hosts ~3 million models, datasets, and spaces as of May 2026
 - Agentic models can be filtered; VLMs act as computer-use agents via screenshots
+- Created the Reachy Mini open-source robot ($300–450) with built-in voice AI, shipped 7,500+ units
+- Maintains the speech-to-speech pipeline used in Reachy Mini for voice agent conversations
+- Serves Reachy Mini conversations via Hugging Face Inference Endpoints with dynamic load balancing
 
 ## Related
 - [[Gemma4]] — available on the platform
@@ -54,3 +57,9 @@ Hugging Face is a model hosting platform and library (Hugging Face Transformers)
 - [[HuggingFaceTransformers]] — the Transformers library specifically
 - [[Flux]] — most liked model on the platform at launch
 - [[Black Forest Labs]] — creator of Flux
+- [[Reachy Mini]] — open-source robot created by Hugging Face
+- [[Andres Marafioti]] — leads multimodal research and Reachy Mini project
+- [[Speech-to-Speech Pipeline]] — open-source voice pipeline maintained by Hugging Face
+- [[Hugging Face Inference Endpoints]] — serving infrastructure
+- [[Coqui]] — TTS models hosted and optimized on the platform
+- [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source

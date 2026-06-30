@@ -2,7 +2,7 @@
 title: "Nvidia"
 type: entity
 tags: [company, hardware, gpu, chip-manufacturing, ai]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI.md"]
 last_updated: 2026-06-30
 ---
 
@@ -24,6 +24,8 @@ Nvidia is the dominant GPU and AI chip manufacturer whose CUDA software stack is
 - Provided engineers to OpenClaw who "basically work full-time going through the slop and hardening the code base" — Peter described Nvidia as "one of the coolest companies in terms of here's some engineers who actually just hire agency and just do things"
 - Contributor to the Open Claw Foundation alongside Microsoft, Red Hat, Telegram, Salesforce, Tencent, ByteDance, and others
 - Published **PersonalPlex**, a speech-to-speech model based on Moshi's full-duplex architecture — one of the only models to adopt Kyutai's open research on full-duplex conversation
+- Published a streaming-native ASR model with two innovations: trained with different amounts of look-ahead time (80ms to ~1 second instead of 30 seconds) and encoder activation caching for efficient streaming transcription
+- Launched **Voice Chat**, a speech-to-speech model similar to OpenAI's real-time API — still struggles with instruction following and tool calling
 - In the [[Three Eras of Compute]] framework: dominated the second era (massively parallel compute), now giving way to the third era of heterogeneous compute mapping onto multi-agentic workloads
 
 ## Related
@@ -51,3 +53,7 @@ Nvidia is the dominant GPU and AI chip manufacturer whose CUDA software stack is
 - [[Three Eras of Compute]] — framework where Nvidia dominated the second era
 - [[Heterogeneous Intelligence]] — the emerging third era paradigm
 - [[summary-20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum]] — source
+- [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source (streaming ASR, Voice Chat)
+- [[Voice Chat (Nvidia)]] — speech-to-speech model
+- [[Streaming ASR]] — architectural evolution using Nvidia's model
+- [[Word Error Rate]] — quality metric for STT models including Nvidia's

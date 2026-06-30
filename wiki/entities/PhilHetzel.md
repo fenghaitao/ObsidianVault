@@ -2,7 +2,7 @@
 title: "Phil Hetzel"
 type: entity
 tags: [person, solutions-engineering, evals]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-30
 ---
 
@@ -34,3 +34,11 @@ Phil Hetzel leads solutions engineering at Braintrust, an agent quality platform
 - [[DataScientistsAsGuardrails]] — role for data scientists in GenAI
 - [[ModelAsAPI]] — argument that LLMs are pre-built APIs
 - [[TraditionalEnterpriseVsAINatives]] — organizational archetypes identified
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source
+- [[EvalPracticePhases]] — four-phase practitioner maturity model presented
+- [[EvalPrimitives]] — task, dataset, scoring function framework
+- [[ToolCallsInEvals]] — evaluating agents with tool calls
+- [[DeterministicEval]] — code-based eval scoring
+- [[summary-20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust]] — source
+- [[NonDeterministicAgents]] — why agent non-determinism drives different observability needs
+- [[AgentTraceData]] — semi-structured, voluminous trace data challenges

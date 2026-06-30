@@ -2,7 +2,7 @@
 title: "Vercel"
 type: entity
 category: company
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman.md"]
 last_updated: 2026-06-26
 ---
 
@@ -14,11 +14,12 @@ Vercel is a cloud platform company that provides the frontend deployment platfor
 
 ## Key Information
 
-- **Products**: Next.js, AI SDK, Workflow DevKit, Vercel Sandbox
+- **Products**: Next.js, AI SDK, Workflow DevKit, Vercel Sandbox, JSON Render
 - **Key Technologies**:
   - **AI SDK**: TypeScript toolkit for building AI applications with `streamText`, `Agent`, `useChat`, and tool integration. Led by Last Gammel (Berlin). Over 10 million downloads per week.
   - **Workflow DevKit**: Open-source library for building durable, observable workflows with step isolation, retry, caching, and human-in-the-loop patterns
   - **Vercel Sandbox**: Isolated VM service for running agent-generated code
+  - **JSON Render**: Declarative UI tool that maps components using JSON and YAML descriptors, enabling dynamic UI interactions while remaining constrained to static components. Represents the declarative UI paradigm in AI-generated UI
 - **Platform**: Supports deployment to Vercel, AWS, or any custom cloud stack via adapters
 - **Open Source**: Workflow DevKit and its adapters are open source
 - **Agent Traffic**: Over 60% of page views on vercel.com are now AI agents (as of April 2026); usage is shifting from dashboard UIs to APIs and CLIs
@@ -30,12 +31,14 @@ Vercel is a cloud platform company that provides the frontend deployment platfor
 
 - [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source
 - [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]] — source (design language reference)
+- [[summary-20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman]] — source (JSON Render)
 - [[VoiceEngine]] — uses Vercel-style UI components
 - [[Malte Ubl]] — CTO
 - [[WorkflowDevKit]]
 - [[AISDK]]
 - [[NextJS]]
 - [[VercelSandbox]]
+- [[JSON Render]] — declarative UI tool
 - [[PeterWielander]]
 - [[DurableAgents]]
 - [[WorkflowPattern]]
@@ -45,3 +48,4 @@ Vercel is a cloud platform company that provides the frontend deployment platfor
 - [[Eliminating Boring Work]] — support agent case study
 - [[Agents as Software Users]] — 60% agent traffic insight
 - [[Chat Agents]] — paradigm whose UI components follow Vercel design language
+- [[Declarative UI]] — paradigm JSON Render represents

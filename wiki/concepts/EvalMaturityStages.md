@@ -45,3 +45,4 @@ Eval Maturity Stages is a four-stage framework describing how organizations prog
 - [[FailureModeAnalysis]] — methodology enabled at Stage 3
 - [[OnlineEvals]] — capability at Stage 4
 - [[OfflineEvals]] — capability across stages
+- [[EvalPracticePhases]] — complementary framework for practitioner (not platform) maturity

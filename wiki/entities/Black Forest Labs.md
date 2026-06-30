@@ -2,7 +2,7 @@
 title: "Black Forest Labs"
 type: entity
 tags: [company, research-lab, visual-ai, image-generation, open-source, diffusion-models, multimodal, world-models, robotics]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna.md"]
 last_updated: 2026-06-29
 ---
 
@@ -25,6 +25,7 @@ Black Forest Labs (BFL) is an AI research company and the team behind Stable Dif
 ## Related
 - [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — source
 - [[Stephen Batifol]] — Developer Relations Engineer
+- Collaborated with [[Pruna]] on optimizing Flux 2 Flex for text rendering efficiency, staying on the Pareto frontier while achieving way faster generation
 - [[Flux]] — model family
 - [[Self Flow]] — self-supervised multimodal training approach
 - [[Stable Diffusion]] — previous model by the team
@@ -33,3 +34,4 @@ Black Forest Labs (BFL) is an AI research company and the team behind Stable Dif
 - [[Physical AI]] — ultimate direction
 - [[WorldModels]] — intermediate goal toward robotics
 - [[HuggingFace]] — platform where Flux 1 was most liked
+- [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source (Pruna collaboration)

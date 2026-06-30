@@ -2,7 +2,7 @@
 title: "HumanAnnotation"
 type: concept
 tags: [evals, agents, human-in-the-loop, domain-expertise, annotation]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-30
 ---
 
@@ -22,9 +22,13 @@ Human annotation is the practice of having non-technical domain experts review a
 ## Related
 
 - [[summary-20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust]] — source
+- [[summary-20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust]] — source
 - [[PhilHetzel]] — presenter
 - [[Braintrust]] — platform with human labeling component
 - [[CrossFunctionalAgentTeams]] — team structure that includes domain experts for annotation
 - [[AgentEvalBroadness]] — why human annotation is needed beyond automated metrics
 - [[EvalFlywheel]] — the continuous loop human annotation feeds into
 - [[LLM-as-Judge]] — automated evaluation validated by human annotation
+- [[TopicModelingForAgents]] — automated clustering that complements human annotation at scale
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source (annotation workflow as Phase 1 foundation)
+- [[EvalPracticePhases]] — Phase 1 where human annotation is the starting point

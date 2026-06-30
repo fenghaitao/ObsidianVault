@@ -2,7 +2,7 @@
 title: "Meta-Evaluation"
 type: concept
 tags: [eval, validation, llm-as-judge, human-in-the-loop]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-30
 ---
 
@@ -28,3 +28,5 @@ Meta-evaluation is the practice of evaluating the evaluator — measuring how we
 - [[Precision and Recall]] — metrics for judge quality
 - [[EvalEngineering]] — practice of crafting eval prompts
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source (LLM judge trustworthiness warning)
+- [[EvalPracticePhases]] — Phase 2 where the need for meta-evaluation is introduced

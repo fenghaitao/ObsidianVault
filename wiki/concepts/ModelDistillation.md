@@ -1,9 +1,9 @@
 ---
 title: "ModelDistillation"
 type: concept
-tags: [fine-tuning, models, coding-agents, cursor, openai]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md"]
-last_updated: 2026-06-25
+tags: [fine-tuning, models, coding-agents, cursor, openai, zed]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260530 - How We Built Zeta2： Training an Edit Prediction Model in Production — Ben Kunkle, Zed.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -18,10 +18,17 @@ Model distillation is the technique of fine-tuning a model for speed and specifi
 - The speed advantage is significant enough that Zoneraich has been "almost switching completely to it"
 - OpenAI could come out with a similarly fast model because they also have the data
 - Distillation enables the "fast" tier in multi-tier reasoning budget systems
+- [[Pruna]] uses distillation as one of several techniques (alongside [[Quantization]], [[Model Pruning]], and step caching) to reduce denoising steps in image/video models from 50 down to 4-20, building [[Performance Models]]
 
 ## Related
 - [[summary-20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer]] — source
+- [[summary-20260530 - How We Built Zeta2： Training an Edit Prediction Model in Production — Ben Kunkle, Zed]] — source (teacher-student distillation for edit prediction)
 - [[Cursor]] — the product using distillation
 - [[OpenAI]] — also using distillation for Codex models
 - [[ReasoningBudgets]] — distillation enables the fast tier
 - [[AITherapistProblem]] — distillation as one approach to differentiation
+- [[TeacherStudentDistillation]] — specialized variant for edit prediction training
+- [[Zed]] — uses teacher-student distillation for Zeta2
+- [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source (denoising step reduction)
+- [[Pruna]] — uses distillation for performance models
+- [[Performance Models]] — concept enabled by distillation

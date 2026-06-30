@@ -2,7 +2,7 @@
 title: "Intercom"
 type: entity
 tags: [company, customer-communication, saas, ai-infra, ai-pricing, ai-adoption, agent-engineering]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260501 - Mastering AI Pricing — Mayank Pant, Stripe.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260501 - Mastering AI Pricing — Mayank Pant, Stripe.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260602 - What Lies Beneath the API — Benjamin Cowen, Modal.md"]
 last_updated: 2026-06-30
 ---
 
@@ -44,6 +44,9 @@ Intercom is a 15-year-old Irish-American B2B SaaS company (~1,400 people) that p
 - [[Honeycomb]] — observability for skill tracking
 - [[DX]] — developer productivity measurement
 - [[Stanford]] — research partner
+- [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source (fine-tuning achievement)
+- [[Fine-tuning]] — beating frontier API at 1/5 the cost
+- [[Domain-Specific Models]] — Intercom's own model outperforming frontier models
 - [[Outcome-Based Pricing]] — pricing model exemplified
 - [[Hybrid Pricing]] — pricing model used
 - [[Stripe]] — billing platform

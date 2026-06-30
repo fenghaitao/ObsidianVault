@@ -2,7 +2,7 @@
 title: "Failure Mode Analysis"
 type: concept
 category: methodology
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-26
 ---
 
@@ -27,3 +27,6 @@ Failure Mode Analysis is the practice of identifying the specific ways an AI age
 - [[EvalMaturityStages]] — Stage 3 enables this methodology
 - [[OnlineEvals]] — detecting failure modes in production
 - [[OfflineEvals]] — testing against known failure modes
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source (deriving failure modes from human annotation justifications)
+- [[EvalPracticePhases]] — Phase 2 where failure mode analysis enables automated scoring
+- [[HumanAnnotation]] — the human justifications that surface initial failure modes

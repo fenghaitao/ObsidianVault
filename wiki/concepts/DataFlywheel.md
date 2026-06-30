@@ -2,7 +2,7 @@
 title: "DataFlywheel"
 type: concept
 tags: [data, improvement, feedback-loop, evals, product]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260602 - What Lies Beneath the API — Benjamin Cowen, Modal.md"]
 last_updated: 2026-06-30
 ---
 ## Definition
@@ -21,6 +21,7 @@ The Data Flywheel is the virtuous cycle where evals drive data collection, data 
 ## Related
 - [[summary-20240719 - Lessons From A Year Building With LLMs]] — source
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source
+- [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source (data as fine-tuning prerequisite)
 - [[ContinuousImprovement]] — the broader framework this operationalizes
 - [[EvalEngineering]] — the practice that powers the flywheel
 - [[Guardrails]] — automated quality checks that feed the flywheel
@@ -28,3 +29,5 @@ The Data Flywheel is the virtuous cycle where evals drive data collection, data 
 - [[Impact Hierarchy]] — where to invest improvement effort
 - [[GenchiGenbutsu]] — the principle underlying direct data inspection
 - [[BryanBischof]] — advocated for shipping beta products to start the flywheel
+- [[Fine-tuning]] — the flywheel provides the data prerequisite
+- [[Domain-Specific Models]] — what the flywheel enables through fine-tuning

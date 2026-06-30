@@ -2,7 +2,7 @@
 title: "Full Duplex"
 type: concept
 tags: [voice-ai, conversation, speech, architecture, interaction]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI.md"]
 last_updated: 2026-06-29
 ---
 
@@ -20,9 +20,11 @@ Full duplex in voice AI refers to true bidirectional conversation where both the
 - Moshi's conversational flow is described as "impossible to match"
 - Full duplex alone is insufficient — Moshi lacked intelligence, tool calling, and observability
 - Nvidia's PersonalPlex is based on Moshi's full-duplex architecture
+- Speech-to-speech models natively enable full-duplex and better handling of interruptions/barge-ins compared to pipeline architectures
 
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
+- [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source
 - [[Half Duplex]] — the current limitation of most models
 - [[Back Channeling]] — key conversational phenomenon
 - [[Moshi]] — only full-duplex implementation

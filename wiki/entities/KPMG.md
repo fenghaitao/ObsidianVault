@@ -2,7 +2,7 @@
 title: "KPMG"
 type: entity
 tags: [company, consulting]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md"]
 last_updated: 2026-06-26
 ---
 
@@ -18,3 +18,4 @@ KPMG is a global professional services and consulting firm. Phil Hetzel worked t
 - [[summary-20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust]] — source
 - [[PhilHetzel]] — former employee
 - [[SlalomConsulting]] — next employer after KPMG
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source

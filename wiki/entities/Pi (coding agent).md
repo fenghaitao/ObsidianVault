@@ -2,7 +2,7 @@
 title: "Pi (coding agent)"
 type: entity
 tags: [tool, coding-agent, open-source, typescript, extensibility, self-modifying]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260530 - How I deleted 95% of my agent skills and got better results — Nick Nisi, WorkOS.md"]
 last_updated: 2026-06-29
 ---
 
@@ -42,8 +42,11 @@ Pi is a self-modifying, extensible coding agent harness built by Mario Zechner. 
 - [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source (cited as European innovation leader)
 - [[Model Commoditization]] — context for application-layer innovation
 - [[summary-20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon]] — source (Pi as product embedding foundation, extension API for UI interaction)
+- [[summary-20260530 - How I deleted 95% of my agent skills and got better results — Nick Nisi, WorkOS]] — source (Case built on Pi with TypeScript state machine)
 - [[Matthias Luebken]] — demonstrated Pi-based product embedding
 - [[Seven AI]] — company using Pi for sales automation
+- [[Case]] — agent harness built on Pi with TypeScript state machine
+- [[NickNisi]] — built Case on Pi
 - [[AgentExtensibility]] — Pi's extension API used for UI interaction and slash commands
 - [[AgentHooks]] — Pi's beforeToolCall and event hooks for enterprise control
 - [[Coding Agents as Building Blocks]] — thesis Pi enables

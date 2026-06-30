@@ -2,7 +2,7 @@
 title: "Quantization"
 type: concept
 tags: [ai, inference, optimization, llm, performance]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna.md"]
 last_updated: 2026-06-26
 ---
 
@@ -19,6 +19,7 @@ Quantization is a technique for reducing the precision of model weights (e.g., f
 - For on-device iPhone deployment, 4-bit is the practical minimum for acceptable quality; below 4-bit significantly degrades output
 - 8-bit quantization is recommended for very small models on mobile devices
 - MLX community on Hugging Face provides models quantized in 4-bit, 5-bit, 6-bit, 8-bit, BF16, and MXFP4 formats
+- [[Pruna]] uses module-specific quantization — different quantization per module — as a key technique for building [[Performance Models]], alongside pruning and step reduction
 
 ## Related
 - [[MAX]] — framework achieving 5x speedup via INT4/INT6 quantization
@@ -31,3 +32,6 @@ Quantization is a technique for reducing the precision of model weights (e.g., f
 - [[summary-20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner]] — source
 - [[summary-20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA]] — source
 - [[summary-20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI]] — source
+- [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source (module-specific quantization)
+- [[Pruna]] — uses module-specific quantization for performance models
+- [[Performance Models]] — concept enabled by quantization

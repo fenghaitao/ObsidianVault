@@ -2,8 +2,8 @@
 title: "Agentic Loop"
 type: concept
 tags: [agents, llm, loop, temporal, openai, architecture]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - MCP = Mega Context Problem - Matt Carey.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260501 - Agents on the Canvas in tldraw — Steve Ruiz, tldraw.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md"]
-last_updated: 2026-06-29
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - MCP = Mega Context Problem - Matt Carey.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260501 - Agents on the Canvas in tldraw — Steve Ruiz, tldraw.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -28,6 +28,14 @@ The agentic loop is the core execution pattern where an LLM has agency — it de
 - The standard agentic loop is extended with a failure-and-curation cycle: after the LLM decides it's done (or can't proceed), it surfaces knowledge gaps, requests input from domain experts, and curates new knowledge for future loops
 - This transforms the agentic loop from pure execution into a knowledge-building cycle
 
+### Compile-Fix Loop (Daniel Szoke)
+- A specialized agentic loop for compiled languages: the agent generates code, compiles it, reads compiler errors, fixes the code, and repeats until compilation succeeds
+- Each compiler error resolved is potentially a production bug prevented
+- This loop leverages the compiler as a deterministic guardrail — the compiler catches what the LLM misses
+- Rust's detailed compiler errors make this loop particularly effective: errors explain what went wrong and how to fix it
+- Szoke argues this makes Rust the ideal vibe coding language: harder first-try generation but safer overall outcome
+- The compile-fix loop is faster and more thorough than waiting for AI code review
+
 ## Related
 - [[AgentLoop]] — distinct concept: Claude Agent SDK's three-part loop (gather, act, verify)
 - [[DurableAgenticLoop]] — the Temporal-durable version
@@ -44,3 +52,7 @@ The agentic loop is the core execution pattern where an LLM has agency — it de
 - [[Agents on Canvas]] — spatial visualization of agentic loops
 - [[Fairies]] — multi-agent canvas implementation using agentic loops
 - [[Demand-Driven Context]] — methodology extending the agentic loop
+- [[summary-20260527 - Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry]] — source (compile-fix loop)
+- [[CompilerGuardrails]] — the deterministic safety net in the compile-fix loop
+- [[Rust]] — language where the compile-fix loop is most powerful
+- [[VibeCoding]] — the practice the compile-fix loop is argued to improve

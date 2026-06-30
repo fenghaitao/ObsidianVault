@@ -2,8 +2,8 @@
 title: "CodeSlop"
 type: concept
 tags: [code-quality, ai-coding, tech-debt]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251222 - No More Slop – swyx.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -22,10 +22,13 @@ Code slop is AI-generated code that is low-quality, creates disproportionate tec
 ## Related
 - [[summary-20251222 - No More Slop – swyx]] — source
 - [[summary-20260416 - Building pi in a World of Slop — Mario Zechner]] — source
+- [[summary-20260527 - The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry]] — source (Priscila: "Don't ship slop code")
 - [[Slop]] — the broader concept
 - [[SemiSyncValueOfDepth]] — framework for fighting code slop
 - [[Modularity]] — design principle to reduce code slop
 - [[SubAgents]] — technique to fight context rot and code slop
 - [[ComputerUse]] — AI capability that can both produce and fight code slop
 - [[CompoundingBooboos]] — Mario's term for code slop accumulation
+- [[Keynote Code]] — the opposite: high-quality AI-generated code
+- [[Priscila Andre de Oliveira]] — advocated against shipping slop code
 - [[SlowingDownWithAgents]] — Mario's prescription for fighting code slop
