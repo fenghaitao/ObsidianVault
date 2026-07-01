@@ -46,6 +46,7 @@ MCP (Model Context Protocol) is a protocol for providing context to AI agents, e
 - **Demand-Driven Context critique**: Raj built 20+ MCP servers before realizing the approach doesn't work against monolithic knowledge bases. MCP outputs are undeterministic, unreliable, and untested — 10-30% accuracy at best. Engineers don't do evals on MCP outputs; they check if output is coming, not if it's valuable. The fundamental problem is the underlying knowledge base quality, not the retrieval mechanism.
 
 ## Related
+- [[mcp-consensus-across-aie-2026]] — cross-talk synthesis of MCP across AI Engineer 2026
 - [[summary-20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code]] — source (Amp Code's MCP position)
 - [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — source (MCP optimization framework)
 - [[summary-20260425 - MCP = Mega Context Problem - Matt Carey]] — source (context explosion, MCP as middleware, client challenges)

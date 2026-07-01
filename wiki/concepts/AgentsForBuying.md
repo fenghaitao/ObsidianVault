@@ -1,0 +1,12 @@
+---
+title: "AgentsForBuying"
+type: concept
+tags: [#agents]
+last_updated: 2026-07-01
+---
+
+# AgentsForBuying
+
+Stub page — content to be added.
+
+## Related

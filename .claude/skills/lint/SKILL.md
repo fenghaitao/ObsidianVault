@@ -138,4 +138,4 @@ Would you like me to apply any of these fixes? I'll list each change before maki
 
 - [[wiki/index.md]] — the audit baseline
 - [[wiki/log.md]] — where lint runs are recorded
-- [[CLAUDE.md]] — schema this audit checks against
+- `CLAUDE.md` — schema this audit checks against

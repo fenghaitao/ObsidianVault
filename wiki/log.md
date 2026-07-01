@@ -250,7 +250,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | LLM codegen fails and how to stop them — Danilo Campos
-- **Changes**: created [[summary-20260430 - LLM codegen fails and how to stop ''em — Danilo Campos, PostHog]], created/updated 11 entity and concept pages, updated [[index.md]]
+- **Changes**: created [[summary-20260430 - LLM codegen fails and how to stop 'em — Danilo Campos, PostHog]], created/updated 11 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | Replacing 12K LoC with a 200 LoC Skill — David Gomes
@@ -430,7 +430,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | Agents Don''t Do Standups — Mike Spitz
-- **Changes**: created [[summary-20260515 - Agents Don''t Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Changes**: created [[summary-20260515 - Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF]], created/updated 18 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | How Building with AI Can Double Throughput — Brian Scanlan
@@ -454,7 +454,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | Why Your AI UX Is Broken — Mike Christensen
-- **Changes**: created [[summary-20260517 - Why Your AI UX Is Broken (and It''s Not the Model''s Fault) — Mike Christensen, Ably]], created/updated 7 entity and concept pages, updated [[index.md]]
+- **Changes**: created [[summary-20260517 - Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Christensen, Ably]], created/updated 7 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues
@@ -470,7 +470,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | Let''s go Bananas with GenMedia — Guillaume Vernade
-- **Changes**: created [[summary-20260518 - Let''s go Bananas with GenMedia — Guillaume Vernade, Google DeepMind]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Changes**: created [[summary-20260518 - Let's go Bananas with GenMedia — Guillaume Vernade, Google DeepMind]], created/updated 18 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | Rewiring the State — Eoin Mulgrew
@@ -490,7 +490,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | Let''s Talk About FOMAT — Michael Richman
-- **Changes**: created [[summary-20260524 - Let''s Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl]], created/updated 7 entity and concept pages, updated [[index.md]]
+- **Changes**: created [[summary-20260524 - Let's Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl]], created/updated 7 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-29] ingest | Scaling Heterogeneous Intelligence — Adrian Bertagnoli
@@ -538,7 +538,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-30] ingest | Most Enterprise Agentic Projects Are Doomed — Jess Grogan-Avignon & Jack Wang
-- **Changes**: created [[summary-20260528 - Most Enterprise Agentic Projects Are Doomed, Here''s Why — Jess Grogan-Avignon & Jack Wang, Accenture]], created/updated 16 entity and concept pages, updated [[index.md]]
+- **Changes**: created [[summary-20260528 - Most Enterprise Agentic Projects Are Doomed, Here's Why — Jess Grogan-Avignon & Jack Wang, Accenture]], created/updated 16 entity and concept pages, updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-30] ingest | Reachy Mini: $300 open source robot — Andres Marafioti
@@ -626,7 +626,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-30] ingest | Text Diffusion — Brendan O''Donoghue
-- **Changes**: created [[summary-20260604 - Text Diffusion — Brendan O''Donoghue, Google DeepMind]], updated [[index.md]]
+- **Changes**: created [[summary-20260604 - Text Diffusion — Brendan O'Donoghue, Google DeepMind]], updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-30] ingest | Beyond Transcription: Voice AI — Hervé Bredin
@@ -678,3 +678,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-07-01] lint | fixed 4 categories of wiki issues
 - **Changes**: registered 2,292 entities/concepts in [[index.md]] (was 621, now 2,913 entries); renamed 124 files to fix filename convention violations + updated 239 files with corrected wikilinks + updated index entries; fixed 88 dead link targets across 209 files (space-vs-CamelCase mismatches); noted 9 true orphan pages
 - **Conflicts**: none
+
+## [2026-07-01] query | synthesis batch: 4 cross-cutting analyses saved
+- **Output**: saved to [[mcp-consensus-across-aie-2026]], [[agent-evaluation-approaches-aie-2026]], [[production-ai-deployment-patterns-aie-2026]], [[ai-and-the-web-evolving-relationship-aie-2026]]
+- **Pages consulted**: 20+ source summaries across MCP, evals, production, and web topics

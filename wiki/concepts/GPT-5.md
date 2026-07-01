@@ -1,0 +1,12 @@
+---
+title: "GPT-5"
+type: concept
+tags: [#ai]
+last_updated: 2026-07-01
+---
+
+# GPT-5
+
+Stub page — content to be added.
+
+## Related

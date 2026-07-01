@@ -1,6 +1,6 @@
 ---
 name: query
-description: Answer questions by searching the local wiki knowledge base. Triggered by /query <question>, or natural-language questions about "my notes", "my knowledge base", "what do I know about X", "what did I record about Y". Always reads wiki/index.md first to locate relevant pages, then deep-reads them, then answers with [[wikilink]] citations. Forbidden from answering purely from model memory when wiki content exists. If the wiki has no relevant content, must explicitly state "no local match — answering from general knowledge".
+description: Answer questions by searching the local wiki knowledge base. Triggered by /query <question>, or natural-language questions about "my notes", "my knowledge base", "what do I know about X", "what did I record about Y". Uses Obsidian CLI search (when available) for fast candidate discovery, then reads wiki/index.md to structure the search, deep-reads candidates, and answers with [[wikilink]] citations. Forbidden from answering purely from model memory when wiki content exists. If the wiki has no relevant content, must explicitly state "no local match — answering from general knowledge".
 user-invocable: true
 ---
 
@@ -24,13 +24,37 @@ If the question is purely general knowledge (e.g. "how many planets in the solar
 
 This makes the source of every answer explicit.
 
+## Prerequisites
+
+Obsidian CLI at `C:\Users\hfeng1\AppData\Local\Programs\Obsidian\Obsidian.com`. If Obsidian is not running, skip Step 0 and fall back to index-only discovery. The CLI is a speed optimization, not a hard dependency.
+
 ---
 
 ## Search & synthesis pipeline
 
+### Step 0: Fast discovery via Obsidian CLI (optional, run first if available)
+
+Before reading `wiki/index.md`, try Obsidian CLI search for instant candidate discovery. Run in parallel with reading the index:
+
+```powershell
+& "C:\Users\hfeng1\AppData\Local\Programs\Obsidian\Obsidian.com" search query="<keywords from question>" path="wiki/" limit=20 format=json
+```
+
+Extract keywords from the user's question — use 2-4 key terms, not the full sentence. If the question is multi-faceted, run 2-3 searches with different keyword combinations in parallel.
+
+For questions about tags:
+
+```powershell
+& "C:\Users\hfeng1\AppData\Local\Programs\Obsidian\Obsidian.com" tag name="<tag>" verbose
+```
+
+**If the CLI returns an error** (Obsidian not running, timeout), skip silently and proceed to Step 1. Never block on CLI availability.
+
+**Merge CLI results with index.md candidates.** The CLI finds pages by content relevance; the index finds them by structure. Use both: CLI results are ranked by match quality, index.md confirms they're registered and reveals their category.
+
 ### Step 1: Read the global index
 
-**Always the first action.** Read `wiki/index.md` in full.
+Read `wiki/index.md` in full. This runs in parallel with Step 0 when possible.
 
 In the index, locate any pages relevant to the question across:
 - Sources
@@ -38,7 +62,7 @@ In the index, locate any pages relevant to the question across:
 - Concepts
 - Syntheses
 
-Build a candidate list. Don't skip the index — it's the cheap, structured filter that prevents you from reading irrelevant pages.
+Merge the index candidates with CLI results from Step 0. The combined list is your candidate set. Don't skip the index — it's the structured filter that confirms page categories and prevents you from reading irrelevant pages.
 
 ### Step 2: Deep-read the candidates
 
@@ -117,7 +141,8 @@ After every query (saved or not), append to `wiki/log.md`:
 
 ## Hard rules
 
-- **Always read `wiki/index.md` first.** Don't guess which pages exist.
+- **Always run Step 0 + Step 1 in parallel when possible.** Obsidian CLI search and index.md reading are complementary — CLI for relevance, index for structure. If CLI is unavailable, fall back to index-only.
+- **Never skip the index.** Even with CLI results, `wiki/index.md` confirms page categories and registration status.
 - **Default to answer-only.** `/query` is a Q&A tool first. Saving a synthesis is a separate, explicit opt-in — never save without a per-synthesis "yes" (see Step 4). A batch instruction like "run these queries" authorizes *answering*, not *saving*.
 - **When you do save, close the backlink loop** (Step 4b) so the synthesis isn't born an orphan.
 - **Don't answer from model memory** if relevant wiki content exists. The user built this wiki precisely to anchor answers to their own curated material.
@@ -131,4 +156,5 @@ After every query (saved or not), append to `wiki/log.md`:
 
 - [[wiki/index.md]] — global index entry point
 - [[wiki/log.md]] — operation log
-- [[CLAUDE.md]] — wiki schema and rules
+- `CLAUDE.md` — wiki schema and rules
+- `.claude/skills/search/SKILL.md` — fast lookup skill (complementary: search for "where", query for "what")

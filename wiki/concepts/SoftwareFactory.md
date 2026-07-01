@@ -1,0 +1,12 @@
+---
+title: "SoftwareFactory"
+type: concept
+tags: [#software-engineering]
+last_updated: 2026-07-01
+---
+
+# SoftwareFactory
+
+Stub page — content to be added.
+
+## Related

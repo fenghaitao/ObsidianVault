@@ -1,0 +1,383 @@
+A2A	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260410 - One Registry to Rule them All - Sonny Merla, Mauro Luchetti, & Mattia Redaelli, Quantyca.md
+Adversarial Evaluation	2	wiki/concepts/GeneratorEvaluator Pattern.md, wiki/concepts/SelfEvaluation Trap.md
+Agent Cognitive Load	2	wiki/concepts/Agent Choreography.md, wiki/concepts/FOMAT (Fear of Missing Agent Time).md
+Agent Daemon Pattern	1	wiki/concepts/Agent Control Plane.md
+Agent Efficiency	1	wiki/concepts/Tokens Per Successful Outcome.md
+Agent Idleness	2	wiki/concepts/FOMAT (Fear of Missing Agent Time).md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260524 - Let's Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl.md
+Agent Notifications	3	wiki/concepts/Agent Control Plane.md, wiki/concepts/FOMAT (Fear of Missing Agent Time).md, wiki/concepts/Remote Agent Interaction.md
+Agent Session Management	5	wiki/concepts/Agent Control Plane.md, wiki/concepts/FOMAT (Fear of Missing Agent Time).md, wiki/concepts/Remote Agent Interaction.md, wiki/entities/Cmd+Ctrl.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260524 - Let's Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl.md
+Agent Traces	3	wiki/concepts/Hugging Face Traces.md, wiki/concepts/SelfTraining Agents.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md
+AgentFeedbackLoop	2	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take.md
+AgentFirstWorkflow	2	wiki/entities/Cursor3.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+AgentHallucination	2	wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260617 - Your Agent's Biggest Lie： ＂I Searched the Web＂ — Rafael Levi, Bright Data.md
+AgenticAI	1	wiki/entities/Lenses.md
+AgenticCodeOwners	2	wiki/entities/Bugbot.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+AgenticDelivery	1	wiki/concepts/HypothesisDriven Delivery.md
+AgenticReinforcementLearning	2	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md, wiki/concepts/EdgeModels.md
+AgentIntentEncoding	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+AgentOnboarding	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+AgentPoweredAnalytics	2	wiki/syntheses/production-ai-deployment-patterns-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - Why Can't Anyone Answer Questions About the Business — Garrett Galow, WorkOS.md
+AgentReadyPlatforms	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Platforms for Humans and Machines： Engineering for the Age of Agents — Juan Herreros Elorza.md
+AgentsForBuying	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+AgentsForCMS	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+AgentsForETL	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+AgentsForEverythingElse	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+AgentStateManagement	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - From Chaos to Choreography： Multi-Agent Orchestration Patterns That Actually Work — Sandipan Bhaumik.md
+AgentTrust	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+AGUI	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman.md
+AI Search and Document Processing	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+AICommunity	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260621 - 6 Things to Know about AIE World's Fair 2026.md
+AIEvaluation	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260618 - The Production AI Playbook： Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks.md
+AIEWorldsFair2026	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260621 - 6 Things to Know about AIE World's Fair 2026.md
+AIGovernance	2	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260410 - One Registry to Rule them All - Sonny Merla, Mauro Luchetti, & Mattia Redaelli, Quantyca.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260618 - The Production AI Playbook： Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks.md
+AIObservability	1	wiki/syntheses/production-ai-deployment-patterns-aie-2026.md
+AIPsychosis	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+AIReplacingSaaS	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+AISecurity	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Why, and how you need to sandbox AI-Generated Code — Harshil Agrawal, Cloudflare.md
+Alpic	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260615 - Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Alpic.md
+Anti-Bot Bypass	1	wiki/entities/Bright Data.md
+APIDrivenDevelopment	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Platforms for Humans and Machines： Engineering for the Age of Agents — Juan Herreros Elorza.md
+Append-Only State Log	1	wiki/entities/Delta Lake.md
+AppendOnlyLog	1	wiki/concepts/Context Log.md
+ApplicationInsights	2	wiki/entities/Microsoft Foundry.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft.md
+ARC-I2	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260512 - Malleable Evals： Why Are We Evaluating Adaptive Systems with Static Tests — Vincent Koc, OpenClaw.md
+Artefacts	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20240805 - What's new from Anthropic and what's next： Alex Albert.md
+Artificial Analysis	2	wiki/concepts/Public Leaderboards.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna.md
+AudioAI	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260609 - From Transcription to Live Music： Gemini's Audio Stack — Thor Schaeff, Google DeepMind.md
+Autoregressive Decoder Backbone	1	wiki/concepts/TextToSpeech Architecture.md
+AutoregressiveGeneration	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260604 - Text Diffusion — Brendan O'Donoghue, Google DeepMind.md
+Axios	1	wiki/concepts/SupplyChainAttack.md
+AzureMonitor	2	wiki/entities/Microsoft Foundry.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft.md
+BackgroundExecution	2	wiki/entities/GeminiInteractionsAPI.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+Base	4	wiki/concepts/Machine Payments Protocol.md, wiki/entities/Tempo.md
+Batching	2	wiki/concepts/MemoryBound vs ComputeBound.md, wiki/concepts/TestTime Training.md
+BatchNormalization	1	wiki/concepts/LayerNorm.md
+BenLear	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+Bessemer	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260516 - How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs.md
+Blueprint Repository	4	wiki/concepts/A2A Registry.md, wiki/concepts/Agent Card.md, wiki/entities/Mattia Redaelli.md, wiki/entities/Quantyca.md
+BrendanODonoghue	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260604 - Text Diffusion — Brendan O'Donoghue, Google DeepMind.md
+Browser-based Autonomous Testing	1	wiki/log.md
+BusinessIntelligence	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - Why Can't Anyone Answer Questions About the Business — Garrett Galow, WorkOS.md
+Calibrated LLM Evaluator	1	wiki/entities/GEPA.md
+ChinchillaScalingLaws	2	wiki/concepts/TestTimeScalingLaws.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md
+ChoreographyVsOrchestration	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - From Chaos to Choreography： Multi-Agent Orchestration Patterns That Actually Work — Sandipan Bhaumik.md
+CICD Agent Publishing	3	wiki/concepts/A2A Registry.md, wiki/concepts/Agent Card.md, wiki/entities/Mattia Redaelli.md
+CIMD	1	wiki/entities/JeremyFronae.md
+CLAUDE	3	.claude/skills/query/SKILL.md, .claude/skills/lint/SKILL.md, .claude/skills/search/SKILL.md
+Claude Haiku	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md
+Claude Opus	1	wiki/entities/CoreBench.md
+Claude Sonnet	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md
+Closed-Loop Validation	1	wiki/concepts/Checksum Reverse Engineering.md
+Cloud Code	2	wiki/entities/Excalidraw MCP App.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260425 - MCP = Mega Context Problem - Matt Carey.md
+CloudCode	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take.md
+CloudDeployment	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260609 - GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod.md
+CloudflareAIBlocking	2	wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260617 - Your Agent's Biggest Lie： ＂I Searched the Web＂ — Rafael Levi, Bright Data.md
+Code Comprehension vs Generation	1	wiki/concepts/AI Comprehension.md
+Code Maintainability	1	wiki/concepts/Cognitive Complexity.md
+Code Security	4	wiki/concepts/Enterprise Quality Code.md, wiki/concepts/LLM Code Quality Evaluation.md, wiki/concepts/Mixed Quality Training Data.md, wiki/entities/Claude Sonnet 4.6.md
+CodeAsSourceOfTruth	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+CodeRetrievalBenchmarking	1	wiki/entities/ContextBench.md
+CodeSandboxing	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Why, and how you need to sandbox AI-Generated Code — Harshil Agrawal, Cloudflare.md
+Codex Automations	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman.md
+Codex Code Review	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman.md
+Codex Plugins	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman.md
+ColBERT	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+ColdStartSFTData	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md
+Compaction	4	wiki/concepts/Context Anxiety.md, wiki/concepts/Harness Evolution.md, wiki/concepts/One Million Context Window.md, wiki/concepts/ServerSide Compaction.md
+Compensation Pattern	1	wiki/entities/SandipanBhaumik.md
+ComputerUse	1	wiki/log.md
+ConfidenceScoring	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260506 - Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser.md
+ConfusedDeputyVulnerability	1	wiki/entities/JeremyFronae.md
+ContactCenterAI	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Contact Center Voice AI： Low-Latency Intelligence Extraction from Messy Audio Streams — Dippu Singh.md
+ContentSecurityPolicy	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260615 - Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Alpic.md
+ContextCompaction	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+ContextInjection	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Your Insecure MCP Server Won't Survive Production — Tun Shwe, Lenses.md
+ContextPriming	1	wiki/concepts/MCP Resources.md
+ContextQuality	1	wiki/concepts/LongSessionEvals.md
+ContextReduction	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+ContextSelection	2	wiki/concepts/SmartTruncation.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260510 - How we solved Context Management in Agents — Sally-Ann Delucia.md
+Continual Learning	1	wiki/concepts/TestTime Training.md
+ContinualLearning	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+ConversationalAgents	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+Copilot	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md
+Coworker	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+Cross Encoders	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+CursorRules	3	wiki/entities/Ableton.md, wiki/entities/Cursor.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+Data Contracts (Agent)	1	wiki/entities/Unity Catalog.md
+DataMaskingForAgents	2	wiki/concepts/ContextInjectionAndOversharing.md, wiki/entities/JeremyFronae.md
+DataQuality	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Stop Making Models Bigger, Make Them Behave — Kobie Crawford, Snorkel.md
+DataRace	1	wiki/concepts/FearlessConcurrency.md
+DeepMind	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20240731 - Low Level Technicals of LLMs： Daniel Han.md
+DeepSeekR1	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Let LLMs Wander： Engineering RL Environments — Stefano Fiorucci.md
+DeepSpeed	1	wiki/concepts/DeepSpeed Ulysses.md
+Design Arena	2	wiki/concepts/Public Leaderboards.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna.md
+DeveloperAttention	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - Your Attention Is the Bottleneck, Not Your Agents — Zack Proser, WorkOS.md
+DistributedSystems	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - From Chaos to Choreography： Multi-Agent Orchestration Patterns That Actually Work — Sandipan Bhaumik.md
+DurableObjects	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260608 - Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carey, Cloudflare.md
+DynamicToolSelection	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+EchoScript	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260609 - From Transcription to Live Music： Gemini's Audio Stack — Thor Schaeff, Google DeepMind.md
+EdgeComputing	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260608 - Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carey, Cloudflare.md
+Embedding Models	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Empathetic Debugging	1	wiki/concepts/Trace Reading.md
+Enablers	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+Encode Score Extract API	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+End-to-End Type Safety in Agents	4	wiki/entities/AISDK.md, wiki/concepts/Call Options Schema.md, wiki/concepts/ProviderExecuted Tools.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260512 - Give Your Agent a Computer — Nico Albanese, Vercel.md
+Enterprise Agent Governance	3	wiki/concepts/Amplify Program.md, wiki/concepts/Enterprise Registry Metadata.md, wiki/concepts/Use Case Registry.md
+EphemeralTokens	2	wiki/entities/GeminiLiveAPI.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+Error Analysis for AI	1	wiki/entities/HamillHussein.md
+EvalPlusPlus	1	wiki/syntheses/agent-evaluation-approaches-aie-2026.md
+Evals	1	wiki/concepts/LongSessionEvals.md
+EvalsAreBroken	1	wiki/syntheses/agent-evaluation-approaches-aie-2026.md
+EXO	6	wiki/concepts/Heterogeneous Computing.md, wiki/concepts/Tensor Parallelism.md, wiki/entities/Alex Cheema.md, wiki/entities/EXO Labs.md, wiki/entities/Tailscale.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs.md
+Explainable AI	3	wiki/concepts/Context Graphs.md, wiki/concepts/Reasoning Traces.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260516 - Connecting the Dots with Context Graphs — Stephen Chin, Neo4j.md
+Facebook Instant Games	3	wiki/concepts/Consumer Vibe Coding.md, wiki/entities/Joe Reeve.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs.md
+FigmaToCode	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+FilipMakraduli	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Firefox DevTools	2	wiki/entities/RL Nabors.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors.md
+Formal Verification for ML	4	wiki/concepts/Agent Robustness Testing.md, wiki/concepts/SpecDriven Testing.md, wiki/entities/SafeIntelligence.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260531 - Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence.md
+FrédéricBarthelet	1	wiki/syntheses/mcp-consensus-across-aie-2026.md
+FredericBarthelet	2	wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260615 - Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Alpic.md
+Fujitsu	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Contact Center Voice AI： Low-Latency Intelligence Extraction from Messy Audio Streams — Dippu Singh.md
+FunAsProductivityDriver	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+GANs	1	wiki/concepts/GeneratorEvaluator Pattern.md
+Gas Town	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick.md
+GatedDeltaNet	3	wiki/concepts/HybridArchitecture.md, wiki/entities/Gemma.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md
+GatedLinearAttention	2	wiki/concepts/HybridArchitecture.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md
+Gemini	15	wiki/entities/GeminiEmbeddings2.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research.md, wiki/concepts/Agent Control Plane.md, wiki/concepts/Client File Upload.md, wiki/concepts/GenMedia.md, wiki/concepts/Media Prompt Generation.md, wiki/entities/Cmd+Ctrl.md, wiki/entities/Lyria.md, wiki/entities/MichaelRichman.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260518 - Let's go Bananas with GenMedia — Guillaume Vernade, Google DeepMind.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260524 - Let's Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260604 - SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260606 - Evals Are Broken, Use Them Anyway — Ara Khan, Cline.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260609 - From Transcription to Live Music： Gemini's Audio Stack — Thor Schaeff, Google DeepMind.md
+Gemini API	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260530 - Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind.md
+GeminiDiffusion	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260604 - Text Diffusion — Brendan O'Donoghue, Google DeepMind.md
+Glean	1	wiki/entities/Finn.md
+Global Provider	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260512 - Give Your Agent a Computer — Nico Albanese, Vercel.md
+Glyner	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Go	1	wiki/entities/Go pprof.md
+Golden Gate Claude	1	wiki/concepts/ModelSteering.md
+GoogleChrome	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - The agent-ready web： Simplify user actions with WebMCP — Tara Agyemang, Google.md
+GoogleSearchGrounding	3	wiki/entities/Gemini31FlashLive.md, wiki/entities/GeminiLiveAPI.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+GPT-4	1	wiki/entities/Finn.md
+GPT-5	2	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260512 - Give Your Agent a Computer — Nico Albanese, Vercel.md
+GPU Utilization for Small Models	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+GQA	5	wiki/concepts/HybridArchitecture.md, wiki/concepts/ShortConvolutions.md, wiki/entities/Gemma.md, wiki/entities/LFM.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md
+Grounding LLM in Structured Data	1	wiki/concepts/Separating Data Pipeline from Language Generation.md
+Guardian Approvals	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman.md
+GusMartins	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Sovereign Escape Velocity： Ownership w Open Models — Gus Martins, & Ian Ballantyne, Google DeepMind.md
+HamelHussein	7	wiki/concepts/AIEngineer.md, wiki/concepts/VirtuousCycleOfImprovement.md, wiki/entities/BryanBischof.md, wiki/entities/JasonLou.md, wiki/entities/OReilly.md, wiki/concepts/ContinuousImprovement.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20240719 - Lessons From A Year Building With LLMs.md
+HarshilAgrawal	1	wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md
+HIPAA	2	wiki/concepts/Automated Code Review and Approval.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom.md
+Hugging Face Buckets	2	wiki/entities/HuggingFace.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md
+Hugging Face Jobs	3	wiki/entities/HuggingFace.md, wiki/concepts/Hugging Face MCP Server.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md
+Hugging Face Spaces	2	wiki/concepts/Hugging Face MCP Server.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md
+HumanInTheLoopAutomation	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+IbragimBadertdinov	2	wiki/syntheses/agent-evaluation-approaches-aie-2026.md
+IframeSandboxing	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260615 - Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Alpic.md
+Immutable State Snapshots	2	wiki/entities/Delta Lake.md, wiki/entities/SandipanBhaumik.md
+ImplicitCaching	2	wiki/entities/GeminiInteractionsAPI.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+Information Density Asymmetry	2	wiki/concepts/Multimodal Conversations.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs.md
+InsidersMode	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+Intent Classification	1	wiki/concepts/Voice of the Customer (VoC).md
+InternalDeveloperPlatform	4	wiki/concepts/PlatformEngineering.md, wiki/concepts/SelfServicePlatform.md, wiki/entities/AtlasPlatform.md, wiki/entities/BankingCircle.md
+InvariantLabs	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+ISO 27001	2	wiki/concepts/Automated Code Review and Approval.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom.md
+Isolate-based Sandboxing	2	wiki/concepts/ContainerBased Sandboxing.md, wiki/concepts/Proxy Pattern (Secrets).md
+IsolatedEnvironments	3	wiki/entities/CursorCloudAgents.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md, wiki/concepts/AgentIsolation.md
+IterativeRetrieval	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260608 - Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo.md
+JoshuaSnyder	4	wiki/syntheses/agent-evaluation-approaches-aie-2026.md, wiki/syntheses/production-ai-deployment-patterns-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Self Driving Products： Product Signals to Pull Requests — Joshua Snyder, PostHog.md
+KEDA	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+KEDA Auto-Scaling	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+KnowledgeGraph	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md
+KobieCrawford	2	wiki/syntheses/agent-evaluation-approaches-aie-2026.md
+LanceDB	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+LangFuse	1	wiki/entities/Mattia Redaelli.md
+Last Mile Problem	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260516 - How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs.md
+Late Interaction Models	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Latency	5	wiki/concepts/Cascaded Systems (Voice).md, wiki/concepts/CoLocation (Voice AI).md, wiki/concepts/Fillers (Voice AI).md, wiki/concepts/Streaming TTS.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI.md
+LaunchDarkly	1	wiki/entities/Finn.md
+LevelsOfAutonomy	2	wiki/entities/DanShapiro.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+LevenshteinDistance	2	wiki/concepts/SettledData.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260530 - How We Built Zeta2： Training an Edit Prediction Model in Production — Ben Kunkle, Zed.md
+Lighthouse	1	wiki/entities/Chrome DevTools.md
+Lineage View	3	wiki/concepts/Enterprise Registry Metadata.md, wiki/concepts/Use Case Registry.md, wiki/entities/Mattia Redaelli.md
+LLMHallucination	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Why, and how you need to sandbox AI-Generated Code — Harshil Agrawal, Cloudflare.md
+LLMOps	1	wiki/entities/Agenta AI.md
+LLVM	1	wiki/entities/Mojo.md
+LM Arena	2	wiki/concepts/Public Leaderboards.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna.md
+Load Balancer	1	wiki/concepts/Hugging Face Inference Endpoints.md
+LongTermMemory	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260510 - How we solved Context Management in Agents — Sally-Ann Delucia.md
+LRU Eviction Policy	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+MahmoudMabrouk	2	wiki/syntheses/agent-evaluation-approaches-aie-2026.md
+MCP Agent Mail	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick.md
+MCP Tools	1	wiki/concepts/MCP Resources.md
+MCPAuditLogging	1	wiki/entities/JeremyFronae.md
+MCPObservability	1	wiki/entities/JeremyFronae.md
+MCPRBAC	2	wiki/concepts/MCPSecurityDesignPrinciples.md, wiki/entities/JeremyFronae.md
+MCPSecurity	2	wiki/syntheses/mcp-consensus-across-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Your Insecure MCP Server Won't Survive Production — Tun Shwe, Lenses.md
+MemorySafety	3	wiki/entities/Rust.md, wiki/concepts/CompilerGuardrails.md, wiki/concepts/FearlessConcurrency.md
+MetaSkills	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260506 - Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser.md
+Microsoft Edge	2	wiki/entities/RL Nabors.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors.md
+Model Context Protocol (MCP)	1	wiki/entities/Bright Data.md
+Model Forward Pass Re-implementation	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Model Hot-Swapping	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Model Porting	1	wiki/concepts/Day Zero Support.md
+Model Quantization	3	wiki/concepts/Local Coding Agents.md, wiki/concepts/Open Weights.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md
+ModelAlignment	1	wiki/concepts/GreedyCoordinateGradient.md
+ModelQuantization	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260616 - You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia.md
+ModelReliability	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260517 - Harnesses in AI： A Deep Dive — Tejas Kumar, IBM.md
+Monolith	1	wiki/entities/Ruby on Rails.md
+Mozilla	2	wiki/entities/RL Nabors.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors.md
+MultiAgentOrchestration	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - From Chaos to Choreography： Multi-Agent Orchestration Patterns That Actually Work — Sandipan Bhaumik.md
+MultiHopRetrieval	1	wiki/concepts/Agentic RAG.md
+MultimodalModels	6	wiki/concepts/AudioTokenizer.md, wiki/concepts/Conformer.md, wiki/concepts/VariableAspectRatios.md, wiki/concepts/VariableResolution.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind.md, wiki/entities/Gemma4.md
+MultiplayerAgentUsage	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+Named Entity Recognition	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+NativeAudioModels	2	wiki/entities/Gemini31FlashLive.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+NaturalLanguageToSQL	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - Why Can't Anyone Answer Questions About the Business — Garrett Galow, WorkOS.md
+Network Discovery with nmap	2	wiki/concepts/AIAssisted Hardware Reverse Engineering.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260529 - Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs.md
+Neural Scaling Laws	1	wiki/concepts/Homogeneous Intelligence.md
+NgramRepetitionPenalty	2	wiki/concepts/VerifiableRewards.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI.md
+NHS	2	wiki/entities/ChrisLovejoy.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260516 - How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs.md
+npm Inc.	2	wiki/entities/LaurieVoss.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md
+NupurSharma	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260608 - Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo.md
+ObservabilityAutomation	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Self Driving Products： Product Signals to Pull Requests — Joshua Snyder, PostHog.md
+OlivierLeplus	2	wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260410 - AI Didn't Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan Lasorsa (Microsoft).md
+OpenModels	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Sovereign Escape Velocity： Ownership w Open Models — Gus Martins, & Ian Ballantyne, Google DeepMind.md
+OpenSpiel	4	wiki/entities/Kaggle.md, wiki/concepts/Game Arena.md, wiki/entities/MichaelAaron.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind.md
+OrbStack	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+Orchestration vs Choreography Decision Framework	1	wiki/entities/SandipanBhaumik.md
+OWASPMCP	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Your Insecure MCP Server Won't Survive Production — Tun Shwe, Lenses.md
+OWASPMCPTop10	4	wiki/concepts/ContextInjectionAndOversharing.md, wiki/concepts/MCPSecurityDesignPrinciples.md, wiki/concepts/ToolPoisoning.md, wiki/entities/OWASP.md
+PageName	1	.claude/skills/search/SKILL.md
+Parakeet	2	wiki/concepts/Voice Agents.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face.md
+PersonalAutomation	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+Pi	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate.md
+Pipedream	2	wiki/entities/Viktor.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260511 - Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski.md
+PKCE	2	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md, wiki/entities/JeremyFronae.md
+Plan Mode	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman.md
+Plugin Architecture	2	wiki/entities/OpenClaw.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260605 - Dark Factory： OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw.md
+Policy Constraint Adherence	2	wiki/concepts/Robust Eval Methodology.md, wiki/entities/TauBench.md
+Positional Encodings	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Power over Ethernet	2	wiki/entities/Viking Phone.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260529 - Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs.md
+Precision and Recall	1	wiki/concepts/MetaEvaluation.md
+PrimitivesAndPatterns	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+Privacy	2	wiki/concepts/OnDevice TTS.md, wiki/entities/Gradium Phonon.md
+ProductionAI	2	wiki/syntheses/production-ai-deployment-patterns-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260618 - The Production AI Playbook： Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks.md
+Prometheus	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Prompt Management	1	wiki/entities/Agenta AI.md
+Public Data Principle	2	wiki/entities/Bright Data.md, wiki/entities/Rafael Levi.md
+PubSub	3	wiki/concepts/Durable Sessions.md, wiki/entities/Ably.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260517 - Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Christensen, Ably.md
+PvP Benchmarking	4	wiki/concepts/BenchmarkSaturation.md, wiki/concepts/BradleyTerry Pairing.md, wiki/concepts/Game Arena.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind.md
+PyRIT	3	wiki/concepts/AgenticRedTeaming.md, wiki/entities/Microsoft Foundry.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft.md
+Qdrant	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Qodo	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260608 - Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo.md
+RafaelLevi	3	wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md
+RDMA	2	wiki/concepts/Tensor Parallelism.md, wiki/entities/EXO (App).md
+Real-Time Generation	3	wiki/concepts/Interactive Editing.md, wiki/concepts/Visual Intelligence.md, wiki/entities/Flux 2 Klein.md
+Redis	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+Reflection Template (GEPA)	1	wiki/entities/GEPA.md
+Regression Evals	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md
+Reinforcement Learning	1	wiki/concepts/Reinforcement Learning Rollouts.md
+ReinforcementLearning	2	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Let LLMs Wander： Engineering RL Environments — Stefano Fiorucci.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Stop Making Models Bigger, Make Them Behave — Kobie Crawford, Snorkel.md
+Remote Browser Infrastructure	2	wiki/entities/Bright Data.md, wiki/entities/CloudCrawl.md
+Reranker Models	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+RLLM	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Stop Making Models Bigger, Make Them Behave — Kobie Crawford, Snorkel.md
+RLNabors	1	wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md
+Routing and Auto-Scaling for Inference	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Row Level Security	1	wiki/entities/Supabase.md
+SamMorrow	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+Sandboxed Code Execution	1	wiki/concepts/Double iFrame Sandbox.md
+Scaling Monosemanticity	1	wiki/concepts/ModelSteering.md
+ScriptInterpolation	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260506 - Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser.md
+SecurityShadow	3	wiki/concepts/ContextInjectionAndOversharing.md, wiki/concepts/ToolPoisoning.md, wiki/entities/TunShwe.md
+Seed Prompt Optimization	1	wiki/entities/GEPA.md
+Self-Healing Pipelines	2	wiki/entities/CloudCrawl.md, wiki/entities/Rafael Levi.md
+SelfDrivingProducts	3	wiki/syntheses/agent-evaluation-approaches-aie-2026.md, wiki/syntheses/production-ai-deployment-patterns-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Self Driving Products： Product Signals to Pull Requests — Joshua Snyder, PostHog.md
+SelfHealingPipelines	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260607 - From MCP to Scale： Pipelines That Build Themselves — Rafael Levi, Bright Data.md
+SelfService	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Platforms for Humans and Machines： Engineering for the Age of Agents — Juan Herreros Elorza.md
+Semantic Search	2	wiki/concepts/Gina Grap.md, wiki/entities/Gina.md
+Semantic Understanding	2	wiki/concepts/Preserve Meaning.md, wiki/concepts/Text as State.md
+Sentiment Analysis	2	wiki/concepts/Agent Harassment Protection.md, wiki/concepts/Voice of the Customer (VoC).md
+Serverless	1	wiki/concepts/MCP Transports.md
+ServerlessDevelopers	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+ServerSideStateManagement	2	wiki/entities/GeminiInteractionsAPI.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+Service Repository Pattern	3	wiki/concepts/Composable Skills.md, wiki/entities/PFF.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260515 - Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF.md
+Sie	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+SignalLayer	2	wiki/syntheses/production-ai-deployment-patterns-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - Your Attention Is the Bottleneck, Not Your Agents — Zack Proser, WorkOS.md
+SignalToPR	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260610 - Self Driving Products： Product Signals to Pull Requests — Joshua Snyder, PostHog.md
+Simplify	2	wiki/concepts/Adversarial Reviews.md, wiki/concepts/Confirmation Bias in Agents.md
+SIP Trunking	1	wiki/entities/Twilio.md
+SkillDescription	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260506 - Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser.md
+SkillEvals	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260506 - Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser.md
+SkillMarketplace	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260506 - Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser.md
+Skim Listening	2	wiki/concepts/Agent Interruptibility.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs.md
+Small Model Inference	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+SOC 2	2	wiki/concepts/Automated Code Review and Approval.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom.md
+Social Vibe Coding	2	wiki/concepts/Consumer Vibe Coding.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs.md
+Soft Skills for Agent Management	2	wiki/concepts/Swim Lanes.md, wiki/entities/VincentKoc.md
+SoftwareFactory	5	wiki/entities/Bugbot.md, wiki/entities/EricZakariasson.md, wiki/entities/Cursor.md, wiki/entities/DanShapiro.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+Spec-Driven Development	3	wiki/concepts/Lightweight Design Document.md, wiki/concepts/PostEngineer Engineering Org.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260515 - Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF.md
+Specification	1	wiki/concepts/Contract Negotiation.md
+SpeechToText	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260408 - Contact Center Voice AI： Low-Latency Intelligence Extraction from Messy Audio Streams — Dippu Singh.md
+SSH-Based Documentation	1	wiki/entities/Supabase.md
+StatelessMCPServer	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+Statistical Confidence	1	wiki/concepts/HypothesisDriven Delivery.md
+Stella	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+StepUpOAuth	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+StreamableHTTPTransport	1	wiki/concepts/MCPSecurityCliff.md
+StreamProcessing	2	wiki/concepts/AgentHarness.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate.md
+Student-Teacher Architecture	2	wiki/concepts/SelfSupervised Representation Learning.md, wiki/entities/Self Flow.md
+summary-20260430 - LLM codegen fails and how to stop ''em — Danilo Campos, PostHog	1	wiki/log.md
+summary-20260515 - Agents Don''t Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF	1	wiki/log.md
+summary-20260517 - Why Your AI UX Is Broken (and It''s Not the Model''s Fault) — Mike Christensen, Ably	1	wiki/log.md
+summary-20260518 - Let''s go Bananas with GenMedia — Guillaume Vernade, Google DeepMind	1	wiki/log.md
+summary-20260524 - Let''s Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl	1	wiki/log.md
+summary-20260528 - Most Enterprise Agentic Projects Are Doomed, Here''s Why — Jess Grogan-Avignon & Jack Wang, Accenture	1	wiki/log.md
+summary-20260604 - Text Diffusion — Brendan O''Donoghue, Google DeepMind	1	wiki/log.md
+Superlinked	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+SWE-bench Pro	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind.md
+Sycophancy	1	wiki/concepts/SelfEvaluation Trap.md
+SyncToAsync	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+SystemDesign	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260417 - State of the Claw — Peter Steinberger.md
+Tailspin Toys	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260516 - Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft.md
+TaraAgyemang	4	wiki/syntheses/mcp-consensus-across-aie-2026.md, wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - The agent-ready web： Simplify user actions with WebMCP — Tara Agyemang, Google.md
+TaskFidelityScalingLaws	1	wiki/syntheses/agent-evaluation-approaches-aie-2026.md
+Taxonomy Classification	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+TCP Proxy	1	wiki/concepts/ManInTheMiddle Protocol Analysis.md
+TDD	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure.md
+Terraform	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Tessle	1	wiki/log.md
+TextDiffusion	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260604 - Text Diffusion — Brendan O'Donoghue, Google DeepMind.md
+The Pragmatic Programmer	1	wiki/concepts/Traceable Bullets.md
+Thunderbolt	2	wiki/concepts/Tensor Parallelism.md, wiki/entities/EXO (App).md
+TinyTeam	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+Token Savings via Scrapers	2	wiki/entities/Rafael Levi.md, wiki/entities/Very.md
+Token-Based Batching	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+ToolCombination	2	wiki/entities/GeminiInteractionsAPI.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+ToolEvals	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+ToolSets	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub.md
+Tripadvisor	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs.md
+Trunk-Based Development	4	wiki/concepts/Composable Skills.md, wiki/concepts/Verifiable Deterministic Tasks.md, wiki/entities/PFF.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260515 - Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF.md
+TTS	2	wiki/concepts/Voice AI Cost.md, wiki/concepts/Voice Style Control.md
+TypeSafety	4	wiki/entities/Rust.md, wiki/concepts/CompilerGuardrails.md, wiki/concepts/FearlessConcurrency.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260527 - Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry.md
+TypeScript State Machine	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260530 - How I deleted 95% of my agent skills and got better results — Nick Nisi, WorkOS.md
+University of Cambridge	2	wiki/entities/ChrisLovejoy.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260516 - How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs.md
+Variable Length Flash Attention	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+VerifiableSystems	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+Verifier-Fixer Pipeline	1	wiki/log.md
+Vibe Maintainer	2	wiki/concepts/Dark Factory.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260605 - Dark Factory： OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw.md
+Viral Content Creation	3	wiki/entities/CapCut.md, wiki/entities/DJI.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs.md
+Voice Interaction Patterns	3	wiki/concepts/Agent Interruptibility.md, wiki/concepts/Multimodal Conversations.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs.md
+VoiceFirstCoding	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - Your Attention Is the Bottleneck, Not Your Agents — Zack Proser, WorkOS.md
+W3C	3	wiki/entities/RL Nabors.md, wiki/entities/WebMCP.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors.md
+Weaviate	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+Web Animations API	3	wiki/concepts/Browser as Infinite Canvas.md, wiki/entities/RL Nabors.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors.md
+Web Scraping Pipelines	4	wiki/entities/Bright Data.md, wiki/entities/CloudCrawl.md, wiki/entities/Rafael Levi.md, wiki/entities/Very.md
+Web Speech API	3	wiki/concepts/Browser as Infinite Canvas.md, wiki/entities/RL Nabors.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors.md
+WebAccessibility	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260611 - The agent-ready web： Simplify user actions with WebMCP — Tara Agyemang, Google.md
+WebArena	1	wiki/entities/JCAI.md
+WebDevelopment	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260410 - AI Didn't Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan Lasorsa (Microsoft).md
+WebRTC	6	wiki/entities/FishJam.md, wiki/entities/GeminiLiveAPI.md, wiki/entities/LifeKit.md, wiki/entities/PipeCast.md, wiki/entities/SoftwareMansion.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md
+WebScraping	2	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260607 - From MCP to Scale： Pipelines That Build Themselves — Rafael Levi, Bright Data.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260617 - Your Agent's Biggest Lie： ＂I Searched the Web＂ — Rafael Levi, Bright Data.md
+WebSocket Streaming	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260429 - OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman.md
+WorkerToManager	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor.md
+WorkflowAgents	2	wiki/entities/Microsoft Foundry.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft.md
+YakShaving	2	wiki/entities/swyx.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260501 - Agents for Everything Else — swyx.md
+Yin and Yang of Model Inference	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked.md
+YohanLasorsa	2	wiki/syntheses/ai-and-the-web-evolving-relationship-aie-2026.md, wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260410 - AI Didn't Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan Lasorsa (Microsoft).md
+ZivIlan	1	wiki/sources/03-transcripts/aiDotEngineer/Channel Only/summary-20260616 - You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia.md
