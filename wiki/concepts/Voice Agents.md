@@ -27,22 +27,22 @@ Voice Agents are AI agents that interact with users through spoken conversation 
 - [[Chat Agents]] — the baseline paradigm that voice agents upgrade
 - [[VoiceEngine]] — ElevenLabs product for building voice agents
 - [[Turn Taking]] — critical capability for natural voice interaction
-- [[Omni-Channel Voice]] — interaction paradigms unlocked by voice
+- [[OmniChannel Voice]] — interaction paradigms unlocked by voice
 - [[Agent Wrapper Pattern]] — pattern for adding voice to existing agents
-- [[Voice-to-Function Calling]] — related on-device voice capability
+- [[VoiceToFunction Calling]] — related on-device voice capability
 - [[ElevenLabs]] — company building voice agent infrastructure
 - [[Revolut]] — company using voice agents for customer support
 - [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]] — source
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source
 - [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source
 - [[Reachy Mini]] — robot using voice agents as primary interface
-- [[Speech-to-Speech Pipeline]] — pipeline powering Reachy Mini conversations
+- [[SpeechToSpeech Pipeline]] — pipeline powering Reachy Mini conversations
 - [[Coqui]] — TTS model in the voice pipeline
 - [[Parakeet]] — STT model in the voice pipeline
 - [[Voice Agent Pipeline Architecture]] — the dominant production architecture
 - [[Word Error Rate]] — STT quality metric
 - [[Turn Detection]] — STT capability
 - [[Streaming ASR]] — architectural evolution for STT
-- [[Co-location (Voice AI)]] — latency optimization strategy
+- [[CoLocation (Voice AI)]] — latency optimization strategy
 - [[Auto Scaling for Voice Agents]] — scaling infrastructure
-- [[Thinker-Talker Pattern]] — guardrail management pattern
+- [[ThinkerTalker Pattern]] — guardrail management pattern

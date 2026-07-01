@@ -23,7 +23,7 @@ Steven Willmott is the CEO of SafeIntelligence and a co-author of the OpenAPI sp
 
 - [[summary-20260531 - Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence]] — source
 - [[SafeIntelligence]] — company he leads
-- [[Spec-Driven Testing]] — concept he advocates
+- [[SpecDriven Testing]] — concept he advocates
 - [[Smart vs Safe Tradeoff]] — concept from his talk
 - [[Agent Robustness Testing]] — concept from his talk
 - [[Agent Specification Components]] — concept from his talk

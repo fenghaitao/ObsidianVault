@@ -18,8 +18,8 @@ The myth of the last mile is the false belief that the hard part of bringing an 
 - **Statistic cited**: 95% of GenAI pilots fail to reach production
 
 ## Related
-- [[Reinforcement Learning with LLMs]] — the solution to the myth
+- [[ReinforcementLearningWithLLMs]] — the solution to the myth
 - [[Continuous Model Improvement]] — the actual requirement for production
-- [[Instruction Fine-Tuning vs RL]] — why instruction fine-tuning alone can't solve the problem
+- [[Instruction FineTuning vs RL]] — why instruction fine-tuning alone can't solve the problem
 - [[Tokenomics]] — the cost economics that become apparent only at production scale
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

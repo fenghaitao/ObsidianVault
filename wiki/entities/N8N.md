@@ -32,11 +32,11 @@ n8n is a visual, low-code workflow automation platform founded in 2019. Original
 - [[Liam McGarrigle]] — Developer Advocate at n8n
 - [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — workshop source
 - [[HumanInTheLoopWorkflows]] — n8n's human review node implementation
-- [[Fine-Grained Tool Permissions]] — n8n's field-level tool access control
+- [[FineGrained Tool Permissions]] — n8n's field-level tool access control
 - [[MCP]] — n8n's native MCP server
 - [[OpenRouter]] — LLM gateway used in n8n workshops
 - [[Gmail]] — integration target
 - [[Google Calendar]] — integration target
 - [[Slack]] — chat integration target
 - [[WorkflowPattern]] — n8n's trigger → action → control flow architecture
-- [[Sub-agent Orchestration]] — pattern for scaling agents with specialized sub-agents
+- [[SubAgent Orchestration]] — pattern for scaling agents with specialized sub-agents

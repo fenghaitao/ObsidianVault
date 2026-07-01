@@ -23,4 +23,4 @@ Agentic Identity for Software is the concept of providing identity and authentic
 - [[Continuous Compute]] — paradigm requiring agentic identity
 - [[AgentIdentity]] — broader concept of agent identity
 - [[DelegatedAgentIdentity]] — related concept of identity delegation
-- [[Hardware-Software Co-design for Caching]] — infrastructure stack containing agentic identity
+- [[HardwareSoftware CoDesign for Caching]] — infrastructure stack containing agentic identity

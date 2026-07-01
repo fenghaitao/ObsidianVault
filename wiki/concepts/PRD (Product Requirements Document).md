@@ -41,8 +41,8 @@ In Matt Pocock's AI coding workflow, a PRD (Product Requirements Document) serve
 - [[Kanban Board for AI Tasks]] — next step after PRD
 - [[Design Concept]] — the shared understanding the PRD captures
 - [[Doc Rot]] — why PRDs should not be kept permanently
-- [[Specs-to-Code]] — the movement Pocock contrasts with
+- [[SpecsToCode]] — the movement Pocock contrasts with
 - [[SpecificationDrivenDevelopment]] — related approach
 - [[Decision Capture Loop]] — the enforcement loop PRDs participate in
-- [[Behavior-Driven Development (BDD)]] — BDD scenarios connect to PRDs
+- [[BehaviorDriven Development (BDD)]] — BDD scenarios connect to PRDs
 - [[Architecture Decision Record (ADR)]] — complementary decision record for architecture

@@ -29,5 +29,5 @@ The Sonar Leaderboard (sonar.com/leaderboard) is a public evaluation platform th
 - [[Cyclomatic Complexity]] — tracked metric
 - [[Cognitive Complexity]] — tracked metric
 - [[Code Verbosity]] — tracked metric
-- [[SWE-bench]] — complementary benchmark (functional correctness only)
+- [[SWEBench]] — complementary benchmark (functional correctness only)
 - [[Gemini 3.1 Pro]] — top-performing model

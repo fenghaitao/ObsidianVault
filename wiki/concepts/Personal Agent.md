@@ -21,7 +21,7 @@ A Personal Agent is an AI assistant that the user fully owns — owning the assi
 ## Related
 - [[summary-20260423 - The End of Apps — Kitze, Sizzy.co]] — source
 - [[Kitze]] — advocate
-- [[Self-Hosting for Agents]] — the infrastructure approach
+- [[SelfHosting for Agents]] — the infrastructure approach
 - [[OpenClaw]] — framework enabling personal agents
 - [[Wolfer]] — Kitze's personal agent framework
 - [[Life OS]] — the vision personal agents serve

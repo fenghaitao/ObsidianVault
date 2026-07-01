@@ -36,13 +36,13 @@ Human-in-the-loop workflows are a pattern where a workflow suspends execution at
 - [[DurableAgents]]
 - [[WorkflowPattern]]
 - [[StepCaching]]
-- [[Human-in-the-Loop Orchestration]] — broader orchestration-level pattern
+- [[HumanInTheLoop Orchestration]] — broader orchestration-level pattern
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
 - [[Paperclip]] — implements reviewer/approver human-in-the-loop gates for agent tasks
 - [[AgentReviewerApprover]] — Paperclip's QA review and manager approval workflow pattern
 - [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — source
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (agent-human collaboration framework with trust and control dimensions)
-- [[Agent-Human Collaboration]] — broader framework with trust and control dimensions
+- [[AgentHuman Collaboration]] — broader framework with trust and control dimensions
 - [[Decision Log]] — non-blocking alternative: agents make decisions and log them for later human review instead of blocking
 - [[Elicitation]] — asking the human at decision points, with non-blocking variant
 - [[n8n]] — platform with visual human review nodes

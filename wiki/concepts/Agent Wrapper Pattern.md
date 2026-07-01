@@ -22,6 +22,6 @@ The Agent Wrapper Pattern is an architectural approach where new capabilities (s
 - [[VoiceEngine]] — ElevenLabs product that implements this pattern for voice
 - [[Voice Agents]] — agents created via this pattern
 - [[Chat Agents]] — the underlying agents being wrapped
-- [[Omni-Channel Voice]] — capability unlocked by wrapping with voice
+- [[OmniChannel Voice]] — capability unlocked by wrapping with voice
 - [[AgentExtensibility]] — broader concept of extending agent capabilities
 - [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]] — source

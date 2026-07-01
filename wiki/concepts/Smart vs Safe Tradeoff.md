@@ -23,7 +23,7 @@ The smart vs safe tradeoff is the principle that larger, more capable AI models 
 
 - [[summary-20260531 - Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence]] — source
 - [[Steven Willmott]] — introduced the concept in his talk
-- [[Spec-Driven Testing]] — the testing approach motivated by this tradeoff
+- [[SpecDriven Testing]] — the testing approach motivated by this tradeoff
 - [[Agent Robustness Testing]] — testing to determine the boundaries of safe operation
 - [[CapabilityBasedSecurity]] — related security principle
 - [[AgenticAttackVector]] — the attack surface created by agent capabilities

@@ -28,7 +28,7 @@ The Domain Expert as Architect is the third and most advanced model in Chris Lov
 - [[Domain Native AI Organization]] — the organizational philosophy
 - [[Principal Domain Expert]] — recommended organizational role
 - [[AI Quality]] — what the Architect's systems optimize
-- [[Self-Improving Agents]] — related concept
+- [[SelfImproving Agents]] — related concept
 - [[Feedback Loops as AI Speed Limit]] — related concept
 - [[Anterior]] — Architect model case study
 - [[ChrisLovejoy]] — framework creator

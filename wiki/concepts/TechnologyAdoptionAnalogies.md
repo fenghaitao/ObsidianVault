@@ -18,6 +18,6 @@ Technology Adoption Analogies are historical parallels drawn to explain patterns
 
 ## Related
 - [[AIAdoptionPatterns]] — the "magic star icon phase" as a specific AI adoption stage
-- [[Alex Albert]] — popularized the electricity analogy in an AI context
+- [[AlexAlbert]] — popularized the electricity analogy in an AI context
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source
 - [[Artifacts]] — example of AI-first product design

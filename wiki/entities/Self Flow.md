@@ -27,10 +27,10 @@ Self Flow is a research paper and approach from Black Forest Labs that enables s
 - [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — source
 - [[Black Forest Labs]] — creator
 - [[Flux]] — model family using this approach
-- [[Self-Supervised Representation Learning]] — core concept
+- [[SelfSupervised Representation Learning]] — core concept
 - [[Representation Alignment]] — the problem Self Flow solves
 - [[Flow Matching]] — baseline approach it improves upon
 - [[DinoV2]] — external encoder it replaces
-- [[Multi-Modal Generation]] — enabled capability
+- [[MultiModal Generation]] — enabled capability
 - [[Physical AI]] — robotics application
 - [[Student-Teacher Architecture]] — training architecture

@@ -14,12 +14,12 @@ Benchmarking Agents is the practice and framework for building effective benchma
 ### The Science: 4 Axes for Effective Measuring Sticks
 1. **[[Task Quality (Benchmarks)|Task Quality]]** — Individual tasks must be rigorously validated, represent real-world complexity, and have verifiable solutions validated by domain experts. Exemplar: [[GPQA]].
 2. **[[Distributional Control]]** — Define a clear taxonomy for the domain and distribute tasks intentionally across it. Exemplar: [[MMLU]].
-3. **[[Model Headroom]]** — Benchmarks must be unsaturated, exposing real soft spots in capabilities. Exemplar: [[ARC-AGI]].
+3. **[[Model Headroom]]** — Benchmarks must be unsaturated, exposing real soft spots in capabilities. Exemplar: [[ARCAGI]].
 4. **[[Robust Eval Methodology]]** — Go beyond accuracy to capture cost, latency, reasoning quality, tool use, and policy adherence. Exemplar: [[TauBench]].
 
 ### The Art: 3 Differentiators for Frontier-Shaping Benchmarks
 1. **[[Benchmark Thesis]]** — Have a research question about where the field is going. Exemplar: [[TerminalBench]] (bet on CLI).
-2. **[[Benchmark Roadmapping]]** — Inspire new research directions and spawn families of benchmarks. Exemplar: [[SWE-bench]].
+2. **[[Benchmark Roadmapping]]** — Inspire new research directions and spawn families of benchmarks. Exemplar: [[SWEBench]].
 3. **[[Researcher UX]]** — Prioritize ease of use for running models, contributing tasks, and leveraging signals. Exemplar: [[Helm]], [[HarborEval]].
 
 ### Next Wave Dimensions (Snorkel's View)

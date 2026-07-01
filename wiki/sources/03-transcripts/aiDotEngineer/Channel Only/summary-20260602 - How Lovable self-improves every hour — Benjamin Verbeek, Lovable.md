@@ -69,7 +69,7 @@ AI coding agents should learn from every mistake so that a failure happens once 
 - [[Context Rot]] — Stale knowledge that degrades agent performance when models or features change
 - [[VibeCoding]] — Coding without looking at code, via chat + visual sandbox (term coined by Lovable)
 - [[ContinuousImprovement]] — The loop of detecting problems, fixing them, and evaluating the fix
-- [[Self-Improving Agents]] — Agents that learn from their mistakes and platform feedback
+- [[SelfImproving Agents]] — Agents that learn from their mistakes and platform feedback
 - [[Autonomous Agent Feedback Loop]] — The closed loop from agent vent → Slack → investigation → PR → merge → eval
 
 ## Related

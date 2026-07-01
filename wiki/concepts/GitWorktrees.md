@@ -29,4 +29,4 @@ Git work trees are separate checkouts of a repository that allow parallel work w
 - [[BestOfN]] — pattern enabled by work trees
 - [[AgentIsolation]] — the isolation work trees provide
 - [[MultiRepoWorktrees]] — work trees spanning multiple repos
-- [[ParallelAgents]] — the broader pattern
+- [[Parallel Agents]] — the broader pattern

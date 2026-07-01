@@ -35,7 +35,7 @@ Deterministic post-execution checks that inspect the agent's tool call history (
 - [[TejasKumar]] — defined the six components
 - [[Guardrails]] — component #4
 - [[AgentLoop]] — component #5
-- [[ContextManagement]] — component #3
+- [[Context Management]] — component #3
 - [[ContextCompression]] — part of context management
 - [[LoginHandler]] — a harness function that hooks into the agent loop
 - [[Verification in Agentic Loops]] — the verify step concept

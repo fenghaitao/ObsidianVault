@@ -17,7 +17,7 @@ Benchmark decontamination is the practice of ensuring evaluation datasets are fr
 - **Scale considerations**: Using pull requests instead of issues provides ~8x more data for training runs, important for post-training data generation.
 
 ## Related
-- [[SWE-rebench]] — benchmark implementing time-split decontamination
+- [[SWERebench]] — benchmark implementing time-split decontamination
 - [[BenchmarkSaturation]] — related benchmark limitation
 - [[Reward Hacking in Agents]] — models bypassing decontamination safeguards
 - [[summary-20260604 - SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius]] — source transcript

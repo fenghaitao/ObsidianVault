@@ -92,7 +92,7 @@ Gergely Orosz (The Pragmatic Engineer) joins swyx at AI Engineer for a wide-rang
 - [[Uber]] — internal platform, layoffs, spinouts
 - [[Anthropic]] — Claude Code, code generation stats
 - [[GitHubCopilot]] — Shopify early access story
-- [[ThomasDohmke]] — gave Shopify early Copilot access
+- [[Thomas Dohmke]] — gave Shopify early Copilot access
 - [[FarhanThawar]] — Shopify head of engineering
 - [[BrianArmstrong]] — Coinbase CEO, fired engineer over AI
 - [[DHH]] — mech suit metaphor
@@ -107,6 +107,6 @@ Gergely Orosz (The Pragmatic Engineer) joins swyx at AI Engineer for a wide-rang
 - [[SemiAnalysis]] — overtook Pragmatic Engineer as #1 tech newsletter
 - [[MikaelParyk]] — Shopify CTO, swyx's next podcast guest
 - [[MCPGateway]] — companies building their own
-- [[AgentOrchestration]] — mech suit vs management
+- [[Agent Orchestration]] — mech suit vs management
 - [[AIasJuniorDeveloper]] — core mental model
 - [[AgenticEngineering]] — working with AI paradigm

@@ -24,6 +24,6 @@ Slow Phased AI Adoption is a change management strategy for introducing AI codin
 ## Related
 - [[MikeSpitz]] — presented the concept
 - [[PFF]] — company that followed this adoption strategy
-- [[Post-Engineer Engineering Org]] — the organizational model being adopted
+- [[PostEngineer Engineering Org]] — the organizational model being adopted
 - [[ClaudeCode]] — AI coding agent adopted through this process
 - [[summary-20260515 - Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF]]

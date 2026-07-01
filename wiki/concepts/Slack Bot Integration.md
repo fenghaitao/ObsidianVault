@@ -24,6 +24,6 @@ Slack bot integration is a pattern for building AI agent-powered bots in Slack, 
 - [[summary-20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)]] — source
 - [[Slack]] — messaging platform
 - [[ManusAPI]] — agent API integrated
-- [[Multi-Turn Conversations]] — conversation pattern used
+- [[MultiTurn Conversations]] — conversation pattern used
 - [[Webhooks for Agents]] — notification mechanism
 - [[Modal]] — deployment platform used in demo

@@ -22,5 +22,5 @@ Excalidraw is an open-source virtual whiteboard/drawing tool. It was referenced 
 - [[TLDraw]] — similar tool referenced alongside Excalidraw
 - [[Kenton]] — used this style of canvas in his demo
 - [[Excalidraw MCP App]] — MCP application built on Excalidraw
-- [[Agent-Human Collaboration]] — paradigm enabled by the MCP app
+- [[AgentHuman Collaboration]] — paradigm enabled by the MCP app
 - [[Agents on Canvas]] — related collaboration pattern

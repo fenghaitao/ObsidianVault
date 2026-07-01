@@ -26,6 +26,6 @@ The Autonomy Slider is a mental model for AI system design that places approache
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
 - [[AgenticWorkflows]] — the workflow portion of the spectrum
 - [[MultiAgentArchitecture]] — the most complex end of the spectrum
-- [[Louis-François Bouchard]] — introduced this mental model
+- [[LouisFrançois Bouchard]] — introduced this mental model
 - [[Deep Research Agent]] — example system combining all levels
 - [[Context Budget]] — constraint that influences where to place a system on the slider

@@ -31,11 +31,11 @@ Mike Spitz presents a PFF case study where two engineers using AI coding agents 
 - [[PFF]] — sports data company, case study subject
 - [[ClaudeCode]] — AI coding agent used in the case study
 - [[aiDotEngineer]] — conference/YouTube channel hosting the talk
-- [[Post-Engineer Engineering Org]] — core concept: org structure optimized around AI agents
+- [[PostEngineer Engineering Org]] — core concept: org structure optimized around AI agents
 - [[Lightweight Design Document]] — agent-generated design doc replacing sprint planning
 - [[Huddles]] — bi-daily feedback sessions replacing standups
 - [[Autonomous QA Agent]] — agent that tests merged PRs against acceptance criteria
-- [[Self-healing Agents]] — agents that auto-create fix PRs for failed QA checks
+- [[SelfHealing Agents]] — agents that auto-create fix PRs for failed QA checks
 - [[Spec-Driven Development]] — spec-first workflow where agents interview stakeholders and generate design docs
 - [[Agentic Code Review]] — using agents for style/opinionated review, freeing engineers for system design
 - [[Verifiable Deterministic Tasks]] — tasks with clear, checkable outcomes for agent execution

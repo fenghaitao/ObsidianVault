@@ -26,7 +26,7 @@ Michal Cichra is a software engineer at Safe Intelligence who previously worked 
 - [[SafeIntelligence]] — company he works for
 - [[Spec 27]] — product his team released
 - [[Architecture Decision Record (ADR)]] — concept he advocates
-- [[Behavior-Driven Development (BDD)]] — concept he advocates
+- [[BehaviorDriven Development (BDD)]] — concept he advocates
 - [[PRD (Product Requirements Document)]] — concept he advocates
 - [[Decision Capture Loop]] — the reinforcement loop he describes
 - [[Design System]] — concept he advocates for consistent UI

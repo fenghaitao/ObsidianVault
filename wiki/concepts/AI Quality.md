@@ -25,7 +25,7 @@ AI Quality refers to the standard of outputs produced by AI systems, assessed ag
 - [[Domain Expert as Architect]] — quality through automated improvement
 - [[Principal Domain Expert]] — accountable for AI quality
 - [[Domain Native AI Organization]] — organizational design for quality
-- [[LLM-as-Judge]] — one approach to measuring quality
+- [[LLMAsJudge]] — one approach to measuring quality
 - [[EvalEngineering]] — discipline of building quality assessment systems
 - [[ChrisLovejoy]] — speaker who emphasized AI quality's organizational nature
 - [[summary-20260516 - How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs]] — source talk

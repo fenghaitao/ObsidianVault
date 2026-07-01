@@ -34,4 +34,4 @@ Progressive Discovery is a client-side pattern for MCP where tools are loaded on
 - [[ClaudeCode]] — demonstrated the benefits
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (skills as a form of progressive discovery: skills encode human judgment into work nodes and handle contingencies discovered during execution)
 - [[Skills]] — skills enable progressive discovery by encoding knowledge that activates when specific conditions are encountered during work
-- [[Agent-Human Collaboration]] — progressive discovery through skills increases control by handling contingencies without requiring upfront planning
+- [[AgentHuman Collaboration]] — progressive discovery through skills increases control by handling contingencies without requiring upfront planning

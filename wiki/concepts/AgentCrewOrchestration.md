@@ -26,6 +26,6 @@ Agent Crew Orchestration is a multi-agent coordination pattern where specialized
 - [[CrewAI]] — framework implementing this pattern
 - [[MultiAgentArchitecture]] — broader architectural pattern
 - [[AgentCompanyPattern]] — business application of crew orchestration
-- [[AgentMemory]] — shared memory component critical to crew orchestration
+- [[Agent Memory]] — shared memory component critical to crew orchestration
 - [[ThirdPartyAgentIntegration]] — extending crews with external agents
-- [[Sub-agent Orchestration]] — related sub-agent coordination pattern
+- [[SubAgent Orchestration]] — related sub-agent coordination pattern

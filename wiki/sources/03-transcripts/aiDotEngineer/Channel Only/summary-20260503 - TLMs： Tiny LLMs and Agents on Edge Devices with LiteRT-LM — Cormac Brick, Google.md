@@ -73,7 +73,7 @@ Cormac Brick, tech lead for Google AI Edge, presents two major trends in on-devi
 ## Related
 - [[Cormac Brick]] — speaker, Google AI Edge tech lead
 - [[Google AI Edge]] — Google's edge AI division
-- [[LiteRT-LM]] — LLM runtime for mobile and edge
+- [[LiteRTLM]] — LLM runtime for mobile and edge
 - [[LiteRT]] — general inference framework (formerly TensorFlow Lite)
 - [[MediaPipe]] — ML pipeline framework
 - [[Gemma4]] — E2B and E4B models
@@ -83,8 +83,8 @@ Cormac Brick, tech lead for Google AI Edge, presents two major trends in on-devi
 - [[AI Edge Gallery]] — open-source app for experimenting with on-device models
 - [[AI Edge Eloquent]] — transcription + text polishing app
 - [[Tiny LLMs]] — models under 1B parameters for in-app deployment
-- [[System-level GenAI]] — large models built into the OS
-- [[In-app GenAI]] — tiny models loaded with the app
+- [[SystemLevel GenAI]] — large models built into the OS
+- [[InApp GenAI]] — tiny models loaded with the app
 - [[Agent Skills]] — progressive disclosure skill architecture
 - [[ProgressiveDisclosure]] — design pattern for context efficiency
 - [[ConstrainedDecoding]] — technique for reliable tool calling
@@ -95,12 +95,12 @@ Cormac Brick, tech lead for Google AI Edge, presents two major trends in on-devi
 - [[Synthetic Data Generation]] — using large models to generate training data
 - [[FineTuning]] — customizing models for specific tasks
 - [[Quantization]] — reducing model size for deployment
-- [[Cross-platform deployment]] — single file across multiple platforms
+- [[CrossPlatform deployment]] — single file across multiple platforms
 - [[NPU]] — neural processing unit for hardware acceleration
 - [[AOT Compilation]] — ahead-of-time compilation for NPU
 - [[Text Polishing]] — cleaning up transcribed speech
 - [[Biasing Dictionary]] — custom word lists for transcription accuracy
-- [[Voice-to-Function Calling]] — voice commands to function execution
+- [[VoiceToFunction Calling]] — voice commands to function execution
 - [[Skill Architecture]] — structure of agent skills
 - [[Function Calling]] — model capability to invoke tools
 - [[Intel]] — previous employer, NPU architecture
@@ -108,7 +108,7 @@ Cormac Brick, tech lead for Google AI Edge, presents two major trends in on-devi
 - [[MediaTek]] — hardware partner
 - [[Raspberry Pi]] — edge deployment platform
 - [[Google]] — parent company
-- [[Google DeepMind]] — Gemma model team
+- [[GoogleDeepMind]] — Gemma model team
 - [[Android]] — target platform
 - [[iOS]] — target platform
 - [[aiDotEngineer]] — event host

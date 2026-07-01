@@ -21,8 +21,8 @@ Model customization is the process of adapting foundation models to specific use
 - [[Foundation Models]]
 - [[Prompt Engineering]]
 - [[RAG]]
-- [[Fine-tuning]]
+- [[FineTuning]]
 - [[AmazonBedrock]]
 - [[Model Spectrum]] — the continuum of customization options
-- [[Domain-Specific Models]] — the goal of customization
+- [[DomainSpecific Models]] — the goal of customization
 - [[Serverless Training]] — modern infrastructure for customization

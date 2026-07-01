@@ -19,7 +19,7 @@ Model Steering is Anthropic's interpretability-based technique for controlling l
 
 ## Related
 - [[Anthropic]] — organization behind this research
-- [[Alex Albert]] — presented this feature
+- [[AlexAlbert]] — presented this feature
 - [[Scaling Monosemanticity]] — research paper foundation
 - [[Golden Gate Claude]] — public demonstration experiment
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source

@@ -28,5 +28,5 @@ Seekable Compression is a compression technique used by Trigger.dev to dramatica
 - [[Snapshot and Restore]] — the durability approach
 - [[Execution Snapshot]] — the compressed VM state
 - [[FCRun]] — the CLI implementing these optimizations
-- [[Trigger.dev]] — company that developed the technique
+- [[TriggerDev]] — company that developed the technique
 - [[summary-20260510 - Two Roads to Durable Agents： Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev]] — source

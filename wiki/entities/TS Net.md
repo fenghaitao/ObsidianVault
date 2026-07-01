@@ -20,5 +20,5 @@ TS Net is an open source Go library by [[Tailscale]] that allows developers to w
 ## Related
 - [[Tailscale]] — parent company/platform
 - [[Aperture (Tailscale)]] — AI gateway built on TS Net
-- [[Network-Level Identity]] — concept enabled by TS Net
+- [[NetworkLevel Identity]] — concept enabled by TS Net
 - [[summary-20260601 - What if the network was the sandbox — Remy Guercio, Tailscale]] — source

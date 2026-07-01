@@ -19,7 +19,7 @@ Hugging Face Traces is a new dataset repository type on the Hugging Face Hub for
 - Part of Hugging Face's broader agent ecosystem alongside Skills, MCP server, and inference providers
 
 ## Related
-- [[Self-Training Agents]] — the paradigm enabled by traces
+- [[SelfTraining Agents]] — the paradigm enabled by traces
 - [[HuggingFace]] — platform hosting traces
 - [[Agent Traces]] — the captured execution data
 - [[Hugging Face Skills]] — skills for training on trace data

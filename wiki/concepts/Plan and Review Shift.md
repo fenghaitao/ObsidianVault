@@ -21,12 +21,12 @@ The Plan and Review Shift is the observation that as AI coding agents improve, t
 
 ## Related
 - [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]] — source
-- [[Louis Knight-Webb]] — articulated the concept
-- [[Plan-Based Approach]] — one response to the shift
-- [[Review-Based Approach]] — the alternative response
+- [[Louis KnightWebb]] — articulated the concept
+- [[PlanBased Approach]] — one response to the shift
+- [[ReviewBased Approach]] — the alternative response
 - [[Plan vs Review Matrix]] — framework for when each approach applies
 - [[Agent Runtime Duration]] — the trend driving the shift
 - [[Agent Parallelism]] — the workflow that emerges from the shift
 - [[Focus Maxing]] — the design principle for tools in this new paradigm
 - [[ImplementationWindowCollapse]] — related phenomenon in team alignment
-- [[Agent-Human Collaboration]] — broader collaboration paradigm
+- [[AgentHuman Collaboration]] — broader collaboration paradigm

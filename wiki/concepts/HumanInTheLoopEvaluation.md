@@ -18,7 +18,7 @@ Human-in-the-Loop Evaluation is the practice of validating LLM-as-judge eval sys
 - Can be extended to production: continuously sample production data, have humans label borderline cases, and add hard examples back to the development dataset.
 
 ## Related
-- [[LLM-as-Judge]] — the eval system being validated
+- [[LLMAsJudge]] — the eval system being validated
 - [[EvalEngineering]] — the practice of improving eval prompts based on human feedback
 - [[FewShotExamples]] — technique to improve eval accuracy using human-labeled examples
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source

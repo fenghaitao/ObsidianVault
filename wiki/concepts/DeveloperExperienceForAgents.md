@@ -33,4 +33,4 @@ Developer Experience for Agents is the practice of designing APIs, documentation
 - [[CapabilityBasedSecurity]] — security model for agent API access
 - [[SunilPai]] — speaker who presented the concept
 - [[AgentReadyCodebases]] — related concept about making codebases consumable by agents
-- [[Errors as Prompts]] — related concept: error messages as agent guidance
+- [[ErrorsAsPrompts]] — related concept: error messages as agent guidance

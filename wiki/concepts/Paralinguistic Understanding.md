@@ -21,7 +21,7 @@ Paralinguistic understanding is the ability of a voice AI system to interpret no
 
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
-- [[Speech-to-Speech Models]] — models that can technically preserve this information
+- [[SpeechToSpeech Models]] — models that can technically preserve this information
 - [[Voice AI]] — parent domain
 - [[Her Moment]] — paralinguistic understanding is central to this
 - [[Moshi]] — had capability but wasn't trained for it

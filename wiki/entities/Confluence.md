@@ -23,4 +23,4 @@ Confluence is Atlassian's enterprise wiki and documentation platform. In the Dem
 - [[Atlassian]] — parent company
 - [[Knowledge Base Monolith]] — Confluence is a component
 - [[Context Gap Scanner]] — can analyze Confluence documentation
-- [[Demand-Driven Context]] — methodology for improving Confluence-based knowledge
+- [[DemandDriven Context]] — methodology for improving Confluence-based knowledge

@@ -17,8 +17,8 @@ A reward signal in reinforcement learning for LLMs is the feedback mechanism tha
 - **RLHF distinction**: Traditional RLHF often hides expensive annotation campaigns; the reward signal approach aims to minimize human annotation burden
 
 ## Related
-- [[Reinforcement Learning with LLMs]] — the technique that depends on reward signals
-- [[LLM-as-Judge]] — one source of reward signals
+- [[ReinforcementLearningWithLLMs]] — the technique that depends on reward signals
+- [[LLMAsJudge]] — one source of reward signals
 - [[CCS]] — containment rate as a KPI-based reward signal
 - [[Mock User]] — used to create environments where rewards can be evaluated
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

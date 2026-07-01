@@ -30,7 +30,7 @@ Generative recommender systems are a paradigm shift from traditional multi-stage
 - [[User Embeddings]] — user context component
 - [[Semantic IDs]] — content tokenization component
 - [[Soft Tokenization]] — personalization component
-- [[Cross-Content Modeling]] — shared embedding space
+- [[CrossContent Modeling]] — shared embedding space
 - [[Taste Profile]] — user-facing steerability feature
 - [[AI DJ]] — generative recs product
 - [[Prompted Playlist]] — generative recs product

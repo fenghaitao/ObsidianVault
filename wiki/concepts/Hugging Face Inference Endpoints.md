@@ -21,7 +21,7 @@ Hugging Face Inference Endpoints is a cloud serving infrastructure that hosts an
 ## Related
 - [[HuggingFace]] — platform providing the service
 - [[Reachy Mini]] — primary consumer at scale
-- [[Speech-to-Speech Pipeline]] — pipeline served via endpoints
+- [[SpeechToSpeech Pipeline]] — pipeline served via endpoints
 - [[Coqui]] — models served via endpoints
 - [[Load Balancer]] — infrastructure component
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source

@@ -19,6 +19,6 @@ Calvin is an engineer at OpenHands who demonstrated the Refactor SDK by eliminat
 ## Related
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
 - [[OpenHands]] — company
-- [[Verifier-Fixer Pipeline]] — demonstrated pattern
+- [[VerifierFixer Pipeline]] — demonstrated pattern
 - [[Dependency Graph Refactoring]] — batching strategy used
 - [[Batch Graph]] — visualization tool used

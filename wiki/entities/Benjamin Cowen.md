@@ -19,5 +19,5 @@ Benjamin Cowen is a Forward Deployed Machine Learning Engineer at Modal, where h
 ## Related
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Modal]] — employer and platform
-- [[Fine-tuning]] — core topic of talk
+- [[FineTuning]] — core topic of talk
 - [[Serverless Training]] — paradigm discussed

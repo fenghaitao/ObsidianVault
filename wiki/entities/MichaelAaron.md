@@ -21,7 +21,7 @@ Michael Aaron is a Software Engineer at Kaggle within Google DeepMind, working p
 - [[Kaggle]] — platform he works on
 - [[GoogleDeepMind]] — parent organization
 - [[Game Arena]] — product he presented
-- [[Bradley-Terry Pairing]] — statistical technique used in Game Arena
+- [[BradleyTerry Pairing]] — statistical technique used in Game Arena
 - [[OpenSpiel]] — RL framework used for games
 - [[AgenticEvaluations]] — focus area
 - [[summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind]] — source

@@ -20,7 +20,7 @@ Context Blocks are curated, agent-usable chunks of institutional knowledge, anal
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology that produces context blocks
+- [[DemandDriven Context]] — methodology that produces context blocks
 - [[Knowledge Base Monolith]] — what context blocks decompose
 - [[Meta Model]] — organizational structure for context blocks
 - [[Knowledge Curation]] — the process of creating context blocks

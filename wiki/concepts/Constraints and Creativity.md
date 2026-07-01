@@ -30,5 +30,5 @@ Constraints and creativity is the principle that limitations — particularly co
 - [[Bounded Autonomy]] — the parent framework where constraints are a feature, not a bug
 - [[SimpleDesignPhilosophy]] — the parallel principle of keeping things simple
 - [[ContextEngineering]] — the discipline of deliberate context curation
-- [[ContextBudget]] — practical application of context constraints
+- [[Context Budget]] — practical application of context constraints
 - [[Token Billionaire]] — the opposite extreme of abundant token usage

@@ -20,6 +20,6 @@ Perceived Latency is the user's subjective experience of system responsiveness, 
 ## Related
 - [[summary-20260509 - Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral]] — source
 - [[Streaming Audio Generation]] — the technique that reduces perceived latency
-- [[Text-to-Speech Architecture]] — the architecture enabling low-latency streaming
+- [[TextToSpeech Architecture]] — the architecture enabling low-latency streaming
 - [[Time to First Token]] — analogous metric for LLM text streaming
 - [[summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind]] — conversational agent latency considerations

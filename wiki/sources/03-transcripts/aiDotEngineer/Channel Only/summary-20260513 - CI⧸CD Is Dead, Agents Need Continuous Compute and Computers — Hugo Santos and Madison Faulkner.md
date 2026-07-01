@@ -46,7 +46,7 @@ Traditional CI/CD is fundamentally broken for agentic software development at sc
 ## Concepts
 
 - [[Continuous Compute]] — proposed replacement for CI/CD: stateful, high-speed agent development loops
-- [[Pre-merge Queue]] — queue of agent-completed changes awaiting serialization and human approval
+- [[PreMerge Queue]] — queue of agent-completed changes awaiting serialization and human approval
 - [[Internal Validation]] — build and test that runs on every iteration within the agent harness
 - [[External Validation]] — specialized review agents evaluating changes within the development loop
 - [[Intent and Plan]] — codified goals (specs, tickets) replacing PRs as the unit of work
@@ -55,7 +55,7 @@ Traditional CI/CD is fundamentally broken for agentic software development at sc
 - [[Serializability]] — ensuring parallel agent changes merge correctly into the Git ledger
 - [[Microservices with Agents]] — evolution from monolithic agents to specialized agent microservices
 - [[Agentic Identity for Software]] — identity management for agents in the software development lifecycle
-- [[Hardware-Software Co-design for Caching]] — caching as the orchestration layer for accelerated CI/CD
+- [[HardwareSoftware CoDesign for Caching]] — caching as the orchestration layer for accelerated CI/CD
 - [[The Multiverse (agent development)]] — agents working on multiple commit candidates simultaneously
 - [[Merge Queue]] — the serialization bottleneck where parallel agent changes must be ordered
 
@@ -68,5 +68,5 @@ Traditional CI/CD is fundamentally broken for agentic software development at sc
 - [[MergeabilityScoring]] — related to pre-merge queue reconciliation
 - [[Verification in Agentic Loops]] — related to internal validation as continuous process
 - [[Reviewer Agents]] — related to external validation by specialized agents
-- [[AgentMemory]] — related to statefulness in development environments
+- [[Agent Memory]] — related to statefulness in development environments
 - [[AgenticEngineering]] — the broader paradigm this talk addresses

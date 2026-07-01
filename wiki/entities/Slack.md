@@ -37,4 +37,4 @@ Slack is a messaging platform used as an integration target for AI agent bots, d
 - [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — source
 - [[Viktor]] — AI employee that lives entirely in Slack as its primary interface
 - [[summary-20260511 - Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski]] — source (Slack as sole agent interface)
-- [[Slack-based Agent Interface]] — the interface paradigm Viktor pioneered
+- [[SlackBased Agent Interface]] — the interface paradigm Viktor pioneered

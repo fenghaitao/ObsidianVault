@@ -44,4 +44,4 @@ Tool calling is the LLM capability that enables models to output structured func
 - [[Agentic Search]] — context where tool calling is central
 - [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source (voice agent constraints)
 - [[Voice Agent Pipeline Architecture]] — tool calling in voice context
-- [[Thinker-Talker Pattern]] — pattern for tool calling under latency constraints
+- [[ThinkerTalker Pattern]] — pattern for tool calling under latency constraints

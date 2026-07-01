@@ -30,6 +30,6 @@ Reachy Mini is a $300–450 open-source robot created by Hugging Face, designed 
 - [[Coqui]] — TTS model used in voice pipeline
 - [[Raspberry Pi]] — onboard compute for $450 version
 - [[Open Source Robotics]] — movement it represents
-- [[Speech-to-Speech Pipeline]] — voice conversation pipeline
+- [[SpeechToSpeech Pipeline]] — voice conversation pipeline
 - [[Voice Agents]] — interaction paradigm
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source

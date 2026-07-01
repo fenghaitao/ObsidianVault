@@ -28,10 +28,10 @@ AI pricing is the discipline of designing billing models for AI-powered products
 ## Related
 - [[summary-20260501 - Mastering AI Pricing — Mayank Pant, Stripe]] — source
 - [[Hybrid Pricing]] — the dominant model for AI companies
-- [[Value-Based Pricing]] — pricing based on customer-perceived value
-- [[Outcome-Based Pricing]] — pricing based on business results
+- [[ValueBased Pricing]] — pricing based on customer-perceived value
+- [[OutcomeBased Pricing]] — pricing based on business results
 - [[Pricing Iteration]] — frequent pricing changes as competitive advantage
-- [[Credit-Based Pricing]] — abstracting features behind credits
+- [[CreditBased Pricing]] — abstracting features behind credits
 - [[Pricing Guardrails]] — protecting customer trust
 - [[Mayank Pant]] — speaker who presented the framework
 - [[Stripe]] — leading billing platform for AI companies

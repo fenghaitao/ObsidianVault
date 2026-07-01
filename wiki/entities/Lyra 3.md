@@ -20,7 +20,7 @@ Lyra 3 is Google DeepMind's music generation model, available via AI Studio API.
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[AI Studio]] — platform for access
 - [[VEO 3.1 Light]] — video generation counterpart
 - [[Nano Banana 2]] — image generation counterpart

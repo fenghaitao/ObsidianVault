@@ -35,7 +35,7 @@ When using SSE for AI streaming, resume and cancel are mutually exclusive. SSE i
 - [[WorkflowPattern]]
 - [[AgentObservability]]
 - [[Durable Sessions]] — architectural pattern that solves the resume/cancel conflict
-- [[Server-Sent Events]] — the protocol with the one-way limitation
+- [[ServerSent Events]] — the protocol with the one-way limitation
 - [[Live Control]] — bidirectional capability needed for proper cancel support
 - [[Ably]] — platform providing resumable channel infrastructure
 - [[summary-20260517 - Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Christensen, Ably]] — source

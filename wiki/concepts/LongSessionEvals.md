@@ -19,8 +19,8 @@ Long session evals are a testing technique that measures context degradation ove
 
 ## Related
 - [[summary-20260510 - How we solved Context Management in Agents — Sally-Ann Delucia]] — source
-- [[ContextManagement]] — parent discipline
+- [[Context Management]] — parent discipline
 - [[SmartTruncation]] — context strategy being evaluated
 - [[Evals]] — broader evaluation practice
 - [[ContextQuality]] — what long session evals measure
-- [[AgentMemory]] — long-term memory solutions that could reduce the need for long sessions
+- [[Agent Memory]] — long-term memory solutions that could reduce the need for long sessions

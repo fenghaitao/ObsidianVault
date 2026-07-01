@@ -25,5 +25,5 @@ Ably is a real-time messaging platform that provides SDKs and APIs for live and 
 - [[Durable Sessions]] — the pattern built on Ably channels
 - [[PubSub]] — the underlying messaging paradigm
 - [[Live Control]] — capability enabled by the platform
-- [[Server-Sent Events]] — the default protocol Ably's approach replaces
+- [[ServerSent Events]] — the default protocol Ably's approach replaces
 - [[summary-20260517 - Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Christensen, Ably]] — source

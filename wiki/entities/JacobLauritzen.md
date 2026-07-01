@@ -25,8 +25,8 @@ Jacob Lauritzen is the CTO of Legora, a vertical AI company building a collabora
 - [[Legora]] — company
 - [[JasonWarner]] — coined Verifier's Rule
 - [[VerifiersRule]] — core principle he uses
-- [[Agent-Human Collaboration]] — trust and control framework
-- [[High-Bandwidth Artifacts]] — proposed interface paradigm
+- [[AgentHuman Collaboration]] — trust and control framework
+- [[HighBandwidth Artifacts]] — proposed interface paradigm
 - [[Vertical AI]] — Legora's domain
 - [[Decision Log]] — non-blocking elicitation pattern
 - [[Skills]] — encoding human judgment into work nodes

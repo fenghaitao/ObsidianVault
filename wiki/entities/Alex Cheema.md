@@ -26,5 +26,5 @@ Alex Cheema is the co-founder and lead of EXO Labs, a research lab focused on ru
 - [[EXO]] — the distributed inference app
 - [[AndrejKarpathy]] — referenced "not your weights, not your brain"
 - [[Exocortex]] — the concept behind EXO's name
-- [[Full-Stack Co-Design]] — his core methodology
+- [[FullStack CoDesign]] — his core methodology
 - [[Heterogeneous Computing]] — key architectural approach

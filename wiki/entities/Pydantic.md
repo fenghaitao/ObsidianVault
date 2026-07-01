@@ -29,7 +29,7 @@ Pydantic is a Python library for data validation and settings management using t
 - [[Pydantic Logfire]] — observability platform
 - [[Pydantic Monty]] — code interpreter for untrusted Python
 - [[Structured Outputs]] — concept enabled by Pydantic
-- [[Evaluator-Optimizer Pattern]] — pattern using Pydantic for reviewer output
+- [[EvaluatorOptimizer Pattern]] — pattern using Pydantic for reviewer output
 - [[Managed Variables]] — Logfire feature using Pydantic models
 - [[Agent Optimization]] — optimization using Pydantic AI and GEPA
 - [[Paul Iusztin]] — presenter who used Pydantic in the workflow

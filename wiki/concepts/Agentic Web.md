@@ -26,6 +26,6 @@ The Agentic Web is the evolving paradigm where AI agents mediate how users brows
 - [[WebMCP]] — protocol for exposing web page functions to agents
 - [[Browser as Infinite Canvas]] — complementary thesis about the browser's capabilities
 - [[MCP Apps]] — mechanism for agentic UI chunks
-- [[ASA (Anti-Social Social Agent)]] — example of agent-mediated social media
+- [[ASA (AntiSocial Social Agent)]] — example of agent-mediated social media
 - [[Chat as Lowest Common Denominator]] — the UX problem the agentic web moves beyond
 - [[End of Apps]] — related vision of apps being replaced by composed UI chunks

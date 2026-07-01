@@ -22,6 +22,6 @@ Jack Wang is a practitioner at Accenture who works on deploying AI solutions at 
 - [[JessGroganAvignon]] — co-presenter
 - [[Accenture]] — employer
 - [[summary-20260528 - Most Enterprise Agentic Projects Are Doomed, Here's Why — Jess Grogan-Avignon & Jack Wang, Accenture]] — source talk
-- [[Hypothesis-Driven Delivery]] — delivery approach he advocated
+- [[HypothesisDriven Delivery]] — delivery approach he advocated
 - [[Governance as Engineering Problem]] — concept he emphasized
 - [[Enterprise Scaffolding]] — core concept from the talk

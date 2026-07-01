@@ -25,6 +25,6 @@ Representation Alignment is a technique for training generative models where an 
 - [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — source
 - [[Self Flow]] — approach that eliminates the need for representation alignment
 - [[DinoV2]] — commonly used encoder for this technique
-- [[Self-Supervised Representation Learning]] — alternative paradigm
+- [[SelfSupervised Representation Learning]] — alternative paradigm
 - [[DiffusionModels]] — models trained with this technique
 - [[Black Forest Labs]] — identified limitations

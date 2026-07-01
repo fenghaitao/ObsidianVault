@@ -23,6 +23,6 @@ Waterfall vs Loop contrasts two approaches to AI-driven development: pre-computi
 - [[Ralph Loop]] — the loop approach
 - [[ChrisParsons]] — discussed in his workshop
 - [[SpecificationDrivenDevelopment]] — the approach he critiques
-- [[Just-in-Time Specs]] — his preferred alternative
+- [[JustInTime Specs]] — his preferred alternative
 - [[Theory of Constraints]] — why parallelism often isn't the answer
 - [[summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick]] — source transcript

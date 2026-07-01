@@ -48,7 +48,7 @@ ElevenLabs is a text-to-speech and speech-to-text provider that builds on Stripe
 - [[VoiceEngine]] — wrapper product for adding voice to chat agents
 - [[Revolut]] — customer using ElevenLabs for customer support
 - [[Hybrid Pricing]] — pricing model used
-- [[Credit-Based Pricing]] — abstraction technique used
+- [[CreditBased Pricing]] — abstraction technique used
 - [[Stripe]] — billing platform
 - [[ManusAI]] — platform used to build the integration
 - [[Agent Sandbox]] — enables installing arbitrary packages

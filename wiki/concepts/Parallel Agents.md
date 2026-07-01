@@ -21,7 +21,7 @@ Parallel agents are multiple AI agents running concurrently to accomplish more w
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
 - [[Core Loop as Orchestrator]] — next evolution
-- [[Sub-agent Orchestration]] — related pattern
+- [[SubAgent Orchestration]] — related pattern
 - [[Agent Orchestration]] — broader practice using parallel agents
 - [[Autonomous Coding Agents]] — application domain
 - [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — source (context isolation strategy)

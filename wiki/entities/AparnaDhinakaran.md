@@ -17,6 +17,6 @@ Aparna Dhinakaran is a speaker and contributor at Arize, an AI observability and
 ## Related
 - [[Arize]] — the company she represents
 - [[PromptLearning]] — the technique she demonstrated
-- [[LLM-as-Judge]] — evaluation method central to her approach
+- [[LLMAsJudge]] — evaluation method central to her approach
 - [[EvalEngineering]] — practice she advocates for
 - [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — source

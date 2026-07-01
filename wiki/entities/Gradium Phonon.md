@@ -25,7 +25,7 @@ Gradium Phonon is an on-device text-to-speech (TTS) model from Gradium AI that r
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
 - [[Gradium AI]] — creator company
 - [[Neil Zeghidour]] — CEO
-- [[On-Device TTS]] — technology category
+- [[OnDevice TTS]] — technology category
 - [[Voice Cloning]] — key capability
 - [[Kokoro]] — competitor on-device model
 - [[Voice AI Cost]] — problem it addresses

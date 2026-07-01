@@ -56,7 +56,7 @@ Raj (Staff Software Engineer at IKEA) presents Demand-Driven Context, a methodol
 - [[TDD]] — analogy for the demand-driven approach (write failing tests first)
 
 ## Concepts
-- [[Demand-Driven Context]] — the core methodology: pull knowledge by giving agents problems, let them fail, surface gaps, fill them, curate
+- [[DemandDriven Context]] — the core methodology: pull knowledge by giving agents problems, let them fail, surface gaps, fill them, curate
 - [[Institutional Knowledge]] — domain knowledge within companies and people that agents lack; the "red" category
 - [[Knowledge Base Monolith]] — enterprise institutional knowledge as an undifferentiated monolith (20% outdated, 20% unreliable, 10% duplicated, 40% tribal)
 - [[Context Blocks]] — curated, agent-usable chunks of knowledge, analogous to microservices decomposed from a monolith
@@ -74,7 +74,7 @@ Raj (Staff Software Engineer at IKEA) presents Demand-Driven Context, a methodol
 - [[Agent Skills]] — teachable knowledge (the "orange" category); skills, rules, hooks used in the demo
 - [[AgenticLoop]] — the broader agent execution pattern
 - [[Context Management]] — managing what knowledge agents have access to
-- [[Agent-Human Collaboration]] — domain experts filling gaps surfaced by agent failures
+- [[AgentHuman Collaboration]] — domain experts filling gaps surfaced by agent failures
 - [[TDD with AI]] — the analogy: write failing tests (problems agents fail on), then implement (fill knowledge gaps)
 - [[Kanban Board for AI Tasks]] — documentation gap tracking board
 - [[KnowledgeGraph]] — retrieval technique; 40% factual accuracy

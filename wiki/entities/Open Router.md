@@ -18,5 +18,5 @@ Open Router is an API gateway that provides unified access to multiple LLM provi
 ## Related
 - [[Play Magnus]] — uses Open Router for model evaluation
 - [[Gemini 3 Flash]] — one of the models evaluated via Open Router
-- [[LLM-as-Judge]] — evaluation technique used with Open Router-routed models
+- [[LLMAsJudge]] — evaluation technique used with Open Router-routed models
 - [[summary-20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take]] — source

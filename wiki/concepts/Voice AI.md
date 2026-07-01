@@ -23,7 +23,7 @@ Voice AI is the domain of artificial intelligence focused on speech-based intera
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
 - [[Cascaded Systems (Voice)]] — dominant architecture
-- [[Speech-to-Speech Models]] — alternative architecture
+- [[SpeechToSpeech Models]] — alternative architecture
 - [[Full Duplex]] — key capability gap
 - [[Half Duplex]] — current limitation
 - [[Voice AI Cost]] — economic challenge

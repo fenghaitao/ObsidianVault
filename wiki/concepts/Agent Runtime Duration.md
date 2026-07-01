@@ -25,7 +25,7 @@ Agent Runtime Duration is the wall-clock time a coding agent spends executing a 
 
 ## Related
 - [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]] — source
-- [[Louis Knight-Webb]] — articulated the concept
+- [[Louis KnightWebb]] — articulated the concept
 - [[Agent Parallelism]] — the workflow response to increasing runtimes
 - [[Focus Maxing]] — the design principle for tools handling long runtimes
 - [[Plan and Review Shift]] — the broader paradigm shift enabled by longer runtimes

@@ -69,10 +69,10 @@ Stephen Batifol of Black Forest Labs presents the FLUX model family evolution, t
 - [[Flow Matching]] — standard training approach for generative models
 - [[Visual Intelligence]] — BFL's long-term vision
 - [[Physical AI]] — AI for robotics and automation
-- [[Multi-Reference Editing]] — editing with multiple input images simultaneously
+- [[MultiReference Editing]] — editing with multiple input images simultaneously
 - [[Interactive Editing]] — real-time editing capability
-- [[Multi-Modal Generation]] — joint generation of images, video, and audio
-- [[Self-Supervised Representation Learning]] — training without external encoders
+- [[MultiModal Generation]] — joint generation of images, video, and audio
+- [[SelfSupervised Representation Learning]] — training without external encoders
 - [[WorldModels]] — models that simulate world geometry and interactions
 - [[LatentDiffusion]] — foundational technique by the BFL team
 - [[Stable Diffusion]] — previous model by the BFL team

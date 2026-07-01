@@ -26,7 +26,7 @@ EXO is a macOS app developed by EXO Labs that runs in the background on each dev
 - [[EXO Labs]] — developer
 - [[Alex Cheema]] — co-founder
 - [[Tensor Parallelism]] — distribution technique
-- [[Event Sourcing]] — architectural pattern
+- [[EventSourcing]] — architectural pattern
 - [[RDMA]] — low-latency communication protocol
 - [[Tailscale]] — secure remote access
 - [[Heterogeneous Computing]] — key use case

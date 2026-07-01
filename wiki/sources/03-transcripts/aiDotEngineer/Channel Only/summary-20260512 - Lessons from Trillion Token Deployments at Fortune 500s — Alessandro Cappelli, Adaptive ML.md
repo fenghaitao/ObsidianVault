@@ -45,11 +45,11 @@ Alessandro Cappelli, co-founder and chief customer officer at Adaptive ML, argue
 - [[Mock User]] — using LLMs to simulate realistic users (including difficult ones) for agent training environments
 - [[Environment for RL Training]] — mock tools and users that create the training loop for RL-based agent development
 - [[Continuous Model Improvement]] — ongoing retraining and refinement driven by real feedback from production
-- [[Instruction Fine-Tuning vs RL]] — comparison of post-training techniques; RL is disproportionately more effective
+- [[Instruction FineTuning vs RL]] — comparison of post-training techniques; RL is disproportionately more effective
 - [[Agent Tokenomics]] — the heightened economic challenge of agents at scale (10x tokens vs summarization)
 - [[Model Lifecycle Acceleration]] — speeding up the evaluate-train-serve cycle through holistic RL platforms
-- [[Reinforcement Learning with LLMs]] — RL combined with LLMs for post-training
-- [[LLM-as-Judge]] — using LLMs to evaluate model outputs as part of the reward signal
+- [[ReinforcementLearningWithLLMs]] — RL combined with LLMs for post-training
+- [[LLMAsJudge]] — using LLMs to evaluate model outputs as part of the reward signal
 - [[Synthetic Data Generation]] — creating training data from RL environment trajectories
 
 ## Related

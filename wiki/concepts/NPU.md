@@ -23,9 +23,9 @@ NPU (Neural Processing Unit) is a specialized hardware accelerator for AI infere
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[AOT Compilation]] — required compilation approach
-- [[LiteRT-LM]] — runtime with NPU support
+- [[LiteRTLM]] — runtime with NPU support
 - [[Intel]] — NPU architecture (Cormac Brick's prior work)
 - [[Qualcomm]] — NPU hardware partner
 - [[MediaTek]] — NPU hardware partner
 - [[Cormac Brick]] — led Intel NPU architecture
-- [[Cross-platform deployment]] — JIT approach for CPU/GPU
+- [[CrossPlatform deployment]] — JIT approach for CPU/GPU

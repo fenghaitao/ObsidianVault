@@ -24,6 +24,6 @@ OpenHands is an MIT-licensed autonomous coding agent and orchestration platform 
 - [[RobertBrennan]] — co-founder and CEO
 - [[OpenDevin]] — original name of OpenHands
 - [[Agent Orchestration]] — core capability
-- [[Verifier-Fixer Pipeline]] — key SDK pattern
+- [[VerifierFixer Pipeline]] — key SDK pattern
 - [[Dependency Graph Refactoring]] — batching strategy
 - [[CVE Remediation at Scale]] — use case

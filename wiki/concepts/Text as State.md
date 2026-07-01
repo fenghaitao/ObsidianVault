@@ -23,8 +23,8 @@ Text as State is the paradigm shift where unstructured text and context replace 
 
 - [[summary-20260530 - Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind]] — source
 - [[PhilippSchmid]] — speaker
-- [[Context as Code]] — related concept: context as the programming medium
-- [[Context Engineering]] — the discipline of managing context as state
+- [[ContextAsCode]] — related concept: context as the programming medium
+- [[ContextEngineering]] — the discipline of managing context as state
 - [[Preserve Meaning]] — complementary principle: everything is context now
 - [[Semantic Understanding]] — the LLM capability that enables text as state
-- [[Non-Deterministic Agents]] — agents where state is fluid and interpreted
+- [[NonDeterministicAgents]] — agents where state is fluid and interpreted

@@ -27,7 +27,7 @@ Lawrence Jones is a founding engineer at incident.io, where he builds AI-powered
 - [[summary-20260517 - Fighting AI with AI — Lawrence Jones, Incident]] — primary source (talk transcript)
 - [[IncidentIo]] — company he co-founded
 - [[Eval Red Green Cycle]] — pattern he described
-- [[Agent-Ready Eval Tooling]] — CLI tool pattern from incident.io
+- [[AgentReady Eval Tooling]] — CLI tool pattern from incident.io
 - [[File System Downloads for Agent Debugging]] — debugging pattern from incident.io
 - [[AI Analysis Pipelines]] — analysis pattern from incident.io
 - [[Backtesting for AI Systems]] — evaluation pattern from incident.io

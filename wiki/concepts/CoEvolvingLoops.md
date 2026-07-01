@@ -19,6 +19,6 @@ Co-evolving loops are two parallel optimization cycles — one for agent prompts
 ## Related
 - [[PromptLearning]] — the agent optimization loop
 - [[EvalEngineering]] — the practice of optimizing eval prompts
-- [[LLM-as-Judge]] — the evaluation method used in both loops
+- [[LLMAsJudge]] — the evaluation method used in both loops
 - [[HumanAnnotationFeedback]] — feedback source for both loops
 - [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — source

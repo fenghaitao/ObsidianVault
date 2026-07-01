@@ -20,5 +20,5 @@ A mock user is an LLM-based simulation of a real user, used in RL training envir
 - [[Environment for RL Training]] — the broader training setup that includes mock users
 - [[Rejection Sampling for Bootstrapping]] — mock users help generate trajectories for data creation
 - [[CCS]] — customer using mock users trained on real medical supply call transcripts
-- [[Reinforcement Learning with LLMs]] — the training technique that uses mock users
+- [[ReinforcementLearningWithLLMs]] — the training technique that uses mock users
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

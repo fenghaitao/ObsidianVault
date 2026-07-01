@@ -35,7 +35,7 @@ Codex is OpenAI's open-source coding agent CLI. It uses a master while-loop arch
 - [[summary-20260417 - Harness Engineering： How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI]] — source
 - [[RyanLopopolo]] — uses Codex as primary coding agent
 - [[Harness Engineering]] — discipline built around Codex
-- [[Auto-compaction]] — improved in GPT 5.4 for Codex
+- [[AutoCompaction]] — improved in GPT 5.4 for Codex
 - [[GPT 5.2]] — model that made Codex capable of full software engineering
 - [[Paperclip]] — agent orchestrator supporting Codex as an employee agent
 - [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — source

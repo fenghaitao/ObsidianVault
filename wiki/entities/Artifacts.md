@@ -22,7 +22,7 @@ Artifacts is an Anthropic product feature that separates the content Claude prod
 ## Related
 - [[Anthropic]] — creator
 - [[Claude 3.5 Sonnet]] — model that makes Artifacts powerful
-- [[Alex Albert]] — presented this feature
+- [[AlexAlbert]] — presented this feature
 - [[AIAdoptionPatterns]] — Artifacts as an example of AI-first product design
 - [[Figma]] — design tool with direct integration workflow
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source

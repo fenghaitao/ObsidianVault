@@ -20,5 +20,5 @@ Anant Dole is an engineer at Play Magnus (Take Take Take) who co-presented "Buil
 - [[Play Magnus]] — his employer
 - [[Asbjorn Steinskog]] — co-presenter
 - [[Magnus Carlsen]] — founder of his company
-- [[Latency vs Quality Trade-offs]] — section he presented
+- [[Latency vs Quality TradeOffs]] — section he presented
 - [[summary-20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take]] — source

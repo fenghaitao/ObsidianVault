@@ -26,7 +26,7 @@ Hugo Santos is the CEO and co-founder of Namespace, a company building high-perf
 - [[MadisonFaulkner]] — co-presenter
 - [[Google]] — former employer
 - [[Continuous Compute]] — paradigm he advocates
-- [[Pre-merge Queue]] — architectural component he proposes
+- [[PreMerge Queue]] — architectural component he proposes
 - [[Git Ledger]] — conceptual model he uses
 - [[The Multiverse (agent development)]] — future state he predicts
 - [[Stateful Development Environment]] — key requirement he identifies

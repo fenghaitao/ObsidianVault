@@ -26,7 +26,7 @@ Latent diffusion is a two-stage approach to generative modeling where data is fi
 - [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — source
 - [[DiffusionModels]] — generative modeling paradigm
 - [[Autoencoders]] — compression mechanism
-- [[EQ-VAE]] — paper on improving autoencoder training
+- [[EQVAE]] — paper on improving autoencoder training
 - [[Stable Diffusion]] — canonical example
 - [[Veo]] — video latent diffusion model
 - [[NanoBanana]] — image latent diffusion model

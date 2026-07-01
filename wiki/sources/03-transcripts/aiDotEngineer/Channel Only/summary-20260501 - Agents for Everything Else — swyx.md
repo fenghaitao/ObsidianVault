@@ -28,7 +28,7 @@ swyx presents how the AI Engineer conference team (a 9-person tiny team running 
 - [[Devin]] — AI coding agent from Cognition, used extensively
 - [[Cognition]] — company behind Devin; swyx joined them
 - [[Coworker]] — tool used to hook Devin up to Figma
-- [[SteveRuiz]] — creator of TLDraw, mentioned for red-line annotation workflow
+- [[Steve Ruiz]] — creator of TLDraw, mentioned for red-line annotation workflow
 - [[BenLear]] — co-founder of AI Engineer alongside swyx
 - [[aiDotEngineer]] — the AI Engineer conference organization
 - [[Figma]] — design tool, source for Devin website generation
@@ -43,7 +43,7 @@ swyx presents how the AI Engineer conference team (a 9-person tiny team running 
 - [[TinyTeam]] — teams with more millions in revenue than employees
 - [[YakShaving]] — dependency tree crawling that agents eliminate
 - [[AgentsForEverythingElse]] — expanding agents beyond coding to all knowledge work
-- [[AgentExperience]] — designing for agent users, not human users
+- [[Agent Experience]] — designing for agent users, not human users
 - [[AIReplacingSaaS]] — building replacements for SaaS tools with agents
 - [[AIPsychosis]] — extreme belief in AI capabilities; managing the gap between believers and skeptics
 - [[ServerlessDevelopers]] — non-technical team members enabled to code via agents

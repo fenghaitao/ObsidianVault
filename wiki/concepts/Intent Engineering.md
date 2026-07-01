@@ -24,7 +24,7 @@ Intent engineering is the emerging paradigm (2025+) where AI agents self-optimiz
 - [[summary-20260512 - Malleable Evals： Why Are We Evaluating Adaptive Systems with Static Tests — Vincent Koc, OpenClaw]] — primary source
 - [[VincentKoc]] — originator of the framing
 - [[Malleable Evals]] — evaluation methodology for intent-engineered systems
-- [[Intent-Based Outcomes]] — evaluation approach derived from intent engineering
+- [[IntentBased Outcomes]] — evaluation approach derived from intent engineering
 - [[OpenClaw]] — agent harness exemplifying intent-driven adaptation
 - [[ContextEngineering]] — preceding paradigm
-- [[PromptEngineering]] — earlier paradigm
+- [[Prompt Engineering]] — earlier paradigm

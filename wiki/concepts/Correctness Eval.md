@@ -21,7 +21,7 @@ A correctness eval checks whether an AI agent's response is factually accurate, 
 
 ## Related
 - [[Faithfulness Eval]] — complementary eval for grounding in source material
-- [[LLM-as-Judge]] — the evaluation technique used
+- [[LLMAsJudge]] — the evaluation technique used
 - [[Phoenix]] — platform providing built-in correctness eval
-- [[Meta-Evaluation]] — validating eval accuracy
+- [[MetaEvaluation]] — validating eval accuracy
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source

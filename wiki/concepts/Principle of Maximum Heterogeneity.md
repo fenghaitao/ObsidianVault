@@ -22,5 +22,5 @@ The Principle of Maximum Heterogeneity is a mathematical formalization by [[Call
 - [[Heterogeneous Intelligence]] — the paradigm grounded by this principle
 - [[Homogeneous Intelligence]] — the paradigm proven suboptimal
 - [[Callosum]] — company that formalized the principle
-- [[Multi-Agent Systems]] — the agent topology this applies to
+- [[MultiAgent Systems]] — the agent topology this applies to
 - [[summary-20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum]] — source

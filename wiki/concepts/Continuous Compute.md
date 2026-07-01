@@ -25,7 +25,7 @@ Continuous Compute is the proposed successor to traditional CI/CD for agentic so
 
 ## Related
 - [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — source
-- [[Pre-merge Queue]] — serialization mechanism for Continuous Compute
+- [[PreMerge Queue]] — serialization mechanism for Continuous Compute
 - [[AgentHarness]] — the loop that executes Continuous Compute
 - [[Stateful Development Environment]] — prerequisite for Continuous Compute speed
 - [[Internal Validation]] — validation within the Continuous Compute loop

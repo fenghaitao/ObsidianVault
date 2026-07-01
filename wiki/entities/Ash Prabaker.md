@@ -24,10 +24,10 @@ Ash Prabaker is an engineer on Anthropic's Applied AI team who presented the gen
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
 - [[Andrew Wilson]] — co-presenter
 - [[Anthropic]] — company
-- [[Generator-Evaluator Pattern]] — core harness pattern presented
-- [[Self-Evaluation Trap]] — key warning
+- [[GeneratorEvaluator Pattern]] — core harness pattern presented
+- [[SelfEvaluation Trap]] — key warning
 - [[Contract Negotiation]] — generator-evaluator contract mechanism
-- [[Rubric-Based Evaluation]] — four-criteria grading framework
+- [[RubricBased Evaluation]] — four-criteria grading framework
 - [[Trace Reading]] — debugging methodology emphasized
 - [[File System as Shared State]] — inter-agent communication pattern
 - [[Context Anxiety]] — model behavior discussed

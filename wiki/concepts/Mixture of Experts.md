@@ -19,6 +19,6 @@ Mixture of Experts (MoE) is a model architecture that replaces large dense model
 
 ## Related
 - [[Heterogeneous Intelligence]] — the broader paradigm shift MoE is part of
-- [[Multi-Agent Systems]] — workflow-level heterogeneity
-- [[Prefill-Decode Disaggregation]] — hardware-level heterogeneity
+- [[MultiAgent Systems]] — workflow-level heterogeneity
+- [[PrefillDecode Disaggregation]] — hardware-level heterogeneity
 - [[summary-20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum]] — source

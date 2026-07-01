@@ -29,4 +29,4 @@ Agentic Workflows are autonomous task execution patterns where AI models indepen
 - [[AmazonBedrock]] — platform for building agents
 - [[Anthropic]] — Claude models used in agent demos
 - [[Function Calling]] — core capability for agentic workflows
-- [[Demand-Driven Context]] — a knowledge-improvement agentic workflow
+- [[DemandDriven Context]] — a knowledge-improvement agentic workflow

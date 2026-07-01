@@ -25,7 +25,7 @@ Ian Ballantyne is a developer relations engineer at Google DeepMind. He presents
 - [[KP Sawhney]] — co-presenter
 - [[Antigravity]] — agentic IDE he demos
 - [[AgentHarness]] — platform concept
-- [[ComputerUse]] — browser control capability
+- [[Computer Use]] — browser control capability
 - [[AgentToAgentCommunication]] — future collaboration vision
 - [[Model Tiering]] — seamless model fallback concept
 - [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — source

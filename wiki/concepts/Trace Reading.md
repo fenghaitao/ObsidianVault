@@ -23,8 +23,8 @@ Trace Reading is the primary debugging methodology for agent harnesses: manually
 ## Related
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
 - [[Agent Debuggability]] — broader concept of debugging agents
-- [[Agent Observability]] — related infrastructure for understanding agent behavior
-- [[Generator-Evaluator Pattern]] — harness pattern debugged via trace reading
+- [[AgentObservability]] — related infrastructure for understanding agent behavior
+- [[GeneratorEvaluator Pattern]] — harness pattern debugged via trace reading
 - [[Harness Evolution]] — trace reading informs what to simplify
-- [[Self-Evaluation Trap]] — behavior identified through trace reading
+- [[SelfEvaluation Trap]] — behavior identified through trace reading
 - [[Empathetic Debugging]] — the mindset required

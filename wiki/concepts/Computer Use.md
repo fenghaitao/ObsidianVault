@@ -24,7 +24,7 @@ Computer Use is an AI capability, debuted by Anthropic, that enables AI models t
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
 - [[Anthropic]] — company that debuted computer use
 - [[Devin]] — AI coding tool using computer use capabilities
-- [[Browser-based Autonomous Testing]] — parent concept
+- [[BrowserBased Autonomous Testing]] — parent concept
 - [[Browser Use]] — alternative approach
 - [[CodeSlop]] — computer use can both produce and fight this
 - [[SubAgents]] — related agent-based approach

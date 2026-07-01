@@ -25,7 +25,7 @@ Tribal Knowledge is information about a software system — its requirements, de
 - [[AICodingAgents]] — systems that cannot access tribal knowledge
 - [[DeveloperExperience]] — field concerned with knowledge management
 - [[NoRegretsInvestments]] — documenting tribal knowledge as a no-regrets investment
-- [[Demand-Driven Context]] — methodology for surfacing tribal knowledge
+- [[DemandDriven Context]] — methodology for surfacing tribal knowledge
 - [[Agent Failure as Discovery]] — using failures to surface tribal knowledge
 - [[Knowledge Base Monolith]] — tribal knowledge is 40% of the monolith
 - [[Institutional Knowledge]] — broader category containing tribal knowledge

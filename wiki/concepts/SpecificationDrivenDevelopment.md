@@ -26,7 +26,7 @@ Specification-driven development is a paradigm shift from traditional coding whe
 ### Closing the Validation Loop with BDD
 
 - A key gap in spec-driven development is validation: the spec describes how something should work, but how do you know it actually works that way?
-- [[Behavior-Driven Development (BDD)]] with [[Cucumber]] closes this loop by providing executable, readable specifications that can be validated automatically
+- [[BehaviorDriven Development (BDD)]] with [[Cucumber]] closes this loop by providing executable, readable specifications that can be validated automatically
 - BDD scenarios connect directly to PRDs and critical user journeys, providing traceability from requirements to validation
 - "One thing harder than reading AI code is reading AI tests" — BDD scenarios are easier to review than traditional test code
 
@@ -45,7 +45,7 @@ Specification-driven development is a paradigm shift from traditional coding whe
 - [[NeurosymbolicReasoning]] — backend strategy in Kiro
 - [[SpecAsLivingDocumentation]] — Kiro's approach to evolving specs
 - [[Vibe Engineering]] — uses spec-driven development with markdown plans
-- [[Behavior-Driven Development (BDD)]] — closes the validation loop
+- [[BehaviorDriven Development (BDD)]] — closes the validation loop
 - [[Executable Specifications]] — BDD output that validates specs
 - [[Cucumber]] — BDD tool for executable specifications
 - [[Decision Capture Loop]] — the enforcement loop that validates specs

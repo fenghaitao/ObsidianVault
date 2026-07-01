@@ -20,7 +20,7 @@ Voice AI Cost refers to the economic challenge of running voice AI at consumer s
 
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
-- [[On-Device TTS]] — proposed solution
+- [[OnDevice TTS]] — proposed solution
 - [[Gradium Phonon]] — implementation of on-device TTS
 - [[Voice AI]] — parent domain
 - [[TTS]] — the dominant cost driver

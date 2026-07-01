@@ -29,5 +29,5 @@ LLM Code Quality Evaluation is the practice of assessing LLM-generated code acro
 - [[Code Verbosity]] — evaluation dimension
 - [[Code Security]] — evaluation dimension
 - [[Mixed Quality Training Data]] — root cause of quality issues
-- [[SWE-bench]] — traditional benchmark (functional correctness only)
+- [[SWEBench]] — traditional benchmark (functional correctness only)
 - [[Model Evaluation]] — broader evaluation concept

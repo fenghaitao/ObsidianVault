@@ -26,7 +26,7 @@ AI Studio (ai.dev, ai.studio, aistudio.google.com) is Google's free web-based pl
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[Gemini 3.1 Pro]] — model available
 - [[Gemma 4]] — open model available
 - [[Firebase]] — authentication integration

@@ -25,7 +25,7 @@ Mistral AI is a frontier AI research company and foundation model provider. Foun
 - [[Samuel Humeau]] — AI scientist who presented the TTS model
 - [[AmazonBedrock]]
 - [[Foundation Models]]
-- [[Text-to-Speech Architecture]] — architecture pattern described by Mistral
+- [[TextToSpeech Architecture]] — architecture pattern described by Mistral
 - [[Flow Matching]] — technique used in Mistral's TTS model
 - [[Audio Codec]] — neural audio compression used in the model
 - [[Voice Cloning]] — capability of the TTS model

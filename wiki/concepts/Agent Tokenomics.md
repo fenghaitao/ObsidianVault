@@ -18,7 +18,7 @@ Agent tokenomics refers to the heightened cost economics of running AI agents at
 
 ## Related
 - [[Tokenomics]] — the general concept that agent tokenomics amplifies
-- [[Reinforcement Learning with LLMs]] — the technique that makes agent economics viable
+- [[ReinforcementLearningWithLLMs]] — the technique that makes agent economics viable
 - [[Environment for RL Training]] — the training setup for agent-specific RL
 - [[Myth of the Last Mile]] — the production challenge agents make harder
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

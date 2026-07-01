@@ -55,7 +55,7 @@ Mike Christensen (Staff Engineer at Ably) argues that the default direct HTTP st
 - [[Ably]] — company and platform
 - [[Durable Sessions]] — the core architectural pattern
 - [[Live Control]] — bidirectional agent interaction capability
-- [[Server-Sent Events]] — the default streaming protocol and its limitations
+- [[ServerSent Events]] — the default streaming protocol and its limitations
 - [[ResumableStreams]] — the resumability problem and solutions
 - [[PubSub]] — the underlying messaging pattern
 - [[aiDotEngineer]] — conference

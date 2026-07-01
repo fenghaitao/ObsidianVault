@@ -22,6 +22,6 @@ Nested Context is Kitze's design pattern in Wolfer where hierarchical topic tree
 - [[summary-20260423 - The End of Apps — Kitze, Sizzy.co]] — source
 - [[Wolfer]] — implementation
 - [[Kitze]] — designer
-- [[AgentMemory]] — the approach Nested Context replaces
+- [[Agent Memory]] — the approach Nested Context replaces
 - [[ContextEngineering]] — broader discipline
-- [[AgentSpecialization]] — related multi-agent pattern
+- [[Agent Specialization]] — related multi-agent pattern

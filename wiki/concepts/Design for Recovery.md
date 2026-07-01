@@ -24,9 +24,9 @@ Design for Recovery is the principle that agent systems must be built to recover
 
 - [[summary-20260530 - Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind]] — source
 - [[PhilippSchmid]] — speaker
-- [[Errors as Prompts]] — related concept: error messages as guidance for the model
+- [[ErrorsAsPrompts]] — related concept: error messages as guidance for the model
 - [[DurableAgents]] — related concept: agents that survive failures
 - [[DurableAgenticLoop]] — Temporal-based approach to durable agent loops
 - [[Circuit Breaker Pattern]] — related resilience pattern
 - [[Agent Robustness Testing]] — testing recovery paths
-- [[Self-healing Agents]] — agents that fix their own failures
+- [[SelfHealing Agents]] — agents that fix their own failures

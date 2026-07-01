@@ -11,7 +11,7 @@ Ibragim Badertdinov is a researcher at Nebius who leads the SWE-rebench coding a
 
 ## Key Information
 - Researcher at [[Nebius]], working on coding agent evaluation
-- Creator and maintainer of [[SWE-rebench]], a monthly-refreshed coding agent leaderboard
+- Creator and maintainer of [[SWERebench]], a monthly-refreshed coding agent leaderboard
 - Former dentist — has papers on NeurIPS and ICML about RL and test-time scaling alongside dentistry publications
 - Draws parallels between dental pain and infrastructure pain: "both will not let you sleep at night"
 - Published on Google Scholar spanning both AI (RL, test-time scaling) and medical domains
@@ -21,5 +21,5 @@ Ibragim Badertdinov is a researcher at Nebius who leads the SWE-rebench coding a
 
 ## Related
 - [[Nebius]] — employer
-- [[SWE-rebench]] — leaderboard he created and maintains
+- [[SWERebench]] — leaderboard he created and maintains
 - [[summary-20260604 - SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius]] — source transcript

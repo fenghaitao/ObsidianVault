@@ -91,16 +91,16 @@ Rishabh Bhargava, leader of the voice AI team at Together AI, delivers a compreh
 - [[Turn Detection]] — detecting end-of-speaker-turn
 - [[Streaming ASR]] — streaming-native speech-to-text architectures
 - [[Time to First Audio]] — TTS latency metric
-- [[Real-Time Factor]] — TTS throughput metric
-- [[Co-location (Voice AI)]] — reducing network latency by placing models together
+- [[RealTime Factor]] — TTS throughput metric
+- [[CoLocation (Voice AI)]] — reducing network latency by placing models together
 - [[Auto Scaling for Voice Agents]] — scaling with stateful connections
-- [[Thinker-Talker Pattern]] — small/large LLM pattern for guardrails
-- [[Voice-to-Function Calling]] — evals for voice agents with tool calling
-- [[Speech-to-Speech Models]] — next-generation single-model architecture
+- [[ThinkerTalker Pattern]] — small/large LLM pattern for guardrails
+- [[VoiceToFunction Calling]] — evals for voice agents with tool calling
+- [[SpeechToSpeech Models]] — next-generation single-model architecture
 - [[Voice Agents]] — the overall domain
 - [[Cascaded Systems (Voice)]] — the STT→LLM→TTS architectural pattern
 - [[Full Duplex]] — bidirectional simultaneous audio
-- [[Tool Calling]] — LLM function calling capability
+- [[ToolCalling]] — LLM function calling capability
 - [[aiDotEngineer]] — event host
 - [[Nvidia]] — published streaming ASR model and Voice Chat
 - [[OpenAI]] — real-time API and advanced voice mode

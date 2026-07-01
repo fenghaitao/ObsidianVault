@@ -96,7 +96,7 @@ Brian Scanlan, Senior Principal Engineer at Intercom, presents how Intercom's "2
 - [[Model Anxiety]] — fear of missing out on different models
 - [[Backtesting Agent Skills]] — validating skills against historical data
 - [[Engineering AI Maturity Model]] — levels of AI adoption for engineers
-- [[Agent-First Software Development]] — everything the agent must be able to do
+- [[AgentFirst Software Development]] — everything the agent must be able to do
 - [[Agent Skills]] — Intercom's approach to durable skills
 - [[DeveloperProductivityMeasurement]] — code changes per R&D person metric
 - [[GoodhartsLaw]] — acknowledged limitation of the chosen metric

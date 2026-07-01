@@ -62,8 +62,8 @@ Andres (Andy) Marafioti, lead of multimodal research at Hugging Face, presents t
 - [[Coqui]] — TTS model provider (Coqui 3, Coqui 3.5 27B)
 - [[Open Source Robotics]] — the movement Reachy Mini represents
 - [[Voice Agents]] — primary interaction paradigm
-- [[Speech-to-Speech Pipeline]] — Hugging Face's open-source pipeline
-- [[Real-Time Factor]] — TTS performance metric
+- [[SpeechToSpeech Pipeline]] — Hugging Face's open-source pipeline
+- [[RealTime Factor]] — TTS performance metric
 - [[Time to First Audio]] — latency metric for voice systems
 - [[CUDA Graph Capture]] — optimization technique for TTS acceleration
 - [[KV Cache]] — static vs dynamic for inference speed

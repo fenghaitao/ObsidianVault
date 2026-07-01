@@ -27,7 +27,7 @@ Ido Salomon is the creator of AgentCraft, an agent orchestrator that applies gam
 - [[AgentCraft]] — agent orchestrator he created
 - [[MCI]] — Model Context Interface, also created by Ido
 - [[MC apps]] — also created/co-maintained by Ido
-- [[RTS-Inspired Agent Orchestration]] — the paradigm behind AgentCraft
+- [[RTSInspired Agent Orchestration]] — the paradigm behind AgentCraft
 - [[Agent Campaigns]] — AgentCraft feature
 - [[Agent Workspaces]] — AgentCraft collaboration feature
 - [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]] — source transcript

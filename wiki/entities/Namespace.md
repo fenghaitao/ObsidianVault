@@ -23,6 +23,6 @@ Namespace is a company building high-performance compute infrastructure designed
 - [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — source
 - [[HugoSantos]] — founder and CEO
 - [[Continuous Compute]] — paradigm the company enables
-- [[Pre-merge Queue]] — architectural component
+- [[PreMerge Queue]] — architectural component
 - [[Stateful Development Environment]] — infrastructure requirement
-- [[Hardware-Software Co-design for Caching]] — technical approach
+- [[HardwareSoftware CoDesign for Caching]] — technical approach

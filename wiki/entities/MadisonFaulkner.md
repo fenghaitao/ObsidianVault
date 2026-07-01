@@ -27,4 +27,4 @@ Madison Faulkner is a Partner at NEA (New Enterprise Associates) investing in in
 - [[Meta]] — former employer
 - [[MitchellHashimoto]] — referenced expert
 - [[Microservices with Agents]] — architectural evolution she describes
-- [[Hardware-Software Co-design for Caching]] — infrastructure approach she advocates
+- [[HardwareSoftware CoDesign for Caching]] — infrastructure approach she advocates

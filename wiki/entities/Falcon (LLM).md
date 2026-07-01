@@ -18,5 +18,5 @@ Falcon is an open-source large language model that was one of the most widely ad
 ## Related
 - [[Adaptive ML]] — company founded by the Falcon training team
 - [[Alessandro Cappelli]] — team member who trained Falcon
-- [[Reinforcement Learning with LLMs]] — the gap identified from the Falcon experience
+- [[ReinforcementLearningWithLLMs]] — the gap identified from the Falcon experience
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

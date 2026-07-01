@@ -27,5 +27,5 @@ Agent Proactivity is the capability of an AI agent to autonomously join conversa
 - [[Company Agent]] — agent type that can monitor company channels for proactivity opportunities
 - [[AgentPersonality]] — proactivity must be delivered with the right tone to be welcomed
 - [[Context Isolation]] — proactivity must respect channel and team boundaries
-- [[Agent-Human Collaboration]] — proactivity as a collaboration initiation mechanism
+- [[AgentHuman Collaboration]] — proactivity as a collaboration initiation mechanism
 - [[summary-20260511 - Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski]] — source

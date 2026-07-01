@@ -27,6 +27,6 @@ Flux is the model family from Black Forest Labs, spanning text-to-image generati
 - [[Self Flow]] — next-generation training approach for future Flux models
 - [[DiffusionModels]] — underlying paradigm
 - [[Representation Alignment]] — technique used in training
-- [[Multi-Reference Editing]] — key Flux 2 capability
+- [[MultiReference Editing]] — key Flux 2 capability
 - [[Interactive Editing]] — Klein's core capability
 - [[HuggingFace]] — platform where Flux 1 was most liked

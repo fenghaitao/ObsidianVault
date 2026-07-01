@@ -39,17 +39,17 @@ Samuel Colvin, creator of Pydantic, presents a live workshop on agent optimizati
 - [[AI Observability]] — observability for AI systems
 - [[Agentic Optimization]] — autonomous agent improvement
 - [[PromptOptimization]] — iterative prompt improvement
-- [[LLM-as-Judge]] — evaluation technique critiqued in the talk
+- [[LLMAsJudge]] — evaluation technique critiqued in the talk
 - [[Structured Outputs]] — pattern used for MP relation extraction
 - [[OnlineEvals]] — production evaluation
 - [[OfflineEvals]] — pre-production evaluation
 - [[EvalEngineering]] — crafting effective evaluations
 - [[EvalPlatforms]] — platforms for running evals
-- [[Evaluator-Optimizer Pattern]] — pattern for agent improvement
+- [[EvaluatorOptimizer Pattern]] — pattern for agent improvement
 - [[EvalFlywheel]] — continuous improvement loop
 - [[OverfittingAsExpertise]] — domain specialization as a feature
 - [[ModelTransferability]] — optimization is model-specific
-- [[Self-Improving Agents]] — agents that improve over time
+- [[SelfImproving Agents]] — agents that improve over time
 - [[Feedback Loops as AI Speed Limit]] — feedback as bottleneck
 - [[Model Rot]] — models degrading over time
 - [[Jeba]] — related prompt optimization technique

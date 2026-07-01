@@ -25,9 +25,9 @@ Function Gemma is a 270 million parameter model from Google DeepMind, purpose-bu
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[Gemma]] — model family
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[Tiny LLMs]] — model category
 - [[Function Calling]] — core capability
 - [[FineTuning]] — required for production use
-- [[Voice-to-Function Calling]] — key use case
+- [[VoiceToFunction Calling]] — key use case
 - [[AI Edge Gallery]] — app where derivatives can be tested

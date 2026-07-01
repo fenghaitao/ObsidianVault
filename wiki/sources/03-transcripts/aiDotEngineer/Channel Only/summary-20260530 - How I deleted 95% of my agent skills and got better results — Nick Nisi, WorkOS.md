@@ -39,7 +39,7 @@ Nick Nisi, DX engineer at WorkOS, describes his journey building AI agent system
 - [[Harness Engineering]] — the discipline Case embodies
 - [[Enforce Dont Instruct]] — core principle
 - [[Guide Dont Prescribe]] — core principle
-- [[Evidence-Based Verification]] — replacing trust with proof
+- [[EvidenceBased Verification]] — replacing trust with proof
 - [[Cryptographic Proof in Agents]] — SHA-256 test verification
 - [[State Machine Gates]] — checks between agent stages
 - [[Retrospective Agent]] — self-improving memory system

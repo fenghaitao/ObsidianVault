@@ -27,5 +27,5 @@ The Engineering AI Maturity Model describes the progression of engineers in adop
 - [[BrianScanlan]] — developed at Intercom under his leadership
 - [[Agent Skills]] — the core skill at higher maturity levels
 - [[Skills Flywheel]] — the improvement mechanism at higher levels
-- [[Agent-First Software Development]] — the mindset at the highest level
+- [[AgentFirst Software Development]] — the mindset at the highest level
 - [[Doubling Engineering Throughput]] — the outcome enabled by maturity progression

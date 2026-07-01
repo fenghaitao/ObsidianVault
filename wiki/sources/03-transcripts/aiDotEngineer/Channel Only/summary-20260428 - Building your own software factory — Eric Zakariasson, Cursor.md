@@ -65,7 +65,7 @@ Eric Zakariasson, an engineer at Cursor working on developer experience, present
 
 - [[SoftwareFactory]] — Autonomous software development system with assembly lines of AI agents
 - [[LevelsOfAutonomy]] — Dan Shapiro's six-stage framework for AI coding autonomy
-- [[DarkFactory]] — Level 6 autonomy: black box where agents ship, test, and build autonomously
+- [[Dark Factory]] — Level 6 autonomy: black box where agents ship, test, and build autonomously
 - [[PrimitivesAndPatterns]] — Codebase structures and conventions that make agent work easier
 - [[Guardrails]] — Rules, hooks, and checks constraining agent behavior in a software factory
 - [[CursorRules]] — Dynamic rules emerging from agent failures, acting as SOPs for agent behavior

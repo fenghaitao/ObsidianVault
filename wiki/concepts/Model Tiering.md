@@ -21,8 +21,8 @@ Model Tiering is the practice of mixing and matching AI models of different capa
 - [[Agent Quota Management]] — the problem model tiering helps solve
 - [[Tokenomics]] — the economic motivation for tiering
 - [[Gemma4]] — the "free tier" model for agent components
-- [[HybridInference]] — related concept of mixing inference providers
+- [[Hybrid Inference]] — related concept of mixing inference providers
 - [[Local Models for Agents]] — running models locally for agents
-- [[Credit-Based Pricing]] — pricing model that enables tiering
+- [[CreditBased Pricing]] — pricing model that enables tiering
 - [[AgentHarness]] — the harness must support model switching
 - [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — source

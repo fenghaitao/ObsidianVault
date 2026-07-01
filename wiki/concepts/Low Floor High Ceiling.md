@@ -23,7 +23,7 @@ Low Floor High Ceiling is a tool curation strategy for AI agents, borrowed from 
 
 - [[summary-20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic]] — source transcript
 - [[Agentic Search]] — the context where this strategy applies
-- [[Tool Curation]] — related practice of selecting the right tools
+- [[ToolCuration]] — related practice of selecting the right tools
 - [[Tool Description]] — critical for making tools accessible (low floor)
 - [[Shell Tool]] — the quintessential high-ceiling tool
 - [[Elastic]] — organization advocating this approach

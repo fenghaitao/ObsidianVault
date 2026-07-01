@@ -28,7 +28,7 @@ Eric Allam, CEO of Trigger.dev, presents two fundamental approaches to building 
 ## Related
 
 - [[Eric Allam]] — speaker, CEO of Trigger.dev
-- [[Trigger.dev]] — company building durable agent infrastructure
+- [[TriggerDev]] — company building durable agent infrastructure
 - [[Replay Model]] — traditional durable execution via event sourcing
 - [[Snapshot and Restore]] — VM-level checkpoint/restore for execution durability
 - [[Context Log]] — append-only log of LLM interactions

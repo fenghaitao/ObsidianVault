@@ -87,7 +87,7 @@ Chris Parsons delivers a 2-hour workshop on Ralph loops — simple iterative AI 
 - [[Zettelkasten]] — one-note-per-thought knowledge management
 - [[Mem Palace]] — Mina Jovovich's knowledge management approach
 - [[Confirmation Bias in Agents]] — agents validating their own work
-- [[Just-in-Time Specs]] — spec approach vs waterfall
+- [[JustInTime Specs]] — spec approach vs waterfall
 - [[Waterfall vs Loop]] — contrasting planning approaches
 - [[Theory of Constraints]] — Eliyahu Goldratt's bottleneck theory
 - [[Context Rot]] — context degradation in long-running sessions

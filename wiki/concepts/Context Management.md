@@ -33,7 +33,7 @@ Context management is the third pillar of Replit's autonomy framework, referring
 - [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — source (tool curation for context)
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[Three Pillars of Autonomy]] — parent framework
-- [[Sub-agent Orchestration]] — key technique
+- [[SubAgent Orchestration]] — key technique
 - [[Autonomous Coding Agents]] — application domain
 - [[ManusAI]] — platform with unlimited context management
 - [[Agent Memory]] — related concept for persistent user context
@@ -45,8 +45,8 @@ Context management is the third pillar of Replit's autonomy framework, referring
 - [[Context Sharing Between Agents]] — strategies for sharing context across parallel agents
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (context rot as a failure mode of long-running agents)
 - [[Context Rot]] — failure mode where context degrades after extended operation, signaled by compaction
-- [[High-Bandwidth Artifacts]] — persistent interfaces that mitigate context rot by not depending on linear chat context
-- [[Demand-Driven Context]] — context management applied to institutional knowledge
+- [[HighBandwidth Artifacts]] — persistent interfaces that mitigate context rot by not depending on linear chat context
+- [[DemandDriven Context]] — context management applied to institutional knowledge
 - [[Context Blocks]] — curated knowledge chunks as context management output
 - [[Knowledge Base Monolith]] — what context management decomposes
 - [[SmartTruncation]] — head+tail truncation with memory store retrieval

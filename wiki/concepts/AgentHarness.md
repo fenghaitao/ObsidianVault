@@ -40,8 +40,8 @@ An agent harness is the runtime framework that manages AI agent execution: tool 
 - [[EventSourcing]] — core architectural pattern
 - [[StreamProcessing]] — plugin model
 - [[Iterate]] — company building event-sourced harnesses
-- [[ServerSentEvents]] — SSE for streaming
+- [[ServerSent Events]] — SSE for streaming
 - [[TejasKumar]] — defined the six-component model
 - [[Guardrails]] — key harness component
 - [[AgentLoop]] — key harness component
-- [[ContextManagement]] — key harness component
+- [[Context Management]] — key harness component

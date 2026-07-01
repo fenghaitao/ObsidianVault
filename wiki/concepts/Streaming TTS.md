@@ -24,11 +24,11 @@ Streaming TTS (text-to-speech) is a low-latency speech synthesis approach where 
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source
 - [[Coqui]] — TTS model that gained streaming capability
-- [[Real-Time Factor]] — metric improved by streaming
+- [[RealTime Factor]] — metric improved by streaming
 - [[CUDA Graph Capture]] — companion optimization
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source
 - [[Coqui]] — TTS model that gained streaming capability
-- [[Real-Time Factor]] — metric improved by streaming
+- [[RealTime Factor]] — metric improved by streaming
 - [[CUDA Graph Capture]] — companion optimization
 - [[Cascaded Systems (Voice)]] — architecture using streaming TTS
 - [[Latency]] — key metric being optimized

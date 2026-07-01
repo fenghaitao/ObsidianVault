@@ -27,6 +27,6 @@ Context Isolation is the security and architectural requirement that a company-w
 - [[AI Employee]] — role that must respect organizational boundaries
 - [[Shared Context]] — the integration model that must be balanced with isolation
 - [[Integration Scoping]] — personal vs shared access control
-- [[AgentMemory]] — memory management across isolated contexts
+- [[Agent Memory]] — memory management across isolated contexts
 - [[AgentSocialContext]] — related concept about agent awareness of social/organizational context
 - [[summary-20260511 - Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski]] — source

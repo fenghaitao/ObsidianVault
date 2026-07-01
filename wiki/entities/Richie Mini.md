@@ -24,6 +24,6 @@ Richie Mini is a small robot acquired and powered by Prince Canuma using MLX Aud
 - [[MLX Audio]] — audio perception framework
 - [[MLX VLM]] — vision perception framework
 - [[Marvis]] — TTS model for voice
-- [[On-Device Robotics]] — core concept
+- [[OnDevice Robotics]] — core concept
 - [[Voice Cloning]] — capability used
 - [[OnDeviceAI]] — core concept

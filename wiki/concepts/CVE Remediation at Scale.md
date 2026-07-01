@@ -24,5 +24,5 @@ CVE remediation at scale is the practice of using parallel AI agents to automati
 - [[Agent Orchestration]] — broader practice
 - [[OpenHands]] — platform used for remediation
 - [[Trivy]] — vulnerability scanner used
-- [[Cloud-Based Agent Sandboxes]] — infrastructure for scale
+- [[CloudBased Agent Sandboxes]] — infrastructure for scale
 - [[Parallel Agents]] — execution model

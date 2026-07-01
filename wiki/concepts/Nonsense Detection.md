@@ -22,7 +22,7 @@ Nonsense Detection is the capability of an AI model to recognize when a prompt i
 - [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source
 - [[BullshitBench]] — benchmark measuring this capability
 - [[Reasoning Limits]] — finding that reasoning worsens this capability
-- [[Model Behavior]] — solve-at-any-cost training pattern
+- [[ModelBehavior]] — solve-at-any-cost training pattern
 - [[Agent Unreliability]] — practical consequence
 - [[Model Evaluation]] — broader context of capability measurement
 - [[SayingNo]] — related concept about models declining tasks

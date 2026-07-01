@@ -23,7 +23,7 @@ Agent Composability is the design goal of making agent extensions independently 
 ## Related
 
 - [[Stream Processor]] — the composable unit
-- [[Agent Extensibility]] — the broader extensibility goal
+- [[AgentExtensibility]] — the broader extensibility goal
 - [[Polyglot Architecture]] — enabling cross-language composition
 - [[Push Subscriptions]] — the mechanism for distributed processors
 - [[Circuit Breaker Pattern]] — protection against composition-induced loops

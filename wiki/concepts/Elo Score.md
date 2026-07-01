@@ -23,5 +23,5 @@ Elo score is a quality score used by leaderboards to rank AI models based on hea
 - [[Public Leaderboards]] — where Elo scores are published
 - [[Win Rate]] — the underlying data Elo scores are derived from
 - [[Game Arena]] — Kaggle's Elo-based PvP benchmark
-- [[Bradley-Terry Pairing]] — statistical method for scheduling Elo battles
+- [[BradleyTerry Pairing]] — statistical method for scheduling Elo battles
 - [[Pareto Frontier]] — methodology that plots Elo scores against efficiency

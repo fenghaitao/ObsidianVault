@@ -7,469 +7,2517 @@ Format: `[[Page Name]] — One-sentence description.`
 ---
 
 ## Sources
+- [[summary-20240719 - Lessons From A Year Building With LLMs]] — Lessons From A Year Building With LLMs
+- [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]] — From Software Developer to AI Engineer： Antje Barth
+- [[summary-20240725 - Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner]] — Unlocking Developer Productivity across CPU and GPU with MAX： Chris Lattner
+- [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — Copilots Everywhere： Thomas Dohmke and Eugene Yan
+- [[summary-20240731 - Emergence Launch： AI Agents and the future enterprise： Dr. Satya Nitta]] — Emergence Launch： AI Agents and the future enterprise： Dr. Satya Nitta
+- [[summary-20240731 - Fixing bugs in Gemma, Llama, & Phi 3： Daniel Han]] — Fixing bugs in Gemma, Llama, & Phi 3： Daniel Han
+- [[summary-20240731 - How Codeium Breaks Through the Ceiling for Retrieval： Kevin Hou]] — How Codeium Breaks Through the Ceiling for Retrieval： Kevin Hou
+- [[summary-20240731 - Low Level Technicals of LLMs： Daniel Han]] — Low Level Technicals of LLMs： Daniel Han
+- [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — What's new from Anthropic and what's next： Alex Albert
+- [[summary-20240808 - Using agents to build an agent company： Joao Moura]] — Using agents to build an agent company： Joao Moura
+- [[summary-20251219 - From Arc to Dia： Lessons learned building AI Browsers – Samir Mody, The Browser Company of New York]] — From Arc to Dia： Lessons learned building AI Browsers – Samir Mody, The Browser Company of New York
+- [[summary-20251219 - Leadership in AI Assisted Engineering – Justin Reock, DX (acq. Atlassian)]] — Leadership in AI Assisted Engineering – Justin Reock, DX (acq. Atlassian)
+- [[summary-20251220 - The Infinite Software Crisis – Jake Nations, Netflix]] — The Infinite Software Crisis – Jake Nations, Netflix
+- [[summary-20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code]] — Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code
+- [[summary-20251222 - Making Codebases Agent Ready – Eno Reyes, Factory AI]] — Making Codebases Agent Ready – Eno Reyes, Factory AI
+- [[summary-20251222 - No More Slop – swyx]] — No More Slop – swyx
+- [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — The 3 Pillars of Autonomy – Michele Catasta, Replit
+- [[summary-20251223 - Developer Experience in the Age of AI Coding Agents – Max Kanat-Alexander, Capital One]] — Developer Experience in the Age of AI Coding Agents – Max Kanat-Alexander, Capital One
+- [[summary-20251223 - Small Bets, Big Impact Building GenBI at a Fortune 100 – Asaf Bord, Northwestern Mutual]] — Small Bets, Big Impact Building GenBI at a Fortune 100 – Asaf Bord, Northwestern Mutual
+- [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize
+- [[summary-20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR]] — Why Agent Hype can fall short of reality – Joel Becker, METR
+- [[summary-20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer]] — How Claude Code Works - Jared Zoneraich, PromptLayer
+- [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize
+- [[summary-20251227 - AGI： The Path Forward – Jason Warner & Eiso Kant, Poolside]] — AGI： The Path Forward – Jason Warner & Eiso Kant, Poolside
+- [[summary-20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is]] — Jack Morris： Stuffing Context is not Memory, Updating Weights is
+- [[summary-20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)]] — Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)
+- [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic
+- [[summary-20260105 - Welcome to AIE CODE - Jed Borovik, Google DeepMind]] — Welcome to AIE CODE - Jed Borovik, Google DeepMind
+- [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize
+- [[summary-20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel]] — Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel
+- [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands
+- [[summary-20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners]] — DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners
+- [[summary-20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro]] — Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro
+- [[summary-20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal]] — OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal
+- [[summary-20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect]] — Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect
+- [[summary-20260114 - Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0]] — Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0
+- [[summary-20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR]] — How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR
+- [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary
+- [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz
+- [[summary-20260408 - Cognitive Exhaust Fumes, or： Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint]] — Cognitive Exhaust Fumes, or： Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint
+- [[summary-20260408 - Contact Center Voice AI： Low-Latency Intelligence Extraction from Messy Audio Streams — Dippu Singh]] — Contact Center Voice AI： Low-Latency Intelligence Extraction from Messy Audio Streams — Dippu Singh
+- [[summary-20260408 - From Chaos to Choreography： Multi-Agent Orchestration Patterns That Actually Work — Sandipan Bhaumik]] — From Chaos to Choreography： Multi-Agent Orchestration Patterns That Actually Work — Sandipan Bhaumik
+- [[summary-20260408 - Let LLMs Wander： Engineering RL Environments — Stefano Fiorucci]] — Let LLMs Wander： Engineering RL Environments — Stefano Fiorucci
+- [[summary-20260408 - OpenRAG： An open-source stack for RAG — Phil Nash]] — OpenRAG： An open-source stack for RAG — Phil Nash
+- [[summary-20260408 - Platforms for Humans and Machines： Engineering for the Age of Agents — Juan Herreros Elorza]] — Platforms for Humans and Machines： Engineering for the Age of Agents — Juan Herreros Elorza
+- [[summary-20260408 - Why, and how you need to sandbox AI-Generated Code — Harshil Agrawal, Cloudflare]] — Why, and how you need to sandbox AI-Generated Code — Harshil Agrawal, Cloudflare
+- [[summary-20260408 - Your Insecure MCP Server Won't Survive Production — Tun Shwe, Lenses]] — Your Insecure MCP Server Won't Survive Production — Tun Shwe, Lenses
+- [[summary-20260410 - AI Didn't Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan Lasorsa (Microsoft)]] — AI Didn't Kill the Web, It Moved in! — Olivier Leplus (AWS) & Yohan Lasorsa (Microsoft)
+- [[summary-20260410 - Judge the Judge： Building LLM Evaluators That Actually Work with GEPA — Mahmoud Mabrouk, Agenta AI]] — Judge the Judge： Building LLM Evaluators That Actually Work with GEPA — Mahmoud Mabrouk, Agenta AI
+- [[summary-20260410 - One Registry to Rule them All - Sonny Merla, Mauro Luchetti, & Mattia Redaelli, Quantyca]] — One Registry to Rule them All - Sonny Merla, Mauro Luchetti, & Mattia Redaelli, Quantyca
+- [[summary-20260410 - Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA]] — Running LLMs locally： Practical LLM Performance on DGX Spark — Mozhgan Kabiri chimeh, NVIDIA
+- [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa
+- [[summary-20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero]] — $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero
+- [[summary-20260416 - Building pi in a World of Slop — Mario Zechner]] — Building pi in a World of Slop — Mario Zechner
+- [[summary-20260417 - Harness Engineering： How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI]] — Harness Engineering： How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI
+- [[summary-20260417 - State of the Claw — Peter Steinberger]] — State of the Claw — Peter Steinberger
+- [[summary-20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research]] — How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research
+- [[summary-20260418 - The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil]] — The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil
+- [[summary-20260419 - Code Mode： Let the Code do the Talking - Sunil Pai, Cloudflare]] — Code Mode： Let the Code do the Talking - Sunil Pai, Cloudflare
+- [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — The Future of MCP — David Soria Parra, Anthropic
+- [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi
+- [[summary-20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind]] — Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind
+- [[summary-20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI]] — Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI
+- [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — The New Application Layer - Malte Ubl, CTO Vercel
+- [[summary-20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind]] — Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind
+- [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer
+- [[summary-20260421 - Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer]] — Taste & Craft： A Conversation with Tuomas Artman, CTO Linear & Gergely Orosz, @pragmaticengineer
+- [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — Agents need more than a chat - Jacob Lauritzen, CTO Legora
+- [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock
+- [[summary-20260423 - The End of Apps — Kitze, Sizzy.co]] — The End of Apps — Kitze, Sizzy.co
+- [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — Full Walkthrough： Workflow for AI Coding — Matt Pocock
+- [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench
+- [[summary-20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon]] — AgentCraft： Putting the Orc in Orchestration — Ido Salomon
+- [[summary-20260425 - MCP = Mega Context Problem - Matt Carey]] — MCP = Mega Context Problem - Matt Carey
+- [[summary-20260426 - Collaborative AI Engineering： One Dev, Two Dozen Agents, Zero Alignment — Maggie Appleton, GitHub]] — Collaborative AI Engineering： One Dev, Two Dozen Agents, Zero Alignment — Maggie Appleton, GitHub
+- [[summary-20260427 - Gateways are All You Need — Karan Sampath, Anthropic]] — Gateways are All You Need — Karan Sampath, Anthropic
+- [[summary-20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind]] — Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind
+- [[summary-20260427 - Scaling GitHub for your Agents — Sam Morrow, GitHub]] — Scaling GitHub for your Agents — Sam Morrow, GitHub
+- [[summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor]] — Building your own software factory — Eric Zakariasson, Cursor
+- [[summary-20260428 - One Login to Rule Them All： Cross-App Access for MCP — Garrett Galow, WorkOS]] — One Login to Rule Them All： Cross-App Access for MCP — Garrett Galow, WorkOS
+- [[summary-20260428 - Why building eval platforms is hard — Phil Hetzel, Braintrust]] — Why building eval platforms is hard — Phil Hetzel, Braintrust
+- [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — Build & deploy AI-powered apps — Paige Bailey, Google DeepMind
+- [[summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI]] — Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI
+- [[summary-20260429 - OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman]] — OpenAI Codex Masterclass — Vaibhav Srivastav & Katia Gil Guzman
+- [[summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind]] — Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind
+- [[summary-20260430 - LLM codegen fails and how to stop 'em — Danilo Campos, PostHog]] — LLM codegen fails and how to stop 'em — Danilo Campos, PostHog
+- [[summary-20260430 - Replacing 12K LoC with a 200 LoC Skill — David Gomes, Cursor]] — Replacing 12K LoC with a 200 LoC Skill — David Gomes, Cursor
+- [[summary-20260501 - Agents for Everything Else — swyx]] — Agents for Everything Else — swyx
+- [[summary-20260501 - Agents on the Canvas in tldraw — Steve Ruiz, tldraw]] — Agents on the Canvas in tldraw — Steve Ruiz, tldraw
+- [[summary-20260501 - Mastering AI Pricing — Mayank Pant, Stripe]] — Mastering AI Pricing — Mayank Pant, Stripe
+- [[summary-20260501 - Shipping complex AI applications — Braintrust & Trainline]] — Shipping complex AI applications — Braintrust & Trainline
+- [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — Human-in-the-Loop Automation with n8n — Liam McGarrigle
+- [[summary-20260502 - I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com)]] — I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com)
+- [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]] — Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban
+- [[summary-20260503 - Context Is the New Code — Patrick Debois, Tessl]] — Context Is the New Code — Patrick Debois, Tessl
+- [[summary-20260503 - Mergeable by default： Building the context engine to save time and tokens — Peter Werry, Unblocked]] — Mergeable by default： Building the context engine to save time and tokens — Peter Werry, Unblocked
+- [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google
+- [[summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick]] — Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick
+- [[summary-20260504 - Skill Issue： How We Used AI to Make Agents Actually Good at Supabase — Pedro Rodrigues, Supabase]] — Skill Issue： How We Used AI to Make Agents Actually Good at Supabase — Pedro Rodrigues, Supabase
+- [[summary-20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs]] — Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs
+- [[summary-20260505 - Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind]] — Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind
+- [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure
+- [[summary-20260505 - The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked]] — The Small Model Infrastructure Nobody Built (So We Did) — Filip Makraduli, Superlinked
+- [[summary-20260506 - Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser]] — Full Walkthrough： Writing & Using Skills — Nick Nisi and Zack Proser
+- [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]] — MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps
+- [[summary-20260506 - The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory]] — The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory
+- [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic
+- [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop
+- [[summary-20260507 - Vibe Engineering Effect Apps — Michael Arnaldi, Effectful]] — Vibe Engineering Effect Apps — Michael Arnaldi, Effectful
+- [[summary-20260508 - Agentic Search for Context Engineering — Leonie Monigatti, Elastic]] — Agentic Search for Context Engineering — Leonie Monigatti, Elastic
+- [[summary-20260508 - FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs]] — FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Black Forest Labs
+- [[summary-20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow]] — How Transformers Finally Ate Vision – Isaac Robinson, Roboflow
+- [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]] — Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs
+- [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI
+- [[summary-20260509 - Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral]] — Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral
+- [[summary-20260510 - Feedback Loops are All You Need — Mehedi Hassan, Granola]] — Feedback Loops are All You Need — Mehedi Hassan, Granola
+- [[summary-20260510 - How we solved Context Management in Agents — Sally-Ann Delucia]] — How we solved Context Management in Agents — Sally-Ann Delucia
+- [[summary-20260510 - Two Roads to Durable Agents： Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev]] — Two Roads to Durable Agents： Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev
+- [[summary-20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon]] — A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon
+- [[summary-20260511 - Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski]] — Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski
+- [[summary-20260511 - Why MLX — Prince Canuma, Neywa Labs]] — Why MLX — Prince Canuma, Neywa Labs
+- [[summary-20260512 - Give Your Agent a Computer — Nico Albanese, Vercel]] — Give Your Agent a Computer — Nico Albanese, Vercel
+- [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML
+- [[summary-20260512 - Malleable Evals： Why Are We Evaluating Adaptive Systems with Static Tests — Vincent Koc, OpenClaw]] — Malleable Evals： Why Are We Evaluating Adaptive Systems with Static Tests — Vincent Koc, OpenClaw
+- [[summary-20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take]] — Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take
+- [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner
+- [[summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face]] — Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face
+- [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate
+- [[summary-20260514 - Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft]] — Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft
+- [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize
+- [[summary-20260515 - Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF]] — Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF
+- [[summary-20260515 - Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Supabase]] — Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Supabase
+- [[summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom]] — How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom
+- [[summary-20260516 - Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft]] — Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft
+- [[summary-20260516 - Connecting the Dots with Context Graphs — Stephen Chin, Neo4j]] — Connecting the Dots with Context Graphs — Stephen Chin, Neo4j
+- [[summary-20260516 - How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs]] — How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs
+- [[summary-20260517 - Fighting AI with AI — Lawrence Jones, Incident]] — Fighting AI with AI — Lawrence Jones, Incident
+- [[summary-20260517 - Harnesses in AI： A Deep Dive — Tejas Kumar, IBM]] — Harnesses in AI： A Deep Dive — Tejas Kumar, IBM
+- [[summary-20260517 - Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Christensen, Ably]] — Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Christensen, Ably
+- [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson
+- [[summary-20260518 - Let's go Bananas with GenMedia — Guillaume Vernade, Google DeepMind]] — Let's go Bananas with GenMedia — Guillaume Vernade, Google DeepMind
+- [[summary-20260518 - Rewiring the State — Eoin Mulgrew, No. 10 (Downing Street)]] — Rewiring the State — Eoin Mulgrew, No. 10 (Downing Street)
+- [[summary-20260519 - Personalization in the Era of LLMs - Shivam Verma, Spotify]] — Personalization in the Era of LLMs - Shivam Verma, Spotify
+- [[summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors]] — Introducing WebMCP： Agents in the Browser — RL Nabors
+- [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind
+- [[summary-20260524 - Let's Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl]] — Let's Talk About FOMAT： Fear of Missing Agent Time — Michael Richman, Cmd+Ctrl
+- [[summary-20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum]] — Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum
+- [[summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind]] — Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind
+- [[summary-20260525 - Bounded Autonomy： Between Free Will and Determinism — Angus J. McLean, Oliver]] — Bounded Autonomy： Between Free Will and Determinism — Angus J. McLean, Oliver
+- [[summary-20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust]] — Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust
+- [[summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs]] — Run Frontier AI at Home — Alex Cheema, EXO Labs
+- [[summary-20260526 - Stop babysitting your agents... — Brandon Waselnuk, Unblocked]] — Stop babysitting your agents... — Brandon Waselnuk, Unblocked
+- [[summary-20260526 - What the Best Agents Share — Mardu Swanepoel, Flinn AI]] — What the Best Agents Share — Mardu Swanepoel, Flinn AI
+- [[summary-20260527 - The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry]] — The AI Skill I Rely On Daily — Priscila Andre de Oliveira, Sentry
+- [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — The maturity phases of running evals — Phil Hetzel, Braintrust
+- [[summary-20260527 - Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry]] — Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry
+- [[summary-20260528 - Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kollegger & Zaid Zaim, Neo4j]] — Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kollegger & Zaid Zaim, Neo4j
+- [[summary-20260528 - How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust]] — How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust
+- [[summary-20260528 - Most Enterprise Agentic Projects Are Doomed, Here's Why — Jess Grogan-Avignon & Jack Wang, Accenture]] — Most Enterprise Agentic Projects Are Doomed, Here's Why — Jess Grogan-Avignon & Jack Wang, Accenture
+- [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face
+- [[summary-20260529 - Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs]] — Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs
+- [[summary-20260529 - Why your agents need decision traces, not just documents — Zach Blumenfeld, Neo4j]] — Why your agents need decision traces, not just documents — Zach Blumenfeld, Neo4j
+- [[summary-20260530 - How I deleted 95% of my agent skills and got better results — Nick Nisi, WorkOS]] — How I deleted 95% of my agent skills and got better results — Nick Nisi, WorkOS
+- [[summary-20260530 - How We Built Zeta2： Training an Edit Prediction Model in Production — Ben Kunkle, Zed]] — How We Built Zeta2： Training an Edit Prediction Model in Production — Ben Kunkle, Zed
+- [[summary-20260530 - Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind]] — Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind
+- [[summary-20260531 - Can LLMs generate Enterprise Quality Code — Prasenjit Sarkar, Sonar]] — Can LLMs generate Enterprise Quality Code — Prasenjit Sarkar, Sonar
+- [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI
+- [[summary-20260531 - Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence]] — Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence
+- [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna
+- [[summary-20260601 - How to talk to statues — Joe Reeve, ElevenLabs]] — How to talk to statues — Joe Reeve, ElevenLabs
+- [[summary-20260601 - What if the network was the sandbox — Remy Guercio, Tailscale]] — What if the network was the sandbox — Remy Guercio, Tailscale
+- [[summary-20260602 - How Lovable self-improves every hour — Benjamin Verbeek, Lovable]] — How Lovable self-improves every hour — Benjamin Verbeek, Lovable
+- [[summary-20260602 - Task Fidelity Scaling Laws — Kobie Crawdord, Snorkel]] — Task Fidelity Scaling Laws — Kobie Crawdord, Snorkel
+- [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — What Lies Beneath the API — Benjamin Cowen, Modal
+- [[summary-20260603 - BDD, ADR, PRD, WTF： Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence]] — BDD, ADR, PRD, WTF： Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence
+- [[summary-20260603 - Benchmarking semantic code retrieval on Claude Code — Kuba Rogut, Turbopuffer]] — Benchmarking semantic code retrieval on Claude Code — Kuba Rogut, Turbopuffer
+- [[summary-20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman]] — Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman
+- [[summary-20260604 - SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius]] — SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius
+- [[summary-20260604 - Text Diffusion — Brendan O'Donoghue, Google DeepMind]] — Text Diffusion — Brendan O'Donoghue, Google DeepMind
+- [[summary-20260604 - The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI]] — The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI
+- [[summary-20260605 - Beyond Transcription： Building Voice AI That Understands Conversations — Hervé Bredin, pyannoteAI]] — Beyond Transcription： Building Voice AI That Understands Conversations — Hervé Bredin, pyannoteAI
+- [[summary-20260605 - Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google]] — Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google
+- [[summary-20260605 - Dark Factory： OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw]] — Dark Factory： OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw
+- [[summary-20260606 - Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub]] — Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub
+- [[summary-20260606 - Building safe Payment Infrastructure for the autonomous economy — Steve Kaliski, Stripe]] — Building safe Payment Infrastructure for the autonomous economy — Steve Kaliski, Stripe
+- [[summary-20260606 - Evals Are Broken, Use Them Anyway — Ara Khan, Cline]] — Evals Are Broken, Use Them Anyway — Ara Khan, Cline
+- [[summary-20260607 - From MCP to Scale： Pipelines That Build Themselves — Rafael Levi, Bright Data]] — From MCP to Scale： Pipelines That Build Themselves — Rafael Levi, Bright Data
+- [[summary-20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize]] — LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize
+- [[summary-20260607 - Under 5 minutes to a deployed LLM endpoint — Audry Hsu, RunPod]] — Under 5 minutes to a deployed LLM endpoint — Audry Hsu, RunPod
+- [[summary-20260608 - Road to 5 Million Tokens： Breaking Barriers in Long Context Training — Max Ryabinin, Together AI]] — Road to 5 Million Tokens： Breaking Barriers in Long Context Training — Max Ryabinin, Together AI
+- [[summary-20260608 - Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carey, Cloudflare]] — Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carey, Cloudflare
+- [[summary-20260608 - Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo]] — Why More Context Makes Your Agent Dumber and What to Do About It — Nupur Sharma, Qodo
+- [[summary-20260609 - From Transcription to Live Music： Gemini's Audio Stack — Thor Schaeff, Google DeepMind]] — From Transcription to Live Music： Gemini's Audio Stack — Thor Schaeff, Google DeepMind
+- [[summary-20260609 - GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod]] — GPU Cloud Deployment Without Leaving Your IDE — Audry Hsu, RunPod
+- [[summary-20260609 - RAG is dead, right — Kuba Rogut, Turbopuffer]] — RAG is dead, right — Kuba Rogut, Turbopuffer
+- [[summary-20260610 - Self Driving Products： Product Signals to Pull Requests — Joshua Snyder, PostHog]] — Self Driving Products： Product Signals to Pull Requests — Joshua Snyder, PostHog
+- [[summary-20260610 - Sovereign Escape Velocity： Ownership w Open Models — Gus Martins, & Ian Ballantyne, Google DeepMind]] — Sovereign Escape Velocity： Ownership w Open Models — Gus Martins, & Ian Ballantyne, Google DeepMind
+- [[summary-20260610 - Stop Making Models Bigger, Make Them Behave — Kobie Crawford, Snorkel]] — Stop Making Models Bigger, Make Them Behave — Kobie Crawford, Snorkel
+- [[summary-20260611 - The agent-ready web： Simplify user actions with WebMCP — Tara Agyemang, Google]] — The agent-ready web： Simplify user actions with WebMCP — Tara Agyemang, Google
+- [[summary-20260611 - Why Can't Anyone Answer Questions About the Business — Garrett Galow, WorkOS]] — Why Can't Anyone Answer Questions About the Business — Garrett Galow, WorkOS
+- [[summary-20260611 - Your Attention Is the Bottleneck, Not Your Agents — Zack Proser, WorkOS]] — Your Attention Is the Bottleneck, Not Your Agents — Zack Proser, WorkOS
+- [[summary-20260615 - Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Alpic]] — Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Alpic
+- [[summary-20260616 - You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia]] — You Might Not Need 50 Diffusion Steps — Ziv Ilan, Nvidia
+- [[summary-20260617 - Your Agent's Biggest Lie： ＂I Searched the Web＂ — Rafael Levi, Bright Data]] — Your Agent's Biggest Lie： ＂I Searched the Web＂ — Rafael Levi, Bright Data
+- [[summary-20260618 - The Production AI Playbook： Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks]] — The Production AI Playbook： Deploying Agents at Enterprise Scale — Sandipan Bhaumik, Databricks
+- [[summary-20260621 - 6 Things to Know about AIE World's Fair 2026]] — 6 Things to Know about AIE World's Fair 2026
 
-*(Summaries of `raw/` files — kebab-case filenames)*
 
-- [[summary-20251219 - From Arc to Dia： Lessons learned building AI Browsers – Samir Mody, The Browser Company of New York]] — Samir Mody on lessons from building Arc and Dia browsers.
-- [[summary-20251222 - Making Codebases Agent Ready – Eno Reyes, Factory AI]] — Eno Reyes on how automated validation criteria unlock AI coding agent effectiveness.
-- [[summary-20251222 - Amp Code： Next Generation AI Coding – Beyang Liu, Amp Code]] — Beyang Liu presents Amp Code's contrarian agent-oriented architecture with specialized sub-agents.
-- [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — Aparna Dhinakaran on using prompt learning and LLM-as-judge evals to improve coding agents.
-- [[summary-20251223 - Developer Experience in the Age of AI Coding Agents – Max Kanat-Alexander, Capital One]] — Max Kanat-Alexander argues that "what's good for humans is good for AI" and identifies no-regrets DX investments for the agentic coding era.
-- [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — Michele Catasta presents Replit's three pillars for building fully autonomous coding agents for non-technical users.
-- [[summary-20251223 - Small Bets, Big Impact Building GenBI at a Fortune 100 – Asaf Bord, Northwestern Mutual]] — Asaf Bord presents Northwestern Mutual's incremental approach to building GenBI at a risk-averse Fortune 100 company.
-- [[summary-20251220 - The Infinite Software Crisis – Jake Nations, Netflix]] — Jake Nations on AI code generation outpacing human understanding and a three-phase approach to maintain control.
-- [[summary-20251219 - Leadership in AI Assisted Engineering – Justin Reock, DX (acq. Atlassian)]] — Justin Reock presents data-driven findings on GenAI adoption volatility, psychological safety, and SDLC-wide AI integration strategies.
-- [[summary-20251222 - No More Slop – swyx]] — swyx declares war on slop at the AI Engineer Summit, arguing that taste must scale to fight low-quality content.
-- [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — Thariq Shihipar presents a full workshop on building agents with the Claude Agent SDK.
-- [[summary-20260105 - Welcome to AIE CODE - Jed Borovik, Google DeepMind]] — Jed Borovik opens the AI Engineering Code Summit, framing AI as technology's most important problem and code as applied AI's most important problem.
-- [[summary-20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel]] — Peter Wielander demonstrates how the Workflow DevKit adds durability, resumability, observability, and human-in-the-loop to AI agents with minimal code changes.
-- [[summary-20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal]] — Cornelia Davis demonstrates how Temporal brings durability to AI agents built with the OpenAI Agents SDK via workflows and activities.
-- [[summary-20260408 - Cognitive Exhaust Fumes, or： Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint]] — Šimon Podhajský presents Fulan, a read-only personal AI system that analyzes digital exhaust fumes across six data sources to surface intention-action gaps, attention drift, and relationship decay.
-- [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — SallyAnn DeLucia and Fuad Ali present a hands-on workshop on building prompt optimization loops with English-language feedback.
-- [[summary-20251227 - AGI： The Path Forward – Jason Warner & Eiso Kant, Poolside]] — Jason Warner and Eiso Kant present Poolside's RL+LLM approach to closing the gap between models and human intelligence.
-- [[summary-20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR]] — Joel Becker reconciles benchmark evidence (exponential AI progress) with an RCT showing AI tools slowed top developers by 19%.
-- [[summary-20260114 - Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0]] — Patrick Riley and Carlos Galan present Auth0's four-pillar framework for AI agent identity with Token Vault, async CIBA authorization, and MCP server integration.
-- [[summary-20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect]] — Jeremiah Lowin on five MCP best practices: outcomes over operations, flatten arguments, instructions as context, respect the token budget, curate ruthlessly.
-- [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — Robert Brennan presents agent orchestration for large-scale refactors, including the OpenHands Refactor SDK and verifier-fixer pipeline.
-- [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — Nimrod Hauser presents five best practices for optimizing third-party MCP server tools for specific agentic workflows.
-- [[summary-20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro]] — Al Harris presents Amazon Kiro's spec-driven development workflow with EARS requirements, property-based testing, and neurosymbolic reasoning.
-- [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — Brendan O'Leary presents agentic engineering: the paradigm shift from using AI to working with AI as a collaborator, emphasizing context engineering and the research-plan-implement workflow.
-- [[summary-20260108 - DSPy： The End of Prompt Engineering - Kevin Madura, AlixPartners]] — Kevin Madura presents DSPy as a declarative framework for programming LLMs with signatures, modules, and optimizers.
-- [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — Aman Khan presents an evaluation framework for product managers shipping AI features.
-- [[summary-20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer]] — Jared Zoneraich explains Claude Code's architecture and PromptLayer's observability tooling.
-- [[summary-20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)]] — Ivan Leo presents Manus AI's approach to building intelligent research agents.
-- [[summary-20251229 - Jack Morris： Stuffing Context is not Memory, Updating Weights is]] — Jack Morris on the distinction between context stuffing and true memory via weight updates.
-- [[summary-20260119 - How METR measures Long Tasks and Experienced Open Source Dev Productivity - Joel Becker, METR]] — Joel Becker on compute-capability proportionality, J-curve debate, and triangulating AI capabilities with multiple evidence sources.
-- [[summary-20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind]] — Cassidy Hardin presents Gemma 4's architectural innovations: interleaved local/global attention, grouped query attention, MoE, per-layer embeddings, and native multimodality under Apache 2.0.
-- [[summary-20260427 - Gateways are All You Need — Karan Sampath, Anthropic]] — Karan Sampath presents MCP Gateways as the enterprise solution to the three-headed hydra of observability, access control, and security, establishing a root of trust for decentralized MCP development.
 
-- [[summary-20260428 - One Login to Rule Them All： Cross-App Access for MCP — Garrett Galow, WorkOS]] — Garrett Galow presents Cross-App Access (XAA) built on ID JAG to eliminate MCP consent screen fatigue and restore SSO for agent authentication.
 ## Entities
 
 *(People, companies, tools, products — TitleCase filenames)*
 
-- [[SamirMody]] — CEO of The Browser Company of New York.
-- [[TheBrowserCompany]] — Company behind Arc and Dia browsers.
-- [[ArcBrowser]] — The Browser Company's first browser product.
-- [[DiaBrowser]] — The Browser Company's AI-native browser.
-- [[EnoReyes]] — Speaker from Factory AI, advocate for agent-ready codebases.
-- [[FactoryAI]] — Company building autonomous software engineering tools including Droid coding agent.
-- [[AndrejKarpathy]] — AI researcher who coined Software 2.0.
-- [[BrowserBase]] — Company building browser automation and computer-use validation tools.
-- [[BeyangLiu]] — Amp Code team member and presenter on next-generation AI coding.
-- [[BookingCom]] — Travel e-commerce company and Arize client, example of subjective eval use cases.
-- [[AmpCode]] — Opinionated frontier coding agent with specialized sub-agents and dual-agent architecture.
-- [[ADA]] — Programming language used by government for critical infrastructure, featured in Poolside's demo.
-- [[AmazonBedrock]] — AWS managed service where Poolside's next-generation models will be available.
-- [[EisoKant]] — Co-founder of Poolside, early pioneer in neural code completion using LSTMs.
-- [[GitHub]] — Code hosting platform transformed into an end-to-end development platform under Jason Warner's CTO tenure.
-- [[GitHubCopilot]] — AI coding assistant incubated in GitHub's Office of the CTO by Jason Warner and Nat Friedman.
-- [[Harvey]] — Legal AI application referenced as a non-engineering consumer of AI models.
-- [[JasonWarner]] — Co-founder of Poolside, former CTO of GitHub where he helped launch Copilot.
-- [[MalibuAgent]] — Poolside's second-generation AI model trained from scratch with proprietary RL+LLM techniques.
-- [[MiniMax]] — Open-source model provider referenced as a popular base for RL and fine-tuning work.
-- [[NatFriedman]] — Technology executive who co-developed GitHub Copilot with Jason Warner.
-- [[Poolside]] — AI company building proprietary models from scratch using RL+LLM to close the gap to human intelligence.
-- [[Qwen]] — Open-source model family referenced as a popular base for RL and fine-tuning work.
-- [[Rust]] — Systems programming language used as the target in Poolside's ADA-to-Rust codebase conversion demo.
-- [[VisualStudioCode]] — Microsoft code editor used as the interface for Poolside's coding agent demo.
-- [[Windsurf]] — AI coding tool referenced as a potential consumer of Poolside's models.
-- [[Ghosty]] — Open-source terminal emulator; core contributor built Amp Code's TUI framework.
-- [[MitchellHashimoto]] — Founder of Ghosty and notable Amp Code user.
-- [[HamillHussein]] — Leading authority on AI evals and Amp Code user.
-- [[RyanCarson]] — Former Treehouse founder, runs Amp Code's builder community.
-- [[Treehouse]] — Education startup that taught over a million people to code.
-- [[Gemini3]] — Google LLM adopted by Amp Code for its Smart Agent.
-- [[MaxKanatAlexander]] — Developer experience expert at Capital One with 20+ years in DX.
-- [[CapitalOne]] — Major financial services company with significant software engineering operations.
-- [[AsafBord]] — GenBI research lead at Northwestern Mutual, speaker at aiDotEngineer.
-- [[NorthwesternMutual]] — 160-year-old Fortune 100 financial services company (life insurance, wealth management).
-- [[DatabricksGenie]] — Third-party GenBI solution from Databricks, evaluated as an alternative to in-house development.
-- [[JakeNations]] — Netflix engineer, creator of context compression methodology.
-- [[Netflix]] — Global streaming company; case study site for AI-assisted refactoring.
-- [[FredBrooks]] — Author of "The Mythical Man-Month" and "No Silver Bullet."
-- [[RichHickey]] — Creator of Clojure, author of "Simple Made Easy."
-- [[EdsgerDijkstra]] — Pioneering computer scientist who observed the first software crisis.
-- [[Clojure]] — Functional programming language created by Rich Hickey.
-- [[CloudFlare]] — Web infrastructure company; referenced as example of production system failure.
-- [[AparnaDhinakaran]] — Speaker at Arize, works on prompt learning and LLM evaluation.
-- [[SallyAnnDeLucia]] — Director of RISE at Arize, presented the prompt learning loop workshop.
-- [[FuadAli]] — Product Manager at Arize, co-presented the prompt learning loop workshop.
-- [[Arize]] — AI observability and evaluation platform.
-- [[ClaudeCode]] — Anthropic's coding agent.
-- [[Cline]] — Open-source coding agent.
-- [[SWE-bench]] — Software engineering benchmark for coding agents.
-- [[DSPy]] — Stanford framework for programming language models, includes GEA prompt optimizer.
-- [[Cursor]] — AI-powered code editor.
-- [[JustinReock]] — Speaker and thought leader at DX (acquired by Atlassian), presented on AI-assisted engineering leadership.
-- [[DX]] — Developer productivity measurement company acquired by Atlassian, creator of the DXAI Measurement Framework.
-- [[DORA]] — DevOps Research and Assessment group publishing benchmarks on AI adoption impact in engineering.
-- [[MorganStanley]] — Financial services company saving ~300,000 hours annually with AI-driven legacy code modernization.
-- [[Zapier]] — Automation company using AI bots to reduce developer onboarding time to 2 weeks.
-- [[Spotify]] — Music streaming company using AI to improve SRE incident response and MTTR.
-- [[Atlassian]] — Software company (Jira, Confluence) that acquired DX.
-- [[swyx]] — Organizer of the AI Engineer Summit, declared war on slop and advocates using AI to fight low-quality content.
-- [[GregBrockman]] — OpenAI co-founder who preaches modularity in AI system design.
-- [[Devin]] — AI coding tool from Cognition capable of autonomous development tasks.
-- [[Cognition]] — Company behind Devin, the AI coding agent.
-- [[Anthropic]] — AI research company that debuted computer use capability.
-- [[KaranSampath]] — Forward Deployed Engineer at Anthropic, first outside the US, advocate for MCP Gateways in enterprise deployments.
-- [[OpenAI]] — Leading AI research company co-founded by Greg Brockman, creator of Sora.
-- [[MicheleCatasta]] — Leader at Replit working on autonomous coding agents for non-technical users.
-- [[Replit]] — Company building an autonomous coding agent designed for non-technical users.
-- [[ReplitAgent]] — Replit's autonomous coding agent product, evolved through multiple generations.
-- [[Playwright]] — Browser automation library used by Replit for autonomous testing of web applications.
-- [[Stagehand]] — Browser automation library for tool-based browser use in testing.
-- [[PeterWielander]] — Speaker from Vercel, presented the Workflow DevKit.
-- [[Vercel]] — Company behind the Workflow DevKit, AI SDK, Next.js, and Vercel Sandbox.
-- [[WorkflowDevKit]] — Open-source TypeScript library for building durable, observable workflows and agents.
-- [[AISDK]] — Vercel's AI SDK providing `streamText`, `Agent`, and `useChat` for AI applications.
-- [[NextJS]] — React framework by Vercel for full-stack web applications.
-- [[VercelSandbox]] — Vercel's isolated VM service for running agent-generated code.
-- [[JedBorovik]] — Gemini assistant at Google DeepMind, leads the Jules coding agent product engineering team.
-- [[GoogleDeepMind]] — Google's AI research division, presenting sponsor of the 2025 AI Engineering Code Summit.
-- [[RichardHamming]] — Mathematician known for "You and Your Research" talk and the "most important problem" question.
-- [[AIECodeSummit]] — Single-track AI coding conference event in New York, part of the AI Engineering Conference brand.
-- [[NanoBananaPro]] — Product launched by Google DeepMind alongside Gemini 3 in early January 2026.
-- [[Jules]] — Google DeepMind's coding agent product, led by Jed Borovik.
-- [[JoelBecker]] — Researcher at METR studying AI capabilities and the gap between benchmarks and real-world productivity.
-- [[METR]] — Model Evaluation and Threat Research nonprofit measuring AI capabilities and catastrophic risk.
-- [[HuggingFaceTransformers]] — Large open-source ML library; one of the repositories in METR's developer productivity RCT.
-- [[ScikitLearn]] — Popular Python ML library; one of the repositories in METR's developer productivity RCT.
-- [[HaskellCompiler]] — Glasgow Haskell Compiler (GHC); one of the repositories in METR's developer productivity RCT.
-- [[HCAST]] — METR's software task distribution requiring tool interaction and autonomous problem-solving.
-- [[SWAR]] — METR's suite of atomic problems spanning a wide difficulty range for AI evaluation.
-- [[RE-Bench]] — METR's challenging ML research engineering benchmark, very difficult even for top human experts.
-- [[ThariqShihipar]] — Anthropic engineer who presented the Claude Agent SDK workshop.
-- [[ClaudeAgentSDK]] — Anthropic's SDK for building AI agents.
-- [[CorneliaDavis]] — Developer Advocate at Temporal, former Pivotal/Cloud Foundry engineer.
-- [[Temporal]] — Open-source distributed systems backing service providing durability for long-running workflows and agents.
-- [[OpenAIAgentsSDK]] — OpenAI agent framework (Python/TypeScript) with tools, handoffs, guardrails, and tracing.
-- [[Johan]] — Head of AI Engineering at Temporal, led the OpenAI Agents SDK integration.
-- [[CloudFoundry]] — Early container technology incubated at VMware, predating Docker and Kubernetes.
-- [[Cadence]] — Uber workflow orchestration project that Temporal was forked from.
-- [[ŠimonPodhajský]] — Head of AI at Waypoint, creator of the Fulan read-only personal AI system.
-- [[Waypoint]] — Company where Šimon Podhajský works, building read-only personal AI.
-- [[Fulan]] — Read-only personal AI system that analyzes cognitive exhaust fumes across six data sources.
-- [[Clay]] — CRM/friend relationship management tool used as a data source in Fulan for cross-source queries.
-- [[Vivaldi]] — Web browser whose SQLite database stores reading history for Fulan's cross-source analysis.
-- [[DavidAllen]] — Author of Getting Things Done (GTD), whose weekly review inspired Fulan's reflection feature.
-- [[SimonWillison]] — Security researcher, creator of the lethal triquetra security risk model.
-- [[Obsidian]] — Note-taking app used as the separate output vault in Fulan's read-only architecture.
-- [[PatrickRiley]] — Auth0/Okta engineer, formerly at Red Hat, presenter of the Identity for AI Agents workshop.
-- [[CarlosGalan]] — Auth0/Okta engineer from Spain, co-presenter of the Identity for AI Agents workshop.
-- [[Auth0]] — Identity platform (Okta product) providing AI agent authorization features including Token Vault and async CIBA.
-- [[Okta]] — Identity and access management company, parent of Auth0, providing enterprise AI agent governance.
-- [[Abhyek]] — Auth0 architect (nicknamed Shrek) who prepared the AI agent identity workshop material.
-- [[Guardian]] — Okta's MFA application used for push notification approval flows in AI agent async authorization.
-- [[RedHat]] — Enterprise open-source software company, previous employer of Patrick Riley.
-- [[Upstash]] — Serverless database service used for MCP server state management in Auth0's demo.
-- [[JeremiahLowin]] — Founder and CEO of Prefect Technologies, creator of FastMCP, advocate for agentic product design.
-- [[PrefectTechnologies]] — Data automation and orchestration software company, creator of FastMCP.
-- [[FastMCP]] — De facto standard Python framework for building MCP servers, ~1.5M downloads/day.
-- [[Figma]] — Collaborative design tool; designs serve as multimodal requirements for AI agents.
-- [[ApacheAirflow]] — Open-source workflow orchestration platform; Jeremiah Lowin was a PMC member.
-- [[Marvin]] — Agent framework developed by Jeremiah Lowin, his entry point into AI developer experience.
-- [[Block]] — Fintech company (formerly Square) with an influential MCP best practices playbook.
-- [[ClaudeDesktop]] — Anthropic's desktop MCP client, criticized for caching tool lists in SQLite.
-- [[KellyKFL]] — Engineer at Fiverr who curated an MCP server from 188 tools down to 5.
-- [[Fiverr]] — Freelance marketplace; case study for MCP server curation.
-- [[RobertBrennan]] — Co-founder and CEO of OpenHands, advocate for agent orchestration in software engineering.
-- [[OpenHands]] — MIT-licensed autonomous coding agent and orchestration platform for large-scale refactors using parallel agents.
-- [[OpenDevin]] — Original name of the OpenHands project, launched as an open-source alternative to Devin in early 2024.
-- [[Redux]] — JavaScript state management library; OpenHands migrated from Redux to Zustand using parallel agent orchestration.
-- [[Zustand]] — Lightweight React state management library; OpenHands migrated from Redux to Zustand using parallel agents.
-- [[Calvin]] — Engineer at OpenHands who demonstrated the Refactor SDK's verifier-fixer pipeline for eliminating code smells.
-- [[Trivy]] — Open-source vulnerability scanner used by OpenHands agents for CVE detection in container images.
-- [[Spark]] — Apache Spark distributed data processing engine; OpenHands client used agents to migrate Spark 2 to Spark 3.
-- [[Docker]] — Containerization platform used by OpenHands to provide isolated agent sandboxes in the cloud.
-- [[Kubernetes]] — Container orchestration platform used by OpenHands to scale agent sandboxes to thousands of concurrent agents.
-- [[NimrodHauser]] — Speaker from Baz, presented best practices for optimizing third-party MCP servers.
-- [[Baz]] — Company where Nimrod Hauser works, focused on MCP server optimization.
-- [[AlHarris]] — Principal Engineer at Amazon, working on the Kiro agentic IDE.
-- [[Amazon]] — FAANG technology company, parent of AWS and Amazon Kiro.
-- [[AmazonKiro]] — Amazon's agentic IDE implementing spec-driven development with EARS, property-based testing, and neurosymbolic reasoning.
-- [[AmazonS3]] — AWS object storage service, used as a persistence backend in Kiro demos.
-- [[AmazonDynamoDB]] — AWS NoSQL database service, mentioned as an alternative to S3 for agent persistence.
-- [[AgentCore]] — AWS service for deploying and running AI agents, used in Kiro demos.
-- [[BrendanOLeary]] — Speaker and advocate for agentic engineering, works at Kilo Code, formerly at GitLab.
-- [[KiloCode]] — AI coding agent company building tools for agentic engineering with ask/code/architect modes.
-- [[ArminRonacher]] — Creator of Flask, articulated the shift from "using" to "working with" AI.
-- [[DexHorthy]] — Thought leader on AI-assisted development, known for "AI can't replace thinking."
-- [[GitLab]] — DevOps platform and Brendan O'Leary's former employer of many years.
-- [[Flask]] — Popular Python web framework created by Armin Ronacher.
-- [[Balsamiq]] — Wireframing tool used in Brendan O'Leary's anecdote about providing proper context.
-- [[Context7]] — MCP server for up-to-date framework documentation.
-- [[OpenClaw]] — Safe AI agent usage tool from Kilo Code, paired with KiloClaw.
-- [[KevinMadura]] — Technical consultant at AlixPartners, advocate for DSPy as a framework for building AI applications.
-- [[AlixPartners]] — Consulting firm where Kevin Madura applies DSPy to diverse client AI problems.
-- [[BAML]] — Prompt formatting notation and adapter for LLMs, supported in DSPy for more readable prompts.
-- [[GRPO]] — Group Relative Policy Optimization, a fine-tuning method that DSPy optimizers have been shown to match or exceed.
-- [[ChrisPotts]] — Researcher comparing DSPy optimizers to fine-tuning methods like GRPO.
-- [[AmanKhan]] — Product manager at Arize, presented evaluation framework for shipping AI features.
-- [[JaredZoneraich]] — Founder of PromptLayer, explained Claude Code's architecture.
-- [[PromptLayer]] — AI observability platform founded by Jared Zoneraich.
-- [[IvanLeo]] — Speaker from Manus AI, presented on building intelligent research agents.
-- [[ManusAI]] — Company building intelligent research agents, now Meta Superintelligence.
-- [[ManusAPI]] — API for Manus AI's research agent platform.
-- [[JackMorris]] — Researcher on memory and context in LLMs.
-- [[aiDotEngineer]] — AI engineering conference and YouTube channel hosting talks on AI agents and engineering.
-- [[Epoch]] — AI forecasting organization tracking compute trends and constraints on AI scaling.
-- [[Meta]] — Large technology company with best-in-class developer experience measurement infrastructure.
-- [[SimonMarlow]] — Haskell compiler (GHC) maintainer known for rigorous PR review standards.
-- [[AgentVillage]] — Research project where AI agents attempt fuzzy real-world goals in a simulated village.
-- [[LangChain]] — LLM application framework; provides load_mcp_tools for importing MCP server tools into agent workflows.
-- [[Linear]] — Modern ticketing system for software teams; used as a requirements source for AI agents.
-- [[LinkedIn]] — Professional social network; example of extreme corporate data complexity challenging AI.
-- [[Nvidia]] — Leading GPU and AI chip manufacturer; example of chip binning by manufacturing quality.
-- [[HazelHopper]] — Researcher co-authoring a paper on the full capability set required for AGI.
-- [[ArjunRamani]] — Researcher co-authoring a paper on the full capability set required for AGI.
-- - [[CassidyHardin]] — Researcher at Google DeepMind, presented Gemma 4 deep dive.
-- [[Gemma4]] — Google DeepMind's latest open-source model family (31B, 26B MoE, E4B, E2B) with Apache 2.0 license.
-- [[Gemma3]] — Previous generation Gemma models that introduced vision and paved the way for Gemma 4.
-- [[HuggingFace]] — Model hosting platform where Gemma 4 models are available for self-hosting.
-- [[Kaggle]] — Data science and model hosting platform for Gemma 4 self-hosting.
-- [[Ollama]] — Local model runner for self-hosting Gemma 4 models.
-- [[AIStudio]] — Google's AI prototyping platform with cloud-hosted Gemma 4 access.
-- [[VertexAI]] — Google Cloud's enterprise AI platform with cloud-hosted Gemma 4 access.
-[[Waymo]] — Self-driving car company (Alphabet subsidiary); analogy for eval-driven development and physical-world AI challenges.
+- [[A2UI]] — --
+- [[Abhyek]] — --
+- [[Ableton]] — --
+- [[Ably]] — --
+- [[Accenture]] — --
+- [[ACE]] — --
+- [[ADA]] — ADA is a programming language used by government agencies to run critical infrastructure worldwide. It was featured i...
+- [[AdamW]] — --
+- [[AdamWolfe]] — --
+- [[Adaptive ML]] — --
+- [[Adnan Qureshi]] — --
+- [[Adobe]] — --
+- [[Adrian Bertagnoli]] — --
+- [[Adrien Grondin]] — --
+- [[Agent Bricks]] — --
+- [[Agent E]] — --
+- [[Agenta AI]] — --
+- [[AgentCore]] — --
+- [[AgentCraft]] — --
+- [[AgentVillage]] — --
+- [[AGUI Protocol]] — --
+- [[AI Core]] — --
+- [[AI Edge Eloquent]] — --
+- [[AI Edge Gallery]] — --
+- [[AI Studio]] — --
+- [[AI21 Labs]] — --
+- [[AIDevCon]] — --
+- [[aiDotEngineer]] — --
+- [[AIECodeSummit]] — --
+- [[Airbnb]] — --
+- [[AirSkills]] — --
+- [[AISafetyInstitute]] — --
+- [[AISDK]] — --
+- [[AISingapore]] — --
+- [[AIStudio]] — --
+- [[AlanKay]] — --
+- [[Alessandro Cappelli]] — --
+- [[Alex Cheema]] — --
+- [[AlexAlbert]] — --
+- [[AlexArizeAgent]] — --
+- [[AlHarris]] — --
+- [[AlixPartners]] — --
+- [[AlphaZero]] — --
+- [[AmanKhan]] — --
+- [[Amazon Alexa]] — --
+- [[Amazon Q Developer]] — --
+- [[Amazon Titan]] — --
+- [[Amazon]] — --
+- [[AmazonBedrock]] — --
+- [[AmazonDynamoDB]] — --
+- [[AmazonKiro]] — --
+- [[AmazonS3]] — --
+- [[AMD]] — --
+- [[AMI Dataset]] — --
+- [[AmpCode]] — --
+- [[Amplifon]] — --
+- [[Amy Boyd]] — --
+- [[Anant Dole]] — --
+- [[AndrejKarpathy]] — --
+- [[Andres Marafioti]] — --
+- [[Andrew Wilson]] — --
+- [[Android]] — --
+- [[AndroidStudio]] — --
+- [[AngelosPerivolaropoulos]] — --
+- [[Angus J. McLean]] — --
+- [[Anterior]] — --
+- [[Anthropic]] — --
+- [[Antigravity]] — --
+- [[Antje Barth]] — --
+- [[ApacheAirflow]] — --
+- [[AparnaDhinakaran]] — --
+- [[Aperture (Tailscale)]] — --
+- [[Apify]] — --
+- [[Apple]] — --
+- [[AppleIntelligence]] — --
+- [[AraKhan]] — --
+- [[ARCAGI]] — --
+- [[ArcBrowser]] — --
+- [[ARCPrizeFoundation]] — --
+- [[ArenaAi]] — --
+- [[Aria UK Institute]] — --
+- [[Arise]] — --
+- [[Arize]] — --
+- [[ArizeAX]] — --
+- [[ArjunRamani]] — --
+- [[ArminRonacher]] — --
+- [[Artifacts]] — --
+- [[ASA (AntiSocial Social Agent)]] — --
+- [[AsafBord]] — --
+- [[Asana]] — --
+- [[Asbjorn Steinskog]] — --
+- [[Ash Prabaker]] — --
+- [[AshMaurya]] — --
+- [[ASUS]] — --
+- [[AT&T]] — --
+- [[AtlasPlatform]] — --
+- [[Atlassian]] — --
+- [[Audry Hsu]] — --
+- [[Augment Code]] — --
+- [[Auth0]] — --
+- [[AuthKit]] — --
+- [[Autodesk]] — --
+- [[AWS Trainium]] — --
+- [[AWS]] — --
+- [[Balsamiq]] — --
+- [[BAML]] — --
+- [[BankingCircle]] — --
+- [[Baz]] — --
+- [[Beads]] — --
+- [[BendingSpoons]] — --
+- [[Benjamin Cowen]] — --
+- [[Benjamin Verbeek]] — --
+- [[Benji]] — --
+- [[BenKunkle]] — --
+- [[BERT]] — --
+- [[Bertrand Charpentier]] — --
+- [[BeyangLiu]] — --
+- [[BigQuery]] — --
+- [[Bitly]] — --
+- [[Black Forest Labs]] — --
+- [[Block]] — --
+- [[Bonhams]] — --
+- [[BookingCom]] — --
+- [[Boris Starkov]] — --
+- [[Braintrust]] — --
+- [[Brandon Waselnuk]] — --
+- [[BrendanOLeary]] — --
+- [[BrianArmstrong]] — --
+- [[BrianScanlan]] — --
+- [[Bright Data]] — --
+- [[British Museum]] — --
+- [[BrowserBase]] — --
+- [[BrowserOperator]] — --
+- [[BryanBischof]] — --
+- [[BTQL]] — --
+- [[Bugbot]] — --
+- [[Bun]] — --
+- [[Cadence]] — --
+- [[Callosum]] — --
+- [[CalumBeer]] — --
+- [[Calvin]] — --
+- [[Canva]] — --
+- [[CapCut]] — --
+- [[CapitalOne]] — --
+- [[CarlosGalan]] — --
+- [[Case]] — --
+- [[CassidyHardin]] — --
+- [[CCS]] — --
+- [[Cerebras]] — --
+- [[chat SDK]] — --
+- [[ChatGPT Image]] — --
+- [[ChatGPT]] — --
+- [[Cherrypick]] — --
+- [[Chintan Parikh]] — --
+- [[ChrisLattner]] — --
+- [[ChrisLovejoy]] — --
+- [[ChrisParsons]] — --
+- [[ChrisPotts]] — --
+- [[Christie's]] — --
+- [[Chroma]] — --
+- [[Chrome DevTools MCP]] — --
+- [[Chrome DevTools]] — --
+- [[Chronosphere]] — --
+- [[CISPO]] — --
+- [[Claude 3.5 Sonnet]] — --
+- [[Claude Opus 4.6]] — --
+- [[Claude Shannon]] — --
+- [[Claude Sonnet 4.6]] — --
+- [[ClaudeAgentSDK]] — --
+- [[ClaudeCode]] — --
+- [[ClaudeDesktop]] — --
+- [[Clay]] — --
+- [[ClickHouse]] — --
+- [[Cline]] — --
+- [[Clojure]] — --
+- [[Cloud Run]] — --
+- [[CloudCrawl]] — --
+- [[CloudFlare]] — --
+- [[CloudflareWorkers]] — --
+- [[CloudFoundry]] — --
+- [[Cmd+Ctrl]] — --
+- [[Codeium]] — --
+- [[CodeOSS]] — --
+- [[Codex]] — --
+- [[Cognition]] — --
+- [[Cohere]] — --
+- [[Coinbase]] — --
+- [[Colossyan]] — --
+- [[Comet]] — --
+- [[Composer]] — --
+- [[Confluence]] — --
+- [[Context7]] — --
+- [[ContextBench]] — --
+- [[ConvNeXt]] — --
+- [[Coqui]] — --
+- [[Core ML]] — --
+- [[CoreBench]] — --
+- [[Cormac Brick]] — --
+- [[CorneliaDavis]] — --
+- [[Coursera]] — --
+- [[Crawlera]] — --
+- [[Create Context Graph]] — --
+- [[CrewAI]] — --
+- [[CRFM]] — --
+- [[CristinaPoncelaCubeiro]] — --
+- [[Cruise]] — --
+- [[Cursor]] — --
+- [[Cursor3]] — --
+- [[CursorCloudAgents]] — --
+- [[DanielHan]] — --
+- [[DanielSzoke]] — --
+- [[DaniloCampos]] — --
+- [[DanJames]] — --
+- [[DannyGollapalli]] — --
+- [[DanShapiro]] — --
+- [[Databricks]] — --
+- [[DatabricksGenie]] — --
+- [[Datadog]] — --
+- [[Datalogi]] — --
+- [[DatNgo]] — --
+- [[DavidAllen]] — --
+- [[DavidGomes]] — --
+- [[DavidSoriaParra]] — --
+- [[Decagon]] — --
+- [[Deep Blue]] — --
+- [[DeeplearningAi]] — --
+- [[DeepSeek]] — --
+- [[Deepset]] — --
+- [[Delta Lake]] — --
+- [[Dennis Trope]] — --
+- [[Deno]] — --
+- [[Devin]] — --
+- [[DexHorthy]] — --
+- [[DGX Spark]] — --
+- [[DHH]] — --
+- [[DiaBrowser]] — --
+- [[DiegoCarpentero]] — --
+- [[DigitalOcean]] — --
+- [[DinoV2]] — --
+- [[DINOv3]] — --
+- [[Dippu Singh]] — --
+- [[Discord]] — --
+- [[DJI]] — --
+- [[Docker]] — --
+- [[Docling]] — --
+- [[DORA]] — --
+- [[DottaBippa]] — --
+- [[Dr. Satya Nitta]] — --
+- [[DSPy]] — --
+- [[DuckDB]] — --
+- [[Duolingo]] — --
+- [[DX]] — --
+- [[Earendil]] — --
+- [[EdsgerDijkstra]] — --
+- [[Effect]] — --
+- [[Effectful]] — --
+- [[EisoKant]] — Eiso Kant (also referred to as "ISO") is the co-founder of Poolside. He was an early pioneer in neural code completio...
+- [[Elastic]] — --
+- [[Electron]] — --
+- [[ElevenLabs]] — --
+- [[EliyahuGoldratt]] — --
+- [[Embedding Gemma]] — --
+- [[Emergence]] — --
+- [[EnoReyes]] — --
+- [[EnvironmentsHub]] — --
+- [[EoinMulgrew]] — --
+- [[Epoch]] — --
+- [[EQVAE]] — --
+- [[Ergo Labs]] — --
+- [[Eric Allam]] — --
+- [[Eric Schmidt]] — --
+- [[EricRies]] — --
+- [[EricZakariasson]] — --
+- [[ESLint]] — --
+- [[Eugene Yan]] — --
+- [[EugeneYan]] — --
+- [[Events.iterateCom]] — --
+- [[Excalidraw MCP App]] — --
+- [[Excalidraw]] — --
+- [[EXO (App)]] — --
+- [[EXO Labs]] — --
+- [[Expedia]] — --
+- [[ExtractAITool]] — --
+- [[FactoryAI]] — --
+- [[Fairies]] — --
+- [[Falcon (LLM)]] — --
+- [[Fall]] — --
+- [[FarhanThawar]] — --
+- [[FastMCP]] — --
+- [[FeiFei Li]] — --
+- [[FFmpeg]] — --
+- [[FGN]] — --
+- [[Figma]] — --
+- [[Finn]] — --
+- [[Firebase]] — --
+- [[Firecrawl]] — --
+- [[Firestore]] — --
+- [[FishJam]] — --
+- [[Fiverr]] — --
+- [[Flask]] — --
+- [[FlinnAI]] — --
+- [[Flux 2 Klein]] — --
+- [[Flux]] — --
+- [[Foundation Capital]] — --
+- [[FredBrooks]] — --
+- [[Fryderyk Wiatrowski]] — --
+- [[FuadAli]] — --
+- [[Fujitsu North America]] — --
+- [[Fulan]] — --
+- [[Function Gemma]] — --
+- [[GarrettGalow]] — --
+- [[Garry Kasparov]] — --
+- [[Gartner]] — --
+- [[Gemini 3 Flash]] — --
+- [[Gemini 3.1 Flash Light]] — --
+- [[Gemini 3.1 Flash Live]] — --
+- [[Gemini 3.1 Pro]] — --
+- [[Gemini CLI]] — --
+- [[Gemini3]] — --
+- [[Gemini31FlashLive]] — --
+- [[GeminiEmbeddings2]] — --
+- [[GeminiInteractionsAPI]] — --
+- [[GeminiLiveAPI]] — --
+- [[Gemma 4]] — --
+- [[Gemma]] — --
+- [[Gemma3]] — --
+- [[Gemma4]] — --
+- [[GenCast]] — --
+- [[Genie 3]] — --
+- [[Genie1]] — --
+- [[Genie2]] — --
+- [[GEPA]] — --
+- [[GergelyOrosz]] — --
+- [[GGUF]] — --
+- [[Ghosty]] — --
+- [[Gina]] — --
+- [[GitHub Archive]] — --
+- [[GitHub Codespaces]] — --
+- [[GitHub Workspace]] — --
+- [[GitHub]] — --
+- [[GitHubCopilot]] — --
+- [[GitHubNext]] — --
+- [[GitLab]] — --
+- [[Glass]] — --
+- [[GLIDE]] — --
+- [[GLM 5.1]] — --
+- [[Gmail]] — --
+- [[Go pprof]] — --
+- [[Google AI Edge]] — --
+- [[Google Assistant]] — --
+- [[Google Calendar]] — --
+- [[Google Home]] — --
+- [[Google Pixel]] — --
+- [[Google]] — --
+- [[GoogleAIStudio]] — --
+- [[GoogleColab]] — --
+- [[GoogleDeepMind]] — --
+- [[Goose Auto Visualizer]] — --
+- [[Goose]] — --
+- [[GPQA]] — --
+- [[GPT 5.2]] — --
+- [[GPT 5.4]] — --
+- [[GPT-2]] — --
+- [[GPT-3]] — --
+- [[Gradio]] — --
+- [[Gradium AI]] — --
+- [[Gradium Phonon]] — --
+- [[Grafana]] — --
+- [[Granite]] — --
+- [[Granola]] — --
+- [[GraphCast]] — --
+- [[GregBrockman]] — --
+- [[Greptile]] — --
+- [[Grok]] — --
+- [[Groq]] — --
+- [[GRPO]] — --
+- [[Guardian]] — --
+- [[Guillaume Vernade]] — --
+- [[HackerNews]] — --
+- [[Haiku]] — --
+- [[HamillHussein]] — --
+- [[Harbor]] — --
+- [[HarborEval]] — --
+- [[HarryCoppock]] — --
+- [[Harshil Agrawal]] — --
+- [[Harvey]] — --
+- [[HashiCorp]] — --
+- [[HaskellCompiler]] — --
+- [[Haystack]] — --
+- [[HazelHopper]] — --
+- [[Hazy Research]] — --
+- [[HCAST]] — --
+- [[Helm]] — --
+- [[Hera]] — --
+- [[Hermes Agent]] — --
+- [[Hermes]] — --
+- [[Hervé Bredin]] — --
+- [[Hex]] — --
+- [[Honeycomb]] — --
+- [[HuggingFace]] — --
+- [[HuggingFaceTransformers]] — --
+- [[HugoSantos]] — --
+- [[Human Layer]] — --
+- [[Ian Ballantyne]] — --
+- [[Ian Cooper]] — --
+- [[IBM Watson]] — --
+- [[IBM]] — --
+- [[Ibragim Badertdinov]] — --
+- [[IdoSalomon]] — --
+- [[IFTTT]] — --
+- [[IKEA]] — --
+- [[Imagen]] — --
+- [[ImageNet]] — --
+- [[IncidentIo]] — --
+- [[IncubatorForAI]] — --
+- [[InjectGuard]] — --
+- [[Instacart]] — --
+- [[Intel]] — --
+- [[Intercom]] — --
+- [[iOS]] — --
+- [[Isaac Robinson]] — --
+- [[Iterate]] — --
+- [[IvanLeo]] — --
+- [[Jace]] — --
+- [[JackMorris]] — --
+- [[JackWang]] — --
+- [[JacobLauritzen]] — --
+- [[JakeNations]] — --
+- [[JaredZoneraich]] — --
+- [[JasonLou]] — --
+- [[JasonWarner]] — Jason Warner is the co-founder of Poolside and former CTO of GitHub (2017+). At GitHub, he led the transformation of ...
+- [[JAX]] — --
+- [[JCAI]] — --
+- [[JedBorovik]] — --
+- [[JeffreyHintonLee]] — --
+- [[JeremiahLowin]] — --
+- [[JeremyFronae]] — --
+- [[JessGroganAvignon]] — --
+- [[Jira]] — --
+- [[Joao Moura]] — --
+- [[Joe Reeve]] — --
+- [[JoelBecker]] — --
+- [[Johan]] — --
+- [[JohnDeere]] — --
+- [[JohnOusterhout]] — --
+- [[Jonas Templestein]] — --
+- [[JonasTemplestein]] — --
+- [[JPMorgan]] — --
+- [[JQ]] — --
+- [[JSConfEU]] — --
+- [[JSON Render]] — --
+- [[JuanHerrerosElorza]] — --
+- [[Jules]] — --
+- [[just bash]] — --
+- [[JustAI]] — --
+- [[JustinLin]] — --
+- [[JustinReock]] — --
+- [[JVector]] — --
+- [[Kaggle]] — --
+- [[KaranSampath]] — --
+- [[Katia Gil Guzman]] — --
+- [[KellyKFL]] — --
+- [[Ken Thompson]] — --
+- [[KentBeck]] — --
+- [[Kenton]] — --
+- [[Keras]] — --
+- [[KevinHou]] — --
+- [[KevinMadura]] — --
+- [[KiloCode]] — --
+- [[Kimi]] — --
+- [[Kitze]] — --
+- [[Klarna]] — --
+- [[Kobie Crawford]] — --
+- [[Kokoro]] — --
+- [[KP Sawhney]] — --
+- [[KPMG]] — --
+- [[KubaRogut]] — --
+- [[Kubernetes]] — --
+- [[Kyle Daigle]] — --
+- [[Kyutai]] — --
+- [[LangChain]] — --
+- [[LangFlow]] — --
+- [[LangGraph]] — --
+- [[Last Gammel]] — --
+- [[Latent Space]] — --
+- [[LaurieVoss]] — --
+- [[Lawrence Jones]] — --
+- [[Legora]] — --
+- [[LennyPodcast]] — --
+- [[Lenses]] — --
+- [[Leonie Monigatti]] — --
+- [[LFM]] — --
+- [[Liad Yosef]] — --
+- [[Liam Hampton]] — --
+- [[Liam McGarrigle]] — --
+- [[Lianne]] — --
+- [[LibreChat]] — --
+- [[LibreOffice]] — --
+- [[LifeKit]] — --
+- [[Linear]] — --
+- [[LinkedIn]] — --
+- [[LiquidAI]] — --
+- [[Lite RT]] — --
+- [[LiteLLM]] — --
+- [[LiteRTLM]] — --
+- [[LiteRT]] — --
+- [[LLaMA]] — --
+- [[Llama3]] — --
+- [[LlamaCpp]] — --
+- [[LM Studio]] — --
+- [[Locally AI]] — --
+- [[Lockbox]] — --
+- [[LogRocket]] — --
+- [[Louis KnightWebb]] — --
+- [[LouisFrançois Bouchard]] — --
+- [[Lovable]] — --
+- [[Lovelace]] — --
+- [[LukeAlvoeiro]] — --
+- [[LukeHarries]] — --
+- [[Luma AI]] — --
+- [[Lyft]] — --
+- [[Lyra 3]] — --
+- [[Lyra3]] — --
+- [[Lyria RealTime]] — --
+- [[Lyria]] — --
+- [[MacTop]] — --
+- [[MadisonFaulkner]] — --
+- [[MAE (Masked Autoencoder)]] — --
+- [[MaggieAppleton]] — --
+- [[Magic Path]] — --
+- [[Magnus Carlsen]] — --
+- [[Mahmoud Mabrouk]] — --
+- [[Make Real]] — --
+- [[MalibuAgent]] — Malibu Agent is Poolside's second-generation AI model, trained from scratch using proprietary reinforcement learning ...
+- [[Malte Ubl]] — --
+- [[Manifold]] — --
+- [[Manulife]] — --
+- [[ManusAI]] — --
+- [[ManusAPI]] — --
+- [[MarduSwanepoel]] — --
+- [[MarioZechner]] — --
+- [[Marlene Mhangami]] — --
+- [[Marvin]] — --
+- [[Marvis]] — --
+- [[MattCarey]] — --
+- [[Matthias Luebken]] — --
+- [[Mattia Redaelli]] — --
+- [[MattPocock]] — --
+- [[Mauro Luchetti]] — --
+- [[Max Ryabinin]] — --
+- [[MAX]] — --
+- [[MaximeLabonne]] — --
+- [[MaxKanatAlexander]] — --
+- [[Maya]] — --
+- [[Mayank Pant]] — --
+- [[MC apps]] — --
+- [[MCI]] — --
+- [[McKinsey]] — --
+- [[MCP Apps]] — --
+- [[MCPUI]] — --
+- [[MedGemini]] — --
+- [[MediaPipe]] — --
+- [[MediaTek]] — --
+- [[Mehedi Hassan]] — --
+- [[Merve Noyan]] — --
+- [[Meta]] — --
+- [[MetaRayBan]] — --
+- [[METR]] — --
+- [[Michael Arnaldi]] — --
+- [[Michael Hablich]] — --
+- [[MichaelAaron]] — --
+- [[MichaelRichman]] — --
+- [[Michal Cichra]] — --
+- [[MicheleCatasta]] — --
+- [[Microsoft Foundry]] — --
+- [[Microsoft Teams]] — --
+- [[Microsoft]] — --
+- [[Microsoft365]] — --
+- [[MicrosoftAzure]] — --
+- [[MicrosoftEntra]] — --
+- [[MikaelParyk]] — --
+- [[Mike Chambers]] — --
+- [[Mike Christensen]] — --
+- [[MikeSpitz]] — --
+- [[MinaJovovich]] — --
+- [[MiniMax]] — --
+- [[Miro]] — --
+- [[Misha]] — --
+- [[Mistral AI]] — --
+- [[Mistral]] — --
+- [[MitchellHashimoto]] — --
+- [[MLflow]] — --
+- [[MLX Audio]] — --
+- [[MLX Swift LM]] — --
+- [[MLX Video]] — --
+- [[MLX VLM]] — --
+- [[MLX]] — --
+- [[MMLU]] — --
+- [[Modal]] — --
+- [[ModernBERT]] — --
+- [[Modular]] — --
+- [[Mojo]] — --
+- [[Monday]] — --
+- [[MorganStanley]] — --
+- [[Mosaic AI Agent Framework]] — --
+- [[Moshi]] — --
+- [[Mozhgan Kabiri Chimeh]] — --
+- [[Mythos]] — --
+- [[N8N]] — --
+- [[Namespace]] — --
+- [[Nano Banana 2]] — --
+- [[NanoBanana]] — --
+- [[NanoBananaPro]] — --
+- [[nanoGPT]] — --
+- [[NatFriedman]] — Nat Friedman is a technology executive who worked with Jason Warner at GitHub on the development and launch of GitHub...
+- [[NEA]] — --
+- [[Nebius]] — --
+- [[Neil Zeghidour]] — --
+- [[NeMo Claw]] — --
+- [[Neo4j Agent Memory]] — --
+- [[Neo4j]] — --
+- [[Neon]] — --
+- [[Netflix]] — --
+- [[NextJS]] — --
+- [[Nexus (book)]] — --
+- [[Neywa Labs]] — --
+- [[NicholasKang]] — --
+- [[NickNisi]] — --
+- [[NicoAlbanese]] — --
+- [[NimrodHauser]] — --
+- [[Nitya Narasimhan]] — --
+- [[NorthwesternMutual]] — --
+- [[NotebookLM]] — --
+- [[Notion]] — --
+- [[Notius Labs]] — --
+- [[NPMI agents]] — --
+- [[Number10DataScience]] — --
+- [[NVIDIA Parakeet]] — --
+- [[Nvidia]] — --
+- [[Obsidian]] — --
+- [[Okta]] — --
+- [[Oliver]] — --
+- [[Ollama]] — --
+- [[OmarKhattab]] — --
+- [[OmarSanseviero]] — --
+- [[ONNX]] — --
+- [[Open Router]] — --
+- [[OpenAI]] — --
+- [[OpenAIAgentsSDK]] — --
+- [[OpenBenchmarksGrant]] — --
+- [[OpenClaw]] — --
+- [[OpenCode]] — --
+- [[OpenDevin]] — --
+- [[OpenHands]] — --
+- [[OpenInference]] — --
+- [[OpenRAG]] — --
+- [[OpenRouter]] — --
+- [[OpenSearch]] — --
+- [[OpenTelemetry]] — --
+- [[Opic]] — --
+- [[Opus 4.5]] — --
+- [[Opus]] — --
+- [[OReilly]] — --
+- [[OWASP]] — --
+- [[PabloPicasso]] — --
+- [[Paige Bailey]] — --
+- [[Paperclip]] — --
+- [[Pardeep]] — --
+- [[PartyKit]] — --
+- [[PatrickDebois]] — --
+- [[PatrickRiley]] — --
+- [[Paul Iusztin]] — --
+- [[PedroRodrigues]] — --
+- [[Pentress]] — --
+- [[Perplexity]] — --
+- [[PersonalPlex]] — --
+- [[Peter Gostev]] — --
+- [[PeterSteinberger]] — --
+- [[PeterWerry]] — --
+- [[PeterWielander]] — --
+- [[PFF]] — --
+- [[Phi3]] — --
+- [[Phil Nash]] — --
+- [[PhilHetzel]] — --
+- [[PhilippSchmid]] — --
+- [[Phoenix]] — --
+- [[Pi (coding agent)]] — --
+- [[PipeCast]] — --
+- [[Play Magnus]] — --
+- [[PlayMagnus]] — --
+- [[Playwright Agents]] — --
+- [[Playwright MCP]] — --
+- [[Playwright]] — --
+- [[PokéAPI]] — --
+- [[Poolside]] — Poolside is an AI company building proprietary models from scratch to close the gap between models and human intellig...
+- [[Postgres]] — --
+- [[PostHog]] — --
+- [[PostHogWizard]] — --
+- [[Postman]] — --
+- [[PragmaticEngineer]] — --
+- [[Prasenjit Sarkar]] — --
+- [[PrefectTechnologies]] — --
+- [[PrimeIntellect]] — --
+- [[PrimeRL]] — --
+- [[Prince Canuma]] — --
+- [[Priscila Andre de Oliveira]] — --
+- [[Project Gutenberg]] — --
+- [[Prompt Motion]] — --
+- [[PromptLayer]] — --
+- [[Pruna]] — --
+- [[Pupper]] — --
+- [[PyAnnote]] — --
+- [[pyannoteAI]] — --
+- [[Pydantic AI]] — --
+- [[Pydantic Logfire]] — --
+- [[Pydantic Monty]] — --
+- [[Pydantic]] — --
+- [[PyTorch]] — --
+- [[Qualcomm]] — --
+- [[Quantyca]] — --
+- [[Qwen]] — --
+- [[RadekSienkiewicz]] — --
+- [[Rafael Levi]] — --
+- [[RaiaHadsell]] — --
+- [[Raindrop]] — --
+- [[Raj]] — --
+- [[RalphWiggum]] — --
+- [[Ramp]] — --
+- [[Raspberry Pi]] — --
+- [[REBench]] — --
+- [[Reachy Mini]] — --
+- [[React]] — --
+- [[Reddit]] — --
+- [[RedHat]] — --
+- [[Redux]] — --
+- [[Refuel]] — --
+- [[Remotion]] — --
+- [[Remy Guercio]] — --
+- [[Replit]] — --
+- [[ReplitAgent]] — --
+- [[Revolut]] — --
+- [[RF100VL]] — --
+- [[RFDetR]] — --
+- [[RichardHamming]] — --
+- [[RichHickey]] — --
+- [[Richie Mini]] — --
+- [[Rishabh Bhargava]] — --
+- [[RL Nabors]] — --
+- [[RobertBrennan]] — --
+- [[Roboflow]] — --
+- [[Ruben Casas]] — --
+- [[Ruby on Rails]] — --
+- [[RunPod]] — --
+- [[Rust]] — --
+- [[RXP]] — --
+- [[RyanCarson]] — --
+- [[RyanLopopolo]] — --
+- [[SafeIntelligence]] — --
+- [[Sainsbury Centre]] — --
+- [[Salesforce]] — --
+- [[SallyAnnDeLucia]] — --
+- [[SAM (Segment Anything Model)]] — --
+- [[Sam Altman]] — --
+- [[SambaNova]] — --
+- [[SamirMody]] — --
+- [[Samridhi]] — --
+- [[Samsung]] — --
+- [[Samuel Colvin]] — --
+- [[Samuel Humeau]] — --
+- [[Sandcastle]] — --
+- [[SanderDieleman]] — --
+- [[SandipanBhaumik]] — --
+- [[Sarah Hooker]] — --
+- [[Sarvam]] — --
+- [[Science Museum (London)]] — --
+- [[ScikitLearn]] — --
+- [[SCIM]] — --
+- [[ScottCondrin]] — --
+- [[ScribeV2]] — --
+- [[Self Flow]] — --
+- [[SemiAnalysis]] — --
+- [[Sentry]] — --
+- [[Sesame AI]] — --
+- [[Seven AI]] — --
+- [[shadcn]] — --
+- [[SharePoint]] — --
+- [[Shein]] — --
+- [[ShieldGemma]] — --
+- [[ShigeoShingo]] — --
+- [[Shivam Verma]] — --
+- [[Shopify]] — --
+- [[ShreyaShankar]] — --
+- [[Sierra]] — --
+- [[Simon Woods]] — --
+- [[SimonMarlow]] — --
+- [[ŠimonPodhajský]] — --
+- [[SimonWillison]] — --
+- [[SingleStore]] — --
+- [[Sir Michael Caine]] — --
+- [[Siri]] — --
+- [[Slack]] — --
+- [[SlalomConsulting]] — --
+- [[SlideDev]] — --
+- [[Smogon]] — --
+- [[Snorkel]] — --
+- [[SnorkelAI]] — --
+- [[Snowflake]] — --
+- [[Snyk]] — --
+- [[SoftwareMansion]] — --
+- [[Sonar]] — --
+- [[SonarQube]] — --
+- [[Sonnet]] — --
+- [[Sonny Merla]] — --
+- [[Sourcegraph]] — --
+- [[Spark]] — --
+- [[Spec 27]] — --
+- [[Spielwork]] — --
+- [[Spotify]] — --
+- [[Spy]] — --
+- [[SQLite]] — --
+- [[Stability AI]] — --
+- [[Stable Diffusion]] — --
+- [[Stadia]] — --
+- [[Stagehand]] — --
+- [[Stanford]] — --
+- [[Statsig]] — --
+- [[StefanoFiorucci]] — --
+- [[Stephen Batifol]] — --
+- [[Stephen Chin]] — --
+- [[Steve Kaliski]] — --
+- [[Steve Ruiz]] — --
+- [[SteveJobs]] — --
+- [[Steven Willmott]] — --
+- [[SteveYegge]] — --
+- [[Stitches]] — --
+- [[Stockfish]] — --
+- [[Stripe]] — --
+- [[SunilPai]] — --
+- [[Supabase]] — --
+- [[Super Whisper]] — --
+- [[SWAR]] — --
+- [[SWEBench]] — --
+- [[SWERebench]] — --
+- [[Swin Transformer]] — --
+- [[swyx]] — --
+- [[Symphony]] — --
+- [[Tailscale]] — --
+- [[Talos]] — --
+- [[Tandem]] — --
+- [[TanStack Start]] — --
+- [[Tantivy]] — --
+- [[Tasker]] — --
+- [[TauBench]] — --
+- [[TejasKumar]] — --
+- [[Telegram]] — --
+- [[Tempo]] — --
+- [[Temporal]] — --
+- [[Temu]] — --
+- [[TensorFlow Lite]] — --
+- [[TensorRT]] — --
+- [[TerminalBench]] — --
+- [[Terminus]] — --
+- [[Tessl]] — --
+- [[ThariqShihipar]] — --
+- [[TheBrowserCompany]] — --
+- [[ThinkingMachines]] — --
+- [[Thomas Dohmke]] — --
+- [[ThorSchaeff]] — --
+- [[ThunderKittens]] — --
+- [[TillDraw]] — --
+- [[Tinker Club]] — --
+- [[TLDraw]] — --
+- [[Together AI]] — --
+- [[TonyBlairInstitute]] — --
+- [[ToolEnvironments]] — --
+- [[Towards AI]] — --
+- [[ToyotaProductionSystem]] — --
+- [[TPU]] — --
+- [[Trainline]] — --
+- [[Treehouse]] — --
+- [[TriggerDev]] — --
+- [[Triton]] — --
+- [[Trivy]] — --
+- [[TS Net]] — --
+- [[TunShwe]] — --
+- [[TuomasArtman]] — --
+- [[Turbo Quant]] — --
+- [[TurboGrep]] — --
+- [[Turbopuffer]] — --
+- [[Twilio]] — --
+- [[Uber]] — --
+- [[Unblocked]] — --
+- [[Unity Catalog]] — --
+- [[Unsloth]] — --
+- [[Upstash]] — --
+- [[UTM]] — --
+- [[UV]] — --
+- [[V&A Museum]] — --
+- [[V8Isolates]] — --
+- [[Vaibhav Srivastav]] — --
+- [[VEO 3.1 Light]] — --
+- [[Veo]] — --
+- [[Vercel]] — --
+- [[VercelSandbox]] — --
+- [[Verdaccio]] — --
+- [[Verifiers]] — --
+- [[Vertex AI]] — --
+- [[VertexAI]] — --
+- [[Very]] — --
+- [[Vibe Kanban]] — --
+- [[Vienna JS]] — --
+- [[Viking Phone]] — --
+- [[Viktor]] — --
+- [[VincentChen]] — --
+- [[VincentKoc]] — --
+- [[VisionAgents]] — --
+- [[VisualStudioCode]] — --
+- [[ViT (Vision Transformer)]] — --
+- [[Vivaldi]] — --
+- [[vLLM]] — --
+- [[Voice Chat (Nvidia)]] — --
+- [[VoxImplants]] — --
+- [[Voyage]] — --
+- [[Walmart]] — --
+- [[Waymo]] — --
+- [[Waypoint]] — --
+- [[WebMCP]] — --
+- [[Weiyi Wang]] — --
+- [[WhatsApp]] — --
+- [[Whisper]] — --
+- [[WhisperFlow]] — --
+- [[William Lyon]] — --
+- [[Windsurf]] — Windsurf is an AI coding tool mentioned by Jason Warner as one of the engineering assistant products in the ecosystem...
+- [[WireGuard]] — --
+- [[Wolfer]] — --
+- [[Work IQ]] — --
+- [[WorkerD]] — --
+- [[WorkflowDevKit]] — --
+- [[WorkOS CLI]] — --
+- [[WorkOS]] — --
+- [[World Labs]] — --
+- [[XApps]] — --
+- [[Xavier Niel]] — --
+- [[XeroxPARC]] — --
+- [[YouTube]] — --
+- [[YuvalNoahHarari]] — --
+- [[Zach Blumenfeld]] — --
+- [[ZackProser]] — --
+- [[Zapier]] — --
+- [[Zed]] — --
+- [[Zenon]] — --
+- [[Zeta2]] — --
+- [[Zoom]] — --
+- [[ZubinKoticha]] — --
+- [[Zustand]] — --
 
-- [[GarrettGalow]] — Runs product at WorkOS, previously at Microsoft Azure and Cloudflare, presented XAA for MCP.
-- [[WorkOS]] — Platform that makes apps and agents enterprise-ready, powers auth for Anthropic, Cursor, and OpenAI.
-- [[MicrosoftEntra]] — Microsoft identity platform, does not yet support XAA/ID JAG or DCR.
-- [[MicrosoftAzure]] — Microsoft cloud platform, Garrett Galow's previous employer.
-- [[DeepSeek]] — AI company whose models could be used as uncontrolled MCP clients in enterprises.
-- [[SCIM]] — System for Cross-domain Identity Management, used for access revocation but not universally adopted.
 ## Concepts
 
-*(Frameworks, methodologies, theories — TitleCase filenames)*
+*(Ideas, techniques, patterns, frameworks — TitleCase filenames)*
 
-- [[ModelBehavior]] — AI model behavioral patterns and characteristics.
-- [[PromptInjection]] — Security vulnerability in LLM-powered applications.
-- [[Jeba]] — Concept related to AI interaction patterns.
-- [[Jira]] — Ticketing system by Atlassian; used as a requirements source for AI agents.
-- [[AIBrowsers]] — Browser products built with AI-native architecture.
-- [[AgentReadyCodebases]] — Codebases instrumented with validation criteria enabling reliable AI agent operation.
-- [[SpecificationDrivenDevelopment]] — Development paradigm where developers specify constraints and agents generate verified solutions.
-- [[AutomatedValidation]] — Programmatic checks verifying code correctness, quality, and standards adherence.
-- [[VerificationAsymmetry]] — Principle that verifying solutions is easier than generating them, enabling AI agent leverage.
-- [[DevXFeedbackLoop]] — Self-reinforcing cycle where better agents improve the environment, which improves agents.
-- [[Software2.0]] — Andrej Karpathy's paradigm of building software via objective specification and verification.
-- [[SubAgents]] — Architectural pattern using isolated sub-agents to manage context windows in coding agents.
-- [[AgentOrientedArchitecture]] — Design philosophy favoring purpose-built agents over model selectors.
-- [[ContextExhaustion]] — Failure mode where agent context window fills before editing can begin.
-- [[DoomLoop]] — Failure mode where insufficient context causes repeated failed attempts.
-- [[AdSponsoredInference]] — Economic model using non-intrusive ads to subsidize agent inference costs.
-- [[MCP]] — Model Context Protocol for standardized agent-tool integration.
-- [[DeveloperExperience]] — The practice of improving tools, processes, and environments for software developers.
-- [[AICodingAgents]] — AI-powered tools that autonomously write, modify, and review code.
-- [[CodeReviewVelocity]] — Speed and efficiency of code review processes, critical in agentic development.
-- [[CodebaseTestability]] — Degree to which a codebase supports effective automated testing.
-- [[TribalKnowledge]] — Unwritten system knowledge that exists only in team members' minds.
-- [[NoRegretsInvestments]] — Strategic DX investments that remain valuable regardless of AI evolution.
-- [[DevelopmentEnvironmentStandardization]] — Using industry-standard tools to maximize AI agent compatibility.
-- [[Validation]] — Deterministic checks with clear error messages that enable agent iteration.
-- [[GenBI]] — Fusion of Gen AI and Business Intelligence; an AI agent that answers business questions with data.
-- [[CrawlWalkRun]] — Phased rollout methodology: release to experts first, then broader audiences as system matures.
-- [[IncrementalDelivery]] — Six-week sprint strategy delivering tangible, productizable outcomes at each phase.
-- [[MetadataEnrichment]] — Improving data documentation and context to boost LLM performance on data tasks.
-- [[MultiAgentArchitecture]] — Pipeline of specialized AI agents (metadata, RAG, SQL, BI) collaborating on data queries.
-- [[DataDemocratization]] — Making data insights accessible to everyone without BI team dependency.
-- [[SunkCostBias]] — Cognitive bias addressed by allowing leadership to stop funding at any phase boundary.
-- [[SemanticLayer]] — Abstraction layer enriching data metadata for human and machine consumption.
-- [[SimpleVsEasy]] — Rich Hickey's distinction between structural simplicity and ease of access.
-- [[EssentialVsAccidentalComplexity]] — Fred Brooks' taxonomy: essential (problem-inherent) vs. accidental (added) complexity.
-- [[NoSilverBullet]] — Fred Brooks' 1986 paper arguing no single innovation yields order-of-magnitude productivity gains.
-- [[SoftwareCrisis]] — Recurring historical pattern where software complexity outpaces manageability.
-- [[ContextCompression]] — Jake Nations' methodology of compressing large codebase context into concise specs.
-- [[ThreePhaseApproach]] — Research → Planning → Implementation workflow for AI-assisted development.
-- [[InfiniteSoftwareCrisis]] — The AI-era acceleration of the software crisis where code generation outpaces understanding.
-- [[PromptLearning]] — Iteratively refining system prompts using English-language feedback from evals.
-- [[LLM-as-Judge]] — Using LLMs to evaluate and explain the quality of other model outputs.
-- [[MetaPrompt]] — A prompt that synthesizes improved system prompt rules from evaluation feedback.
-- [[EvalEngineering]] — The practice of crafting high-quality evaluation prompts for actionable feedback.
-- [[CoEvolvingLoops]] — Two parallel optimization loops: one for agent prompts and one for eval prompts, both requiring continuous refinement.
-- [[RuleBasedPrompting]] — Adding explicit, structured rules to system prompts to encode best practices and domain-specific guidance.
-- [[OverfittingAsExpertise]] — Reframing overfitting as building domain-specific expertise rather than a flaw in prompt learning.
-- [[PromptOptimizationLoop]] — Three-part iterative process: generate & evaluate, train & optimize, iterate until target accuracy is met.
-- [[HumanAnnotationFeedback]] — Subject matter experts providing detailed English explanations of why agent outputs failed.
-- [[GEA]] — DSPy's Genetic Evolutionary Algorithm for prompt optimization using parent-based candidate selection and probabilistic merging.
-- [[PsychologicalSafety]] — Google's Project Aristotle finding that team psychological safety is the biggest productivity indicator, critical for AI adoption.
-- [[TheoryOfConstraints]] — Eli Goldratt's framework: target the system bottleneck; an hour saved on a non-bottleneck is worthless.
-- [[AIAdoptionPatterns]] — Organizational patterns of GenAI adoption showing extreme per-company volatility masked by innocuous averages.
-- [[SystemPromptFeedbackLoop]] — Governance mechanism with a gatekeeper maintaining and improving AI system prompts continuously.
-- [[TemperatureInAI]] — LLM setting (0 to 1) controlling determinism vs. creativity in token selection.
-- [[ChangeConfidence]] — Qualitative metric measuring engineer confidence in production changes; shows extreme AI adoption volatility.
-- [[ChangeFailureRate]] — DORA metric tracking deployment failures; AI adoption can increase it by up to 50% in some orgs.
-- [[SDLCIntegration]] — Applying AI across the full software development lifecycle beyond code completion to target actual bottlenecks.
-- [[DXAIMeasurementFramework]] — DX's three-dimensional framework (Utilization, Impact, Cost) for measuring GenAI impact.
-- [[ExperienceSampling]] — Metric collection method capturing developer experience at the moment of activity (e.g., PR form fields).
-- [[Three Pillars of Autonomy]] — Replit's framework for building autonomous coding agents: frontier models, verification, and context management.
-- [[Autonomous Coding Agents]] — AI systems that independently write, test, and deploy software with minimal human intervention.
-- [[Verification in Agentic Loops]] — Testing for local correctness at every agent step to prevent compounding errors and painted doors.
-- [[Painted Doors]] — Features in agent-generated code that appear functional but are actually broken, eroding user trust.
-- [[Context Management]] — Techniques for maintaining agent coherence and intent alignment while efficiently managing context windows.
-- [[Sub-agent Orchestration]] — Architecture pattern where specialized sub-agents run with isolated context and return results to the main loop.
-- [[Parallel Agents]] — Multiple AI agents running concurrently to trade compute for reduced wall-clock time.
-- [[Core Loop as Orchestrator]] — Architecture where the main agentic loop determines task decomposition and dispatches parallel sub-agents on the fly.
-- [[Browser-based Autonomous Testing]] — Methodology where AI agents test web apps through browser interaction, using Playwright or computer use.
-- [[Computer Use]] — Browser testing approach where models interact via screenshots; more expensive but serves as fallback.
-- [[Browser Use]] — Testing approach simulating UI and interacting through DOM abstractions, middle-ground between computer use and programmatic testing.
-- [[Reducible Runtime]] — Metric for agent autonomy: the span of time where the user makes no technical decisions.
-- [[Slop]] — Low-quality, inauthentic, or inaccurate content produced by humans or AI; candidate for Oxford 2024 Word of the Year.
-- [[Kino]] — The opposite of slop; high-quality, tasteful, creative, and authentic content.
-- [[CodeSlop]] — AI-generated code that creates disproportionate tech debt or security vulnerabilities.
-- [[VibeCoding]] — AI-assisted coding approach where developers guide AI based on intent rather than precise specifications.
-- [[Modularity]] — Design principle where humans define clear boundaries and AI codes everything in between.
-- [[ContextRot]] — Degradation of context quality in AI systems over extended interactions, leading to lower quality outputs.
-- [[SemiSyncValueOfDepth]] — Framework keeping human attention on hardest problems while AI handles commoditized work asynchronously.
-- [[BrandoliniLaw]] — The energy needed to refute BS is orders of magnitude larger than needed to produce it.
-- [[WorkflowPattern]] — Orchestration architecture separating code into deterministic orchestration and isolated, retryable steps.
-- [[DurableAgents]] — AI agents built on workflow infrastructure for durability, resumability, and production reliability.
-- [[ResumableStreams]] — Streams decoupled from API handlers that can be reconnected at any point using a workflow ID.
-- [[HumanInTheLoopWorkflows]] — Workflow suspension pattern using webhooks to pause execution until human approval.
-- [[DeterministicWorkflows]] — Workflow orchestration compiled into side-effect-free bundles for deterministic replay.
-- [[DeterministicGuardrails]] — Non-agentic validation checks that intercept tool invocations to enforce safety constraints.
-- [[DeterministicToolUsage]] — Calling agentic tools as plain functions outside the agent loop for always-required operations.
-- [[StepCaching]] — Automatic caching of step inputs/outputs enabling retry without re-execution and state rehydration.
-- [[AGI]] — Artificial General Intelligence; Poolside describes current era as the awkward teenage years ahead of AGI.
-- [[AsynchronousAgentOperation]] — AI agents working independently on tasks for hours without real-time human supervision.
-- [[FullVerticalIntegration]] — Strategy of controlling the entire stack from data centers to models to end-user interfaces.
-- [[HighConsequenceCode]] — Software in defense and government environments requiring strict agent permission controls.
-- [[LongHorizonKnowledgeWork]] — AI agents performing complex knowledge work over extended periods, progressing from hours to days.
-- [[ModelScaling]] — Increasing model capability by scaling compute resources, with Poolside deploying 40,000+ GPUs.
-- [[NextTokenPrediction]] — The base mechanism of LLMs that Poolside argues must be paired with reinforcement learning.
-- [[ReinforcementLearningWithLLMs]] — Combining RL with LLMs to produce more capable intelligence, Poolside's founding thesis.
-- [[AgentObservability]] — Built-in inspection of agent runs, steps, inputs, outputs, and events via a web UI.
-- [[HammingsQuestion]] — Richard Hamming's framing device: what's the most important problem in your field and why aren't you working on it?
-- [[AIEngineeringConference]] — Two-brand conference format (World's Fair and Summit) for the AI engineering community.
-- [[TimeHorizon]] — METR's metric: the human-time-to-complete at which AI succeeds 50% of the time, showing exponential growth.
-- [[BenchmarkSaturation]] — Benchmarks losing signal as models approach ceiling performance, requiring ever harder tasks.
-- [[AIReliability]] — AI must reach 95-99% correctness for developers to trust outputs without costly verification.
-- [[ContextBaselines]] — Distinction between low-context (first-week expert) and high-context (5-year contributor) human baselines in AI evaluation.
-- [[SuboptimalCapabilityElicitation]] — Gap between what a model can do and what a given tool or deployment actually achieves.
-- [[TaskInterdependence]] — When subtasks depend on each other, delegating individual tasks to AI may not save time due to context needs.
-- [[OveroptimismAboutAI]] — Developers and experts consistently overestimate AI productivity gains, leading to overuse and disappointment.
-- [[MergeabilityScoring]] — Holistic code evaluation beyond unit tests, considering maintainability and reviewer acceptance.
-- [[RandomizedControlledTrial]] — Experimental methodology used by METR to measure causal effect of AI on developer productivity.
-- [[CognitiveExhaustFumes]] — Digital activity as a byproduct of cognition; individually waste, collectively diagnostic of how you think.
-- [[ReadOnlyAI]] — AI design philosophy where systems observe and reflect without ever writing back to source systems.
-- [[MosaicEffect]] — Security risk where combining many small pieces of information reveals a larger sensitive picture.
-- [[LethalTriquetra]] — Simon Willison's security model: private data + untrusted content + external communications.
-- [[CognitivePollution]] — Contamination of digital exhaust when AI writes to data sources, obscuring authentic human patterns.
-- [[CrossSourceSignal]] — Insights derived from combining data across multiple disconnected sources that were never designed to talk to each other.
-- [[IntentionActionGaps]] — Discrepancies between what you intend to do and what you actually do, revealed by exhaust analysis.
-- [[AttentionDrift]] — How your focus shifts over time, revealed by digital exhaust analysis.
-- [[RelationshipDecay]] — Deterioration of relationships detectable through cross-source analysis of communication patterns.
-- [[ObserverVsAgent]] — Distinction between AI that observes/reflects and AI that acts on your behalf; different product categories.
-- [[AgentIdentity]] — Auth0's four-pillar framework for AI agent identity: user identity, delegated API access, user confirmation, and fine-grained access.
-- [[AsyncAuthorization]] — Feature enabling AI agents to request user approval for risky operations via push notifications using CIBA.
-- [[CIBA]] — Client Initiated Backchannel Authentication protocol for async agent-to-user authorization flows.
-- [[ConnectedAccounts]] — Auth0 API for managing federated connections between user identities and upstream services for agent access.
-- [[CustomAPIClient]] — Auth0 linked client mechanism allowing MCP servers and agents to access remote APIs with proper authentication.
-- [[DynamicClientRegistration]] — OAuth mechanism for MCP servers to dynamically register as clients with authorization servers.
-- [[FineGrainedAuthorization]] — Access control approach giving resource owners precise control over what AI agents can access.
-- [[TokenVault]] — Auth0 mechanism for persisting upstream refresh tokens and managing token exchange for AI agents.
-- [[TokenExchange]] — OAuth mechanism for exchanging one token for another with different scopes, enabling agent API access.
-- [[RichAuthorizationRequests]] — OAuth extension carrying structured consent details (symbol, quantity, price) in authorization requests.
-- [[ProtectedResourceMetadata]] — Well-known endpoint advertising supported scopes and authorization server details for MCP servers.
-- [[ScopeBasedAccessControl]] — Fine-grained API access control using OAuth scopes for AI agent permissions.
-- [[AgenticProductDesign]] — Designing interfaces optimized for AI agents rather than humans, accounting for differences in discovery, iteration, and context.
-- [[OutcomesOverOperations]] — Composing atomic API calls into outcome-oriented agent tools rather than exposing operations individually.
-- [[FlattenArguments]] — Using top-level primitives instead of complex nested arguments in MCP tools to reduce agent confusion.
-- [[ErrorsAsPrompts]] — Treating error messages as context that becomes part of the agent's next prompt, an opportunity for progressive disclosure.
-- [[TokenBudget]] — The finite context window constraining how much tool documentation agents can consume on handshake.
-- [[ToolComposition]] — Creating new specialized agentic tools by building on existing third-party tools.
-- [[ToolCuration]] — Filtering out unnecessary third-party tools to reduce context window load and agent confusion.
-- [[ToolWrapping]] — Replacing generic third-party tool descriptions with use-case-specific enhanced descriptions.
-- [[CurateRuthlessly]] — Aggressively pruning MCP tools to essential outcomes for agent performance; start with what works, then tear down.
-- [[AgentStory]] — A user story framed for a programmatic autonomous agent with limited context, used to scope MCP tools.
-- [[ReadonlyHint]] — MCP annotation marking tools as read-only for client permission handling and reduced confirmation prompts.
-- [[Elicitation]] — MCP protocol feature allowing tools to request additional structured input mid-execution.
-- [[CodeMode]] — Technique where LLMs write code calling MCP tools in sequence to reduce iteration overhead.
-- [[ProgressiveDisclosure]] — Revealing tool information incrementally rather than all at handshake to save token budget.
-- [[PromptCaching]] — Technique achieving 90-95% cache hit rate to keep agent interactions fast by caching repeated prompt prefixes.
-- [[FiftyToolRule]] — Heuristic that agent performance degrades beyond ~50 tools per agent; ideal range is 5-15.
-- [[Agent Orchestration]] — Coordinating multiple AI coding agents working in parallel on decomposed sub-tasks of a larger problem.
-- [[Task Decomposition]] — Breaking large problems into sub-tasks that a single agent can solve in one shot, fitting in a single commit.
-- [[Verifier-Fixer Pipeline]] — Two-step agent orchestration pattern where a verifier identifies problems and a fixer addresses them via PRs.
-- [[Dependency Graph Refactoring]] — Strategy using file dependency graphs to batch related files and order work from leaf nodes upward.
-- [[Batch Graph]] — Simplified dependency graph where nodes are file batches and edges are inherited dependencies, used in the OpenHands Refactor SDK.
-- [[Scaffolding Pattern]] — Migration strategy where temporary code allows old and new systems to coexist during large-scale refactors.
-- [[CVE Remediation at Scale]] — Using parallel AI agents to scan repositories for vulnerabilities, fix them, and open pull requests.
-- [[Cloud-Based Agent Sandboxes]] — Containerized cloud execution environments providing isolated, secure workspaces for AI coding agents.
-- [[Context Sharing Between Agents]] — Strategies for passing learned information across multiple agents working on related sub-tasks.
-- [[Human-in-the-Loop Orchestration]] — Maintaining human review at intermediate steps during parallel agent workflows, targeting ~90% automation.
-- [[ThirdPartyToolOptimization]] — Best practices for optimizing third-party MCP server tools for specific agentic workflows.
-- [[SpecAsLivingDocumentation]] — Treating specifications as mutable, evolving documents rather than one-off plans.
-- [[Steering]] — Amazon Kiro's persistent memory and rules system (like Cursor rules) for consistent agent behavior across sessions.
-- [[EARS]] — Easy Approach to Requirement Syntax: structured natural language format for software requirements.
-- [[PropertyBasedTesting]] — Testing approach that attempts to falsify system invariants to prove correctness.
-- [[NeurosymbolicReasoning]] — Combining neural (LLM) and symbolic (classic automated reasoning) approaches for more reliable results.
-- [[AgentHooks]] — Event-driven extension points in Amazon Kiro that fire at specific moments in the agent loop for deterministic verification.
-- [[AgenticEngineering]] — Paradigm of working with AI as a collaborator rather than merely using it as a tool.
-- [[ContextEngineering]] — The deliberate art and science of curating what goes into an AI agent's context window, coined by Andrej Karpathy.
-- [[ResearchPlanImplement]] — Structured three-phase workflow (Research → Plan → Implement) for AI-assisted development using agent modes.
-- [[AIasJuniorDeveloper]] — Mental model treating AI agents as energetic, well-read, confidently wrong junior developers lacking judgment.
-- [[AgentModes]] — Role-based configurations for AI agents (ask, code, architect) that specialize behavior for different development phases.
-- [[AgentsDotMd]] — De facto standard file for always-on AI agent project configuration with conventions, commands, and requirements.
-- [[IncrementalDisclosure]] — Context management pattern where an AI agent discovers relevant context progressively rather than loading everything upfront.
-- [[DSPySignatures]] — Declarative input/output specifications that replace hand-written prompts in DSPy.
-- [[DSPyModules]] — Composable building blocks in DSPy that encapsulate prompting techniques.
-- [[DSPyOptimizers]] — Algorithms in DSPy that automatically tune prompts and weights.
-- [[DSPyAdapters]] — Formatting layer in DSPy that translates signatures into provider-specific prompt formats.
-- [[DeclarativePromptProgramming]] — DSPy's paradigm of declaring what you want rather than how to prompt for it.
-- [[AgenticLoop]] — The core execution pattern where an LLM has agency, deciding which tools to call and when to stop.
-- [[DurableAgenticLoop]] — The combination of agentic loops with Temporal durability for crash recovery and scaling.
-- [[DynamicActivity]] — Temporal feature allowing activities to be called by name at runtime without static registration.
-- [[EventSourcing]] — Temporal underlying mechanism: recording state changes as events to enable replay and crash recovery.
-- [[HappyPathProgramming]] — Temporal philosophy: developers write only the success path, platform handles failures.
-- [[MicroAgents]] — Small, single-purpose AI agents that do one thing well, analogous to microservices.
-- [[TemporalActivities]] — Chunks of work in Temporal wrapped with decorators for retries, state recording, and durability.
-- [[TemporalWorkflows]] — Business logic orchestrations in Temporal that compose activities with built-in durability.
-- [[AgentHandoffs]] — OpenAI Agents SDK feature where one agent transfers control to another within the same agentic loop.
-- [[OWASPLLMTop10]] — Updated OWASP top 10 list addressing LLM-specific application security threats.
-- [[ComputeCapabilityProportionality]] — Thesis that compute growth and AI capability growth are causally proportional under standard economic assumptions.
-- [[JCurveFamiliarityEffect]] — Hypothesis that AI tool productivity follows a J-curve: initial slowdown, then speedup with familiarity after 3-6 months.
-- [[BrownfieldVsGreenfield]] — Distinction between modifying existing codebases vs. building new projects; critical for AI tool evaluation.
-- [[SoftwareOnlySingularity]] — Idea that AI could automate AI research without also automating hardware; skeptics argue compute bottlenecks constrain this.
-- [[ComputerUseVsCLI]] — Computer use (GUI) capabilities lag far behind text/CLI capabilities at present.
-- [[DataScienceAIGap]] — AI struggles with real corporate data science due to messy, contradictory data and undocumented tacit knowledge.
-- [[NeurodivergentAI]] — Analogy: AI models are like neurodivergent individuals, highly capable in narrow domains but struggling with real-world complexity.
-- [[CapabilityExtrapolation]] — Projecting AI capability trends forward using multiple independent evidence sources with different strengths and weaknesses.
-- [[MonitoredVsUnmonitoredCapabilities]] — Safety monitoring may reduce effective time horizon by 1-2 orders of magnitude.
-- [[InTheWildTranscripts]] — Using real agent traces from production environments as an evidence source for capability measurement.
-- [[FuzzyGoalCompletion]] — AI agents attempting real-world objectives that aren't clearly specified; reveals failure modes.
-- [[RoboticsLag]] — Robotics capabilities lag LLM capabilities by ~2 orders of magnitude in compute investment.
-- - [[MixtureOfExperts]] — Architecture with shared router expert and multiple experts selectively activated per forward pass.
-- [[PerLayerEmbeddings]] — Per-layer embedding tables stored in flash memory for on-device efficiency.
-- [[InterleavedLocalGlobalAttention]] — Alternating local (sliding window) and global attention layers with last layer always global.
-- [[GroupedQueryAttention]] — Multiple query heads sharing key/value heads to reduce memory cost.
-- [[VariableAspectRatios]] — Vision capability supporting different image aspect ratios with spatial positional encoding.
-- [[VariableResolution]] — Developer-selectable resolution and soft token budget for image processing.
-- [[OnDeviceAI]] — AI models optimized to run locally on phones, iPads, and laptops without cloud calls.
-- [[Apache2License]] — Permissive open-source license adopted by Gemma 4 for developer accessibility.
-- [[EffectiveModels]] — Models with fewer operating parameters than total representational parameters.
-- [[SlidingWindowAttention]] — Local attention attending to a fixed window of preceding tokens for efficiency.
-- [[Conformer]] — Audio encoder combining transformer and convolutional layers for speech processing.
-- [[AudioTokenizer]] — Pipeline converting raw audio through mel spectrogram into soft tokens.
-- [[AgenticWorkflows]] — Autonomous multi-step task execution supported by larger Gemma models.
-- [[OpenSourceModels]] — AI models with publicly available weights for self-hosting and customization.
-[[ChipProductionAutomation]] — Debate on whether AI and robotics can fully automate semiconductor fabrication.
+- [[A2A Registry]] — --
+- [[Accessibility AI]] — --
+- [[ACDC Framework]] — --
+- [[Actionability Eval]] — --
+- [[Activation Checkpointing]] — --
+- [[Activation Offloading]] — --
+- [[Adaptive Testing For LLMs]] — --
+- [[AdSponsoredInference]] — --
+- [[Adversarial Quality Control]] — --
+- [[Adversarial Reviews]] — --
+- [[AFK Tasks]] — --
+- [[AfterCall Work (ACW)]] — --
+- [[Agent Archetypes]] — --
+- [[Agent as a Service]] — --
+- [[Agent as Knowledge Manager]] — --
+- [[Agent as Octopus]] — --
+- [[Agent as Orchestrator]] — --
+- [[Agent Campaigns]] — --
+- [[Agent Card]] — --
+- [[Agent Channels]] — --
+- [[Agent Choreography]] — --
+- [[Agent Collision Detection]] — --
+- [[Agent Composability]] — --
+- [[Agent Connectors]] — --
+- [[Agent Control Plane]] — --
+- [[Agent Debuggability]] — --
+- [[Agent Development Environment]] — --
+- [[Agent Discoverability]] — --
+- [[Agent Exams]] — --
+- [[Agent Experience]] — --
+- [[Agent Failure as Discovery]] — --
+- [[Agent Fatigue]] — --
+- [[Agent Harassment Protection]] — --
+- [[Agent Harness]] — --
+- [[Agent Interruptibility]] — --
+- [[Agent Manager]] — --
+- [[Agent Memory]] — --
+- [[Agent Optimization]] — --
+- [[Agent Orchestration]] — --
+- [[Agent Parallelism]] — --
+- [[Agent Permission Management]] — --
+- [[Agent Polling Pattern]] — --
+- [[Agent Proactivity]] — --
+- [[Agent Quests]] — --
+- [[Agent Quota Management]] — --
+- [[Agent Review Bundles]] — --
+- [[Agent Robustness Testing]] — --
+- [[Agent Runtime Context]] — --
+- [[Agent Runtime Duration]] — --
+- [[Agent Sandbox]] — --
+- [[Agent Sandboxing]] — --
+- [[Agent Session Reuse]] — --
+- [[Agent Skills]] — --
+- [[Agent Specialization]] — --
+- [[Agent Specification Components]] — --
+- [[Agent Task States]] — --
+- [[Agent Teams]] — --
+- [[Agent to Commerce Protocol]] — --
+- [[Agent Tokenomics]] — --
+- [[Agent Trajectory Store]] — --
+- [[Agent Unreliability]] — --
+- [[Agent Vent Tool]] — --
+- [[Agent Workspaces]] — --
+- [[Agent Wrapper Pattern]] — --
+- [[AgentAsDishwasher]] — --
+- [[AgentFirst Software Development]] — --
+- [[AgentHuman Collaboration]] — --
+- [[AgentOriented Programming]] — --
+- [[AgentReady Eval Tooling]] — --
+- [[AgentSpecific MD Files]] — --
+- [[AgentToUI Interaction]] — --
+- [[AgentAttentionFiltering]] — --
+- [[AgentBrittleSystems]] — --
+- [[AgentBudgets]] — --
+- [[AgentChannelOrganization]] — --
+- [[AgentCodeReviewLimitations]] — --
+- [[AgentCommandsVsSkills]] — --
+- [[AgentCompanyPattern]] — --
+- [[AgentCrewOrchestration]] — --
+- [[AgentDistributionalView]] — --
+- [[AgentEntropy]] — --
+- [[AgentEvalBroadness]] — --
+- [[AgentExperiments]] — --
+- [[AgentExtensibility]] — --
+- [[AgentFirstObservability]] — --
+- [[AgentFriendlyDocumentation]] — --
+- [[AgentHandoffs]] — --
+- [[AgentHarness]] — --
+- [[AgentHarnessComponents]] — --
+- [[AgentHarnessSeparation]] — --
+- [[AgentHooks]] — --
+- [[Agentic Code Review]] — --
+- [[Agentic Experience]] — --
+- [[Agentic Identity for Software]] — --
+- [[Agentic Optimization]] — --
+- [[Agentic RAG]] — --
+- [[Agentic Retrieval]] — --
+- [[Agentic Search]] — --
+- [[Agentic Web]] — --
+- [[AgenticAttackVector]] — --
+- [[AgenticEngineering]] — --
+- [[AgenticEvaluations]] — --
+- [[AgenticLoop]] — --
+- [[AgenticProductDesign]] — --
+- [[AgenticRedTeaming]] — --
+- [[AgenticSearchInterface]] — --
+- [[AgenticWorkflows]] — --
+- [[AgentIdentity]] — --
+- [[AgentInboxProcessing]] — --
+- [[AgentIsolation]] — --
+- [[AgentKnowledgeBase]] — --
+- [[AgentLegibleCodebase]] — --
+- [[AgentLoop]] — --
+- [[AgentMarketingAutomation]] — --
+- [[AgentMemoryOptimization]] — --
+- [[AgentModes]] — --
+- [[AgentNightlyMaintenance]] — --
+- [[AgentObservability]] — --
+- [[AgentOrgChart]] — --
+- [[AgentOrientedArchitecture]] — --
+- [[AgentPersonality]] — --
+- [[AgentPersonalization]] — --
+- [[AgentPlayground]] — --
+- [[AgentProductionDeployment]] — --
+- [[AgentQualityPlatform]] — --
+- [[AgentReadyCodebases]] — --
+- [[AgentReadyPlatform]] — --
+- [[AgentReviewerApprover]] — --
+- [[AgentRoutines]] — --
+- [[Agents As Different User Class]] — --
+- [[Agents as Economic Actors]] — --
+- [[Agents as Software Users]] — --
+- [[Agents on Canvas]] — --
+- [[AgentsAsPlatformUsers]] — --
+- [[AgentsDotMd]] — --
+- [[AgentSmell]] — --
+- [[AgentSocialContext]] — --
+- [[AgentStory]] — --
+- [[AgentToAgentCommunication]] — --
+- [[AgentTraceData]] — --
+- [[AgentTraining]] — --
+- [[AgentVisualization]] — --
+- [[AGI]] — Artificial General Intelligence (AGI) refers to AI systems with human-level or superior intelligence across a broad r...
+- [[AheadOfTime Compilation]] — --
+- [[AI Achiever]] — --
+- [[AI Analysis Pipelines]] — --
+- [[AI as Orchestrator, Human as Hands]] — --
+- [[AI as Pair Programmer]] — --
+- [[AI as Translation]] — --
+- [[AI Code Hallucination]] — --
+- [[AI Comprehension]] — --
+- [[AI Developer Tools]] — --
+- [[AI DJ]] — --
+- [[AI Edge Portal]] — --
+- [[AI Employee]] — --
+- [[AI Engineer]] — --
+- [[AI for Engineers]] — --
+- [[AI Gateway]] — --
+- [[AI Inverse Prompting]] — --
+- [[AI Observability]] — --
+- [[AI Pricing]] — --
+- [[AI Quality]] — --
+- [[AI Usage Tracking]] — --
+- [[AIAssisted Hardware Reverse Engineering]] — --
+- [[AIGenerated Security Reports]] — --
+- [[AIGenerated Tests]] — --
+- [[AIAddictionTrap]] — --
+- [[AIAdoptionPatterns]] — --
+- [[AIAndTaste]] — --
+- [[AIasJuniorDeveloper]] — --
+- [[AIBrowsers]] — --
+- [[AICodingAgents]] — --
+- [[AIEngineer]] — --
+- [[AIEngineeringConference]] — --
+- [[AIInferenceFragmentation]] — --
+- [[AIPM]] — --
+- [[AIProxyGateway]] — --
+- [[AIReliability]] — --
+- [[AISBOM]] — --
+- [[AITherapistProblem]] — --
+- [[AITutorsInEducation]] — --
+- [[AlienIntelligence]] — --
+- [[AlternatingAttention]] — --
+- [[AmbientAgentOperations]] — --
+- [[Amplify Program]] — --
+- [[AOT Compilation]] — --
+- [[Apache2License]] — --
+- [[API Consistency]] — --
+- [[APIFirstDesign]] — --
+- [[Application Capabilities]] — --
+- [[Architecture Decision Record (ADR)]] — --
+- [[Architecture Enforcement]] — --
+- [[AsyncAuthorization]] — --
+- [[AsynchronousAgentOperation]] — The mode of operating AI agents where they work independently on tasks without real-time human supervision. Poolside'...
+- [[AttentionDrift]] — --
+- [[Audience Simulation]] — --
+- [[Audio Codec]] — --
+- [[AudioTokenizer]] — --
+- [[Auto Scaling for Voice Agents]] — --
+- [[AutoCompaction]] — --
+- [[AutoScaling]] — --
+- [[Autoencoders]] — --
+- [[Automated Code Review and Approval]] — --
+- [[AutomatedObservabilityFlywheel]] — --
+- [[AutomatedValidation]] — --
+- [[Autonomous Agent Feedback Loop]] — --
+- [[Autonomous Coding Agents]] — --
+- [[Autonomous QA Agent]] — --
+- [[Autonomy Horizon]] — --
+- [[Autonomy Slider]] — --
+- [[Back Channeling]] — --
+- [[Back Pressure Loop]] — --
+- [[Backtesting Agent Skills]] — --
+- [[Backtesting for AI Systems]] — --
+- [[BandAid Fixes]] — --
+- [[BashAsUniversalAdapter]] — --
+- [[BashTool]] — --
+- [[Batch Graph]] — --
+- [[BatchSizeInRLTraining]] — --
+- [[Before Hooks]] — --
+- [[BehaviorDriven Development (BDD)]] — --
+- [[Benchmark Datasets]] — --
+- [[Benchmark Decontamination]] — --
+- [[Benchmark Maxing]] — --
+- [[Benchmark Noise from Task Quality]] — --
+- [[Benchmark Roadmapping]] — --
+- [[Benchmark Thesis]] — --
+- [[Benchmarking Agents]] — --
+- [[BenchmarkSaturation]] — --
+- [[BestOfN]] — --
+- [[Biasing Dictionary]] — --
+- [[Bot Looping]] — --
+- [[Bounded Autonomy]] — --
+- [[BradleyTerry Pairing]] — --
+- [[BrandoliniLaw]] — --
+- [[Breadcrumbing]] — --
+- [[BringYourOwnAgent]] — --
+- [[BrittleAutomations]] — --
+- [[BrownfieldVsGreenfield]] — --
+- [[Browser Agent Security Tiers]] — --
+- [[Browser as Infinite Canvas]] — --
+- [[Browser Use]] — --
+- [[BrowserBased Autonomous Testing]] — --
+- [[Build to Delete]] — --
+- [[BullshitBench]] — --
+- [[BytePairEncoding]] — --
+- [[CacheCompute]] — --
+- [[Call Options Schema]] — --
+- [[CanaryTokens]] — --
+- [[Canvas as Agent Workspace]] — --
+- [[Capability Evals]] — --
+- [[CapabilityBasedSecurity]] — --
+- [[CapabilityExtrapolation]] — --
+- [[Cascaded Systems (Voice)]] — --
+- [[Cascading Failures]] — --
+- [[Catalog Understanding]] — --
+- [[CatastrophicForgetting]] — --
+- [[Catch Me Up Skill]] — --
+- [[CausalSelfAttention]] — --
+- [[ChainOfThought]] — --
+- [[ChangeConfidence]] — --
+- [[ChangeFailureRate]] — --
+- [[Channel Mapping (Audio)]] — --
+- [[Chaos Engineering For AI]] — --
+- [[Character Consistency]] — --
+- [[CharacterLevelTokenization]] — --
+- [[Chat Agents]] — --
+- [[Chat as Lowest Common Denominator]] — --
+- [[ChatTemplateMismatch]] — --
+- [[Checkpoints]] — --
+- [[Checksum Reverse Engineering]] — --
+- [[Chess Context Extraction]] — --
+- [[ChessAI]] — --
+- [[ChipProductionAutomation]] — --
+- [[ChurnAsInvestment]] — --
+- [[CIBA]] — --
+- [[Circuit Breaker Pattern]] — --
+- [[Citizen Science]] — --
+- [[ClassifierFreeGuidance]] — --
+- [[Clean Code Bases]] — --
+- [[CLI for Agents]] — --
+- [[Client File Upload]] — --
+- [[ClientIDMetadata]] — --
+- [[CLIP Score]] — --
+- [[Clone the Repo Pattern]] — --
+- [[ClosedLoop Evaluation]] — --
+- [[Cloud Agents vs Custom Agents]] — --
+- [[CloudBased Agent Sandboxes]] — --
+- [[CLSToken]] — --
+- [[CoLocation (Voice AI)]] — --
+- [[Code as Depreciating Asset]] — --
+- [[Code as Disposable Build Artifact]] — --
+- [[Code Coverage]] — --
+- [[Code Evals]] — --
+- [[Code Execution (Sandboxed)]] — --
+- [[Code is Free]] — --
+- [[Code is Not Cheap]] — --
+- [[Code Quality in Agentic Patches]] — --
+- [[Code Verbosity]] — --
+- [[CodeSwitching]] — --
+- [[CodebaseTestability]] — --
+- [[CodeGenerationForNonCoding]] — --
+- [[CodeMode]] — --
+- [[CodeReviewAmplification]] — --
+- [[CodeReviewVelocity]] — --
+- [[CodeSlop]] — --
+- [[Coding Agents as Building Blocks]] — --
+- [[CoEvolvingLoops]] — --
+- [[Cognitive Complexity]] — --
+- [[Cognitive Debt]] — --
+- [[CognitiveExhaustFumes]] — --
+- [[CognitivePollution]] — --
+- [[Cold Start]] — --
+- [[CollaborativeAIEngineering]] — --
+- [[Compacting]] — --
+- [[Company Agent]] — --
+- [[Compare Mode]] — --
+- [[CompetitionThroughQuality]] — --
+- [[CompilerGuardrails]] — --
+- [[Composable Skills]] — --
+- [[CompoundingBooboos]] — --
+- [[Compressed Research]] — --
+- [[ComputeCapabilityProportionality]] — --
+- [[Computer Use]] — --
+- [[ComputerUseVsCLI]] — --
+- [[Confirmation Bias in Agents]] — --
+- [[Conflict Resolution]] — --
+- [[Conformer]] — --
+- [[ConnectedAccounts]] — --
+- [[ConnectivityStack]] — --
+- [[ConsentScreens]] — --
+- [[ConsistencyModels]] — --
+- [[ConstrainedDecoding]] — --
+- [[Constraints and Creativity]] — --
+- [[Consumer Vibe Coding]] — --
+- [[Contact Center Voice AI]] — --
+- [[ContainerBased Sandboxing]] — --
+- [[Context Anxiety]] — --
+- [[Context Assembly]] — --
+- [[Context Blocks]] — --
+- [[Context Budget]] — --
+- [[Context Gap Scanner]] — --
+- [[Context Graphs]] — --
+- [[Context Isolation]] — --
+- [[Context Log]] — --
+- [[Context Management]] — --
+- [[Context Parallelism]] — --
+- [[Context Rot]] — --
+- [[Context Sharing Between Agents]] — --
+- [[ContextEfficient Code Structure]] — --
+- [[ContextAsCode]] — --
+- [[ContextBaselines]] — --
+- [[ContextBroad]] — --
+- [[ContextCompression]] — --
+- [[ContextDependencyHell]] — --
+- [[ContextDevelopmentLifeCycle]] — --
+- [[ContextDistribution]] — --
+- [[ContextEngine]] — --
+- [[ContextEngineering]] — --
+- [[ContextExhaustion]] — --
+- [[ContextFeedbackLoop]] — --
+- [[ContextFilter]] — --
+- [[ContextGap]] — --
+- [[ContextInjectionAndOversharing]] — --
+- [[ContextObservability]] — --
+- [[ContextOptimization]] — --
+- [[ContextOwnership]] — --
+- [[ContextPackageRegistry]] — --
+- [[ContextRot]] — --
+- [[ContextSecurity]] — --
+- [[ContextTesting]] — --
+- [[ContextualEmbeddings]] — --
+- [[Continuous Compute]] — --
+- [[Continuous Model Improvement]] — --
+- [[ContinuousEvaluation]] — --
+- [[ContinuousImprovement]] — --
+- [[Contract Negotiation]] — --
+- [[ContrastiveLoss]] — --
+- [[Converse API]] — --
+- [[Convolutional Neural Networks]] — --
+- [[CoordinationDebt]] — --
+- [[Core Loop as Orchestrator]] — --
+- [[Correctness Eval]] — --
+- [[CosineDecay]] — --
+- [[CostNormalized Accuracy]] — --
+- [[CrawlWalkRun]] — --
+- [[CreditBased Pricing]] — --
+- [[CriticalRules]] — --
+- [[CRIU]] — --
+- [[Cron Creator]] — --
+- [[CrossContent Modeling]] — --
+- [[CrossPlatform deployment]] — --
+- [[CrossAppAccess]] — --
+- [[CrossEntropyLoss]] — --
+- [[CrossFunctionalAgentTeams]] — --
+- [[CrossPlatformCompatibility]] — --
+- [[CrossSourceSignal]] — --
+- [[Cryptographic Proof in Agents]] — --
+- [[Cucumber]] — --
+- [[CUDA Graph Capture]] — --
+- [[CurateRuthlessly]] — --
+- [[Custom Inference Endpoint]] — --
+- [[Custom Tracing Tools]] — --
+- [[CustomAPIClient]] — --
+- [[Customer Satisfaction as Retrospective]] — --
+- [[CustomerProximity]] — --
+- [[CVE Remediation at Scale]] — --
+- [[CVSS]] — --
+- [[Cyclomatic Complexity]] — --
+- [[Cypher]] — --
+- [[DAGvsLoopArchitecture]] — --
+- [[Dark Factory]] — --
+- [[Data Sovereignty]] — --
+- [[DataCurationForGenerativeModels]] — --
+- [[DataDemocratization]] — --
+- [[DataFlywheel]] — --
+- [[DataScienceAIGap]] — --
+- [[DataScientistsAsGuardrails]] — --
+- [[Day Shift Night Shift]] — --
+- [[Day Zero Support]] — --
+- [[DecentralizedMCPDevelopment]] — --
+- [[Decision Capture Loop]] — --
+- [[Decision Log]] — --
+- [[Decision Traces]] — --
+- [[DecisionAwareAgents]] — --
+- [[Declarative UI]] — --
+- [[DeclarativePromptProgramming]] — --
+- [[Deep Modules]] — --
+- [[Deep Research Agent]] — --
+- [[DeepSpeed Ulysses]] — --
+- [[DelegatedAgentIdentity]] — --
+- [[DemandDriven Context]] — --
+- [[Dependency Graph Refactoring]] — --
+- [[Design Concept]] — --
+- [[Design for Recovery]] — --
+- [[Design System]] — --
+- [[Design the Interface, Delegate the Implementation]] — --
+- [[DeterministicEval]] — --
+- [[DeterministicGuardrails]] — --
+- [[DeterministicToolUsage]] — --
+- [[DeterministicVsStochasticSampling]] — --
+- [[DeterministicWorkflows]] — --
+- [[Developer Advocate]] — --
+- [[Developer Flow]] — --
+- [[DeveloperExperience]] — --
+- [[DeveloperExperienceForAgents]] — --
+- [[DeveloperProductivityMeasurement]] — --
+- [[DevelopmentEnvironmentStandardization]] — --
+- [[DevXFeedbackLoop]] — --
+- [[Diagnostic Playbooks]] — --
+- [[Diarization Error Rate]] — --
+- [[DiffusionModels]] — --
+- [[Discover Weekly]] — --
+- [[Distributional Control]] — --
+- [[Doc Rot]] — --
+- [[Docker Sandbox]] — --
+- [[DocTags]] — --
+- [[DocumentBoundaryDetection]] — --
+- [[Domain Expert as Architect]] — --
+- [[Domain Expert as Evaluator]] — --
+- [[Domain Expert as Oracle]] — --
+- [[Domain Expertise]] — --
+- [[Domain Native AI Organization]] — --
+- [[DomainSpecific Models]] — --
+- [[DoomLoop]] — --
+- [[Double iFrame Sandbox]] — --
+- [[DoubleBOSTokens]] — --
+- [[Doubling Engineering Throughput]] — --
+- [[Dreaming (Agents)]] — --
+- [[DSPyAdapters]] — --
+- [[DSPyModules]] — --
+- [[DSPyOptimizers]] — --
+- [[DSPySignatures]] — --
+- [[Durable Sessions]] — --
+- [[Durable Streams]] — --
+- [[DurableAgenticLoop]] — --
+- [[DurableAgents]] — --
+- [[DXAIMeasurementFramework]] — --
+- [[Dynamic Workers]] — --
+- [[DynamicActivity]] — --
+- [[DynamicClientRegistration]] — --
+- [[DynamicHarness]] — --
+- [[EARS]] — --
+- [[Edge Agents]] — --
+- [[Edge AI]] — --
+- [[EdgeModels]] — --
+- [[EditPrediction]] — --
+- [[EffectiveModels]] — --
+- [[Elicitation]] — --
+- [[Eliminating Boring Work]] — --
+- [[Elo Score]] — --
+- [[Embedding Ceiling]] — --
+- [[EmbeddingInversion]] — --
+- [[EmbeddingLayer]] — --
+- [[EmbeddingLayerEfficiency]] — --
+- [[EncoderModels]] — --
+- [[End of Apps]] — --
+- [[Enforce Dont Instruct]] — --
+- [[Engineering AI Maturity Model]] — --
+- [[Enterprise Quality Code]] — --
+- [[Enterprise Registry Metadata]] — --
+- [[Enterprise Scaffolding]] — --
+- [[Environment Complexity]] — --
+- [[Environment for RL Training]] — --
+- [[ErasableSyntax]] — --
+- [[Error Recovery For Agents]] — --
+- [[ErrorBudgetsForContext]] — --
+- [[ErrorsAsPrompts]] — --
+- [[ESQL]] — --
+- [[EssentialVsAccidentalComplexity]] — --
+- [[Eval Calcification]] — --
+- [[Eval Hackathons]] — --
+- [[Eval Heuristics]] — --
+- [[Eval Red Green Cycle]] — --
+- [[EvalDriven Development]] — --
+- [[EvalAsRequirements]] — --
+- [[EvalDataCapture]] — --
+- [[EvalEngineering]] — --
+- [[EvalFlywheel]] — --
+- [[EvalMaturityStages]] — --
+- [[EvalPlatforms]] — --
+- [[EvalPracticePhases]] — --
+- [[EvalPrimitives]] — --
+- [[EvalScopes]] — --
+- [[Evaluate Dont Just Assert]] — --
+- [[Evaluation Gap]] — --
+- [[EvaluatorOptimizer Pattern]] — --
+- [[EventSourcing]] — --
+- [[Everything is a Loop]] — --
+- [[EvidenceBased Verification]] — --
+- [[Exclusive Diarization]] — --
+- [[Executable Specifications]] — --
+- [[Execution Snapshot]] — --
+- [[Exocortex]] — --
+- [[ExperienceSampling]] — --
+- [[Expert in the Loop]] — --
+- [[ExplicitSignals]] — --
+- [[External Validation]] — --
+- [[FailureModeAnalysis]] — --
+- [[Faithfulness Eval]] — --
+- [[FCRun]] — --
+- [[FearlessConcurrency]] — --
+- [[FeatureDiscoverability]] — --
+- [[Feedback as Moat]] — --
+- [[Feedback Loops as AI Speed Limit]] — --
+- [[FewShotExamples]] — --
+- [[FiftyToolRule]] — --
+- [[File System as Shared State]] — --
+- [[File System Downloads for Agent Debugging]] — --
+- [[File System Memory]] — --
+- [[File Upload for Agents]] — --
+- [[FileOverApp]] — --
+- [[FileSystemAsContextEngineering]] — --
+- [[Fillers (Voice AI)]] — --
+- [[FineGrained Tool Permissions]] — --
+- [[FineTuning]] — --
+- [[FineGrainedAuthorization]] — --
+- [[FineTuning]] — --
+- [[Firecracker]] — --
+- [[Flame Graph Profiling]] — --
+- [[FlashAttention]] — --
+- [[FlattenArguments]] — --
+- [[Flow Matching]] — --
+- [[Focus Maxing]] — --
+- [[FocusModes]] — --
+- [[FOMAT (Fear of Missing Agent Time)]] — --
+- [[ForwardDeployedEngineering]] — --
+- [[Foundation Models]] — --
+- [[FourierAnalysisOfImages]] — --
+- [[FPTraining]] — --
+- [[Frontier API]] — --
+- [[Full Duplex]] — --
+- [[FullStack CoDesign]] — --
+- [[FullVerticalIntegration]] — The strategy of controlling the entire technology stack from physical infrastructure to end-user interfaces. Poolside...
+- [[Fully Sharded Data Parallelism]] — --
+- [[Function Calling]] — --
+- [[Functionality Testing]] — --
+- [[FutureDataLeakage]] — --
+- [[FuzzyGoalCompletion]] — --
+- [[FuzzySoftware]] — --
+- [[Game Arena]] — --
+- [[Garbage Collection Day]] — --
+- [[GEA]] — --
+- [[GemmaVerse]] — --
+- [[GenAI Ops]] — --
+- [[GenBI]] — --
+- [[GenchiGenbutsu]] — --
+- [[General AI Agent]] — --
+- [[Generative Components]] — --
+- [[Generative Recommender Systems]] — --
+- [[GenerativeUI]] — --
+- [[GeneratorEvaluator Pattern]] — --
+- [[GenMedia]] — --
+- [[Gina Grap]] — --
+- [[Git Ledger]] — --
+- [[GitWorktrees]] — --
+- [[Golden Dataset]] — --
+- [[GoodAgentTasks]] — --
+- [[GoodhartsLaw]] — --
+- [[Gotchas]] — --
+- [[Governance as Engineering Problem]] — --
+- [[GPU Infrastructure]] — --
+- [[GPUKernelProgramming]] — --
+- [[GradientOffloading]] — --
+- [[Graph Data Science]] — --
+- [[Graph Embeddings]] — --
+- [[Graph RAG]] — --
+- [[GraphNeuralNetwork]] — --
+- [[GreedyCoordinateGradient]] — --
+- [[GreedyDecoding]] — --
+- [[Grill Me]] — --
+- [[Grounded Search]] — --
+- [[Grounded Visual Reasoning]] — --
+- [[Grounding with Google Search]] — --
+- [[GroupedQueryAttention]] — --
+- [[Guardrails]] — --
+- [[GuidanceScale]] — --
+- [[Guide Dont Prescribe]] — --
+- [[Half Duplex]] — --
+- [[Hallucination Checks]] — --
+- [[HammingsQuestion]] — --
+- [[Handing Over Control]] — --
+- [[Handoff]] — --
+- [[HappyPathProgramming]] — --
+- [[Hardware Lottery]] — --
+- [[HardwareSoftware CoDesign for Caching]] — --
+- [[Harness Engineering]] — --
+- [[Harness Evolution]] — --
+- [[HeadlessCodingAgent]] — --
+- [[HeadlessEvals]] — --
+- [[Heartbeat Loop]] — --
+- [[Her Moment]] — --
+- [[Heterogeneous Computing]] — --
+- [[Heterogeneous Intelligence]] — --
+- [[Heterogeneous Recursion]] — --
+- [[HiddenBiasesInRLEnvironments]] — --
+- [[HighBandwidth Artifacts]] — --
+- [[HighConsequenceCode]] — Software code that runs in environments where errors have severe real-world consequences, such as defense systems, go...
+- [[Hill Climbing (Evals)]] — --
+- [[Homogeneous Intelligence]] — --
+- [[Hooks]] — --
+- [[Huddles]] — --
+- [[Hugging Face Inference Endpoints]] — --
+- [[Hugging Face MCP Server]] — --
+- [[Hugging Face Skills]] — --
+- [[Hugging Face Traces]] — --
+- [[HumanInTheLoop Orchestration]] — --
+- [[HumanAnnotation]] — --
+- [[HumanAnnotationFeedback]] — --
+- [[HumanCallouts]] — --
+- [[HumanInTheLoopEvaluation]] — --
+- [[HumanInTheLoopWorkflows]] — --
+- [[Hybrid Inference]] — --
+- [[Hybrid Pricing]] — --
+- [[Hybrid Search]] — --
+- [[HybridArchitecture]] — --
+- [[Hypergrowth]] — --
+- [[Hyperparameter Tuning]] — --
+- [[HypothesisDriven Delivery]] — --
+- [[IDJAG]] — --
+- [[Image Search Grounding]] — --
+- [[Impact Hierarchy]] — --
+- [[ImplementationWindowCollapse]] — --
+- [[ImplicitSignals]] — --
+- [[InApp GenAI]] — --
+- [[IncrementalAgentAdoption]] — --
+- [[IncrementalDelivery]] — --
+- [[IncrementalDisclosure]] — --
+- [[IndirectPromptInjection]] — --
+- [[Inductive Bias]] — --
+- [[Inference Providers]] — --
+- [[InferenceTime Interrogation]] — --
+- [[InfiniteSoftwareCrisis]] — --
+- [[InhabitingTheStateMachine]] — --
+- [[Input Cache vs Compaction]] — --
+- [[Institutional Knowledge Democratization]] — --
+- [[Institutional Knowledge]] — --
+- [[Instruction FineTuning vs RL]] — --
+- [[InsurgencyModel]] — --
+- [[Integration Scoping]] — --
+- [[Intelligence Per Joule]] — --
+- [[Intent and Plan]] — --
+- [[Intent Engineering]] — --
+- [[IntentBased Outcomes]] — --
+- [[IntentionActionGaps]] — --
+- [[IntentionalFriction]] — --
+- [[InterAnnotator Agreement]] — --
+- [[Interactive Editing]] — --
+- [[InterleavedLocalGlobalAttention]] — --
+- [[Internal Validation]] — --
+- [[InternalAIPlatform]] — --
+- [[InTheWildTranscripts]] — --
+- [[Inverse Text Normalization]] — --
+- [[JCurveFamiliarityEffect]] — --
+- [[Jeba]] — --
+- [[JenniferAnistonCells]] — --
+- [[JustInTime Context Surfacing]] — --
+- [[JustInTime Specs]] — --
+- [[JWT]] — --
+- [[Kanban Board for AI Tasks]] — --
+- [[KernelFusion]] — --
+- [[Keyless Agent Sandbox]] — --
+- [[Keynote Code]] — --
+- [[Kino]] — --
+- [[Knowledge Base Kanban]] — --
+- [[Knowledge Base Monolith]] — --
+- [[Knowledge Curation]] — --
+- [[Knowledge Graphs]] — --
+- [[KnowledgeCutoff]] — --
+- [[KV Cache Compression]] — --
+- [[KV Cache]] — --
+- [[Last Mile Problem (AI)]] — --
+- [[Latency vs Quality TradeOffs]] — --
+- [[LatentDiffusion]] — --
+- [[LayerNorm]] — --
+- [[LeaderFollower Agent Pattern]] — --
+- [[LeadQualificationAgents]] — --
+- [[LearningRateScheduling]] — --
+- [[LearningRateWarmup]] — --
+- [[LeavingPriorsBehind]] — --
+- [[Lethal Trifecta]] — --
+- [[LethalTrifecta]] — --
+- [[LethalTriquetra]] — --
+- [[LibrariesVsProducts]] — --
+- [[Life OS]] — --
+- [[Lightweight Design Document]] — --
+- [[Live Control]] — --
+- [[Living Memory]] — --
+- [[LLM as Fuzzy Compiler]] — --
+- [[LLM Code Quality Evaluation]] — --
+- [[LLM Hallucination In Chess]] — --
+- [[LLMAsJudge]] — --
+- [[LLMFallibility]] — --
+- [[LLMImplementationAnalysis]] — --
+- [[LLMTrainingFromScratch]] — --
+- [[Local Coding Agents]] — --
+- [[Local LLM Inference]] — --
+- [[Local Models for Agents]] — --
+- [[LoginHandler]] — --
+- [[Long Context Training]] — --
+- [[LongHorizonKnowledgeWork]] — The capability of AI agents to perform complex knowledge work tasks over extended time periods. Poolside envisions ag...
+- [[LongSessionEvals]] — --
+- [[Loop Command]] — --
+- [[LoRA]] — --
+- [[Lost in the Middle]] — --
+- [[Lovable Stack Overflow]] — --
+- [[Low Floor High Ceiling]] — --
+- [[Machine Payments Protocol]] — --
+- [[Make it Easy for Agents]] — --
+- [[Make Real Pattern]] — --
+- [[Malleable Evals]] — --
+- [[ManInTheMiddle Protocol Analysis]] — --
+- [[Managed Variables]] — --
+- [[Manual Inspection Bias]] — --
+- [[MarkdownAsCode]] — --
+- [[MasterWhileLoop]] — --
+- [[MatryoshkaRepresentationLearning]] — --
+- [[MCP Apps Message Passing]] — --
+- [[MCP Apps UI Spectrum]] — --
+- [[MCP as Middleware]] — --
+- [[MCP Registry]] — --
+- [[MCP Resources]] — --
+- [[MCP Tool Description Quality]] — --
+- [[MCP Transports]] — --
+- [[MCP]] — --
+- [[MCPApplications]] — --
+- [[MCPAttackVector]] — --
+- [[MCPEnterpriseChallenges]] — --
+- [[MCPGateway]] — --
+- [[MCPSecurityCliff]] — --
+- [[MCPSecurityDesignPrinciples]] — --
+- [[MCPUI]] — --
+- [[MechanicalEnforcement]] — --
+- [[MechSuit]] — --
+- [[Media Prompt Generation]] — --
+- [[Mem Palace]] — --
+- [[Memento Pattern for LLMs]] — --
+- [[Memory Bandwidth]] — --
+- [[MemoryBound vs ComputeBound]] — --
+- [[MemoryLayers]] — --
+- [[Merge Queue]] — --
+- [[MergeabilityScoring]] — --
+- [[Meta Model]] — --
+- [[MetaEvaluation]] — --
+- [[MetadataEnrichment]] — --
+- [[MetaPrompt]] — --
+- [[MicroAgents]] — --
+- [[Microservices with Agents]] — --
+- [[MicroVMArchitecture]] — --
+- [[MinimalAgentDesign]] — --
+- [[MissionariesNotMercenaries]] — --
+- [[Mixed Quality Training Data]] — --
+- [[Mixture of Experts]] — --
+- [[MixtureOfExperts]] — --
+- [[Mock User]] — --
+- [[Model Airplanes]] — --
+- [[Model Anxiety]] — --
+- [[Model Commoditization]] — --
+- [[Model Customization]] — --
+- [[Model Dissatisfaction Rate]] — --
+- [[Model Efficiency]] — --
+- [[Model Evaluation]] — --
+- [[Model Explorer (tool)]] — --
+- [[Model Harness Testing]] — --
+- [[Model Headroom]] — --
+- [[Model Lifecycle Acceleration]] — --
+- [[Model Ownership]] — --
+- [[Model Preview vs GA]] — --
+- [[Model Prompting Styles]] — --
+- [[Model Pruning]] — --
+- [[Model Rot]] — --
+- [[Model Serving]] — --
+- [[Model Spectrum]] — --
+- [[Model Tiering]] — --
+- [[ModelAsAPI]] — --
+- [[ModelBehavior]] — --
+- [[ModelDistillation]] — --
+- [[ModelIsNotTheMoat]] — --
+- [[ModelParallelism]] — --
+- [[ModelRepairStep]] — --
+- [[ModelScaling]] — The practice of increasing model capability by scaling up compute resources, data, and model parameters. Poolside is ...
+- [[ModelSteering]] — --
+- [[ModelTransferability]] — --
+- [[Modular Speech Pipeline]] — --
+- [[Modularity]] — --
+- [[MonitoredVsUnmonitoredCapabilities]] — --
+- [[MooresLawForLLMs]] — --
+- [[Morning Loop]] — --
+- [[MosaicEffect]] — --
+- [[MultiAgent Systems]] — --
+- [[MultiChannel Agent Routing]] — --
+- [[MultiModal Generation]] — --
+- [[MultiReference Editing]] — --
+- [[MultiTurn Conversations]] — --
+- [[MultiAgentArchitecture]] — --
+- [[MultiHeadAttention]] — --
+- [[MultilingualTokenizer]] — --
+- [[Multimodal Conversations]] — --
+- [[Multimodal Embeddings]] — --
+- [[MultimodalAI]] — --
+- [[MultiPersonaProblem]] — --
+- [[MultiplayerAgentSessions]] — --
+- [[MultiQueryAttention]] — --
+- [[MultiRepoWorktrees]] — --
+- [[MultiTurnEnvironments]] — --
+- [[MurphysLawAICoding]] — --
+- [[Myth of the Last Mile]] — --
+- [[Natural Language Programming]] — --
+- [[Nested Context]] — --
+- [[Network as Sandbox]] — --
+- [[NetworkLevel Identity]] — --
+- [[NetworkLevel Observability]] — --
+- [[Neural Architecture Search]] — --
+- [[NeuralFileSystem]] — --
+- [[NeurodivergentAI]] — --
+- [[NeurosymbolicReasoning]] — --
+- [[NextTokenPrediction]] — --
+- [[NoHiddenMagic]] — --
+- [[NoisyNodes]] — --
+- [[NonFunctional Requirements Specification]] — --
+- [[NonDeterministicAgents]] — --
+- [[NonDeterministicTesting]] — --
+- [[Nonsense Detection]] — --
+- [[NoRegretsInvestments]] — --
+- [[NoSilverBullet]] — --
+- [[NPU Acceleration]] — --
+- [[NPU]] — --
+- [[NVFB4]] — --
+- [[OAuth]] — --
+- [[ObservabilityAndEvalsUnified]] — --
+- [[ObserverVsAgent]] — --
+- [[ObserveSkill]] — --
+- [[OfflineEvals]] — --
+- [[OmniChannel Voice]] — --
+- [[OmnimodalEmbeddings]] — --
+- [[Omnimodels]] — --
+- [[OnDevice Agent Skills]] — --
+- [[OnDevice Robotics]] — --
+- [[OnDevice TTS]] — --
+- [[OnDeviceAgentic]] — --
+- [[OnDeviceAI]] — --
+- [[OnDeviceProfiling]] — --
+- [[One Million Context Window]] — --
+- [[OnePizzaTeam]] — --
+- [[OnlineEvals]] — --
+- [[OnPolicyDataGeneration]] — --
+- [[Open ASR Leaderboard]] — --
+- [[Open Source Robotics]] — --
+- [[Open Weights]] — --
+- [[OpenModelEcosystem]] — --
+- [[OpenRAG]] — --
+- [[OpenSourceFoundation]] — --
+- [[OpenSourceModels]] — --
+- [[Operator Cognitive Load]] — --
+- [[OpportunityCostAsRealCost]] — --
+- [[OSSInAgeOfClankers]] — --
+- [[OutcomeBased Pricing]] — --
+- [[OutcomesOverOperations]] — --
+- [[Output Complexity]] — --
+- [[Outrunning Your Headlights]] — --
+- [[OverHelpful LLM]] — --
+- [[Overfitting]] — --
+- [[OverfittingAsExpertise]] — --
+- [[Overlapping Speech]] — --
+- [[OveroptimismAboutAI]] — --
+- [[OWASPLLMTop10]] — --
+- [[PadTokenEOSTokenConflict]] — --
+- [[Painted Doors]] — --
+- [[Pairwise Evaluation]] — --
+- [[Paralinguistic Understanding]] — --
+- [[Parallel Agents]] — --
+- [[ParameterEfficientFineTuning]] — --
+- [[Pareto Frontier]] — --
+- [[Pass@k]] — --
+- [[PastMeFutureMe]] — --
+- [[Patchify]] — --
+- [[Pattern Files (AI)]] — --
+- [[Perceived Latency]] — --
+- [[Performance Models]] — --
+- [[PerLayerEmbeddings]] — --
+- [[Persistent Sandboxes]] — --
+- [[PersonaOriented Documentation]] — --
+- [[Personal Agent]] — --
+- [[Physical AI]] — --
+- [[PII Masking]] — --
+- [[PinModelVersion]] — --
+- [[Plan and Review Shift]] — --
+- [[Plan vs Review Matrix]] — --
+- [[PlanBased Approach]] — --
+- [[PlanningBuildingCycle]] — --
+- [[Platform Consolidation for AI Coding]] — --
+- [[PlatformEngineering]] — --
+- [[PlaygroundFeature]] — --
+- [[PoisonRAG]] — --
+- [[PolicySimulation]] — --
+- [[Polyglot Architecture]] — --
+- [[PositionalEmbeddings]] — --
+- [[PostEngineer Engineering Org]] — --
+- [[PostTrainingGenerativeModels]] — --
+- [[PRD (Product Requirements Document)]] — --
+- [[PreMerge Queue]] — --
+- [[Predefined UI]] — --
+- [[Predictive Staffing]] — --
+- [[PrefillDecode Disaggregation]] — --
+- [[PrefixTuning]] — --
+- [[Prepare Call]] — --
+- [[Prepare Step]] — --
+- [[Preserve Meaning]] — --
+- [[Pricing Guardrails]] — --
+- [[Pricing Iteration]] — --
+- [[Principal Domain Expert]] — --
+- [[Principle of Maximum Heterogeneity]] — --
+- [[Proactive Detours]] — --
+- [[ProbabilisticWeatherPrediction]] — --
+- [[Product Feedback Loops]] — --
+- [[ProductDriven Benchmarks]] — --
+- [[ProductEngineer]] — --
+- [[ProgrammaticToolCalling]] — --
+- [[Progressive Autonomy]] — --
+- [[ProgressiveContextDisclosure]] — --
+- [[ProgressiveDisclosure]] — --
+- [[ProgressiveDiscovery]] — --
+- [[Prompt Engineering]] — --
+- [[PromptCaching]] — --
+- [[Prompted Playlist]] — --
+- [[PromptInjection]] — --
+- [[PromptLearning]] — --
+- [[PromptOptimization]] — --
+- [[PromptOptimizationLoop]] — --
+- [[PromptPlayground]] — --
+- [[PropertyBasedTesting]] — --
+- [[Prosody]] — --
+- [[ProtectedResourceMetadata]] — --
+- [[Protocol Brute Forcing]] — --
+- [[ProviderExecuted Tools]] — --
+- [[Proxy Pattern (Secrets)]] — --
+- [[PsychologicalSafety]] — --
+- [[Public Leaderboards]] — --
+- [[PublicSectorAITransformation]] — --
+- [[Pull vs Push Context]] — --
+- [[PullRequestAlignment]] — --
+- [[Push Subscriptions]] — --
+- [[Push vs Pull Coding Standards]] — --
+- [[Quadratic Attention]] — --
+- [[Quality Quarter]] — --
+- [[QualityAsDifferentiator]] — --
+- [[QualityWednesdays]] — --
+- [[Quantization]] — --
+- [[RAG]] — --
+- [[Ralph Loop]] — --
+- [[RandomizedControlledTrial]] — --
+- [[ReAct]] — --
+- [[ReadOnlyAI]] — --
+- [[ReadonlyHint]] — --
+- [[RealTime Factor]] — --
+- [[Reasoning Limits]] — --
+- [[Reasoning Traces]] — --
+- [[ReasoningBudgets]] — --
+- [[Recall@50]] — --
+- [[Reconciliation (STT and Diarization)]] — --
+- [[RectifiedFlow]] — --
+- [[Recursive Language Models]] — --
+- [[RecursiveSummarization]] — --
+- [[RedGreen TDD]] — --
+- [[Reduce Function]] — --
+- [[Reducible Runtime]] — --
+- [[ReferenceFreeEvals]] — --
+- [[Reinforcement Learning Rollouts]] — --
+- [[ReinforcementLearningWithLLMs]] — The approach of combining reinforcement learning (RL) with large language models (LLMs) to produce more capable intel...
+- [[Rejection Sampling for Bootstrapping]] — --
+- [[RelationshipDecay]] — --
+- [[Reliability Scoring]] — --
+- [[Remote Agent Interaction]] — --
+- [[Remote Browser Operator]] — --
+- [[RepeatKV]] — --
+- [[Replay Model]] — --
+- [[Representation Alignment]] — --
+- [[Representation Structures]] — --
+- [[Researcher UX]] — --
+- [[ResearchPlanImplement]] — --
+- [[ResidualConnections]] — --
+- [[Responsible AI]] — --
+- [[REST API for Agents]] — --
+- [[ResumableStreams]] — --
+- [[Retrospective Agent]] — --
+- [[Reusable Views]] — --
+- [[Reversibility]] — --
+- [[Reversible Without Embarrassment]] — --
+- [[ReviewBased Approach]] — --
+- [[Reviewer Agents]] — --
+- [[Reward Hacking in Agents]] — --
+- [[Reward Signal]] — --
+- [[RichAuthorizationRequests]] — --
+- [[RL Ops]] — --
+- [[RLEnvironmentsForLLMs]] — --
+- [[RoboticsLag]] — --
+- [[Robust Eval Methodology]] — --
+- [[RootNodeResearch]] — --
+- [[RootOfTrust]] — --
+- [[RoPE]] — --
+- [[RTSInspired Agent Orchestration]] — --
+- [[RubricBased Evaluation]] — --
+- [[RuleBasedPrompting]] — --
+- [[SCurve of Intelligence Returns]] — --
+- [[SaaS Copocalypse]] — --
+- [[SAML]] — --
+- [[Sandboxed Iframe]] — --
+- [[Sandboxing]] — --
+- [[SandboxingAndPermissions]] — --
+- [[Satisfaction of Search]] — --
+- [[Saved MiniScripts]] — --
+- [[SayingNo]] — --
+- [[Scaffolding Pattern]] — --
+- [[ScopeBasedAccessControl]] — --
+- [[Script Injection by AI]] — --
+- [[SDLCIntegration]] — --
+- [[Security Autofix]] — --
+- [[Seekable Compression]] — --
+- [[SelfAffirming Tests]] — --
+- [[SelfCurating Test Suites]] — --
+- [[SelfEvaluation Trap]] — --
+- [[SelfHealing Agents]] — --
+- [[SelfHosting for Agents]] — --
+- [[SelfImproving Agents]] — --
+- [[SelfSupervised Learning (Vision)]] — --
+- [[SelfSupervised Representation Learning]] — --
+- [[SelfTraining Agents]] — --
+- [[SelfAttentionMechanism]] — --
+- [[SelfDiagnostics]] — --
+- [[SelfModifyingAgents]] — --
+- [[SelfServicePlatform]] — --
+- [[Semantic IDs]] — --
+- [[Semantic Summaries]] — --
+- [[Semantic VAD]] — --
+- [[SemanticCodeRetrieval]] — --
+- [[SemanticLayer]] — --
+- [[SemiSyncValueOfDepth]] — --
+- [[Separating Data Pipeline from Language Generation]] — --
+- [[Sequence Parallelism]] — --
+- [[SequencePacking]] — --
+- [[Serializability]] — --
+- [[ServerSent Events]] — --
+- [[ServerSide Compaction]] — --
+- [[ServerDiscovery]] — --
+- [[Serverless Inference]] — --
+- [[Serverless Training]] — --
+- [[Service Tiers]] — --
+- [[SettledData]] — --
+- [[Shallow Modules]] — --
+- [[Shared Context]] — --
+- [[Shared Nothing Architecture]] — --
+- [[Shared Payment Tokens]] — --
+- [[Shell Tool]] — --
+- [[ShiftLeftValidation]] — --
+- [[ShortConvolutions]] — --
+- [[SimpleDesignPhilosophy]] — --
+- [[SimpleVsEasy]] — --
+- [[SinglePlayerAgentInterfaces]] — --
+- [[SingleSignOn]] — --
+- [[SingleTurnEnvironments]] — --
+- [[SingularValueDecomposition]] — --
+- [[Skill Architecture]] — --
+- [[Skills Flywheel]] — --
+- [[Skills Governance]] — --
+- [[Skills Sharing]] — --
+- [[Skills Versioning]] — --
+- [[Skills]] — --
+- [[SkillsOverMCP]] — --
+- [[Slack Bot Integration]] — --
+- [[SlackBased Agent Interface]] — --
+- [[SlidingWindowAttention]] — --
+- [[Slim Mode]] — --
+- [[Slop]] — --
+- [[Slow Phased AI Adoption]] — --
+- [[SlowingDownWithAgents]] — --
+- [[Smart vs Safe Tradeoff]] — --
+- [[Smart Zone and Dumb Zone]] — --
+- [[SmartTruncation]] — --
+- [[Snapshot and Restore]] — --
+- [[Social Graph]] — --
+- [[Soft Tokenization]] — --
+- [[SoftmaxNumericalStability]] — --
+- [[Software Development Life Cycle]] — --
+- [[Software Development Step Functions]] — --
+- [[Software Entropy]] — --
+- [[Software Fundamentals Matter More Than Ever]] — --
+- [[Software Market Elasticity]] — --
+- [[Software2.0]] — --
+- [[SoftwareCrisis]] — --
+- [[SoftwareOnlySingularity]] — --
+- [[Sonar Leaderboard]] — --
+- [[SoulMD]] — --
+- [[SovereignAI]] — --
+- [[Speaker Attributed Transcription]] — --
+- [[Speaker Diarization]] — --
+- [[SpecDriven Testing]] — --
+- [[SpecAsLivingDocumentation]] — --
+- [[SpecificationDrivenDevelopment]] — --
+- [[SpecsToCode]] — --
+- [[SpectralAutoRegression]] — --
+- [[SpeechToSpeech Models]] — --
+- [[SpeechToSpeech Pipeline]] — --
+- [[Sprint Decomposition]] — --
+- [[Startup Loop]] — --
+- [[State Machine Gates]] — --
+- [[StateOfTheArt Ambiguity]] — --
+- [[Stateful Compute]] — --
+- [[Stateful Development Environment]] — --
+- [[Stateless Agent Loop]] — --
+- [[StatelessTransportProtocol]] — --
+- [[Static Benchmarks]] — --
+- [[Static UI Generation]] — --
+- [[Steering]] — --
+- [[StepCaching]] — --
+- [[Stop Fighting the Model]] — --
+- [[StratifiedSamplingInRL]] — --
+- [[Stream Processor]] — --
+- [[Streaming ASR]] — --
+- [[Streaming Audio Generation]] — --
+- [[Streaming TTS]] — --
+- [[Stripe Projects]] — --
+- [[Structured Outputs]] — --
+- [[SubAgent Orchestration]] — --
+- [[SubAgents]] — --
+- [[SuboptimalCapabilityElicitation]] — --
+- [[SunkCostBias]] — --
+- [[Supervised FineTuning]] — --
+- [[SupplyChainAttack]] — --
+- [[Surface Existing Information]] — --
+- [[Swim Lanes]] — --
+- [[Swiss Cheese Model]] — --
+- [[SwissCheeseDefense]] — --
+- [[Synthetic Data Generation]] — --
+- [[SyntheticContinuedPreTraining]] — --
+- [[SystemLevel GenAI]] — --
+- [[SystemPromptFeedbackLoop]] — --
+- [[Task Decomposition]] — --
+- [[Task Fidelity Scaling Laws]] — --
+- [[Task Quality (Benchmarks)]] — --
+- [[Task Quality in Agentic Benchmarks]] — --
+- [[TaskInterdependence]] — --
+- [[Taste (Software)]] — --
+- [[Taste Profile]] — --
+- [[TDD with AI]] — --
+- [[TeacherStudentDistillation]] — --
+- [[TeamAlignment]] — --
+- [[TechnicalDebtInML]] — --
+- [[TechnologyAdoptionAnalogies]] — --
+- [[Telemetry In The Loop]] — --
+- [[TemperatureInAI]] — --
+- [[TemporalActivities]] — --
+- [[TemporalWorkflows]] — --
+- [[Tensor Parallelism]] — --
+- [[Test Overfitting]] — --
+- [[TestTime Training]] — --
+- [[TestTimeScalingLaws]] — --
+- [[Text as State]] — --
+- [[Text Polishing]] — --
+- [[TextToSpeech Architecture]] — --
+- [[TextBasedIndexing]] — --
+- [[The Multiverse (agent development)]] — --
+- [[Theory of Constraints]] — --
+- [[TheoryOfConstraints]] — --
+- [[ThinkerTalker Pattern]] — --
+- [[Thinking Levels]] — --
+- [[ThirdPartyAgentIntegration]] — --
+- [[ThirdPartyToolOptimization]] — --
+- [[Three Eras of Compute]] — --
+- [[Three Pillars of Autonomy]] — --
+- [[Three Zones of Improvement]] — --
+- [[ThreePhaseApproach]] — --
+- [[ThriveCoding]] — --
+- [[TicTacToeRLTraining]] — --
+- [[Time to First Audio]] — --
+- [[Time to First Token]] — --
+- [[TimeHorizon]] — --
+- [[Tiny LLMs]] — --
+- [[TodoListPattern]] — --
+- [[Token Billionaire]] — --
+- [[Token Efficiency]] — --
+- [[Token Expenditure Estimation]] — --
+- [[Token Maxing]] — --
+- [[Token Optimization]] — --
+- [[TokenBudget]] — --
+- [[TokenExchange]] — --
+- [[Tokenization]] — --
+- [[TokenMaxing]] — --
+- [[Tokenomics]] — --
+- [[Tokens Per Successful Outcome]] — --
+- [[TokenVault]] — --
+- [[Tool Categorization]] — --
+- [[Tool Description]] — --
+- [[Tool Loop Agent]] — --
+- [[ToolCalling]] — --
+- [[ToolCallsInEvals]] — --
+- [[ToolComposition]] — --
+- [[ToolCuration]] — --
+- [[ToolPoisoning]] — --
+- [[ToolSearch]] — --
+- [[ToolsVsBashVsCodeGen]] — --
+- [[ToolWrapping]] — --
+- [[TopicModelingForAgents]] — --
+- [[TopicModelingForEvals]] — --
+- [[TopKSampling]] — --
+- [[Trace Reading]] — --
+- [[Traceable Bullets]] — --
+- [[TraceDataChallenges]] — --
+- [[TraceLinkedEvaluations]] — --
+- [[TracesAndSpans]] — --
+- [[TraditionalEnterpriseVsAINatives]] — --
+- [[TraditionalObservability]] — --
+- [[Traffic Controller vs Dispatcher]] — --
+- [[Trajectories]] — --
+- [[Trajectory Analysis]] — --
+- [[Transactional Memory]] — --
+- [[TransformerArchitecture]] — --
+- [[TransparentExecution]] — --
+- [[TriageAgent]] — --
+- [[TribalKnowledge]] — --
+- [[Trust Boundaries For Agents]] — --
+- [[Trust But Verify]] — --
+- [[Turn Detection]] — --
+- [[Turn Taking]] — --
+- [[Two Camps of Wrong on Evals]] — --
+- [[Type A vs Type B Chess Engines]] — --
+- [[Ubiquitous Agents]] — --
+- [[Ubiquitous Language]] — --
+- [[UI Generation Spectrum]] — --
+- [[Underspecification in Agentic Tasks]] — --
+- [[UNetArchitecture]] — --
+- [[Unified Memory Architecture]] — --
+- [[UnifiedAIStack]] — --
+- [[UnifiedDiffing]] — --
+- [[Untitled Ulysses]] — --
+- [[UntrainedTokens]] — --
+- [[Untrusted Code Execution]] — --
+- [[URL Context]] — --
+- [[Use Case Registry]] — --
+- [[User Embeddings]] — --
+- [[UserFrustration]] — --
+- [[Validation]] — --
+- [[ValidationContracts]] — --
+- [[ValidationLoss]] — --
+- [[ValueBased Pricing]] — --
+- [[VariableAspectRatios]] — --
+- [[VariableResolution]] — --
+- [[VectorDatabases]] — --
+- [[Verifiable Deterministic Tasks]] — --
+- [[VerifiableRewards]] — --
+- [[Verification in Agentic Loops]] — --
+- [[VerificationAsymmetry]] — --
+- [[VerifierFixer Pipeline]] — --
+- [[VerifiersRule]] — --
+- [[Vertical AI]] — --
+- [[Vertical Slices]] — --
+- [[Vibe Checking]] — --
+- [[Vibe Engineering]] — --
+- [[VibeCoding]] — --
+- [[VibesBasedSafety]] — --
+- [[Video Action Language Models]] — --
+- [[VirtuousCycleOfImprovement]] — --
+- [[Vision Language Models]] — --
+- [[Vision Model Training Conflicts]] — --
+- [[Visual Automation]] — --
+- [[Visual Intelligence]] — --
+- [[Voice Activity Detection]] — --
+- [[Voice Agent Pipeline Architecture]] — --
+- [[Voice Agents]] — --
+- [[Voice AI Cost]] — --
+- [[Voice AI]] — --
+- [[Voice Cloning]] — --
+- [[Voice Design]] — --
+- [[Voice of the Customer (VoC)]] — --
+- [[Voice Style Control]] — --
+- [[VoiceToFunction Calling]] — --
+- [[VoiceEngine]] — --
+- [[Waterfall vs Loop]] — --
+- [[WeakBoundaries]] — --
+- [[Web Agent]] — --
+- [[Web Shell Pattern]] — --
+- [[Webhooks for Agents]] — --
+- [[WeightDecay]] — --
+- [[Win Rate]] — --
+- [[Word Error Rate]] — --
+- [[Worker Loop]] — --
+- [[WorkflowPattern]] — --
+- [[World Model Building]] — --
+- [[WorldModels]] — --
+- [[WriteAheadLogForTraces]] — --
+- [[Writing Profiles]] — --
+- [[XApps]] — --
+- [[YOLOMode]] — --
+- [[ZeroBugPolicy]] — --
+- [[ZeroHumanCompany]] — --
+- [[ZeroTrust]] — --
+- [[Zettelkasten]] — --
+- [[ZoneOfGenius]] — --
 
-- [[CrossAppAccess]] — XAA: identity provider as trust broker between MCP client and server, eliminating consent screens.
-- [[IDJAG]] — Identity JWT Authorization Grant spec for cross-service token issuance without user intervention.
-- [[SingleSignOn]] — SSO: one login for all applications, broken by MCP OAuth model, restored by XAA.
-- [[OAuth]] — Open standard for access delegation used by MCP, source of consent screen friction.
-- [[SAML]] — XML-based SSO protocol, ID JAG spec supports SAML assertions as credential type.
-- [[JWT]] — JSON Web Token format used for ID JAG tokens in the XAA flow.
-- [[ConsentScreens]] — OAuth authorization prompts creating UX friction in MCP, eliminated by XAA.
-- [[ClientIDMetadata]] — CIMD: newer OAuth spec superseding DCR by pre-defining client metadata upfront.- [[MCPGateway]] — Middleware layer centralizing authentication, access control, routing, and observability for enterprise MCP deployments.
-- [[MCPEnterpriseChallenges]] — The three-headed hydra of observability, access control, and security facing enterprise MCP adoption.
-- [[RootOfTrust]] — Architectural principle of blessing a single platform to enable decentralized MCP development across an organization.
-- [[AgentHarnessSeparation]] — Decoupling agent runtimes from data layers so agents are not tightly coupled to MCP implementation details.
-- [[DecentralizedMCPDevelopment]] — Organizational pattern where non-technical domain teams build MCP servers focusing only on business logic.
-- [[DelegatedAgentIdentity]] — Novel identity definitions for AI agents, distinct from human user identity, scoped through MCP Gateways.
 
 ## Syntheses
 

@@ -21,7 +21,7 @@ A decision log is a non-blocking elicitation pattern where an agent, when unsure
 ## Related
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source
 - [[Elicitation]] — the broader pattern of asking the human
-- [[Agent-Human Collaboration]] — the framework this pattern supports
-- [[High-Bandwidth Artifacts]] — how decision logs should be presented
+- [[AgentHuman Collaboration]] — the framework this pattern supports
+- [[HighBandwidth Artifacts]] — how decision logs should be presented
 - [[JacobLauritzen]] — presented this pattern
 - [[HumanInTheLoopWorkflows]] — related human-in-the-loop pattern

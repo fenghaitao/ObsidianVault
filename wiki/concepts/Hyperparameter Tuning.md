@@ -19,5 +19,5 @@ Hyperparameter Tuning is the process of searching for optimal model training con
 ## Related
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Serverless Training]] — infrastructure paradigm enabling parallel tuning
-- [[Fine-tuning]] — primary training technique where tuning is applied
+- [[FineTuning]] — primary training technique where tuning is applied
 - [[Modal]] — serverless platform exemplar

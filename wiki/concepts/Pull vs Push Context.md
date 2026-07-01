@@ -19,7 +19,7 @@ Pull vs Push Context describes two opposing strategies for providing institution
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — the pull methodology
+- [[DemandDriven Context]] — the pull methodology
 - [[Agent as Knowledge Manager]] — the agent's role in pull strategy
 - [[MCP]] — the primary push mechanism
 - [[RAG]] — another push mechanism

@@ -21,7 +21,7 @@ Script Injection by AI is the capability and willingness of AI models to modify 
 
 ## Related
 - [[summary-20260501 - Agents on the Canvas in tldraw — Steve Ruiz, tldraw]] — source
-- [[File-over-App]] — the philosophy that enables safe script injection
+- [[FileOverApp]] — the philosophy that enables safe script injection
 - [[Sandboxing]] — the security model for containing script injection risk
 - [[Computer Use]] — related capability for desktop automation
 - [[Untrusted Code Execution]] — the broader category

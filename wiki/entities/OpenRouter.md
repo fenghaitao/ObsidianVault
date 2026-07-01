@@ -28,5 +28,5 @@ OpenRouter is an API gateway that provides unified access to multiple LLM provid
 - [[n8n]] — platform using OpenRouter for LLM access
 - [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — source
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source (tool call latency)
-- [[Tool Calling]] — latency bottleneck in voice AI
+- [[ToolCalling]] — latency bottleneck in voice AI
 - [[Voice AI]] — domain where OpenRouter latency is relevant

@@ -28,7 +28,7 @@ Danilo Campos is a software engineer at PostHog and the creator of the PostHog W
 - [[Model Rot]] — concept he articulated
 - [[Model Airplanes]] — concept he introduced
 - [[Breadcrumbing]] — concept he introduced
-- [[Inference-Time Interrogation]] — concept he introduced
+- [[InferenceTime Interrogation]] — concept he introduced
 - [[Code as Depreciating Asset]] — concept he articulated
 - [[Agent as Octopus]] — concept he articulated
-- [[Fine-Grained Tool Permissions]] — concept he articulated
+- [[FineGrained Tool Permissions]] — concept he articulated

@@ -22,7 +22,7 @@ Agent Quota Management is the practice of limiting per-user or per-team token co
 - [[Tokenomics]] — the broader economic concept
 - [[Agent Tokenomics]] — agent-specific cost amplification
 - [[Model Tiering]] — strategy for managing quota through model fallback
-- [[Credit-Based Pricing]] — alternative pricing model for agentic workloads
+- [[CreditBased Pricing]] — alternative pricing model for agentic workloads
 - [[TokenBudget]] — per-operation token limits
 - [[Gemma4]] — cheaper model used to reduce quota pressure
 - [[GoogleDeepMind]] — organization implementing at scale

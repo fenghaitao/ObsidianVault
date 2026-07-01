@@ -25,5 +25,5 @@ Software Development Step Functions are the major paradigm-shifting epochs in th
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source transcript
 - [[Thomas Dohmke]] — articulated the framework
 - [[GitHub]] — the collaboration step function
-- [[GitHub Copilot]] — the AI step function product
+- [[GitHubCopilot]] — the AI step function product
 - [[AI for Engineers]] — the philosophy for the current step function

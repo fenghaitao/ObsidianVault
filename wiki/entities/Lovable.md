@@ -32,7 +32,7 @@ Lovable is an AI app builder platform that coined the term "vibe coding" — cod
 - [[Agent Vent Tool]] — agent-to-creator feedback mechanism
 - [[VibeCoding]] — paradigm coined by Lovable
 - [[ContinuousImprovement]] — broader framework
-- [[Self-Improving Agents]] — research direction
+- [[SelfImproving Agents]] — research direction
 - [[Context Rot]] — problem addressed by the A/B evaluation loop
 - [[Hybrid Pricing]] — pricing model used
 - [[Stripe]] — billing platform

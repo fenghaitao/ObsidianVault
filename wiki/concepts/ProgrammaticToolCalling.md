@@ -47,5 +47,5 @@ Programmatic Tool Calling (also called code mode) is a client-side pattern where
 - [[Deno]] — JavaScript/TypeScript sandbox alternative
 - [[Pydantic Monty]] — Python sandbox alternative
 - [[Untrusted Code Execution]] — the core safety challenge
-- [[Saved Mini-Scripts]] — user-facing pattern enabled by programmatic tool calling
+- [[Saved MiniScripts]] — user-facing pattern enabled by programmatic tool calling
 - [[Stateless Agent Loop]] — scaling pattern enabled by programmatic tool calling

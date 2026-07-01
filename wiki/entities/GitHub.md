@@ -24,9 +24,9 @@ GitHub is a code hosting and version control platform. In the context of n8n age
 - [[Jira]] — alternative ticketing system for sub-agents
 - [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — source
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Sub-agent Orchestration]] — pattern for GitHub issues sub-agent
+- [[SubAgent Orchestration]] — pattern for GitHub issues sub-agent
 - [[MCP]] — GitHub MCP server
 - [[HumanInTheLoopWorkflows]] — review before messaging contributors
-- [[Demand-Driven Context]] — methodology using GitHub for knowledge storage
+- [[DemandDriven Context]] — methodology using GitHub for knowledge storage
 - [[Meta Model]] — file structure as navigation map
 - [[Knowledge Curation]] — agents curating knowledge into GitHub repos

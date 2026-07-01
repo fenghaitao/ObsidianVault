@@ -27,4 +27,4 @@ Pedro Rodrigues is an AI tooling engineer at Supabase, focused on making the Sup
 - [[Supabase]] — company
 - [[Skills]] — skills approach
 - [[MCP]] — complementary protocol to skills
-- [[Context Gap]] — problem skills + MCP help close
+- [[ContextGap]] — problem skills + MCP help close

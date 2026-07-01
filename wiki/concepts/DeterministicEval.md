@@ -2,13 +2,13 @@
 title: "Deterministic Eval"
 type: concept
 category: methodology
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize.md"]
 last_updated: 2026-06-30
 ---
 
 ## Definition
 
-Deterministic Eval is an evaluation approach that uses code-based, rule-driven scoring functions to assess agent outputs against objective criteria, as opposed to [[LLM-as-Judge]] which uses language models for subjective assessment. It is applied to failure modes that can be measured deterministically without relying on non-deterministic LLM judgment.
+Deterministic Eval is an evaluation approach that uses code-based, rule-driven scoring functions to assess agent outputs against objective criteria, as opposed to [[LLMAsJudge]] which uses language models for subjective assessment. It is applied to failure modes that can be measured deterministically without relying on non-deterministic LLM judgment.
 
 ## Key Information
 
@@ -34,7 +34,7 @@ Deterministic Eval is an evaluation approach that uses code-based, rule-driven s
 ## Related
 
 - [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source
-- [[LLM-as-Judge]] — complementary non-deterministic evaluation approach
+- [[LLMAsJudge]] — complementary non-deterministic evaluation approach
 - [[EvalPrimitives]] — scoring functions as one of the three eval components
 - [[EvalPracticePhases]] — Phase 2 where both deterministic and LLM-as-judge scoring are introduced
 - [[Code Evals]] — related concept of code-based evaluation

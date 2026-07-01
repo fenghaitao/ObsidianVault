@@ -30,6 +30,6 @@ CRIU (Checkpoint/Restore in Userspace) is a Linux tool developed in 2011 that en
 - [[Firecracker]] — the VM-level replacement
 - [[Snapshot and Restore]] — the durability approach
 - [[Execution Snapshot]] — the captured state
-- [[Trigger.dev]] — company that used CRIU in production
+- [[TriggerDev]] — company that used CRIU in production
 - [[FCRun]] — the Firecracker-based CLI that replaced CRIU
 - [[summary-20260510 - Two Roads to Durable Agents： Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev]] — source

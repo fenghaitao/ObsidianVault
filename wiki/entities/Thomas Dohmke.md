@@ -23,11 +23,11 @@ Thomas Dohmke is the CEO of GitHub, fascinated by software development since chi
 
 ## Related
 - [[GitHub]] — the company he leads
-- [[GitHub Copilot]] — product launched under his leadership
+- [[GitHubCopilot]] — product launched under his leadership
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source transcript
 - [[Eugene Yan]] — interviewer
 - [[AI for Engineers]] — his core philosophy
-- [[Agent-as-Dishwasher]] — his agent definition metaphor
+- [[AgentAsDishwasher]] — his agent definition metaphor
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (Shopify early access story)
 - [[FarhanThawar]] — Shopify head of engineering who negotiated early access
 - [[Shopify]] — company that got early Copilot access

@@ -51,7 +51,7 @@ The agentic loop is the core execution pattern where an LLM has agency — it de
 - [[StatelessTransportProtocol]] — related MCP transport proposal
 - [[Agents on Canvas]] — spatial visualization of agentic loops
 - [[Fairies]] — multi-agent canvas implementation using agentic loops
-- [[Demand-Driven Context]] — methodology extending the agentic loop
+- [[DemandDriven Context]] — methodology extending the agentic loop
 - [[summary-20260527 - Why Rust is the Ideal Language for Vibe-Coding — Daniel Szoke, Sentry]] — source (compile-fix loop)
 - [[CompilerGuardrails]] — the deterministic safety net in the compile-fix loop
 - [[Rust]] — language where the compile-fix loop is most powerful

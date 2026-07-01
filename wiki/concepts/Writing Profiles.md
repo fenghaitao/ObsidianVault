@@ -21,7 +21,7 @@ Writing Profiles are static markdown files that define how an LLM should write c
 
 ## Related
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
-- [[Evaluator-Optimizer Pattern]] — workflow using these profiles for review
+- [[EvaluatorOptimizer Pattern]] — workflow using these profiles for review
 - [[Slop]] — the AI-generated low-quality content profiles aim to avoid
 - [[FewShotExamples]] — complementary technique for controlling generation
 - [[Paul Iusztin]] — presenter who designed the profile system

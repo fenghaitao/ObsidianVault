@@ -21,11 +21,11 @@ Gemini 3.1 Pro is the largest model in Google DeepMind's Gemini 3.1 series, offe
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[summary-20260531 - Can LLMs generate Enterprise Quality Code — Prasenjit Sarkar, Sonar]] — source
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[Gemini 3.1 Flash Live]] — real-time sibling
 - [[Gemini 3.1 Flash Light]] — smaller sibling
 - [[Augment Code]] — user
 - [[Replit]] — user
 - [[Sonar Leaderboard]] — code quality evaluation
 - [[LLM Code Quality Evaluation]] — evaluation framework
-- [[SWE-bench]] — benchmark used for pass rate
+- [[SWEBench]] — benchmark used for pass rate

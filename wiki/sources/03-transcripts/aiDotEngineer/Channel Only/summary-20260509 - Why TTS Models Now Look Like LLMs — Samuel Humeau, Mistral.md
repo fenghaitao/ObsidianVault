@@ -28,7 +28,7 @@ Samuel Humeau (Mistral) explains the emerging convergence in text-to-speech (TTS
 - [[aiDotEngineer]] — the AI Engineer conference where this talk was given
 
 ## Concepts
-- [[Text-to-Speech Architecture]] — the emerging LLM-like architecture pattern for TTS
+- [[TextToSpeech Architecture]] — the emerging LLM-like architecture pattern for TTS
 - [[Audio Codec]] — neural compression of audio into token sequences for autoregressive modeling
 - [[Voice Cloning]] — generating speech in a target speaker's voice from a few seconds of reference audio
 - [[Streaming Audio Generation]] — producing audio packets incrementally to reduce perceived latency

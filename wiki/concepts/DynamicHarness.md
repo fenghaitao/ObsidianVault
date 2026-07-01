@@ -25,5 +25,5 @@ Dynamic Harness is a future vision proposed by Tejas Kumar where agents generate
 - [[AgentHarnessComponents]] — the components a dynamic harness would generate
 - [[Harness Engineering]] — the current manual discipline that dynamic harnesses would automate
 - [[AGI]] — dynamic harnesses as a step toward AGI
-- [[Self-Improving Agents]] — related meta-capability
+- [[SelfImproving Agents]] — related meta-capability
 - [[SelfModifyingAgents]] — related concept

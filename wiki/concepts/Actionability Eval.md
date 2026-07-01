@@ -21,7 +21,7 @@ An actionability eval is a custom LLM-as-judge evaluation that checks whether an
 - Demonstrates the power of data-driven prompt engineering: evals don't just tell you what's wrong, they tell you what to fix
 
 ## Related
-- [[LLM-as-Judge]] — evaluation technique
+- [[LLMAsJudge]] — evaluation technique
 - [[Code Evals]] — complementary deterministic eval type
 - [[Capability Evals]] — initial actionability eval served as a capability eval
 - [[Phoenix]] — platform supporting custom classification evals

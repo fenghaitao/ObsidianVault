@@ -19,7 +19,7 @@ Voice Chat is a speech-to-speech model recently launched by Nvidia. Like OpenAI'
 
 ## Related
 - [[Nvidia]] — creator
-- [[Speech-to-Speech Models]] — model category
+- [[SpeechToSpeech Models]] — model category
 - [[Voice Agent Pipeline Architecture]] — production alternative
 - [[OpenAI]] — real-time API competitor
 - [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source

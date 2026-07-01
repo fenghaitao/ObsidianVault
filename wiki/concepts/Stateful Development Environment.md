@@ -24,7 +24,7 @@ A Stateful Development Environment is a persistent, memory-rich workspace for AI
 - [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — source
 - [[Continuous Compute]] — paradigm requiring stateful environments
 - [[AgentHarness]] — the loop running in a stateful environment
-- [[AgentMemory]] — related concept of persistent agent memory
+- [[Agent Memory]] — related concept of persistent agent memory
 - [[Internal Validation]] — speed-dependent on stateful environments
-- [[Hardware-Software Co-design for Caching]] — technical approach to statefulness
+- [[HardwareSoftware CoDesign for Caching]] — technical approach to statefulness
 - [[The Multiverse (agent development)]] — scenario requiring stateful environments at scale

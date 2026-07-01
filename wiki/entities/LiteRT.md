@@ -23,9 +23,9 @@ LiteRT is Google's general inference framework for edge devices, formerly known 
 
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
-- [[LiteRT-LM]] — LLM runtime built on LiteRT
+- [[LiteRTLM]] — LLM runtime built on LiteRT
 - [[Google AI Edge]] — parent division
 - [[MediaPipe]] — ML pipeline framework also in the stack
-- [[Cross-platform deployment]] — key capability
+- [[CrossPlatform deployment]] — key capability
 - [[NPU]] — hardware acceleration via AOT compilation
 - [[AOT Compilation]] — required for NPU deployment

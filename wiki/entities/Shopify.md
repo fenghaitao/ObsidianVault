@@ -27,7 +27,7 @@ Shopify is an e-commerce platform company that uses the Gemini Live API for Shop
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (Copilot early access, churn as investment)
 - [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source (GEPA cost reduction)
 - [[FarhanThawar]] — head of engineering who secured Copilot access
-- [[ThomasDohmke]] — GitHub CEO who granted early access
+- [[Thomas Dohmke]] — GitHub CEO who granted early access
 - [[GitHubCopilot]] — tool Shopify got early access to
 - [[ChurnAsInvestment]] — Shopify's AI strategy
 - [[MikaelParyk]] — Shopify CTO

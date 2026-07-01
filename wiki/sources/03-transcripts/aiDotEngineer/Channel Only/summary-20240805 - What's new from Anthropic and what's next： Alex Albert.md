@@ -35,7 +35,7 @@ AI adoption today mirrors the dawn of the electrical revolution: companies are s
 - **Build with Claude contest**: Top 3 projects receive $10K in Anthropic API credits
 
 ## Entities
-- [[Alex Albert]] — Anthropic, speaker
+- [[AlexAlbert]] — Anthropic, speaker
 - [[Anthropic]] — AI research company
 - [[Claude 3.5 Sonnet]] — newest model at time of talk
 - [[AmazonBedrock]] — platform where Claude 3.5 Sonnet is available

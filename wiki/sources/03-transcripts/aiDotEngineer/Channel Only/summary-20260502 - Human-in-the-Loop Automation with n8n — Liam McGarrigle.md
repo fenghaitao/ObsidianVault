@@ -49,11 +49,11 @@ Liam McGarrigle (Developer Advocate at n8n) leads a hands-on workshop building a
 
 ## Concepts
 - [[HumanInTheLoopWorkflows]] — n8n's human review node implementation
-- [[Fine-Grained Tool Permissions]] — exposing individual fields to AI instead of full API access
+- [[FineGrained Tool Permissions]] — exposing individual fields to AI instead of full API access
 - [[Visual Automation]] — low-code visual workflow building
-- [[AgentMemory]] — simple memory vs Postgres/Redis for conversation persistence
+- [[Agent Memory]] — simple memory vs Postgres/Redis for conversation persistence
 - [[ToolCalling]] — AI agent using nodes as tools with descriptions
-- [[Sub-agent Orchestration]] — main agent delegating to specialized sub-agents
+- [[SubAgent Orchestration]] — main agent delegating to specialized sub-agents
 - [[AgentObservability]] — execution logs, per-node input/output inspection
 - [[MCP]] — n8n's native MCP server for exposing workflows as tools
 - [[SystemPromptFeedbackLoop]] — iterative prompt refinement based on tool behavior
@@ -61,13 +61,13 @@ Liam McGarrigle (Developer Advocate at n8n) leads a hands-on workshop building a
 - [[WorkflowPattern]] — n8n's trigger → action → control flow architecture
 - [[DAGvsLoopArchitecture]] — n8n's DAG-based workflow vs agentic loop
 - [[Autonomy Slider]] — human review as a spectrum from full auto to full manual
-- [[Agent-Human Collaboration]] — human review as interception layer
+- [[AgentHuman Collaboration]] — human review as interception layer
 - [[AgenticWorkflows]] — combining deterministic workflows with AI agents
 - [[Slack Bot Integration]] — connecting agents to Slack for human review
 - [[REST API for Agents]] — exposing agent workflows as webhook APIs
 - [[DeterministicGuardrails]] — human review as a hard block, not LLM-decided
 - [[Context Budget]] — sub-agents reduce context bloat in main agent
-- [[AgentSpecialization]] — different LLMs for different sub-agent domains
+- [[Agent Specialization]] — different LLMs for different sub-agent domains
 
 ## Related
 - [[summary-20260106 - Building durable Agents with Workflow DevKit & AI SDK - Peter Wielander, Vercel]] — human-in-the-loop via webhooks

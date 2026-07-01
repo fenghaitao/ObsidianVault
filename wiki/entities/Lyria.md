@@ -27,6 +27,6 @@ Lyria is Google DeepMind's music generation model, part of the GenMedia suite. I
 - [[summary-20260518 - Let's go Bananas with GenMedia — Guillaume Vernade, Google DeepMind]] — source
 - [[GoogleDeepMind]] — creator
 - [[GenMedia]] — product suite
-- [[Lyria Real-Time]] — real-time predictive variant
+- [[Lyria RealTime]] — real-time predictive variant
 - [[Gemini]] — used for prompt generation
 - [[Media Prompt Generation]] — pattern for generating prompts

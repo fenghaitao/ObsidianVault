@@ -44,7 +44,7 @@ Nico Albanese presents the three core building blocks for building agents in 202
 - [[Persistent Sandboxes]] — named sandboxes with session-based state snapshots
 - [[Call Options Schema]] — Zod schema for structured call-time agent inputs
 - [[Agent Runtime Context]] — React-context-like pattern for sharing state across tools
-- [[Provider-Executed Tools]] — tools executed on LLM provider infrastructure
+- [[ProviderExecuted Tools]] — tools executed on LLM provider infrastructure
 - [[File System Memory]] — using file system as persistent agent memory via bash
 - [[Prepare Call]] — AI SDK callback running once per agent invocation
 - [[Prepare Step]] — AI SDK callback running before each agent loop step

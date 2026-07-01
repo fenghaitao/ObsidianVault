@@ -29,7 +29,7 @@ A Deep Research Agent is an agentic system that autonomously researches a topic 
 - [[Grounded Search]] — Gemini's search with source citations
 - [[Agent Skills]] — progressive disclosure pattern for agent instructions
 - [[AgentHarness]] — the runtime connecting agent brain to tools
-- [[Evaluator-Optimizer Pattern]] — writing workflow that consumes the research output
+- [[EvaluatorOptimizer Pattern]] — writing workflow that consumes the research output
 - [[Firecrawl]] — web scraping service used for content ingestion
 - [[Apify]] — web scraping platform used for content ingestion
 - [[Towards AI]] — company that built the system

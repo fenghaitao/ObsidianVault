@@ -20,7 +20,7 @@ Knowledge Curation is the process by which agents discover, document, and organi
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology that includes curation
+- [[DemandDriven Context]] — methodology that includes curation
 - [[Agent as Knowledge Manager]] — the agent role performing curation
 - [[Context Blocks]] — the output of curation
 - [[Knowledge Base Monolith]] — what curation transforms

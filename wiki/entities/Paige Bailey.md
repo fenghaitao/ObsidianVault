@@ -18,6 +18,6 @@ Paige Bailey is a DevRel (Developer Relations) lead at Google DeepMind, with a b
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Google DeepMind]] — organization
+- [[GoogleDeepMind]] — organization
 - [[AI Studio]] — platform she demonstrated
 - [[Gemini 3.1 Flash Live]] — model demonstrated

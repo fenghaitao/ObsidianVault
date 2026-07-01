@@ -23,7 +23,7 @@ Streaming Audio Generation is a TTS technique where audio is produced incrementa
 
 ## Related
 - [[summary-20260509 - Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral]] — source
-- [[Text-to-Speech Architecture]] — the architecture enabling streaming generation
+- [[TextToSpeech Architecture]] — the architecture enabling streaming generation
 - [[Audio Codec]] — frame-based tokenization that enables patch-level streaming
 - [[Perceived Latency]] — the UX benefit of streaming
 - [[Voice Cloning]] — can be combined with streaming for real-time cloned speech

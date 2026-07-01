@@ -13,7 +13,7 @@ Agent Choreography is the new form of "flow state" in the agentic coding world, 
 - Introduced by [[MichaelRichman]] as a contrast to the traditional concept of flow in software development.
 - Traditional flow: being totally in the zone, locked into your code, hyper-focused on a single problem — "you and your code solving a problem."
 - Agent choreography: multiple agents working in parallel with you moving between them, unblocking one, redirecting another — the new flow comes from the elegance of that coordination.
-- The shift is driven by agent runtimes crossing the threshold where humans can no longer wait for a single agent to complete — a trend also identified by [[Louis Knight-Webb]] in the context of [[Agent Parallelism]].
+- The shift is driven by agent runtimes crossing the threshold where humans can no longer wait for a single agent to complete — a trend also identified by [[Louis KnightWebb]] in the context of [[Agent Parallelism]].
 - Managing multiple agent sessions has high cognitive load and is exhausting, making breaks essential — and it is during those breaks that the best ideas often emerge.
 - Requires new tools and interfaces: existing IDE/terminal tools assume single-session deep focus, not multi-agent coordination.
 - The choreography model positions the human as a conductor rather than a player — planning, reviewing, and unblocking rather than hands-on implementation.

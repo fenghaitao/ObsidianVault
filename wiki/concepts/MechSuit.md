@@ -21,6 +21,6 @@ The "mech suit" is DHH's metaphor for AI-augmented development: AI doesn't turn 
 ## Related
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source
 - [[DHH]] — originator of the metaphor
-- [[AgentOrchestration]] — related concept
+- [[Agent Orchestration]] — related concept
 - [[MitchellHashimoto]] — runs two agents
 - [[GergelyOrosz]] — discussed the concept

@@ -24,6 +24,6 @@ Reviewer agents are AI agents that run in CI on every push, reviewing proposed c
 - [[summary-20260417 - Harness Engineering： How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI]] — source
 - [[Harness Engineering]] — the broader discipline
 - [[Garbage Collection Day]] — feeds improvements into reviewer agents
-- [[Persona-oriented Documentation]] — what reviewer agents are primed with
-- [[Non-functional Requirements Specification]] — what reviewer agents enforce
+- [[PersonaOriented Documentation]] — what reviewer agents are primed with
+- [[NonFunctional Requirements Specification]] — what reviewer agents enforce
 - [[AgenticEngineering]] — broader paradigm

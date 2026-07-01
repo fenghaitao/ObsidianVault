@@ -27,6 +27,6 @@ Voice cloning is the ability to replicate a person's voice from a short audio sa
 - [[Marvis]] — on-device TTS used for voice cloning on MLX
 - [[MLX Audio]] — framework enabling on-device voice cloning
 - [[Richie Mini]] — robot using voice cloning
-- [[On-Device TTS]] — deployment context
+- [[OnDevice TTS]] — deployment context
 - [[Kokoro]] — competitor lacking voice cloning
 - [[Voice AI]] — parent domain

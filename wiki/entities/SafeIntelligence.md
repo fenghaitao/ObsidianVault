@@ -30,7 +30,7 @@ SafeIntelligence is a 3-year-old company founded by Steven Willmott that special
 - [[Steven Willmott]] — CEO and founder
 - [[Michal Cichra]] — team member, presented on decision capture
 - [[Spec 27]] — agent testing product released by the team
-- [[Spec-Driven Testing]] — core concept behind their agent testing product
+- [[SpecDriven Testing]] — core concept behind their agent testing product
 - [[Formal Verification for ML]] — their foundational technical approach
 - [[Agent Robustness Testing]] — product capability
 - [[Decision Capture Loop]] — concept presented by Michal Cichra

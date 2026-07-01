@@ -22,9 +22,9 @@ Heterogeneous computing for AI inference is the strategy of using different type
 
 ## Related
 - [[summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs]] — source
-- [[Memory-Bound vs Compute-Bound]] — the technical basis for this strategy
+- [[MemoryBound vs ComputeBound]] — the technical basis for this strategy
 - [[Memory Bandwidth]] — key hardware characteristic
 - [[EXO]] — app that automates heterogeneous distribution
-- [[Prefill-Decode Disaggregation]] — specific pattern within heterogeneous computing
+- [[PrefillDecode Disaggregation]] — specific pattern within heterogeneous computing
 - [[DGX Spark]] — compute-optimized hardware
 - [[Apple]] — memory-capacity-optimized hardware

@@ -27,7 +27,7 @@ These components should be implementation-independent, surviving migration betwe
 ## Related
 
 - [[summary-20260531 - Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence]] — source
-- [[Spec-Driven Testing]] — the testing approach built on these components
+- [[SpecDriven Testing]] — the testing approach built on these components
 - [[Agent Robustness Testing]] — the testing of component 7 (robustness requirements)
 - [[Smart vs Safe Tradeoff]] — the safety motivation for comprehensive specs
 - [[Steven Willmott]] — introduced this framework

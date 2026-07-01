@@ -20,6 +20,6 @@ Autonomous coding agents are AI systems that can independently write, test, and 
 ## Related
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
 - [[Three Pillars of Autonomy]] — design framework
-- [[Replit Agent]] — example product
+- [[ReplitAgent]] — example product
 - [[Painted Doors]] — common failure mode
 - [[Verification in Agentic Loops]] — key enabler

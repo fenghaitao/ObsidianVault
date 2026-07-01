@@ -28,5 +28,5 @@ Catalog understanding is the process of teaching LLMs about a platform's content
 - [[User Embeddings]] — complementary user-side understanding
 - [[Soft Tokenization]] — personalization layer on top
 - [[Generative Recommender Systems]] — the full system
-- [[Fine-tuning]] — the training approach
+- [[FineTuning]] — the training approach
 - [[Foundation Models]] — the base models being adapted

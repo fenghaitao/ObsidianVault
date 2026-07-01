@@ -32,5 +32,5 @@ Amazon Bedrock is a fully managed AWS service that provides API access to a wide
 - [[Meta]]
 - [[Converse API]]
 - [[Foundation Models]]
-- [[Agentic Workflows]]
+- [[AgenticWorkflows]]
 - [[Poolside]]

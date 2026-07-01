@@ -2,8 +2,8 @@
 title: "SimonWillison"
 type: entity
 tags: [person, security, ai]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Cognitive Exhaust Fumes, or： Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick.md"]
-last_updated: 2026-06-29
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Cognitive Exhaust Fumes, or： Read-Only AI Is Underrated — Šimon Podhajský, Head of AI, Waypoint.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260605 - Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -26,10 +26,13 @@ Simon Willison is a security researcher and creator of the lethal triquetra secu
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (2 years still figuring out AI)
 - [[summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick]] — source (Lethal Trifecta)
 - [[LethalTrifecta]] — security model he created
-- [[Lethal Triquetra]] — alternate name for the model
+- [[LethalTriquetra]] — alternate name for the model
 - [[MosaicEffect]] — related security concept discussed alongside the triquetra
 - [[ReadOnlyAI]] — design philosophy that partially mitigates triquetra risks
 - [[PromptInjection]] — security problem he works on
 - [[LeavingPriorsBehind]] — his experience exemplifies the concept
 - [[ChrisParsons]] — applies Lethal Trifecta to agent sandboxing
 - [[Agent Sandboxing]] — mitigation approach based on his model
+- [[summary-20260605 - Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google]] — source (Lethal Trifecta applied to Chrome DevTools autoconnect feature)
+- [[Trust Boundaries For Agents]] — his Lethal Trifecta directly informed Chrome DevTools' intentional friction design
+- [[Browser Agent Security Tiers]] — tiered model informed by his work

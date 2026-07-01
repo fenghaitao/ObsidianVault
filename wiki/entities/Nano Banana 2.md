@@ -22,7 +22,7 @@ Nano Banana 2 is Google DeepMind's image generation and editing model, available
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[summary-20260518 - Let's go Bananas with GenMedia — Guillaume Vernade, Google DeepMind]] — source
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[AI Studio]] — platform for access
 - [[Genie 3]] — uses Nano Banana in its pipeline
 - [[Image Search Grounding]] — supported feature

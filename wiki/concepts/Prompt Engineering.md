@@ -19,6 +19,6 @@ Prompt engineering is the practice of designing and optimizing text inputs (prom
 - [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]] — source
 - [[Foundation Models]]
 - [[RAG]]
-- [[Fine-tuning]]
+- [[FineTuning]]
 - [[Model Customization]]
 - [[AgenticWorkflows]]

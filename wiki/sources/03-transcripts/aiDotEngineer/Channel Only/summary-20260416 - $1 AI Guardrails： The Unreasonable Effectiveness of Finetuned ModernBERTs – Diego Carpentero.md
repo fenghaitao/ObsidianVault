@@ -52,5 +52,5 @@ LLM-based AI systems face a growing and mutating attack surface spanning prompt 
 
 - [[summary-20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero]] — this source
 - [[DeterministicGuardrails]] — related guardrail implementation approach
-- [[LLM-as-Judge]] — alternative higher-latency safety approach
+- [[LLMAsJudge]] — alternative higher-latency safety approach
 - [[SlidingWindowAttention]] — attention mechanism used in ModernBERT's local layers

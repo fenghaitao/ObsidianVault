@@ -39,7 +39,7 @@ Explicit signals tell you *that* something is wrong; implicit signals tell you *
 - [[AgentObservability]] — parent concept
 - [[AgentExperiments]] — using signals for production A/B testing
 - [[Raindrop]] — platform providing both explicit and implicit signals
-- [[Zubin Koticha]] — introduced the concept
+- [[ZubinKoticha]] — introduced the concept
 - [[Sentry]] — traditional monitoring for explicit signals
 - [[LogRocket]] — traditional monitoring for explicit signals
 - [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — source transcript

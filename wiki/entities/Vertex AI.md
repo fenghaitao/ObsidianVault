@@ -22,4 +22,4 @@ Vertex AI is Google Cloud's machine learning platform that provides access to fo
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[AI Studio]] — complementary platform
-- [[Google DeepMind]] — related Google division
+- [[GoogleDeepMind]] — related Google division

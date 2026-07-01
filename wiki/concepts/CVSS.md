@@ -22,4 +22,4 @@ CVSS (Common Vulnerability Scoring System) is a standardized framework for ratin
 - [[summary-20260417 - State of the Claw — Peter Steinberger]] — source
 - [[OpenClaw]] — project affected by misleading CVSS scores
 - [[PeterSteinberger]] — critic of CVSS practical applicability
-- [[AI-Generated Security Reports]] — related problem of inflated severity claims
+- [[AIGenerated Security Reports]] — related problem of inflated severity claims

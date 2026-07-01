@@ -17,7 +17,7 @@ Few-Shot Examples are labeled examples provided within an eval prompt to help an
 - Part of the iterative eval improvement loop: identify where the judge disagrees with humans, add those as few-shot examples, and re-run.
 
 ## Related
-- [[LLM-as-Judge]] — the evaluation technique that benefits from few-shot examples
+- [[LLMAsJudge]] — the evaluation technique that benefits from few-shot examples
 - [[EvalEngineering]] — the practice of including few-shot examples in eval prompts
 - [[HumanInTheLoopEvaluation]] — source of labeled examples for few-shot prompting
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source

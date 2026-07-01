@@ -18,4 +18,4 @@ IKEA is a global retail company. Raj, a Staff Software Engineer at IKEA, present
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[Raj]] — Staff Software Engineer at IKEA
-- [[Demand-Driven Context]] — methodology developed from IKEA experience
+- [[DemandDriven Context]] — methodology developed from IKEA experience

@@ -33,7 +33,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-25] ingest | The Unreasonable Effectiveness of Prompt Learning — Aparna Dhinakaran
-- **Changes**: created [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]], created [[AparnaDhinakaran]], created [[Arize]], created [[ClaudeCode]], created [[Cline]], created [[SWE-bench]], created [[DSPy]], created [[Cursor]], created [[PromptLearning]], created [[LLM-as-Judge]], created [[MetaPrompt]], created [[EvalEngineering]], updated [[AndrejKarpathy]], updated [[index.md]]
+- **Changes**: created [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]], created [[AparnaDhinakaran]], created [[Arize]], created [[ClaudeCode]], created [[Cline]], created [[SWEBench]], created [[DSPy]], created [[Cursor]], created [[PromptLearning]], created [[LLMAsJudge]], created [[MetaPrompt]], created [[EvalEngineering]], updated [[AndrejKarpathy]], updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-25] ingest | Leadership in AI Assisted Engineering — Justin Reock
@@ -41,7 +41,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-25] ingest | The 3 Pillars of Autonomy — Michele Catasta
-- **Changes**: created [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]], created [[MicheleCatasta]], created [[Replit]], created [[ReplitAgent]], created [[Playwright]], created [[Stagehand]], created [[Anthropic]], created [[OpenAI]], created [[Three Pillars of Autonomy]], created [[Autonomous Coding Agents]], created [[Verification in Agentic Loops]], created [[Painted Doors]], created [[Context Management]], created [[Sub-agent Orchestration]], created [[Parallel Agents]], created [[Core Loop as Orchestrator]], created [[Browser-based Autonomous Testing]], created [[Computer Use]], created [[Browser Use]], created [[Reducible Runtime]], updated [[index.md]]
+- **Changes**: created [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]], created [[MicheleCatasta]], created [[Replit]], created [[ReplitAgent]], created [[Playwright]], created [[Stagehand]], created [[Anthropic]], created [[OpenAI]], created [[Three Pillars of Autonomy]], created [[Autonomous Coding Agents]], created [[Verification in Agentic Loops]], created [[Painted Doors]], created [[Context Management]], created [[SubAgent Orchestration]], created [[Parallel Agents]], created [[Core Loop as Orchestrator]], created [[Browser-based Autonomous Testing]], created [[Computer Use]], created [[Browser Use]], created [[Reducible Runtime]], updated [[index.md]]
 - **Conflicts**: Anthropic and OpenAI already existed in index.md from another batch; entity pages created with this source's perspective.
 
 ## [2026-06-25] ingest | No More Slop — swyx
@@ -53,7 +53,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-25] ingest | Build a Prompt Learning Loop — SallyAnn DeLucia & Fuad Ali
-- **Changes**: created [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]], created [[SallyAnnDeLucia]], created [[FuadAli]], created [[BookingCom]], created [[CoEvolvingLoops]], created [[RuleBasedPrompting]], created [[OverfittingAsExpertise]], created [[PromptOptimizationLoop]], created [[HumanAnnotationFeedback]], created [[GEA]], updated [[Arize]], updated [[OpenAI]], updated [[DSPy]], updated [[ClaudeCode]], updated [[Cline]], updated [[SWE-bench]], updated [[Cursor]], updated [[PromptLearning]], updated [[LLM-as-Judge]], updated [[EvalEngineering]], updated [[MetaPrompt]], updated [[index.md]]
+- **Changes**: created [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]], created [[SallyAnnDeLucia]], created [[FuadAli]], created [[BookingCom]], created [[CoEvolvingLoops]], created [[RuleBasedPrompting]], created [[OverfittingAsExpertise]], created [[PromptOptimizationLoop]], created [[HumanAnnotationFeedback]], created [[GEA]], updated [[Arize]], updated [[OpenAI]], updated [[DSPy]], updated [[ClaudeCode]], updated [[Cline]], updated [[SWEBench]], updated [[Cursor]], updated [[PromptLearning]], updated [[LLMAsJudge]], updated [[EvalEngineering]], updated [[MetaPrompt]], updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-25] ingest | Welcome to AIE CODE - Jed Borovik, Google DeepMind
@@ -77,7 +77,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Conflicts**: none
 
 ## [2026-06-26] ingest | Automating Large Scale Refactors with Parallel Agents — Robert Brennan, OpenHands
-- **Changes**: created [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]], created [[RobertBrennan]], created [[OpenHands]], created [[OpenDevin]], created [[Redux]], created [[Zustand]], created [[Spark]], created [[Docker]], created [[Kubernetes]], created [[Trivy]], created [[Calvin]], created [[Agent Orchestration]], created [[Task Decomposition]], created [[Context Sharing Between Agents]], created [[Dependency Graph Refactoring]], created [[Verifier-Fixer Pipeline]], created [[Scaffolding Pattern]], created [[Batch Graph]], created [[CVE Remediation at Scale]], created [[Cloud-Based Agent Sandboxes]], created [[Human-in-the-Loop Orchestration]], updated [[Parallel Agents]], updated [[Sub-agent Orchestration]], updated [[HumanInTheLoopWorkflows]], updated [[index.md]]
+- **Changes**: created [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]], created [[RobertBrennan]], created [[OpenHands]], created [[OpenDevin]], created [[Redux]], created [[Zustand]], created [[Spark]], created [[Docker]], created [[Kubernetes]], created [[Trivy]], created [[Calvin]], created [[Agent Orchestration]], created [[Task Decomposition]], created [[Context Sharing Between Agents]], created [[Dependency Graph Refactoring]], created [[Verifier-Fixer Pipeline]], created [[Scaffolding Pattern]], created [[Batch Graph]], created [[CVE Remediation at Scale]], created [[CloudBased Agent Sandboxes]], created [[HumanInTheLoop Orchestration]], updated [[Parallel Agents]], updated [[SubAgent Orchestration]], updated [[HumanInTheLoopWorkflows]], updated [[index.md]]
 - **Conflicts**: none
 
 ## [2026-06-26] ingest | DSPy: The End of Prompt Engineering — Kevin Madura, AlixPartners
@@ -587,4 +587,94 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 
 ## [2026-06-30] ingest | How We Built Zeta2 — Ben Kunkle
 - **Changes**: created [[summary-20260530 - How We Built Zeta2： Training an Edit Prediction Model in Production — Ben Kunkle, Zed]], created [[Zeta2]], [[EditPrediction]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | What if the network was the sandbox — Remy Guercio
+- **Changes**: created [[summary-20260601 - What if the network was the sandbox — Remy Guercio, Tailscale]], created/updated 11 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | How Lovable self-improves every hour — Benjamin Verbeek
+- **Changes**: created [[summary-20260602 - How Lovable self-improves every hour — Benjamin Verbeek, Lovable]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Task Fidelity Scaling Laws — Kobie Crawford
+- **Changes**: created [[summary-20260602 - Task Fidelity Scaling Laws — Kobie Crawdord, Snorkel]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | What Lies Beneath the API — Benjamin Cowen
+- **Changes**: created [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]], created/updated 17 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | BDD, ADR, PRD, WTF — Michal Cichra
+- **Changes**: created [[summary-20260603 - BDD, ADR, PRD, WTF： Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence]], created/updated 10 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | SWE-rebench — Ibragim Badertdinov
+- **Changes**: created [[summary-20260604 - SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius]], created/updated 12 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | The Art & Science of Benchmarking Agents — Vincent Chen
+- **Changes**: created [[summary-20260604 - The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI]], created/updated 26 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Benchmarking semantic code retrieval on Claude Code — Kuba Rogut
+- **Changes**: created [[summary-20260603 - Benchmarking semantic code retrieval on Claude Code — Kuba Rogut, Turbopuffer]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Beyond Components: Generative UI for MCP Apps — Ruben Casas
+- **Changes**: created [[summary-20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Text Diffusion — Brendan O''Donoghue
+- **Changes**: created [[summary-20260604 - Text Diffusion — Brendan O''Donoghue, Google DeepMind]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Beyond Transcription: Voice AI — Hervé Bredin
+- **Changes**: created [[summary-20260605 - Beyond Transcription： Building Voice AI That Understands Conversations — Hervé Bredin, pyannoteAI]], created/updated 15 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Building Agent Interfaces: Chrome DevTools — Michael Hablich
+- **Changes**: created [[summary-20260605 - Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google]], created/updated 23 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Dark Factory: OpenClaw — Vincent Koc
+- **Changes**: created [[summary-20260605 - Dark Factory： OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw]], created/updated 8 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton
+- **Changes**: created [[summary-20260606 - Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Building safe Payment Infrastructure — Steve Kaliski
+- **Changes**: created [[summary-20260606 - Building safe Payment Infrastructure for the autonomous economy — Steve Kaliski, Stripe]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Evals Are Broken, Use Them Anyway — Ara Khan
+- **Changes**: created [[summary-20260606 - Evals Are Broken, Use Them Anyway — Ara Khan, Cline]], created/updated 15 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | LLM Observability, Evaluation, Experimentation — Dat Ngo
+- **Changes**: created [[summary-20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize]], created/updated 19 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Under 5 minutes to a deployed LLM endpoint — Audry Hsu
+- **Changes**: created [[summary-20260607 - Under 5 minutes to a deployed LLM endpoint — Audry Hsu, RunPod]], created/updated 9 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | Road to 5 Million Tokens — Max Ryabinin
+- **Changes**: created [[summary-20260608 - Road to 5 Million Tokens： Breaking Barriers in Long Context Training — Max Ryabinin, Together AI]], created/updated 18 entity and concept pages, updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-06-30] ingest | From MCP to Scale: Pipelines That Build Themselves — Rafael Levi
+- **Changes**: created [[summary-20260607 - From MCP to Scale： Pipelines That Build Themselves — Rafael Levi, Bright Data]], updated [[index.md]]
+- **Conflicts**: none
+
+
+
+## [2026-07-01] ingest | Batch 20-24: April & June 2026 remaining files (28 transcripts)
+- **Changes**: created 28 source summaries (20260408-20260410 April files + 20260601-20260621 June files), rebuilt [[index.md]] (deduplicated 1000+ duplicate April entries from prior batch bug), all 206/207 summaries registered
+- **Conflicts**: none
+
+## [2026-07-01] lint | fixed 4 categories of wiki issues
+- **Changes**: registered 2,292 entities/concepts in [[index.md]] (was 621, now 2,913 entries); renamed 124 files to fix filename convention violations + updated 239 files with corrected wikilinks + updated index entries; fixed 88 dead link targets across 209 files (space-vs-CamelCase mismatches); noted 9 true orphan pages
 - **Conflicts**: none

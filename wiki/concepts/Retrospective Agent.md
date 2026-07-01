@@ -31,5 +31,5 @@ A retrospective agent is the final stage in an agent pipeline that analyzes the 
 - [[Agent Memory]] — what the retro agent updates
 - [[Gotchas]] — what the retro agent captures
 - [[DoomLoop]] — what the retro agent detects
-- [[Self-Improving Agents]] — the broader category
+- [[SelfImproving Agents]] — the broader category
 - [[Harness Engineering]] — the discipline

@@ -15,7 +15,7 @@ Zoom is a video conferencing platform. In the context of voice agents, Zoom call
 - Demonstrates how voice agents extend beyond web widgets to integrate with existing communication tools
 
 ## Related
-- [[Omni-Channel Voice]] — paradigm enabling Zoom integration
+- [[OmniChannel Voice]] — paradigm enabling Zoom integration
 - [[Voice Agents]] — agents that can join Zoom calls
 - [[PostHog]] — example company whose agent could join Zoom
 - [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]] — source

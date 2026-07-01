@@ -23,6 +23,6 @@ Agent Review Bundles are PR review packages in AgentCraft that include not just 
 - [[AgentCraft]] — the orchestrator implementing review bundles
 - [[Agent Channels]] — source of many PRs needing review
 - [[Agent Campaigns]] — source of PRs needing review
-- [[Agent-Human Collaboration]] — the review step in collaboration
+- [[AgentHuman Collaboration]] — the review step in collaboration
 - [[CodeReviewAmplification]] — related concept
 - [[Verification in Agentic Loops]] — related verification concept

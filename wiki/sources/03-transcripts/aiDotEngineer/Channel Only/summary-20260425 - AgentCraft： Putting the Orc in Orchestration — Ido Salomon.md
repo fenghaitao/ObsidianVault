@@ -31,7 +31,7 @@ Ido Salomon, creator of AgentCraft, MCI, and MC apps, presents a gaming-inspired
 - [[AgentCraft]] — the orchestrator product
 - [[MCI]] — also created by Ido Salomon
 - [[MC apps]] — also created/co-maintained by Ido Salomon
-- [[RTS-Inspired Agent Orchestration]] — gaming-inspired orchestration paradigm
+- [[RTSInspired Agent Orchestration]] — gaming-inspired orchestration paradigm
 - [[Agent Campaigns]] — autonomous containerized agent missions
 - [[Agent Collision Detection]] — heat map visualization of file conflicts
 - [[Agent Review Bundles]] — PR review with visual evidence
@@ -39,5 +39,5 @@ Ido Salomon, creator of AgentCraft, MCI, and MC apps, presents a gaming-inspired
 - [[Agent Channels]] — cron-based autonomous agent execution
 - [[Agent Quests]] — agent-suggested tasks
 - [[Agent Orchestration]] — broader orchestration concept
-- [[Agent-Human Collaboration]] — collaboration paradigm
+- [[AgentHuman Collaboration]] — collaboration paradigm
 - [[AgentVisualization]] — visual representation of agent activity

@@ -27,7 +27,7 @@ Code slop is AI-generated code that is low-quality, creates disproportionate tec
 - [[SemiSyncValueOfDepth]] — framework for fighting code slop
 - [[Modularity]] — design principle to reduce code slop
 - [[SubAgents]] — technique to fight context rot and code slop
-- [[ComputerUse]] — AI capability that can both produce and fight code slop
+- [[Computer Use]] — AI capability that can both produce and fight code slop
 - [[CompoundingBooboos]] — Mario's term for code slop accumulation
 - [[Keynote Code]] — the opposite: high-quality AI-generated code
 - [[Priscila Andre de Oliveira]] — advocated against shipping slop code

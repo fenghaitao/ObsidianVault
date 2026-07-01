@@ -23,6 +23,6 @@ Half duplex in voice AI means the model can either listen or speak at any given 
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
 - [[Full Duplex]] — the desired alternative
 - [[Back Channeling]] — conversational behavior that breaks half duplex
-- [[Speech-to-Speech Models]] — model category with this limitation
+- [[SpeechToSpeech Models]] — model category with this limitation
 - [[Voice AI]] — parent domain
 - [[Moshi]] — the only full-duplex exception

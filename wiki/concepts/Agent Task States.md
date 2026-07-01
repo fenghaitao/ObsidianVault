@@ -24,4 +24,4 @@ Agent task states are the lifecycle stages an agent task progresses through: run
 - [[ManusAPI]] — API implementing these states
 - [[Agent Polling Pattern]] — pattern driven by state checking
 - [[Webhooks for Agents]] — pattern driven by state transitions
-- [[Multi-Turn Conversations]] — relies on pending state
+- [[MultiTurn Conversations]] — relies on pending state

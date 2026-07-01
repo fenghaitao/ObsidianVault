@@ -50,15 +50,15 @@ Benjamin Cowen, a Forward Deployed ML Engineer at Modal, presents the case for f
 ## Related
 - [[Benjamin Cowen]] — speaker
 - [[Modal]] — serverless compute platform
-- [[Fine-tuning]] — core technique discussed
+- [[FineTuning]] — core technique discussed
 - [[Frontier API]] — starting point on the spectrum
 - [[Model Spectrum]] — the continuum from API to custom training
 - [[Serverless Training]] — emerging paradigm enabled by platforms like Modal
 - [[Custom Inference Endpoint]] — serving fine-tuned models
 - [[Reinforcement Learning Rollouts]] — massively parallel evaluation pattern
-- [[Domain-Specific Models]] — the destination for maturing AI products
+- [[DomainSpecific Models]] — the destination for maturing AI products
 - [[Hyperparameter Tuning]] — use case for serverless training
-- [[Supervised Fine-Tuning]] — accessible training technique
+- [[Supervised FineTuning]] — accessible training technique
 - [[Model Serving]] — what comes after training
 - [[Model Customization]] — broader framework
 - [[DataFlywheel]] — prerequisite data collection cycle

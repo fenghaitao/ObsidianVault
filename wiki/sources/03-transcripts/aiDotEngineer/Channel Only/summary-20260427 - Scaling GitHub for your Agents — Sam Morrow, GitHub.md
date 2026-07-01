@@ -50,7 +50,7 @@ Sam Morrow, lead of GitHub's MCP server, presents the engineering challenges of 
 - [[PKCE]] — Proof Key for Code Exchange, OAuth security mechanism
 - [[StepUpOAuth]] — Interactive OAuth scope escalation without failing tool calls
 - [[InsidersMode]] — Feature flag system for experimental MCP features
-- [[MCPApps]] — Human-in-the-loop editing of AI-generated content via MCP
+- [[MCP Apps]] — Human-in-the-loop editing of AI-generated content via MCP
 - [[AgentIntentEncoding]] — Encoding agent intent into tool surface to reduce failures
 - [[StatelessMCPServer]] — Per-request server instances with no session affinity
 

@@ -135,7 +135,7 @@ Peter Steinberger, creator of OpenClaw (the fastest-growing open-source project 
 - [[PromptInjection]] — security concern discussed
 - [[Sandboxing]] — key security mitigation
 - [[SupplyChainAttack]] — Axios/Ghost Claw incidents
-- [[AI-Generated Security Reports]] — the flood of AI-created advisories
+- [[AIGenerated Security Reports]] — the flood of AI-created advisories
 - [[Dreaming (Agents)]] — memory reconciliation feature
 - [[Ubiquitous Agents]] — vision for agents everywhere
 - [[Taste (Software)]] — the moat in AI-assisted development

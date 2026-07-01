@@ -73,5 +73,5 @@ The Ralph Loop (named after Ralph Wiggum from The Simpsons) is a simple iterativ
 - [[Agent Sandboxing]] — safety for autonomous loops
 - [[Lethal Trifecta]] — security concern for autonomous agents
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source (Anthropic's perspective on Ralph loops vs generator-evaluator)
-- [[Generator-Evaluator Pattern]] — more advanced adversarial pattern that evolved from Ralph loop limitations
-- [[Self-Evaluation Trap]] — limitation of Ralph loops that generator-evaluator addresses
+- [[GeneratorEvaluator Pattern]] — more advanced adversarial pattern that evolved from Ralph loop limitations
+- [[SelfEvaluation Trap]] — limitation of Ralph loops that generator-evaluator addresses

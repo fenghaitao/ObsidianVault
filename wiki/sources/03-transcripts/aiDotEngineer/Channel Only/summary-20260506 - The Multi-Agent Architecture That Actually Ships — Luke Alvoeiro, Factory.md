@@ -24,6 +24,6 @@ Luke Alvoeiro from Factory presents a multi-agent architecture that ships. He pr
 - [[LukeAlvoeiro]] — speaker, creator of Goose, Factory agent harness lead
 - [[FactoryAI]] — company, mission to bring autonomy to the SDLC
 - [[Goose]] — open-source coding agent created by Luke
-- [[AgentOrchestration]] — multi-agent orchestration
+- [[Agent Orchestration]] — multi-agent orchestration
 - [[MultiAgentArchitecture]] — multi-agent systems
 - [[ValidationContracts]] — defining "done" before coding

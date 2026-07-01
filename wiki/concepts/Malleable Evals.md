@@ -24,9 +24,9 @@ Malleable evals are evaluations designed to adapt alongside self-optimizing AI a
 - [[VincentKoc]] — originator of the concept
 - [[Intent Engineering]] — the paradigm shift enabling malleable evals
 - [[Eval Calcification]] — the problem malleable evals address
-- [[Self-Curating Test Suites]] — one pillar of malleable evals
+- [[SelfCurating Test Suites]] — one pillar of malleable evals
 - [[Telemetry In The Loop]] — one pillar of malleable evals
-- [[Intent-Based Outcomes]] — one pillar of malleable evals
+- [[IntentBased Outcomes]] — one pillar of malleable evals
 - [[OnlineEvals]] — related concept of scoring against live production traffic
 - [[EvalFlywheel]] — the continuous loop connecting production and evaluation
 - [[Static Benchmarks]] — the traditional approach being superseded

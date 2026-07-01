@@ -27,8 +27,8 @@ Emergence is an R&D AI company advancing the science and development of AI agent
 
 - [[Dr. Satya Nitta]] — founder
 - [[Agent E]] — open-source web agent
-- [[Self-Improving Agents]] — core R&D focus
-- [[Agent-Oriented Programming]] — paradigm for composing agents
+- [[SelfImproving Agents]] — core R&D focus
+- [[AgentOriented Programming]] — paradigm for composing agents
 - [[Web Agent]] — category for Agent E
 - [[AgenticLoop]] — the plan-act-verify-remember-improve cycle
 - [[Agent Orchestration]] — orchestrating across multiple agents

@@ -37,5 +37,5 @@ Fryderyk Wiatrowski is the co-founder of Viktor, an AI employee platform that li
 - [[summary-20260511 - Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski]] — source
 - [[AI Employee]] — category Viktor defines
 - [[Company Agent]] — Viktor's agent type
-- [[Agent Personality]] — key insight about model selection
+- [[AgentPersonality]] — key insight about model selection
 - [[Agent Proactivity]] — capability he discussed

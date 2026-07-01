@@ -19,7 +19,7 @@ Public leaderboards are aggregated rankings of AI model performance published on
 
 ## Related
 - [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source
-- [[State-of-the-Art Ambiguity]] — the broader problem public leaderboards contribute to
+- [[StateOfTheArt Ambiguity]] — the broader problem public leaderboards contribute to
 - [[Elo Score]] — the scoring mechanism used by leaderboards
 - [[Win Rate]] — what leaderboard rankings are derived from
 - [[Pareto Frontier]] — better alternative to naive leaderboard checking

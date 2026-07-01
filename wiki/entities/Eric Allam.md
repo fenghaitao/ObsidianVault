@@ -16,7 +16,7 @@ Eric Allam is the CEO and co-founder of Trigger.dev, a platform for deploying du
 ## Key Information
 
 - **Role**: CEO and co-founder of Trigger.dev
-- **Company**: [[Trigger.dev]]
+- **Company**: [[TriggerDev]]
 - **Known for**: Building infrastructure for durable AI agents, developing snapshot/restore capabilities using Firecracker microVMs and CRIU
 - **Presentation**: "Two Roads to Durable Agents: Replay vs. Snapshot" (2026-05-10, aiDotEngineer)
 - **Key contributions**: Shipped CRIU-based snapshot/restore in 2024 (millions of operations), later migrated to Firecracker microVMs; building FC Run (FCRun), an open-source Docker-like CLI for Firecracker VMs
@@ -24,7 +24,7 @@ Eric Allam is the CEO and co-founder of Trigger.dev, a platform for deploying du
 
 ## Related
 
-- [[Trigger.dev]] — company founded by Eric
+- [[TriggerDev]] — company founded by Eric
 - [[summary-20260510 - Two Roads to Durable Agents： Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev]] — source
 - [[DurableAgents]] — the broader concept
 - [[Replay Model]] — traditional durable execution approach

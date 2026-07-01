@@ -25,8 +25,8 @@ Hybrid pricing is a billing model combining a base subscription fee (predictable
 ## Related
 - [[summary-20260501 - Mastering AI Pricing — Mayank Pant, Stripe]] — source
 - [[AI Pricing]] — broader discipline
-- [[Value-Based Pricing]] — complementary concept
-- [[Credit-Based Pricing]] — implementation technique for hybrid models
+- [[ValueBased Pricing]] — complementary concept
+- [[CreditBased Pricing]] — implementation technique for hybrid models
 - [[Pricing Guardrails]] — necessary safety features for hybrid models
 - [[Mayank Pant]] — speaker who advocated for hybrid pricing
 - [[Stripe]] — platform enabling hybrid pricing via Stripe Billing

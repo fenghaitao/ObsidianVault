@@ -20,7 +20,7 @@ Software entropy is the tendency of software systems to degrade over time as cha
 
 ## Related
 - [[summary-20260423 - ＂Software Fundamentals Matter More Than Ever＂ — Matt Pocock]] — source transcript
-- [[Specs-to-Code]] — the approach that demonstrates entropy
+- [[SpecsToCode]] — the approach that demonstrates entropy
 - [[Deep Modules]] — architectural pattern that resists entropy
 - [[AgentEntropy]] — related concept in agent systems
 - [[CodeSlop]] — the result of unchecked entropy

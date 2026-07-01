@@ -25,7 +25,7 @@ Google AI Gallery (also called AI Edge Gallery) is an open-source app available 
 
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
-- [[LiteRT-LM]] — underlying runtime
+- [[LiteRTLM]] — underlying runtime
 - [[Google AI Edge]] — creator
 - [[Gemma4]] — default models
 - [[Agent Skills]] — key feature

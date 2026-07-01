@@ -17,7 +17,7 @@ Test overfitting in benchmark evaluation occurs when verifier tests are too tigh
 - **Mitigation**: Manual verification of tasks, oversampling (collecting ~10% more tasks than needed for final runs), and analyzing results across multiple model families.
 
 ## Related
-- [[SWE-rebench]] — benchmark dealing with this issue
+- [[SWERebench]] — benchmark dealing with this issue
 - [[Code Quality in Agentic Patches]] — related problem of agent output quality
 - [[Benchmark Decontamination]] — related benchmark quality concern
 - [[summary-20260604 - SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius]] — source transcript

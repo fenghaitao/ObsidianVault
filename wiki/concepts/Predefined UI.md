@@ -2,7 +2,7 @@
 title: "Predefined UI"
 type: concept
 tags: [mcp, mcp-apps, ui, generative-ui]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman.md"]
 last_updated: 2026-06-29
 ---
 
@@ -20,7 +20,10 @@ Predefined UI is one of three approaches to UI generation in the MCP Apps ecosys
 
 ## Related
 - [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]] — source transcript
+- [[summary-20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman]] — source transcript
 - [[MCP Apps]] — the protocol
 - [[Declarative UI]] — alternative approach (structured JSON)
 - [[GenerativeUI]] — alternative approach (model-generated)
 - [[MCPApplications]] — concept page for MCP Applications
+- [[Static UI Generation]] — related paradigm (agent as orchestrator passing props to predefined components)
+- [[UI Generation Spectrum]] — overall framework

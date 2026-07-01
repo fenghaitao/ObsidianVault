@@ -42,7 +42,7 @@ OpenAI Codex is a full software engineering agent — not just a coding tool —
 - [[Codex Code Review]] — automated PR review used across OpenAI
 - [[WebSocket Streaming]] — faster token delivery mechanism
 - [[Plan Mode]] — automatic complex task detection and planning
-- [[Best of N]] — cloud parallelization for picking best output
+- [[BestOfN]] — cloud parallelization for picking best output
 
 ## Related
 - [[summary-20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer]] — comparison context

@@ -35,13 +35,13 @@ TDD with AI is the application of test-driven development (red-green-refactor) t
 - [[Deep Modules]] — codebase structure that enables TDD
 - [[CodebaseTestability]] — prerequisite for TDD
 - [[Verification in Agentic Loops]] — related concept
-- [[Demand-Driven Context]] — methodology using TDD as core analogy
+- [[DemandDriven Context]] — methodology using TDD as core analogy
 - [[Agent Failure as Discovery]] — the "red" phase in knowledge TDD
 - [[Knowledge Curation]] — the "refactor" phase in knowledge TDD
-- [[Red-Green TDD]] — specific TDD flavor
+- [[RedGreen TDD]] — specific TDD flavor
 - [[SimonWillison]] — red-green TDD practitioner
 - [[Marlene Mhangami]] — Playwright TDD workflow advocate
 - [[Playwright]] — testing framework for behavioral TDD
 - [[Functionality Testing]] — testing approach in the red phase
-- [[Self-Affirming Tests]] — problem TDD prevents
-- [[AI-Generated Tests]] — risks and mitigation through TDD
+- [[SelfAffirming Tests]] — problem TDD prevents
+- [[AIGenerated Tests]] — risks and mitigation through TDD

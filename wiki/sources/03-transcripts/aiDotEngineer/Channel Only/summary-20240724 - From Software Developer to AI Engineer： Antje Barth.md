@@ -33,15 +33,15 @@ Antje Barth presents five practical steps for transitioning from software develo
 - [[Meta]] — model provider on Bedrock
 - [[Mike Chambers]] — AWS colleague, created demos
 - [[Dennis Trope]] — community.aws author
-- [[deeplearning.ai]] — AI education platform
+- [[DeeplearningAi]] — AI education platform
 - [[Coursera]] — online learning platform
 - [[AI Engineer]] — the emerging role defined by swyx
 - [[Foundation Models]] — underlying technology to understand
 - [[Prompt Engineering]] — model customization technique
 - [[RAG]] — retrieval-augmented generation technique
-- [[Fine-tuning]] — model customization technique
+- [[FineTuning]] — model customization technique
 - [[Function Calling]] — giving models access to external systems
-- [[Agentic Workflows]] — autonomous multi-step AI task execution
+- [[AgenticWorkflows]] — autonomous multi-step AI task execution
 - [[Responsible AI]] — security, privacy, and guardrails in AI apps
 - [[Model Evaluation]] — thorough assessment of models for use cases
 - [[GenAI Ops]] — keeping AI applications updated

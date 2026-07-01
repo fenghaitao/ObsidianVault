@@ -40,9 +40,9 @@ David Gomes from Cursor describes how they replaced a ~15,000-line code implemen
 - [[FeatureDiscoverability]] — trade-off between simplicity and user discoverability
 - [[CrossPlatformCompatibility]] — skills needing platform-specific instructions
 - [[AgentCommandsVsSkills]] — server-controlled prompts vs local skills
-- [[LLM-as-Judge]] — judging best-of-N outputs
+- [[LLMAsJudge]] — judging best-of-N outputs
 - [[HeadlessEvals]] — using CLI for agent evaluation
-- [[ParallelAgents]] — multiple agents working concurrently
+- [[Parallel Agents]] — multiple agents working concurrently
 - [[MultiRepoWorktrees]] — work trees spanning multiple repositories
 - [[ReinforcementLearningWithLLMs]] — RL training for Composer
 - [[ModelBehavior]] — model deviation from work tree instructions

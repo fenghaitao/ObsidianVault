@@ -86,6 +86,6 @@ MCP (Model Context Protocol) is a protocol for providing context to AI agents, e
 - [[ToolSearch]] — mechanism for progressive discovery
 - [[MCP as Middleware]] — vision for MCP as a framework flag
 - [[MattCarey]] — presenter on MCP context problems and solutions
-- [[Demand-Driven Context]] — alternative pull-based approach
+- [[DemandDriven Context]] — alternative pull-based approach
 - [[Knowledge Base Monolith]] — the deeper problem MCP doesn't solve
 - [[EvalEngineering]] — missing practice for MCP outputs

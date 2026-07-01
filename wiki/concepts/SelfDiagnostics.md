@@ -47,6 +47,6 @@ Danny demonstrated a coding agent with a broken write tool (permission error). T
 - [[ExplicitSignals]] — complementary signal category
 - [[UserFrustration]] — one thing self-diagnostics can detect
 - [[Raindrop]] — platform with self-diagnostics built into SDK
-- [[Danny Gollapalli]] — presented the workshop
+- [[DannyGollapalli]] — presented the workshop
 - [[OpenAI]] — inspiration paper on self-confessing misalignment
 - [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — source transcript

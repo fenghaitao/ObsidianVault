@@ -22,6 +22,6 @@ Agent Training is the process of baking instructions and desired behaviors into 
 ## Related
 - [[summary-20240808 - Using agents to build an agent company： Joao Moura]] — source
 - [[CrewAI]] — framework offering this feature
-- [[AgentMemory]] — memory layer that training bakes into
+- [[Agent Memory]] — memory layer that training bakes into
 - [[PromptOptimizationLoop]] — related concept of iterative prompt refinement
 - [[FewShotExamples]] — alternative approach to consistent agent behavior

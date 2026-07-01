@@ -17,7 +17,7 @@ Dan Shapiro is an author who published a blog post (January/February 2026) descr
 
 ## Related
 - [[LevelsOfAutonomy]] — the framework he created
-- [[DarkFactory]] — the highest level in his framework
+- [[Dark Factory]] — the highest level in his framework
 - [[SoftwareFactory]] — the practical implementation of his vision
 - [[EricZakariasson]] — used Shapiro's framework in his presentation
 - [[summary-20260428 - Building your own software factory — Eric Zakariasson, Cursor]] — source

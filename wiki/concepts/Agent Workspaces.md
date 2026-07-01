@@ -22,7 +22,7 @@ Agent Workspaces are shared collaboration spaces in AgentCraft where multiple hu
 ## Related
 - [[summary-20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon]] — source transcript
 - [[AgentCraft]] — the orchestrator implementing workspaces
-- [[Agent-Human Collaboration]] — broader collaboration paradigm
-- [[RTS-Inspired Agent Orchestration]] — the broader paradigm
+- [[AgentHuman Collaboration]] — broader collaboration paradigm
+- [[RTSInspired Agent Orchestration]] — the broader paradigm
 - [[Context Sharing Between Agents]] — soft coordination mechanism
 - [[AgentToAgentCommunication]] — related concept

@@ -29,9 +29,9 @@ The Decision Capture Loop is a reinforcement loop that enforces architectural an
 - [[AgentHarness]] — broader concept of agent harness engineering
 - [[Architecture Decision Record (ADR)]] — a document type enforced by the loop
 - [[PRD (Product Requirements Document)]] — a document type enforced by the loop
-- [[Behavior-Driven Development (BDD)]] — a practice validated by the loop
+- [[BehaviorDriven Development (BDD)]] — a practice validated by the loop
 - [[Design System]] — rules enforced by the loop
 - [[Architecture Enforcement]] — the module import linting aspect of the loop
 - [[Enforce Dont Instruct]] — related principle
 - [[Compacting]] — context compacts are an accepted cost of the loop
-- [[Agent-Specific MD Files]] — skills that focus the loop
+- [[AgentSpecific MD Files]] — skills that focus the loop

@@ -34,9 +34,9 @@ Context management is a product and UX problem, not just an engineering one. The
 - [[SmartTruncation]] — keeping head + tail, truncating middle with memory store retrieval
 - [[LongSessionEvals]] — testing context quality at turn 11 after loading 10 turns
 - [[SubAgents]] — offloading heavy data work to sub-agents to keep main context light
-- [[ContextManagement]] — the broader discipline of managing agent context windows
+- [[Context Management]] — the broader discipline of managing agent context windows
 - [[ContextEngineering]] — the paradigm shift from prompt engineering to context engineering
-- [[AgentMemory]] — memory stores that agents can retrieve from, distinct from context
+- [[Agent Memory]] — memory stores that agents can retrieve from, distinct from context
 - [[ContextSelection]] — heuristics for deciding what stays in context
 - [[LongTermMemory]] — cross-session memory for agents (still unsolved at Arize)
 

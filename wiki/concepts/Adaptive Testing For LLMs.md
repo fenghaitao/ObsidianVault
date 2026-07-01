@@ -22,6 +22,6 @@ Adaptive testing for LLMs is an evaluation approach where test suites change and
 
 - [[summary-20260512 - Malleable Evals： Why Are We Evaluating Adaptive Systems with Static Tests — Vincent Koc, OpenClaw]] — primary source
 - [[Malleable Evals]] — broader framework encompassing adaptive testing
-- [[Self-Curating Test Suites]] — specific mechanism for adaptive test generation
+- [[SelfCurating Test Suites]] — specific mechanism for adaptive test generation
 - [[Static Benchmarks]] — the approach being superseded
 - [[Eval Calcification]] — the problem adaptive testing prevents

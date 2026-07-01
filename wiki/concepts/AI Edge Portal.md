@@ -22,6 +22,6 @@ AI Edge Portal is Google's cloud-based benchmarking service that helps developer
 - [[Google AI Edge]] — parent division
 - [[Lite RT]] — deployment framework
 - [[Model Explorer (tool)]] — companion graph visualization tool
-- [[Ahead-of-Time Compilation]] — compilation strategy evaluated
+- [[AheadOfTime Compilation]] — compilation strategy evaluated
 - [[Android]] — target platform
 - [[OnDeviceAI]] — broader concept

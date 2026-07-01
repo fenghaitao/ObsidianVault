@@ -22,7 +22,7 @@ Guardrails are automated checks deployed in production to catch and prevent defe
 - [[EugeneYan]] — presented guardrails in the keynote
 - [[BrandoliniLaw]] — the asymmetry principle that motivates guardrails
 - [[ReferenceFreeEvals]] — technique that can double as guardrails
-- [[LLM-as-Judge]] — can serve as a guardrail mechanism
+- [[LLMAsJudge]] — can serve as a guardrail mechanism
 - [[EvalEngineering]] — broader practice guardrails are part of
 
 - **Encoder-based guardrails**: Fine-tuned ModernBERT can classify prompts as safe/unsafe in 35ms at ~85% accuracy, providing a low-latency, self-hosted alternative to LLM-as-judge
@@ -30,5 +30,5 @@ Guardrails are automated checks deployed in production to catch and prevent defe
 - **Implementation options**: Rule filtering, canary tokens, encoder discriminators, constrained decoding, and LLM-as-judge (in order of increasing latency)
 - **Agent scope limitation**: Guardrails can increase trust in agents by limiting what they can do — restricting file access, directory reads, and website searches. Claude Code's trust spectrum ranges from asking permission for every action (low trust) to YOLO mode (high trust).
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (guardrails as a trust-increasing strategy)
-- [[Agent-Human Collaboration]] — guardrails increase trust by limiting agent scope
+- [[AgentHuman Collaboration]] — guardrails increase trust by limiting agent scope
 - [[VerifiersRule]] — guardrails help bring tasks down the verifiability spectrum

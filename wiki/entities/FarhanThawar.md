@@ -21,6 +21,6 @@ Farhan Thawar is the head of engineering at Shopify, known for securing early ac
 ## Related
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source
 - [[Shopify]] — company where he leads engineering
-- [[ThomasDohmke]] — GitHub CEO he negotiated with
+- [[Thomas Dohmke]] — GitHub CEO he negotiated with
 - [[GitHubCopilot]] — tool Shopify got early access to
 - [[ChurnAsInvestment]] — his strategy

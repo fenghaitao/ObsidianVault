@@ -47,7 +47,7 @@ The pipeline integrates with the codebase: when an agent finds a problem, it can
 ## Concepts
 
 - [[Eval Red Green Cycle]] — Coding agents modifying prompts through an automated eval pass/fail loop
-- [[Agent-Ready Eval Tooling]] — CLI tools that enable coding agents to programmatically interact with eval suites
+- [[AgentReady Eval Tooling]] — CLI tools that enable coding agents to programmatically interact with eval suites
 - [[File System Downloads for Agent Debugging]] — Downloading AI interaction traces as file systems for agent analysis
 - [[AI Analysis Pipelines]] — Structured, repeatable agent-driven analysis with parallel sub-agents and cohort clustering
 - [[Backtesting for AI Systems]] — Running batches of investigations to measure system accuracy over time

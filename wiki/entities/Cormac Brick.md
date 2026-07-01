@@ -21,7 +21,7 @@ Cormac Brick is the tech lead for Google AI Edge, focusing on bringing AI models
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[Google AI Edge]] — team he leads
-- [[LiteRT-LM]] — LLM runtime he presented
+- [[LiteRTLM]] — LLM runtime he presented
 - [[Gemma4]] — models he discussed
 - [[Intel]] — previous employer
 - [[NPU]] — architecture he led at Intel

@@ -45,9 +45,9 @@ Intercom is a 15-year-old Irish-American B2B SaaS company (~1,400 people) that p
 - [[DX]] — developer productivity measurement
 - [[Stanford]] — research partner
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source (fine-tuning achievement)
-- [[Fine-tuning]] — beating frontier API at 1/5 the cost
-- [[Domain-Specific Models]] — Intercom's own model outperforming frontier models
-- [[Outcome-Based Pricing]] — pricing model exemplified
+- [[FineTuning]] — beating frontier API at 1/5 the cost
+- [[DomainSpecific Models]] — Intercom's own model outperforming frontier models
+- [[OutcomeBased Pricing]] — pricing model exemplified
 - [[Hybrid Pricing]] — pricing model used
 - [[Stripe]] — billing platform
 - [[InternalAIPlatform]] — concept exemplified

@@ -24,5 +24,5 @@ Sonnet is Anthropic's Claude model family. It is referenced as one of the backen
 - [[Anthropic]] — creator of the Sonnet model family
 - [[AmazonKiro]] — IDE that uses Sonnet as a backend
 - [[Gemini3]] — alternative backend model also used by Kiro
-- [[LLM-as-Judge]] — evaluation technique using Sonnet as judge
+- [[LLMAsJudge]] — evaluation technique using Sonnet as judge
 - [[Haiku]] — smaller Anthropic model used as agent in the workshop

@@ -30,7 +30,7 @@ last_updated: 2026-06-29
 - [[summary-20260424 - Full Walkthrough： Workflow for AI Coding — Matt Pocock]] — source transcript
 - [[MattPocock]] — originator of the thesis
 - [[Code is Not Cheap]] — supporting argument
-- [[Specs-to-Code]] — the movement this thesis critiques
+- [[SpecsToCode]] — the movement this thesis critiques
 - [[Deep Modules]] — key architectural pattern
 - [[Design the Interface, Delegate the Implementation]] — key strategy
 - [[Grill Me]] — key skill

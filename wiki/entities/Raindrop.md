@@ -30,8 +30,8 @@ Raindrop is an agent observability platform that helps AI engineers find, track,
 
 ## Related
 - [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — source transcript
-- [[Zubin Koticha]] — CEO and co-founder
-- [[Danny Gollapalli]] — back-end engineer
+- [[ZubinKoticha]] — CEO and co-founder
+- [[DannyGollapalli]] — back-end engineer
 - [[AgentObservability]] — core concept
 - [[ImplicitSignals]] — semantic signal detection
 - [[ExplicitSignals]] — objective signal detection

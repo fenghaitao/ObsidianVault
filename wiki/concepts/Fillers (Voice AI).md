@@ -21,7 +21,7 @@ Fillers in voice AI are a technique where the LLM splits its output into two str
 
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
-- [[Tool Calling]] — the latency source being mitigated
+- [[ToolCalling]] — the latency source being mitigated
 - [[Cascaded Systems (Voice)]] — architecture where fillers are used
 - [[Latency]] — problem being addressed
 - [[Voice AI]] — parent domain

@@ -20,7 +20,7 @@ CUDA Graph Capture is a GPU optimization technique that records a sequence of CU
 
 ## Related
 - [[KV Cache]] — must be static for CUDA graph capture to work
-- [[Real-Time Factor]] — metric improved by graph capture
+- [[RealTime Factor]] — metric improved by graph capture
 - [[Coqui]] — TTS model optimized with this technique
-- [[Ahead-of-Time Compilation]] — related optimization concept
+- [[AheadOfTime Compilation]] — related optimization concept
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source

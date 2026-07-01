@@ -22,4 +22,4 @@ Semi-Sync Value of Depth is a framework developed by swyx that advocates keeping
 - [[swyx]] — creator of the framework
 - [[Modularity]] — complementary design principle
 - [[CodeSlop]] — problem this framework helps address
-- [[ComputerUse]] — enables the async AI work
+- [[Computer Use]] — enables the async AI work

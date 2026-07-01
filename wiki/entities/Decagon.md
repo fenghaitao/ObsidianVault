@@ -18,5 +18,5 @@ Decagon is an AI company and Modal customer that has articulated a key insight a
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Benjamin Cowen]] — speaker who referenced Decagon
 - [[Modal]] — platform used
-- [[Domain-Specific Models]] — concept Decagon exemplifies
-- [[Fine-tuning]] — technique advocated
+- [[DomainSpecific Models]] — concept Decagon exemplifies
+- [[FineTuning]] — technique advocated

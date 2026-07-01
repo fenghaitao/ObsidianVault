@@ -24,7 +24,7 @@ An AI Gateway (or LLM Gateway) is a centralized proxy that sits between AI agent
 ## Related
 - [[Aperture (Tailscale)]] — reference implementation by Tailscale
 - [[Network as Sandbox]] — architectural pattern the gateway enables
-- [[Network-Level Identity]] — identity mechanism used by the gateway
+- [[NetworkLevel Identity]] — identity mechanism used by the gateway
 - [[Keyless Agent Sandbox]] — agent-side benefit
 - [[AI Observability]] — related observability concept
 - [[summary-20260427 - Gateways are All You Need — Karan Sampath, Anthropic]] — related talk on gateways

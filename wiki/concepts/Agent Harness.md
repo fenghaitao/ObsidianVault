@@ -33,7 +33,7 @@ An agent harness is a structured system that wraps AI coding agents with determi
 - [[Harness Engineering]] — the broader discipline
 - [[AgentHarness]] — related concept from Ryan Lopopolo
 - [[State Machine Gates]] — the enforcement mechanism
-- [[Evidence-Based Verification]] — the proof mechanism
+- [[EvidenceBased Verification]] — the proof mechanism
 - [[Retrospective Agent]] — the self-improvement mechanism
 - [[Enforce Dont Instruct]] — the guiding principle
 - [[Pi (coding agent)]] — the underlying agent harness Case is built on

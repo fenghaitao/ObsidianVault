@@ -23,6 +23,6 @@ Dr. Satya Nitta is the founder of Emergence, an R&D AI company focused on advanc
 - [[Emergence]] — company founded by Satya Nitta
 - [[Agent E]] — open-source web agent from Emergence
 - [[IBM Watson]] — prior platform experience
-- [[Self-Improving Agents]] — core R&D focus at Emergence
-- [[Agent-Oriented Programming]] — paradigm advanced at Emergence
+- [[SelfImproving Agents]] — core R&D focus at Emergence
+- [[AgentOriented Programming]] — paradigm advanced at Emergence
 - [[summary-20240731 - Emergence Launch： AI Agents and the future enterprise： Dr. Satya Nitta]] — source presentation

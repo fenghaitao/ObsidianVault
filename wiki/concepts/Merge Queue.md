@@ -7,7 +7,7 @@ last_updated: 2026-06-30
 ---
 
 ## Definition
-The Merge Queue is the serialization bottleneck in traditional CI/CD where concurrent PRs must be ordered and committed to the repository one at a time. Under agentic development at scale, this becomes the critical limiting factor — analogous to a database serialization problem — and must evolve into a [[Pre-merge Queue]] to handle the volume.
+The Merge Queue is the serialization bottleneck in traditional CI/CD where concurrent PRs must be ordered and committed to the repository one at a time. Under agentic development at scale, this becomes the critical limiting factor — analogous to a database serialization problem — and must evolve into a [[PreMerge Queue]] to handle the volume.
 
 ## Key Information
 - Described by [[HugoSantos]] as analogous to high-performance database serialization
@@ -17,12 +17,12 @@ The Merge Queue is the serialization bottleneck in traditional CI/CD where concu
 - The "opportunity to merge" — time from work completion to commit — becomes the critical bottleneck
 - In traditional CI/CD, merge queues already cause friction: another colleague's code gets in first, forcing rebase
 - At agent scale, thousands of short-lived branches make merge queues impossible without architectural change
-- The solution is the [[Pre-merge Queue]]: reconciles parallel changes before entering the merge queue
+- The solution is the [[PreMerge Queue]]: reconciles parallel changes before entering the merge queue
 - Merge queue problems are what motivate the entire [[Continuous Compute]] paradigm
 
 ## Related
 - [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — source
-- [[Pre-merge Queue]] — the evolution of the merge queue for agent scale
+- [[PreMerge Queue]] — the evolution of the merge queue for agent scale
 - [[Git Ledger]] — the conceptual model explaining the merge queue bottleneck
 - [[Serializability]] — the guarantee the merge queue must provide
 - [[Continuous Compute]] — paradigm that replaces the traditional merge queue

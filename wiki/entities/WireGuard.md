@@ -13,10 +13,10 @@ WireGuard is a modern VPN protocol that uses cryptographic key pairs to establis
 - Provides cryptographic key-based connections between any nodes (containers, GPU servers, laptops, phones, etc.)
 - Connections are direct peer-to-peer between nodes
 - [[Tailscale]] builds on WireGuard by adding an identity layer (user, groups, tags) on top of the encrypted connections
-- Enables the [[Network-Level Identity]] concept — every connection carries identity information
+- Enables the [[NetworkLevel Identity]] concept — every connection carries identity information
 - Used as the foundation for [[Aperture (Tailscale)]], Tailscale's AI gateway
 
 ## Related
 - [[Tailscale]] — built on WireGuard
-- [[Network-Level Identity]] — concept enabled by WireGuard + Tailscale
+- [[NetworkLevel Identity]] — concept enabled by WireGuard + Tailscale
 - [[summary-20260601 - What if the network was the sandbox — Remy Guercio, Tailscale]] — source

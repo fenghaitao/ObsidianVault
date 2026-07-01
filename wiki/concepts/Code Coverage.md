@@ -23,9 +23,9 @@ Code coverage is a metric measuring what percentage of code is exercised by test
 ## Related
 - [[summary-20260516 - Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft]] — source
 - [[Functionality Testing]] — preferred alternative approach
-- [[Self-Affirming Tests]] — AI-generated coverage without behavioral validation
-- [[AI-Generated Tests]] — risk of misleading coverage
+- [[SelfAffirming Tests]] — AI-generated coverage without behavioral validation
+- [[AIGenerated Tests]] — risk of misleading coverage
 - [[DHH]] — critic of code coverage focus
 - [[Ian Cooper]] — "TDD Where It All Went Wrong" author
-- [[Red-Green TDD]] — methodology that prioritizes behavior over coverage
+- [[RedGreen TDD]] — methodology that prioritizes behavior over coverage
 - [[TDD with AI]] — broader methodology

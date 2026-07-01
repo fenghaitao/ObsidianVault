@@ -59,7 +59,7 @@ swyx (Shawn Wang) is the organizer of the AI Engineer Summit and a prominent voi
 - [[TinyTeam]] — concept he champions; AI Engineer is one
 - [[YakShaving]] — eliminated by agents
 - [[AgentsForEverythingElse]] — his 2026 theme
-- [[AgentExperience]] — AX shift he highlights
+- [[Agent Experience]] — AX shift he highlights
 - [[AIReplacingSaaS]] — approach he advocates
 - [[AIPsychosis]] — term he coined
 - [[ServerlessDevelopers]] — non-technical team members enabled by agents
@@ -75,7 +75,7 @@ swyx (Shawn Wang) is the organizer of the AI Engineer Summit and a prominent voi
 - [[Devin]] — primary agent tool used
 - [[Cognition]] — company he joined
 - [[Coworker]] — tool for Figma-Devn hookup
-- [[SteveRuiz]] — TLDraw creator, annotation workflow inspiration
+- [[Steve Ruiz]] — TLDraw creator, annotation workflow inspiration
 - [[BenLear]] — AI Engineer co-founder
 - [[Malte Ubl]] — cited for agent traffic data
 - [[Vercel]] — 60% agent traffic

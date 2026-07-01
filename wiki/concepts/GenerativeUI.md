@@ -2,7 +2,7 @@
 title: "Generative UI"
 type: concept
 tags: [ui, agents, personalization, e-commerce, code-mode]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - Code Mode： Let the Code do the Talking - Sunil Pai, Cloudflare.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - Code Mode： Let the Code do the Talking - Sunil Pai, Cloudflare.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman.md"]
 last_updated: 2026-06-26
 ---
 
@@ -23,6 +23,9 @@ Generative UI is the concept of creating perfectly custom user interfaces for ev
 - Claude's generative UI feature (released by Anthropic) uses MCP Apps under the hood — generative UI is streamed into an MCP App
 - MCP Apps is agnostic to how UI is generated: supports predefined UI, declarative UI, and generative UI on a spectrum
 - Generative UI represents the fully model-generated end of the spectrum, where the model creates UI "out of thin air"
+- **Ruben Casas framework**: Generative UI is the third era in the UI Generation Spectrum (static → declarative → generative). Generative Components specifically refers to models writing HTML/CSS/JS at runtime with no predefined components.
+- MCP Apps is the ideal distribution mechanism for generative UI due to its built-in sandboxing (double iFrame), authentication, tool calling, and message passing
+- Requires a distribution model with boundaries, containment, and sandboxing — "if we don't trust third-party code, we should not trust LLM-generated code"
 
 ## Related
 - [[summary-20260419 - Code Mode： Let the Code do the Talking - Sunil Pai, Cloudflare]] — source

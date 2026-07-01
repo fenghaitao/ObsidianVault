@@ -2,7 +2,7 @@
 title: "MCP Apps"
 type: entity
 tags: [tool, mcp, protocol, ui, agents, standard]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260606 - Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub.md"]
 last_updated: 2026-06-30
 ---
 
@@ -29,6 +29,7 @@ MCP Apps is the first official extension to the Model Context Protocol, standard
 ## Related
 - [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]] — source transcript
 - [[summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors]] — source (practical implementation)
+- [[summary-20260606 - Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub]] — source (VS Code MCP Apps demo)
 - [[IdoSalomon]] — co-creator
 - [[Liad Yosef]] — co-creator
 - [[RL Nabors]] — built a comic reader MCP App as a practical demo
@@ -44,3 +45,8 @@ MCP Apps is the first official extension to the Model Context Protocol, standard
 - [[A2UI]] — interoperability target (Google)
 - [[Chat as Lowest Common Denominator]] — UX problem MCP Apps addresses
 - [[Browser as Infinite Canvas]] — vision MCP Apps supports
+- [[Sandboxed Iframe]] — security mechanism for rendering MCP Apps
+- [[VisualStudioCode]] — MCP host that renders apps
+- [[GitHubCopilot]] — MCP client in VS Code
+- [[Marlene Mhangami]] — presenter on MCP Apps in VS Code
+- [[Liam Hampton]] — presenter on MCP Apps in VS Code

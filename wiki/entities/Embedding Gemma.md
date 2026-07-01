@@ -21,7 +21,7 @@ Embedding Gemma is a 300 million parameter text embedding model from Google Deep
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[Gemma]] — model family
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[RAG]] — primary use case
 - [[Tiny LLMs]] — related model category
 - [[OnDeviceAI]] — deployment context

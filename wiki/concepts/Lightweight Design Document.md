@@ -10,7 +10,7 @@ last_updated: 2026-06-30
 A Lightweight Design Document (LDD) is an agent-generated design document that captures how a feature will be built, including architecture, approach, and implementation details. It is produced after an AI agent interviews stakeholders on the spec, analyzes prior LDDs to maintain consistency with the engineering org's ethos, and is distributed to all engineers for feedback before tickets and PRs are auto-generated.
 
 ## Key Information
-- **Origin**: Presented by [[MikeSpitz]] as part of the [[Post-Engineer Engineering Org]] model at [[PFF]]
+- **Origin**: Presented by [[MikeSpitz]] as part of the [[PostEngineer Engineering Org]] model at [[PFF]]
 - **Generation Process**: Agent interviews stakeholders on the spec → agent generates LDD → agent analyzes prior LDDs to maintain consistency → LDD distributed for engineer feedback
 - **Purpose**: Replaces sprint planning and refinement by front-loading design decisions into a single document
 - **Key Benefit**: Prevents AI agents from over-engineering or producing inconsistent code by being prescriptive about architecture and approach upfront
@@ -23,7 +23,7 @@ A Lightweight Design Document (LDD) is an agent-generated design document that c
 ## Related
 - [[MikeSpitz]] — presented the concept
 - [[PFF]] — company using LDDs in their workflow
-- [[Post-Engineer Engineering Org]] — organizational model the LDD fits within
+- [[PostEngineer Engineering Org]] — organizational model the LDD fits within
 - [[Spec-Driven Development]] — broader methodology
 - [[Composable Skills]] — LDD generation is implemented as a skill
 - [[ClaudeCode]] — coding agent used to generate LDDs

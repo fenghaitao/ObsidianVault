@@ -18,7 +18,7 @@ Browser use is a testing approach where an agent simulates the user interface an
 
 ## Related
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
-- [[Browser-based Autonomous Testing]] — parent concept
+- [[BrowserBased Autonomous Testing]] — parent concept
 - [[Computer Use]] — alternative approach
 - [[Stagehand]] — example tool
 - [[Playwright]] — more expressive alternative

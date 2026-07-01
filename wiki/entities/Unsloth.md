@@ -2,7 +2,7 @@
 title: "Unsloth"
 type: entity
 tags: [project, open-source, llm, tool]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Fixing bugs in Gemma, Llama, & Phi 3： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Low Level Technicals of LLMs： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20240731 - Fixing bugs in Gemma, Llama, & Phi 3： Daniel Han.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - Gemma, DeepMind's Family of Open Models — Omar Sanseviero, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260608 - Road to 5 Million Tokens： Breaking Barriers in Long Context Training — Max Ryabinin, Together AI.md"]
 last_updated: 2026-06-26
 ---
 
@@ -33,6 +33,8 @@ Unsloth is Daniel Han's open-source fine-tuning tool that automatically detects 
 - [[Gemma]] — supported model
 - [[Phi3]] — supported model
 - [[GradientOffloading]] — long-context training technique
+- [[Activation Offloading]] — pioneered by Unsloth (CPU offloading of transformer block inputs)
+- [[summary-20260608 - Road to 5 Million Tokens： Breaking Barriers in Long Context Training — Max Ryabinin, Together AI]] — source (credits Unsloth as pioneer of activation offloading)
 - [[DoubleBOSTokens]] — bug auto-fixed
 - [[UntrainedTokens]] — bug auto-fixed
 - [[PadTokenEOSTokenConflict]] — bug auto-fixed

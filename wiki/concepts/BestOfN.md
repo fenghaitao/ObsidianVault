@@ -25,6 +25,6 @@ Best of N is a pattern where the same task is given to N different models simult
 - [[summary-20260430 - Replacing 12K LoC with a 200 LoC Skill — David Gomes, Cursor]] — source
 - [[GitWorktrees]] — the isolation mechanism
 - [[SubAgents]] — the architectural pattern used
-- [[LLM-as-Judge]] — the judging mechanism
-- [[ParallelAgents]] — the broader pattern
+- [[LLMAsJudge]] — the judging mechanism
+- [[Parallel Agents]] — the broader pattern
 - [[Cursor]] — the product

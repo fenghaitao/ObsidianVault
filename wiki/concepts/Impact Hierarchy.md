@@ -21,5 +21,5 @@ The impact hierarchy is a prioritization framework for AI agent improvement that
 - [[DataFlywheel]] — the cycle powered by systematic improvement
 - [[EvalEngineering]] — the practice that informs where to invest
 - [[FailureModeAnalysis]] — identifying what to fix
-- [[Cost-Normalized Accuracy]] — evaluating model selection trade-offs
+- [[CostNormalized Accuracy]] — evaluating model selection trade-offs
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source

@@ -23,5 +23,5 @@ Peter Werry from Unblocked presents on building context engines to make AI agent
 
 - [[Unblocked]] — company building context engines
 - [[ContextEngineering]] — art of curating context windows
-- [[ContextManagement]] — techniques for managing agent context
+- [[Context Management]] — techniques for managing agent context
 - [[DoomLoop]] — failure mode addressed by context engines

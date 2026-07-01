@@ -17,7 +17,7 @@ Code quality in agentic patches refers to the observation that coding agents may
 - **Related to mergeability**: Connects to the broader concept of mergeability scoring, where unit test passing is necessary but insufficient.
 
 ## Related
-- [[SWE-rebench]] — benchmark considering this as future direction
+- [[SWERebench]] — benchmark considering this as future direction
 - [[Test Overfitting]] — related evaluation quality concern
 - [[LLM Code Quality Evaluation]] — broader evaluation framework
 - [[MergeabilityScoring]] — holistic evaluation beyond unit tests

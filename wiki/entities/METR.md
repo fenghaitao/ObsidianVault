@@ -28,7 +28,7 @@ METR (Model Evaluation and Threat Research) is an independent research nonprofit
 - [[TimeHorizon]] — flagship capability metric
 - [[HCAST]] — task distribution used in evaluations
 - [[SWAR]] — atomic problem suite
-- [[RE-Bench]] — ML research engineering benchmark
+- [[REBench]] — ML research engineering benchmark
 - [[RandomizedControlledTrial]] — methodology used in productivity study
 - [[ComputeCapabilityProportionality]] — thesis explored in METR's work
 - [[MonitoredVsUnmonitoredCapabilities]] — approach proposed by METR

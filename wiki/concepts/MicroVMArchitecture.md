@@ -30,5 +30,5 @@ Micro-VM architecture is the infrastructure pattern of backing each collaborativ
 - [[MaggieAppleton]] — creator of ACE
 - [[MultiplayerAgentSessions]] — the user-facing feature enabled by micro-VMs
 - [[Agent Sandbox]] — related sandboxing concept
-- [[Cloud-Based Agent Sandboxes]] — related infrastructure pattern
+- [[CloudBased Agent Sandboxes]] — related infrastructure pattern
 - [[CollaborativeAIEngineering]] — the paradigm enabled by this architecture

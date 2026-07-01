@@ -28,6 +28,6 @@ Hermes Agent is a personal AI agent framework described by Merve Noyan as "one s
 - [[Gemma4]] — planned for future testing
 - [[MiniMax]] — rumored model for future testing
 - [[Hugging Face Traces]] — coming support for agent traces
-- [[Self-Training Agents]] — the broader paradigm enabled by traces
+- [[SelfTraining Agents]] — the broader paradigm enabled by traces
 - [[Local Coding Agents]] — category of agents it belongs to
 - [[summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face]] — source

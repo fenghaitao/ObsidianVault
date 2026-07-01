@@ -19,7 +19,7 @@ Time to First Audio (TFA) is the latency between when a text-to-speech system re
 - TTFA is a key metric alongside Real-Time Factor for TTS model evaluation in voice agent pipelines
 
 ## Related
-- [[Real-Time Factor]] — complementary throughput metric
+- [[RealTime Factor]] — complementary throughput metric
 - [[Streaming TTS]] — streaming reduces perceived TFA
 - [[CUDA Graph Capture]] — optimization that reduced TFA
 - [[Coqui]] — TTS model with optimized TFA

@@ -12,7 +12,7 @@ The Domain Expert as Evaluator is the second of three models in Chris Lovejoy's 
 ## Key Information
 - **Split responsibility**: The domain expert defines quality and builds measurement systems; engineers make the improvements
 - **Assessment complexity**: More sophisticated than Oracle — involves defining metrics, building review dashboards, setting up evaluation pipelines
-- **Measurement approaches**: User metrics (customer feedback as north star), hired reviewer teams (clinicians reviewing subsets of outputs), [[LLM-as-Judge]], or combinations
+- **Measurement approaches**: User metrics (customer feedback as north star), hired reviewer teams (clinicians reviewing subsets of outputs), [[LLMAsJudge]], or combinations
 - **Best when**: Quality can be measured objectively, and manual iteration by engineers is fast enough
 - **When not to use**: When quality is subjective (taste-based), or when manual iteration is too slow for the scale
 - **Required skills**: Domain expertise + data science intuition, statistical skills, industry connections (for hiring review teams), leadership, product management experience
@@ -28,7 +28,7 @@ The Domain Expert as Evaluator is the second of three models in Chris Lovejoy's 
 - [[Domain Native AI Organization]] — the organizational philosophy
 - [[Principal Domain Expert]] — recommended organizational role
 - [[AI Quality]] — what the Evaluator defines and measures
-- [[LLM-as-Judge]] — one measurement approach
+- [[LLMAsJudge]] — one measurement approach
 - [[EvalEngineering]] — related discipline
 - [[Anterior]] — Evaluator model case study
 - [[ChrisLovejoy]] — framework creator

@@ -20,7 +20,7 @@ Model Serving is the deployment phase where a trained or fine-tuned model is hos
 ## Related
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Custom Inference Endpoint]] — the deployed result
-- [[Fine-tuning]] — prerequisite training step
+- [[FineTuning]] — prerequisite training step
 - [[Frontier API]] — the alternative (managed serving)
 - [[vLLM]] — open-source serving framework
-- [[Domain-Specific Models]] — what gets served
+- [[DomainSpecific Models]] — what gets served

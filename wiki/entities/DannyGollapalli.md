@@ -25,6 +25,6 @@ Danny Gollapalli is a back-end engineer at Raindrop, working on SDK development 
 ## Related
 - [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — source transcript
 - [[Raindrop]] — company
-- [[Zubin Koticha]] — co-presenter, CEO
+- [[ZubinKoticha]] — co-presenter, CEO
 - [[SelfDiagnostics]] — workshop topic
 - [[AgentObservability]] — domain

@@ -25,7 +25,7 @@ Edge AI is the practice of running AI models directly on edge devices (phones, l
 - [[Google AI Edge]] — Google's edge AI division
 - [[OnDeviceAI]] — closely related concept
 - [[Tiny LLMs]] — model category for edge deployment
-- [[System-level GenAI]] — deployment trend
-- [[In-app GenAI]] — deployment trend
-- [[LiteRT-LM]] — runtime for edge LLMs
+- [[SystemLevel GenAI]] — deployment trend
+- [[InApp GenAI]] — deployment trend
+- [[LiteRTLM]] — runtime for edge LLMs
 - [[NPU]] — hardware acceleration

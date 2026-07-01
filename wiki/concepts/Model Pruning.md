@@ -25,4 +25,4 @@ Model pruning is a technique for reducing model size by removing parts of the mo
 - [[Quantization]] — complementary compression technique
 - [[Mixture of Experts]] — architecture where pruning of experts is applicable
 - [[Citizen Science]] — context where misleading pruning claims appear
-- [[Full-Stack Co-Design]] — methodology that includes pruning as one lever
+- [[FullStack CoDesign]] — methodology that includes pruning as one lever

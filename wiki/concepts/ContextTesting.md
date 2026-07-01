@@ -25,6 +25,6 @@ Context Testing is the practice of validating AI context (prompts, skills, instr
 - [[ContextDevelopmentLifeCycle]] — the Test phase
 - [[NonDeterministicTesting]] — key challenge in context testing
 - [[ErrorBudgetsForContext]] — CI/CD approach for non-deterministic tests
-- [[LLM-as-Judge]] — evaluation method used in context testing
+- [[LLMAsJudge]] — evaluation method used in context testing
 - [[EvalEngineering]] — practice of crafting effective eval prompts
 - [[ContextOptimization]] — using test feedback to improve context

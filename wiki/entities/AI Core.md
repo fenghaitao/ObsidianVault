@@ -22,7 +22,7 @@ AI Core is Android's system-level GenAI service that provides a central foundati
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[Android]] — platform
-- [[System-level GenAI]] — the trend it represents
+- [[SystemLevel GenAI]] — the trend it represents
 - [[Gemma4]] — models on the roadmap
 - [[AppleIntelligence]] — Apple's equivalent
 - [[Google]] — parent company

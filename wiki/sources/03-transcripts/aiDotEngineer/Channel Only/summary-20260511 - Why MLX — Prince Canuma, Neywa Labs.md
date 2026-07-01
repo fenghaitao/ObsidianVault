@@ -53,5 +53,5 @@ MLX, Apple's array framework for Apple Silicon, enables powerful on-device AI (v
 - [[Day Zero Support]] — immediate model availability on MLX upon release
 - [[KV Cache Compression]] — reducing KV cache size for longer context
 - [[OnDeviceAI]] — core concept enabled by MLX
-- [[On-Device Robotics]] — powering robots with on-device AI
+- [[OnDevice Robotics]] — powering robots with on-device AI
 - [[Accessibility AI]] — AI for sensory accessibility (vision, navigation, speech)

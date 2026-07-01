@@ -40,7 +40,7 @@ Dotta Bippa (Doda), creator of Paperclip, presents an open-source agent orchestr
 - [[AgentRoutines]] — reusable templated agent tasks
 - [[AgentBudgets]] — per-agent and per-project cost controls
 - [[AgentReviewerApprover]] — QA and approval workflow gates
-- [[AgentOrchestration]] — broader orchestration context
+- [[Agent Orchestration]] — broader orchestration context
 - [[Skills]] — reusable agent playbooks, built into Paperclip
 - [[HumanInTheLoopWorkflows]] — reviewer/approver pattern
 - [[MultiAgentArchitecture]] — org chart as multi-agent architecture

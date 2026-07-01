@@ -25,5 +25,5 @@ MCP Enterprise Challenges refers to the core problems enterprises face when adop
 - [[summary-20260427 - Gateways are All You Need — Karan Sampath, Anthropic]] — source
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[Knowledge Base Monolith]] — the deeper problem MCP doesn't solve
-- [[Demand-Driven Context]] — alternative approach
+- [[DemandDriven Context]] — alternative approach
 - [[EvalEngineering]] — missing practice for MCP outputs

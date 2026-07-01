@@ -27,7 +27,7 @@ incident.io is an incident response management platform used by companies like N
 - [[summary-20260517 - Fighting AI with AI — Lawrence Jones, Incident]] — primary source
 - [[Lawrence Jones]] — founding engineer and speaker
 - [[Eval Red Green Cycle]] — eval workflow used at incident.io
-- [[Agent-Ready Eval Tooling]] — CLI tool pattern from incident.io
+- [[AgentReady Eval Tooling]] — CLI tool pattern from incident.io
 - [[File System Downloads for Agent Debugging]] — debugging pattern from incident.io
 - [[AI Analysis Pipelines]] — analysis pattern from incident.io
 - [[Backtesting for AI Systems]] — evaluation pattern from incident.io

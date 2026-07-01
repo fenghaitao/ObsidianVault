@@ -18,4 +18,4 @@ Eugene Yan is a host and interviewer at the aiDotEngineer conference, where he c
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source transcript
 - [[Thomas Dohmke]] — interviewee
 - [[aiDotEngineer]] — conference
-- [[GitHub Copilot]] — subject of interview
+- [[GitHubCopilot]] — subject of interview

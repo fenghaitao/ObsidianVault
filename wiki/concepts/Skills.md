@@ -37,10 +37,10 @@ Skills are an extendable system prompt mechanism in Claude Code that allows load
 - [[ConnectivityStack]] — skills as one of three connectivity tools
 - [[SkillsOverMCP]] — upcoming MCP extension for shipping skills with servers
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (skills as a control mechanism: encode human judgment into work nodes with contingency handling)
-- [[Agent-Human Collaboration]] — skills increase control by encoding human judgment that activates during work, unlike planning which requires upfront knowledge
+- [[AgentHuman Collaboration]] — skills increase control by encoding human judgment that activates during work, unlike planning which requires upfront knowledge
 - [[ProgressiveDiscovery]] — skills enable progressive discovery by handling contingencies encountered during execution
 - [[JacobLauritzen]] — argued skills are superior to planning because they handle contingencies (e.g., a skill for reviewing termination clauses can encode special EU law)
 - [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — source (DeepMind's Darwinian skills governance)
 - [[KP Sawhney]] — prefers skills over MCP; describes skills governance at Google scale
-- [[SkillsGovernance]] — curating skills in large organizations to prevent sprawl
+- [[Skills Governance]] — curating skills in large organizations to prevent sprawl
 - [[SkillsOverMCP]] — the debate between skills and MCP as agent extensibility mechanisms

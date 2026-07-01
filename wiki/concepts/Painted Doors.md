@@ -20,4 +20,4 @@ last_updated: 2026-06-25
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
 - [[Verification in Agentic Loops]] — solution
 - [[Autonomous Coding Agents]] — context
-- [[Browser-based Autonomous Testing]] — detection method
+- [[BrowserBased Autonomous Testing]] — detection method

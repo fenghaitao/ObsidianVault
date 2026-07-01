@@ -86,12 +86,12 @@ Bounded autonomy is the productive middle ground between free will and determini
 
 ## Concepts
 - [[Bounded Autonomy]] — the productive middle ground between free will and determinism in agent design
-- [[Band-Aid Fixes]] — temporary, superficial fixes that mask symptoms of model constraints
+- [[BandAid Fixes]] — temporary, superficial fixes that mask symptoms of model constraints
 - [[AI as Translation]] — framing AI's core capability as translation between representation spaces
 - [[Representation Structures]] — using multiple data structures (markdown, graphs, clustering, folders, timelines) for different needs
 - [[Constraints and Creativity]] — how constraints and limitations drive innovation in AI engineering
 - [[Context Assembly]] — dynamic construction of context vs. static approaches like TF-IDF
-- [[ContextManagement]] — the broader context management challenge
+- [[Context Management]] — the broader context management challenge
 - [[SimpleDesignPhilosophy]] — keeping agent and system design simple
 - [[ContextEngineering]] — deliberate curation of what goes into context
 - [[Token Billionaire]] — referenced in the talk as an aspirational extreme

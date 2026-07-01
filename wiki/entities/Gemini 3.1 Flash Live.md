@@ -20,7 +20,7 @@ Gemini 3.1 Flash Live is Google DeepMind's real-time multimodal interaction mode
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[AI Studio]] — platform for access
 - [[Gemini 3.1 Pro]] — larger sibling model
 - [[Gemini 3.1 Flash Light]] — smaller sibling model

@@ -2,7 +2,7 @@
 title: "Reddit"
 type: entity
 tags: [company, social-media, arize-customer, community-platform]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240808 - Using agents to build an agent company： Joao Moura.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240808 - Using agents to build an agent company： Joao Moura.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize.md"]
 last_updated: 2026-06-26
 ---
 
@@ -16,6 +16,8 @@ Reddit is a social media and community platform. CrewAI has an organic Reddit co
 
 ## Related
 - [[Arize]] — observability platform used by Reddit
+- [[ArizeAX]] — enterprise Arize product used by Reddit
 - [[CrewAI]] — framework with organic Reddit community
 - [[summary-20240808 - Using agents to build an agent company： Joao Moura]] — source
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source
+- [[summary-20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize]] — source

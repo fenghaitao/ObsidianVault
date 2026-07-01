@@ -29,6 +29,6 @@ Gradium AI is a voice AI model provider spun off from Kyutai, the non-profit res
 - [[Kyutai]] — parent non-profit lab
 - [[Gradium Phonon]] — on-device TTS product
 - [[Voice AI]] — domain
-- [[On-Device TTS]] — key technology
+- [[OnDevice TTS]] — key technology
 - [[Voice Cloning]] — capability
 - [[Semantic VAD]] — capability

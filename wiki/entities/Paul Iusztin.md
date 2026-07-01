@@ -23,12 +23,12 @@ Paul Iusztin is a software engineer with eight years of experience and four-plus
 ## Related
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
 - [[Towards AI]] — company he contributes to
-- [[Louis-François Bouchard]] — co-presenter
+- [[LouisFrançois Bouchard]] — co-presenter
 - [[Samridhi]] — co-presenter
 - [[aiDotEngineer]] — conference where the workshop was presented
-- [[Evaluator-Optimizer Pattern]] — writing refinement pattern he presented
+- [[EvaluatorOptimizer Pattern]] — writing refinement pattern he presented
 - [[Writing Profiles]] — static styling layer for content generation
-- [[LLM-as-Judge]] — evaluation technique used for post quality calibration
+- [[LLMAsJudge]] — evaluation technique used for post quality calibration
 - [[Structured Outputs]] — Pydantic objects for reviewer feedback
 - [[AgentObservability]] — monitoring approach using Opic
 - [[EvalEngineering]] — building and calibrating evaluation systems

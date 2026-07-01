@@ -67,17 +67,17 @@ Peter Gostev (Arena.ai) argues that despite ever-rising benchmark charts, curren
 
 ## Related
 - [[Peter Gostev]] — speaker
-- [[Arena.ai]] — platform with 5.5M+ votes, dissatisfaction rate data
+- [[ArenaAi]] — platform with 5.5M+ votes, dissatisfaction rate data
 - [[BullshitBench]] — nonsense detection benchmark
 - [[Anthropic]] — best BullshitBench performer (Claude 4.5, Sonnet 4.5)
 - [[OpenAI]] — GPT models ~50/50 on BullshitBench
 - [[GoogleDeepMind]] — Gemini models ~50/50 on BullshitBench
 - [[Qwen]] — decent BullshitBench performer
 - [[Model Dissatisfaction Rate]] — Arena metric for both-models-bad votes
-- [[LLM-as-Judge]] — used to grade BullshitBench responses
+- [[LLMAsJudge]] — used to grade BullshitBench responses
 - [[BenchmarkSaturation]] — context for why standard benchmarks mislead
 - [[Reasoning Limits]] — thinking/reasoning can make models worse at certain tasks
-- [[Model Behavior]] — models trained to solve at any cost, not to push back
+- [[ModelBehavior]] — models trained to solve at any cost, not to push back
 - [[Agent Unreliability]] — agents executing wrong-project tasks without pushback
 - [[Nonsense Detection]] — ability to identify and reject nonsensical prompts
 - [[Model Evaluation]] — broader context for evaluation approaches

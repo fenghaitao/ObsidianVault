@@ -31,5 +31,5 @@ World Model Building is the AI technique of dynamically generating navigable env
 - [[Genie2]] — second generation
 - [[WorldModels]] — broader concept
 - [[World Labs]] — alternative approach
-- [[Fei-Fei Li]] — World Labs founder
+- [[FeiFei Li]] — World Labs founder
 - [[Nano Banana 2]] — component model in Genie 3 pipeline

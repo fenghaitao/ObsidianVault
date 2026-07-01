@@ -20,8 +20,8 @@ AI for Engineers is the human-centric design philosophy behind GitHub Copilot, a
 ## Related
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source transcript
 - [[Thomas Dohmke]] — originator of the phrase
-- [[GitHub Copilot]] — product built on this philosophy
+- [[GitHubCopilot]] — product built on this philosophy
 - [[AI as Pair Programmer]] — the collaborative manifestation
 - [[AgenticEngineering]] — related paradigm from Brendan O'Leary
-- [[Human-in-the-Loop Orchestration]] — the orchestrator pattern
+- [[HumanInTheLoop Orchestration]] — the orchestrator pattern
 - [[Developer Flow]] — the outcome this philosophy preserves

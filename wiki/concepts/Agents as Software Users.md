@@ -25,5 +25,5 @@ Agents as Software Users is the observation that AI agents are becoming the prim
 - [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source
 - [[Vercel]] — company sharing the data
 - [[Malte Ubl]] — shared the insight
-- [[Agent Harness Separation]] — related architectural principle
+- [[AgentHarnessSeparation]] — related architectural principle
 - [[Sandboxing]] — required infrastructure shift

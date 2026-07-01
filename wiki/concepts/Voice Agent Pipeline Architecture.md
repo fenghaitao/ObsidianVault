@@ -21,15 +21,15 @@ The Voice Agent Pipeline Architecture is the dominant production approach for bu
 
 ## Related
 - [[Cascaded Systems (Voice)]] — closely related architectural concept
-- [[Speech-to-Speech Models]] — alternative single-model architecture
+- [[SpeechToSpeech Models]] — alternative single-model architecture
 - [[Time to First Audio]] — TTS latency metric
-- [[Real-Time Factor]] — TTS throughput metric
+- [[RealTime Factor]] — TTS throughput metric
 - [[Word Error Rate]] — STT quality metric
 - [[Turn Detection]] — STT capability for detecting end of utterance
 - [[Streaming ASR]] — streaming-native speech-to-text
-- [[Co-location (Voice AI)]] — latency optimization strategy
+- [[CoLocation (Voice AI)]] — latency optimization strategy
 - [[Auto Scaling for Voice Agents]] — scaling the pipeline
-- [[Thinker-Talker Pattern]] — pattern for managing guardrails in the pipeline
-- [[Tool Calling]] — core LLM capability
+- [[ThinkerTalker Pattern]] — pattern for managing guardrails in the pipeline
+- [[ToolCalling]] — core LLM capability
 - [[Voice Agents]] — parent domain
 - [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source

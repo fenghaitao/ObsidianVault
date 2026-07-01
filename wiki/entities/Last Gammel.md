@@ -20,6 +20,6 @@ Last Gammel is the lead developer of Vercel's AI SDK, based in Berlin. Under his
 ## Related
 
 - [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source
-- [[AI SDK]] — the project he leads
+- [[AISDK]] — the project he leads
 - [[Vercel]] — his employer
 - [[Malte Ubl]] — CTO of Vercel

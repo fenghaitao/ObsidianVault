@@ -2,7 +2,7 @@
 title: "OpenClaw"
 type: entity
 tags: [tool, ai, agent, safety, open-source, gemini, smart-glasses, personal-agent, cli]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - MCP = Mega Context Problem - Matt Carey.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - Building pi in a World of Slop — Mario Zechner.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260417 - State of the Claw — Peter Steinberger.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260420 - The New Application Layer - Malte Ubl, CTO Vercel.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260423 - The End of Apps — Kitze, Sizzy.co.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - MCP = Mega Context Problem - Matt Carey.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260502 - I Gave an AI Agent the Keys to My Life (Here's What Happened) — Radek Sienkiewicz (@velvetshark-com).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260605 - Dark Factory： OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw.md"]
 last_updated: 2026-06-30
 ---
 
@@ -16,12 +16,25 @@ OpenClaw is the fastest-growing open-source project in GitHub history, created b
 - Fastest-growing project in GitHub history — growth described as "stripper pole gross" (straight vertical line, not hockey stick)
 - ~30,000 commits, closing in on 2,000 contributors, soon 30,000 PRs — velocity not slowing down
 - Largest number of GitHub stars of any non-educational software project
+- At peak velocity: Vincent Koc hit ~3,000 commits/day; sustained ~800 commits/day across ~10-15 core maintainers
+- 60,000+ PRs total, managed via semantic graph analysis and vector embedding deduplication
 
 ### Architecture & Extensibility
 - Evolved from "big spaghetti codebase mess" to a plugin/extension architecture — "everything is an extension, a plugin"
 - Users can replace memory, add wiki, add dreaming, add any custom component — "just make it your own"
 - "It's more like Linux where you just can install your own parts"
 - Works with any model: frontier models from major labs or local models (with warnings for small models)
+- The Great Refactor: 2,700 commits, ~1M lines changed, 82% of core codebase — triggered by a folder move during Nvidia session, launched plugin architecture at 2 AM
+
+### Dark Factory & Agent Velocity
+- Vincent Koc's "dark factory" approach: running 5-20+ parallel agent "swim lanes" like a production line
+- Swim lanes organized by purpose: CI, features, bugs, refactoring, P0/P1 monitoring
+- Maintainers run 10-15+ concurrent Codex sessions with sub-agents — up to 60-70 agents collectively
+- Low-touch lanes run autonomously; high-touch lanes involve conversation and guidance
+- "Tokens are no longer the problem... raw compute and my brain space" — bottleneck is human attention
+- 2025 was "token maxing" (brute force loops); 2026 is "token efficiency" (agent in the loop)
+- Vincent developed intuition for agent reasoning: can "feel the reasoning tokens" and detect when agents are bullshitting
+- Software engineering is becoming factory management — engineers are factory managers, not weavers
 
 ### Security & Advisories
 - Received 1,142 security advisories (~16.6/day), 99 critical, ~469 published, 60% closed — roughly double the rate of Linux kernel and curl
@@ -73,6 +86,7 @@ OpenClaw is the fastest-growing open-source project in GitHub history, created b
 
 ## Related
 - [[summary-20260417 - State of the Claw — Peter Steinberger]] — primary source (creator's talk)
+- [[summary-20260605 - Dark Factory： OpenClaw Ships Faster Than You Can Read the Diff — Vincent Koc, OpenClaw]] — source (dark factory, velocity, swim lanes)
 - [[summary-20260430 - Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind]] — source (glasses integration)
 - [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — source
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
@@ -99,7 +113,7 @@ OpenClaw is the fastest-growing open-source project in GitHub history, created b
 - [[PromptInjection]] — security concern
 - [[LethalTriquetra]] — security risk model relevant to agent design
 - [[SupplyChainAttack]] — Ghost Claw and Axios incidents
-- [[AI-Generated Security Reports]] — flood of AI advisories
+- [[AIGenerated Security Reports]] — flood of AI advisories
 - [[OpenSourceFoundation]] — governance model
 - [[CVSS]] — scoring system critiqued by Peter
 - [[Pi (coding agent)]] — embedded as agent core
@@ -119,6 +133,15 @@ OpenClaw is the fastest-growing open-source project in GitHub history, created b
 - [[Life OS]] — the purpose these UIs weren't designed for
 - [[summary-20260425 - MCP = Mega Context Problem - Matt Carey]] — source (referenced as using CLI-based agent interaction)
 - [[CLI for Agents]] — pattern used by OpenClaw for agent-tool interaction
+- [[Dark Factory]] — Vincent Koc's approach to engineering as factory management
+- [[Swim Lanes]] — parallel agent workstreams pattern
+- [[Bot Looping]] — opinionated alternative to Ralph looping
+- [[Agent Development Environment]] — skills and agent workflow system
+- [[Token Maxing]] — 2025 brute force approach
+- [[Token Efficiency]] — 2026 shift to smarter agent usage
+- [[VincentKoc]] — core maintainer, dark factory methodology
+- [[NeMo Claw]] — Nvidia security layer, trigger for the Great Refactor
+- [[Plugin Architecture]] — architectural outcome of the Great Refactor
 
 ### Radek Sienkiewicz's Setup
 - Radek, an OpenClaw maintainer, incrementally gave OpenClaw access to his entire digital life: emails, notes, files, calendars, tools, and operating system
@@ -149,6 +172,6 @@ OpenClaw is the fastest-growing open-source project in GitHub history, created b
 - [[Seven AI]] — company using OpenClaw for sales RFP processing
 - [[FFmpeg]] — tool autonomously discovered by OpenClaw via shell access
 - [[Coding Agents as Building Blocks]] — thesis OpenClaw enables
-- [[Multi-Channel Agent Routing]] — pattern in OpenClaw's architecture
+- [[MultiChannel Agent Routing]] — pattern in OpenClaw's architecture
 - [[Agent Session Reuse]] — session-based context continuity in OpenClaw
-- [[Agent-Specific MD Files]] — agent.md/customer.md pattern used with OpenClaw agents
+- [[AgentSpecific MD Files]] — agent.md/customer.md pattern used with OpenClaw agents

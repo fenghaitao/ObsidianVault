@@ -25,6 +25,6 @@ Data scientists as guardrails is the concept that data scientists add unique val
 - [[summary-20260525 - Does GenAI ＂belong＂ to data scientists — Phil Hetzel, Braintrust]] — source
 - [[PhilHetzel]] — presenter who articulated this role
 - [[CrossFunctionalAgentTeams]] — the team structure where data scientists play this role
-- [[LLM-as-Judge]] — technique data scientists are uniquely qualified to validate
+- [[LLMAsJudge]] — technique data scientists are uniquely qualified to validate
 - [[Guardrails]] — the automated counterpart to this human oversight role
 - [[AgentEvalBroadness]] — why data scientist rigor must expand beyond traditional metrics

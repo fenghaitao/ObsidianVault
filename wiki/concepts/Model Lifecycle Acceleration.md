@@ -19,6 +19,6 @@ Model lifecycle acceleration is the operational goal of speeding up the full cyc
 ## Related
 - [[RL Ops]] — the platform category enabling lifecycle acceleration
 - [[Continuous Model Improvement]] — the improvement process within the lifecycle
-- [[Reinforcement Learning with LLMs]] — the training technique that enables fast iteration
+- [[ReinforcementLearningWithLLMs]] — the training technique that enables fast iteration
 - [[Adaptive ML]] — company building a lifecycle acceleration platform
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

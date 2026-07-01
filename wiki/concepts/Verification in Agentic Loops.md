@@ -30,7 +30,7 @@ Verification in agentic loops is the practice of testing for local correctness a
 - [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — source
 - [[Three Pillars of Autonomy]] — parent framework
 - [[Painted Doors]] — problem this solves
-- [[Browser-based Autonomous Testing]] — implementation approach
+- [[BrowserBased Autonomous Testing]] — implementation approach
 - [[Playwright]] — key tool
 - [[AgentLoop]] — the three-part loop where verification fits
 - [[Hooks]] — mechanism for deterministic verification

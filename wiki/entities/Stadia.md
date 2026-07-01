@@ -21,4 +21,4 @@ Stadia was Google's cloud game streaming platform, launched in 2019 and shut dow
 - [[summary-20260518 - Let's go Bananas with GenMedia — Guillaume Vernade, Google DeepMind]] — source
 - [[Google]] — parent company
 - [[Guillaume Vernade]] — former employee
-- [[Lyria Real-Time]] — model with game soundtrack potential
+- [[Lyria RealTime]] — model with game soundtrack potential

@@ -28,7 +28,7 @@ Nick Nisi is a Developer Experience (DX) engineer at WorkOS on the applied AI te
 - [[AuthKit]] — WorkOS auth product
 - [[Skills]] — workshop topic
 - [[Gotchas]] — alternative to comprehensive skills
-- [[Evidence-Based Verification]] — core philosophy
+- [[EvidenceBased Verification]] — core philosophy
 - [[State Machine Gates]] — architectural pattern in Case
 - [[Harness Engineering]] — discipline Case embodies
 - [[WhisperFlow]] — dictation tool

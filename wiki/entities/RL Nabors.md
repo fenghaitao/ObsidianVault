@@ -24,7 +24,7 @@ RL Nabors (Rachel Lee Nabors) is a principal developer experience engineer at Ar
 ## Related
 - [[summary-20260523 - Introducing WebMCP： Agents in the Browser — RL Nabors]] — source transcript
 - [[Arise]] — current employer
-- [[ASA (Anti-Social Social Agent)]] — her MCP app for social media
+- [[ASA (AntiSocial Social Agent)]] — her MCP app for social media
 - [[WebMCP]] — protocol she presented
 - [[MCP]] — underlying protocol
 - [[MCP Apps]] — used in her comic reader demo

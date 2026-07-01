@@ -25,6 +25,6 @@ Agent E is an open-source web agent developed by Emergence that can autonomously
 - [[Emergence]] — parent company
 - [[Dr. Satya Nitta]] — founder of Emergence
 - [[Web Agent]] — category of AI agents
-- [[Agent-Oriented Programming]] — composition paradigm
-- [[Self-Improving Agents]] — Emergence core R&D focus
+- [[AgentOriented Programming]] — composition paradigm
+- [[SelfImproving Agents]] — Emergence core R&D focus
 - [[summary-20240731 - Emergence Launch： AI Agents and the future enterprise： Dr. Satya Nitta]] — source presentation

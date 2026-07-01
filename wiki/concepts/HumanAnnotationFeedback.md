@@ -18,7 +18,7 @@ Human annotation feedback is the practice of having subject matter experts provi
 
 ## Related
 - [[PromptLearning]] — the technique that depends on human annotation feedback
-- [[LLM-as-Judge]] — complementary automated feedback source
+- [[LLMAsJudge]] — complementary automated feedback source
 - [[CoEvolvingLoops]] — both loops benefit from human annotation
 - [[EvalEngineering]] — related practice for optimizing automated evaluations
 - [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — source

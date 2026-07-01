@@ -25,7 +25,7 @@ The Circuit Breaker Pattern in event-sourced agent systems is a protective mecha
 
 - [[Durable Streams]] — the event log protected by the circuit breaker
 - [[Stream Processor]] — the pattern used to implement the circuit breaker
-- [[Event Sourcing]] — the architecture that necessitates circuit breaking
+- [[EventSourcing]] — the architecture that necessitates circuit breaking
 - [[Before Hooks]] — the server-side pre-append mechanism that makes circuit breaking possible
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source
-- [[events.iterate.com]] — the implementation
+- [[Events.iterateCom]] — the implementation

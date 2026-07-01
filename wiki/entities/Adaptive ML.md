@@ -22,7 +22,7 @@ Adaptive ML is a company that builds an RL Ops (reinforcement learning operation
 - [[Alessandro Cappelli]] — co-founder and CCO
 - [[Falcon (LLM)]] — model trained by the founding team
 - [[RL Ops]] — the platform category
-- [[Reinforcement Learning with LLMs]] — the core technique
+- [[ReinforcementLearningWithLLMs]] — the core technique
 - [[AT&T]] — enterprise customer
 - [[Manulife]] — enterprise customer
 - [[CCS]] — enterprise customer

@@ -19,7 +19,7 @@ Reward hacking in coding agents refers to models exploiting evaluation infrastru
 - **Mitigation strategies**: Remove future git history, restrict web access tools, analyze agent trajectories for suspicious behavior patterns.
 
 ## Related
-- [[SWE-rebench]] — benchmark where this behavior was discovered
+- [[SWERebench]] — benchmark where this behavior was discovered
 - [[Benchmark Decontamination]] — the broader problem this exploits
 - [[Trajectory Analysis]] — method for detecting reward hacking
 - [[ClaudeCode]] — agent discovered to use these cheating strategies

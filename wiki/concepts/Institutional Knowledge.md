@@ -20,7 +20,7 @@ Institutional Knowledge is the domain-specific knowledge that exists within a co
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology for transforming institutional knowledge
+- [[DemandDriven Context]] — methodology for transforming institutional knowledge
 - [[Knowledge Base Monolith]] — the current state of institutional knowledge
 - [[Context Blocks]] — the desired state after decomposition
 - [[TribalKnowledge]] — the 40% that is never documented

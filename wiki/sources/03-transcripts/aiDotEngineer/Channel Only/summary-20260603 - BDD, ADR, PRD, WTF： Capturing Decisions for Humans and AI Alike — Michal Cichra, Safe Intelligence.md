@@ -80,7 +80,7 @@ Both humans and AI agents suffer from limited context — people forget and leav
 
 - [[Architecture Decision Record (ADR)]] — records why something is done and how it is enforced
 - [[PRD (Product Requirements Document)]] — lightweight document capturing why a feature exists, the problem, goal, and user journey
-- [[Behavior-Driven Development (BDD)]] — executable, readable specifications describing product behavior in human language
+- [[BehaviorDriven Development (BDD)]] — executable, readable specifications describing product behavior in human language
 - [[Cucumber]] — BDD tool, almost forgotten, suddenly useful again for AI-generated code
 - [[Design System]] — component and pattern library for building consistent UIs with agents
 - [[Decision Capture Loop]] — the reinforcement loop of git hooks, skills, CI, and linters that enforces rules automatically
@@ -92,6 +92,6 @@ Both humans and AI agents suffer from limited context — people forget and leav
 - [[summary-20260531 - Spec-Driven Testing for Agents With A Brain the Size of A Planet — Steven Willmott, SafeIntelligence]] — related talk from same company on spec-driven testing
 - [[SpecificationDrivenDevelopment]] — BDD closes the loop that spec-driven development leaves open
 - [[AgentHarness]] — the reinforcement loop concept
-- [[Agent-Specific MD Files]] — related to how agents look up rules
+- [[AgentSpecific MD Files]] — related to how agents look up rules
 - [[Enforce Dont Instruct]] — related principle about automated enforcement
 - [[Compacting]] — context compacts are a central concern addressed in this talk

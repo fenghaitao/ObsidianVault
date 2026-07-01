@@ -23,7 +23,7 @@ Temperature is a setting in large language models (0 to 1) that controls the ran
 - [[summary-20251219 - Leadership in AI Assisted Engineering – Justin Reock, DX (acq. Atlassian)]] — source
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source
 - [[summary-20260504 - Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs]] — source (temperature ~0.7 as optimal middle ground for LLMs)
-- [[LLM-as-Judge]] — temperature affects judge reliability
+- [[LLMAsJudge]] — temperature affects judge reliability
 - [[SystemPromptFeedbackLoop]] — another control lever for AI output quality
 - [[GreedyDecoding]] — alternative that always picks top token (not recommended for LLMs)
 - [[TopKSampling]] — used in combination with temperature

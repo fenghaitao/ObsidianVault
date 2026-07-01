@@ -20,7 +20,7 @@ Samuel Humeau is an AI scientist at Mistral AI working on speech generation and 
 ## Related
 - [[Mistral AI]] — his employer
 - [[summary-20260509 - Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral]] — source
-- [[Text-to-Speech Architecture]] — the architecture pattern he described
+- [[TextToSpeech Architecture]] — the architecture pattern he described
 - [[Voice Cloning]] — capability of the model he presented
 - [[Flow Matching]] — technique used in Mistral's TTS model
 - [[Audio Codec]] — neural audio compression approach used in the architecture

@@ -27,5 +27,5 @@ Brian Scanlan is a Senior Principal Engineer at Intercom with 12 years of tenure
 - [[Doubling Engineering Throughput]] — the 2x concept he leads
 - [[Skills Flywheel]] — approach to skill development
 - [[Platform Consolidation for AI Coding]] — strategy he advocates
-- [[Agent-First Software Development]] — principle he promotes
+- [[AgentFirst Software Development]] — principle he promotes
 - [[Ruby on Rails]] — tech stack his platform group manages

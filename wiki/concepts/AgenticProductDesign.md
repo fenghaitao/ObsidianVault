@@ -2,8 +2,8 @@
 title: "Agentic Product Design"
 type: concept
 tags: [mcp, design, agent-interface, product-thinking]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md"]
-last_updated: 2026-06-26
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260112 - Your MCP Server is Bad (and you should feel bad) - Jeremiah Lowin, Prefect.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260605 - Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -29,3 +29,7 @@ Agentic Product Design is the practice of designing interfaces (especially MCP s
 - [[TokenBudget]] — constraint driving design decisions
 - [[CurateRuthlessly]] — key principle
 - [[AgentStory]] — user story analog for agents
+- [[summary-20260605 - Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google]] — complementary perspective (agents as different user class)
+- [[Agents As Different User Class]] — related insight from Michael Hablich
+- [[Agent Experience]] — broader UX framework
+- [[Chrome DevTools MCP]] — practical implementation example

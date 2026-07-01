@@ -69,8 +69,8 @@ Drawing on Karpathy-style auto-optimization research (set a goal, set a target, 
 - [[Chaos Engineering For AI]] — Applying chaos engineering principles to AI evaluation
 - [[Adaptive Testing For LLMs]] — Tests that change with the application rather than remaining static
 - [[Telemetry In The Loop]] — Feeding agent telemetry back into the agent for self-correction
-- [[Intent-Based Outcomes]] — Evaluating against desired end state rather than exact outputs
-- [[Self-Curating Test Suites]] — Agent-generated eval suites that evolve from production traces
+- [[IntentBased Outcomes]] — Evaluating against desired end state rather than exact outputs
+- [[SelfCurating Test Suites]] — Agent-generated eval suites that evolve from production traces
 - [[Static Benchmarks]] — Traditional fixed-dataset evaluation approach being critiqued
 
 ## Related

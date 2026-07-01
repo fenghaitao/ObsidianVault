@@ -31,7 +31,7 @@ Case is an internal AI agent harness built by Nick Nisi at WorkOS. It uses a Typ
 - [[Pi (coding agent)]] — underlying agent harness
 - [[Harness Engineering]] — the discipline Case embodies
 - [[State Machine Gates]] — the core architectural pattern
-- [[Evidence-Based Verification]] — the proof-over-trust philosophy
+- [[EvidenceBased Verification]] — the proof-over-trust philosophy
 - [[Cryptographic Proof in Agents]] — SHA-256 test verification
 - [[Retrospective Agent]] — the self-improving final stage
 - [[Agent Memory]] — Case's file-system-based memory

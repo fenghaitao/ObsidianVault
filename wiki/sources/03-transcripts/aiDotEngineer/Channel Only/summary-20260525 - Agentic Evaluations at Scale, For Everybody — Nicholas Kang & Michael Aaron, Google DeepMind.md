@@ -65,9 +65,9 @@ Nicholas Kang (PM, Kaggle Benchmarks) and Michael Aaron (SWE, Kaggle) present Go
 - [[AgenticEvaluations]] — the evaluation paradigm
 - [[BenchmarkSaturation]] — problem Game Arena addresses
 - [[EvalPlatforms]] — broader platform category
-- [[Bradley-Terry Pairing]] — statistical scheduling technique
+- [[BradleyTerry Pairing]] — statistical scheduling technique
 - [[OpenSpiel]] — RL game framework used
-- [[LLM-as-Judge]] — judging technique used in benchmarks
+- [[LLMAsJudge]] — judging technique used in benchmarks
 - [[PvP Benchmarking]] — competitive model evaluation
 - [[Elo Score]] — rating system used in Game Arena
 - [[Paige Bailey]] — contributed XKCD SVG task example

@@ -79,7 +79,7 @@ GenAI agents do not exclusively "belong" to data scientists or ML engineers. The
 - [[TraditionalEnterpriseVsAINatives]] — Two organizational approaches to agentic development
 - [[ModelAsAPI]] — LLMs as pre-built APIs, not models needing training
 - [[ContextEngineering]] — Replacing feature engineering as the primary lever for behavior change
-- [[LLM-as-Judge]] — Using LLMs to evaluate other LLM outputs; needs data scientist validation
+- [[LLMAsJudge]] — Using LLMs to evaluate other LLM outputs; needs data scientist validation
 - [[EvalFlywheel]] — The feedback loop connecting production observability to offline experimentation
 
 ## Related

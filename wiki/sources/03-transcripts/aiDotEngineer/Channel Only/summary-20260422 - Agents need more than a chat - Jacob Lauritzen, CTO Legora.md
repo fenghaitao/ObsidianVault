@@ -29,8 +29,8 @@ Jacob Lauritzen, CTO of Legora (a vertical AI company for law firms), argues tha
 - [[JasonWarner]] — coined Verifier's Rule
 - [[ClaudeCode]] — referenced for YOLO mode and planning inefficiency
 - [[VerifiersRule]] — the core principle
-- [[Agent-Human Collaboration]] — trust and control dimensions
-- [[High-Bandwidth Artifacts]] — the proposed interface paradigm
+- [[AgentHuman Collaboration]] — trust and control dimensions
+- [[HighBandwidth Artifacts]] — the proposed interface paradigm
 - [[Vertical AI]] — Legora's domain
 - [[Decision Log]] — non-blocking elicitation pattern
 - [[Context Rot]] — failure mode of long-running agents

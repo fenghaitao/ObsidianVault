@@ -27,8 +27,8 @@ last_updated: 2026-06-30
 - [[NickNisi]] — coined the term
 - [[Case]] — agent harness that implements this principle
 - [[State Machine Gates]] — the architectural implementation
-- [[Evidence-Based Verification]] — the companion principle
+- [[EvidenceBased Verification]] — the companion principle
 - [[Cryptographic Proof in Agents]] — a specific enforcement technique
 - [[Guide Dont Prescribe]] — the companion principle for guidance
 - [[Harness Engineering]] — the broader discipline
-- [[AgentUnreliability]] — the problem this principle solves
+- [[Agent Unreliability]] — the problem this principle solves

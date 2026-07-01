@@ -18,6 +18,6 @@ World Labs is Fei-Fei Li's company that takes a different approach to world mode
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Fei-Fei Li]] — founder
+- [[FeiFei Li]] — founder
 - [[Genie 3]] — competitor with different approach
 - [[World Model Building]] — concept

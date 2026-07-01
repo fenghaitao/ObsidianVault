@@ -26,5 +26,5 @@ Jira is a ticketing and project management system by Atlassian, used to track re
 - [[Atlassian]] — parent company
 - [[n8n]] — platform for Jira sub-agent workflows
 - [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — source
-- [[Demand-Driven Context]] — methodology using Jira tickets as probes
+- [[DemandDriven Context]] — methodology using Jira tickets as probes
 - [[Context Gap Scanner]] — automation that runs Jira tickets against knowledge base

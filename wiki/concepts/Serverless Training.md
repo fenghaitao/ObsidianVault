@@ -23,4 +23,4 @@ Serverless Training is the paradigm of using on-demand, auto-scaling cloud compu
 - [[Hyperparameter Tuning]] — key use case
 - [[Reinforcement Learning Rollouts]] — parallel evaluation pattern
 - [[Model Spectrum]] — the middle ground this enables
-- [[Fine-tuning]] — primary training technique on serverless
+- [[FineTuning]] — primary training technique on serverless

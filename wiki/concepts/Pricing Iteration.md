@@ -29,7 +29,7 @@ Pricing iteration is the practice of rapidly and continuously adjusting pricing 
 - [[summary-20260501 - Mastering AI Pricing — Mayank Pant, Stripe]] — source
 - [[AI Pricing]] — broader discipline
 - [[Hybrid Pricing]] — model that supports rapid iteration
-- [[Credit-Based Pricing]] — technique enabling under-the-hood iteration
+- [[CreditBased Pricing]] — technique enabling under-the-hood iteration
 - [[Pricing Guardrails]] — safety features that enable confident iteration
 - [[Mayank Pant]] — speaker who presented the framework
 - [[Stripe]] — billing infrastructure enabling rapid iteration

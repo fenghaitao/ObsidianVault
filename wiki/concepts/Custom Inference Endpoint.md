@@ -20,7 +20,7 @@ A Custom Inference Endpoint is a self-hosted model serving deployment that runs 
 ## Related
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Frontier API]] — the alternative approach
-- [[Fine-tuning]] — prerequisite training step
+- [[FineTuning]] — prerequisite training step
 - [[Model Serving]] — broader concept
 - [[vLLM]] — open-source serving framework
-- [[Domain-Specific Models]] — what gets served
+- [[DomainSpecific Models]] — what gets served

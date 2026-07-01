@@ -20,10 +20,10 @@ An Agent Trajectory Store is a custom observability system for coding agents tha
 ## Related
 - [[AgentObservability]] — broader observability concept
 - [[Trajectories]] — agent execution paths
-- [[AgentDebuggability]] — the problem trajectory stores solve
+- [[Agent Debuggability]] — the problem trajectory stores solve
 - [[AgentLoop]] — the loop being traced
 - [[TracesAndSpans]] — related observability primitives
-- [[TraceReading]] — skill for analyzing traces
+- [[Trace Reading]] — skill for analyzing traces
 - [[GoogleDeepMind]] — organization that built it
 - [[KP Sawhney]] — engineer describing the system
 - [[summary-20260524 - How Google DeepMind Runs Agents at Scale — KP Sawhney & Ian Ballantyne, Google DeepMind]] — source

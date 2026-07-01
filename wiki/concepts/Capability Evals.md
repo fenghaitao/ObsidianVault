@@ -22,7 +22,7 @@ Capability evals and regression evals are two complementary categories of evalua
 
 ## Related
 - [[Code Evals]] — can serve as either capability or regression evals
-- [[LLM-as-Judge]] — can serve as either capability or regression evals
+- [[LLMAsJudge]] — can serve as either capability or regression evals
 - [[Actionability Eval]] — example of a capability eval that became a regression eval
-- [[Eval-Driven Development]] — writing capability evals before building features
+- [[EvalDriven Development]] — writing capability evals before building features
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source

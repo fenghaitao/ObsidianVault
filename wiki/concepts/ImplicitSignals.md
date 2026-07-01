@@ -45,7 +45,7 @@ Implicit signals are semantic, harder-to-detect indicators of agent health that 
 - [[UserFrustration]] — key classifier signal
 - [[AgentExperiments]] — using signals for production A/B testing
 - [[Raindrop]] — platform providing implicit signals out of the box
-- [[Zubin Koticha]] — introduced the concept
+- [[ZubinKoticha]] — introduced the concept
 - [[ClaudeCode]] — referenced for regex frustration detection in keywords.ts
 - [[OpenAI]] — referenced for self-diagnostics inspiration paper
 - [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — source transcript

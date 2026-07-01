@@ -24,9 +24,9 @@ Functionality testing is a testing approach that validates the actual behavior o
 - [[Playwright]] — testing framework
 - [[Playwright MCP]] — MCP server integration
 - [[Code Coverage]] — contrasting approach
-- [[Self-Affirming Tests]] — problem with coverage-focused AI tests
-- [[Red-Green TDD]] — TDD flavor focused on behavior
+- [[SelfAffirming Tests]] — problem with coverage-focused AI tests
+- [[RedGreen TDD]] — TDD flavor focused on behavior
 - [[TDD with AI]] — methodology
 - [[Marlene Mhangami]] — speaker
 - [[Ian Cooper]] — "TDD Where It All Went Wrong" author
-- [[Browser-based Autonomous Testing]] — related approach
+- [[BrowserBased Autonomous Testing]] — related approach

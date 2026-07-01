@@ -22,7 +22,7 @@ Code evals are deterministic evaluation functions written in code (Python or Typ
 - Part of a layered defense: code evals catch basic issues first, then LLM judges handle semantic understanding, then humans review edge cases
 
 ## Related
-- [[LLM-as-Judge]] — complementary eval type for semantic understanding
+- [[LLMAsJudge]] — complementary eval type for semantic understanding
 - [[Faithfulness Eval]] — built-in LLM eval
 - [[Correctness Eval]] — built-in LLM eval
 - [[Actionability Eval]] — custom LLM eval example

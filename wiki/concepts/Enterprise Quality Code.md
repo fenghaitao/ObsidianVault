@@ -29,5 +29,5 @@ Enterprise quality code goes beyond functional correctness to encompass security
 - [[Code Verbosity]] — verbosity as a quality concern
 - [[Mixed Quality Training Data]] — root cause of quality issues
 - [[ACDC Framework]] — lifecycle approach to quality
-- [[SWE-bench]] — benchmark that misses quality dimensions
+- [[SWEBench]] — benchmark that misses quality dimensions
 - [[TechnicalDebtInML]] — related concept for ML systems

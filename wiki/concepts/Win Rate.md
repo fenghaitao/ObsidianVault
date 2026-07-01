@@ -20,5 +20,5 @@ Win rate is the percentage of head-to-head battles a model wins against other mo
 - [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source
 - [[Elo Score]] — derived from win rates
 - [[Public Leaderboards]] — where win rates are computed
-- [[State-of-the-Art Ambiguity]] — win rates are a key reason SOTA is ambiguous
+- [[StateOfTheArt Ambiguity]] — win rates are a key reason SOTA is ambiguous
 - [[Pareto Frontier]] — alternative evaluation that considers efficiency alongside quality

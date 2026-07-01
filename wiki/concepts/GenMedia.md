@@ -26,7 +26,7 @@ GenMedia is Google DeepMind's suite of generative media models encompassing imag
 - [[Nano Banana 2]] — image generation
 - [[Veo]] — video generation
 - [[Lyria]] — music generation
-- [[Lyria Real-Time]] — real-time music variant
+- [[Lyria RealTime]] — real-time music variant
 - [[Gemini]] — foundation model
 - [[Guillaume Vernade]] — Developer Advocate
 - [[Media Prompt Generation]] — pattern for generating prompts

@@ -22,7 +22,7 @@ Chat Agents are AI agents accessed through a text-based chat interface. They bec
 - [[Voice Agents]] — the upgraded paradigm built on top of chat agents
 - [[VoiceEngine]] — tool for converting chat agents to voice agents
 - [[Agent Wrapper Pattern]] — pattern for adding voice to existing chat agents
-- [[Omni-Channel Voice]] — paradigm unlocked by upgrading to voice
+- [[OmniChannel Voice]] — paradigm unlocked by upgrading to voice
 - [[Linear]] — company that moved home screen to chat
 - [[PostHog]] — company that moved home screen to chat
 - [[summary-20260509 - Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLabs]] — source

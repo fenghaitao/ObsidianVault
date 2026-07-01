@@ -13,7 +13,7 @@ Homogeneous Intelligence is the prevailing AI paradigm of scaling single models 
 - Driven by the discovery of neural scaling laws: more data + more parameters = better models
 - Primarily effective in the training domain, less relevant for inference
 - Represents the first two eras of compute: CPU (quicker) and GPU/parallel ([[Nvidia]]-dominated)
-- Already being displaced by heterogeneous approaches: [[Mixture of Experts]] replacing dense models, [[Multi-Agent Systems]] replacing single LLM calls, prefill-decode disaggregation replacing single chips
+- Already being displaced by heterogeneous approaches: [[Mixture of Experts]] replacing dense models, [[MultiAgent Systems]] replacing single LLM calls, prefill-decode disaggregation replacing single chips
 - Inefficient for real-world problems that decompose into sub-problems requiring different types of intelligence
 - Under the production function framework: homogeneous systems can only scale a single peak (specialist) or produce a broad-but-shallow cylinder (generalist), neither of which matches diverse demand functions well
 

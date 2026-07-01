@@ -28,14 +28,14 @@ Philipp Schmid of Google DeepMind presents five fundamental differences between 
 - [[Text as State]] — concept: text replaces data structures as application state
 - [[Handing Over Control]] — concept: trusting LLM decisions over predefined workflows
 - [[Traffic Controller vs Dispatcher]] — concept: the paradigm shift metaphor
-- [[Errors as Prompts]] — concept: treating errors as normal inputs for recovery
-- [[Non-Deterministic Agents]] — concept: why unit tests don't work for agents
+- [[ErrorsAsPrompts]] — concept: treating errors as normal inputs for recovery
+- [[NonDeterministicAgents]] — concept: why unit tests don't work for agents
 - [[Design for Recovery]] — concept: building agents that recover from failures
 - [[Trust But Verify]] — concept: give autonomy but validate outcomes
 - [[Build to Delete]] — concept: disposable software and the bitter lesson
 - [[Stop Fighting the Model]] — concept: don't force rigid workflows on LLMs
 - [[Preserve Meaning]] — concept: everything is context now
 - [[Evaluate Dont Just Assert]] — concept: statistical evaluation mindset for agents
-- [[Developer Experience for Agents]] — concept: building APIs for agent consumption
+- [[DeveloperExperienceForAgents]] — concept: building APIs for agent consumption
 - [[AgenticLoop]] — concept: the iterative observe-adjust-rerun cycle
 - [[EvalPrimitives]] — concept: measurement as essential for agent reliability

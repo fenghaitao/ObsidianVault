@@ -84,7 +84,7 @@ Three stages with inner and outer loops:
 - [[Claude Sonnet 4.6]] — highest security risk model
 - [[GPT 5.4]] — highest verbosity model
 - [[GPT 5.2]] — referenced for verbosity comparison
-- [[SWE-bench]] — benchmark measuring functional correctness only
+- [[SWEBench]] — benchmark measuring functional correctness only
 - [[Adnan Qureshi]] — quoted on English as the new programming language
 - [[PragmaticEngineer]] — March 2026 survey cited
 - [[aiDotEngineer]] — conference

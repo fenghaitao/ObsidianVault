@@ -24,7 +24,7 @@ Pricing guardrails are safety features built into billing systems to protect cus
 - [[summary-20260501 - Mastering AI Pricing — Mayank Pant, Stripe]] — source
 - [[AI Pricing]] — broader discipline
 - [[Hybrid Pricing]] — pricing model that requires guardrails
-- [[Credit-Based Pricing]] — usage caps often expressed in credits
+- [[CreditBased Pricing]] — usage caps often expressed in credits
 - [[Pricing Iteration]] — guardrails enable confident iteration
 - [[Mayank Pant]] — speaker who presented the framework
 - [[Stripe]] — platform providing guardrail capabilities

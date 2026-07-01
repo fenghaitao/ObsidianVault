@@ -27,7 +27,7 @@ Genie 3 is Google DeepMind's world model for dynamically generating navigable in
 ## Related
 - [[summary-20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research]] — source
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[World Model Building]] — concept
 - [[WorldModels]] — concept
 - [[Genie1]] — predecessor (2D platformer)

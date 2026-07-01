@@ -21,7 +21,7 @@ Agentic Optimization is the use of an AI agent (the proposer agent) to generate 
 ## Related
 - [[Agent Optimization]] — the broader optimization process
 - [[GEPA]] — the algorithm enabling agentic optimization
-- [[Self-Improving Agents]] — related concept of agents improving themselves
+- [[SelfImproving Agents]] — related concept of agents improving themselves
 - [[Managed Variables]] — deployment mechanism
 - [[Pareto Frontier]] — selection strategy
 - [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source

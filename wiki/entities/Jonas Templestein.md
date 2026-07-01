@@ -28,9 +28,9 @@ Jonas Templestein is a software engineer at Iterate who advocates for building A
 
 - [[Iterate]] — company
 - [[Misha]] — co-worker and co-presenter
-- [[events.iterate.com]] — the streaming event service
+- [[Events.iterateCom]] — the streaming event service
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source
-- [[Event Sourcing]] — foundational architecture
+- [[EventSourcing]] — foundational architecture
 - [[Stream Processor]] — core programming model
 - [[Agent Harness]] — the system being built
 - [[aiDotEngineer]] — conference

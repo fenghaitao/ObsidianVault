@@ -28,7 +28,7 @@ State machine gates are mandatory checkpoints between stages in an agent pipelin
 - [[NickNisi]] — implemented in Case
 - [[Case]] — agent harness using state machine gates
 - [[Enforce Dont Instruct]] — the principle this implements
-- [[Evidence-Based Verification]] — what the gates enforce
+- [[EvidenceBased Verification]] — what the gates enforce
 - [[Retrospective Agent]] — the final stage in the state machine
 - [[InhabitingTheStateMachine]] — related concept
 - [[Harness Engineering]] — the broader discipline

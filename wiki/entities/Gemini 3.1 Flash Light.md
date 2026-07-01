@@ -20,7 +20,7 @@ Gemini 3.1 Flash Light is the smallest and most cost-effective model in Google D
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[Gemini 3.1 Pro]] — larger sibling
 - [[Gemini 3.1 Flash Live]] — real-time sibling
 - [[AI Studio]] — platform for access

@@ -26,4 +26,4 @@ Soft tokenization is a technique for personalizing LLM-based recommender systems
 - [[User Embeddings]] — the vectors being projected
 - [[Semantic IDs]] — complementary content-side tokenization
 - [[Generative Recommender Systems]] — the paradigm enabled by soft tokenization
-- [[Cross-Content Modeling]] — the shared embedding space that feeds into soft tokenization
+- [[CrossContent Modeling]] — the shared embedding space that feeds into soft tokenization

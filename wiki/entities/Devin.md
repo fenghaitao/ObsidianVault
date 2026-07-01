@@ -18,5 +18,5 @@ Devin is an AI coding tool developed by Cognition, capable of autonomously autom
 ## Related
 - [[summary-20251222 - No More Slop – swyx]] — source
 - [[Cognition]] — company behind Devin
-- [[ComputerUse]] — broader category Devin fits into
+- [[Computer Use]] — broader category Devin fits into
 - [[CodeSlop]] — the problem Devin and similar tools must avoid

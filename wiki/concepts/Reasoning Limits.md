@@ -21,7 +21,7 @@ Reasoning Limits refers to the counterintuitive finding that increased reasoning
 - [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source
 - [[BullshitBench]] — benchmark where this was observed
 - [[Nonsense Detection]] — the specific capability where reasoning backfires
-- [[Model Behavior]] — solve-at-any-cost training pattern
+- [[ModelBehavior]] — solve-at-any-cost training pattern
 - [[Agent Unreliability]] — practical consequence in agent systems
 - [[Thinking Levels]] — related concept about reasoning depth
 - [[ReasoningBudgets]] — related concept about controlling reasoning

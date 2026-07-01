@@ -38,7 +38,7 @@ Matt Pocock is a software educator, YouTuber, and creator of the popular course 
 - [[Grill Me]] — his viral AI interviewing skill
 - [[Ubiquitous Language]] — his shared terminology skill
 - [[Deep Modules]] — architecture pattern he advocates
-- [[Specs-to-Code]] — movement he critiques
+- [[SpecsToCode]] — movement he critiques
 - [[Software Fundamentals Matter More Than Ever]] — his core thesis
 - [[Code is Not Cheap]] — his counter-argument
 - [[Design the Interface, Delegate the Implementation]] — his fifth tip

@@ -20,4 +20,4 @@ CLIP score is a standard automated metric for evaluating image generation models
 - [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source
 - [[Manual Inspection Bias]] — the subjective alternative CLIP score tries to complement
 - [[Public Leaderboards]] — where CLIP scores (or derived metrics) are published
-- [[State-of-the-Art Ambiguity]] — metric inconsistency contributes to the ambiguity
+- [[StateOfTheArt Ambiguity]] — metric inconsistency contributes to the ambiguity

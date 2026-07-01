@@ -138,21 +138,21 @@ Instrumentation → traces → evaluation → annotation → analysis → prompt
 - [[npm Inc.]] — Laurie's former company
 - [[CoreBench]] — benchmark with flawed eval (Anthropic example)
 - [[Code Evals]] — deterministic evaluation
-- [[LLM-as-Judge]] — semantic evaluation technique
+- [[LLMAsJudge]] — semantic evaluation technique
 - [[Faithfulness Eval]] — checks grounding in source material
 - [[Correctness Eval]] — checks factual accuracy
 - [[Actionability Eval]] — custom eval example
-- [[Meta-Evaluation]] — evaluating the evaluator
+- [[MetaEvaluation]] — evaluating the evaluator
 - [[Capability Evals]] — hills to climb
 - [[Regression Evals]] — regression testing for agents
 - [[Swiss Cheese Model]] — layered defense for evals
 - [[Cascading Failures]] — agent failure propagation
 - [[Impact Hierarchy]] — where to invest eval effort
-- [[Eval-Driven Development]] — test-first for agents
+- [[EvalDriven Development]] — test-first for agents
 - [[Pairwise Evaluation]] — comparing two outputs
 - [[Reliability Scoring]] — Pass@K and Pass^K
-- [[Cost-Normalized Accuracy]] — accuracy/cost tradeoff
-- [[Closed-Loop Evaluation]] — agent auto-improvement
+- [[CostNormalized Accuracy]] — accuracy/cost tradeoff
+- [[ClosedLoop Evaluation]] — agent auto-improvement
 - [[Vibe Checking]] — informal testing problem
 - [[TracesAndSpans]] — observability primitives
 - [[Golden Dataset]] — ground truth for evals
@@ -164,4 +164,4 @@ Instrumentation → traces → evaluation → annotation → analysis → prompt
 - [[EvalMaturityStages]] — organizational progression
 - [[EvalFlywheel]] — observability-evals loop
 - [[FailureModeAnalysis]] — identifying failure patterns
-- [[Evaluator-Optimizer Pattern]] — content refinement pattern
+- [[EvaluatorOptimizer Pattern]] — content refinement pattern

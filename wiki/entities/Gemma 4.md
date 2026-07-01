@@ -28,7 +28,7 @@ Gemma 4 is Google DeepMind's open model family, released under an Apache 2 licen
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[summary-20260420 - Running LLMs on your iPhone： 40 tok⧸s Gemma 4 with MLX — Adrien Grondin, Locally AI]] — source
 - [[summary-20260511 - Why MLX — Prince Canuma, Neywa Labs]] — source (omnimodel variants, day-zero support)
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[AI Studio]] — platform for API access
 - [[Gemini 3.1 Pro]] — larger sibling model family
 - [[MLX]] — framework for running on iPhone

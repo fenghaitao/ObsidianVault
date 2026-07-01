@@ -17,4 +17,4 @@ RXP is a preprint platform where the Demand-Driven Context paper was published i
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[Raj]] — author
-- [[Demand-Driven Context]] — the published methodology
+- [[DemandDriven Context]] — the published methodology

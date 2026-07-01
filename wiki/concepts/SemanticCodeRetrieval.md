@@ -22,7 +22,7 @@ Semantic code retrieval is the use of vector embeddings to search codebases by s
 
 ## Related
 - [[CacheCompute]] — the thesis that embeddings are upfront cached compute
-- [[AgenticSearch]] — the grep-based alternative used by Claude Code
+- [[Agentic Search]] — the grep-based alternative used by Claude Code
 - [[VectorDatabases]] — infrastructure for semantic search
 - [[ContextBench]] — benchmark for evaluating code retrieval
 - [[TurboGrep]] — CLI tool that enables semantic code search

@@ -22,5 +22,5 @@ Kobie Crawford is a Developer Advocate at Snorkel, the frontier AI data lab. He 
 - [[summary-20260602 - Task Fidelity Scaling Laws — Kobie Crawdord, Snorkel]] — source transcript
 - [[Task Fidelity Scaling Laws]] — research presented
 - [[Task Quality in Agentic Benchmarks]] — quality framework discussed
-- [[Inter-Annotator Agreement]] — quality validation technique discussed
+- [[InterAnnotator Agreement]] — quality validation technique discussed
 - [[Expert in the Loop]] — data generation approach discussed

@@ -16,7 +16,7 @@ External Validation is the evaluation of agent-generated code changes by special
 - Operates within the agent harness loop, providing fast feedback
 - Moves from delayed human review (hours/days) to near-instant agent review
 - Enables the removal of PRs as the unit of work
-- Human role shifts from reviewing code to approving intent and results at the [[Pre-merge Queue]]
+- Human role shifts from reviewing code to approving intent and results at the [[PreMerge Queue]]
 - Must be fast to avoid delaying the agent loop
 - Complements [[Internal Validation]] (build/test) within the same loop
 
@@ -27,4 +27,4 @@ External Validation is the evaluation of agent-generated code changes by special
 - [[Reviewer Agents]] — the specialized agents performing external validation
 - [[AgentHarness]] — the loop where external validation runs
 - [[AgentIdentity]] — identity for agents performing validation
-- [[Pre-merge Queue]] — where human approval happens after validation
+- [[PreMerge Queue]] — where human approval happens after validation

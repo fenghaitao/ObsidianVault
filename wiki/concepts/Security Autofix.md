@@ -20,5 +20,5 @@ Security Autofix refers to AI-powered systems that not only scan for security vu
 ## Related
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source transcript
 - [[Thomas Dohmke]] — articulated the need
-- [[Agent-as-Dishwasher]] — the metaphor for the desired capability
+- [[AgentAsDishwasher]] — the metaphor for the desired capability
 - [[AI for Engineers]] — the broader philosophy

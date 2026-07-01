@@ -26,6 +26,6 @@ Misha is a software engineer at Iterate who co-presented the aiDotEngineer works
 
 - [[Jonas Templestein]] — co-worker
 - [[Iterate]] — company
-- [[events.iterate.com]] — the streaming event service
+- [[Events.iterateCom]] — the streaming event service
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source
 - [[aiDotEngineer]] — conference

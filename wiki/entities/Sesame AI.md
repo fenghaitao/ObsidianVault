@@ -19,7 +19,7 @@ Sesame AI is a voice AI company developing speech-to-speech voice models. Neil Z
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
 - [[Voice AI]] — domain
-- [[Speech-to-Speech Models]] — model category
+- [[SpeechToSpeech Models]] — model category
 - [[Half Duplex]] — current limitation
 - [[ElevenLabs]] — competitor
 - [[OpenAI]] — competitor

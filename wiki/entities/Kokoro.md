@@ -19,6 +19,6 @@ Kokoro is an on-device text-to-speech (TTS) model. Neil Zeghidour described it a
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
 - [[Gradium Phonon]] — competitor with voice cloning
-- [[On-Device TTS]] — technology category
+- [[OnDevice TTS]] — technology category
 - [[Voice Cloning]] — missing capability
 - [[Voice AI]] — domain

@@ -2,7 +2,7 @@
 title: "HarborEval"
 type: entity
 tags: [evaluation, infrastructure, harness, agents, open-source]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260604 - The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260604 - The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260606 - Evals Are Broken, Use Them Anyway — Ara Khan, Cline.md"]
 last_updated: 2026-06-30
 ---
 
@@ -14,10 +14,14 @@ Harbor is an evaluation infrastructure and harness shipped with [[TerminalBench]
 - Became a de facto evaluation harness for agent builders
 - Provides standardized infrastructure for running models against benchmarks
 - Cited by [[VincentChen]] as an exemplar of [[Researcher UX]] — prioritizing the builder experience
+- Used by [[Cline]] for running parallelized agent evaluations with [[TerminalBench]]
 
 ## Related
 - [[TerminalBench]] — benchmark Harbor was shipped with
 - [[Benchmarking Agents]] — framework citing Harbor
 - [[Researcher UX]] — the concept Harbor exemplifies
 - [[Helm]] — earlier standardized evaluation harness with similar principles
+- [[Cline]] — coding agent using HarborEval
+- [[Modal]] — compute infrastructure paired with Harbor
 - [[summary-20260604 - The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI]] — source transcript
+- [[summary-20260606 - Evals Are Broken, Use Them Anyway — Ara Khan, Cline]] — source transcript (Cline's usage)

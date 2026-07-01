@@ -19,7 +19,7 @@ A Knowledge Base Monolith is the current state of enterprise institutional knowl
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology for decomposing the monolith
+- [[DemandDriven Context]] — methodology for decomposing the monolith
 - [[Context Blocks]] — the output of decomposition
 - [[Institutional Knowledge]] — what the monolith contains
 - [[TribalKnowledge]] — the 40% undocumented portion

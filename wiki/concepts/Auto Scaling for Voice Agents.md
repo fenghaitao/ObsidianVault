@@ -19,5 +19,5 @@ Auto scaling for voice agents is the practice of dynamically adjusting compute r
 
 ## Related
 - [[Voice Agent Pipeline Architecture]] — the system being auto-scaled
-- [[Co-location (Voice AI)]] — related infrastructure concern
+- [[CoLocation (Voice AI)]] — related infrastructure concern
 - [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source

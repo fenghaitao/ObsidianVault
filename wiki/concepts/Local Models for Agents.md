@@ -26,6 +26,6 @@ Local Models for Agents is the trend of running AI models directly on user devic
 - [[Apple]] — may win with local Siri
 - [[Siri]] — potential local agent
 - [[Google Pixel]] — already demonstrating local agent capabilities
-- [[Self-Hosting for Agents]] — the infrastructure approach
+- [[SelfHosting for Agents]] — the infrastructure approach
 - [[Personal Agent]] — the vision local models enable
 - [[Cloud Agents vs Custom Agents]] — local models as third path

@@ -37,7 +37,7 @@ RAG (Retrieval-Augmented Generation) is a technique where relevant documents are
 - [[JasonLou]] — delivered the tool-churning critique
 - [[Model Customization]] — broader category
 - [[Prompt Engineering]] — alternative customization technique
-- [[Fine-tuning]] — alternative customization technique
+- [[FineTuning]] — alternative customization technique
 - [[Agentic RAG]] — the evolution replacing fixed pipelines with agent-controlled retrieval
-- [[Demand-Driven Context]] — alternative pull-based approach
+- [[DemandDriven Context]] — alternative pull-based approach
 - [[Knowledge Base Monolith]] — the deeper problem RAG doesn't solve

@@ -33,9 +33,9 @@ Live Control is the capability for users to communicate with and steer AI agents
 ## Related
 
 - [[Durable Sessions]] — the architectural pattern that enables live control at scale
-- [[Server-Sent Events]] — the one-way protocol that prevents live control
+- [[ServerSent Events]] — the one-way protocol that prevents live control
 - [[ResumableStreams]] — the related resumability problem
 - [[Ably]] — platform providing bidirectional control infrastructure
 - [[Mike Christensen]] — presented the concept at aiDotEngineer
-- [[Agent-Human Collaboration]] — broader collaboration paradigm
+- [[AgentHuman Collaboration]] — broader collaboration paradigm
 - [[summary-20260517 - Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Christensen, Ably]] — source

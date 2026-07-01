@@ -15,5 +15,5 @@ Miro is an online collaborative whiteboard platform. Referenced in the Demand-Dr
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — alternative to the endless Miro board approach
+- [[DemandDriven Context]] — alternative to the endless Miro board approach
 - [[Knowledge Base Kanban]] — structured alternative for tracking documentation gaps

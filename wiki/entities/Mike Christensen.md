@@ -23,6 +23,6 @@ Mike Christensen is a Staff Engineer at Ably, a real-time messaging platform. He
 - [[Ably]] — employer and platform
 - [[Durable Sessions]] — the architectural pattern presented
 - [[Live Control]] — capability he identified as essential
-- [[Server-Sent Events]] — the default protocol he critiques
+- [[ServerSent Events]] — the default protocol he critiques
 - [[aiDotEngineer]] — conference where he presented
 - [[summary-20260517 - Why Your AI UX Is Broken (and It's Not the Model's Fault) — Mike Christensen, Ably]] — source

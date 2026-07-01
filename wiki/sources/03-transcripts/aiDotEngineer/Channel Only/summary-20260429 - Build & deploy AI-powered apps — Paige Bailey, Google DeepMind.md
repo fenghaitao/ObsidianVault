@@ -15,7 +15,7 @@ Paige Bailey from Google DeepMind demonstrates the latest multimodal AI models (
 
 ## Entities
 - [[Paige Bailey]] — DevRel lead at Google DeepMind, machine learning practitioner since 2009
-- [[Google DeepMind]] — AI research lab behind Gemini, Genie, Lyra, Gemma, and VEO models
+- [[GoogleDeepMind]] — AI research lab behind Gemini, Genie, Lyra, Gemma, and VEO models
 - [[Gemini 3.1 Flash Live]] — Real-time multimodal interaction model with screen/video/audio sharing
 - [[Gemini 3.1 Pro]] — Largest Gemini 3.1 model, used by Augment Code and Replit for agent systems
 - [[Gemini 3.1 Flash Light]] — Lightweight, cost-effective Gemini model with strong price-performance ratio
@@ -32,14 +32,14 @@ Paige Bailey from Google DeepMind demonstrates the latest multimodal AI models (
 - [[Cloud Run]] — Google Cloud's serverless compute platform for one-click app deployment
 - [[Pupper]] — Open-source robot running Raspberry Pi with Gemini models for object detection
 - [[Raspberry Pi]] — Single-board computer used in Pupper robot
-- [[Open Claw]] — Tool for integrating Gemini APIs with workspace actions
+- [[OpenClaw]] — Tool for integrating Gemini APIs with workspace actions
 - [[Vertex AI]] — Google Cloud's ML platform with custom document retrieval capabilities
 - [[Firestore]] — NoSQL document database used in AI Studio apps
 - [[World Labs]] — Fei-Fei Li's company taking a different approach to world model building
-- [[Fei-Fei Li]] — AI researcher whose company World Labs builds 3D world environments
+- [[FeiFei Li]] — AI researcher whose company World Labs builds 3D world environments
 
 ## Concepts
-- [[Multimodal AI]] — AI models supporting multiple input/output modalities (video, images, audio, text, code)
+- [[MultimodalAI]] — AI models supporting multiple input/output modalities (video, images, audio, text, code)
 - [[Code Execution (Sandboxed)]] — Gemini tool providing a sandboxed Python environment with data science libraries
 - [[Grounding with Google Search]] — Tool that lets Gemini models cite and use Google Search results
 - [[URL Context]] — Feature allowing Gemini to incorporate content from URLs into its context window
@@ -64,7 +64,7 @@ Paige Bailey from Google DeepMind demonstrates the latest multimodal AI models (
 - AI Studio provides "Get Code" for Python, TypeScript, Java to replicate any UI experiment
 
 ## Related
-- [[Google DeepMind]]
+- [[GoogleDeepMind]]
 - [[AI Studio]]
-- [[Multimodal AI]]
+- [[MultimodalAI]]
 - [[Gemini 3.1 Flash Live]]

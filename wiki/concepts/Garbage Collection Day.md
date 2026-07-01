@@ -22,6 +22,6 @@ Garbage Collection Day is a weekly practice (Fridays) where every engineer on th
 - [[summary-20260417 - Harness Engineering： How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI]] — source
 - [[Harness Engineering]] — the broader discipline
 - [[Reviewer Agents]] — CI automation that Garbage Collection Day feeds into
-- [[Non-functional Requirements Specification]] — what gets encoded during GC Day
+- [[NonFunctional Requirements Specification]] — what gets encoded during GC Day
 - [[Slop]] — what GC Day eliminates
 - [[ContinuousImprovement]] — related concept

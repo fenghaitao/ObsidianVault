@@ -23,7 +23,7 @@ Context Budget is the practice of managing the total token usage within an LLM's
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
 - [[Lost in the Middle]] — the training artifact causing context degradation
 - [[ContextEngineering]] — broader discipline of managing LLM context
-- [[ContextManagement]] — related techniques for context optimization
+- [[Context Management]] — related techniques for context optimization
 - [[MultiAgentArchitecture]] — architectural response to context budget overflow
 - [[FewShotExamples]] — contributor to context consumption
 - [[Agent Skills]] — progressive disclosure pattern that reduces context usage

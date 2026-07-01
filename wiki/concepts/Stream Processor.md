@@ -28,7 +28,7 @@ A Stream Processor is the core programming model for event-sourced agent harness
 ## Related
 
 - [[Reduce Function]] — the synchronous state derivation component
-- [[Event Sourcing]] — the architectural foundation
+- [[EventSourcing]] — the architectural foundation
 - [[Durable Streams]] — the event log consumed by processors
 - [[Agent Harness]] — the system built with stream processors
 - [[Dynamic Workers]] — deploying processors via events

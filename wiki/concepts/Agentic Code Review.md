@@ -10,7 +10,7 @@ last_updated: 2026-06-30
 Agentic Code Review is the practice of delegating style and opinionated code review feedback (variable names, formatting, code style consistency) to AI agents, removing the emotional friction from human code reviews and freeing engineers to focus on system design and architectural concerns.
 
 ## Key Information
-- **Origin**: Presented by [[MikeSpitz]] as part of the [[Post-Engineer Engineering Org]] model at [[PFF]]
+- **Origin**: Presented by [[MikeSpitz]] as part of the [[PostEngineer Engineering Org]] model at [[PFF]]
 - **What Agents Review**: Variable names, code style consistency, formatting, opinionated/preference-based feedback — the kind of feedback engineers typically dislike giving and receiving
 - **What Humans Review**: System design, architecture, big-picture concerns — the work engineers find meaningful
 - **Key Benefit**: Removes the emotional aspect from code review — style criticism from an agent doesn't carry the interpersonal friction of peer criticism
@@ -21,7 +21,7 @@ Agentic Code Review is the practice of delegating style and opinionated code rev
 ## Related
 - [[MikeSpitz]] — presented the concept
 - [[PFF]] — company using agentic code review
-- [[Post-Engineer Engineering Org]] — organizational model
+- [[PostEngineer Engineering Org]] — organizational model
 - [[ClaudeCode]] — coding agent used for code review
 - [[Lightweight Design Document]] — defines the design standards agents check against
 - [[Composable Skills]] — code review rules encoded as a skill

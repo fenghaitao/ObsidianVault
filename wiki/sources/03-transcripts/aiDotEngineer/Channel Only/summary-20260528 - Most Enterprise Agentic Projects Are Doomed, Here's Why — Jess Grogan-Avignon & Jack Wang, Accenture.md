@@ -35,7 +35,7 @@ Jess Grogan-Avignon and Jack Wang of Accenture argue that most enterprise agenti
 - [[Living Memory]] — Unique customer interaction signals that form the real competitive moat
 - [[Transactional Memory]] — ERP, CRM, SOPs — the floor, not a fortress, because every competitor has a version
 - [[Feedback as Moat]] — Feedback loops are the only defensible competitive advantage in an AI-recursive world
-- [[Hypothesis-Driven Delivery]] — Agentic delivery via small build-evaluate-iterate loops and statistical confidence
+- [[HypothesisDriven Delivery]] — Agentic delivery via small build-evaluate-iterate loops and statistical confidence
 - [[Governance as Engineering Problem]] — Governance speed must become the CTO's top engineering priority
 - [[AI Achiever]] — The 12% of companies achieving 50% higher revenue growth through AI
 

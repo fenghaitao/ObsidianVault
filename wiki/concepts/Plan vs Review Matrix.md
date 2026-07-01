@@ -22,8 +22,8 @@ The Plan vs Review Matrix is a decision framework for choosing between plan-base
 
 ## Related
 - [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]] — source
-- [[Louis Knight-Webb]] — articulated the framework
-- [[Plan-Based Approach]] — one strategy in the matrix
-- [[Review-Based Approach]] — the alternative strategy
+- [[Louis KnightWebb]] — articulated the framework
+- [[PlanBased Approach]] — one strategy in the matrix
+- [[ReviewBased Approach]] — the alternative strategy
 - [[Plan and Review Shift]] — the broader paradigm the matrix serves
 - [[TDD with AI]] — technique that enables plan-based approaches

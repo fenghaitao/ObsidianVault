@@ -25,9 +25,9 @@ The Viking Phone is a legacy VOIP hardware phone that uses Power over Ethernet (
 - [[ClaudeCode]] — AI tool used for reverse engineering
 - [[ElevenLabs]] — company that used it for a demo
 - [[Twilio]] — SIP trunk provider connected to the phone
-- [[AI-Assisted Hardware Reverse Engineering]] — methodology used
+- [[AIAssisted Hardware Reverse Engineering]] — methodology used
 - [[Protocol Brute Forcing]] — technique for discovering valid commands
-- [[Man-in-the-Middle Protocol Analysis]] — technique for discovering persistence commands
+- [[ManInTheMiddle Protocol Analysis]] — technique for discovering persistence commands
 - [[Checksum Reverse Engineering]] — technique for cracking the protocol
 - [[Power over Ethernet]] — connection method
 - [[summary-20260529 - Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs]] — source

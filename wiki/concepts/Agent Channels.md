@@ -24,5 +24,5 @@ Agent Channels are cron-based autonomous agent execution pipelines in AgentCraft
 - [[AgentCraft]] — the orchestrator implementing channels
 - [[Agent Review Bundles]] — how channel PRs are reviewed
 - [[Agent Campaigns]] — one level below in the autonomy ladder
-- [[RTS-Inspired Agent Orchestration]] — the broader paradigm
+- [[RTSInspired Agent Orchestration]] — the broader paradigm
 - [[Agent Orchestration]] — broader orchestration concept

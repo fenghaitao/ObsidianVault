@@ -10,7 +10,7 @@ last_updated: 2026-06-30
 Huddles are bi-daily 30–60 minute feedback sessions that replace traditional daily standups in the post-engineer engineering org. They bring together engineers, product, and design to review what has been built over the past couple of days and get instant feedback, with a focus on deploying to production in an MVP state as fast as possible.
 
 ## Key Information
-- **Origin**: Presented by [[MikeSpitz]] as part of the [[Post-Engineer Engineering Org]] model at [[PFF]]
+- **Origin**: Presented by [[MikeSpitz]] as part of the [[PostEngineer Engineering Org]] model at [[PFF]]
 - **Frequency**: Every other day (bi-daily), not daily
 - **Duration**: 30 minutes to 1 hour
 - **Participants**: Engineers, someone from product, someone from design
@@ -23,7 +23,7 @@ Huddles are bi-daily 30–60 minute feedback sessions that replace traditional d
 ## Related
 - [[MikeSpitz]] — presented the concept
 - [[PFF]] — company using huddles
-- [[Post-Engineer Engineering Org]] — organizational model huddles belong to
+- [[PostEngineer Engineering Org]] — organizational model huddles belong to
 - [[Autonomous QA Agent]] — QA that validates what's discussed in huddles
 - [[Lightweight Design Document]] — design documents reviewed in huddles
 - [[Customer Satisfaction as Retrospective]] — complements huddle feedback with quantitative data

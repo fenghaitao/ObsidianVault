@@ -2,7 +2,7 @@
 title: "Modal"
 type: entity
 tags: [platform, serverless, deployment, python, training, fine-tuning, gpu]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260602 - What Lies Beneath the API — Benjamin Cowen, Modal.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence).md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260602 - What Lies Beneath the API — Benjamin Cowen, Modal.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260606 - Evals Are Broken, Use Them Anyway — Ara Khan, Cline.md"]
 last_updated: 2026-06-30
 ---
 
@@ -21,6 +21,7 @@ Modal is a general-purpose serverless compute platform providing serverless func
 - **Model serving**: Auto-scaling inference with vLLM, SG-Lang, Triton Inference Server support
 - **Open-source training examples**: Code available for supervised fine-tuning in ~300 lines of Python
 - Mission: give algorithm control with fast iteration — bridging the gap between frontier APIs and full training
+- Used by [[Cline]] as compute infrastructure for running parallelized agent evaluations with [[Harbor]] and [[TerminalBench]]
 
 ## Related
 - [[summary-20251230 - Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (now Meta Superintelligence)]] — source (webhooks/Slack bots)
@@ -34,4 +35,8 @@ Modal is a general-purpose serverless compute platform providing serverless func
 - [[Hyperparameter Tuning]] — serverless approach on Modal
 - [[Custom Inference Endpoint]] — serving on Modal
 - [[Model Spectrum]] — the middle ground Modal addresses
-- [[Fine-tuning]] — primary training technique on Modal
+- [[FineTuning]] — primary training technique on Modal
+- [[Cline]] — coding agent using Modal for eval infrastructure
+- [[Harbor]] — eval harness paired with Modal
+- [[TerminalBench]] — benchmark run on Modal infrastructure
+- [[summary-20260606 - Evals Are Broken, Use Them Anyway — Ara Khan, Cline]] — source (Cline's usage)

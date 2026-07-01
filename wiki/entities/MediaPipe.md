@@ -19,6 +19,6 @@ MediaPipe is Google's framework for building multimodal machine learning pipelin
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[AI Studio]] — platform where demo was shown
-- [[Google DeepMind]] — related Google division
+- [[GoogleDeepMind]] — related Google division
 - [[Google AI Edge]] — division using MediaPipe in edge AI stack
-- [[LiteRT-LM]] — LLM runtime in the same stack
+- [[LiteRTLM]] — LLM runtime in the same stack

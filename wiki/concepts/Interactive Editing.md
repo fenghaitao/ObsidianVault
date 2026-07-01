@@ -22,5 +22,5 @@ Interactive Editing is the capability to edit images in real time with sub-secon
 - [[Flux 2 Klein]] — model enabling interactive editing
 - [[Real-Time Generation]] — the generation counterpart
 - [[Visual Intelligence]] — BFL's long-term vision
-- [[Multi-Reference Editing]] — related multi-image capability
+- [[MultiReference Editing]] — related multi-image capability
 - [[Black Forest Labs]] — developer

@@ -67,8 +67,8 @@ Matthias Luebken from Seven AI presents a practical guide to embedding coding ag
 - [[Coding Agents as Building Blocks]] — core thesis
 - [[Make it Easy for Agents]] — architectural pattern
 - [[Agent Session Reuse]] — pattern for context continuity
-- [[Agent-Specific MD Files]] — agent.md and customer.md pattern
-- [[Multi-Channel Agent Routing]] — routing emails to per-customer agents
+- [[AgentSpecific MD Files]] — agent.md and customer.md pattern
+- [[MultiChannel Agent Routing]] — routing emails to per-customer agents
 - [[AgentExtensibility]] — Pi's extension API
 - [[AgentHooks]] — beforeToolCall and event hooks
 - [[CLI for Agents]] — exposing systems via CLIs

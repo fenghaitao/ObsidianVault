@@ -18,7 +18,7 @@ Pairwise evaluation is an LLM-as-judge technique where the judge compares two ou
 - Part of the advanced techniques Laurie Voss mentioned at the end of his workshop — "what to Google to go even further"
 
 ## Related
-- [[LLM-as-Judge]] — the underlying evaluation technique
-- [[Meta-Evaluation]] — validating the pairwise judge's decisions
+- [[LLMAsJudge]] — the underlying evaluation technique
+- [[MetaEvaluation]] — validating the pairwise judge's decisions
 - [[Reliability Scoring]] — complementary advanced technique
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source

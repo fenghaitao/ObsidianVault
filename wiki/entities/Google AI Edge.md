@@ -23,10 +23,10 @@ Google AI Edge is Google's division focused on bringing AI models to edge device
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[Cormac Brick]] — tech lead
-- [[LiteRT-LM]] — LLM runtime
+- [[LiteRTLM]] — LLM runtime
 - [[LiteRT]] — general inference framework
 - [[MediaPipe]] — ML pipeline framework
 - [[Google]] — parent company
-- [[Google DeepMind]] — Gemma model partner
+- [[GoogleDeepMind]] — Gemma model partner
 - [[Android]] — ships as system service
 - [[Google Pixel]] — product using edge AI

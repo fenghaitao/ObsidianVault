@@ -28,7 +28,7 @@ WebMCP is a protocol that turns every HTML page into a mini MCP tools server, al
 - [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]] — source (interoperability mention)
 - [[RL Nabors]] — speaker who presented WebMCP in depth
 - [[MCP Apps]] — protocol working toward interoperability and standardization
-- [[Agent-to-UI Interaction]] — upcoming MCP Apps feature addressing the same space
+- [[AgentToUI Interaction]] — upcoming MCP Apps feature addressing the same space
 - [[A2UI]] — another interoperability target (Google)
 - [[Browser as Infinite Canvas]] — the broader vision WebMCP enables
 - [[Agentic Web]] — the paradigm WebMCP supports

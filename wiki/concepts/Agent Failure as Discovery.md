@@ -20,7 +20,7 @@ Agent Failure as Discovery is the principle that agent failures on real work ite
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology built on this principle
+- [[DemandDriven Context]] — methodology built on this principle
 - [[Context Gap Scanner]] — automation of this principle
 - [[TribalKnowledge]] — what failures surface
 - [[Agent as Knowledge Manager]] — the agent role after discovery

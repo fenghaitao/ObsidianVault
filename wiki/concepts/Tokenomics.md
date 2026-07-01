@@ -20,6 +20,6 @@ Tokenomics refers to the cost economics of serving large language models at ente
 ## Related
 - [[Agent Tokenomics]] — the heightened economics for agent use cases
 - [[Model Ownership]] — cost control through owning your model
-- [[Reinforcement Learning with LLMs]] — the technique that enables smaller, performant models
+- [[ReinforcementLearningWithLLMs]] — the technique that enables smaller, performant models
 - [[Myth of the Last Mile]] — why tokenomics only become apparent at production scale
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

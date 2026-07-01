@@ -33,7 +33,7 @@ AgentCraft is an agent orchestrator created by Ido Salomon that applies RTS (rea
 - [[IdoSalomon]] — creator
 - [[MCI]] — related project by same creator
 - [[MC apps]] — related project by same creator
-- [[RTS-Inspired Agent Orchestration]] — the paradigm
+- [[RTSInspired Agent Orchestration]] — the paradigm
 - [[Agent Campaigns]] — feature
 - [[Agent Collision Detection]] — feature
 - [[Agent Review Bundles]] — feature

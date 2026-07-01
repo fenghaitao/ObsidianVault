@@ -54,7 +54,7 @@ Aman Khan presents an evaluation framework for AI product managers, arguing that
 
 ## Concepts Referenced
 
-- [[LLM-as-Judge]] — Core evaluation technique: using an LLM to classify and explain outputs
+- [[LLMAsJudge]] — Core evaluation technique: using an LLM to classify and explain outputs
 - [[EvalEngineering]] — Practice of crafting high-quality eval prompts; demonstrated by iterating on eval prompts
 - [[VibeCoding]] — Building by gut feel without systematic evaluation
 - [[ThriveCoding]] — Data-driven development with evals for confidence

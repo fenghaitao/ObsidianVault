@@ -28,7 +28,7 @@ swyx opens the AI Engineer Summit with a keynote declaring "war on slop" — low
 - [[Slop]] — low-quality, inauthentic, or inaccurate content
 - [[Kino]] — the opposite of slop; high-quality content
 - [[CodeSlop]] — AI-generated code that creates tech debt and security issues
-- [[ComputerUse]] — AI autonomously operating complex applications
+- [[Computer Use]] — AI autonomously operating complex applications
 - [[VibeCoding]] — AI-assisted coding with varying quality outcomes
 - [[Modularity]] — human-designed boundaries with AI filling in between
 - [[SubAgents]] — using sub-agents to manage context and fight context rot

@@ -26,7 +26,7 @@ Playwright is a browser automation library that provides both a programmatic API
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source (Replit testing)
 - [[summary-20260408 - Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz]] — source (MCP server optimization)
 - [[summary-20260516 - Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft]] — source (functionality testing)
-- [[Browser-based Autonomous Testing]] — methodology
+- [[BrowserBased Autonomous Testing]] — methodology
 - [[Replit]] — company using Playwright for testing
 - [[Baz]] — company using Playwright MCP for spec review
 - [[Stagehand]] — related browser automation library

@@ -24,6 +24,6 @@ Third-Party Agent Integration is a universal platform approach where an agent or
 - [[summary-20240808 - Using agents to build an agent company： Joao Moura]] — source
 - [[CrewAI]] — platform offering this feature
 - [[AgentCrewOrchestration]] — orchestration pattern that external agents join
-- [[AgentMemory]] — shared memory feature extended to third-party agents
+- [[Agent Memory]] — shared memory feature extended to third-party agents
 - [[LangChain]] — one of the frameworks whose agents can be integrated
 - [[LangGraph]] — related agent framework

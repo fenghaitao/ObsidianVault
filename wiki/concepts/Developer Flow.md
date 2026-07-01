@@ -20,7 +20,7 @@ Developer Flow is the state of uninterrupted focus where developers remain in th
 ## Related
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source transcript
 - [[Thomas Dohmke]] — articulated the concept
-- [[GitHub Copilot]] — product designed to preserve flow
+- [[GitHubCopilot]] — product designed to preserve flow
 - [[AI for Engineers]] — the philosophy that prioritizes flow
 - [[DeveloperExperience]] — broader DX context
 - [[GitHub Workspace]] — extends flow to issue-to-PR workflow

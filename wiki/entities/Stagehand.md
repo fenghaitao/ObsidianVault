@@ -17,5 +17,5 @@ Stagehand is a browser automation library mentioned by Michele Catasta as an exa
 ## Related
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
 - [[Playwright]] — alternative approach used by Replit
-- [[Browser-based Autonomous Testing]] — methodology
+- [[BrowserBased Autonomous Testing]] — methodology
 - [[Browser Use]] — testing approach category

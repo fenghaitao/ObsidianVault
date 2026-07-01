@@ -93,9 +93,9 @@ Every eval consists of three components:
 - [[EvalPrimitives]] — Task, dataset, scoring function as the three components of an eval
 - [[EvalFlywheel]] — Production traces → analysis → offline experimentation → improvement
 - [[HumanAnnotation]] — Thumbs up/down with justification as the foundation for scaling eval knowledge
-- [[LLM-as-Judge]] — Using LLMs to judge other LLM outputs, with trustworthiness caveats
+- [[LLMAsJudge]] — Using LLMs to judge other LLM outputs, with trustworthiness caveats
 - [[FailureModeAnalysis]] — Deriving failure modes from human annotations to build automated scoring
-- [[Meta-Evaluation]] — Evaluating LLM judge outputs against ground truth
+- [[MetaEvaluation]] — Evaluating LLM judge outputs against ground truth
 - [[EvalDataCapture]] — Capturing production and UAT traces for eval datasets
 - [[ToolCallsInEvals]] — How tool calls complicate evaluation (context-gathering vs CRUD, mock APIs, trace injection)
 - [[DeterministicEval]] — Code-based deterministic evaluation scoring for objective failure modes

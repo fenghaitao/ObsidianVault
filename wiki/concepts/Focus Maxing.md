@@ -20,9 +20,9 @@ Focus Maxing is a design principle for AI coding agent tools coined by Louis Kni
 
 ## Related
 - [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]] — source
-- [[Louis Knight-Webb]] — coined the term
+- [[Louis KnightWebb]] — coined the term
 - [[Agent Parallelism]] — the workflow Focus Maxing supports
 - [[Agent Runtime Duration]] — the trend that makes Focus Maxing necessary
 - [[Plan and Review Shift]] — the paradigm shift this principle addresses
-- [[Agent-Human Collaboration]] — broader collaboration paradigm
+- [[AgentHuman Collaboration]] — broader collaboration paradigm
 - [[HumanInTheLoopWorkflows]] — related pattern for human-agent interaction

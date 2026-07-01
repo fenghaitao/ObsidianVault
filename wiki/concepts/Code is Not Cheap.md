@@ -23,6 +23,6 @@ last_updated: 2026-06-26
 - [[Code is Free]] — the contrasting paradigm
 - [[Software Fundamentals Matter More Than Ever]] — the broader thesis
 - [[MattPocock]] — originator
-- [[Specs-to-Code]] — the movement built on "code is cheap"
+- [[SpecsToCode]] — the movement built on "code is cheap"
 - [[Software Entropy]] — what makes code expensive
 - [[Deep Modules]] — what makes code good (and AI-effective)

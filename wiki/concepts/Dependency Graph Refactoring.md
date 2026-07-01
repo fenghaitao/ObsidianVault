@@ -22,7 +22,7 @@ Dependency graph refactoring is a strategy for large-scale code modernization th
 ## Related
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
 - [[Batch Graph]] — visualization of batched dependencies
-- [[Verifier-Fixer Pipeline]] — pipeline using dependency graph ordering
+- [[VerifierFixer Pipeline]] — pipeline using dependency graph ordering
 - [[Task Decomposition]] — related decomposition strategy
 - [[Agent Orchestration]] — broader practice
 - [[OpenHands]] — platform implementing this strategy

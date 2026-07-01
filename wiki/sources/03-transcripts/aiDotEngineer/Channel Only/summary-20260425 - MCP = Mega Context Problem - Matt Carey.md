@@ -81,7 +81,7 @@ Matt Carey presents three approaches to solving the context explosion problem wh
 - [[ProgrammaticToolCalling]] — Running untrusted agent-generated code in sandboxes
 - [[CLI for Agents]] — Agents using shell access to interact with CLIs via --help and command parsing
 - [[Untrusted Code Execution]] — Running agent-generated code safely in isolated sandboxes with programmable guardrails
-- [[Saved Mini-Scripts]] — Users saving LLM-generated code for reuse in cron jobs and recurring tasks
+- [[Saved MiniScripts]] — Users saving LLM-generated code for reuse in cron jobs and recurring tasks
 - [[Stateless Agent Loop]] — Cloud-native agent architecture where state can be toggled on/off
 - [[MCP as Middleware]] — MCP becoming a native flag in web frameworks rather than a separate concern
 - [[CapabilityBasedSecurity]] — Security model starting with zero capabilities, granting explicitly

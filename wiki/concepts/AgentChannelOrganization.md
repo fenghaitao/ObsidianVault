@@ -25,4 +25,4 @@ Agent Channel Organization is the practice of organizing personal AI agent inter
 - [[OpenClaw]] — the agent framework
 - [[AgentPlayground]] — the testing channel
 - [[IncrementalAgentAdoption]] — the methodology behind adding channels
-- [[AgentChannels]] — related concept from agent campaign management
+- [[Agent Channels]] — related concept from agent campaign management

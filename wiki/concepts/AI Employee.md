@@ -26,7 +26,7 @@ An AI Employee (or AI Coworker) is an AI agent designed to function as a member 
 - [[Personal Agent]] — the individual counterpart, contrasted with AI employees
 - [[Shared Context]] — the integration model that makes AI employees scalable
 - [[Agent Proactivity]] — key capability of AI employees
-- [[Agent Personality]] — critical for AI employee adoption
+- [[AgentPersonality]] — critical for AI employee adoption
 - [[Context Isolation]] — security requirement for company-wide AI employees
-- [[Slack-based Agent Interface]] — the interface paradigm for AI employees
+- [[SlackBased Agent Interface]] — the interface paradigm for AI employees
 - [[summary-20260511 - Viktor： AI Coworker That Lives in Slack — Fryderyk Wiatrowski]] — source

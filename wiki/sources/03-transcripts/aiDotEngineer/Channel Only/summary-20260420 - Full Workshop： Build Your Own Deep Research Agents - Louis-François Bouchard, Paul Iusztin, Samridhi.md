@@ -25,13 +25,13 @@ A 2-hour workshop by the Towards AI team (Louis-François Bouchard, Paul Iusztin
 - **Technology Stack**: Python, UV for dependency management, Gemini (Pro and Flash) for all LLM calls, Firecrawl and Apify for web scraping, FastMCP for MCP server, Claude Code as agent harness, Opic for observability, Pydantic for structured outputs
 
 ## Related
-- [[Louis-François Bouchard]] — speaker, CTO of Towards AI
+- [[LouisFrançois Bouchard]] — speaker, CTO of Towards AI
 - [[Paul Iusztin]] — speaker, author of LLM Engineer's Handbook
 - [[Samridhi]] — speaker, ML engineer and technical writer
 - [[Towards AI]] — educational company behind the workshop
 - [[aiDotEngineer]] — conference/YouTube channel
 - [[Deep Research Agent]] — core concept built in the workshop
-- [[Evaluator-Optimizer Pattern]] — writing workflow refinement loop
+- [[EvaluatorOptimizer Pattern]] — writing workflow refinement loop
 - [[Writing Profiles]] — static styling layer for content generation
 - [[Autonomy Slider]] — spectrum from prompting to agentic systems
 - [[Context Budget]] — managing context window constraints
@@ -41,7 +41,7 @@ A 2-hour workshop by the Towards AI team (Louis-François Bouchard, Paul Iusztin
 - [[AgenticWorkflows]] — predetermined step sequences
 - [[MultiAgentArchitecture]] — when to split into multiple agents
 - [[AgentObservability]] — monitoring and tracing agent systems
-- [[LLM-as-Judge]] — evaluation technique used for post quality
+- [[LLMAsJudge]] — evaluation technique used for post quality
 - [[FewShotExamples]] — in-context learning for generation and evaluation
 - [[Structured Outputs]] — Pydantic objects for reviewer feedback
 - [[MCP]] — Model Context Protocol for tool exposure

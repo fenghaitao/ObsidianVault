@@ -65,6 +65,6 @@ Joao Moura, CEO and founder of CrewAI, presents how he built CrewAI as a company
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — multi-agent demo with LangGraph
 - [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — agent SDK approach
 - [[MultiAgentArchitecture]] — architectural pattern for multi-agent systems
-- [[AgentMemory]] — shared memory and caching for agents
+- [[Agent Memory]] — shared memory and caching for agents
 - [[Code Execution (Sandboxed)]] — sandboxed code execution by agents
 - [[HumanInTheLoopWorkflows]] — humans shifting from worker to overseer

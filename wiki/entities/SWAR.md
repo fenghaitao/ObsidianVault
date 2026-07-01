@@ -20,4 +20,4 @@ SWAR is a suite of atomic problems used by METR for evaluating AI capabilities, 
 - [[METR]] — organization that created SWAR
 - [[TimeHorizon]] — metric derived from SWAR and other task distributions
 - [[HCAST]] — companion task distribution
-- [[RE-Bench]] — companion task distribution
+- [[REBench]] — companion task distribution

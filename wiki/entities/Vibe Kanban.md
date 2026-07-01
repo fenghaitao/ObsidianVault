@@ -22,7 +22,7 @@ Vibe Kanban (company: Vibe Canvas) was a developer tool for parallelizing coding
 
 ## Related
 - [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]] — source
-- [[Louis Knight-Webb]] — founder
+- [[Louis KnightWebb]] — founder
 - [[Agent Parallelism]] — the core concept the product enabled
 - [[Agent Runtime Duration]] — the trend that motivated the product
 - [[Focus Maxing]] — the design philosophy behind the product

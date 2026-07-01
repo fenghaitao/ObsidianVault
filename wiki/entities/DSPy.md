@@ -28,7 +28,7 @@ DSPy is a declarative framework from Stanford for programming (not just promptin
 ## Related
 - [[PromptLearning]] — technique that was benchmarked against DSPy's GEA
 - [[GEA]] — DSPy's evolutionary prompt optimization technique
-- [[LLM-as-Judge]] — evaluation method used in both approaches
+- [[LLMAsJudge]] — evaluation method used in both approaches
 - [[EvalEngineering]] — the differentiator between the two approaches
 - [[DSPySignatures]] — core abstraction for declaring intent
 - [[DSPyModules]] — composable building blocks

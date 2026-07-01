@@ -22,7 +22,7 @@ Vibe checking is the informal practice of testing AI features by running a few q
 
 ## Related
 - [[Code Evals]] — the formal replacement for vibe checking
-- [[LLM-as-Judge]] — formal evaluation technique
+- [[LLMAsJudge]] — formal evaluation technique
 - [[EvalEngineering]] — the practice of moving beyond vibes
 - [[Capability Evals]] — systematic approach to improvement
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source

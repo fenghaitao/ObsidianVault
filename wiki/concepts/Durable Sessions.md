@@ -44,7 +44,7 @@ Durable Sessions is an architectural pattern for AI applications that decouples 
 ## Related
 
 - [[Live Control]] — the bidirectional interaction capability
-- [[Server-Sent Events]] — the default protocol that durable sessions replace
+- [[ServerSent Events]] — the default protocol that durable sessions replace
 - [[ResumableStreams]] — the resumability problem durable sessions solve
 - [[PubSub]] — the underlying messaging pattern
 - [[Ably]] — platform providing the channel primitives

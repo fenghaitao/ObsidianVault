@@ -50,7 +50,7 @@ Eval Practice Phases is a four-phase maturity model describing how practitioners
 - [[EvalPrimitives]] — the three components of every eval
 - [[EvalFlywheel]] — the continuous loop enabled at Phase 2
 - [[HumanAnnotation]] — the foundation practice of Phase 1
-- [[LLM-as-Judge]] — scaling technique at Phase 2
+- [[LLMAsJudge]] — scaling technique at Phase 2
 - [[ToolCallsInEvals]] — the complexity challenge of Phase 3
 - [[DeterministicEval]] — code-based scoring used alongside LLM-as-judge
 - [[TopicModelingForEvals]] — advanced technique at Phase 4

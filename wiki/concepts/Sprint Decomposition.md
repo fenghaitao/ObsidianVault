@@ -21,9 +21,9 @@ Sprint Decomposition is a harness technique where a planner agent breaks a high-
 
 ## Related
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
-- [[Generator-Evaluator Pattern]] — harness pattern that uses sprint decomposition
+- [[GeneratorEvaluator Pattern]] — harness pattern that uses sprint decomposition
 - [[Contract Negotiation]] — within-sprint mechanism
 - [[Harness Evolution]] — how sprint decomposition changes as models improve
 - [[RALPH Loop]] — earlier pattern with similar feature breakdown
-- [[Plan-Based Approach]] — related planning methodology
+- [[PlanBased Approach]] — related planning methodology
 - [[Agent Task States]] — progress tracking mechanism

@@ -28,12 +28,12 @@ Prompt learning is an iterative optimization approach that uses English-language
 - [[DSPy]] — Stanford framework; its GEA optimizer was benchmarked against prompt learning
 - [[ClaudeCode]] — Anthropic coding agent; Claude 4.1 benchmarked against 4.5
 - [[Cline]] — Open-source coding agent used in the case study
-- [[SWE-bench]] — Software engineering benchmark; SWE-bench Lite used for coding agent evaluation
+- [[SWEBench]] — Software engineering benchmark; SWE-bench Lite used for coding agent evaluation
 - [[Cursor]] — AI-powered code editor mentioned as a successful coding agent example
 
 ## Concepts
 - [[PromptLearning]] — Iterative system prompt refinement using English feedback
-- [[LLM-as-Judge]] — Using LLMs to evaluate outputs with detailed explanations
+- [[LLMAsJudge]] — Using LLMs to evaluate outputs with detailed explanations
 - [[EvalEngineering]] — Crafting high-quality eval prompts for actionable feedback
 - [[MetaPrompt]] — Prompt that synthesizes improved system prompt rules from evaluation feedback
 - [[CoEvolvingLoops]] — Two optimization loops running in parallel: one for agent prompts, one for eval prompts

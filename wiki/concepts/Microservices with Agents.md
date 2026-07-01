@@ -17,7 +17,7 @@ Microservices with Agents is the evolution from monolithic AI agents (single LLM
 - Examples of agent microservices: security review agents, API conformance agents, build agents, test agents
 - Enables the [[External Validation]] pattern: specialized agents review changes within the loop
 - Part of the broader architectural shift that makes [[Continuous Compute]] possible
-- Enables parallel, specialized agent work that feeds into the [[Pre-merge Queue]]
+- Enables parallel, specialized agent work that feeds into the [[PreMerge Queue]]
 
 ## Related
 - [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — source

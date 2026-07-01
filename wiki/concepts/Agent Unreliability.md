@@ -28,7 +28,7 @@ Agent Unreliability refers to the documented failures of personal AI agents in c
 - [[Tinker Club]] — community experiencing this
 - [[AgentPersonality]] — "box of oatmeal" degradation
 - [[AgentToAgentCommunication]] — multi-agent breakdowns
-- [[AgentMemory]] — context amnesia
+- [[Agent Memory]] — context amnesia
 - [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source (solve-at-any-cost behavior in agents)
 - [[BullshitBench]] — benchmark exposing the root cause
 - [[Nonsense Detection]] — capability gap driving agent unreliability

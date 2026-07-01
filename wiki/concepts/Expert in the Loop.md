@@ -19,9 +19,9 @@ Expert in the Loop is a data generation and quality assurance approach where hum
 - **Contrast with pure automation**: Explicitly positioned against approaches that rely solely on automated data generation without expert oversight; the quality difference is empirically measurable (5x training uplift)
 
 ## Related
-- [[Inter-Annotator Agreement]] — quality validation technique enabled by expert ground truth
-- [[Rubric-Based Evaluation]] — framework experts help develop
-- [[LLM-as-Judge]] — scaled evaluation informed by expert annotations
+- [[InterAnnotator Agreement]] — quality validation technique enabled by expert ground truth
+- [[RubricBased Evaluation]] — framework experts help develop
+- [[LLMAsJudge]] — scaled evaluation informed by expert annotations
 - [[Snorkel]] — company using this approach
 - [[summary-20260602 - Task Fidelity Scaling Laws — Kobie Crawdord, Snorkel]] — source transcript
 - [[Task Fidelity Scaling Laws]] — research validating the importance of expert-driven quality

@@ -31,7 +31,7 @@ RL Nabors presents WebMCP, a protocol that turns every HTML page into a mini MCP
 - [[MCP Apps]] — single-file HTML bundles as interactive agent UI
 - [[MCP]] — the underlying Model Context Protocol
 - [[Arise]] — Nabors's current company (evals)
-- [[ASA (Anti-Social Social Agent)]] — Nabors's MCP app for Twitter/BlueSky
+- [[ASA (AntiSocial Social Agent)]] — Nabors's MCP app for Twitter/BlueSky
 - [[Browser as Infinite Canvas]] — core thesis about the browser's capabilities
 - [[Agentic Web]] — Nabors's newsletter and the broader concept
 - [[Chat as Lowest Common Denominator]] — UX critique of blank chatboxes

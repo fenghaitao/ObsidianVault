@@ -23,7 +23,7 @@ Foundation models are large-scale AI models trained on broad data that can be ad
 - [[AmazonBedrock]]
 - [[Prompt Engineering]]
 - [[RAG]]
-- [[Fine-tuning]]
+- [[FineTuning]]
 - [[Function Calling]]
 - [[Model Evaluation]]
 - [[SAM (Segment Anything Model)]] — vision foundation model series

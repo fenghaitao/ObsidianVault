@@ -20,7 +20,7 @@ VEO 3.1 Light is Google DeepMind's video generation model that creates stock foo
 
 ## Related
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Google DeepMind]] — creator
+- [[GoogleDeepMind]] — creator
 - [[AI Studio]] — platform for access
 - [[Lyra 3]] — music generation counterpart
 - [[Nano Banana 2]] — image generation counterpart

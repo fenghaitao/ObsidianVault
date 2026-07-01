@@ -26,6 +26,6 @@ Trust But Verify is a core principle for building AI agents: give the LLM autono
 - [[Handing Over Control]] — the "trust" side of the equation
 - [[Evaluate Dont Just Assert]] — the "verify" side of the equation
 - [[EvalPrimitives]] — the measurement tools for verification
-- [[Non-Deterministic Agents]] — why verification must be statistical
+- [[NonDeterministicAgents]] — why verification must be statistical
 - [[Bounded Autonomy]] — related concept: balancing freedom and constraints
 - [[Verification in Agentic Loops]] — implementing verification in agent systems

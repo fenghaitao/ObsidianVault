@@ -21,6 +21,6 @@ Kevin Hou leads the product engineering team at Codeium and presented at aiDotEn
 - [[Codeium]] — company
 - [[summary-20240731 - How Codeium Breaks Through the Ceiling for Retrieval： Kevin Hou]] — source transcript
 - [[Recall@50]] — multi-document retrieval metric presented
-- [[Product-Driven Benchmarks]] — evaluation approach
+- [[ProductDriven Benchmarks]] — evaluation approach
 - [[Embedding Ceiling]] — concept of embedding performance limits
 - [[FullVerticalIntegration]] — Codeium's strategy

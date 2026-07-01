@@ -39,7 +39,7 @@ Claude Code is Anthropic's coding agent that uses Claude models to autonomously 
 ## Related
 - [[Cline]] — another coding agent benchmarked alongside Claude Code
 - [[Cursor]] — another successful coding agent
-- [[SWE-bench]] — benchmark used to evaluate Claude Code
+- [[SWEBench]] — benchmark used to evaluate Claude Code
 - [[PromptLearning]] — technique used to improve Claude Code's performance
 - [[RuleBasedPrompting]] — the approach that yielded improvements
 - [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — source
@@ -82,7 +82,7 @@ Claude Code is Anthropic's coding agent that uses Claude models to autonomously 
 - [[TuomasArtman]] — critic who noted quality issues
 - [[AIAndTaste]] — related concept about AI's inability to produce tasteful software
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (YOLO mode as high-trust extreme, planning inefficiency)
-- [[Agent-Human Collaboration]] — trust spectrum from low-trust (asks every time) to YOLO mode
+- [[AgentHuman Collaboration]] — trust spectrum from low-trust (asks every time) to YOLO mode
 - [[JacobLauritzen]] — referenced Claude Code's trust spectrum and planning inefficiency
 - [[summary-20260423 - The End of Apps — Kitze, Sizzy.co]] — source (Kitze's usage for personal skills, WhatsApp relay, model personality degradation)
 - [[summary-20260426 - Collaborative AI Engineering： One Dev, Two Dozen Agents, Zero Alignment — Maggie Appleton, GitHub]] — source (referenced as "Claude" in the "one man, two dozen Clods" framing of single-player agent interfaces)
@@ -94,7 +94,7 @@ Claude Code is Anthropic's coding agent that uses Claude models to autonomously 
 - [[Raindrop]] — referenced Claude Code's regex approach as example of cheap implicit signals
 - [[ImplicitSignals]] — regex-based frustration detection in keywords.ts
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source (used for workshop demo)
-- [[Demand-Driven Context]] — methodology demonstrated with Claude Code
+- [[DemandDriven Context]] — methodology demonstrated with Claude Code
 - [[Raj]] — used Claude Code for the workshop demo
 - [[summary-20260515 - Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF]] — PFF case study: 2 engineers with Claude Code achieved 25x deploys and 10x output
 - [[PFF]] — sports data company that used Claude Code in their post-engineer org case study
@@ -110,9 +110,9 @@ Claude Code is Anthropic's coding agent that uses Claude models to autonomously 
 - [[Boris Starkov]] — used Claude Code to reverse engineer Viking phone
 - [[Viking Phone]] — legacy VOIP hardware reverse engineered with Claude Code
 - [[ElevenLabs]] — company whose engineer used Claude Code for hardware hacking
-- [[AI-Assisted Hardware Reverse Engineering]] — methodology demonstrated with Claude Code
+- [[AIAssisted Hardware Reverse Engineering]] — methodology demonstrated with Claude Code
 - [[Protocol Brute Forcing]] — technique Claude Code used to discover commands
-- [[Man-in-the-Middle Protocol Analysis]] — technique Claude Code set up
+- [[ManInTheMiddle Protocol Analysis]] — technique Claude Code set up
 - [[Checksum Reverse Engineering]] — technique Claude Code performed
 - [[AI as Orchestrator, Human as Hands]] — Starkov's role while Claude Code directed
 - [[summary-20260603 - Benchmarking semantic code retrieval on Claude Code — Kuba Rogut, Turbopuffer]] — source (semantic code search benchmarking)
@@ -120,4 +120,4 @@ Claude Code is Anthropic's coding agent that uses Claude models to autonomously 
 - [[TurboGrep]] — CLI tool that adds semantic search to Claude Code
 - [[Turbopuffer]] — vector database used in semantic search experiments
 - [[ContextBench]] — benchmark used to evaluate Claude Code's code retrieval
-- [[AgenticSearch]] — the grep-based search Claude Code uses by default
+- [[Agentic Search]] — the grep-based search Claude Code uses by default

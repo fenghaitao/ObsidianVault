@@ -2,7 +2,7 @@
 title: "Golden Dataset"
 type: concept
 tags: [evals, data, testing, ground-truth]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize.md"]
 last_updated: 2026-06-30
 ---
 
@@ -23,8 +23,8 @@ A Golden Dataset is a reference set of input-output pairs representing the "corr
 - [[EvalEngineering]] — practice of building evals around golden datasets
 - [[OfflineEvals]] — evaluation mode using golden datasets
 - [[Agent Optimization]] — depends on golden datasets for scoring
-- [[LLM-as-Judge]] — alternative (inferior) evaluation approach
-- [[Meta-Evaluation]] — validates judges against golden datasets
+- [[LLMAsJudge]] — alternative (inferior) evaluation approach
+- [[MetaEvaluation]] — validates judges against golden datasets
 - [[OverfittingAsExpertise]] — the trade-off when optimizing against a dataset
 - [[DataFlywheel]] — golden datasets grow through the flywheel
 - [[summary-20260507 - Agent Optimization with Pydantic AI： GEPA, Evals, Feedback Loops — Samuel Colvin, Pydantic]] — source

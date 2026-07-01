@@ -27,5 +27,5 @@ Jonas Templestein from Iterate presents a workshop on building an event-sourced 
 - [[EventSourcing]] — core architectural pattern
 - [[AgentHarness]] — agent harness design
 - [[StreamProcessing]] — stream processor plugins
-- [[ServerSentEvents]] — SSE for streaming agent events
+- [[ServerSent Events]] — SSE for streaming agent events
 - [[Pi]] — referenced as inspiration for agent extensibility

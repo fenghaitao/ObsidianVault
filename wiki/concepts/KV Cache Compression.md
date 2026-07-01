@@ -25,4 +25,4 @@ KV Cache Compression is the technique of reducing the memory footprint of the ke
 - [[Quantization]] — broader technique family
 - [[MLX]] — framework where it's implemented
 - [[OnDeviceAI]] — core concept
-- [[Context Compression]] — related concept
+- [[ContextCompression]] — related concept

@@ -22,6 +22,6 @@ Agent Quests are agent-suggested tasks in AgentCraft where agents proactively id
 - [[summary-20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon]] — source transcript
 - [[AgentCraft]] — the orchestrator implementing quests
 - [[Agent Campaigns]] — next level up in autonomy
-- [[RTS-Inspired Agent Orchestration]] — the broader paradigm
+- [[RTSInspired Agent Orchestration]] — the broader paradigm
 - [[Agent Orchestration]] — broader orchestration concept
 - [[Task Decomposition]] — related concept

@@ -31,6 +31,6 @@ The PostHog Wizard is an autonomous coding agent built by PostHog that automatic
 - [[Model Rot]] — problem it solves
 - [[Model Airplanes]] — technique it uses
 - [[Breadcrumbing]] — technique it uses
-- [[Inference-Time Interrogation]] — technique it uses
-- [[Fine-Grained Tool Permissions]] — security approach
+- [[InferenceTime Interrogation]] — technique it uses
+- [[FineGrained Tool Permissions]] — security approach
 - [[Autonomous Coding Agents]] — broader category

@@ -23,9 +23,9 @@ Andreas Kollegger and Zaid Zaim from Neo4j present context graphs for decision-a
 ## Related
 
 - [[Neo4j]] — graph database company
-- [[ContextGraphs]] — core concept
-- [[KnowledgeGraphs]] — graph data structure for AI
+- [[Context Graphs]] — core concept
+- [[Knowledge Graphs]] — graph data structure for AI
 - [[ContextEngineering]] — parent practice
-- [[AgentMemory]] — three-layer memory model
+- [[Agent Memory]] — three-layer memory model
 - [[DecisionAwareAgents]] — agents that understand why, not just what
 - [[Cypher]] — Neo4j query language

@@ -22,7 +22,7 @@ Before Hooks are pre-append filters that can intercept and potentially block eve
 
 ## Related
 
-- [[Event Sourcing]] — the architecture where before hooks apply
+- [[EventSourcing]] — the architecture where before hooks apply
 - [[Circuit Breaker Pattern]] — a legitimate use of before hooks
 - [[Stream Processor]] — the after-the-fact processing model that replaces before hooks
 - [[Push Subscriptions]] — the mechanism for external processors to contribute within the timeout window

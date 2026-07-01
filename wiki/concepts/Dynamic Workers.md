@@ -27,8 +27,8 @@ Dynamic Workers are a deployment mechanism for stream processors where the proce
 
 - [[Stream Processor]] — the programming model deployed by dynamic workers
 - [[Durable Streams]] — the event log where dynamic worker events are appended
-- [[Cloudflare Workers]] — the runtime for dynamic workers
+- [[CloudflareWorkers]] — the runtime for dynamic workers
 - [[Agent Harness]] — the system being built
-- [[Agent Extensibility]] — the broader extensibility goal
+- [[AgentExtensibility]] — the broader extensibility goal
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source
-- [[events.iterate.com]] — the implementation
+- [[Events.iterateCom]] — the implementation

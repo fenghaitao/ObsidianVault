@@ -23,4 +23,4 @@ Physical AI is Black Forest Labs' ultimate strategic direction — applying gene
 - [[Visual Intelligence]] — parent vision
 - [[WorldModels]] — enabling technology
 - [[Self Flow]] — training approach applied to robot actions
-- [[Self-Supervised Representation Learning]] — core learning paradigm
+- [[SelfSupervised Representation Learning]] — core learning paradigm

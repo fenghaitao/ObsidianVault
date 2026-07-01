@@ -22,7 +22,7 @@ Agent Campaigns are high-level, autonomous agent missions in AgentCraft where th
 ## Related
 - [[summary-20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon]] — source transcript
 - [[AgentCraft]] — the orchestrator implementing campaigns
-- [[RTS-Inspired Agent Orchestration]] — the broader paradigm
+- [[RTSInspired Agent Orchestration]] — the broader paradigm
 - [[Agent Quests]] — simpler agent-suggested tasks
 - [[Agent Channels]] — fully autonomous cron-based execution
 - [[Agent Orchestration]] — broader orchestration concept

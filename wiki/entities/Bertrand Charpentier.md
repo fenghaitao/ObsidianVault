@@ -24,4 +24,4 @@ Bertrand Charpentier is a speaker from Pruna who gave a talk at aiDotEngineer on
 - [[Performance Models]] — Pruna's core concept
 - [[Model Efficiency]] — core topic of the talk
 - [[Pareto Frontier]] — evaluation methodology advocated
-- [[State-of-the-Art Ambiguity]] — central problem discussed
+- [[StateOfTheArt Ambiguity]] — central problem discussed

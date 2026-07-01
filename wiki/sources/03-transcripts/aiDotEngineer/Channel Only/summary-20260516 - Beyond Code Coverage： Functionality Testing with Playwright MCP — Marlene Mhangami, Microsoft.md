@@ -73,12 +73,12 @@ Marlene Mhangami (Senior Developer Advocate at Microsoft and GitHub, Core AI gro
 - [[Playwright Agents]] — planner/generator/healer agent files
 - [[Work IQ]] — Microsoft M365 integration skill
 - [[TDD with AI]] — methodology
-- [[Red-Green TDD]] — specific TDD flavor
+- [[RedGreen TDD]] — specific TDD flavor
 - [[Functionality Testing]] — testing beyond code coverage
-- [[Self-Affirming Tests]] — AI-generated tests that don't validate behavior
+- [[SelfAffirming Tests]] — AI-generated tests that don't validate behavior
 - [[Code Coverage]] — limitations of coverage-focused testing
 - [[Clean Code Bases]] — prerequisite for AI productivity
-- [[AI-Generated Tests]] — risks and practices
+- [[AIGenerated Tests]] — risks and practices
 - [[Kyle Daigle]] — GitHub COO, commit stats source
 - [[SimonWillison]] — red-green TDD practitioner
 - [[DHH]] — TDD critic (2014)

@@ -27,5 +27,5 @@ Canvas as Agent Workspace is the concept of using a spatial canvas as the shared
 - [[TLDraw]] — platform implementing this concept
 - [[Fairies]] — concrete multi-agent implementation
 - [[Agent Workspaces]] — related concept from AgentCraft
-- [[Agent-Human Collaboration]] — the collaboration model
-- [[High-Bandwidth Artifacts]] — the interface paradigm
+- [[AgentHuman Collaboration]] — the collaboration model
+- [[HighBandwidth Artifacts]] — the interface paradigm

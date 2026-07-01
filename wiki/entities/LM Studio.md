@@ -28,6 +28,6 @@ LM Studio is a desktop AI studio application for downloading, running, and manag
 - [[MLX]] — main inference engine
 - [[MLX VLM]] — vision models powering LM Studio
 - [[LlamaCpp]] — supported inference engine
-- [[Liquid AI]] — models powered by LM Studio
+- [[LiquidAI]] — models powered by LM Studio
 - [[HuggingFace]] — model source
 - [[Local LLM Inference]] — core concept

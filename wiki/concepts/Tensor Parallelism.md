@@ -24,5 +24,5 @@ Tensor parallelism is a technique for distributing model inference across multip
 - [[EXO]] — app implementing tensor parallelism with RDMA
 - [[RDMA]] — the low-latency protocol that makes it practical
 - [[Thunderbolt]] — the physical interconnect
-- [[Event Sourcing]] — consistency mechanism for dynamic topologies
+- [[EventSourcing]] — consistency mechanism for dynamic topologies
 - [[Heterogeneous Computing]] — broader distribution strategy

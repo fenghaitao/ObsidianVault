@@ -25,5 +25,5 @@ Agent evaluation broadness is the principle that evaluating AI agents requires a
 - [[PhilHetzel]] — presenter who identified this gap
 - [[CrossFunctionalAgentTeams]] — diverse teams needed for broad evaluation
 - [[HumanAnnotation]] — domain expert evaluation of agent behavior
-- [[LLM-as-Judge]] — technique for covering broader evaluation surface
+- [[LLMAsJudge]] — technique for covering broader evaluation surface
 - [[EvalFlywheel]] — continuous evaluation loop connecting production to experimentation

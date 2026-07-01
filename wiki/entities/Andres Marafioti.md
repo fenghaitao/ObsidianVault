@@ -22,5 +22,5 @@ Andres (Andy) Marafioti leads multimodal research at Hugging Face. He is the cre
 - [[Reachy Mini]] — robot project he leads
 - [[HuggingFace]] — organization he works for
 - [[Coqui]] — TTS model he optimized
-- [[Speech-to-Speech Pipeline]] — open-source pipeline he maintains
+- [[SpeechToSpeech Pipeline]] — open-source pipeline he maintains
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source

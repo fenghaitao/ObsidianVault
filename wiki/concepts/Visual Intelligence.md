@@ -25,4 +25,4 @@ Visual Intelligence is Black Forest Labs' long-term vision and strategic directi
 - [[Flux]] — model family realizing this vision
 - [[Real-Time Generation]] — key enabler
 - [[Interactive Editing]] — key capability
-- [[Multi-Modal Generation]] — core component
+- [[MultiModal Generation]] — core component

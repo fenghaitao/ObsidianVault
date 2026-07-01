@@ -27,11 +27,11 @@ A Durable Stream is an append-only event log with offset tracking, serving as th
 
 ## Related
 
-- [[Event Sourcing]] — the architecture enabled by durable streams
+- [[EventSourcing]] — the architecture enabled by durable streams
 - [[Stream Processor]] — the programming model that consumes durable streams
 - [[Dynamic Workers]] — processors deployed via stream events
 - [[Push Subscriptions]] — server-push mechanism for distributed processing
 - [[Circuit Breaker Pattern]] — infinite loop protection
-- [[Server-Sent Events]] — the HTTP streaming protocol
+- [[ServerSent Events]] — the HTTP streaming protocol
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source
-- [[events.iterate.com]] — the implementation
+- [[Events.iterateCom]] — the implementation

@@ -19,4 +19,4 @@ Cognition is the company behind Devin, an AI coding tool. They had a presence at
 - [[summary-20251222 - No More Slop – swyx]] — source
 - [[Devin]] — their flagship AI coding tool
 - [[CodeSlop]] — problem their tools help address
-- [[ComputerUse]] — broader category of their technology
+- [[Computer Use]] — broader category of their technology

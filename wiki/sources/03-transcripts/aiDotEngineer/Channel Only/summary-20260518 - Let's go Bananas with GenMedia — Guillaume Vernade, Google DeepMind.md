@@ -35,7 +35,7 @@ Guillaume Vernade, Developer Advocate at Google DeepMind, delivers a hands-on wo
 - [[Nano Banana 2]] — image generation model
 - [[Veo]] — video generation model
 - [[Lyria]] — music generation model
-- [[Lyria Real-Time]] — real-time predictive music model
+- [[Lyria RealTime]] — real-time predictive music model
 - [[NotebookLM]] — referenced for podcast-style TTS
 - [[Gemini]] — foundation model used as orchestrator
 - [[VertexAI]] — enterprise AI platform

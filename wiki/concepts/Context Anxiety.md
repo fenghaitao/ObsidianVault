@@ -26,4 +26,4 @@ Context Anxiety is a model behavior where an AI agent becomes "nervous" as it ap
 - [[Smart Zone and Dumb Zone]] — related concept about context depth and performance
 - [[One Million Context Window]] — larger context windows reduce anxiety
 - [[Harness Evolution]] — how harnesses adapt as context anxiety is resolved
-- [[Server-Side Compaction]] — enables indefinite runs without anxiety
+- [[ServerSide Compaction]] — enables indefinite runs without anxiety

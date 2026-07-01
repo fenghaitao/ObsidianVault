@@ -27,10 +27,10 @@ Harness Engineering is the discipline of building systems, structures, and proce
 - [[Code is Free]] — foundational premise
 - [[Garbage Collection Day]] — systematic slop elimination practice
 - [[Reviewer Agents]] — CI-based automated code review
-- [[Just-in-time Context Surfacing]] — deferred instruction pattern
-- [[Non-functional Requirements Specification]] — writing down NFRs for agents
-- [[Persona-oriented Documentation]] — docs from different engineering perspectives
-- [[Context-efficient Code Structure]] — structuring repos for agent efficiency
+- [[JustInTime Context Surfacing]] — deferred instruction pattern
+- [[NonFunctional Requirements Specification]] — writing down NFRs for agents
+- [[PersonaOriented Documentation]] — docs from different engineering perspectives
+- [[ContextEfficient Code Structure]] — structuring repos for agent efficiency
 - [[LLM as Fuzzy Compiler]] — mental model
 - [[Code as Disposable Build Artifact]] — related paradigm
 - [[AgenticEngineering]] — broader paradigm

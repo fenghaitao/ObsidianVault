@@ -30,7 +30,7 @@ Andrew Wilson is a Solution Architect on Anthropic's Applied AI team based in Lo
 - [[Context Anxiety]] — model behavior discussed
 - [[Harness Evolution]] — co-evolution of models and harnesses
 - [[Agent Teams]] — sub-agent communication feature
-- [[Server-Side Compaction]] — feature enabling indefinite runs
+- [[ServerSide Compaction]] — feature enabling indefinite runs
 - [[One Million Context Window]] — 1M context GA release
 - [[Checkpoints]] — Claude Code 2.0 feature
 - [[ProgressiveDisclosure]] — skills mechanism for context efficiency

@@ -20,6 +20,6 @@ AOT (Ahead-of-Time) Compilation is the workflow required for deploying AI models
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[NPU]] — hardware requiring AOT compilation
-- [[Cross-platform deployment]] — JIT approach for CPU/GPU
-- [[LiteRT-LM]] — runtime supporting both AOT and JIT
+- [[CrossPlatform deployment]] — JIT approach for CPU/GPU
+- [[LiteRTLM]] — runtime supporting both AOT and JIT
 - [[LiteRT]] — framework supporting both paths

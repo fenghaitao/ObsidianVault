@@ -25,7 +25,7 @@ Antigravity is Google DeepMind's agentic IDE and platform. It presents as a Visu
 - [[KP Sawhney]] — engineer working on the platform
 - [[Ian Ballantyne]] — DevRel who demos the platform
 - [[AgentHarness]] — the underlying agent platform concept
-- [[ComputerUse]] — browser control capability
+- [[Computer Use]] — browser control capability
 - [[Agent Workspaces]] — shared workspace concept
 - [[Deep Research Agent]] — being re-architected on Antigravity
 - [[AgentToAgentCommunication]] — future direction for sub-agents

@@ -47,17 +47,17 @@ Louis Knight-Webb, founder of Vibe Canvas (Vibe Kanban), argues that as AI codin
 - "It increased my value as a human by doing this"
 
 ## Related
-- [[Louis Knight-Webb]] — speaker, founder of Vibe Canvas/Vibe Kanban
+- [[Louis KnightWebb]] — speaker, founder of Vibe Canvas/Vibe Kanban
 - [[Vibe Kanban]] — the startup/product
 - [[Plan and Review Shift]] — the core concept
-- [[Plan-Based Approach]] — upfront planning strategy
-- [[Review-Based Approach]] — YOLO-then-iterate strategy
+- [[PlanBased Approach]] — upfront planning strategy
+- [[ReviewBased Approach]] — YOLO-then-iterate strategy
 - [[Agent Runtime Duration]] — agents running for longer periods
 - [[Agent Parallelism]] — running multiple agents simultaneously
 - [[Focus Maxing]] — interface design for deep human focus
 - [[Plan vs Review Matrix]] — when to use each approach
 - [[aiDotEngineer]] — event host
-- [[SWE-bench]] — benchmark where Knight-Webb placed ahead of OpenAI
+- [[SWEBench]] — benchmark where Knight-Webb placed ahead of OpenAI
 - [[ClaudeCode]] — coding agent used as example
 - [[Codex]] — coding agent supported by Vibe Kanban
 - [[Cursor]] — coding agent referenced in timeline

@@ -20,7 +20,7 @@ Memory bandwidth is the rate at which data can be read from or written to memory
 
 ## Related
 - [[summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs]] — source
-- [[Memory-Bound vs Compute-Bound]] — the context for why bandwidth matters
+- [[MemoryBound vs ComputeBound]] — the context for why bandwidth matters
 - [[Heterogeneous Computing]] — strategy for balancing bandwidth and capacity
 - [[Intelligence Per Joule]] — metric that incorporates bandwidth efficiency
 - [[Apple]] — unified memory architecture with high capacity, moderate bandwidth

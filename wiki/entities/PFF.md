@@ -23,12 +23,12 @@ PFF is a sports data company that provides analytics to NFL and NCAA teams and o
 
 ## Related
 - [[MikeSpitz]] — engineering leader who presented the PFF case study
-- [[Post-Engineer Engineering Org]] — organizational model implemented at PFF
+- [[PostEngineer Engineering Org]] — organizational model implemented at PFF
 - [[ClaudeCode]] — AI coding agent used in the case study
 - [[Lightweight Design Document]] — agent-generated design document used in PFF's development flow
 - [[Huddles]] — meeting format used at PFF instead of standups
 - [[Autonomous QA Agent]] — QA agent integrated into PFF's deployment pipeline
-- [[Self-healing Agents]] — future direction for PFF's agent pipeline
+- [[SelfHealing Agents]] — future direction for PFF's agent pipeline
 - [[Trunk-Based Development]] — development model used at PFF
 - [[Service Repository Pattern]] — API design pattern used at PFF, encoded as a composable skill
 - [[Composable Skills]] — approach used at PFF to encode engineering patterns for agents

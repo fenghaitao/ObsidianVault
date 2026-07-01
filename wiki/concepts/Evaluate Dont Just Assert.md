@@ -26,8 +26,8 @@ Evaluate Don't Just Assert is the principle that agent systems cannot be validat
 - [[PhilippSchmid]] — speaker
 - [[Trust But Verify]] — the broader principle this implements
 - [[EvalPrimitives]] — the measurement infrastructure for evaluation
-- [[Non-Deterministic Agents]] — why assertions don't work
+- [[NonDeterministicAgents]] — why assertions don't work
 - [[AgenticEvaluations]] — the practice of evaluating agent systems
-- [[LLM as Judge]] — evaluation method for subjective outputs
-- [[Rubric-Based Evaluation]] — structured evaluation approach
-- [[Eval-Driven Development]] — development methodology based on evaluation
+- [[LLMAsJudge]] — evaluation method for subjective outputs
+- [[RubricBased Evaluation]] — structured evaluation approach
+- [[EvalDriven Development]] — development methodology based on evaluation

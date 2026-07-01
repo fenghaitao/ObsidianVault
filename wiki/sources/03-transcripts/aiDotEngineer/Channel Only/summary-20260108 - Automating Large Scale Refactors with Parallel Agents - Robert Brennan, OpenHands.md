@@ -27,12 +27,12 @@ Robert Brennan, co-founder and CEO of OpenHands, presents how parallel agent orc
 - [[Task Decomposition]] — Breaking large problems into agent-solvable sub-tasks
 - [[Context Sharing Between Agents]] — Strategies for sharing learned information
 - [[Dependency Graph Refactoring]] — Using dependency graphs to batch and order refactoring
-- [[Verifier-Fixer Pipeline]] — Two-step pipeline for identifying and fixing code issues
+- [[VerifierFixer Pipeline]] — Two-step pipeline for identifying and fixing code issues
 - [[Scaffolding Pattern]] — Temporary code enabling old and new systems to coexist
 - [[Batch Graph]] — Graph where nodes are file batches and edges are dependencies
 - [[CVE Remediation at Scale]] — Parallel agents scanning and fixing vulnerabilities
-- [[Cloud-Based Agent Sandboxes]] — Containerized cloud environments for agent execution
-- [[Human-in-the-Loop Orchestration]] — Human review at intermediate orchestration steps
+- [[CloudBased Agent Sandboxes]] — Containerized cloud environments for agent execution
+- [[HumanInTheLoop Orchestration]] — Human review at intermediate orchestration steps
 - [[Parallel Agents]] — Running multiple agents concurrently
-- [[Sub-agent Orchestration]] — Pattern for agent architecture
+- [[SubAgent Orchestration]] — Pattern for agent architecture
 - [[Context Management]] — Techniques for managing agent context

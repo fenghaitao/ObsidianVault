@@ -21,9 +21,9 @@ AI as Orchestrator, Human as Hands is a collaboration model where an AI agent di
 - The reversal of roles is possible because AI excels at analytical reasoning across large search spaces, while humans remain better at physical world interaction
 
 ## Related
-- [[AI-Assisted Hardware Reverse Engineering]] — methodology where this collaboration model was demonstrated
+- [[AIAssisted Hardware Reverse Engineering]] — methodology where this collaboration model was demonstrated
 - [[Boris Starkov]] — engineer who described this model
 - [[ClaudeCode]] — AI that orchestrated the process
-- [[Agent-Human Collaboration]] — broader category of human-AI interaction patterns
+- [[AgentHuman Collaboration]] — broader category of human-AI interaction patterns
 - [[Computer Use]] — capability that could close the loop for full automation
 - [[summary-20260529 - Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs]] — source

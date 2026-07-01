@@ -18,7 +18,7 @@ A Meta Model is a structured map of how a domain is organized, showing relations
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology that benefits from meta models
+- [[DemandDriven Context]] — methodology that benefits from meta models
 - [[Context Blocks]] — organized according to the meta model
 - [[Knowledge Curation]] — process informed by the meta model
 - [[Ubiquitous Language]] — related domain modeling concept

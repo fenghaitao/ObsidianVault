@@ -22,5 +22,5 @@ Cache Compute is the thesis that embeddings and vector search act as a form of c
 - [[SemanticCodeRetrieval]] — the application of this concept to code search
 - [[VectorDatabases]] — the storage layer for cached embeddings
 - [[Turbopuffer]] — vector database company behind this thesis
-- [[TokenOptimization]] — related concept of reducing token usage
+- [[Token Optimization]] — related concept of reducing token usage
 - [[summary-20260603 - Benchmarking semantic code retrieval on Claude Code — Kuba Rogut, Turbopuffer]] — source

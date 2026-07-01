@@ -27,7 +27,7 @@ Zubin Koticha is the CEO and co-founder of Raindrop, an agent observability plat
 ## Related
 - [[summary-20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop]] — source transcript
 - [[Raindrop]] — company
-- [[Danny Gollapalli]] — co-presenter, back-end engineer
+- [[DannyGollapalli]] — co-presenter, back-end engineer
 - [[AgentObservability]] — core concept
 - [[ImplicitSignals]] — concept introduced
 - [[ExplicitSignals]] — concept introduced

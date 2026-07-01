@@ -21,7 +21,7 @@ The model repair step is a stage in the edit prediction training pipeline where 
 - [[summary-20260530 - How We Built Zeta2： Training an Edit Prediction Model in Production — Ben Kunkle, Zed]] — source
 - [[TeacherStudentDistillation]] — the pipeline this step belongs to
 - [[EditPrediction]] — the task being trained for
-- [[Verifier-Fixer Pipeline]] — analogous pipeline pattern
+- [[VerifierFixer Pipeline]] — analogous pipeline pattern
 - [[OfflineEvals]] — evaluation methodology used for heuristic checks
 - [[BenKunkle]] — presenter
 - [[Zed]] — company using this approach

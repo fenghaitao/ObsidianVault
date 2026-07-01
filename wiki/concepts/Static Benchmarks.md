@@ -16,7 +16,7 @@ Static benchmarks are fixed evaluation datasets used to measure AI model or agen
 - **Core limitation**: AI applications are not static, but static benchmarks treat them as if they were. When agent harnesses self-modify (e.g., [[OpenClaw]] creating skills and adapting behavior), static benchmarks cannot keep pace.
 - **Failure mode**: Organizations build enormous datasets to approximate agent behavior, but these only work until something goes wrong — and something always goes wrong
 - **The gap**: Software engineering evolved through unit tests → regression suites → CI/CD → chaos engineering. AI evaluation has largely stopped at the static benchmark stage, missing the chaos engineering equivalent.
-- **Contrast with adaptive approaches**: [[Malleable Evals]], [[Adaptive Testing For LLMs]], and [[Self-Curating Test Suites]] represent the evolution beyond static benchmarks
+- **Contrast with adaptive approaches**: [[Malleable Evals]], [[Adaptive Testing For LLMs]], and [[SelfCurating Test Suites]] represent the evolution beyond static benchmarks
 
 ## Related
 
@@ -25,6 +25,6 @@ Static benchmarks are fixed evaluation datasets used to measure AI model or agen
 - [[Malleable Evals]] — the proposed alternative
 - [[Eval Calcification]] — the long-term consequence of relying on static benchmarks
 - [[Adaptive Testing For LLMs]] — methodology for evolving beyond static benchmarks
-- [[Self-Curating Test Suites]] — mechanism for generating dynamic benchmarks
-- [[Intent-Based Outcomes]] — evaluation philosophy that replaces static answer comparison
+- [[SelfCurating Test Suites]] — mechanism for generating dynamic benchmarks
+- [[IntentBased Outcomes]] — evaluation philosophy that replaces static answer comparison
 - [[OnlineEvals]] — continuous evaluation that supplements static benchmarks

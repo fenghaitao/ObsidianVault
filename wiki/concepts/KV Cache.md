@@ -21,7 +21,7 @@ KV Cache (Key-Value Cache) is a memory optimization used in autoregressive trans
 ## Related
 - [[CUDA Graph Capture]] — optimization enabled by static KV cache
 - [[KV Cache Compression]] — techniques for reducing KV cache size
-- [[Real-Time Factor]] — performance metric improved
+- [[RealTime Factor]] — performance metric improved
 - [[Coqui]] — TTS model optimized with static KV cache
-- [[Ahead-of-Time Compilation]] — related optimization concept
+- [[AheadOfTime Compilation]] — related optimization concept
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source

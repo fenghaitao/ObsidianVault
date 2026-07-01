@@ -83,18 +83,18 @@ Neil Zeghidour, CEO of Gradium AI (a spin-off from Kyutai), delivers a pragmatic
 - [[PersonalPlex]] — Nvidia model based on Moshi
 - [[Voice AI]] — the overall domain
 - [[Cascaded Systems (Voice)]] — STT → LLM → TTS architecture
-- [[Speech-to-Speech Models]] — single-model alternative
+- [[SpeechToSpeech Models]] — single-model alternative
 - [[Full Duplex]] — true bidirectional voice conversation
 - [[Half Duplex]] — either listening or speaking
 - [[Back Channeling]] — conversational acknowledgments
 - [[Paralinguistic Understanding]] — tone and emotion cues
 - [[Fillers (Voice AI)]] — keeping conversation going during tool calls
-- [[On-Device TTS]] — local text-to-speech processing
+- [[OnDevice TTS]] — local text-to-speech processing
 - [[Voice Cloning]] — cloning from short audio samples
 - [[Semantic VAD]] — voice activity detection
 - [[Streaming TTS]] — low-latency text-to-speech
 - [[Voice AI Cost]] — economics of voice AI
 - [[Her Moment]] — the ideal of natural AI voice
-- [[Tool Calling]] — LLM function calls
+- [[ToolCalling]] — LLM function calls
 - [[Latency]] — response time in conversation
 - [[aiDotEngineer]] — event host

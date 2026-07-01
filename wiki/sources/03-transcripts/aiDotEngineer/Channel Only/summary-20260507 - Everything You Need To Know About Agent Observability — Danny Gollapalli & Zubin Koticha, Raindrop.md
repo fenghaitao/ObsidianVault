@@ -75,8 +75,8 @@ Zubin Koticha (CEO) and Danny Gollapalli (back-end engineer) of Raindrop present
 - **PII and experiments**: Query API allows customers to export signal tags and run experiments in their own systems (BigQuery, Statsig)
 
 ## Related
-- [[Danny Gollapalli]] — speaker, back-end engineer at Raindrop
-- [[Zubin Koticha]] — speaker, CEO and co-founder of Raindrop
+- [[DannyGollapalli]] — speaker, back-end engineer at Raindrop
+- [[ZubinKoticha]] — speaker, CEO and co-founder of Raindrop
 - [[Raindrop]] — agent observability platform
 - [[AgentObservability]] — the core concept
 - [[ImplicitSignals]] — semantic signals (regex, classifiers, self-diagnostics)

@@ -24,7 +24,7 @@ Executable specifications are human-readable descriptions of product behavior th
 ## Related
 
 - [[summary-20260603 - BDD, ADR, PRD, WTF： Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence]] — source
-- [[Behavior-Driven Development (BDD)]] — the practice that produces executable specifications
+- [[BehaviorDriven Development (BDD)]] — the practice that produces executable specifications
 - [[Cucumber]] — the tool for creating executable specifications
 - [[SpecificationDrivenDevelopment]] — the paradigm that executable specifications validate
 - [[Decision Capture Loop]] — the enforcement loop that runs executable specifications

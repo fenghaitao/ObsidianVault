@@ -26,7 +26,7 @@ Codeium is an AI developer tools company building an IDE plugin for code generat
 - [[summary-20240731 - How Codeium Breaks Through the Ceiling for Retrieval： Kevin Hou]] — source transcript
 - [[FullVerticalIntegration]] — company strategy
 - [[Recall@50]] — retrieval metric used
-- [[Product-Driven Benchmarks]] — evaluation approach
+- [[ProductDriven Benchmarks]] — evaluation approach
 - [[Embedding Ceiling]] — problem they address
 - [[RAG]] — retrieval augmented generation
 - [[GitHubCopilot]] — competitor

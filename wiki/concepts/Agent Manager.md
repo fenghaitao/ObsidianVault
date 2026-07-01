@@ -26,4 +26,4 @@ last_updated: 2026-06-30
 - [[AI Comprehension]] — the core skill of an agent manager
 - [[Catch Me Up Skill]] — tool used by the agent manager
 - [[Agent Parallelism]] — managing multiple agents simultaneously
-- [[Agent-Human Collaboration]] — the broader paradigm
+- [[AgentHuman Collaboration]] — the broader paradigm

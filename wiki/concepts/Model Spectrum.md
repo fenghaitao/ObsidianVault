@@ -20,7 +20,7 @@ The Model Spectrum is a continuum describing the trade-off between convenience a
 ## Related
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Frontier API]] — left end of the spectrum
-- [[Fine-tuning]] — the middle ground
-- [[Domain-Specific Models]] — the outcome of moving right on the spectrum
+- [[FineTuning]] — the middle ground
+- [[DomainSpecific Models]] — the outcome of moving right on the spectrum
 - [[Serverless Training]] — enabler of the middle ground
 - [[Model Customization]] — broader framework

@@ -28,5 +28,5 @@ Elicitation is an MCP protocol feature that allows a tool to request additional 
 - [[DavidSoriaParra]] — called out elicitation as an underused MCP capability
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (elicitation as control mechanism in agent-human collaboration)
 - [[Decision Log]] — non-blocking elicitation pattern: agents make decisions and log them for later human review
-- [[Agent-Human Collaboration]] — framework where elicitation increases control
+- [[AgentHuman Collaboration]] — framework where elicitation increases control
 - [[JacobLauritzen]] — presented elicitation as a way to increase control in agent-human collaboration

@@ -19,7 +19,7 @@ The Network as Sandbox is an architectural pattern where the network layer serve
 - **Application**: [[Aperture (Tailscale)]] is the primary example — an AI gateway where agents connect via network identity with no API keys.
 
 ## Related
-- [[Network-Level Identity]] — the identity mechanism that enables this pattern
+- [[NetworkLevel Identity]] — the identity mechanism that enables this pattern
 - [[Keyless Agent Sandbox]] — the agent-side benefit of this approach
 - [[AI Gateway]] — the gateway pattern that implements network-as-sandbox for LLMs
 - [[Agent Sandboxing]] — traditional sandboxing approaches

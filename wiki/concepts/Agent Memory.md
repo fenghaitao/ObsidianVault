@@ -38,7 +38,7 @@ Agent memory is the capability for an AI agent to remember user preferences, pro
 - [[CrewAI]] — framework with shared memory and training features
 - [[AgentCrewOrchestration]] — orchestration pattern relying on shared memory
 - [[AgentTraining]] — baking instructions into agent memory for consistency
-- [[Multi-Turn Conversations]] — related but distinct (same-session context)
+- [[MultiTurn Conversations]] — related but distinct (same-session context)
 - [[Context Management]] — broader context handling techniques
 - [[General AI Agent]] — philosophy that benefits from memory
 - [[n8n]] — platform with built-in simple memory and external memory options

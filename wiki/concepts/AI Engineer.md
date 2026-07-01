@@ -25,4 +25,4 @@ The AI Engineer is an emerging role defined by swyx as a practitioner who builds
 - [[AI Developer Tools]]
 - [[Prompt Engineering]]
 - [[RAG]]
-- [[Fine-tuning]]
+- [[FineTuning]]

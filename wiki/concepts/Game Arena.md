@@ -43,7 +43,7 @@ Game Arena is Kaggle's PvP (player-versus-player) benchmark platform where AI mo
 - [[BenchmarkSaturation]] — problem Game Arena addresses
 - [[PvP Benchmarking]] — evaluation paradigm
 - [[Elo Score]] — rating system used
-- [[Bradley-Terry Pairing]] — statistical scheduling technique
+- [[BradleyTerry Pairing]] — statistical scheduling technique
 - [[OpenSpiel]] — RL framework for games
 - [[Kaggle]] — platform hosting Game Arena
 - [[GoogleDeepMind]] — parent organization

@@ -25,6 +25,6 @@ Cryptographic proof in agents is the technique of using cryptographic hashes (e.
 - [[summary-20260530 - How I deleted 95% of my agent skills and got better results — Nick Nisi, WorkOS]] — source
 - [[NickNisi]] — originated the technique
 - [[Case]] — agent harness using this
-- [[Evidence-Based Verification]] — the broader principle
+- [[EvidenceBased Verification]] — the broader principle
 - [[State Machine Gates]] — the enforcement mechanism
 - [[Enforce Dont Instruct]] — the companion principle

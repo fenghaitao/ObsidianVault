@@ -47,7 +47,7 @@ Spotify is a global audio streaming platform with 750M+ monthly active users, 10
 - [[User Embeddings]] — core personalization primitive
 - [[Semantic IDs]] — catalog understanding technique
 - [[Soft Tokenization]] — personalization via LLM token space
-- [[Cross-Content Modeling]] — embedding users and content together
+- [[CrossContent Modeling]] — embedding users and content together
 - [[Generative Recommender Systems]] — paradigm shift from traditional recs
 - [[Taste Profile]] — user-facing personalization feature
 - [[AI DJ]] — conversational recommendation product

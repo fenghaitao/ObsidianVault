@@ -28,4 +28,4 @@ Task Fidelity Scaling Laws describe the empirical relationship between the quali
 - [[BenchmarkSaturation]] — related concept about benchmarks losing signal
 - [[Underspecification in Agentic Tasks]] — common cause of low-quality tasks
 - [[Expert in the Loop]] — Snorkel's approach to ensuring data quality
-- [[Inter-Annotator Agreement]] — quality validation technique
+- [[InterAnnotator Agreement]] — quality validation technique

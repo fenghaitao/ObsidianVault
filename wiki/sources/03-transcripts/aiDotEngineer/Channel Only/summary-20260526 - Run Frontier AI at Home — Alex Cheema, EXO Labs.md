@@ -31,15 +31,15 @@ Alex Cheema presents EXO Labs' mission to drive down the cost of running frontie
 - [[Hazy Research]] — Stanford group behind intelligence per watt research
 - [[Exocortex]] — the idea that AI is an extension of human cognition
 - [[Hardware Lottery]] — concept that research is biased toward available hardware
-- [[Full-Stack Co-Design]] — optimizing across models, software, and hardware together
-- [[Memory-Bound vs Compute-Bound]] — inference characteristic distinction
+- [[FullStack CoDesign]] — optimizing across models, software, and hardware together
+- [[MemoryBound vs ComputeBound]] — inference characteristic distinction
 - [[Intelligence Per Joule]] — metric for model efficiency
-- [[S-Curve of Intelligence Returns]] — diminishing returns on model intelligence
+- [[SCurve of Intelligence Returns]] — diminishing returns on model intelligence
 - [[Citizen Science]] — community-driven experimentation with AI tools
 - [[Memory Bandwidth]] — key bottleneck for local inference
 - [[Heterogeneous Computing]] — mixing different hardware types for inference
 - [[Tensor Parallelism]] — distributing tensor operations across machines
-- [[Test-Time Training]] — updating model weights during inference
+- [[TestTime Training]] — updating model weights during inference
 - [[Model Pruning]] — removing parts of a model for efficiency
 - [[Nvidia]] — GPU hardware (RTX 5090, Spark, H100)
 - [[Apple]] — Mac Studio, MacBook, Apple Silicon, M3/M4/M5 chips

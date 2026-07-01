@@ -36,7 +36,7 @@ Data quality is the critical factor in AI training outcomes, and this extends to
 ## Concepts Introduced
 
 - [[Task Fidelity Scaling Laws]] — Empirical finding that higher-quality agentic benchmark tasks produce ~5x better RL training outcomes (6% vs 1% improvement)
-- [[Inter-Annotator Agreement]] — Measuring agreement between human annotators and between LLM judges and humans to validate quality assessment; used by Snorkel with rubric-based criteria
+- [[InterAnnotator Agreement]] — Measuring agreement between human annotators and between LLM judges and humans to validate quality assessment; used by Snorkel with rubric-based criteria
 - [[Expert in the Loop]] — Using human domain experts to guide data generation and quality assurance, combined with LLM judges to scale the process
 - [[Task Quality in Agentic Benchmarks]] — Four criteria (achievable, non-trivial, functionally correct, environment reliable) defining high-quality agentic tasks; quality directly impacts training outcomes
 - [[Underspecification in Agentic Tasks]] — Task definitions that fail to clearly specify desired testable outcomes, causing mismatches between requested behavior and backend test expectations

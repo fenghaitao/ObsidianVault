@@ -27,21 +27,21 @@ Agent orchestration is the practice of coordinating multiple AI coding agents wo
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
 - [[Task Decomposition]] — prerequisite for orchestration
 - [[Parallel Agents]] — agents running concurrently
-- [[Sub-agent Orchestration]] — related architecture pattern
+- [[SubAgent Orchestration]] — related architecture pattern
 - [[Context Sharing Between Agents]] — coordination mechanism
-- [[Human-in-the-Loop Orchestration]] — review pattern
-- [[Cloud-Based Agent Sandboxes]] — infrastructure for orchestration
+- [[HumanInTheLoop Orchestration]] — review pattern
+- [[CloudBased Agent Sandboxes]] — infrastructure for orchestration
 - [[CVE Remediation at Scale]] — example use case
 - [[Paperclip]] — agent orchestrator with org-chart-based multi-agent coordination
 - [[AgentOrgChart]] — Paperclip's hierarchical orchestration model
 - [[summary-20260415 - Paperclip： Open Source Human Control Plane for AI Labor — Dotta Bippa]] — source
 - [[AgentCraft]] — gaming-inspired agent orchestrator with RTS-style visualization
-- [[RTS-Inspired Agent Orchestration]] — AgentCraft's gaming-inspired paradigm
+- [[RTSInspired Agent Orchestration]] — AgentCraft's gaming-inspired paradigm
 - [[Agent Campaigns]] — autonomous containerized agent missions
 - [[Agent Collision Detection]] — heat map visualization of file conflicts
 - [[Agent Channels]] — cron-based autonomous agent execution
 - [[summary-20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon]] — source
 - [[summary-20260501 - Agents on the Canvas in tldraw — Steve Ruiz, tldraw]] — source (leader-follower canvas orchestration)
-- [[Leader-Follower Agent Pattern]] — spatial canvas-based orchestration model
+- [[LeaderFollower Agent Pattern]] — spatial canvas-based orchestration model
 - [[Fairies]] — multi-agent canvas implementation
 - [[Canvas as Agent Workspace]] — spatial shared state for orchestration

@@ -17,6 +17,6 @@ Pass@k is an evaluation metric measuring whether a coding agent successfully sol
 - **Trade-off**: Pass@5 captures model potential but may overstate practical reliability; pass all 5 captures reliability but may understate capability.
 
 ## Related
-- [[SWE-rebench]] — benchmark using this metric
+- [[SWERebench]] — benchmark using this metric
 - [[Trajectory Analysis]] — complementary analysis approach
 - [[summary-20260604 - SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius]] — source transcript

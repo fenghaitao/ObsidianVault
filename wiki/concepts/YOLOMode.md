@@ -17,4 +17,4 @@ YOLO mode is a Claude Code setting that skips permission confirmations for tool 
 ## Related
 - [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — source
 - [[ClaudeCode]] — where YOLO mode exists
-- [[SwissCheeseDefense]] — the security model YOLO mode relaxes`r`n- [[Review-Based Approach]] — the "YOLO a prompt and iterate" strategy for AI coding agents
+- [[SwissCheeseDefense]] — the security model YOLO mode relaxes`r`n- [[ReviewBased Approach]] — the "YOLO a prompt and iterate" strategy for AI coding agents

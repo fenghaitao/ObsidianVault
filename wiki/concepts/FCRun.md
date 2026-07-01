@@ -12,7 +12,7 @@ FC Run (also spelled FCRun or F Crun) is an open-source Docker-like CLI tool dev
 
 ## Key Information
 
-- **Developer**: [[Trigger.dev]]
+- **Developer**: [[TriggerDev]]
 - **Status**: Open source, to be released soon (as of May 2026)
 - **Interface**: Docker-like CLI — can be used as a drop-in replacement for the Docker command
 - **Core capabilities**:
@@ -31,7 +31,7 @@ FC Run (also spelled FCRun or F Crun) is an open-source Docker-like CLI tool dev
 ## Related
 
 - [[Firecracker]] — the microVM technology
-- [[Trigger.dev]] — the company behind FC Run
+- [[TriggerDev]] — the company behind FC Run
 - [[Eric Allam]] — Trigger.dev CEO
 - [[Snapshot and Restore]] — the durability approach enabled by FC Run
 - [[Execution Snapshot]] — the captured VM state

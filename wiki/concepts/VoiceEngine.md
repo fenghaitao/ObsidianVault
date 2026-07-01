@@ -27,7 +27,7 @@ Voice Engine is an ElevenLabs product that provides a first-class primitive for 
 - [[Chat Agents]] — the agents that Voice Engine wraps
 - [[Turn Taking]] — key capability in Voice Engine
 - [[Agent Wrapper Pattern]] — architectural pattern Voice Engine implements
-- [[Omni-Channel Voice]] — capability unlocked by Voice Engine
+- [[OmniChannel Voice]] — capability unlocked by Voice Engine
 - [[shadcn]] — UI component style used
 - [[Vercel]] — UI component style reference
 - [[Chat Agents]] — baseline paradigm Voice Engine upgrades

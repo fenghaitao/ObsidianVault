@@ -21,4 +21,4 @@ FFmpeg is a multimedia framework for processing video and audio. In the context 
 - [[BashTool]] — the mechanism that enables FFmpeg usage
 - [[JQ]] — another CLI tool usable via bash
 - [[LibreOffice]] — another existing software usable via bash
-- [[AI-Generated Security Reports]] — problem FFmpeg has publicly complained about
+- [[AIGenerated Security Reports]] — problem FFmpeg has publicly complained about

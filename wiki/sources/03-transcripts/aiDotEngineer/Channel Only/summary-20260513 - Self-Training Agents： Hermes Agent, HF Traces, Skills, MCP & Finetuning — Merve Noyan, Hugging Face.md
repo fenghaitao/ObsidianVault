@@ -39,7 +39,7 @@ Merve Noyan presents the Hugging Face open agent ecosystem as a comprehensive st
 - [[MLX]] — Apple Silicon framework with quantized models on HF Hub
 
 ## Concepts
-- [[Self-Training Agents]] — agents that improve by training on their own traces
+- [[SelfTraining Agents]] — agents that improve by training on their own traces
 - [[Hugging Face Traces]] — dataset repository type for agent execution traces
 - [[Hugging Face Skills]] — skill suite for agents to manage HF Hub (train, deploy, explore)
 - [[Hugging Face MCP Server]] — MCP integration for HF Hub resources

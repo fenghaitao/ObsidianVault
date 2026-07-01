@@ -21,7 +21,7 @@ Agent Parallelism is the practice of running multiple AI coding agents simultane
 
 ## Related
 - [[summary-20260502 - Software Engineering Is Becoming Plan and Review — Louis Knight-Webb, Vibe Kanban]] — source
-- [[Louis Knight-Webb]] — articulated the concept
+- [[Louis KnightWebb]] — articulated the concept
 - [[Vibe Kanban]] — tool built for this workflow
 - [[Agent Runtime Duration]] — the trend that necessitates parallelism
 - [[Focus Maxing]] — the complementary design principle

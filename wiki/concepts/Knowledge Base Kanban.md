@@ -20,7 +20,7 @@ A Knowledge Base Kanban is a structured board of documentation gaps produced by 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[Context Gap Scanner]] — produces the Kanban board
-- [[Demand-Driven Context]] — methodology the Kanban supports
+- [[DemandDriven Context]] — methodology the Kanban supports
 - [[Kanban Board for AI Tasks]] — related concept for AI task tracking
 - [[Knowledge Curation]] — the process of resolving Kanban items
 - [[Agent as Knowledge Manager]] — agent role in maintaining the Kanban

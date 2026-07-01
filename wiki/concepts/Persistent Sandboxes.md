@@ -27,4 +27,4 @@ Persistent sandboxes (also called named sandboxes) are sandbox instances identif
 - [[Agent Sandboxing]] — isolation practice
 - [[File System Memory]] — memory pattern enabled by persistent sandboxes
 - [[BashTool]] — primary tool for interacting with sandbox file systems
-- [[Cloud-Based Agent Sandboxes]] — broader category
+- [[CloudBased Agent Sandboxes]] — broader category

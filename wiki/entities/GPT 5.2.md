@@ -26,7 +26,7 @@ GPT 5.2 is an OpenAI model release from late 2025 that Ryan Lopopolo identifies 
 - [[GPT 5.4]] — successor with even higher verbosity (1.2M LOC)
 - [[Code is Free]] — paradigm it enabled
 - [[RyanLopopolo]] — identified the inflection point
-- [[Auto-compaction]] — improved in subsequent release GPT 5.4
+- [[AutoCompaction]] — improved in subsequent release GPT 5.4
 - [[Code Verbosity]] — quality concern highlighted in evaluation
 - [[Sonar Leaderboard]] — evaluation context
 - [[Opus 4.5]] — parallel inflection point model

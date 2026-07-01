@@ -17,5 +17,5 @@ Pentress is a company cited by Benjamin Cowen as achieving "orders of magnitude"
 ## Related
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Benjamin Cowen]] — speaker who referenced Pentress
-- [[Fine-tuning]] — technique used
+- [[FineTuning]] — technique used
 - [[Intercom]] — another company with similar fine-tuning success

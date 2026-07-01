@@ -21,7 +21,7 @@ Agent Collision Detection is a feature in AgentCraft that uses heat maps to visu
 ## Related
 - [[summary-20260425 - AgentCraft： Putting the Orc in Orchestration — Ido Salomon]] — source transcript
 - [[AgentCraft]] — the orchestrator implementing collision detection
-- [[RTS-Inspired Agent Orchestration]] — the broader paradigm
+- [[RTSInspired Agent Orchestration]] — the broader paradigm
 - [[Agent Orchestration]] — broader orchestration concept
 - [[AgentVisualization]] — related visualization concept
 - [[Parallel Agents]] — the context where collision detection matters most

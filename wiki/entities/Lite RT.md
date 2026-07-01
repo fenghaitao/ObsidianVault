@@ -41,4 +41,4 @@ Lite RT is Google's on-device ML inference framework, built on TensorFlow Lite, 
 - [[NPU Acceleration]] — hardware acceleration
 - [[Model Explorer (tool)]] — graph visualization tool
 - [[AI Edge Portal]] — benchmarking service
-- [[Ahead-of-Time Compilation]] — compilation strategy
+- [[AheadOfTime Compilation]] — compilation strategy

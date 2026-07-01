@@ -31,5 +31,5 @@ Moshi is the first full-duplex speech-to-speech conversational model, developed 
 - [[Gradium AI]] — for-profit spin-off
 - [[PersonalPlex]] — Nvidia model based on Moshi
 - [[Full Duplex]] — key capability
-- [[Speech-to-Speech Models]] — model category
+- [[SpeechToSpeech Models]] — model category
 - [[Voice AI]] — domain

@@ -20,7 +20,7 @@ The 1 Million Context Window is a Claude feature that provides a 1 million token
 
 ## Related
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
-- [[Server-Side Compaction]] — complementary feature
+- [[ServerSide Compaction]] — complementary feature
 - [[Context Management]] — broader category
 - [[Context Anxiety]] — problem larger windows help mitigate
 - [[Context Rot]] — still relevant even with large windows

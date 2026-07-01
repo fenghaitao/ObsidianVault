@@ -21,5 +21,5 @@ Qualcomm is a semiconductor company and hardware partner for Google AI Edge, pro
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
 - [[NPU]] — hardware acceleration technology
 - [[Google AI Edge]] — partner
-- [[LiteRT-LM]] — runtime optimized for Qualcomm hardware
+- [[LiteRTLM]] — runtime optimized for Qualcomm hardware
 - [[Samsung]] — device manufacturer using Qualcomm chips

@@ -19,5 +19,5 @@ Docker is a containerization platform. In the OpenHands architecture, Docker con
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
 - [[OpenHands]] — platform using Docker for agent sandboxes
 - [[Kubernetes]] — container orchestration for scaling
-- [[Cloud-Based Agent Sandboxes]] — concept enabled by Docker
+- [[CloudBased Agent Sandboxes]] — concept enabled by Docker
 - [[Agent Sandbox]] — related concept

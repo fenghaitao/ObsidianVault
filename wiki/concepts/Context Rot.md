@@ -25,8 +25,8 @@ Context rot is a failure mode in long-running AI agents where the context window
 - [[summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick]] — source (fresh context preference)
 - [[ContextExhaustion]] — related failure mode (window fills before work completes)
 - [[Context Management]] — broader practice
-- [[High-Bandwidth Artifacts]] — mitigation through persistent interfaces
-- [[Agent-Human Collaboration]] — framework for avoiding context rot
+- [[HighBandwidth Artifacts]] — mitigation through persistent interfaces
+- [[AgentHuman Collaboration]] — framework for avoiding context rot
 - [[JacobLauritzen]] — described this failure mode
 - [[ChrisParsons]] — fresh context preference for Ralph loops
 - [[Ralph Loop]] — pattern where context rot is a trade-off

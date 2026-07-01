@@ -36,4 +36,4 @@ In Matt Pocock's AI coding workflow, a Kanban Board is a set of independently gr
 - [[DAGvsLoopArchitecture]] — directed acyclic graph vs sequential
 - [[Knowledge Base Kanban]] — Demand-Driven Context's documentation gap board
 - [[Context Gap Scanner]] — produces the Knowledge Base Kanban
-- [[Demand-Driven Context]] — methodology using Kanban for knowledge gaps
+- [[DemandDriven Context]] — methodology using Kanban for knowledge gaps

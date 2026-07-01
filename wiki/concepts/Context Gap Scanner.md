@@ -21,7 +21,7 @@ The Context Gap Scanner is an automated tool that implements the Demand-Driven C
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology the scanner automates
+- [[DemandDriven Context]] — methodology the scanner automates
 - [[Knowledge Base Kanban]] — output format of the scanner
 - [[Agent Failure as Discovery]] — the principle the scanner operationalizes
 - [[Knowledge Base Monolith]] — what the scanner analyzes

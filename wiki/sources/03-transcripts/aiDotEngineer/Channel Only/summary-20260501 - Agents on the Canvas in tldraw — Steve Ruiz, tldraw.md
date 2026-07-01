@@ -56,16 +56,16 @@ AI agents work best as visible collaborators on a shared canvas rather than hidd
 ## Concepts
 
 - [[Agents on Canvas]] — agents as visible spatial collaborators rather than sidebar tools
-- [[Leader-Follower Agent Pattern]] — one agent elected leader, scouts, delegates, judges
+- [[LeaderFollower Agent Pattern]] — one agent elected leader, scouts, delegates, judges
 - [[Canvas as Agent Workspace]] — spatial canvas as shared state for multi-agent work
-- [[File-over-App]] — local-first philosophy validated by AI agent use cases
+- [[FileOverApp]] — local-first philosophy validated by AI agent use cases
 - [[Script Injection by AI]] — AI's willingness to modify running application code
 - [[Vision Model Training Conflicts]] — Y-axis, left/right ambiguity in vision training data
 - [[Make Real Pattern]] — draw → AI generates working prototype (precursor to vibe coding)
 - [[AgenticLoop]] — produce → review → iterate loop used for canvas generation
 - [[Agent Orchestration]] — leader-follower delegation and shared state management
 - [[AgentVisualization]] — visible agent state, thinking, and action on canvas
-- [[Agent-Human Collaboration]] — AI as collaborator on shared canvas vs. keyboard-stealing tool
+- [[AgentHuman Collaboration]] — AI as collaborator on shared canvas vs. keyboard-stealing tool
 - [[Structured Outputs]] — using structured data (shapes, circles) instead of image generation
 - [[Sandboxing]] — desktop app as sandbox boundary for risky agent actions
 - [[Computer Use]] — desktop app automation via HTTP endpoint and script execution

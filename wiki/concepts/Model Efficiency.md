@@ -25,4 +25,4 @@ Model efficiency is the consideration of compute cost, latency, energy consumpti
 - [[Model Pruning]] — compression technique for efficiency
 - [[ModelDistillation]] — compression technique for efficiency
 - [[StepCaching]] — technique for reducing denoising steps
-- [[State-of-the-Art Ambiguity]] — efficiency is a key dimension ignored in naive SOTA claims
+- [[StateOfTheArt Ambiguity]] — efficiency is a key dimension ignored in naive SOTA claims

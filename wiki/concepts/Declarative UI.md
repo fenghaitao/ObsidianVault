@@ -2,7 +2,7 @@
 title: "Declarative UI"
 type: concept
 tags: [mcp, mcp-apps, ui, generative-ui, json]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman.md"]
 last_updated: 2026-06-29
 ---
 
@@ -17,11 +17,23 @@ Declarative UI is one of three approaches to UI generation in the MCP Apps ecosy
 - The host maintains visual consistency while the app controls the content and structure
 - MCP Apps is agnostic to which approach is used
 - Related to Google's A2UI protocol for generative UI
+- **Ruben Casas perspective**: Declarative UI is the "perfect balance today" between flexibility and consistency — more personalized than static UI but still constrained to design system components, making it predictable, fast, and cheaper than full generative components
+- Precedent: Netflix has been doing personalized server-driven UI for years, mapping content to its component library
+- **JSON Render** (Vercel) is a leading tool: maps components using JSON and YAML, recently added YAML support
+- **FastMCP**: uses Python descriptors to map to predefined components
 
 ## Related
 - [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]] — source transcript
+- [[summary-20260603 - Beyond Components： Designing Generative UI for MCP Apps — Ruben Casas, Postman]] — source transcript
 - [[MCP Apps]] — the protocol
 - [[Predefined UI]] — alternative approach (black box)
 - [[GenerativeUI]] — alternative approach (model-generated)
 - [[A2UI]] — Google's generative UI protocol
 - [[MCPApplications]] — concept page for MCP Applications
+- [[JSON Render]] — Vercel tool for declarative UI
+- [[Vercel]] — creator of JSON Render
+- [[Netflix]] — precedent for server-driven personalized UI
+- [[FastMCP]] — uses Python descriptors for declarative UI
+- [[Static UI Generation]] — less dynamic alternative
+- [[Generative Components]] — more dynamic alternative
+- [[UI Generation Spectrum]] — overall framework

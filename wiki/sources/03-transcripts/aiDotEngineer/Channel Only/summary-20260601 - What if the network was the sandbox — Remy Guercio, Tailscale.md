@@ -38,24 +38,24 @@ What if authentication (authN) and authorization (authZ) moved from the applicat
 - [[Aperture (Tailscale)]] — Tailscale's AI gateway product; built on Tailscale identity primitives
 - [[WireGuard]] — VPN protocol that provides cryptographic key-based connections between nodes
 - [[TS Net]] — Open source Go library by Tailscale for building applications that use Tailscale identity
-- [[Claude Code]] — Anthropic's coding agent; demonstrated working with Aperture via dummy API key
+- [[ClaudeCode]] — Anthropic's coding agent; demonstrated working with Aperture via dummy API key
 - [[Anthropic]] — LLM provider; Claude models used via Aperture
 - [[OpenAI]] — LLM provider supported by Aperture
-- [[Google DeepMind]] — Provider of Gemini models supported by Aperture
+- [[GoogleDeepMind]] — Provider of Gemini models supported by Aperture
 - [[GitHub]] — GitHub Actions runners used as agent sandboxes; federated OIDC for tailnet access
 - [[Vertex AI]] — Google Cloud AI platform supported by Aperture
-- [[Amazon Bedrock]] — AWS AI platform supported by Aperture
+- [[AmazonBedrock]] — AWS AI platform supported by Aperture
 - [[Codex]] — OpenAI coding agent; can connect to Aperture
 - [[Gemini CLI]] — Google's CLI coding agent; can connect to Aperture
 
 ## Concepts Introduced
 
 - [[Network as Sandbox]] — Using the network layer as the sandbox boundary, with identity and permissions enforced at the connection level rather than inside the sandbox
-- [[Network-Level Identity]] — Carrying user, group, and tag identity on every network connection via WireGuard + Tailscale, enabling authN/authZ at the network layer
+- [[NetworkLevel Identity]] — Carrying user, group, and tag identity on every network connection via WireGuard + Tailscale, enabling authN/authZ at the network layer
 - [[Keyless Agent Sandbox]] — Agent sandboxes that contain zero API keys; identity is provided by the network connection itself, eliminating key exfiltration risk
 - [[AI Gateway]] — An LLM gateway pattern where a single provider key is placed on a gateway node that sees all connecting identity and enforces permissions, budgets, and observability at the network layer
 - [[Application Capabilities]] — Tailscale ACL feature for attaching arbitrary metadata to network identity, guaranteed by the control plane
-- [[Network-Level Observability]] — Guaranteed visibility into all agent tool calls because every request must pass through the network-layer gateway; cannot be bypassed by the agent
+- [[NetworkLevel Observability]] — Guaranteed visibility into all agent tool calls because every request must pass through the network-layer gateway; cannot be bypassed by the agent
 
 ## Related
 

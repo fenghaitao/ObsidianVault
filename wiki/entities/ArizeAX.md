@@ -2,7 +2,7 @@
 title: "Arize AX"
 type: entity
 tags: [product, enterprise, observability, eval, arize]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize.md"]
 last_updated: 2026-06-30
 ---
 
@@ -20,4 +20,6 @@ Arize AX is the commercial/enterprise version of the Arize platform, distinct fr
 ## Related
 - [[Arize]] — parent company
 - [[Phoenix]] — open-source counterpart
+- [[DatNgo]] — AI Architect who works with AX enterprise customers
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source
+- [[summary-20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize]] — source

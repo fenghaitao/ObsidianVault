@@ -18,6 +18,6 @@ Mergeability Scoring is a holistic evaluation approach for AI-generated code tha
 
 ## Related
 - [[summary-20251224 - Why Agent Hype can fall short of reality – Joel Becker, METR]] — source
-- [[SWE-bench]] — benchmark with unit-test-based scoring
+- [[SWEBench]] — benchmark with unit-test-based scoring
 - [[AIReliability]] — related concept: mergeability requires higher reliability
 - [[CodeSlop]] — code that might pass tests but fails mergeability criteria

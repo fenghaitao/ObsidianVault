@@ -16,5 +16,5 @@ Coursera is an online learning platform that hosts AI and machine learning cours
 
 ## Related
 - [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]] — source
-- [[deeplearning.ai]]
+- [[DeeplearningAi]]
 - [[Foundation Models]]

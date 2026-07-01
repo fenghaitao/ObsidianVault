@@ -23,4 +23,4 @@ File system as context engineering is the pattern of using the agent's file syst
 - [[summary-20260105 - Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic]] — source
 - [[BashTool]] — the mechanism for file system operations
 - [[ProgressiveContextDisclosure]] — skills as a file system pattern
-- [[ContextManagement]] — broader context management strategies
+- [[Context Management]] — broader context management strategies

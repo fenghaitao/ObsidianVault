@@ -29,5 +29,5 @@ The Data Flywheel is the virtuous cycle where evals drive data collection, data 
 - [[Impact Hierarchy]] — where to invest improvement effort
 - [[GenchiGenbutsu]] — the principle underlying direct data inspection
 - [[BryanBischof]] — advocated for shipping beta products to start the flywheel
-- [[Fine-tuning]] — the flywheel provides the data prerequisite
-- [[Domain-Specific Models]] — what the flywheel enables through fine-tuning
+- [[FineTuning]] — the flywheel provides the data prerequisite
+- [[DomainSpecific Models]] — what the flywheel enables through fine-tuning

@@ -20,6 +20,6 @@ An environment for RL training is the simulated or real-world context in which a
 - [[Mock User]] — the simulated user component of the environment
 - [[Rejection Sampling for Bootstrapping]] — using environment trajectories for data creation
 - [[Reward Signal]] — the evaluation mechanism within the environment
-- [[Reinforcement Learning with LLMs]] — the training technique
+- [[ReinforcementLearningWithLLMs]] — the training technique
 - [[Manulife]] — customer with existing agent environment
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

@@ -22,7 +22,7 @@ Verifiable Deterministic Tasks are engineering tasks with clear, objectively che
 ## Related
 - [[MikeSpitz]] — presented the concept
 - [[PFF]] — company applying verifiable tasks
-- [[Post-Engineer Engineering Org]] — organizational model
+- [[PostEngineer Engineering Org]] — organizational model
 - [[Autonomous QA Agent]] — validates verifiable tasks against acceptance criteria
 - [[Lightweight Design Document]] — defines verifiable tasks upfront
 - [[Trunk-Based Development]] — development model requiring feature flags as verifiable tasks

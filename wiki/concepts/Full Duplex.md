@@ -29,6 +29,6 @@ Full duplex in voice AI refers to true bidirectional conversation where both the
 - [[Back Channeling]] — key conversational phenomenon
 - [[Moshi]] — only full-duplex implementation
 - [[PersonalPlex]] — Nvidia model based on Moshi
-- [[Speech-to-Speech Models]] — model category
+- [[SpeechToSpeech Models]] — model category
 - [[Voice AI]] — parent domain
 - [[Her Moment]] — full duplex is required for this

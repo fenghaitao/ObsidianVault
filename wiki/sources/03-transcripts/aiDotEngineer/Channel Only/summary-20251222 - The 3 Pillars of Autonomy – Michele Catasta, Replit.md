@@ -25,8 +25,8 @@ Michele Catasta, from Replit, presents the three pillars for building fully auto
 - [[Painted Doors]] — Broken features in agent-generated code
 - [[Verification in Agentic Loops]] — Autonomous testing methodology
 - [[Context Management]] — Techniques for managing agent context
-- [[Sub-agent Orchestration]] — Pattern for agent architecture
+- [[SubAgent Orchestration]] — Pattern for agent architecture
 - [[Parallel Agents]] — Running multiple agents concurrently
 - [[Core Loop as Orchestrator]] — Architecture for parallel agent coordination
 - [[Playwright]] — Browser automation library used for testing
-- [[Browser-based Autonomous Testing]] — Testing methodology for web apps
+- [[BrowserBased Autonomous Testing]] — Testing methodology for web apps

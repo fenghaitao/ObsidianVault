@@ -10,7 +10,7 @@ last_updated: 2026-06-30
 Nebius is an AI company that develops and maintains the SWE-rebench coding agent evaluation leaderboard, along with open-source training datasets SWE-Rehab and SWE-Rehab V2.
 
 ## Key Information
-- Maintains [[SWE-rebench]], a monthly-refreshed leaderboard evaluating ~30 coding models on real-world software engineering tasks
+- Maintains [[SWERebench]], a monthly-refreshed leaderboard evaluating ~30 coding models on real-world software engineering tasks
 - Released SWE-Rehab, an open-source dataset of ~30,000 RL environments (Docker images with real-world software engineering tasks), used by frontier labs for training
 - Released SWE-Rehab V2, expanding to software engineering tasks across 20 programming languages
 - Uses GitHub Archive as primary data source for benchmark task collection
@@ -20,6 +20,6 @@ Nebius is an AI company that develops and maintains the SWE-rebench coding agent
 
 ## Related
 - [[Ibragim Badertdinov]] — researcher at Nebius
-- [[SWE-rebench]] — their flagship leaderboard
+- [[SWERebench]] — their flagship leaderboard
 - [[Harbor]] — terminal bench format used for evaluations
 - [[summary-20260604 - SWE-rebench： Lessons from Evaluating Coding Agents — Ibragim Badertdinov, Nebius]] — source transcript

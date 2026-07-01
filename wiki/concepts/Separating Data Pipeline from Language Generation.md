@@ -22,7 +22,7 @@ An architectural pattern where deterministic analysis produces structured data t
 - [[Chess Context Extraction]] — the specific detectors and context engine for chess
 - [[LLM Hallucination In Chess]] — the problem this pattern solves
 - [[Grounding LLM in Structured Data]] — broader concept
-- [[Latency vs Quality Trade-offs]] — this separation enables low-latency while maintaining quality
+- [[Latency vs Quality TradeOffs]] — this separation enables low-latency while maintaining quality
 - [[Play Magnus]] — applied this pattern in production
 - [[Stockfish]] — deterministic analysis layer
 - [[Maya]] — human behavior prediction layer

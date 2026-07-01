@@ -22,7 +22,7 @@ File System as Shared State is a pattern for long-running multi-agent systems wh
 
 ## Related
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
-- [[Generator-Evaluator Pattern]] — harness pattern using this technique
+- [[GeneratorEvaluator Pattern]] — harness pattern using this technique
 - [[Contract Negotiation]] — uses file system as negotiation medium
 - [[FileSystemAsContextEngineering]] — related concept about files as context
 - [[Breadcrumbing]] — related pattern of leaving traces

@@ -53,7 +53,7 @@ Testing AI agents requires going beyond traditional eval datasets to build compr
 
 ## Concepts
 
-- [[Spec-Driven Testing]] — Testing agents against comprehensive specifications beyond datasets, including rules, domain knowledge, and robustness
+- [[SpecDriven Testing]] — Testing agents against comprehensive specifications beyond datasets, including rules, domain knowledge, and robustness
 - [[Smart vs Safe Tradeoff]] — The tension between model capability and safety; bigger models are not always better
 - [[Agent Robustness Testing]] — Testing agents under input perturbations (typos, rephrasing) to determine stability boundaries
 - [[Agent Specification Components]] — The elements of a comprehensive agent spec: datasets, rules, ontologies, domain knowledge, rights/roles, robustness

@@ -51,5 +51,5 @@ The AI SDK (Vercel AI SDK) is a TypeScript toolkit by Vercel for building AI-pow
 - [[Agent Runtime Context]] — v6 pattern
 - [[Prepare Call]] — v6 lifecycle callback
 - [[Prepare Step]] — v6 lifecycle callback
-- [[Provider-Executed Tools]] — v6 tool type
+- [[ProviderExecuted Tools]] — v6 tool type
 - [[End-to-End Type Safety in Agents]] — v6 type system

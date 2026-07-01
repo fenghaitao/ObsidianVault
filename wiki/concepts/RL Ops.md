@@ -19,7 +19,7 @@ RL Ops (reinforcement learning operations) is a platform category that applies M
 
 ## Related
 - [[Adaptive ML]] — company building an RL Ops platform
-- [[Reinforcement Learning with LLMs]] — the underlying technique
+- [[ReinforcementLearningWithLLMs]] — the underlying technique
 - [[Continuous Model Improvement]] — the goal of RL Ops
 - [[Model Lifecycle Acceleration]] — the key value proposition
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

@@ -31,6 +31,6 @@ A Context Log is an append-only log of all LLM interactions within an agent sess
 - [[Replay Model]] — durability approach compatible with context logs
 - [[DurableAgents]] — the broader concept
 - [[Stateful Compute]] — the paradigm shift
-- [[AgentMemory]] — related agent memory concept
+- [[Agent Memory]] — related agent memory concept
 - [[AppendOnlyLog]] — the underlying data structure pattern
 - [[summary-20260510 - Two Roads to Durable Agents： Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev]] — source

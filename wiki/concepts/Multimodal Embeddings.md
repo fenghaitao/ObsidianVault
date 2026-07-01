@@ -22,8 +22,8 @@ Multimodal Embeddings are vector representations that support video, images, aud
 ## Related
 - [[summary-20260418 - How Google DeepMind is researching the next Frontier of AI for Gemini — Raia Hadsell, VP of Research]] — source
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
-- [[Multimodal AI]] — broader concept
-- [[Google DeepMind]] — creator
+- [[MultimodalAI]] — broader concept
+- [[GoogleDeepMind]] — creator
 - [[Gemini 3.1 Pro]] — model family with multimodal capabilities
 - [[GeminiEmbeddings2]] — omnimodal implementation
 - [[OmnimodalEmbeddings]] — stricter form of multimodal embeddings

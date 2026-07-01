@@ -25,7 +25,7 @@ Malte Ubl, CTO of Vercel, delivers the opening keynote at the first AI Engineer 
 
 - [[Malte Ubl]] — speaker, CTO Vercel
 - [[Vercel]] — his company
-- [[AI SDK]] — 10M downloads/week
+- [[AISDK]] — 10M downloads/week
 - [[chat SDK]] — Malte's agent-to-chat-app project
 - [[just bash]] — bash interpreter in TypeScript
 - [[OpenClaw]] — open-source agent framework
@@ -40,6 +40,6 @@ Malte Ubl, CTO of Vercel, delivers the opening keynote at the first AI Engineer 
 - [[Software Market Elasticity]] — cheaper software → more demand
 - [[Agents as Software Users]] — agents consuming software
 - [[Model Commoditization]] — model labs competing on price
-- [[Agent Harness Separation]] — architectural principle
+- [[AgentHarnessSeparation]] — architectural principle
 - [[VibeCoding]] — Malte's vibe coding stack
 - [[ModelIsNotTheMoat]] — related strategic concept

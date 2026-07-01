@@ -27,7 +27,7 @@ User embeddings are vector representations that compress a user's entire interac
 - [[Shivam Verma]] — Tech Lead of User Representations team
 - [[Semantic IDs]] — complementary concept for content representation
 - [[Soft Tokenization]] — technique for injecting user embeddings into LLMs
-- [[Cross-Content Modeling]] — embedding users and content in shared space
+- [[CrossContent Modeling]] — embedding users and content in shared space
 - [[Generative Recommender Systems]] — downstream application
 - [[Autoencoders]] — related architecture used historically
 - [[Foundation Models]] — broader model class

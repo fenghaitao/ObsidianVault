@@ -23,5 +23,5 @@ Opic is an observability platform used for monitoring AI agents and workflows. I
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
 - [[AgentObservability]] — the practice Opic enables
 - [[EvalEngineering]] — evals workflow supported by Opic
-- [[LLM-as-Judge]] — evaluation technique tracked in Opic experiments
+- [[LLMAsJudge]] — evaluation technique tracked in Opic experiments
 - [[Towards AI]] — company using Opic

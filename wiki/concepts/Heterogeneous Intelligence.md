@@ -23,8 +23,8 @@ Heterogeneous Intelligence is the AI paradigm where different model architecture
 - [[Heterogeneous Recursion]] — practical technique for long-context tasks
 - [[Principle of Maximum Heterogeneity]] — mathematical foundation
 - [[Mixture of Experts]] — architectural heterogeneity
-- [[Multi-Agent Systems]] — workflow heterogeneity
-- [[Prefill-Decode Disaggregation]] — hardware-level heterogeneity
+- [[MultiAgent Systems]] — workflow heterogeneity
+- [[PrefillDecode Disaggregation]] — hardware-level heterogeneity
 - [[Three Eras of Compute]] — framing heterogeneous as the third era
 - [[Callosum]] — company building heterogeneous intelligence infrastructure
 - [[summary-20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum]] — source

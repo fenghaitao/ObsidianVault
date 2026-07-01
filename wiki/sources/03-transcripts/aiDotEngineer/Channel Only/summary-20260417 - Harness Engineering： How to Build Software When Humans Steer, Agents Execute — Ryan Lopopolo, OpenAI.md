@@ -38,13 +38,13 @@ Ryan Lopopolo, member of technical staff at OpenAI, presents "Harness Engineerin
 - [[Code is Free]] — code abundance paradigm
 - [[Garbage Collection Day]] — systematic slop elimination
 - [[Reviewer Agents]] — CI-based code review agents
-- [[Just-in-time Context Surfacing]] — deferred instruction pattern
-- [[Non-functional Requirements Specification]] — writing down NFRs
-- [[Persona-oriented Documentation]] — docs from different engineering perspectives
-- [[Context-efficient Code Structure]] — structuring repos for agents
+- [[JustInTime Context Surfacing]] — deferred instruction pattern
+- [[NonFunctional Requirements Specification]] — writing down NFRs
+- [[PersonaOriented Documentation]] — docs from different engineering perspectives
+- [[ContextEfficient Code Structure]] — structuring repos for agents
 - [[LLM as Fuzzy Compiler]] — mental model
 - [[Code as Disposable Build Artifact]] — code as compiled spec artifact
-- [[Auto-compaction]] — context management technique
+- [[AutoCompaction]] — context management technique
 - [[ProgressiveContextDisclosure]] — related context management
 - [[AgenticEngineering]] — related paradigm
 - [[ContextEngineering]] — related discipline

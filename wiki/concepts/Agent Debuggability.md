@@ -22,8 +22,8 @@ Agent Debuggability is the property that every action, state change, error, and 
 
 ## Related
 
-- [[Event Sourcing]] — the architecture enabling debuggability
+- [[EventSourcing]] — the architecture enabling debuggability
 - [[Durable Streams]] — the event log providing the audit trail
-- [[Agent Observability]] — the broader observability concern
+- [[AgentObservability]] — the broader observability concern
 - [[Stream Processor]] — the pattern that processes debuggable events
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source

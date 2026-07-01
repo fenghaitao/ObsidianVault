@@ -22,4 +22,4 @@ Stateless Agent Loop is a cloud-native agent architecture where agent state can 
 - [[AgenticLoop]] — the core execution pattern
 - [[StatelessTransportProtocol]] — related MCP transport proposal from Google
 - [[MCP]] — protocol
-- [[Cloud-Based Agent Sandboxes]] — deployment pattern
+- [[CloudBased Agent Sandboxes]] — deployment pattern

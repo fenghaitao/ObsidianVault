@@ -1,28 +1,37 @@
 ---
-title: "FineTuning"
+title: "Fine-tuning"
 type: concept
-tags: [technique, llm, training, optimization]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240719 - Lessons From A Year Building With LLMs.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260416 - $1 AI Guardrails： The Unreasonable Effectiveness of Finetuned ModernBERTs – Diego Carpentero.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google.md"]
-last_updated: 2026-06-26
+tags: [llm, model-customization, machine-learning]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20240724 - From Software Developer to AI Engineer： Antje Barth.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260602 - What Lies Beneath the API — Benjamin Cowen, Modal.md"]
+last_updated: 2026-06-30
 ---
 ## Definition
-Fine-tuning is the process of further training a pre-trained LLM on domain-specific data to improve performance on particular tasks. In the 2024 AI Engineer Summit keynote, fine-tuning was critically discussed as a premature and costly optimization when pursued before having data-generating products, proper evals, and a clear understanding of value.
+Fine-tuning is the process of further training a pre-trained foundation model on a specific dataset to adapt its behavior to particular use cases and data. It is one of the three main techniques for model customization.
 
 ## Key Information
-- Discussed in the operational section as a common but premature optimization
-- Jason Lou's satire: "Find a machine learning engineer who can fine-tune as quickly as possible... hire someone for a quarter of a million dollars, give them 1% of their company to fight CUDA build errors"
-- Fine-tuning is "much easier than figuring out how to build something worth charging for" — the sarcastic point being that companies chase fine-tuning to avoid the harder work of product development
-- The recommended sequence: build application → capture data → then consider ML engineering and fine-tuning
-- "Do not hire a machine learning engineer without having any data"
-- The core critique: fine-tuning without data is putting the cart before the horse; first collect user interaction data through shipping, then determine if fine-tuning is warranted
+- One of three main model customization approaches alongside prompt engineering and RAG
+- Supported on Amazon Bedrock as a model customization capability
+- Used when prompt engineering and RAG are insufficient for a specific use case
+- Requires domain-specific data to adapt model behavior
+- More involved than prompt engineering but can produce more specialized results
+- Modern open-source libraries enable supervised fine-tuning in ~300 lines of Python
+- Serverless platforms (like Modal) make training accessible without dedicated infrastructure engineers
+- Key signals it's time to fine-tune: API costs exceeding revenue, plateauing evals, unmet latency/throughput requirements
+- Prerequisites: mature data collection pipeline and developed eval systems
+- Real-world results: Intercom beating frontier API at 1/5 the cost, Pentress seeing orders of magnitude improvement
+- Accessible RL libraries exist for reinforcement learning fine-tuning as well
 
 ## Related
-- [[summary-20240719 - Lessons From A Year Building With LLMs]] — source
-- [[JasonLou]] — critically discussed fine-tuning timing
-- [[AIEngineer]] — the role that should precede ML engineering hires
-- [[DataFlywheel]] — the data collection cycle that should precede fine-tuning
-- [[ModelIsNotTheMoat]] — related strategic argument against over-investing in models
-
-- **Encoder fine-tuning for safety**: ModernBERT fine-tuned on InjectGuard (75K labeled examples) with a classification head achieves ~85% accuracy at 35ms latency for prompt safety classification
-- **Practical pipeline**: Dataset preparation → tokenization → add classification head → train with BF16 and Adam optimizer → inference on CPU or GPU with FlashAttention
-- **Memory optimization**: BF16 reduced training memory by ~40%, enabling batch size of 64; FlashAttention + alternating attention reduced memory by ~70%
+- [[summary-20240724 - From Software Developer to AI Engineer： Antje Barth]] — source
+- [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
+- [[Foundation Models]]
+- [[Prompt Engineering]]
+- [[RAG]]
+- [[Model Customization]]
+- [[ParameterEfficientFineTuning]] — related technique
+- [[Supervised FineTuning]] — primary implementation approach
+- [[DomainSpecific Models]] — the output of fine-tuning
+- [[Model Spectrum]] — where fine-tuning sits
+- [[Serverless Training]] — modern infrastructure for fine-tuning
+- [[Frontier API]] — what fine-tuning replaces
+- [[Custom Inference Endpoint]] — serving after fine-tuning

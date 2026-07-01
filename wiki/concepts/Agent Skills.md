@@ -33,7 +33,7 @@ Agent Skills are compact, concise instructions that tell an agent about capabili
 - [[Context Budget]] — the constraint that skills help manage
 - [[Deep Research Agent]] — system using skills for workflow instructions
 - [[Tool Description]] — skills complement tool descriptions for complex parameters
-- [[Demand-Driven Context]] — methodology using skills as implementation component
+- [[DemandDriven Context]] — methodology using skills as implementation component
 - [[Skills Flywheel]] — Intercom's approach to continuous skill improvement
 - [[Backtesting Agent Skills]] — Intercom's validation methodology
 - [[Intercom]] — company using skills at scale for 2x project

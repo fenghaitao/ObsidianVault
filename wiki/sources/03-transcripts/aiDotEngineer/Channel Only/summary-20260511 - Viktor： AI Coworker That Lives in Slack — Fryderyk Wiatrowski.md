@@ -46,10 +46,10 @@ Fryderyk Wiatrowski, co-founder of Viktor, presents Viktor as an AI employee/cow
 - [[Shared Context]] — integrations connected once and shared across the team
 - [[Agent Proactivity]] — agent proactively suggesting workflows and joining conversations
 - [[Context Isolation]] — preventing context leakage between channels and teams in a company agent
-- [[Agent Personality]] — model personality as a critical factor in user adoption and satisfaction
+- [[AgentPersonality]] — model personality as a critical factor in user adoption and satisfaction
 - [[Agent Memory]] — multi-user memory management challenges at scale
 - [[Web Agent]] — browser-based AI agents (JCAI's original approach)
-- [[Slack-based Agent Interface]] — using Slack's multi-modal interaction surface as an agent input layer
+- [[SlackBased Agent Interface]] — using Slack's multi-modal interaction surface as an agent input layer
 - [[Integration Scoping]] — personal vs shared integration access control
 - [[AgenticLoop]] — the agent loop pattern underlying Viktor's operation
 - [[ToolCalling]] — function calling capability enabling Viktor to use 3,000+ integrations

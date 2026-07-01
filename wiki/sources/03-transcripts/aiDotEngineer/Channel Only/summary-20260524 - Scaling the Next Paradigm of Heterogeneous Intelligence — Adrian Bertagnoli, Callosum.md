@@ -29,11 +29,11 @@ Adrian Bertagnoli, founding engineer at Callosum (formerly Colossyan), presents 
 - [[Heterogeneous Recursion]] — key technique for long-context tasks
 - [[Principle of Maximum Heterogeneity]] — mathematical formalization
 - [[Mixture of Experts]] — architectural heterogeneity
-- [[Multi-Agent Systems]] — workflow heterogeneity
+- [[MultiAgent Systems]] — workflow heterogeneity
 - [[Recursive Language Models]] — base technique extended by heterogeneous recursion
 - [[Video Action Language Models]] — models used for web navigation
 - [[Three Eras of Compute]] — framework for compute evolution
-- [[Prefill-Decode Disaggregation]] — hardware-level heterogeneity
+- [[PrefillDecode Disaggregation]] — hardware-level heterogeneity
 - [[Cerebras]] — hardware partner
 - [[SambaNova]] — hardware partner
 - [[Aria UK Institute]] — research partner for heterogeneous cluster

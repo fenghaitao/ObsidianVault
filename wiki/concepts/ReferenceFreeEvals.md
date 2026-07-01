@@ -20,5 +20,5 @@ Reference-free evals are evaluation techniques that compare an LLM's output dire
 - [[summary-20240719 - Lessons From A Year Building With LLMs]] — source
 - [[EugeneYan]] — advocated this technique in the keynote
 - [[Guardrails]] — the primary use case for reference-free evals
-- [[LLM-as-Judge]] — alternative evaluation approach
+- [[LLMAsJudge]] — alternative evaluation approach
 - [[EvalEngineering]] — broader practice this technique belongs to

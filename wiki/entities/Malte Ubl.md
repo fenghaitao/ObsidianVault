@@ -27,9 +27,9 @@ Malte Ubl is the CTO of Vercel with over 25 years of software engineering experi
 
 - [[summary-20260420 - The New Application Layer - Malte Ubl, CTO Vercel]] — source
 - [[Vercel]] — his company
-- [[AI SDK]] — Vercel product he oversees
+- [[AISDK]] — Vercel product he oversees
 - [[chat SDK]] — his personal project
 - [[just bash]] — his personal project
 - [[Agent Archetypes]] — framework he presented
 - [[Model Commoditization]] — thesis he advocates
-- [[Agent Harness Separation]] — architectural principle he supports
+- [[AgentHarnessSeparation]] — architectural principle he supports

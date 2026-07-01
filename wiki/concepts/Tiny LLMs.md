@@ -23,11 +23,11 @@ Tiny LLMs (TLMs) are language models under 1 billion parameters designed for in-
 
 ## Related
 - [[summary-20260503 - TLMs： Tiny LLMs and Agents on Edge Devices with LiteRT-LM — Cormac Brick, Google]] — source
-- [[In-app GenAI]] — deployment pattern
-- [[System-level GenAI]] — contrasting approach
+- [[InApp GenAI]] — deployment pattern
+- [[SystemLevel GenAI]] — contrasting approach
 - [[Function Gemma]] — example tiny LLM
 - [[FineTuning]] — required for production use
 - [[Synthetic Data Generation]] — training data workflow
 - [[Quantization]] — deployment optimization
-- [[LiteRT-LM]] — runtime for deployment
+- [[LiteRTLM]] — runtime for deployment
 - [[AI Edge Eloquent]] — production app using tiny LLMs

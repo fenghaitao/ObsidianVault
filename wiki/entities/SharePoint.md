@@ -18,4 +18,4 @@ SharePoint is Microsoft's enterprise content management and collaboration platfo
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[Knowledge Base Monolith]] — SharePoint is a component
 - [[Microsoft]] — parent company
-- [[Demand-Driven Context]] — methodology for improving SharePoint-based knowledge
+- [[DemandDriven Context]] — methodology for improving SharePoint-based knowledge

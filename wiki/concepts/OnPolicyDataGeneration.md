@@ -20,6 +20,6 @@ On-policy data generation is a technique for preference alignment where training
 ## Related
 - [[summary-20260429 - Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI]] — source
 - [[DoomLoop]] — problem this technique addresses
-- [[LLM-as-Judge]] — scoring mechanism used
+- [[LLMAsJudge]] — scoring mechanism used
 - [[TemperatureInAI]] — key parameter in rollout generation
 - [[ReinforcementLearningWithLLMs]] — complementary technique

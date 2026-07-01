@@ -27,5 +27,5 @@ Stop Fighting the Model is the principle that agent builders should not force LL
 - [[Handing Over Control]] — the broader principle this supports
 - [[Traffic Controller vs Dispatcher]] — the metaphor illustrating this shift
 - [[Trust But Verify]] — complementary: guide don't prescribe, but verify outcomes
-- [[Non-Deterministic Agents]] — the technical reality behind this principle
+- [[NonDeterministicAgents]] — the technical reality behind this principle
 - [[Guide Dont Prescribe]] — closely related principle from harness engineering

@@ -22,4 +22,4 @@ Validation contracts are definitions of "done" established before any coding beg
 - [[summary-20260506 - The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory]] — source
 - [[FactoryAI]] — implementing platform
 - [[MultiAgentArchitecture]] — broader context
-- [[AgentOrchestration]] — orchestrator role
+- [[Agent Orchestration]] — orchestrator role

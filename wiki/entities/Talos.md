@@ -21,4 +21,4 @@ Talos represents the extreme end of hardware specialization — chips built spec
 - [[Cerebras]] — intermediate specialization on the spectrum
 - [[Groq]] — intermediate specialization on the spectrum
 - [[Nvidia]] — general-purpose GPU end of the spectrum
-- [[S-Curve of Intelligence Returns]] — concept that could make Talos viable
+- [[SCurve of Intelligence Returns]] — concept that could make Talos viable

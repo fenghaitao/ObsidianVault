@@ -38,5 +38,5 @@ AI analysis pipelines are structured, repeatable workflows where coding agents s
 - [[Backtesting for AI Systems]] — the data source for analysis pipelines
 - [[IncidentIo]] — company that developed this pattern
 - [[AgentObservability]] — prerequisite for generating analysis data
-- [[Sub-agent Orchestration]] — related orchestration pattern
+- [[SubAgent Orchestration]] — related orchestration pattern
 - [[FailureModeAnalysis]] — analysis methodology

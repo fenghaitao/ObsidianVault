@@ -19,8 +19,8 @@ Checksum Reverse Engineering is the process of analyzing captured protocol traff
 - A two-layer protocol (command layer + checksum layer) adds complexity but can be tackled layer by layer
 
 ## Related
-- [[AI-Assisted Hardware Reverse Engineering]] — broader methodology
-- [[Man-in-the-Middle Protocol Analysis]] — technique that provides the traffic data
+- [[AIAssisted Hardware Reverse Engineering]] — broader methodology
+- [[ManInTheMiddle Protocol Analysis]] — technique that provides the traffic data
 - [[Protocol Brute Forcing]] — complementary technique for command discovery
 - [[Viking Phone]] — hardware whose checksum was reverse engineered
 - [[ClaudeCode]] — AI tool that performed the analysis

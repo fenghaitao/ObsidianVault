@@ -24,5 +24,5 @@ Alessandro Cappelli is co-founder and chief customer officer at Adaptive ML, a c
 - [[Falcon (LLM)]] — model he helped train
 - [[Myth of the Last Mile]] — his core concept
 - [[RL Ops]] — the platform category he's building
-- [[Reinforcement Learning with LLMs]] — core technique
+- [[ReinforcementLearningWithLLMs]] — core technique
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

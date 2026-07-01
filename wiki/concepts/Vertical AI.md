@@ -23,6 +23,6 @@ Vertical AI refers to AI companies and products built for specific industries or
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source
 - [[Legora]] — vertical AI company for legal
 - [[JacobLauritzen]] — CTO of Legora
-- [[High-Bandwidth Artifacts]] — domain-specific interfaces
+- [[HighBandwidth Artifacts]] — domain-specific interfaces
 - [[VerifiersRule]] — framework for understanding task difficulty by domain
-- [[Agent-Human Collaboration]] — trust and control vary by vertical
+- [[AgentHuman Collaboration]] — trust and control vary by vertical

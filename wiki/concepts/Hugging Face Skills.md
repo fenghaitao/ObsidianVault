@@ -22,7 +22,7 @@ Hugging Face Skills are a suite of agent skills that allow coding agents to mana
 
 ## Related
 - [[HuggingFace]] — platform integrated via skills
-- [[Self-Training Agents]] — training loop enabled by skills
+- [[SelfTraining Agents]] — training loop enabled by skills
 - [[Hugging Face Traces]] — data source for training
 - [[Hugging Face MCP Server]] — complementary MCP integration
 - [[Agent Skills]] — broader skills concept

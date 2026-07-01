@@ -23,7 +23,7 @@ Verifier's Rule is a principle coined by Jason Warner (Poolside) stating that if
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source
 - [[JasonWarner]] — coined the rule
 - [[Poolside]] — Jason Warner's company
-- [[Agent-Human Collaboration]] — trust and control framework derived from this rule
+- [[AgentHuman Collaboration]] — trust and control framework derived from this rule
 - [[Task Decomposition]] — strategy for making tasks more verifiable
 - [[Guardrails]] — limiting scope to increase verifiability
 - [[JacobLauritzen]] — presented the rule in context of legal AI

@@ -55,6 +55,6 @@ Chintan Parikh, product manager for Lite RT at Google AI Edge, presents the Gemm
 - [[NPU Acceleration]] — hardware acceleration for on-device AI
 - [[AI Edge Portal]] — cloud benchmarking service
 - [[Model Explorer (tool)]] — graph visualization and quantization planning
-- [[Ahead-of-Time Compilation]] — compilation strategy for deployment
-- [[On-Device Agent Skills]] — user-created skills running locally
+- [[AheadOfTime Compilation]] — compilation strategy for deployment
+- [[OnDevice Agent Skills]] — user-created skills running locally
 - [[aiDotEngineer]] — event host

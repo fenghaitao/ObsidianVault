@@ -17,17 +17,17 @@ The eval red-green cycle is an automated workflow where coding agents modify AI 
 - **Green phase**: The agent modifies the prompt to make the new eval pass, often running multiple repeats to account for non-determinism
 - **Regression check**: After the new eval passes, the agent runs the full eval suite to ensure no existing evals broke
 - **Consolidation pass**: A final step where the agent attempts to simplify the prompt, since repeated modifications tend to produce bloated, hard-to-maintain prompts
-- **Prerequisite**: Requires [[Agent-Ready Eval Tooling]] — a CLI or API that lets coding agents programmatically interact with eval suites
+- **Prerequisite**: Requires [[AgentReady Eval Tooling]] — a CLI or API that lets coding agents programmatically interact with eval suites
 - **Relationship to TDD**: Mirrors the test-driven development cycle (red → green → refactor) applied to prompt engineering
 - **Scalability**: This cycle works well when you know which prompt to change, but breaks down in multi-agent systems where the root cause is unclear — requiring complementary patterns like [[File System Downloads for Agent Debugging]]
 
 ## Related
 
 - [[summary-20260517 - Fighting AI with AI — Lawrence Jones, Incident]] — primary source
-- [[Agent-Ready Eval Tooling]] — prerequisite CLI infrastructure
+- [[AgentReady Eval Tooling]] — prerequisite CLI infrastructure
 - [[EvalEngineering]] — the practice of crafting evaluation prompts
 - [[EvalFlywheel]] — broader continuous improvement loop
-- [[Eval-Driven Development]] — TDD applied to AI evaluation
-- [[Evaluator-Optimizer Pattern]] — related agent pattern
+- [[EvalDriven Development]] — TDD applied to AI evaluation
+- [[EvaluatorOptimizer Pattern]] — related agent pattern
 - [[PromptOptimization]] — prompt improvement methodology
 - [[IncidentIo]] — company that developed this workflow

@@ -22,8 +22,8 @@ Mayank Pant is a billing solution architect at Stripe who presented a five-step 
 - [[Stripe]] — employer and billing platform
 - [[AI Pricing]] — core concept presented
 - [[Hybrid Pricing]] — recommended pricing model
-- [[Value-Based Pricing]] — step 1 of the framework
+- [[ValueBased Pricing]] — step 1 of the framework
 - [[Pricing Iteration]] — step 5 of the framework
-- [[Credit-Based Pricing]] — recommended abstraction technique
+- [[CreditBased Pricing]] — recommended abstraction technique
 - [[Pricing Guardrails]] — step 4 of the framework
 - [[aiDotEngineer]] — event where presented

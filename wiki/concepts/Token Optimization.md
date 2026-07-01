@@ -23,5 +23,5 @@ Token optimization in the context of AI agents is the practice of compressing an
 
 - [[summary-20260526 - Stop babysitting your agents... — Brandon Waselnuk, Unblocked]] — source
 - [[ContextEngine]] — the system that performs token optimization
-- [[ContextBudget]] — managing token allocation across agent sessions
+- [[Context Budget]] — managing token allocation across agent sessions
 - [[Brandon Waselnuk]] — speaker

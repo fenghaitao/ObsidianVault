@@ -28,10 +28,10 @@ Danilo Campos, creator of the PostHog Wizard at PostHog, presents six hard-won l
 - [[Model Rot]] — concept: models become outdated
 - [[Model Airplanes]] — concept: thin reference implementations
 - [[Breadcrumbing]] — concept: progressive task disclosure
-- [[Inference-Time Interrogation]] — concept: asking agents what went wrong
+- [[InferenceTime Interrogation]] — concept: asking agents what went wrong
 - [[Code as Depreciating Asset]] — concept: code loses value, prose gains it
 - [[Agent as Octopus]] — concept: agents are flexible, don't over-constrain
-- [[Fine-Grained Tool Permissions]] — concept: security through tool access control
+- [[FineGrained Tool Permissions]] — concept: security through tool access control
 - [[ProgressiveContextDisclosure]] — related context management pattern
 - [[ContextEngineering]] — related discipline
 - [[Autonomous Coding Agents]] — broader category

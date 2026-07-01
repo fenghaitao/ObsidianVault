@@ -26,6 +26,6 @@ Agents on Canvas is a paradigm where AI agents are placed directly on a shared s
 - [[Fairies]] — concrete implementation
 - [[Canvas as Agent Workspace]] — the spatial shared state concept
 - [[AgentVisualization]] — related concept for visualizing agent systems
-- [[Agent-Human Collaboration]] — the broader collaboration paradigm
+- [[AgentHuman Collaboration]] — the broader collaboration paradigm
 - [[AgenticProductDesign]] — designing interfaces for agents
-- [[High-Bandwidth Artifacts]] — the interface paradigm this supports
+- [[HighBandwidth Artifacts]] — the interface paradigm this supports

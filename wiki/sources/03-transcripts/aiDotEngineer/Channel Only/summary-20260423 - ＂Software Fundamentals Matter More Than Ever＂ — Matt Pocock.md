@@ -32,7 +32,7 @@ Matt Pocock, creator of the popular "Claude Code for Real Engineers" course, arg
 - [[Ubiquitous Language]] — from domain-driven design
 - [[Deep Modules]] — from John Ousterhout
 - [[Shallow Modules]] — from John Ousterhout
-- [[Specs-to-Code]] — the movement Pocock critiques
+- [[SpecsToCode]] — the movement Pocock critiques
 - [[Outrunning Your Headlights]] — from The Pragmatic Programmer
 - [[Grill Me]] — the AI interviewing skill
 - [[Design the Interface, Delegate the Implementation]] — tip 5

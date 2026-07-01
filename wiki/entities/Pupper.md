@@ -21,4 +21,4 @@ Pupper is a completely open-source robot that can be 3D printed, runs on Raspber
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[Raspberry Pi]] — hardware platform
 - [[Gemini 3.1 Flash Live]] — model used for control
-- [[Google DeepMind]] — model provider
+- [[GoogleDeepMind]] — model provider

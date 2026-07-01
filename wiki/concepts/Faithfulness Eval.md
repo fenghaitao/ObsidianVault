@@ -20,7 +20,7 @@ A faithfulness eval checks whether an AI agent's output is grounded in and faith
 
 ## Related
 - [[Correctness Eval]] — complementary eval that checks factual accuracy
-- [[LLM-as-Judge]] — the evaluation technique used
+- [[LLMAsJudge]] — the evaluation technique used
 - [[Phoenix]] — platform providing built-in faithfulness eval
 - [[Actionability Eval]] — custom eval example from same workshop
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source

@@ -25,6 +25,6 @@ Model evaluation is the thorough assessment of foundation models to determine th
 - [[Model Customization]]
 - [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source (BullshitBench and Arena.ai evaluation approaches)
 - [[BullshitBench]] — nonsense detection benchmark
-- [[Arena.ai]] — human preference evaluation platform
+- [[ArenaAi]] — human preference evaluation platform
 - [[Model Dissatisfaction Rate]] — Arena.ai metric
 - [[Peter Gostev]] — creator of both evaluation approaches

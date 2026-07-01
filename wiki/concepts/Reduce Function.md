@@ -29,7 +29,7 @@ The Reduce Function is the synchronous, pure component of a stream processor tha
 ## Related
 
 - [[Stream Processor]] — the full processor pattern containing the reducer
-- [[Event Sourcing]] — the architecture where reducers derive state
+- [[EventSourcing]] — the architecture where reducers derive state
 - [[Durable Streams]] — the event log consumed by reducers
 - [[Agent Harness]] — the system built with reducers
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source

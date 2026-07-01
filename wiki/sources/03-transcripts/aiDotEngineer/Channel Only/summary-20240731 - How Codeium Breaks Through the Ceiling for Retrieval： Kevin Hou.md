@@ -25,7 +25,7 @@ Kevin Hou of Codeium argues that traditional embedding-based retrieval for AI co
 - [[KevinHou]] — speaker, product engineering lead at Codeium
 - [[Codeium]] — company building AI developer tools
 - [[Recall@50]] — multi-document retrieval metric
-- [[Product-Driven Benchmarks]] — evaluation using real user data
+- [[ProductDriven Benchmarks]] — evaluation using real user data
 - [[Embedding Ceiling]] — limits of vector embedding approaches
 - [[FullVerticalIntegration]] — Codeium's strategy of owning models, infrastructure, and product
 - [[ContextEngineering]] — the art of curating what goes into the context window

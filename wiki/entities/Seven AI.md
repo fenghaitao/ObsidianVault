@@ -28,6 +28,6 @@ Seven AI is a small European startup founded by Matthias Luebken that builds AI 
 - [[OpenClaw]] — multi-channel agent platform
 - [[Coding Agents as Building Blocks]] — core thesis
 - [[Agent Session Reuse]] — key pattern
-- [[Agent-Specific MD Files]] — agent.md/customer.md pattern
-- [[Multi-Channel Agent Routing]] — email routing pattern
+- [[AgentSpecific MD Files]] — agent.md/customer.md pattern
+- [[MultiChannel Agent Routing]] — email routing pattern
 - [[Nvidia]] — NeMo Claw sandboxing

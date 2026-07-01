@@ -1,8 +1,16 @@
+---
+title: "GitHubCopilot"
+type: entity
+tags: [tool, ai-coding, github, microsoft, openai, mcp, mcp-client]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260606 - Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub.md"]
+last_updated: 2026-06-30
+---
+
 # GitHub Copilot
 
 ## Definition
 
-GitHub Copilot is an AI coding assistant that was the last product launched from GitHub's Office of the CTO before Jason Warner left the company. It was developed by a team including Jason Warner, Nat Friedman, and others.
+GitHub Copilot is an AI coding assistant that was the last product launched from GitHub's Office of the CTO before Jason Warner left the company. It was developed by a team including Jason Warner, Nat Friedman, and others. In the MCP Apps architecture for VS Code, Copilot serves as the MCP client that maintains the one-to-one connection with MCP servers and decides which tools to call.
 
 ## Key Information
 
@@ -20,6 +28,9 @@ GitHub Copilot is an AI coding assistant that was the last product launched from
 
 - GitHub Copilot's job titles were cited in the keynote as an example of specific, deliberate role naming (e.g., specifying exact skills needed at a particular time) to avoid the inflated expectations of catchall titles like "AI Engineer"
 
+- **MCP Client role**: In the VS Code MCP Apps architecture, GitHub Copilot serves as the MCP client — it maintains the 1:1 connection with MCP servers and the LLM decides which tools to call. VS Code is the host that fetches and renders the UI.
+- **Copilot CLI**: Used by Liam Hampton to run an Anthropic MCP skill that generated MCP App scaffolding for the flame graph profiler demo.
+
 ## Related
 
 - [[GitHub]]
@@ -34,6 +45,10 @@ GitHub Copilot is an AI coding assistant that was the last product launched from
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source
 - [[summary-20260407 - Agentic Engineering： Working With AI, Not Just Using It — Brendan O'Leary]] — source (historical context)
 - [[summary-20260421 - How AI is changing Software Engineering： A Conversation with Gergely Orosz, @pragmaticengineer]] — source (Shopify early access story)
+- [[summary-20260606 - Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub]] — source (MCP client role)
+- [[VisualStudioCode]] — host that renders MCP Apps
+- [[MCP Apps]] — protocol using Copilot as client
+- [[MCP]] — underlying protocol
 - **Intercom evaluation**: Adopted early by Intercom engineers but later consolidated away from in favor of Claude Code for the 2x project. Intercom chose platform consolidation over multi-tool usage.
 - [[summary-20260515 - How Building with AI Can Double the Throughput of Your Engineering Team — Brian Scanlan, Intercom]] — source (evaluated by Intercom)
 - [[Intercom]] — company that adopted then consolidated away from GitHub Copilot

@@ -28,4 +28,4 @@ Push Subscriptions are a mechanism where an event stream actively pushes new eve
 - [[Agent Composability]] — composing distributed processors
 - [[Polyglot Architecture]] — language-agnostic agent systems
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source
-- [[events.iterate.com]] — the implementation
+- [[Events.iterateCom]] — the implementation

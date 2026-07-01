@@ -24,5 +24,5 @@ Eval calcification is the progressive hardening and increasing brittleness of AI
 - [[VincentKoc]] — originator of the term
 - [[Malleable Evals]] — the solution to eval calcification
 - [[Static Benchmarks]] — the source of calcification
-- [[Self-Curating Test Suites]] — mechanism for preventing calcification
+- [[SelfCurating Test Suites]] — mechanism for preventing calcification
 - [[EvalFlywheel]] — continuous evaluation loop that prevents calcification

@@ -24,7 +24,7 @@ Claude 3.5 Sonnet is Anthropic's first model in the Claude 3.5 family, positione
 
 ## Related
 - [[Anthropic]] — creator
-- [[Alex Albert]] — presented this model
+- [[AlexAlbert]] — presented this model
 - [[AmazonBedrock]] — platform availability
 - [[Vertex AI]] — platform availability
 - [[ToolCalling]] — Tool Use API enabling structured outputs

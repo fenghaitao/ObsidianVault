@@ -21,6 +21,6 @@ AI as Pair Programmer is the paradigm where an AI system acts as a collaborative
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source transcript
 - [[Thomas Dohmke]] — articulated the concept
 - [[GitHub Workspace]] — the product manifestation
-- [[GitHub Copilot]] — the broader product platform
+- [[GitHubCopilot]] — the broader product platform
 - [[AI for Engineers]] — the underlying philosophy
 - [[AgenticEngineering]] — related collaborative paradigm

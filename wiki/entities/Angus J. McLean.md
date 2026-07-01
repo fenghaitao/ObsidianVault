@@ -22,7 +22,7 @@ Angus J. McLean is the AI Director at Oliver, an AI-first advertising startup. H
 ## Related
 - [[Oliver]] — company where he works
 - [[Bounded Autonomy]] — concept he presented
-- [[Band-Aid Fixes]] — concept he introduced
+- [[BandAid Fixes]] — concept he introduced
 - [[AI as Translation]] — framing he discussed
 - [[Representation Structures]] — approach he advocated
 - [[Constraints and Creativity]] — principle he emphasized

@@ -31,11 +31,11 @@ Joel Becker of METR presents two conflicting sources of evidence on AI capabilit
 - [[RandomizedControlledTrial]] — methodology used in the productivity study
 - [[HCAST]] — software task distribution used by METR
 - [[SWAR]] — atomic problem suite used by METR
-- [[RE-Bench]] — challenging ML research engineering benchmark
+- [[REBench]] — challenging ML research engineering benchmark
 - [[HuggingFaceTransformers]] — repository in the RCT study
 - [[ScikitLearn]] — repository in the RCT study
 - [[HaskellCompiler]] — GHC repository in the RCT study
 - [[Cursor]] — AI code editor used in the RCT
 - [[Anthropic]] — provider of Claude models used in studies
 - [[OpenAI]] — provider of o1-preview and GPT models measured
-- [[SWE-bench]] — referenced as benchmark with scoring limitations
+- [[SWEBench]] — referenced as benchmark with scoring limitations

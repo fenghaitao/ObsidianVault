@@ -22,5 +22,5 @@ Antje Barth is a speaker and AWS representative who presents on the transition f
 - [[AmazonBedrock]]
 - [[Amazon Q Developer]]
 - [[Mike Chambers]]
-- [[deeplearning.ai]]
+- [[DeeplearningAi]]
 - [[AI Engineer]]

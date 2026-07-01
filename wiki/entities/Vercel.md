@@ -42,7 +42,7 @@ Vercel is a cloud platform company that provides the frontend deployment platfor
 - [[PeterWielander]]
 - [[DurableAgents]]
 - [[WorkflowPattern]]
-- [[AI SDK]]
+- [[AISDK]]
 - [[Last Gammel]] — AI SDK lead
 - [[Compressed Research]] — agent pattern used internally
 - [[Eliminating Boring Work]] — support agent case study

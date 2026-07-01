@@ -21,9 +21,9 @@ Smart truncation is a context management technique that preserves the head (begi
 
 ## Related
 - [[summary-20260510 - How we solved Context Management in Agents — Sally-Ann Delucia]] — source
-- [[ContextManagement]] — parent discipline
+- [[Context Management]] — parent discipline
 - [[ContextEngineering]] — broader paradigm
-- [[AgentMemory]] — memory store used for truncated content
+- [[Agent Memory]] — memory store used for truncated content
 - [[ContextSelection]] — heuristics for what to keep
 - [[SubAgents]] — complementary technique for offloading heavy context
 - [[LongSessionEvals]] — evaluation technique used alongside smart truncation

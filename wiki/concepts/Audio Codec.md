@@ -19,7 +19,7 @@ An Audio Codec in the context of neural TTS is a learned compression system that
 
 ## Related
 - [[summary-20260509 - Why TTS Models Now Look Like LLMs — Samuel Humeau, Mistral]] — source
-- [[Text-to-Speech Architecture]] — the broader architecture using audio codecs
+- [[TextToSpeech Architecture]] — the broader architecture using audio codecs
 - [[AudioTokenizer]] — related concept for audio input processing (speech recognition)
 - [[Tokenization]] — the general concept of converting data to tokens
 - [[Streaming Audio Generation]] — enabled by frame-based tokenization

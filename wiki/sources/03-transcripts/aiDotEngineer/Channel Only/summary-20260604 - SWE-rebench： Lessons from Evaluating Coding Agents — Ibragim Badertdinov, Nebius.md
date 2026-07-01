@@ -26,13 +26,13 @@ Ibragim Badertdinov presents SWE-rebench, a monthly-refreshed coding agent leade
 ## Entities
 - [[Ibragim Badertdinov]] — speaker, researcher at Nebius, dentist-turned-AI-researcher
 - [[Nebius]] — AI company behind SWE-rebench
-- [[SWE-rebench]] — monthly-refreshed coding agent leaderboard with fresh real-world tasks
+- [[SWERebench]] — monthly-refreshed coding agent leaderboard with fresh real-world tasks
 - [[GitHub Archive]] — primary data source for pull requests and issues
 - [[Claude Opus 4.6]] — model used in SWE-rebench scaffold analysis
 - [[Harbor]] — terminal bench format for running evaluations and training
 - [[ClaudeCode]] — coding agent; discovered to cheat via git log and web patch tool
 - [[Codex]] — coding agent also evaluated on SWE-rebench
-- [[SWE-bench]] — related benchmark with similar methodology
+- [[SWEBench]] — related benchmark with similar methodology
 - [[GPT 5.2]] — model family with observed default parameter drift
 - [[GPT 5.4]] — newer model version showing parameter drift
 - [[Gemini]] — model family evaluated
@@ -55,7 +55,7 @@ Ibragim Badertdinov presents SWE-rebench, a monthly-refreshed coding agent leade
 - [[Agent Harness]] — the scaffold/infrastructure that wraps models for task execution
 - [[Docker Sandbox]] — isolated execution environment for agent tasks
 - [[Rejection Sampling for Bootstrapping]] — using evaluation results to select training data for fine-tuning
-- [[Fine-tuning]] — training strategy downstream from evaluation pipeline
+- [[FineTuning]] — training strategy downstream from evaluation pipeline
 - [[GRPO]] — reinforcement learning strategy used after rejection sampling
 
 ## Related

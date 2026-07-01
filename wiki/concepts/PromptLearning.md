@@ -22,7 +22,7 @@ Prompt learning (also called system prompt learning) is a paradigm for improving
 
 ## Related
 - [[AndrejKarpathy]] — coined the term "system prompt learning"
-- [[LLM-as-Judge]] — the evaluation method that generates English feedback
+- [[LLMAsJudge]] — the evaluation method that generates English feedback
 - [[MetaPrompt]] — the prompt that synthesizes improved system prompt rules
 - [[EvalEngineering]] — the practice of crafting high-quality eval prompts
 - [[DSPy]] — framework with a similar prompt optimization approach (GEA/Jeepa)

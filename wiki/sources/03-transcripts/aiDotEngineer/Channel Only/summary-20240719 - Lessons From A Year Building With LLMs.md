@@ -31,7 +31,7 @@ Six practitioners (Bryan Bischof, Hamel Hussein, Jason Lou, Eugene Yan, Shreya S
 - [[AIEngineer]] — the role and its skill gaps
 - [[DataFlywheel]] — the virtuous cycle of evals, data, and improvement
 - [[Guardrails]] — automated quality and safety checks in production
-- [[LLM-as-Judge]] — evaluation technique discussed in depth
+- [[LLMAsJudge]] — evaluation technique discussed in depth
 - [[RAG]] — mentioned as a common approach that shouldn't be solved by tool-churning
 - [[MooresLawForLLMs]] — cost reduction trend enabling future applications
 - [[FineTuning]] — discussed as a premature optimization without data

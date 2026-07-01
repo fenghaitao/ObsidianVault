@@ -22,5 +22,5 @@ Non-Deterministic Testing is the practice of testing LLM-based systems (includin
 - [[summary-20260503 - Context Is the New Code — Patrick Debois, Tessl]] — source
 - [[ContextTesting]] — the testing practice this applies to
 - [[ErrorBudgetsForContext]] — the CI/CD mechanism for managing non-determinism
-- [[LLM-as-Judge]] — evaluation method subject to non-determinism
+- [[LLMAsJudge]] — evaluation method subject to non-determinism
 - [[EvalEngineering]] — practice of crafting evals that work with non-determinism

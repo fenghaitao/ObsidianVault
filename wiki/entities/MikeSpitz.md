@@ -22,12 +22,12 @@ Mike Spitz is an engineering leader at PFF who presented a case study on buildin
 
 ## Related
 - [[PFF]] — employer and case study subject
-- [[Post-Engineer Engineering Org]] — core concept presented
+- [[PostEngineer Engineering Org]] — core concept presented
 - [[ClaudeCode]] — AI coding agent used in the case study
 - [[Lightweight Design Document]] — agent-generated design document replacing sprint planning
 - [[Huddles]] — bi-daily feedback sessions replacing standups
 - [[Autonomous QA Agent]] — agent that validates merged PRs against acceptance criteria
-- [[Self-healing Agents]] — future vision where agents auto-fix failed QA checks
+- [[SelfHealing Agents]] — future vision where agents auto-fix failed QA checks
 - [[Composable Skills]] — engineering workflow broken into reusable agent skills
 - [[Slow Phased AI Adoption]] — rollout strategy advocated: best engineers first, non-critical systems, then scale
 - [[summary-20260515 - Agents Don't Do Standups： Building the Post-Engineer Engineering Org — Mike Spitz, PFF]]

@@ -34,8 +34,8 @@ KP Sawhney (software engineer, DeepMind AI platform team) and Ian Ballantyne (de
 - [[Model Tiering]] — seamless model fallback concept
 - [[Agent Trajectory Store]] — observability concept
 - [[Skills]] — domain expertise mechanism
-- [[AgentSkills]] — skill libraries at scale
-- [[SkillsGovernance]] — curating skills in large orgs
+- [[Agent Skills]] — skill libraries at scale
+- [[Skills Governance]] — curating skills in large orgs
 - [[AgenticEvaluations]] — evaluating complex agent workflows
 - [[Deep Research Agent]] — being re-architected with harness
 - [[AgentToAgentCommunication]] — future collaboration vision
@@ -43,5 +43,5 @@ KP Sawhney (software engineer, DeepMind AI platform team) and Ian Ballantyne (de
 - [[Tokenomics]] — pricing challenges for agentic systems
 - [[AgentObservability]] — custom tracing and debugging
 - [[Gemma4]] — cheaper model for agent components
-- [[ComputerUse]] — browser control capability
+- [[Computer Use]] — browser control capability
 - [[AgentHarness]] — platform for running agents

@@ -24,6 +24,6 @@ Legora is a vertical AI company that builds a collaborative AI workspace for law
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source transcript
 - [[JacobLauritzen]] — CTO
 - [[Vertical AI]] — company category
-- [[High-Bandwidth Artifacts]] — interface paradigm
+- [[HighBandwidth Artifacts]] — interface paradigm
 - [[VerifiersRule]] — framework applied to legal tasks
-- [[Agent-Human Collaboration]] — trust and control framework
+- [[AgentHuman Collaboration]] — trust and control framework

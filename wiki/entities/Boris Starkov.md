@@ -25,6 +25,6 @@ Boris Starkov is an engineer at Eleven Labs who reverse engineered a legacy Viki
 - [[Viking Phone]] — the hardware he reverse engineered
 - [[Twilio]] — SIP trunk provider used in the demo
 - [[Sir Michael Caine]] — voice used for the phone booth AI agent
-- [[AI-Assisted Hardware Reverse Engineering]] — the methodology he pioneered
+- [[AIAssisted Hardware Reverse Engineering]] — the methodology he pioneered
 - [[AI as Orchestrator, Human as Hands]] — his role during the process
 - [[summary-20260529 - Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs]] — source

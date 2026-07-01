@@ -17,7 +17,7 @@ Intent and Plan is the codified goal that replaces the Pull Request as the unit 
 - Creates a new loop rather than stopping the current one
 - Human interaction becomes: "Does it look good? Should I change something else?" → "Continue"
 - Relates to the broader [[Plan and Review Shift]] in software engineering
-- Enables parallel agents working on independent features that semantically group at the [[Pre-merge Queue]]
+- Enables parallel agents working on independent features that semantically group at the [[PreMerge Queue]]
 
 ## Related
 - [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — source
@@ -25,4 +25,4 @@ Intent and Plan is the codified goal that replaces the Pull Request as the unit 
 - [[Plan and Review Shift]] — broader industry shift toward plan-based development
 - [[SpecificationDrivenDevelopment]] — related approach using formal specs
 - [[AgentHarness]] — the loop that consumes intent and plan
-- [[Pre-merge Queue]] — where semantically grouped plans are approved
+- [[PreMerge Queue]] — where semantically grouped plans are approved

@@ -26,14 +26,14 @@ Cascaded systems in voice AI refer to the three-stage architecture where audio i
 ## Related
 - [[summary-20260509 - Voice AI： when is the ＂Her＂ moment — Neil Zeghidour, CEO, Gradium AI]] — source
 - [[summary-20260531 - Engineering voice agents： Latency, quality, and scale — Rishabh Bhargava, Together AI]] — source
-- [[Speech-to-Speech Models]] — alternative architecture
+- [[SpeechToSpeech Models]] — alternative architecture
 - [[Voice Agent Pipeline Architecture]] — the full pipeline including orchestrator and infrastructure
 - [[Voice AI]] — parent domain
 - [[Fillers (Voice AI)]] — latency mitigation technique
 - [[Latency]] — key challenge
-- [[Tool Calling]] — current bottleneck
+- [[ToolCalling]] — current bottleneck
 - [[Gradium AI]] — implements streaming cascaded systems
 - [[Streaming TTS]] — component of cascaded systems
 - [[Semantic VAD]] — component of cascaded systems
-- [[Co-location (Voice AI)]] — latency optimization strategy
+- [[CoLocation (Voice AI)]] — latency optimization strategy
 - [[Auto Scaling for Voice Agents]] — scaling infrastructure

@@ -20,7 +20,7 @@ A Frontier API is a cloud-hosted large language model endpoint (e.g., OpenAI, An
 ## Related
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Model Spectrum]] — the continuum this sits on
-- [[Fine-tuning]] — the next step beyond frontier APIs
-- [[Domain-Specific Models]] — destination for maturing products
+- [[FineTuning]] — the next step beyond frontier APIs
+- [[DomainSpecific Models]] — destination for maturing products
 - [[Custom Inference Endpoint]] — self-hosted alternative
 - [[Prompt Engineering]] — the only customization available at this level

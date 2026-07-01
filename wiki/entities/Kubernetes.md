@@ -19,4 +19,4 @@ Kubernetes is a container orchestration platform. In the OpenHands architecture,
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
 - [[Docker]] — containerization technology orchestrated by Kubernetes
 - [[OpenHands]] — platform using Kubernetes for scaling
-- [[Cloud-Based Agent Sandboxes]] — concept enabled by Kubernetes
+- [[CloudBased Agent Sandboxes]] — concept enabled by Kubernetes

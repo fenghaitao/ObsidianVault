@@ -27,8 +27,8 @@ Dr. Satya Nitta introduces Emergence, an R&D AI company advancing the science of
 - [[Agent E]] — open-source web agent
 - [[IBM Watson]] — prior scaled AI deployment
 - [[Amazon Alexa]] — prior scaled AI deployment
-- [[Self-Improving Agents]] — core R&D focus
-- [[Agent-Oriented Programming]] — paradigm for composing agents
+- [[SelfImproving Agents]] — core R&D focus
+- [[AgentOriented Programming]] — paradigm for composing agents
 - [[Web Agent]] — category of AI agents that control web browsers
 - [[AgenticLoop]] — plan-act-verify-remember-improve cycle
 - [[Agent Orchestration]] — orchestrating across multiple agents

@@ -26,6 +26,6 @@ Matthias Luebken is co-founder of Seven AI, a small European startup building AI
 - [[Coding Agents as Building Blocks]] — core thesis
 - [[Make it Easy for Agents]] — architectural pattern he advocates
 - [[Agent Session Reuse]] — pattern in his sales system
-- [[Agent-Specific MD Files]] — agent.md/customer.md pattern
-- [[Multi-Channel Agent Routing]] — email routing pattern
+- [[AgentSpecific MD Files]] — agent.md/customer.md pattern
+- [[MultiChannel Agent Routing]] — email routing pattern
 - [[aiDotEngineer]] — event where he presented

@@ -20,7 +20,7 @@ Application Capabilities are a [[Tailscale]] ACL (Access Control List) feature t
 
 ## Related
 - [[Tailscale]] — platform providing this feature
-- [[Network-Level Identity]] — broader concept; application capabilities are a component
+- [[NetworkLevel Identity]] — broader concept; application capabilities are a component
 - [[Aperture (Tailscale)]] — uses application capabilities
 - [[TS Net]] — library for reading application capabilities
 - [[summary-20260601 - What if the network was the sandbox — Remy Guercio, Tailscale]] — source

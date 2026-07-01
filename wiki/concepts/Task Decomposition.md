@@ -26,8 +26,8 @@ Task decomposition is the process of breaking down a large software engineering 
 - [[Dependency Graph Refactoring]] — dependency tree strategy
 - [[Scaffolding Pattern]] — scaffolding strategy
 - [[Parallel Agents]] — execution model
-- [[Sub-agent Orchestration]] — related pattern
+- [[SubAgent Orchestration]] — related pattern
 - [[summary-20260422 - Agents need more than a chat - Jacob Lauritzen, CTO Legora]] — source (decomposition as a strategy to increase trust by making sub-tasks verifiable)
 - [[VerifiersRule]] — decomposition helps bring tasks into the "easy to verify" quadrant
-- [[Agent-Human Collaboration]] — decomposition increases trust by creating verifiable sub-tasks while leaving hard-to-verify decisions to humans
+- [[AgentHuman Collaboration]] — decomposition increases trust by creating verifiable sub-tasks while leaving hard-to-verify decisions to humans
 - [[JacobLauritzen]] — presented decomposition in the context of legal AI (breaking contract writing into verifiable sub-tasks like formatting and definition checking)

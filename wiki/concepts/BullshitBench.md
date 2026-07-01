@@ -31,12 +31,12 @@ BullshitBench is a benchmark created by Peter Gostev (Arena.ai) that tests wheth
 ## Related
 - [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source
 - [[Peter Gostev]] — creator
-- [[Arena.ai]] — platform where creator works
+- [[ArenaAi]] — platform where creator works
 - [[Nonsense Detection]] — the capability being measured
 - [[Reasoning Limits]] — finding that reasoning worsens performance
-- [[LLM-as-Judge]] — grading methodology
+- [[LLMAsJudge]] — grading methodology
 - [[Model Dissatisfaction Rate]] — complementary Arena metric
-- [[Model Behavior]] — solve-at-any-cost training critique
+- [[ModelBehavior]] — solve-at-any-cost training critique
 - [[Anthropic]] — best performer
 - [[OpenAI]] — middle performer
 - [[GoogleDeepMind]] — middle performer

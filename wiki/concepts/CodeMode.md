@@ -66,7 +66,7 @@ Code Mode is a paradigm where LLMs generate executable code (typically JavaScrip
 - [[AgentHarness]] — the safe execution environment architecture
 - [[InhabitingTheStateMachine]] — emergent behavior enabled by code mode
 - [[GenerativeUI]] — application of code mode to UI generation
-- [[Saved Mini-Scripts]] — user-facing pattern enabled by code mode
+- [[Saved MiniScripts]] — user-facing pattern enabled by code mode
 - [[summary-20260419 - The Future of MCP — David Soria Parra, Anthropic]] — source (programmatic tool calling as code mode)
 - [[ProgrammaticToolCalling]] — same concept under a different name, advocated by Anthropic
 - [[DavidSoriaParra]] — advocated for this pattern in MCP context

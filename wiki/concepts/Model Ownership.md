@@ -18,6 +18,6 @@ Model ownership refers to the enterprise advantage of training and deploying you
 
 ## Related
 - [[Tokenomics]] — cost control through ownership
-- [[Reinforcement Learning with LLMs]] — the technique enabling viable owned models
-- [[Instruction Fine-Tuning vs RL]] — why fine-tuning alone doesn't provide ownership advantages
+- [[ReinforcementLearningWithLLMs]] — the technique enabling viable owned models
+- [[Instruction FineTuning vs RL]] — why fine-tuning alone doesn't provide ownership advantages
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

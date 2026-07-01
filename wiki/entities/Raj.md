@@ -24,7 +24,7 @@ Raj is a Staff Software Engineer at IKEA in the Delivery and Services domain, an
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[IKEA]] — employer
-- [[Demand-Driven Context]] — methodology created
+- [[DemandDriven Context]] — methodology created
 - [[Context Gap Scanner]] — automation tool demonstrated
 - [[Agent as Knowledge Manager]] — key concept
 - [[Pull vs Push Context]] — core paradigm shift

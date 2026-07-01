@@ -143,7 +143,7 @@ Kitze (creator of Sizzy.co, Benji, and Wolfer) delivers a talk tracing his lifel
 - [[Nested Context]] — Wolfer's hierarchical topic context injection
 - [[Personal Agent]] — owning your assistant, files, memory
 - [[Agent Specialization]] — one agent per purpose vs one general agent
-- [[Self-Hosting for Agents]] — moving data off cloud for agent access
+- [[SelfHosting for Agents]] — moving data off cloud for agent access
 - [[Agent Fatigue]] — community burnout from unreliable agents
 - [[Cloud Agents vs Custom Agents]] — two diverging futures
 - [[Local Models for Agents]] — local models winning for normies

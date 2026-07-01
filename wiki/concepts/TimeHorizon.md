@@ -29,7 +29,7 @@ Time Horizon is METR's metric for AI autonomous capabilities, defined as the hum
 - [[BenchmarkSaturation]] — problem time horizon partially addresses
 - [[HCAST]] — task distribution used in measurement
 - [[SWAR]] — task distribution used in measurement
-- [[RE-Bench]] — task distribution used in measurement
+- [[REBench]] — task distribution used in measurement
 - [[ComputeCapabilityProportionality]] — framework linking time horizon to compute growth
 - [[MonitoredVsUnmonitoredCapabilities]] — approach to extend time horizon's useful range
 - [[CapabilityExtrapolation]] — broader framework time horizon fits into

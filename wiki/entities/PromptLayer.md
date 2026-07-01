@@ -25,4 +25,4 @@ PromptLayer is an AI engineering workbench and platform for prompt management, e
 - [[JaredZoneraich]] — founder
 - [[summary-20251226 - How Claude Code Works - Jared Zoneraich, PromptLayer]] — source
 - [[EvalEngineering]] — core capability of the platform
-- [[LLM-as-Judge]] — evaluation technique used in the platform
+- [[LLMAsJudge]] — evaluation technique used in the platform

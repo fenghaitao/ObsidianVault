@@ -25,7 +25,7 @@ Preserve Meaning is the principle that in agent systems, everything is context �
 - [[summary-20260530 - Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, Google DeepMind]] — source
 - [[PhilippSchmid]] — speaker
 - [[Text as State]] — the specific mechanism this principle describes
-- [[Context Engineering]] — the discipline of managing meaning-rich context
+- [[ContextEngineering]] — the discipline of managing meaning-rich context
 - [[Context Management]] — practical techniques for preserving meaning
 - [[Semantic Understanding]] — the LLM capability that makes this possible
 - [[Agent Memory]] — how preserved meaning persists across interactions

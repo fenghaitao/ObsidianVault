@@ -39,6 +39,6 @@ Kitze is a developer and creator known for Sizzy.co, Benji, and Wolfer. He is a 
 - [[Agent Unreliability]] — documented community struggles
 - [[Nested Context]] — Wolfer's key innovation
 - [[Personal Agent]] — owning assistant, files, memory
-- [[Self-Hosting for Agents]] — moving data off cloud
+- [[SelfHosting for Agents]] — moving data off cloud
 - [[Agent Fatigue]] — community burnout
 - [[Agent Specialization]] — one agent per purpose

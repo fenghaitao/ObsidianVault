@@ -18,9 +18,9 @@ Continuous model improvement is the practice of ongoing retraining, refinement, 
 - **Production context**: Continuous improvement must handle both pre-production evaluation and post-production monitoring
 
 ## Related
-- [[Reinforcement Learning with LLMs]] — the technique that enables systematic continuous improvement
+- [[ReinforcementLearningWithLLMs]] — the technique that enables systematic continuous improvement
 - [[Model Lifecycle Acceleration]] — the operational goal
 - [[Myth of the Last Mile]] — the misconception that continuous improvement addresses
 - [[Reward Signal]] — the feedback mechanism driving improvement
-- [[Instruction Fine-Tuning vs RL]] — why alternatives fall short
+- [[Instruction FineTuning vs RL]] — why alternatives fall short
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

@@ -24,5 +24,5 @@ Compacting is a technique where an LLM session's conversation history is summari
 - [[Smart Zone and Dumb Zone]] — the reason compacting exists
 - [[Memento Pattern for LLMs]] — Pocock's preferred alternative
 - [[Context Management]] — broader context strategies
-- [[Auto-compaction]] — automated version
+- [[AutoCompaction]] — automated version
 - [[ContextCompression]] — related technique

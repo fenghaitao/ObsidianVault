@@ -21,6 +21,6 @@ Gemini 3 Flash is a fast variant of Google's Gemini 3 model used by Play Magnus 
 - [[Play Magnus]] — uses Gemini 3 Flash for commentary generation
 - [[Gemini3]] — the full Gemini 3 model family
 - [[Open Router]] — used to compare Gemini 3 Flash against other models
-- [[Latency vs Quality Trade-offs]] — Gemini 3 Flash chosen for latency over quality
+- [[Latency vs Quality TradeOffs]] — Gemini 3 Flash chosen for latency over quality
 - [[LLM Hallucination In Chess]] — still an issue even at 75% accuracy
 - [[summary-20260513 - Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take]] — source

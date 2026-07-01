@@ -19,6 +19,6 @@ Core loop as orchestrator is an agent architecture where the main agentic loop, 
 ## Related
 - [[summary-20251222 - The 3 Pillars of Autonomy – Michele Catasta, Replit]] — source
 - [[Parallel Agents]] — related pattern
-- [[Sub-agent Orchestration]] — foundational pattern
+- [[SubAgent Orchestration]] — foundational pattern
 - [[Autonomous Coding Agents]] — application domain
-- [[Replit Agent]] — product implementing this
+- [[ReplitAgent]] — product implementing this

@@ -21,4 +21,4 @@ PersonalPlex is a speech-to-speech model published by Nvidia, built based on Mos
 - [[Moshi]] — base model
 - [[Nvidia]] — publisher
 - [[Full Duplex]] — key capability
-- [[Speech-to-Speech Models]] — model category
+- [[SpeechToSpeech Models]] — model category

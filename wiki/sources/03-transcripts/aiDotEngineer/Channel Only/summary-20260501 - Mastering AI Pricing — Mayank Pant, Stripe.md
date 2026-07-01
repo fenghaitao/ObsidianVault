@@ -49,10 +49,10 @@ Mayank Pant, a billing solution architect at Stripe, presents a five-step framew
 - [[Stripe]] — billing platform
 - [[AI Pricing]] — the core concept
 - [[Hybrid Pricing]] — subscription + usage-based model
-- [[Value-Based Pricing]] — pricing based on customer-perceived value
-- [[Outcome-Based Pricing]] — pricing based on business results
+- [[ValueBased Pricing]] — pricing based on customer-perceived value
+- [[OutcomeBased Pricing]] — pricing based on business results
 - [[Pricing Iteration]] — frequent pricing changes as competitive advantage
-- [[Credit-Based Pricing]] — abstracting features behind credits
+- [[CreditBased Pricing]] — abstracting features behind credits
 - [[Pricing Guardrails]] — usage caps, notifications, rate limiting
 - [[Intercom]] — example of outcome-based pricing
 - [[ElevenLabs]] — building on Stripe with hybrid pricing

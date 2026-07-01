@@ -22,7 +22,7 @@ Peter Gostev is a researcher at Arena.ai who created BullshitBench, a benchmark 
 
 ## Related
 - [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source
-- [[Arena.ai]] — platform he works at
+- [[ArenaAi]] — platform he works at
 - [[BullshitBench]] — benchmark he created
 - [[Model Dissatisfaction Rate]] — Arena metric he presented
 - [[Anthropic]] — best BullshitBench performer
@@ -32,4 +32,4 @@ Peter Gostev is a researcher at Arena.ai who created BullshitBench, a benchmark 
 - [[Reasoning Limits]] — his finding that reasoning can worsen nonsense detection
 - [[Nonsense Detection]] — core capability BullshitBench measures
 - [[BenchmarkSaturation]] — context for his critique of standard benchmarks
-- [[Model Behavior]] — his observation about solve-at-any-cost training
+- [[ModelBehavior]] — his observation about solve-at-any-cost training

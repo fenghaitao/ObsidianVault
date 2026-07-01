@@ -41,7 +41,7 @@ Ivan Leo from Manus AI demonstrates the newly launched Manus API and argues that
 - [[General AI Agent]] — An AI agent designed for diverse tasks across many interfaces
 - [[Agent Polling Pattern]] — Repeatedly checking task status until completion
 - [[Webhooks for Agents]] — Push-based notification for agent task lifecycle events
-- [[Multi-Turn Conversations]] — Maintaining context across sequential agent interactions
+- [[MultiTurn Conversations]] — Maintaining context across sequential agent interactions
 - [[File Upload for Agents]] — Providing files as context for agent tasks
 - [[Agent Sandbox]] — Isolated Docker-based execution environment for agent code
 - [[Agent Connectors]] — Pre-configured integrations that work out of the box

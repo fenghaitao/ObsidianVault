@@ -2,7 +2,7 @@
 title: "Agent Experiments"
 type: concept
 category: methodology
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260507 - Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260607 - LLM Observability, Evaluation, Experimentation Platform — Dat Ngo, Arize.md"]
 last_updated: 2026-06-29
 ---
 
@@ -48,7 +48,7 @@ The old paradigm (still useful) is evals — ship a change and see how it affect
 - [[ExplicitSignals]] — signals used for comparison
 - [[UserFrustration]] — key signal tracked in experiments
 - [[Raindrop]] — platform with built-in experiment support
-- [[Zubin Koticha]] — introduced the concept
+- [[ZubinKoticha]] — introduced the concept
 - [[Statsig]] — experiment analysis integration
 - [[BigQuery]] — data export for custom experiment analysis
 - [[Snowflake]] — data export for custom experiment analysis

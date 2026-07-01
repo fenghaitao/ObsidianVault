@@ -32,7 +32,7 @@ Sander Dieleman, a research scientist at Google DeepMind on the generative media
 - [[TPU]] — Tensor Processing Unit, Google's AI accelerator
 - [[Stable Diffusion]] — Reference latent diffusion model mentioned for autoencoder dimensions
 - [[GLIDE]] — OpenAI's early pixel-space diffusion model at scale (2021)
-- [[EQ-VAE]] — Paper on improving autoencoder training for latent diffusion
+- [[EQVAE]] — Paper on improving autoencoder training for latent diffusion
 - [[ImageNet]] — Dataset used for Fourier analysis examples
 - [[Genie1]] — Example of hybrid auto-regressive + diffusion video model
 - [[Genie2]] — Example of hybrid auto-regressive + diffusion video model

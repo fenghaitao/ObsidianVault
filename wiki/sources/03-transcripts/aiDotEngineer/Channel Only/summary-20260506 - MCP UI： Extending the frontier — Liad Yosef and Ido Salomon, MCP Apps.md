@@ -68,6 +68,6 @@ Ido Salomon and Liad Yosef present MCP UI and MCP Apps, the first official MCP e
 - [[MCP Apps Message Passing]] — standardized message passing between UI and host
 - [[MCP Apps UI Spectrum]] — notification, tool call, prompt message types
 - [[Reusable Views]] — upcoming MCP Apps feature
-- [[Agent-to-UI Interaction]] — upcoming MCP Apps feature for model-driven UI interaction
+- [[AgentToUI Interaction]] — upcoming MCP Apps feature for model-driven UI interaction
 - [[Predefined UI]] — black-box company-built UI in MCP Apps
 - [[Declarative UI]] — structured JSON UI with host-rendered components

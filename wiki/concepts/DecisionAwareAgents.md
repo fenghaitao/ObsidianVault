@@ -21,7 +21,7 @@ Decision-aware agents go beyond knowledge provision (what they can do) to incorp
 ## Related
 
 - [[summary-20260528 - Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kollegger & Zaid Zaim, Neo4j]] — source
-- [[ContextGraphs]] — underlying architecture
+- [[Context Graphs]] — underlying architecture
 - [[Neo4j]] — graph database platform
-- [[AgentMemory]] — memory model
+- [[Agent Memory]] — memory model
 - [[ContextEngineering]] — parent practice

@@ -27,6 +27,6 @@ Handing Over Control is the principle that agent builders must trust the LLM to 
 - [[Traffic Controller vs Dispatcher]] — the metaphor for this paradigm shift
 - [[Trust But Verify]] — the complementary principle: give autonomy but validate
 - [[Stop Fighting the Model]] — related principle: don't force rigid workflows
-- [[Non-Deterministic Agents]] — the technical reality driving this shift
+- [[NonDeterministicAgents]] — the technical reality driving this shift
 - [[Bounded Autonomy]] — related concept: balancing freedom and control
 - [[AgenticLoop]] — the execution pattern where the LLM has agency

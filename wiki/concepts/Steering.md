@@ -22,5 +22,5 @@ Steering is Amazon Kiro's persistent memory and rules system (analogous to Curso
 - [[summary-20260109 - Spec-Driven Development： Agentic Coding at FAANG Scale and Quality — Al Harris, Amazon Kiro]] — source
 - [[AmazonKiro]] — IDE with steering feature
 - [[SpecificationDrivenDevelopment]] — paradigm steering supports
-- [[AgentMemory]] — related concept for agent state persistence
+- [[Agent Memory]] — related concept for agent state persistence
 - [[ContextBaselines]] — related to persistent agent knowledge

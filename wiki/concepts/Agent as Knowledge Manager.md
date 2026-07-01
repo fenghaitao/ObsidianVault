@@ -19,7 +19,7 @@ Agent as Knowledge Manager is the role transformation at the heart of Demand-Dri
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology enabling this role
+- [[DemandDriven Context]] — methodology enabling this role
 - [[Pull vs Push Context]] — the paradigm shift
 - [[Knowledge Curation]] — the core activity
 - [[Agent Failure as Discovery]] — how agents discover gaps

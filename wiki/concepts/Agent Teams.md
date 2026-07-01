@@ -21,10 +21,10 @@ Agent Teams is a Claude Code feature where sub-agents can communicate directly w
 
 ## Related
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
-- [[Sub-Agents]] — predecessor primitive
-- [[Generator-Evaluator Pattern]] — related adversarial pattern
+- [[SubAgents]] — predecessor primitive
+- [[GeneratorEvaluator Pattern]] — related adversarial pattern
 - [[AgentToAgentCommunication]] — MCP primitive for agent communication
-- [[Multi-Agent Architecture]] — broader category
+- [[MultiAgentArchitecture]] — broader category
 - [[Agent Orchestration]] — coordination approaches
 - [[ClaudeCode]] — product with this feature
 - [[ClaudeAgentSDK]] — framework supporting agent teams

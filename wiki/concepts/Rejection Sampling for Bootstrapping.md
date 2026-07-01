@@ -21,5 +21,5 @@ Rejection sampling for bootstrapping is a technique that uses an RL environment 
 - [[Reward Signal]] — the mechanism that identifies good trajectories
 - [[Mock User]] — used to create realistic environments for trajectory generation
 - [[Synthetic Data Generation]] — broader concept
-- [[Reinforcement Learning with LLMs]] — the training technique that follows bootstrapping
+- [[ReinforcementLearningWithLLMs]] — the training technique that follows bootstrapping
 - [[summary-20260512 - Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML]] — source

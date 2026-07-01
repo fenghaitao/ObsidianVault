@@ -19,6 +19,6 @@ Ian Cooper is the author of the influential talk "TDD Where It All Went Wrong," 
 - [[summary-20260516 - Beyond Code Coverage： Functionality Testing with Playwright MCP — Marlene Mhangami, Microsoft]] — source
 - [[Marlene Mhangami]] — speaker who recommended his work
 - [[TDD with AI]] — related methodology
-- [[Red-Green TDD]] — TDD flavor discussed
+- [[RedGreen TDD]] — TDD flavor discussed
 - [[Functionality Testing]] — testing approach aligned with his philosophy
 - [[KentBeck]] — creator of TDD

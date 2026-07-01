@@ -23,7 +23,7 @@ MAE (Masked Autoencoder) is a ViT-specific self-supervised pretraining technique
 - [[summary-20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow]] — source
 - [[ViT (Vision Transformer)]] — architecture this works with
 - [[DINOv3]] — complementary pretraining method
-- [[Self-Supervised Learning (Vision)]] — broader paradigm
+- [[SelfSupervised Learning (Vision)]] — broader paradigm
 - [[BERT]] — language analog (masked token prediction)
 - [[SAM (Segment Anything Model)]] — uses MAE pretrained backbones
 - [[Hera]] — uses MAE for bias recovery

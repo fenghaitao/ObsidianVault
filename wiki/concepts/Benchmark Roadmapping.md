@@ -12,13 +12,13 @@ Benchmark Roadmapping is the second "art" axis of [[Benchmarking Agents]]. It re
 ## Key Information
 - Great benchmarks inspire new research directions, not just measure existing ones
 - They help the field ideate and come up with new ways of thinking about problems
-- Exemplar: [[SWE-bench]] started with a simple idea (resolve GitHub issues via PRs) and spawned SWE-bench Lite, Verified, Pro, Multilingual, Multimodal, and more
+- Exemplar: [[SWEBench]] started with a simple idea (resolve GitHub issues via PRs) and spawned SWE-bench Lite, Verified, Pro, Multilingual, Multimodal, and more
 - SWE-bench's evolution is still relevant as of 2026 and has reshaped how the field thinks about coding agents
 - Roadmapping creates a multiplier effect: one benchmark inspires dozens of follow-up research contributions
 
 ## Related
 - [[Benchmarking Agents]] — parent framework
-- [[SWE-bench]] — exemplar benchmark
+- [[SWEBench]] — exemplar benchmark
 - [[Benchmark Thesis]] — complementary art axis
 - [[Researcher UX]] — complementary art axis
 - [[summary-20260604 - The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI]] — source transcript

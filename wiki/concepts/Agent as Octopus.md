@@ -26,4 +26,4 @@ last_updated: 2026-06-29
 - [[Code as Depreciating Asset]] — complementary insight
 - [[AgentHarnessSeparation]] — related architectural principle
 - [[MinimalAgentDesign]] — related design philosophy
-- [[Fine-Grained Tool Permissions]] — the necessary constraints (security)
+- [[FineGrained Tool Permissions]] — the necessary constraints (security)

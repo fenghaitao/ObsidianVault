@@ -2,8 +2,8 @@
 title: "WorkerD"
 type: entity
 tags: [cloudflare, sandbox, code-execution, security, v8]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - MCP = Mega Context Problem - Matt Carey.md"]
-last_updated: 2026-06-29
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - MCP = Mega Context Problem - Matt Carey.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260408 - Why, and how you need to sandbox AI-Generated Code — Harshil Agrawal, Cloudflare.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
@@ -18,12 +18,16 @@ WorkerD is Cloudflare's dynamic worker sandbox for running untrusted agent-gener
 - Demonstrated in Matt Carey's talk: listing workers, deploying workers, adding access policies, inspecting DNS
 - Part of Cloudflare's code mode approach: agents generate code that runs in WorkerD against the Cloudflare API
 - Alternative to Deno and Pydantic Monty for running untrusted code
+- Harshil Agrawal used WorkerD isolates in an OpenClaw alternative: `loader.load()` creates a new isolate, `globalOutbound null` blocks all network, bindings define the entire surface area the AI code can touch
+- Network control spectrum: null (fully blocked), proxied through your service, or fully open (not recommended)
 
 ## Related
 - [[summary-20260425 - MCP = Mega Context Problem - Matt Carey]] — source
+- [[summary-20260408 - Why, and how you need to sandbox AI-Generated Code — Harshil Agrawal, Cloudflare]] — source
 - [[Cloudflare]] — parent company
 - [[CloudflareWorkers]] — platform
 - [[V8Isolates]] — execution environment
 - [[CodeMode]] — paradigm enabled by WorkerD
 - [[CapabilityBasedSecurity]] — security model
 - [[Untrusted Code Execution]] — concept
+- [[Harshil Agrawal]] — used WorkerD for OpenClaw alternative

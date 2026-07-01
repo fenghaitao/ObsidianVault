@@ -35,7 +35,7 @@ Kaggle is the world's largest AI/ML community with 30+ million users, owned by G
 - [[Eval Hackathons]] — community benchmark creation product
 - [[NicholasKang]] — PM for Kaggle Benchmarks
 - [[MichaelAaron]] — SWE working on evaluations and benchmarks
-- [[Bradley-Terry Pairing]] — statistical technique used in Game Arena
+- [[BradleyTerry Pairing]] — statistical technique used in Game Arena
 - [[OpenSpiel]] — RL framework used for Game Arena
 - [[summary-20260427 - Gemma 4 Deep Dive — Cassidy Hardin, Researcher, Google DeepMind]] — source
 - [[summary-20260525 - Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind]] — source

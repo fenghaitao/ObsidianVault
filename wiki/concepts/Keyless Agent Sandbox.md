@@ -7,7 +7,7 @@ last_updated: 2026-06-30
 ---
 
 ## Definition
-A Keyless Agent Sandbox is an agent execution environment that contains zero API keys, OAuth tokens, or other credentials. Instead of carrying credentials inside the sandbox, the agent's identity and permissions are provided by the network connection itself via [[Network-Level Identity]]. This eliminates the risk of credential exfiltration, misuse, or the agent "going beyond its boundaries" using stolen keys.
+A Keyless Agent Sandbox is an agent execution environment that contains zero API keys, OAuth tokens, or other credentials. Instead of carrying credentials inside the sandbox, the agent's identity and permissions are provided by the network connection itself via [[NetworkLevel Identity]]. This eliminates the risk of credential exfiltration, misuse, or the agent "going beyond its boundaries" using stolen keys.
 
 ## Key Information
 - **The problem it solves**: Traditional agent sandboxes (VMs, containers, GitHub Actions runners) require API keys or OAuth tokens to be placed inside the sandbox. These can be exfiltrated, shared, or misused by agents — especially clever models running in long loops
@@ -20,7 +20,7 @@ A Keyless Agent Sandbox is an agent execution environment that contains zero API
 
 ## Related
 - [[Network as Sandbox]] — architectural pattern
-- [[Network-Level Identity]] — mechanism that enables keyless sandboxes
+- [[NetworkLevel Identity]] — mechanism that enables keyless sandboxes
 - [[AI Gateway]] — gateway pattern used with keyless sandboxes
 - [[Agent Sandboxing]] — traditional sandboxing approaches
 - [[Aperture (Tailscale)]] — reference implementation

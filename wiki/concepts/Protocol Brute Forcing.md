@@ -20,8 +20,8 @@ Protocol Brute Forcing is a reverse engineering technique that systematically it
 - Contrast with the man-in-the-middle approach, which was needed for discovering commands with binary payloads (like the TS persistence command)
 
 ## Related
-- [[AI-Assisted Hardware Reverse Engineering]] — broader methodology
-- [[Man-in-the-Middle Protocol Analysis]] — complementary technique for hidden commands
+- [[AIAssisted Hardware Reverse Engineering]] — broader methodology
+- [[ManInTheMiddle Protocol Analysis]] — complementary technique for hidden commands
 - [[Checksum Reverse Engineering]] — next step after discovering commands
 - [[Viking Phone]] — hardware whose protocol was brute-forced
 - [[ClaudeCode]] — AI tool that automated the brute force

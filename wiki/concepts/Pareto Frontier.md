@@ -36,4 +36,4 @@ The Pareto Frontier has two key applications in AI:
 - [[summary-20260524 - Scaling the Next Paradigm of Heterogeneous Intelligence — Adrian Bertagnoli, Callosum]] — source
 - [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source (model evaluation use)
 - [[Model Efficiency]] — the efficiency dimension of the Pareto frontier
-- [[State-of-the-Art Ambiguity]] — the Pareto frontier resolves SOTA ambiguity by showing multiple optimal models
+- [[StateOfTheArt Ambiguity]] — the Pareto frontier resolves SOTA ambiguity by showing multiple optimal models

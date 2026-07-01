@@ -28,7 +28,7 @@ Building effective benchmarks for AI agents requires both **science** (rigorous 
 
 2. **Distributional Control**: Define a clear taxonomy for the domain and distribute tasks intentionally across it — either representing real-world traffic distributions or characterizing disproportionately important failure modes. Example: [[MMLU]] constructed a taxonomy of 57 academic and professional domains across STEM, humanities, etc.
 
-3. **Difficulty and Model Headroom**: Benchmarks must be unsaturated, exposing real soft spots in capabilities and reliably separating where models sit at the frontier. Example: [[ARC-AGI]] remained unsaturated for years and correlated well with the o1-style reasoning push. ARC-AGI 3 launched with frontier models under 1%.
+3. **Difficulty and Model Headroom**: Benchmarks must be unsaturated, exposing real soft spots in capabilities and reliably separating where models sit at the frontier. Example: [[ARCAGI]] remained unsaturated for years and correlated well with the o1-style reasoning push. ARC-AGI 3 launched with frontier models under 1%.
 
 4. **Robust Eval Methodology**: Go beyond accuracy to capture real-world dimensions that matter — cost, latency, reasoning trace quality, intermediate steps, tool use, policy adherence. Example: [[TauBench]] evaluates both task completion and adherence to policy constraints (e.g., booking the right flight but violating fare class rules still fails).
 
@@ -36,7 +36,7 @@ Building effective benchmarks for AI agents requires both **science** (rigorous 
 
 1. **Benchmark Thesis**: Great benchmarks have a research question about where the field is going. They are bets on a subspace of capabilities. Example: [[TerminalBench]] bet on the CLI as a core abstraction for general-purpose agent-computer interaction — a bet that has proven largely correct.
 
-2. **Benchmark Roadmapping**: Great benchmarks inspire new research directions and spawn families of related benchmarks. Example: [[SWE-bench]] spawned SWE-bench Lite, Verified, Pro, Multilingual, Multimodal, and inspired an entire family of coding benchmarks.
+2. **Benchmark Roadmapping**: Great benchmarks inspire new research directions and spawn families of related benchmarks. Example: [[SWEBench]] spawned SWE-bench Lite, Verified, Pro, Multilingual, Multimodal, and inspired an entire family of coding benchmarks.
 
 3. **Researcher UX**: The most prescient benchmark builders prioritize the researcher and builder experience — making it easy to run models against the benchmark, contribute new tasks, and leverage signals for RL or tuning. Example: [[Helm]] (Stanford CRFM) pioneered standardized modular harnesses; Harbor (shipped with Terminal Bench 2.0) became de facto evaluation infrastructure.
 
@@ -59,11 +59,11 @@ Snorkel AI committed $3 million to fund open benchmarks. Over 120 applications r
 - [[OpenBenchmarksGrant]] — $3M grant program funding open benchmarks for AI agents
 - [[GPQA]] — Graduate-level benchmark with adversarial quality control mechanisms
 - [[MMLU]] — Massive Multitask Language Understanding, 57-domain taxonomy
-- [[ARC-AGI]] — Abstraction and Reasoning Corpus, intentionally unsaturated reasoning benchmark
+- [[ARCAGI]] — Abstraction and Reasoning Corpus, intentionally unsaturated reasoning benchmark
 - [[ARCPrizeFoundation]] — Organization behind ARC-AGI benchmarks
 - [[TerminalBench]] — CLI-based benchmark for general-purpose agent computer use
 - [[TauBench]] — Multi-turn agent evaluation with policy constraint adherence
-- [[SWE-bench]] — Software engineering benchmark that spawned a family of coding benchmarks
+- [[SWEBench]] — Software engineering benchmark that spawned a family of coding benchmarks
 - [[Helm]] — Holistic Evaluation of Language Models, standardized modular harness from Stanford CRFM
 - [[CRFM]] — Stanford Center for Research on Foundation Models
 - [[HarborEval]] — Evaluation infrastructure shipped with Terminal Bench 2.0

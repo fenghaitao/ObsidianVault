@@ -19,4 +19,4 @@ ThunderKittens is a research project from Stanford's Hazy Research group focused
 - [[summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs]] — source
 - [[Hazy Research]] — parent research group
 - [[Stanford]] — affiliated university
-- [[Full-Stack Co-Design]] — related methodology
+- [[FullStack CoDesign]] — related methodology

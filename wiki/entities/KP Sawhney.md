@@ -26,7 +26,7 @@ KP Sawhney is a software engineer on DeepMind's AI platform team. He previously 
 - [[Antigravity]] — agent harness/platform he works on
 - [[Deep Research Agent]] — agent he previously worked on
 - [[Skills]] — mechanism he prefers over MCP
-- [[SkillsGovernance]] — the Darwinian curation process he describes
+- [[Skills Governance]] — the Darwinian curation process he describes
 - [[Agent Quota Management]] — scaling challenge he discusses
 - [[Model Tiering]] — cost management strategy
 - [[Agent Trajectory Store]] — observability tooling

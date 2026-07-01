@@ -16,14 +16,14 @@ The Multiverse, in agentic software development, is a future state where AI agen
 - Dramatically increases resource usage because of all the candidates explored simultaneously
 - Requires the inner agent loop to be extremely fast to be feasible
 - Depends on [[Stateful Development Environment]] to maintain context across candidates
-- All candidates feed into the [[Pre-merge Queue]] for reconciliation
+- All candidates feed into the [[PreMerge Queue]] for reconciliation
 - Represents the logical extreme of agent parallelism in software development
 - Timeline: weeks to months, not years
 
 ## Related
 - [[summary-20260513 - CI⧸CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner]] — source
 - [[Continuous Compute]] — paradigm that enables the Multiverse
-- [[Pre-merge Queue]] — where Multiverse candidates are reconciled
+- [[PreMerge Queue]] — where Multiverse candidates are reconciled
 - [[Git Ledger]] — the serialized target candidates compete for
 - [[Serializability]] — the guarantee needed across candidates
 - [[Stateful Development Environment]] — prerequisite for Multiverse speed

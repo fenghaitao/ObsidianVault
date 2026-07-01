@@ -59,7 +59,7 @@ Matt Pocock delivers a 2-hour workshop walking through his complete AI coding wo
 - [[Shallow Modules]] — from John Ousterhout
 - [[Design the Interface, Delegate the Implementation]] — tip from prior talk
 - [[Design Concept]] — from Frederick P. Brooks
-- [[Specs-to-Code]] — movement Pocock critiques
+- [[SpecsToCode]] — movement Pocock critiques
 - [[Software Fundamentals Matter More Than Ever]] — related thesis
 - [[VibeCoding]] — related anti-pattern
 - [[Skills]] — agent playbooks

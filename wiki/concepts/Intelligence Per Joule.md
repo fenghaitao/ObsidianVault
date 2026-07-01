@@ -21,6 +21,6 @@ Intelligence per joule is a metric for AI efficiency that measures model quality
 ## Related
 - [[summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs]] — source
 - [[Hazy Research]] — developed the metric
-- [[Memory-Bound vs Compute-Bound]] — the technical context for this metric
+- [[MemoryBound vs ComputeBound]] — the technical context for this metric
 - [[Memory Bandwidth]] — one of the three components
 - [[EXO Labs]] — plans to benchmark using this metric

@@ -37,7 +37,7 @@ The question "what model is state-of-the-art?" has no single answer. Both common
 
 ## Concepts Introduced
 
-- [[State-of-the-Art Ambiguity]] — The problem that "state-of-the-art" is not a single, well-defined concept; different leaderboards, tasks, and evaluation methods yield different answers
+- [[StateOfTheArt Ambiguity]] — The problem that "state-of-the-art" is not a single, well-defined concept; different leaderboards, tasks, and evaluation methods yield different answers
 - [[Public Leaderboards]] — Aggregated rankings of AI model performance; useful as a starting point but unreliable when used naively due to inconsistency, lack of task specificity, and small sample sizes
 - [[Elo Score]] — Quality score used by leaderboards to rank models; ranges and meanings vary between leaderboards, making cross-leaderboard comparisons difficult
 - [[Win Rate]] — The percentage of head-to-head battles a model wins; even top models lose 40%+ of battles, meaning the "best" model is wrong for a significant fraction of use cases

@@ -23,11 +23,11 @@ Harness Evolution is the process by which agent harnesses (scaffolding around mo
 
 ## Related
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
-- [[Generator-Evaluator Pattern]] — harness pattern that evolved
+- [[GeneratorEvaluator Pattern]] — harness pattern that evolved
 - [[Context Anxiety]] — model weakness that was addressed
 - [[Agent Harness]] — broader category
 - [[Sprint Decomposition]] — harness component that got simplified
 - [[Compaction]] — technique that replaced session resetting
 - [[RALPH Loop]] — earlier harness pattern
-- [[Model Behavior]] — understanding model-specific behaviors
+- [[ModelBehavior]] — understanding model-specific behaviors
 - [[CoEvolvingLoops]] — related concept

@@ -1,27 +1,27 @@
 ---
-title: "CLI for Agents"
+title: "CLI For Agents"
 type: concept
-tags: [agents, cli, tool-calling, bash, shell]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260425 - MCP = Mega Context Problem - Matt Carey.md"]
-last_updated: 2026-06-29
+tags: [agents, cli, mcp, token-efficiency, tool-design]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260605 - Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google.md"]
+last_updated: 2026-06-30
 ---
 
 ## Definition
-CLI for Agents is a progressive discovery approach where agents use shell access to interact with command-line interfaces via `--help` introspection and command parsing, rather than having all tool descriptions loaded into the context window.
+CLI For Agents is the technique of offering a command-line interface alongside an MCP server, enabling agents to chain commands together for post-processing. This saves tokens because the model doesn't need to process intermediate results — token post-processing happens on the local machine.
 
 ## Key Information
-- One of three approaches to progressive discovery presented by Matt Carey (alongside tool search and code mode)
-- Agent uses shell access to call `--help` on CLI commands, parse the output, and determine which commands and parameters to use
-- Used by OpenClaw and widely popular among agent frameworks
-- Works well but has a key limitation: requires shell access, which is not always available (e.g., Cloud Code)
-- Example: agent calls `wrangler --help`, reads commands, then calls `wrangler d1 --help` to introspect database commands
-- Contrasts with MCP tool calling where all tools are loaded into context upfront
-- Related to the Bash as Universal Adapter pattern: bash provides access to thousands of tools through one interface
+- Third of three token burn reduction angles in Chrome DevTools MCP
+- Chrome DevTools MCP offers both an MCP server and a CLI interface with nearly the same functionality
+- Enables command chaining: e.g., extract accessibility tree with grep, pipe the ID into a click command
+- Key benefit: token savings — the model doesn't need to process intermediate data between commands
+- Token post-processing happens on the user's computer, not in the model's context
+- Contrasts with pure MCP approach where every tool call round-trips through the model
+- Complements [[Slim Mode]] and [[Tool Categorization]]
 
 ## Related
-- [[summary-20260425 - MCP = Mega Context Problem - Matt Carey]] — source
-- [[ProgressiveDiscovery]] — the broader pattern this implements
-- [[BashAsUniversalAdapter]] — related pattern for agent-tool interaction
-- [[OpenClaw]] — agent framework using CLI-based interaction
-- [[ToolSearch]] — alternative progressive discovery approach
-- [[CodeMode]] — alternative progressive discovery approach
+- [[summary-20260605 - Building Agent Interfaces： Lessons from Chrome DevTools (MCP) for Agents — Michael Hablich, Google]] — source
+- [[Slim Mode]] — complementary technique
+- [[Tool Categorization]] — complementary technique
+- [[Tokens Per Successful Outcome]] — metric this optimizes for
+- [[Chrome DevTools MCP]] — implementation
+- [[BashTool]] — related pattern of using shell commands as agent tools

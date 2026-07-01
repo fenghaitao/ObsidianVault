@@ -21,5 +21,5 @@ last_updated: 2026-06-29
 - [[ChrisParsons]] — creator of the rule
 - [[Agent Permission Management]] — implementation of such rules
 - [[Agent Sandboxing]] — technical enforcement
-- [[Agent-Human Collaboration]] — the balance this rule creates
+- [[AgentHuman Collaboration]] — the balance this rule creates
 - [[summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick]] — source transcript

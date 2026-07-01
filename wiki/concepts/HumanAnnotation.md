@@ -28,7 +28,7 @@ Human annotation is the practice of having non-technical domain experts review a
 - [[CrossFunctionalAgentTeams]] — team structure that includes domain experts for annotation
 - [[AgentEvalBroadness]] — why human annotation is needed beyond automated metrics
 - [[EvalFlywheel]] — the continuous loop human annotation feeds into
-- [[LLM-as-Judge]] — automated evaluation validated by human annotation
+- [[LLMAsJudge]] — automated evaluation validated by human annotation
 - [[TopicModelingForAgents]] — automated clustering that complements human annotation at scale
 - [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source (annotation workflow as Phase 1 foundation)
 - [[EvalPracticePhases]] — Phase 1 where human annotation is the starting point

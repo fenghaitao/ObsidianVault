@@ -20,8 +20,8 @@ The Swiss Cheese Model is a safety engineering concept (borrowed from Anthropic'
 
 ## Related
 - [[Code Evals]] — first layer of defense
-- [[LLM-as-Judge]] — second layer of defense
-- [[Meta-Evaluation]] — human review layer
+- [[LLMAsJudge]] — second layer of defense
+- [[MetaEvaluation]] — human review layer
 - [[Cascading Failures]] — the problem the model prevents
 - [[Anthropic]] — originator of the adaptation for AI
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source

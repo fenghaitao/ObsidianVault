@@ -25,7 +25,7 @@ Replit is a company building an autonomous coding agent (Replit Agent) designed 
 - [[summary-20260429 - Build & deploy AI-powered apps — Paige Bailey, Google DeepMind]] — source
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
 - [[MicheleCatasta]] — leader at Replit
-- [[Replit Agent]] — product
+- [[ReplitAgent]] — product
 - [[Three Pillars of Autonomy]] — framework
 - [[Autonomous Coding Agents]] — category
 - [[Gemini 3.1 Pro]] — default model for agent system

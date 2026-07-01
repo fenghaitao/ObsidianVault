@@ -23,8 +23,8 @@ Agent Session Reuse is a pattern where agent sessions are created and reused acr
 - [[summary-20260511 - A Piece of Pi： Embedding The OpenClaw Coding Agent In Your Product — Matthias Luebken, Tavon]] — source
 - [[Pi (coding agent)]] — framework with built-in session support
 - [[OpenClaw]] — multi-channel agent using session-based context
-- [[Agent-Specific MD Files]] — complementary static context pattern
-- [[Multi-Channel Agent Routing]] — routing pattern that works with session reuse
+- [[AgentSpecific MD Files]] — complementary static context pattern
+- [[MultiChannel Agent Routing]] — routing pattern that works with session reuse
 - [[Seven AI]] — company implementing this pattern
 - [[Matthias Luebken]] — speaker who demonstrated the pattern
-- [[AgentMemory]] — broader concept of agent state persistence
+- [[Agent Memory]] — broader concept of agent state persistence

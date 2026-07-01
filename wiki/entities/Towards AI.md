@@ -23,9 +23,9 @@ Towards AI is an educational company that creates courses, videos, training, and
 
 ## Related
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
-- [[Louis-François Bouchard]] — CTO and co-founder
+- [[LouisFrançois Bouchard]] — CTO and co-founder
 - [[Paul Iusztin]] — contributor, author of LLM Engineer's Handbook
 - [[Samridhi]] — consultant and ML engineer
 - [[aiDotEngineer]] — conference where the workshop was presented
 - [[Deep Research Agent]] — system built for content production
-- [[Evaluator-Optimizer Pattern]] — writing workflow used in their system
+- [[EvaluatorOptimizer Pattern]] — writing workflow used in their system

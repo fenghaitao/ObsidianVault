@@ -49,5 +49,5 @@ On-Device AI refers to AI models designed and optimized to run locally on consum
 - [[Marvis]] — on-device TTS (<100ms latency)
 - [[Turbo Quant]] — KV cache compression enabling 1M context on-device
 - [[Accessibility AI]] — key use case for on-device AI
-- [[On-Device Robotics]] — extending on-device AI to physical robots
+- [[OnDevice Robotics]] — extending on-device AI to physical robots
 - [[Hybrid Inference]] — GPU + Neural Engine for on-device optimization

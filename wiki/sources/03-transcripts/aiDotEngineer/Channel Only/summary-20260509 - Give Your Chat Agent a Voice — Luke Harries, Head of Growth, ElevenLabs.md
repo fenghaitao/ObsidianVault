@@ -40,7 +40,7 @@ Chat agents became the default UI paradigm in 2025, but voice is a more natural,
 - [[Chat Agents]] — Text-based AI agents as default app interface; the baseline that voice agents upgrade
 - [[VoiceEngine]] — ElevenLabs product: a wrapper primitive for adding voice to existing chat agents
 - [[Turn Taking]] — Emotion-context-aware detection of pauses and semantic boundaries in voice interactions
-- [[Omni-Channel Voice]] — Voice enabling multiple interaction paradigms: web widgets, phone lines, video calls
+- [[OmniChannel Voice]] — Voice enabling multiple interaction paradigms: web widgets, phone lines, video calls
 - [[Agent Wrapper Pattern]] — Wrapping existing agents with new capabilities via lightweight SDK without rebuilding
 
 ## Related

@@ -19,5 +19,5 @@ CoreBench is a benchmark used to evaluate AI models. It became a notable example
 ## Related
 - [[Anthropic]] — company that discovered the eval issues
 - [[Claude Opus]] — model evaluated
-- [[Meta-Evaluation]] — the practice of validating evals
+- [[MetaEvaluation]] — the practice of validating evals
 - [[summary-20260514 - Ship Real Agents： Hands-On Evals for Agentic Applications — Laurie Voss, Arize]] — source

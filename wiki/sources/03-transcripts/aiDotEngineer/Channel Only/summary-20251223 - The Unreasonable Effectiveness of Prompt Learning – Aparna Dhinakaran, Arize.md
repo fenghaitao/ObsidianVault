@@ -22,11 +22,11 @@ Aparna Dhinakaran of Arize presents prompt learning as a practical alternative t
 - [[Arize]] — AI observability and evaluation platform
 - [[ClaudeCode]] — Anthropic's coding agent
 - [[Cline]] — open-source coding agent
-- [[SWE-bench]] — software engineering benchmark
+- [[SWEBench]] — software engineering benchmark
 - [[DSPy]] — prompt optimization framework from Stanford
 - [[AndrejKarpathy]] — AI researcher who coined "system prompt learning"
 - [[Cursor]] — AI code editor
 - [[PromptLearning]] — concept of iterating on prompts using English feedback
-- [[LLM-as-Judge]] — using LLMs to evaluate and explain outputs
+- [[LLMAsJudge]] — using LLMs to evaluate and explain outputs
 - [[MetaPrompt]] — prompt that generates improved system prompt rules
 - [[EvalEngineering]] — the practice of crafting high-quality evaluation prompts

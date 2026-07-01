@@ -34,6 +34,6 @@ Firecracker is an open-source microVM (micro virtual machine) technology develop
 - [[Snapshot and Restore]] — the durability approach
 - [[Execution Snapshot]] — the captured VM state
 - [[MicroVMArchitecture]] — related infrastructure pattern
-- [[Trigger.dev]] — company using Firecracker for durable agents
+- [[TriggerDev]] — company using Firecracker for durable agents
 - [[Seekable Compression]] — optimization technique
 - [[summary-20260510 - Two Roads to Durable Agents： Replay vs. Snapshot — Eric Allam, CEO, Trigger.dev]] — source

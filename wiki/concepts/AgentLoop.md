@@ -28,7 +28,7 @@ The agent loop is the core execution cycle of an autonomous agent, structured in
 - [[ToolsVsBashVsCodeGen]] — the action modalities
 - [[AgenticSearchInterface]] — designing the gather context step
 - [[Hooks]] — mechanism for inserting verification
-- [[Demand-Driven Context]] — methodology extending the agent loop
+- [[DemandDriven Context]] — methodology extending the agent loop
 - [[Agent Failure as Discovery]] — the failure step in the extended loop
 - [[Knowledge Curation]] — the curation step in the extended loop
 - [[Tool Loop Agent]] — AI SDK v6's agent primitive implementing this pattern

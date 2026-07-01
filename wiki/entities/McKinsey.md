@@ -15,5 +15,5 @@ McKinsey & Company is a global management consulting firm. Cited in the Demand-D
 
 ## Related
 - [[summary-20260505 - Demand-Driven Context： A Methodology for Coherent Knowledge Bases Through Agent Failure]] — source
-- [[Demand-Driven Context]] — methodology addressing the adoption/value gap
+- [[DemandDriven Context]] — methodology addressing the adoption/value gap
 - [[Institutional Knowledge]] — the missing piece between AI adoption and value

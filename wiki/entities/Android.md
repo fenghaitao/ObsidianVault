@@ -22,6 +22,6 @@ Android is Google's mobile operating system. Kitze switched back to Android from
 - [[iOS]] — Apple's mobile OS (limited agent capabilities)
 - [[Google Pixel]] — Android phone with advanced agent features
 - [[AI Core]] — Android system-level GenAI service
-- [[LiteRT-LM]] — LLM runtime shipping in Android
+- [[LiteRTLM]] — LLM runtime shipping in Android
 - [[Kitze]] — user who switched back
 - [[Tasker]] — Android automation app

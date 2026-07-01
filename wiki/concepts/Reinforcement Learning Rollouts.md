@@ -20,5 +20,5 @@ Reinforcement Learning Rollouts are the massively parallel evaluation phase in R
 - [[summary-20260602 - What Lies Beneath the API — Benjamin Cowen, Modal]] — source
 - [[Serverless Training]] — the infrastructure paradigm enabling this
 - [[Modal]] — platform with unified sandbox/GPU APIs
-- [[Fine-tuning]] — related training technique
+- [[FineTuning]] — related training technique
 - [[Reinforcement Learning]] — broader RL concept

@@ -26,7 +26,7 @@ Snorkel is a frontier AI data lab that produces high-quality datasets for founda
 - [[summary-20260602 - Task Fidelity Scaling Laws — Kobie Crawdord, Snorkel]] — source transcript
 - [[Task Fidelity Scaling Laws]] — key research finding from Snorkel
 - [[Task Quality in Agentic Benchmarks]] — Snorkel's quality framework
-- [[Inter-Annotator Agreement]] — quality validation technique used by Snorkel
+- [[InterAnnotator Agreement]] — quality validation technique used by Snorkel
 - [[Expert in the Loop]] — data generation approach used by Snorkel
 - [[TerminalBench]] — benchmark referenced in Snorkel's research
 - [[Stanford]] — where Snorkel's technology originated

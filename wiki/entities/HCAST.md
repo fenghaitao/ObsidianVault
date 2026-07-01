@@ -20,4 +20,4 @@ HCAST is a collection of software-based tasks used by METR for evaluating AI cap
 - [[METR]] — organization that created HCAST
 - [[TimeHorizon]] — metric derived from HCAST and other task distributions
 - [[SWAR]] — companion task distribution
-- [[RE-Bench]] — companion task distribution
+- [[REBench]] — companion task distribution

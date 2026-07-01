@@ -24,7 +24,7 @@ An Architecture Decision Record (ADR) is a text document that records why an arc
 
 - [[summary-20260603 - BDD, ADR, PRD, WTF： Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence]] — source
 - [[PRD (Product Requirements Document)]] — complementary decision record for product features
-- [[Behavior-Driven Development (BDD)]] — complementary approach for executable specifications
+- [[BehaviorDriven Development (BDD)]] — complementary approach for executable specifications
 - [[Architecture Enforcement]] — the enforcement mechanism ADRs describe
 - [[Decision Capture Loop]] — the reinforcement loop that uses ADRs
 - [[Enforce Dont Instruct]] — related principle

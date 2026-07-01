@@ -19,7 +19,7 @@ The prompt optimization loop is a three-part iterative process for improving sys
 
 ## Related
 - [[PromptLearning]] — the broader technique this loop implements
-- [[LLM-as-Judge]] — the evaluation method used in Phase 1
+- [[LLMAsJudge]] — the evaluation method used in Phase 1
 - [[CoEvolvingLoops]] — the parallel eval optimization loop that should run alongside
 - [[RuleBasedPrompting]] — the output of the optimization loop
 - [[summary-20260106 - Build a Prompt Learning Loop - SallyAnn DeLucia & Fuad Ali, Arize]] — source

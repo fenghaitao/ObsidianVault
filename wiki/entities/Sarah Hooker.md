@@ -19,6 +19,6 @@ Sarah Hooker is an AI researcher formerly at Google Brain and Cohere, known for 
 - [[summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs]] — source
 - [[Hardware Lottery]] — her key concept
 - [[EXO Labs]] — cites her work
-- [[Full-Stack Co-Design]] — approach enabled by her insights
+- [[FullStack CoDesign]] — approach enabled by her insights
 - [[Google]] — former employer (Google Brain)
 - [[Cohere]] — former employer

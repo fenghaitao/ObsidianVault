@@ -20,7 +20,7 @@ Checkpoints is a Claude Code 2.0 feature that tracks code state over time during
 ## Related
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
 - [[ClaudeCode]] — product with this feature
-- [[Generator-Evaluator Pattern]] — harness pattern benefiting from checkpoints
+- [[GeneratorEvaluator Pattern]] — harness pattern benefiting from checkpoints
 - [[Agent Harness]] — broader category of agent infrastructure
 - [[Snapshot and Restore]] — related technical pattern
 - [[Git Ledger]] — complementary version control approach

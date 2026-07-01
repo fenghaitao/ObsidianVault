@@ -18,7 +18,7 @@ UTM is a virtualization tool for macOS that allows running virtual machines incl
 
 ## Related
 - [[Viking Phone]] — hardware configured via UTM
-- [[Man-in-the-Middle Protocol Analysis]] — technique enabled by UTM
+- [[ManInTheMiddle Protocol Analysis]] — technique enabled by UTM
 - [[Boris Starkov]] — used UTM during reverse engineering
 - [[ClaudeCode]] — set up the TCP proxy workaround
 - [[summary-20260529 - Reverse engineering a Viking VOIP phone protocol with Claude Code — Boris Starkov, Eleven Labs]] — source

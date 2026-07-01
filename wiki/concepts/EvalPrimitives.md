@@ -35,7 +35,7 @@ Eval Primitives are the three fundamental components that constitute any AI agen
 - [[summary-20260527 - The maturity phases of running evals — Phil Hetzel, Braintrust]] — source
 - [[EvalPracticePhases]] — how practitioners mature in using these primitives
 - [[EvalEngineering]] — the practice of crafting effective evaluations
-- [[LLM-as-Judge]] — one type of scoring function
+- [[LLMAsJudge]] — one type of scoring function
 - [[DeterministicEval]] — code-based scoring functions
 - [[HumanAnnotation]] — human-based scoring
 - [[EvalDataCapture]] — sourcing datasets from production

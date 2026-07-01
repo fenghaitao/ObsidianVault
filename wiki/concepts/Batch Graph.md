@@ -22,6 +22,6 @@ A batch graph is a simplified dependency graph where nodes represent batches of 
 ## Related
 - [[summary-20260108 - Automating Large Scale Refactors with Parallel Agents - Robert Brennan, OpenHands]] — source
 - [[Dependency Graph Refactoring]] — underlying strategy
-- [[Verifier-Fixer Pipeline]] — pipeline using the batch graph
+- [[VerifierFixer Pipeline]] — pipeline using the batch graph
 - [[OpenHands]] — platform implementing this visualization
 - [[Calvin]] — engineer who demonstrated the batch graph

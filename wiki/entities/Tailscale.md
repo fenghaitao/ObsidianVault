@@ -26,6 +26,6 @@ Tailscale is a secure networking platform built on [[WireGuard]] that provides e
 - [[Aperture (Tailscale)]] — AI gateway built on Tailscale
 - [[TS Net]] — open source library for building on Tailscale
 - [[Network as Sandbox]] — concept presented by Remy Guercio
-- [[Network-Level Identity]] — core Tailscale capability
+- [[NetworkLevel Identity]] — core Tailscale capability
 - [[EXO]] — app that integrates with Tailscale
 - [[EXO Labs]] — uses Tailscale for remote access

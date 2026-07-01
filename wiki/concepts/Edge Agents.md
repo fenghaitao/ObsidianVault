@@ -26,4 +26,4 @@ Edge Agents are AI agents designed to be publicly routable, internet-connected s
 - [[Push Subscriptions]] — the mechanism for external services to reach agents
 - [[Durable Streams]] — the event log underlying edge agents
 - [[summary-20260514 - Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate]] — source
-- [[events.iterate.com]] — the implementation
+- [[Events.iterateCom]] — the implementation

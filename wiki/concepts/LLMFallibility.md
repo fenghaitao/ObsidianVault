@@ -26,5 +26,5 @@ LLM fallibility is the inherent tendency of large language models to make mistak
 - [[CompilerGuardrails]] — the deterministic defense against LLM fallibility
 - [[MurphysLawAICoding]] — the inevitability of failures without guardrails
 - [[DeterministicGuardrails]] — broader concept of rule-based validation
-- [[AI-Generated Tests]] — tests share the same fallibility problem
+- [[AIGenerated Tests]] — tests share the same fallibility problem
 - [[VibeCoding]] — the practice where LLM fallibility is most relevant

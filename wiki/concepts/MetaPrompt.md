@@ -18,7 +18,7 @@ A meta prompt is a prompt that takes as input the original system prompt, the cu
 
 ## Related
 - [[PromptLearning]] — the overall technique that uses meta prompts
-- [[LLM-as-Judge]] — provides the evaluation input to the meta prompt
+- [[LLMAsJudge]] — provides the evaluation input to the meta prompt
 - [[EvalEngineering]] — the quality of eval explanations fed into the meta prompt determines its effectiveness
 - [[RuleBasedPrompting]] — the output of the meta prompt process
 - [[summary-20251223 - The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran, Arize]] — source

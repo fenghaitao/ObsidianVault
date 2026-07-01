@@ -18,6 +18,6 @@ Thrive Coding is a data-driven AI development approach coined by Aman Khan as th
 ## Related
 - [[VibeCoding]] — the approach thrive coding replaces
 - [[EvalEngineering]] — the practice of crafting evals for thrive coding
-- [[LLM-as-Judge]] — core technique used in thrive coding
+- [[LLMAsJudge]] — core technique used in thrive coding
 - [[AmanKhan]] — coined the term
 - [[summary-20251226 - Shipping AI That Works： An Evaluation Framework for PMs – Aman Khan, Arize]] — source

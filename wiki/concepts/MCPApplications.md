@@ -2,7 +2,7 @@
 title: "MCP Applications"
 type: concept
 tags: [mcp, protocol, ui, agents]
-sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md"]
+sources: ["raw/03-transcripts/aiDotEngineer/Channel Only/20260419 - The Future of MCP — David Soria Parra, Anthropic.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps.md", "raw/03-transcripts/aiDotEngineer/Channel Only/20260606 - Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub.md"]
 last_updated: 2026-06-26
 ---
 
@@ -33,6 +33,7 @@ MCP Applications are a feature of the Model Context Protocol that allows an MCP 
 - [[DavidSoriaParra]] — presenter who demonstrated MCP applications
 - [[Anthropic]] — company developing the feature
 - [[summary-20260506 - MCP UI： Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps]] — source (MCP Apps standardization)
+- [[summary-20260606 - Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub]] — source (VS Code MCP Apps demo)
 - [[MCP Apps]] — the standardized MCP extension
 - [[MCPUI]] — predecessor project
 - [[IdoSalomon]] — creator of MCPUI, co-creator of MCP Apps
@@ -44,6 +45,11 @@ MCP Applications are a feature of the Model Context Protocol that allows an MCP 
 - [[Declarative UI]] — structured JSON UI approach
 - [[GenerativeUI]] — model-generated UI approach
 - [[Reusable Views]] — upcoming performance feature
-- [[Agent-to-UI Interaction]] — upcoming model-driven UI interaction feature
+- [[AgentToUI Interaction]] — upcoming model-driven UI interaction feature
 - [[A2UI]] — Google's generative UI protocol, interoperability target
 - [[WebMCP]] — related protocol, interoperability target
+- [[Sandboxed Iframe]] — security mechanism for MCP App rendering
+- [[VisualStudioCode]] — MCP host that renders MCP Apps
+- [[GitHubCopilot]] — MCP client in VS Code
+- [[Marlene Mhangami]] — presenter on VS Code MCP Apps
+- [[Liam Hampton]] — presenter on VS Code MCP Apps

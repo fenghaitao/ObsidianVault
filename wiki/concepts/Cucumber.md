@@ -23,7 +23,7 @@ Cucumber is a Behavior-Driven Development (BDD) tool that parses human-readable 
 ## Related
 
 - [[summary-20260603 - BDD, ADR, PRD, WTF： Capturing Decisions for Humans and AI Alike — Michal Cichra, Safe Intelligence]] — source
-- [[Behavior-Driven Development (BDD)]] — the practice Cucumber implements
+- [[BehaviorDriven Development (BDD)]] — the practice Cucumber implements
 - [[Executable Specifications]] — what Cucumber produces
 - [[Decision Capture Loop]] — the reinforcement loop Cucumber tests participate in
 - [[Architecture Enforcement]] — how Cucumber test suites are constrained (e.g., no database access)

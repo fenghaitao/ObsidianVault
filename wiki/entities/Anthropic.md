@@ -52,7 +52,7 @@ Anthropic is an AI research company known for its Claude models, which pioneered
 
 ## Related
 - [[summary-20240805 - What's new from Anthropic and what's next： Alex Albert]] — source
-- [[Alex Albert]] — Anthropic presenter
+- [[AlexAlbert]] — Anthropic presenter
 - [[Claude 3.5 Sonnet]] — model released August 2024
 - [[Artifacts]] — content collaboration feature
 - [[ModelSteering]] — interpretability-based output control

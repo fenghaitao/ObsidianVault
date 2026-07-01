@@ -25,7 +25,7 @@ Fairies is a tldraw project (fairies.tldraw.com) that places multiple AI agents 
 ## Related
 - [[TLDraw]] — platform
 - [[Steve Ruiz]] — creator
-- [[Leader-Follower Agent Pattern]] — orchestration model used
+- [[LeaderFollower Agent Pattern]] — orchestration model used
 - [[Agents on Canvas]] — paradigm it demonstrates
 - [[Canvas as Agent Workspace]] — spatial shared state concept
 - [[Agent Orchestration]] — multi-agent coordination

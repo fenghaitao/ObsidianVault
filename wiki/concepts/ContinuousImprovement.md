@@ -30,7 +30,7 @@ Continuous Improvement is the iterative cycle of building, measuring, and improv
 - [[ShigeoShingo]] — quoted for the "bend metal" principle
 - [[TechnicalDebtInML]] — the infrastructure that accumulates around the improvement loop
 - [[EvalEngineering]] — the practice that powers the cycle
-- [[Demand-Driven Context]] — continuous improvement applied to knowledge bases
+- [[DemandDriven Context]] — continuous improvement applied to knowledge bases
 - [[Knowledge Curation]] — the improvement step in the knowledge cycle
 - [[Lovable Stack Overflow]] — knowledge base with A/B eval loop for continuous improvement
 - [[Agent Vent Tool]] — agent feedback mechanism as continuous improvement

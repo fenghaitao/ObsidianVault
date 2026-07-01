@@ -28,7 +28,7 @@ Shivam Verma, Tech Lead of the User Representations team in Spotify's AI Foundat
 - [[User Embeddings]] — concept
 - [[Semantic IDs]] — concept
 - [[Soft Tokenization]] — concept
-- [[Cross-Content Modeling]] — concept
+- [[CrossContent Modeling]] — concept
 - [[Generative Recommender Systems]] — concept
 - [[Taste Profile]] — Spotify feature
 - [[AI DJ]] — Spotify product

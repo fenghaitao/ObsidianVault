@@ -24,8 +24,8 @@ Context assembly is the dynamic process of constructing an agent's context windo
 - [[Angus J. McLean]] — speaker who introduced the concept
 - [[summary-20260525 - Bounded Autonomy： Between Free Will and Determinism — Angus J. McLean, Oliver]] — source
 - [[ContextEngineering]] — the broader discipline of context curation
-- [[ContextManagement]] — related techniques for maintaining context coherence
-- [[ContextBudget]] — the practical constraint on what can be assembled
+- [[Context Management]] — related techniques for maintaining context coherence
+- [[Context Budget]] — the practical constraint on what can be assembled
 - [[ProgressiveDisclosure]] — loading context on demand rather than all at once
 - [[SmartTruncation]] — Arize's approach to context selection
 - [[Bounded Autonomy]] — the parent framework

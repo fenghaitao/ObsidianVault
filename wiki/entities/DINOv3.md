@@ -21,6 +21,6 @@ DINOv3 is a ViT-specific self-supervised pretraining method that produces semant
 - [[summary-20260508 - How Transformers Finally Ate Vision – Isaac Robinson, Roboflow]] — source
 - [[ViT (Vision Transformer)]] — architecture pretrained
 - [[MAE (Masked Autoencoder)]] — complementary pretraining method
-- [[Self-Supervised Learning (Vision)]] — broader paradigm
+- [[SelfSupervised Learning (Vision)]] — broader paradigm
 - [[Inductive Bias]] — what pretraining learns to compensate for
 - [[Foundation Models]] — broader model class

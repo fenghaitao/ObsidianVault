@@ -25,5 +25,5 @@ Micro-agents are small, single-purpose AI agents that do one thing and one thing
 - [[AgentHandoffs]] — the handoff orchestration mode
 - [[AgenticLoop]] — each micro-agent has its own loop
 - [[MultiAgentArchitecture]] — the broader architectural pattern
-- [[Sub-agent Orchestration]] — related pattern from Replit
+- [[SubAgent Orchestration]] — related pattern from Replit
 - [[summary-20260112 - OpenAI + @Temporalio ： Building Durable, Production Ready Agents - Cornelia Davis, Temporal]] — source

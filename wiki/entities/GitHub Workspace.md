@@ -21,7 +21,7 @@ GitHub Copilot Workspace is an AI-native development environment that takes a Gi
 ## Related
 - [[summary-20240726 - Copilots Everywhere： Thomas Dohmke and Eugene Yan]] — source transcript
 - [[Thomas Dohmke]] — GitHub CEO who described it
-- [[GitHub Copilot]] — parent product platform
+- [[GitHubCopilot]] — parent product platform
 - [[GitHub]] — company
 - [[AI as Pair Programmer]] — the design philosophy
 - [[Developer Flow]] — the flow-preserving goal

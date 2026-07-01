@@ -27,6 +27,6 @@ Benjamin Verbeek is a Member of Technical Staff at Lovable, working on continuou
 - [[Lovable Stack Overflow]] — mechanism described in the talk
 - [[Agent Vent Tool]] — mechanism described in the talk
 - [[ContinuousImprovement]] — the broader framework
-- [[Self-Improving Agents]] — the research direction
+- [[SelfImproving Agents]] — the research direction
 - [[Context Rot]] — problem addressed by the A/B evaluation loop
 - [[VibeCoding]] — paradigm Lovable coined

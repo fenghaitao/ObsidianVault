@@ -27,4 +27,4 @@ Gmail is Google's email service, used as an integration target for AI agents. In
 - [[Google]] — parent company
 - [[summary-20260502 - Human-in-the-Loop Automation with n8n — Liam McGarrigle]] — workshop source
 - [[HumanInTheLoopWorkflows]] — pattern for intercepting email sends
-- [[Fine-Grained Tool Permissions]] — field-level access control
+- [[FineGrained Tool Permissions]] — field-level access control

@@ -20,9 +20,9 @@ Contract Negotiation is a mechanism in the generator-evaluator harness pattern w
 
 ## Related
 - [[summary-20260518 - Anthropic Workshop： Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson]] — source
-- [[Generator-Evaluator Pattern]] — parent harness pattern
-- [[Self-Evaluation Trap]] — problem this mechanism helps avoid
-- [[Rubric-Based Evaluation]] — complementary evaluation framework
+- [[GeneratorEvaluator Pattern]] — parent harness pattern
+- [[SelfEvaluation Trap]] — problem this mechanism helps avoid
+- [[RubricBased Evaluation]] — complementary evaluation framework
 - [[File System as Shared State]] — communication medium for contracts
 - [[Sprint Decomposition]] — planner's role in setting scope
 - [[RALPH Loop]] — predecessor pattern lacking this mechanism

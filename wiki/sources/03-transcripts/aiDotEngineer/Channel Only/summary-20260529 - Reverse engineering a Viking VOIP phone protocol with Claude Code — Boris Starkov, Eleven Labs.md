@@ -58,9 +58,9 @@ Boris Starkov of Eleven Labs used Claude Code to reverse engineer the proprietar
 - [[Twilio]] — SIP trunk provider used as intermediary
 - [[Sir Michael Caine]] — voice used for the AI agent
 - [[UTM]] — virtual machine software on Mac
-- [[AI-Assisted Hardware Reverse Engineering]] — the core methodology
+- [[AIAssisted Hardware Reverse Engineering]] — the core methodology
 - [[Protocol Brute Forcing]] — iterating through all two-letter command combinations
-- [[Man-in-the-Middle Protocol Analysis]] — TCP proxy to intercept software-to-phone traffic
+- [[ManInTheMiddle Protocol Analysis]] — TCP proxy to intercept software-to-phone traffic
 - [[Checksum Reverse Engineering]] — cracking the single-byte checksum
 - [[AI as Orchestrator, Human as Hands]] — human performs physical actions while AI directs
 - [[Power over Ethernet]] — physical connection method

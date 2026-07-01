@@ -23,5 +23,5 @@ Vision Language Models (VLMs) are multimodal AI models that combine vision and l
 - [[Qwen]] — example VLM with agentic capabilities
 - [[Gemma4]] — model with vision capabilities
 - [[Hugging Face Skills]] — skills supporting VLM fine-tuning
-- [[Self-Training Agents]] — VLM agents can also self-train via traces
+- [[SelfTraining Agents]] — VLM agents can also self-train via traces
 - [[summary-20260513 - Self-Training Agents： Hermes Agent, HF Traces, Skills, MCP & Finetuning — Merve Noyan, Hugging Face]] — source

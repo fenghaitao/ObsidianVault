@@ -21,5 +21,5 @@ Lost in the Middle is a phenomenon where long-context language models perform po
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
 - [[Context Budget]] — the management practice this phenomenon necessitates
 - [[ContextEngineering]] — broader discipline addressing this problem
-- [[ContextManagement]] — techniques for mitigating lost in the middle
+- [[Context Management]] — techniques for mitigating lost in the middle
 - [[MultiAgentArchitecture]] — architectural response via context isolation

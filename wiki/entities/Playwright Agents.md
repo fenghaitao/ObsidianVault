@@ -24,5 +24,5 @@ Playwright Agents is a CLI-based tool that installs three specialized agent.md f
 - [[Playwright MCP]] — alternative agent integration
 - [[Marlene Mhangami]] — speaker who recommended it
 - [[Microsoft]] — creator
-- [[Agent-Specific MD Files]] — general concept of agent.md files
+- [[AgentSpecific MD Files]] — general concept of agent.md files
 - [[Functionality Testing]] — testing approach enabled

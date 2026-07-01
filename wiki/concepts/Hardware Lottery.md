@@ -20,5 +20,5 @@ The hardware lottery is the thesis, articulated by Sarah Hooker, that AI researc
 ## Related
 - [[summary-20260526 - Run Frontier AI at Home — Alex Cheema, EXO Labs]] — source
 - [[Sarah Hooker]] — originator of the concept
-- [[Full-Stack Co-Design]] — approach that overcomes the hardware lottery
+- [[FullStack CoDesign]] — approach that overcomes the hardware lottery
 - [[EXO Labs]] — cites this concept as foundational

@@ -20,6 +20,6 @@ Eugene Yan is an AI practitioner and co-author of the O'Reilly white paper "What
 ## Related
 - [[summary-20240719 - Lessons From A Year Building With LLMs]] — source
 - [[ShreyaShankar]] — co-author and co-presenter
-- [[LLM-as-Judge]] — evaluation technique he analyzed in depth
+- [[LLMAsJudge]] — evaluation technique he analyzed in depth
 - [[Guardrails]] — topic he presented on
 - [[ReferenceFreeEvals]] — technique he advocated for hallucination detection

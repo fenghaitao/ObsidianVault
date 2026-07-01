@@ -22,7 +22,7 @@ Eval engineering is the practice of carefully crafting LLM-as-judge evaluation p
 - **Demand-Driven Context**: Raj observes that engineers building MCP servers and RAG pipelines don't do evals — "it's more like a data machine learning concept but we don't do evals." Teams check whether MCP output is coming, not whether it's valuable. This is a major gap in enterprise AI adoption.
 
 ## Related
-- [[LLM-as-Judge]] — the evaluation method that eval engineering optimizes
+- [[LLMAsJudge]] — the evaluation method that eval engineering optimizes
 - [[PromptLearning]] — the technique that depends on eval engineering for quality feedback
 - [[MetaPrompt]] — consumes the output of well-engineered evals
 - [[CoEvolvingLoops]] — eval engineering is the practice behind the eval optimization loop

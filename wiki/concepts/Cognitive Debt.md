@@ -19,5 +19,5 @@ Cognitive debt is the state of not being up to speed with everything your codeba
 ## Related
 - [[ChrisParsons]] — discussed in his workshop
 - [[Ralph Loop]] — the pattern that can accelerate cognitive debt
-- [[Agent-Human Collaboration]] — the balance needed
+- [[AgentHuman Collaboration]] — the balance needed
 - [[summary-20260504 - Ralph Loops： Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick]] — source transcript

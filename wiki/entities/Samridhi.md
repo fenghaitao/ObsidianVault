@@ -23,7 +23,7 @@ Samridhi is a machine learning engineer, technical writer, and consultant who he
 ## Related
 - [[summary-20260420 - Full Workshop： Build Your Own Deep Research Agents - Louis-François Bouchard, Paul Iusztin, Samridhi]] — source
 - [[Towards AI]] — company she consults for
-- [[Louis-François Bouchard]] — co-presenter
+- [[LouisFrançois Bouchard]] — co-presenter
 - [[Paul Iusztin]] — co-presenter
 - [[aiDotEngineer]] — conference where the workshop was presented
 - [[Deep Research Agent]] — system she presented

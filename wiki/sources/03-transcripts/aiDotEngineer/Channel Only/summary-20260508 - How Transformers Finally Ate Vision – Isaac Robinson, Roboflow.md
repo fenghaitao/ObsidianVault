@@ -29,7 +29,7 @@ Vision Transformers (ViT) won the computer vision architecture war despite havin
 - [[Convolutional Neural Networks]] — classical approach
 - [[Inductive Bias]] — core concept in architecture comparison
 - [[Patchify]] — image-to-token preprocessing for ViTs
-- [[Self-Supervised Learning (Vision)]] — pretraining paradigm (MAE, DINO)
+- [[SelfSupervised Learning (Vision)]] — pretraining paradigm (MAE, DINO)
 - [[Neural Architecture Search]] — deployment flexibility technique
 - [[Swin Transformer]] — windowed attention architecture
 - [[ConvNeXt]] — modernized CNN architecture

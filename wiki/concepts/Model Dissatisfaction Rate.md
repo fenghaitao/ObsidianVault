@@ -31,7 +31,7 @@ Model Dissatisfaction Rate is an Arena.ai metric that tracks how often users vot
 
 ## Related
 - [[summary-20260424 - What Do Models Still Suck At - Peter Gostev, Arena.ai, BullshitBench]] — source
-- [[Arena.ai]] — platform that produces this metric
+- [[ArenaAi]] — platform that produces this metric
 - [[Peter Gostev]] — presenter of this data
 - [[BullshitBench]] — complementary benchmark from same researcher
 - [[BenchmarkSaturation]] — contrast with static benchmarks

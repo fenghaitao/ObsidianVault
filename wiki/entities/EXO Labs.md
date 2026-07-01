@@ -24,7 +24,7 @@ EXO Labs is a research lab focused on running frontier AI systems on local consu
 - [[Alex Cheema]] — co-founder
 - [[EXO]] — the distributed inference app
 - [[Exocortex]] — the concept behind the name
-- [[Full-Stack Co-Design]] — core methodology
+- [[FullStack CoDesign]] — core methodology
 - [[Heterogeneous Computing]] — key architectural approach
 - [[Tensor Parallelism]] — distribution technique used
 - [[GLM 5.1]] — frontier model demonstrated

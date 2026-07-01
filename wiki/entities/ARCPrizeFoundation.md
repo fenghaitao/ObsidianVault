@@ -7,7 +7,7 @@ last_updated: 2026-06-30
 ---
 
 ## Definition
-The ARC Prize Foundation is the organization behind the [[ARC-AGI]] (Abstraction and Reasoning Corpus for AGI) benchmarks. It designs intentionally unsaturated benchmarks that measure the gap between human and machine reasoning capabilities.
+The ARC Prize Foundation is the organization behind the [[ARCAGI]] (Abstraction and Reasoning Corpus for AGI) benchmarks. It designs intentionally unsaturated benchmarks that measure the gap between human and machine reasoning capabilities.
 
 ## Key Information
 - Created and maintains the ARC-AGI benchmark series (ARC-AGI 1, 2, and 3)
@@ -17,7 +17,7 @@ The ARC Prize Foundation is the organization behind the [[ARC-AGI]] (Abstraction
 - Focus on measuring a type of efficiency or capability that humans have but models lack
 
 ## Related
-- [[ARC-AGI]] — the benchmark series created by the foundation
+- [[ARCAGI]] — the benchmark series created by the foundation
 - [[Model Headroom]] — the concept ARC-AGI exemplifies
 - [[Benchmarking Agents]] — framework citing ARC-AGI
 - [[summary-20260604 - The Art & Science of Benchmarking Agents — Vincent Chen, Snorkel AI]] — source transcript

@@ -19,7 +19,7 @@ Recall@50 is a multi-document retrieval evaluation metric that measures what fra
 
 ## Related
 - [[summary-20240731 - How Codeium Breaks Through the Ceiling for Retrieval： Kevin Hou]] — source
-- [[Product-Driven Benchmarks]] — broader evaluation philosophy
+- [[ProductDriven Benchmarks]] — broader evaluation philosophy
 - [[Embedding Ceiling]] — the performance plateau motivating better metrics
 - [[BenchmarkSaturation]] — related concept of benchmarks hitting ceilings
 - [[RAG]] — retrieval augmented generation

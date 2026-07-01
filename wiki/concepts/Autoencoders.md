@@ -22,6 +22,6 @@ Autoencoders are neural networks consisting of an encoder and a decoder, trained
 ## Related
 - [[summary-20260421 - Building Generative Image & Video models at Scale - Sander Dieleman, Google DeepMind]] — source
 - [[LatentDiffusion]] — primary application
-- [[EQ-VAE]] — paper on improving autoencoder training
+- [[EQVAE]] — paper on improving autoencoder training
 - [[DiffusionModels]] — downstream generative model
 - [[Stable Diffusion]] — uses autoencoder for latent compression

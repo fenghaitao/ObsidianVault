@@ -31,7 +31,7 @@ Thomas Dohmke (GitHub CEO) in conversation with Eugene Yan discusses the origin 
 ## Related
 - [[Thomas Dohmke]] — speaker, CEO of GitHub
 - [[Eugene Yan]] — host, aiDotEngineer
-- [[GitHub Copilot]] — the AI developer tool discussed throughout
+- [[GitHubCopilot]] — the AI developer tool discussed throughout
 - [[GitHub]] — the company
 - [[GitHub Workspace]] — the issue-to-PR product
 - [[OpenAI]] — provided Codex model that powered early Copilot
@@ -39,7 +39,7 @@ Thomas Dohmke (GitHub CEO) in conversation with Eugene Yan discusses the origin 
 - [[Developer Flow]] — staying in the IDE without context-switching
 - [[Natural Language Programming]] — democratizing access to coding across languages
 - [[AI as Pair Programmer]] — AI augmenting developers as a collaborator
-- [[Agent-as-Dishwasher]] — the dishwasher metaphor for AI agents
+- [[AgentAsDishwasher]] — the dishwasher metaphor for AI agents
 - [[Security Autofix]] — AI burning down security backlogs
 - [[Institutional Knowledge Democratization]] — AI making organizational knowledge accessible
 - [[Software Development Step Functions]] — historical transformational epochs in development

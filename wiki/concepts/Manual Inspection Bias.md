@@ -19,7 +19,7 @@ Manual inspection bias is the double bias introduced when evaluating AI models t
 
 ## Related
 - [[summary-20260601 - 20 days of compute vs 7 hours： rethinking what state-of-the-art means — Bertrand Charpentier, Pruna]] — source
-- [[State-of-the-Art Ambiguity]] — manual inspection bias contributes to SOTA ambiguity
+- [[StateOfTheArt Ambiguity]] — manual inspection bias contributes to SOTA ambiguity
 - [[Public Leaderboards]] — alternative to manual inspection (though with their own problems)
 - [[CLIP Score]] — automated metric that can complement manual inspection
 - [[Model Efficiency]] — another dimension to consider beyond manual quality assessment

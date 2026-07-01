@@ -25,7 +25,7 @@ Coqui is a company that produces text-to-speech (TTS) models, notably Coqui 3 TT
 - [[HuggingFace]] — platform hosting the models
 - [[CUDA Graph Capture]] — optimization technique applied
 - [[KV Cache]] — static KV cache optimization
-- [[Real-Time Factor]] — performance metric improved
+- [[RealTime Factor]] — performance metric improved
 - [[Time to First Audio]] — latency metric
 - [[Voice Cloning]] — supported capability
 - [[summary-20260529 - Reachy Mini： the $300 open source robot you can actually hack — Andres Marafioti, Hugging Face]] — source
