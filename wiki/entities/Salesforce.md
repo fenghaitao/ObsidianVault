@@ -2,8 +2,8 @@
 title: "Salesforce"
 type: entity
 tags: [company, crm, enterprise-software, cloud]
-sources: ["raw/01-articles/claude/2025-10-01 - Claude and Slack.md"]
-last_updated: 2026-06-28
+sources: ["raw/01-articles/claude/2025-10-01 - Claude and Slack.md", "raw/01-articles/claude/2025-10-01 - How enterprises are driving AI transformation with Claude.md"]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -15,10 +15,15 @@ Salesforce is an enterprise cloud software company best known for its customer r
 - **Industry**: Enterprise software, cloud computing, CRM
 - **Notable subsidiary**: [[Slack]] (acquired 2021)
 - **Relevance to Claude**: Salesforce's subsidiary Slack partnered with [[Anthropic]] in October 2025 to integrate Claude directly into Slack workspaces and as a Slack connector in Claude.ai. Rob Seaman (Chief Product Officer of Slack at Salesforce) described the integration as enabling an "agentic enterprise" where AI agents work alongside humans.
+- **Agentforce Agents**: Salesforce integrated Claude models to power Agentforce Agents through Einstein 1 Studio, letting AI plan and execute on behalf of employees and customers. All Claude interactions flow through Salesforce's secure AI systems, with safeguards like dynamic grounding and toxicity detection via the Einstein Trust Layer. Customers deploy autonomous agents that orchestrate complete workflows end-to-end (analyzing data, executing transactions, updating records) without human intervention — described by Anthropic as a shift from AI-as-assistant to AI-as-autonomous-collaborator.
+- Quote: *"Through our partnership with Anthropic, customers gain the flexibility to integrate their own LLMs, introducing Claude models with diverse levels of intelligence, speed, and cost-effectiveness. This empowers users to tailor their CRM applications to their unique requirements."* — Kaushal Kurapati, Senior Vice President of Product for AI at Salesforce.
 
 ## Related
 
 - [[Slack]] — Salesforce subsidiary that integrated with Claude
-- [[Anthropic]] — Partner for the Claude–Slack integration
+- [[Anthropic]] — Partner for the Claude–Slack integration and Agentforce
 - [[Integrations]] — Category of Claude connectors including the Slack connector
+- [[Claude4.5Sonnet]] — model powering Agentforce Agents as of October 2025
+- [[AIAgent]] — the autonomous-agent pattern Agentforce implements
 - [[summary-2025-10-01 - Claude and Slack]] — Source article
+- [[summary-2025-10-01 - How enterprises are driving AI transformation with Claude]] — Agentforce Agents case study

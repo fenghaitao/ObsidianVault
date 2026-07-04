@@ -2,8 +2,8 @@
 title: "Amazon Bedrock"
 type: entity
 tags: [aws, amazon, cloud, foundation-model, managed-service, enterprise-ai]
-sources: ["raw/01-articles/claude/2023-08-23 - Claude 2 on Amazon Bedrock.md", "raw/01-articles/claude/2024-07-10 - Fine-tune Claude 3 Haiku in Amazon Bedrock.md", "raw/01-articles/claude/2025-06-23 - Introducing Citations on the Anthropic API.md", "raw/01-articles/claude/2025-08-14 - Prompt caching with Claude.md", "raw/01-articles/claude/2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context.md"]
-last_updated: 2026-06-28
+sources: ["raw/01-articles/claude/2023-08-23 - Claude 2 on Amazon Bedrock.md", "raw/01-articles/claude/2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer.md", "raw/01-articles/claude/2024-07-10 - Fine-tune Claude 3 Haiku in Amazon Bedrock.md", "raw/01-articles/claude/2024-10-08 - Introducing the Message Batches API.md", "raw/01-articles/claude/2025-06-23 - Introducing Citations on the Anthropic API.md", "raw/01-articles/claude/2025-08-14 - Prompt caching with Claude.md", "raw/01-articles/claude/2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context.md"]
+last_updated: 2026-07-04
 ---
 
 # Amazon Bedrock
@@ -18,6 +18,7 @@ Amazon Bedrock is a fully managed AWS service that makes leading foundation mode
 - Purpose: Lower the barrier for enterprises to adopt and deploy large language models
 - Initial models at launch: Claude 1.3, Claude Instant (among the first), plus other foundation models
 - Claude 2 availability: Added August 2023
+- General availability (GA) to every AWS customer: announced September 28, 2023, expanding from the April 2023 preview.
 
 ## Role in the Claude Ecosystem
 
@@ -40,6 +41,16 @@ Enterprise customers such as [[LexisNexis]], [[LonelyPlanet]], and [[RicohUSA]] 
 - Legal document analysis (long context processing)
 - Travel content generation
 - Training data generation with compliance guarantees (HIPAA, SOC II)
+
+At GA (September 2023), [[BridgewaterAssociates]] was highlighted building an Investment Analyst Assistant with Claude on Bedrock.
+
+## Agents for Amazon Bedrock (2023)
+
+Announced in preview alongside the September 2023 GA milestone, [[AgentsForAmazonBedrock]] lets Claude orchestrate API calls via AWS Lambda functions — breaking tasks into steps, holding clarifying conversations, and taking actions (e.g., updating orders in an e-commerce chat assistant), not just answering queries. Anthropic's team was instrumental in its development. Secure customization and fine-tuning of Claude on Bedrock were also announced as forthcoming at this time.
+
+## Batch Inference (2024)
+
+Customers using Claude on Amazon Bedrock can use [[MessageBatchesAPI|batch inference]] for asynchronous, non-time-sensitive processing, mirroring the discounted batch processing available on the direct Anthropic API (announced October 2024).
 
 ## Fine-Tuning Capability
 
@@ -101,3 +112,7 @@ As of December 2024, [[AmazonBedrock]] offers latency-optimized [[Claude3.5Haiku
 - [[ContextWindow]] — 1M token window available for Claude Sonnet 4 on Bedrock
 - [[summary-2025-08-14 - Prompt caching with Claude]] — prompt caching launch article noting Bedrock preview availability
 - [[summary-2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context]] — 1M context window availability on Bedrock
+- [[BridgewaterAssociates]] — enterprise customer (Investment Analyst Assistant)
+- [[AgentsForAmazonBedrock]] — agent-orchestration feature announced alongside GA
+- [[MessageBatchesAPI]] — batch inference available on Bedrock
+- [[summary-2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer]] — general-availability announcement

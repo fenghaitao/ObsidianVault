@@ -2,8 +2,8 @@
 title: "Claude Artifacts"
 type: entity
 tags: [feature, interactive, deployment, sharing, AI-powered-apps]
-sources: [raw/01-articles/claude/2025-07-25 - Build and share AI-powered apps with Claude.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-07-25 - Build and share AI-powered apps with Claude.md, raw/01-articles/claude/2025-06-25 - Turn ideas into interactive AI-powered apps.md]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -22,10 +22,22 @@ Claude Artifacts is an interactive feature within [[Claude]] that allows develop
 - Expanded availability: Team and Enterprise plans (July 31, 2025)
 - File support: Supports uploading PDFs, images, and other files into artifacts (July 2025)
 
+## Artifacts Space and Interactivity (June 2025)
+
+A month before the July 25 "build and share" beta launch, Anthropic introduced a dedicated **artifacts space** in the Claude app sidebar (June 25, 2025), along with the ability to embed AI capabilities directly into artifacts — turning single-use artifacts into reusable, interactive apps (e.g., a flashcard app where end users pick their own topic and generate their own cards, rather than a fixed one-off flashcard set).
+
+- Over **half a billion artifacts** had been created by users since the original (non-interactive) artifacts feature launched.
+- Initial artifacts-space availability: Free, Pro, and Max users (June 25, 2025).
+- Cited example: musician Rick Rubin's "The Way of Code" project, pairing 81 meditations with interactive artifacts that anyone can reshape with Claude.
+- Later updates tracked in the same announcement: iOS and Android app availability (July 21, 2025); Team and Enterprise plan availability (July 31, 2025); MCP and persistent storage support (October 21, 2025).
+- See [[Artifacts]] for the broader conceptual pattern this feature embodies.
+
 ## Related
 
 - [[Claude]] — the platform providing this feature
 - [[Anthropic]] — creator of Claude and Artifacts
 - [[PromptEngineering]] — automatically handled by the platform
 - [[ToolUse]] — related capability for API integration
+- [[Artifacts]] — the broader concept of AI-generated interactive artifacts
 - [[summary-2025-07-25 - Build and share AI-powered apps with Claude]] — Feature announcement and documentation
+- [[summary-2025-06-25 - Turn ideas into interactive AI-powered apps]] — Artifacts space and interactivity announcement (one month earlier)

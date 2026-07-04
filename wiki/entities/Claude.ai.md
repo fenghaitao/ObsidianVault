@@ -2,8 +2,8 @@
 title: "Claude.ai"
 type: entity
 tags: [claude, web-app, product, anthropic, ai-assistant]
-sources: ["raw/01-articles/claude/2024-10-24 - Introducing the analysis tool in Claude.ai.md"]
-last_updated: 2026-06-28
+sources: ["raw/01-articles/claude/2024-10-24 - Introducing the analysis tool in Claude.ai.md", "raw/01-articles/claude/2025-10-06 - Optimize code performance quickly.md", "raw/01-articles/claude/2025-10-10 - Build responsive web layouts.md"]
+last_updated: 2026-07-04
 ---
 
 # Claude.ai
@@ -31,6 +31,11 @@ Claude.ai is [[Anthropic]]'s web-based interface for interacting with Claude mod
 - **Vision**: Image understanding and analysis
 - **Document Processing**: Analysis of uploaded documents
 
+### Development Use Cases
+
+- **Performance analysis**: paste a slow function to get an explanation of *why* it's slow (not just where time is spent, as traditional profilers show) and specific optimization suggestions — see [[CodePerformanceOptimization]].
+- **Responsive layout generation**: describe layout requirements to receive working HTML/CSS with viewport meta tags, mobile-first styling, and explanations of breakpoint choices — see [[ResponsiveWebDesign]].
+
 ## Feature Preview Program
 
 Claude.ai offers experimental features through a feature preview system. Users can enable new capabilities through settings (accessible via user name in bottom-left corner).
@@ -44,3 +49,7 @@ Claude.ai offers experimental features through a feature preview system. Users c
 - [[summary-2025-09-09 - Claude can now create and edit files]] — file creation and editing feature announcement (GA October 2025)
 - [[ClaudeIOSApp]] — mobile app version of Claude
 - [[ClaudeTeamPlan]] — subscription plan for Claude.ai
+- [[CodePerformanceOptimization]] — ad-hoc performance analysis use case
+- [[ResponsiveWebDesign]] — layout generation use case
+- [[summary-2025-10-06 - Optimize code performance quickly]] — performance optimization use-case article
+- [[summary-2025-10-10 - Build responsive web layouts]] — responsive layout generation use-case article

@@ -2,8 +2,8 @@
 title: "Claude4.5Sonnet"
 type: entity
 tags: [claude, model, anthropic, agents, context-aware]
-sources: ["raw/01-articles/claude/2025-09-29 - Managing context on the Claude Developer Platform.md"]
-last_updated: 2026-06-28
+sources: ["raw/01-articles/claude/2025-09-29 - Managing context on the Claude Developer Platform.md", "raw/01-articles/claude/2025-10-01 - How enterprises are driving AI transformation with Claude.md"]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -26,6 +26,10 @@ Claude Sonnet 4.5 is an Anthropic model released in September 2025, positioned a
 - Works with context editing for automatic context pruning
 - Works with the memory tool for cross-session persistence
 
+## Enterprise Impact (October 2025)
+
+Anthropic's October 2025 enterprise transformation article credits Claude Sonnet 4.5 with measurable results across industries: reducing vulnerability response time by 44% at [[HackerOne]], enabling investment-grade financial analysis at [[NBIM]], and helping developers at [[Netflix]] and [[GitHub]] tackle complex, codebase-spanning tasks with unprecedented accuracy. It is also the model behind case studies at [[NovoNordisk]], [[CoxAutomotive]], [[PaloAltoNetworks]], [[Salesforce]], and [[IGGroup]].
+
 ## Availability
 
 - [[Anthropic]] Claude Developer Platform (public beta as of September 2025)
@@ -44,3 +48,13 @@ Claude Sonnet 4.5 is an Anthropic model released in September 2025, positioned a
 - [[VertexAI]] — deployment platform
 - [[Anthropic]] — creator
 - [[summary-2025-09-29 - Managing context on the Claude Developer Platform]] — source article
+- [[HackerOne]] — 44% faster vulnerability response
+- [[NBIM]] — investment-grade financial analysis
+- [[Netflix]] — complex codebase-spanning developer tasks
+- [[GitHub]] — complex codebase-spanning developer tasks
+- [[NovoNordisk]] — pharmaceutical documentation case study
+- [[CoxAutomotive]] — automotive personalization case study
+- [[PaloAltoNetworks]] — secure software development case study
+- [[Salesforce]] — autonomous agent case study
+- [[IGGroup]] — marketing/analytics/operations case study
+- [[summary-2025-10-01 - How enterprises are driving AI transformation with Claude]] — enterprise transformation case studies

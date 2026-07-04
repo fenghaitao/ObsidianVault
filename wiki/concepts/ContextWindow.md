@@ -16,6 +16,7 @@ The context window is an LLM's working memory -- the maximum amount of text (tok
 - AI agents work around context window limits by strategically retrieving only relevant information rather than loading everything at once.
 - Effective use of Claude Code requires understanding this limitation and structuring prompts and workflows accordingly.
 - [[ClaudeEnterprise]] offers a 500K context window, enabling processing of hundreds of sales transcripts, dozens of 100+ page documents, or medium-sized codebases.
+- **Retrieval vs. capacity**: a large context window doesn't guarantee accurate retrieval of embedded facts. [[Claude2.1]] (200K tokens) initially showed reluctance to answer based on an "out of place" embedded sentence — see [[LongContextRetrieval]] for the evaluation and the prompting fix that raised accuracy from 27% to 98%.
 - [[Claude4Sonnet]] supports a **1 million token context window** (public beta, August 2025) — a 5x increase enabling processing of entire codebases (75,000+ lines), large document sets, and context-aware agents that maintain coherence across hundreds of tool calls. Pricing scales for prompts exceeding 200K tokens; [[PromptCaching]] and [[BatchProcessing]] can offset the additional cost.
 
 ### Context Management in Claude Code
@@ -56,3 +57,5 @@ Anthropic introduced two platform-level features to address context limits in pr
 - [[AgenticMemory]] — external memory mechanism to extend effective context across sessions
 - [[Claude4.5Sonnet]] — model with built-in token tracking for context awareness
 - [[summary-2025-09-29 - Managing context on the Claude Developer Platform]] — context editing and memory tool announcement
+- [[Claude2.1]] — early 200K-token model whose retrieval behavior motivated long-context prompting research
+- [[LongContextRetrieval]] — the retrieval pattern and prompting fix for long-context reluctance

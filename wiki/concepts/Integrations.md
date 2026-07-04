@@ -2,8 +2,8 @@
 title: "Integrations"
 type: concept
 tags: [integrations, mcp, feature, claude-ai, productivity]
-sources: [raw/01-articles/claude/2025-05-01 - Claude can now connect to your world.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-05-01 - Claude can now connect to your world.md, raw/01-articles/claude/2025-10-16 - Claude and your productivity platforms.md]
+last_updated: 2026-07-04
 ---
 
 # Integrations
@@ -51,6 +51,20 @@ The **[[Slack]] connector** (October 2025) allows Claude to search a user's Slac
 
 Availability: Claude Team and Enterprise at launch; expanded to Claude Pro and Max on January 26, 2026.
 
+## Microsoft 365 Connector (October 2025)
+
+A connector (via the [[ModelContextProtocol|MCP connector]]) gives Claude access to [[Microsoft]] 365 as a data source — the reverse direction from [[Microsoft365Copilot]], where Claude is instead a model option inside Microsoft's own Copilot product:
+
+- **SharePoint and OneDrive**: search and analyze documents across sites and libraries without manual upload.
+- **Outlook**: access email threads and analyze communication patterns for project status, client feedback, or team alignment.
+- **Teams**: search chat conversations, channel discussions, and meeting summaries to surface decisions and track updates.
+
+Available for all Claude Team and Enterprise plan customers; admins must enable the connector before individual users authenticate.
+
+## Enterprise Search (October 2025)
+
+[[EnterpriseSearch]] is a dedicated, company-branded shared project that searches across *all* of an organization's connected data sources in one place (rather than one tool at a time), personalized with the company's name and custom prompts. Available to all Team and Enterprise organizations once an admin sets it up and curates data sources.
+
 ## Use Cases
 
 ### Example: Zapier Integration
@@ -85,3 +99,7 @@ As of May 2025:
 - [[GoogleWorkspaceIntegration]] — Example integration with organizational data
 - [[Slack]] — Communication platform added as a connector in October 2025
 - [[summary-2025-10-01 - Claude and Slack]] — Source article on the Slack integration
+- [[Microsoft]] — Productivity suite added as a connector in October 2025
+- [[Microsoft365Copilot]] — the inverse integration (Claude embedded inside Microsoft's own product)
+- [[EnterpriseSearch]] — cross-tool search capability introduced alongside the Microsoft 365 connector
+- [[summary-2025-10-16 - Claude and your productivity platforms]] — Source article on the Microsoft 365 connector and enterprise search

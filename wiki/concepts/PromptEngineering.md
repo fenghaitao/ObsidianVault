@@ -25,6 +25,7 @@ Prompt engineering is the practice of designing effective instructions for AI mo
 - **XML tag structuring:** Use XML-style delimiters (e.g., `<code>`, `<instruction>`) to clearly delineate different parts of prompts, improving clarity and information density.
 - **Automated prompt generation:** The [[AnthropicConsole]] includes a feature to automatically generate production-ready prompt templates by applying prompt engineering best practices, helping both novices and experienced engineers accelerate development.
 - **Automated prompt improvement:** The [[AnthropicConsole]] prompt improver refines existing prompts using advanced techniques like [[ChainOfThoughtReasoning]] and example enrichment. Particularly useful for adapting prompts originally written for other AI models or optimizing hand-written prompts. Includes iterative feedback loops for continuous refinement. Testing shows 30% accuracy improvements on multilabel classification and 100% adherence to output format constraints on summarization tasks.
+- **Retrieval-directing prompts:** an early (2023) example of prompting overriding model behavior — see [[LongContextRetrieval]], where appending "Here is the most relevant sentence in the context:" to a response raised [[Claude2.1]]'s long-document retrieval accuracy from 27% to 98%.
 
 ## Related
 
@@ -41,3 +42,5 @@ Prompt engineering is the practice of designing effective instructions for AI mo
 - [[summary-2024-05-20 - Generate better prompts in the developer console]] — automated prompt generation feature
 - [[summary-2024-10-14 - Improve your prompts in the developer console]] — automated prompt improvement, example management, and evaluation enhancements
 - [[RetrievalAugmentedGeneration]] — application architecture benefiting from effective prompting
+- [[LongContextRetrieval]] — early retrieval-prompting technique for long-context reluctance
+- [[Claude2.1]] — model on which the retrieval-prompting technique was demonstrated

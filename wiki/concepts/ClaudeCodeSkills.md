@@ -1,9 +1,9 @@
 ---
 title: "ClaudeCodeSkills"
 type: concept
-tags: [claude-code, skills, automation, context]
-sources: [raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md, raw/03-transcripts/Claude/Claude Code Skills/02 - Troubleshooting skills.md, raw/03-transcripts/Claude/Claude Code Skills/03 - Sharing skills.md, raw/03-transcripts/Claude/Claude Code Skills/04 - How skills compare to other Claude Code features.md, raw/03-transcripts/Claude/Claude Code Skills/05 - Configuration and multi-file skills.md, raw/03-transcripts/Claude/Claude Code Skills/06 - Creating your first skill.md]
-last_updated: 2026-06-23
+tags: [claude-code, skills, automation, context, agent-skills, api]
+sources: [raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md, raw/03-transcripts/Claude/Claude Code Skills/02 - Troubleshooting skills.md, raw/03-transcripts/Claude/Claude Code Skills/03 - Sharing skills.md, raw/03-transcripts/Claude/Claude Code Skills/04 - How skills compare to other Claude Code features.md, raw/03-transcripts/Claude/Claude Code Skills/05 - Configuration and multi-file skills.md, raw/03-transcripts/Claude/Claude Code Skills/06 - Creating your first skill.md, raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -42,6 +42,17 @@ Claude Code skills are markdown-based instruction files that teach Claude specia
 - **Scripts:** execute without loading contents into context; only output consumes tokens.
 - **Description quality:** answer "what does this skill do" and "when should Claude use it"; add trigger phrases matching how users phrase requests.
 
+## Agent Skills: The Platform-Wide Standard (October 2025)
+
+Anthropic generalized this same skills mechanism into **Agent Skills**, usable consistently across Claude apps, Claude Code, and the Anthropic API — not just Claude Code:
+
+- **Properties**: composable (skills stack and Claude coordinates their use), portable (identical format across all three surfaces), efficient (loads only what's needed), and powerful (can include executable code for tasks better solved by traditional programming than token generation).
+- **Claude apps**: available to Pro, Max, Team, and Enterprise users. Claude auto-invokes relevant skills (visible in its chain of thought). The "skill-creator" skill interactively builds new skills — asking about the workflow, generating folder structure, formatting `SKILL.md`, and bundling resources — with no manual file editing. Team/Enterprise admins must enable Skills org-wide first.
+- **Claude Developer Platform (API)**: Skills can be added to Messages API requests; the `/v1/skills` endpoint gives programmatic control over custom skill versioning and management. Requires the **[[CodeExecutionTool|Code Execution Tool]]** beta for the secure environment Skills run in. Anthropic-created skills let Claude read/generate Excel, PowerPoint, Word, and fillable PDFs.
+- **Claude Code**: skills install via plugins from the `anthropics/skills` marketplace, or manually to `~/.claude/skills`; the [[ClaudeAgentSDK]] provides the same Agent Skills support for custom-built agents.
+- **Security note**: Skills grant Claude code-execution access — use only trusted sources.
+- **December 18, 2025 update**: added organization-wide skill management, a directory featuring partner-built skills, and published Agent Skills as an open standard for cross-platform portability.
+
 ## Related
 
 - [[summary-01 - What are skills]] — source summary
@@ -54,3 +65,7 @@ Claude Code skills are markdown-based instruction files that teach Claude specia
 - [[CLAUDE-md]] — the persistent alternative
 - [[ModelContextProtocol]] — similar tool integration mechanism
 - [[analysis-claude-code-extension-mechanisms]] — decision guide for choosing among extension mechanisms
+- [[CodeExecutionTool]] — required API beta for running Agent Skills
+- [[ClaudeAgentSDK]] — provides the same Agent Skills support for custom agents
+- [[ClaudeCodePlugins]] — plugins can bundle and distribute skills
+- [[summary-2025-10-16 - Introducing Agent Skills]] — platform-wide Agent Skills announcement

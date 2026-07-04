@@ -60,3 +60,4 @@ Early adopters have achieved 14% average output token reduction through token-ef
 - [[Anthropic]] — provider of token optimization features
 - [[Cognition]] — enterprise customer leveraging token optimization
 - [[summary-2025-03-13 - Token-saving updates on the Anthropic API]] — source article
+- [[MessageBatchesAPI]] — batching as a complementary cost-reduction strategy

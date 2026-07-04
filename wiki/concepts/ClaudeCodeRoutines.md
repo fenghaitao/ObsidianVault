@@ -3,7 +3,7 @@ title: "ClaudeCodeRoutines"
 type: concept
 tags: [claude-code, automation, scheduling, cron, autonomous]
 sources: [raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/13 - Running an AI-native engineering org.md]
-last_updated: 2026-06-23
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -22,4 +22,5 @@ Claude Code Routines are scheduled, cron-triggered autonomous runs of Claude Cod
 
 - [[ClaudeCode]] — the tool where routines are implemented
 - [[ClaudeCowork]] — scheduled tasks for knowledge workers
-- [[summary-03 - Running an AI-native engineering org]] — source talk mentioning routines
+- [[summary-13 - Running an AI-native engineering org]] — source talk mentioning routines
+- [[summary-18 - Scheduled Tasks in Cowork： Set it once, Claude handles the rest]] — analogous scheduled-task feature on Cowork

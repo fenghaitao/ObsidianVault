@@ -2,8 +2,8 @@
 title: "WebSearch"
 type: concept
 tags: [web-search, real-time, citations, api]
-sources: [raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2025-03-20 - Claude can now search the web.md]
+last_updated: 2026-07-04
 ---
 
 # WebSearch
@@ -13,6 +13,10 @@ Real-time internet search capability integrated into Claude models, enabling acc
 ## Overview
 
 WebSearch is a [[ToolUse|tool]] that allows Claude to search the web and retrieve current information when handling requests. This capability is available through the [[MessagesAPI]] for Claude 3.7 Sonnet, Claude 3.5 Sonnet, and Claude 3.5 Haiku models.
+
+## Consumer Launch in Claude.ai (March 2025)
+
+Web search first launched in the Claude.ai conversational product on March 20, 2025 — preceding the May 2025 Anthropic API tool. Initial availability was a feature preview for paid Claude users in the United States, using [[Claude3.7Sonnet]], toggled on via profile settings. Anthropic later updated the announcement to confirm web search became available globally on all Claude plans, including free, as of May 27, 2025.
 
 ## Key Features
 
@@ -66,6 +70,7 @@ As of September 2025, a web fetch tool has been added alongside web search, allo
 ## Related
 
 - [[summary-2025-05-07 - Introducing web search on the Anthropic API]] — Source announcement
+- [[summary-2025-03-20 - Claude can now search the web]] — Consumer launch announcement in Claude.ai
 - [[MessagesAPI]] — The API where web search is available
 - [[Citations]] — Source attribution mechanism for web search results
 - [[ToolUse]] — Broader capability of which web search is a part

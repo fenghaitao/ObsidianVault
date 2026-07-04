@@ -3,7 +3,7 @@ title: "ClaudeCowork"
 type: entity
 tags: [product, claude, anthropic, cowork, automation, knowledge-work]
 sources: [raw/03-transcripts/Claude/How Anthropic uses Claude Cowork/01 - Claude Cowork for legal teams.md, raw/03-transcripts/Claude/How Anthropic uses Claude Cowork/02 - Claude Cowork for marketing ops.md, raw/03-transcripts/Claude/How Anthropic uses Claude Cowork/03 - Claude Cowork for sales.md]
-last_updated: 2026-06-23
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -30,3 +30,8 @@ Claude Cowork is Anthropic's product for knowledge workers that enables Claude t
 - [[ClaudeCodeSkills]] — skills as the reusable process mechanism
 - [[Anthropic]] — the company behind the product
 - [[analysis-claude-product-landscape]] — comparison with Claude Code and Managed Agents
+- [[summary-11 - Claude works inside your Word document]] — product-launch teaser for Word document integration
+- [[summary-12 - Cowork is now generally available]] — GA launch announcement
+- [[summary-18 - Scheduled Tasks in Cowork： Set it once, Claude handles the rest]] — scheduled-tasks feature launch
+- [[summary-19 - Dispatch tasks to Claude Cowork from anywhere]] — remote task dispatch feature launch
+- [[summary-05 - New agents for financial services ｜ Claude Cowork + Claude Managed Agents]] — financial-services agents launch

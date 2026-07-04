@@ -2,8 +2,8 @@
 title: "ClaudeCode"
 type: entity
 tags: [tool, coding-agent, anthropic]
-sources: [raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/02 - Installing Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/03 - How Claude Code Works.md, raw/03-transcripts/Claude/Claude Code 101/04 - Your first Claude Code prompt.md, raw/03-transcripts/Claude/Claude Code 101/05 - The CLAUDE.md file.md, raw/03-transcripts/Claude/Claude Code 101/06 - The Explore → Plan → Code → Commit workflow in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/07 - Context Management in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/08 - MCP in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/09 - Hooks in Claude Code.md, raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md, raw/03-transcripts/Claude/Claude Code subagents/03 - What are subagents.md, raw/01-articles/claude/2025-06-18 - Remote MCP support in Claude Code.md, raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2025-07-24 - How Anthropic teams use Claude Code.md, raw/01-articles/claude/2025-08-20 - Claude Code and new admin controls for business plans.md, raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md]
-last_updated: 2026-06-28
+sources: [raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/02 - Installing Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/03 - How Claude Code Works.md, raw/03-transcripts/Claude/Claude Code 101/04 - Your first Claude Code prompt.md, raw/03-transcripts/Claude/Claude Code 101/05 - The CLAUDE.md file.md, raw/03-transcripts/Claude/Claude Code 101/06 - The Explore → Plan → Code → Commit workflow in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/07 - Context Management in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/08 - MCP in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/09 - Hooks in Claude Code.md, raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md, raw/03-transcripts/Claude/Claude Code subagents/03 - What are subagents.md, raw/01-articles/claude/2025-06-18 - Remote MCP support in Claude Code.md, raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2025-07-24 - How Anthropic teams use Claude Code.md, raw/01-articles/claude/2025-08-20 - Claude Code and new admin controls for business plans.md, raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md, raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/13 - Running an AI-native engineering org.md, raw/01-articles/claude/2025-08-06 - Automate security reviews with Claude Code.md, raw/01-articles/claude/2025-10-06 - Optimize code performance quickly.md, raw/01-articles/claude/2025-10-08 - Beyond permission prompts making Claude Code more secure and autonomous.md, raw/01-articles/claude/2025-10-09 - Customize Claude Code with plugins.md, raw/01-articles/claude/2025-10-10 - Build responsive web layouts.md, raw/01-articles/claude/2025-10-15 - How to scale agentic coding across your engineering organization.md]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -50,6 +50,35 @@ Across [[Anthropic]], teams use [[ClaudeCode]] to:
 
 See [[summary-2025-07-24 - How Anthropic teams use Claude Code]] for detailed case studies.
 
+### Scaling Adoption and Activity Metrics (October 2025)
+
+Claude Code includes **Activity Metrics**, tracking lines of code accepted, suggestion acceptance rates, daily active users and sessions, organization-wide and per-user spend, and individual developer metrics — used as one of several success measures (alongside sprint throughput, task completion time, and developer satisfaction) when scaling [[AgenticCoding]] adoption across an engineering organization.
+
+### Responsive Web Layouts (October 2025)
+
+For responsive-design issues spanning multiple stylesheets, Claude Code scans a project's CSS to find fixed-width styles and overflow-causing patterns (with line numbers), replaces them with responsive alternatives, adds breakpoint-specific media queries, tests at multiple viewport widths, and generates a Playwright test suite covering real device sizes to prevent regressions. See [[ResponsiveWebDesign]].
+
+### Plugins (October 2025)
+
+Claude Code plugins bundle any combination of slash commands, sub-agents, MCP servers, and hooks into a single installable package (`/plugin` command, public beta). Plugin marketplaces — a git/GitHub repo or URL with a `.claude-plugin/marketplace.json` file — let teams discover, curate, and distribute plugins organization-wide or to the community. See [[ClaudeCodePlugins]].
+
+### Sandboxing and Claude Code on the Web (October 2025)
+
+To reduce "approval fatigue" from constant permission prompts, Claude Code added a sandboxed bash tool (research preview, built on Linux bubblewrap / macOS Seatbelt) that enforces filesystem and network isolation so Claude can act freely within defined boundaries — enable via `claude --sandbox`. **Claude Code on the web** runs each session in an isolated cloud sandbox where sensitive credentials (git credentials, signing keys) never enter the sandbox; git operations are proxied through a scoped-credential service to [[GitHub]] instead. Both are framed as [[PromptInjection]] containment: even a successful injection can't exfiltrate data or reach unauthorized servers. See [[Sandboxing]].
+
+### Code Performance Optimization (October 2025)
+
+For performance issues spanning multiple files, Claude Code scans an entire codebase, correlates recent changes with performance degradation, and orchestrates targeted fixes (generating tests, validating improvements, preventing regressions) — e.g., detecting N+1 query problems and implementing eager loading, batch queries, composite indexes, or Redis caching. Best focused on performance-critical directories (`api/`, `core/`). [[Ramp]] uses Claude Code this way to accelerate delivery across hundreds of services. See [[CodePerformanceOptimization]].
+
+### Automated Security Reviews (August 2025)
+
+Claude Code added two ways to catch vulnerabilities before production, both built on a specialized security-focused prompt covering SQL injection, XSS, auth flaws, insecure data handling, and dependency vulnerabilities:
+
+- **`/security-review` command**: ad-hoc, pre-commit vulnerability analysis from the terminal; Claude can also implement fixes.
+- **GitHub Action**: automatically reviews every new pull request, filters false positives via customizable rules, and posts inline PR comments.
+
+Anthropic uses both internally (including on Claude Code itself), catching a DNS-rebinding remote code execution vulnerability and an SSRF vulnerability in a credential-management proxy before they reached production. See [[AutomatedSecurityReview]] and [[VulnerabilityDetection]].
+
 ### Claude Agent SDK (September 2025)
 
 The agent harness powering Claude Code was renamed from the **Claude Code SDK** to the **[[ClaudeAgentSDK]]** to reflect its broader applicability. Anthropic teams use Claude Code to power deep research, video creation, and note-taking in addition to coding — demonstrating that the same harness can drive general-purpose agent workflows. The SDK exposes the agent loop (gather context → take action → verify work) as primitives: agentic file-system navigation, custom tools, bash, code generation, MCP integrations, subagents, and the compact context feature.
@@ -91,3 +120,24 @@ The agent harness powering Claude Code was renamed from the **Claude Code SDK** 
 - [[summary-2025-09-29 - Building agents with the Claude Agent SDK]] — SDK rename announcement and agent-building best practices
 - [[ClaudeAgentSDK]] — the renamed Claude Code SDK for general-purpose agent development
 - [[ContextEngineering]] — file/folder structure as agent context design
+- [[summary-13 - Running an AI-native engineering org]] — engineering-org lessons on how bottlenecks, planning, and code review changed inside the Claude Code team
+- [[summary-17 - Preview your running app in Claude Code on desktop]] — product-launch teaser for live app preview in the desktop app
+- [[summary-23 - Introducing Code Review]] — product-launch teaser introducing the Code Review capability
+- [[summary-06 - Find and fix security vulnerabilities with Claude]] — product-launch teaser for vulnerability finding/fixing
+- [[summary-25 - Find and fix security vulnerabilities with Claude]] — distinct product-launch teaser with the same title
+- [[AutomatedSecurityReview]] — the `/security-review` command and GitHub Action
+- [[VulnerabilityDetection]] — vulnerability classes detected by security review features
+- [[CodeSecurity]] — broader security practices in Claude Code workflows
+- [[GitHub]] — platform hosting the security-review GitHub Action integration
+- [[summary-2025-08-06 - Automate security reviews with Claude Code]] — security review feature announcement
+- [[CodePerformanceOptimization]] — project-wide performance optimization use case
+- [[Ramp]] — customer using Claude Code for performance work across hundreds of services
+- [[summary-2025-10-06 - Optimize code performance quickly]] — performance optimization use-case article
+- [[Sandboxing]] — filesystem and network isolation underlying the sandboxed bash tool and Claude Code on the web
+- [[PromptInjection]] — threat model sandboxing mitigates
+- [[summary-2025-10-08 - Beyond permission prompts making Claude Code more secure and autonomous]] — sandboxing and Claude Code on the web announcement
+- [[ClaudeCodePlugins]] — the plugin and marketplace system
+- [[summary-2025-10-09 - Customize Claude Code with plugins]] — plugins announcement
+- [[ResponsiveWebDesign]] — codebase-wide responsive-layout refactoring use case
+- [[summary-2025-10-10 - Build responsive web layouts]] — responsive layout use-case article
+- [[summary-2025-10-15 - How to scale agentic coding across your engineering organization]] — organizational rollout methodology and Activity Metrics

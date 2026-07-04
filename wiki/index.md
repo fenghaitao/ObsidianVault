@@ -45,7 +45,7 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-10 - How AirOps chases friction to build AI products with Claude]] — AirOps' approach to building AI products for content marketers.
 - [[summary-04 - Live coding session with Boris Cherny and Jarred Sumner]] — Live coding: Robo Bun automated pipeline and Claude Code advanced usage.
 - [[summary-12 - Building with Claude Managed Agents and Asana AI teammates]] — Asana's AI teammates built on Claude Managed Agents.
-- [[summary-03 - Running an AI-native engineering org]] — Fiona Fung on running Claude Code engineering at Anthropic.
+- [[summary-13 - Running an AI-native engineering org]] — Fiona Fung on running Claude Code engineering at Anthropic (San Francisco delivery).
 - [[summary-14 - The thinking lever]] — San Francisco version of test-time compute and adaptive thinking talk.
 - [[summary-15 - Building with Claude on Google Cloud]] — End-to-end app building and deployment on Google Cloud with Claude Code.
 - [[summary-16 - Evaluating and improving Replit Agent at scale]] — Replit's VibeBench and Telescope for continuous agent improvement.
@@ -67,6 +67,18 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-05 - How Lyft uses Claude for faster, more human customer support]] — Lyft's 87% faster customer support with Claude.
 - [[summary-06 - How HubSpot uses Claude for customer success]] — HubSpot's 40% productivity increase with Claude Code.
 - [[summary-07 - How Figma Make uses Claude to turn prompts into prototypes]] — Figma Make: turning prompts into prototypes with Claude.
+- [[summary-02 - Enterprise-managed auth for MCP connectors]] — Product-launch teaser for enterprise-managed MCP connector auth (no substantive transcript).
+- [[summary-05 - New agents for financial services ｜ Claude Cowork + Claude Managed Agents]] — Product-launch teaser for financial-services agents on Cowork and Managed Agents (no substantive transcript).
+- [[summary-06 - Find and fix security vulnerabilities with Claude]] — Product-launch teaser for security vulnerability finding/fixing (no substantive transcript).
+- [[summary-11 - Claude works inside your Word document]] — Product-launch teaser for Claude working inside Word documents (no substantive transcript).
+- [[summary-12 - Cowork is now generally available]] — Product-launch teaser announcing Cowork's general availability (no substantive transcript).
+- [[summary-13 - Introducing Claude Managed Agents]] — Product-launch teaser introducing Claude Managed Agents (no substantive transcript).
+- [[summary-17 - Preview your running app in Claude Code on desktop]] — Product-launch teaser for live app preview in Claude Code desktop (no substantive transcript).
+- [[summary-18 - Scheduled Tasks in Cowork： Set it once, Claude handles the rest]] — Product-launch teaser for scheduled tasks in Cowork (no substantive transcript).
+- [[summary-19 - Dispatch tasks to Claude Cowork from anywhere]] — Product-launch teaser for remote task dispatch to Cowork (no substantive transcript).
+- [[summary-20 - Claude can now show you]] — Product-launch teaser with an ambiguous/unspecified feature (no substantive transcript).
+- [[summary-23 - Introducing Code Review]] — Product-launch teaser introducing Claude Code's Code Review capability (no substantive transcript).
+- [[summary-25 - Find and fix security vulnerabilities with Claude]] — Distinct product-launch teaser sharing a title with #06 (no substantive transcript).
 - [[summary-claude-tag-launch]] — Claude Tag: Claude collaborates in team channels with scoped permissions.
 - [[summary-01 - The Problem Solvers ｜ Michael Truell at Cursor]] — Michael Truell on Cursor's mission and Anthropic partnership.
 - [[summary-02 - The Problem Solvers ｜ Anton Osika at Lovable]] — Anton Osika on Lovable's democratization of software creation.
@@ -235,7 +247,6 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[GitHubIntegration]] — Native GitHub sync feature for Claude Enterprise enabling seamless code access.
 - [[BatchProcessing]] — Asynchronous processing pattern for bulk queries with cost advantages over real-time APIs.
 - [[CodeExecution]] — Capability allowing Claude to execute and analyze code (evolved from analysis tool).
-- [[CostOptimization]] — Strategy for reducing inference costs through batching and discounted-rate APIs.
 - [[DoD-IL2]] — Defense Department compliance standard for contractor AI systems.
 - [[ExtendedThinking]] — Claude's capability for visible step-by-step reasoning with adjustable token budgets.
 - [[FedRAMP]] — Federal compliance standard for cloud services used by civilian agencies.

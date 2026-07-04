@@ -3,7 +3,7 @@ title: "MCPConnector"
 type: concept
 tags: [anthropic, api, mcp, model-context-protocol, integration, agents]
 sources: [raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md]
-last_updated: 2026-06-28
+last_updated: 2026-07-04
 ---
 
 # MCP Connector
@@ -74,3 +74,4 @@ Hundreds of additional connectors available at claude.com/connectors.
 - [[Claude4Opus]] — model with MCP connector support
 - [[Claude4Sonnet]] — model with MCP connector support
 - [[summary-2025-05-22 - New capabilities for building agents on the Anthropic API]] — announcement article
+- [[summary-02 - Enterprise-managed auth for MCP connectors]] — product-launch teaser for enterprise-managed authentication on MCP connectors

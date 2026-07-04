@@ -2,8 +2,8 @@
 title: "PromptInjection"
 type: concept
 tags: [security, adversarial, agent-safety, llm]
-sources: ["raw/01-articles/claude/2025-08-25 - Piloting Claude in Chrome.md"]
-last_updated: 2026-06-28
+sources: ["raw/01-articles/claude/2025-08-25 - Piloting Claude in Chrome.md", "raw/01-articles/claude/2025-10-08 - Beyond permission prompts making Claude Code more secure and autonomous.md"]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -29,6 +29,7 @@ Prompt injection is an attack in which malicious content embedded in websites, e
   - Permission controls giving users explicit control over what Claude can access and do.
 - **Ongoing challenge**: novel attack patterns emerge continuously; controlled internal testing cannot replicate the full complexity of real-world browsing, which is why Anthropic ran a real-world pilot to collect authentic threat data.
 - Applies to any [[BrowserUseAgent]] or agentic AI with access to external content — not unique to Claude.
+- **[[ClaudeCode]] mitigation via [[Sandboxing]]**: rather than relying only on detection, Anthropic constrains what a prompt-injected Claude Code session can actually do — filesystem and network isolation ensure that even a successful injection cannot exfiltrate SSH keys, phone home to an attacker's server, or delete files outside the sandboxed directory. This is a containment strategy, complementing the detection/hardening mitigations used for [[ClaudeInChrome]].
 
 ## Related
 
@@ -38,3 +39,6 @@ Prompt injection is an attack in which malicious content embedded in websites, e
 - [[AIAgent]] — agents in general face prompt injection when processing external content
 - [[Anthropic]] — conducted red-teaming and developed mitigations
 - [[PromptEngineering]] — system prompt hardening is one mitigation layer
+- [[Sandboxing]] — containment-based mitigation used in Claude Code
+- [[ClaudeCode]] — tool protected via sandboxing rather than detection alone
+- [[summary-2025-10-08 - Beyond permission prompts making Claude Code more secure and autonomous]] — sandboxing as a prompt-injection containment strategy

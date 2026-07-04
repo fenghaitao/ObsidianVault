@@ -2,8 +2,8 @@
 title: "Vertex AI"
 type: entity
 tags: [ai-platform, google-cloud, ml-platform, managed-service]
-sources: [raw/01-articles/claude/2025-04-02 - Claude on Google Cloud's Vertex AI FedRAMP High and IL2 Authorized.md, raw/01-articles/claude/2025-06-23 - Introducing Citations on the Anthropic API.md, raw/01-articles/claude/2025-08-14 - Prompt caching with Claude.md, raw/01-articles/claude/2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-04-02 - Claude on Google Cloud's Vertex AI FedRAMP High and IL2 Authorized.md, raw/01-articles/claude/2025-06-23 - Introducing Citations on the Anthropic API.md, raw/01-articles/claude/2025-08-14 - Prompt caching with Claude.md, raw/01-articles/claude/2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context.md, raw/01-articles/claude/2024-10-08 - Introducing the Message Batches API.md]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -27,6 +27,7 @@ Vertex AI provides access to [[Claude]] models with government compliance featur
 - **Assured Workloads**: Enhanced security and compliance controls for government workloads.
 - **Citations**: Support for [[Citations]] feature enabling grounded responses with precise source citations (available June 23, 2025).
 - **Prompt Caching**: [[PromptCaching]] available in preview on Vertex AI, reducing costs by up to 90% and latency by up to 85% for long-context applications.
+- **Batch Predictions**: [[MessageBatchesAPI|batch predictions]] announced as "coming soon" alongside the October 2024 Message Batches API launch, later confirmed available in preview (per a December 17, 2024 update).
 
 ## Getting Started with Claude on Vertex AI
 
@@ -46,3 +47,5 @@ Vertex AI provides access to [[Claude]] models with government compliance featur
 - [[Citations]] — API feature for citations available on Vertex AI
 - [[PromptCaching]] — API feature available in preview on Vertex AI
 - [[summary-2025-08-14 - Prompt caching with Claude]] — article noting Vertex AI preview availability
+- [[MessageBatchesAPI]] — batch predictions available in preview on Vertex AI
+- [[summary-2024-10-08 - Introducing the Message Batches API]] — announcement noting Vertex AI batch predictions coming soon

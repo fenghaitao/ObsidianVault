@@ -2,8 +2,8 @@
 title: "CodeExecutionTool"
 type: concept
 tags: [anthropic, api, code-execution, python, data-analysis, agents]
-sources: [raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md, raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md]
+last_updated: 2026-07-04
 ---
 
 # Code Execution Tool
@@ -52,6 +52,10 @@ Unlike the [[CodeExecution|analysis tool]] in [[Claude.ai]] which uses JavaScrip
 - Enables scientific and data analysis workflows
 - Serverless container-based execution
 
+## Agent Skills Dependency (October 2025)
+
+[[ClaudeCodeSkills|Agent Skills]] on the Anthropic API require the Code Execution Tool beta, which provides the secure sandboxed environment Skills need to run — for example, Anthropic-created skills that read/generate Excel, PowerPoint, Word, and fillable PDFs.
+
 ## Related
 
 - [[Anthropic]] — API provider
@@ -62,3 +66,5 @@ Unlike the [[CodeExecution|analysis tool]] in [[Claude.ai]] which uses JavaScrip
 - [[Claude4Opus]] — flagship model with code execution support
 - [[Claude4Sonnet]] — code execution capable model
 - [[summary-2025-05-22 - New capabilities for building agents on the Anthropic API]] — announcement article
+- [[ClaudeCodeSkills]] — Agent Skills feature that depends on this tool via the API
+- [[summary-2025-10-16 - Introducing Agent Skills]] — Agent Skills announcement noting the Code Execution Tool dependency

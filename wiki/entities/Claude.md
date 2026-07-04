@@ -3,7 +3,7 @@ title: "Claude"
 type: entity
 tags: [AI, LLM, platform, chatbot, assistant]
 sources: [raw/01-articles/claude/2025-07-25 - Build and share AI-powered apps with Claude.md]
-last_updated: 2026-06-28
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -30,3 +30,4 @@ Claude is a family of large language models and the platform built around them b
 - [[ToolUse]] — Claude's ability to call external tools
 - [[ConstitutionalAI]] — training methodology
 - [[summary-2025-07-25 - Build and share AI-powered apps with Claude]] — Artifacts feature announcement
+- [[summary-20 - Claude can now show you]] — product-launch teaser for an unspecified visual/output capability

@@ -25,3 +25,4 @@ Fiona Fung, engineering lead for Claude Code and Cowork, shares lessons from run
 - [[ClaudeCode]] — the tool the team builds and uses
 - [[ExplorePlanCodeCommit]] — the recommended workflow
 - [[Anthropic]] — the company
+- [[summary-13 - Running an AI-native engineering org]] — the San Francisco-venue delivery of the same talk

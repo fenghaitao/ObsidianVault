@@ -3,7 +3,7 @@ title: "ClaudeManagedAgents"
 type: entity
 tags: [product, claude, anthropic, agents, platform]
 sources: [raw/03-transcripts/Claude/Code with Claude 2026 - Japan/01 - Code with Claude Tokyo 2026： Opening Keynote.md]
-last_updated: 2026-06-23
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -27,3 +27,5 @@ Claude Managed Agents is Anthropic's product offering for building and deploying
 - [[Anthropic]] — the company behind the platform
 - [[analysis-claude-product-landscape]] — comparison with Claude Code and Claude Cowork
 - [[analysis-agent-evolution-loop-to-self-learning]] — the evolution from agentic loop to self-learning agents
+- [[summary-13 - Introducing Claude Managed Agents]] — product-launch teaser announcing the product
+- [[summary-05 - New agents for financial services ｜ Claude Cowork + Claude Managed Agents]] — financial-services agents launch

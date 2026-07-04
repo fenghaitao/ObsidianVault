@@ -2,8 +2,8 @@
 title: "Lonely Planet"
 type: entity
 tags: [travel, media, content, ai-adopter, enterprise]
-sources: ["raw/01-articles/claude/2023-08-23 - Claude 2 on Amazon Bedrock.md"]
-last_updated: 2026-06-28
+sources: ["raw/01-articles/claude/2023-08-23 - Claude 2 on Amazon Bedrock.md", "raw/01-articles/claude/2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer.md"]
+last_updated: 2026-07-04
 ---
 
 # Lonely Planet
@@ -25,9 +25,12 @@ In 2023, Lonely Planet adopted [[Claude2]] on [[AmazonBedrock]] to:
 
 *"We've turned to Claude 2 on Amazon Bedrock to integrate generative AI in a scalable, reliable, and secure way, making it easier than ever for our customers to access our world-class travel content when and how they want."* — Chris Whyde, SVP of Engineering and Data Science
 
+Cited again in Anthropic's September 2023 general-availability announcement for Claude on Amazon Bedrock as an example of organic enterprise adoption since the April 2023 preview.
+
 ## Related
 
 - [[Claude2]] — the model adopted by Lonely Planet
 - [[AmazonBedrock]] — the deployment platform
 - [[Anthropic]] — model creator
 - [[summary-2023-08-23 - Claude 2 on Amazon Bedrock]] — source article
+- [[summary-2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer]] — GA announcement citing Lonely Planet as an early adopter

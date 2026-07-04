@@ -2,8 +2,8 @@
 title: "Claude 3.7 Sonnet"
 type: entity
 tags: [claude, model, anthropic, llm, foundation-model, sonnet, latest]
-sources: [raw/01-articles/claude/2025-03-06 - Get to production faster with the upgraded Anthropic Console.md, raw/01-articles/claude/2025-03-13 - Token-saving updates on the Anthropic API.md, raw/01-articles/claude/2025-04-02 - Claude on Google Cloud's Vertex AI FedRAMP High and IL2 Authorized.md, raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-03-06 - Get to production faster with the upgraded Anthropic Console.md, raw/01-articles/claude/2025-03-13 - Token-saving updates on the Anthropic API.md, raw/01-articles/claude/2025-04-02 - Claude on Google Cloud's Vertex AI FedRAMP High and IL2 Authorized.md, raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2025-03-20 - Claude can now search the web.md]
+last_updated: 2026-07-04
 ---
 
 # Claude 3.7 Sonnet
@@ -30,7 +30,7 @@ Claude 3.7 Sonnet supports:
 - **Vision**: Image understanding and analysis
 - **Multilingual Support**: Processing across multiple languages
 - **Agentic Behavior**: Tool use and multi-step workflows
-- **Web Search**: Real-time internet search with citations for up-to-date information access
+- **Web Search**: Real-time internet search with citations for up-to-date information access. This model powered the initial consumer launch of [[WebSearch]] in Claude.ai (March 20, 2025, feature preview for US paid users) ahead of the May 2025 Anthropic API web search tool.
 
 ## Token Optimization Features
 
@@ -75,3 +75,4 @@ Claude 3.7 Sonnet succeeds [[Claude3.5Sonnet]] with enhanced capabilities across
 - [[summary-2025-03-13 - Token-saving updates on the Anthropic API]] — token optimization announcement
 - [[summary-2025-04-02 - Claude on Google Cloud's Vertex AI FedRAMP High and IL2 Authorized]] — government compliance announcement
 - [[summary-2025-05-07 - Introducing web search on the Anthropic API]] — web search feature announcement
+- [[summary-2025-03-20 - Claude can now search the web]] — initial consumer web search launch in Claude.ai
