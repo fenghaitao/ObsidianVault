@@ -29,6 +29,7 @@ Claude 3.5 Sonnet is [[Anthropic]]'s most powerful generally available Claude mo
 - Knowledge work and business applications
 - Data analysis and processing (via [[CodeExecution]] in [[Claude.ai]])
 - [[WebSearch]]: Real-time internet search with citations for up-to-date information
+- **METR time horizon (as of March 2026 retrospective)**: when Claude Code was first built on Sonnet 3.5 (new), [[METR]] measured it could reliably do software tasks taking a human ~21 minutes — a baseline later benchmarks (e.g. Opus 4.6's ~12 hours) are compared against as a ~41x jump in 16 months. See [[summary-2026-03-19 - Product management on the AI exponential]].
 
 ## Related
 
@@ -47,3 +48,6 @@ Claude 3.5 Sonnet is [[Anthropic]]'s most powerful generally available Claude mo
 - [[summary-2023-08-23 - Claude 2 on Amazon Bedrock]] — earlier Claude model
 - [[summary-2024-12-03 - Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock]] — article featuring Sonnet as teacher model
 - [[summary-2025-05-07 - Introducing web search on the Anthropic API]] — web search feature announcement
+- [[METR]] — benchmark org measuring this model's time horizon
+- [[ClaudeCode]] — first built on this model
+- [[summary-2026-03-19 - Product management on the AI exponential]] — METR benchmark citation

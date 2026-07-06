@@ -16,6 +16,8 @@ Code security, in the context of Claude, is the broader set of security patterns
 - [[ClaudeCode]] embodies this through two entry points: the `/security-review` terminal command (pre-commit, ad-hoc) and a GitHub Action (automatic, per-pull-request) — see [[AutomatedSecurityReview]].
 - Anthropic uses these same features to help secure its own production code, including Claude Code itself, catching real vulnerabilities (remote code execution, SSRF) before they shipped — see [[VulnerabilityDetection]].
 - Complementary security mechanism: [[Sandboxing]] constrains what a compromised or prompt-injected agent can actually do (filesystem and network isolation), providing defense in depth alongside vulnerability detection in code.
+- Anthropic's April 2026 guidance ([[AIAcceleratedOffense]]) extends this beyond a single tool to a full security-program playbook — patch management, vulnerability-report volume, build-pipeline security, breach containment, attack-surface reduction, and incident response — arguing AI-accelerated exploit development requires all of these to move faster, not just code review.
+- **Claude Security (April 2026)**: a third security surface alongside Claude Code's terminal/CI features — a standalone, Enterprise-only product (claude.ai/security) for repository-wide, schedulable vulnerability scanning and patch generation, built on [[Claude4.7Opus|Opus 4.7]]. See [[ClaudeSecurity]].
 
 ## Related
 
@@ -25,3 +27,6 @@ Code security, in the context of Claude, is the broader set of security patterns
 - [[PromptInjection]] — adversarial attack vector code security features help mitigate downstream effects of
 - [[ClaudeCode]] — the tool integrating these security practices
 - [[summary-2025-08-06 - Automate security reviews with Claude Code]] — source announcement
+- [[AIAcceleratedOffense]] — organization-wide security-program playbook for the AI-accelerated-offense era
+- [[ClaudeSecurity]] — standalone repo-scanning product (public beta, April 2026)
+- [[summary-2026-04-30 - Claude Security is now in public beta]] — Claude Security public beta announcement

@@ -16,6 +16,7 @@ Context editing is an automatic context management mechanism that removes stale 
 - **Behavior**: Removes stale tool call/result pairs while preserving the surrounding conversation structure.
 - **Effect on performance**: Keeps only relevant context in-window, which increases effective model performance because Claude focuses on current, pertinent information.
 - **Compared to manual truncation**: Developers previously had to choose between cutting agent transcripts (losing information) or accepting degraded performance; context editing automates this trade-off.
+- **Framed as the inverse of Skills-based context assembly** (April 2026): a April 2026 Anthropic harness-design article frames context editing as removing stale content — explicitly including **thinking blocks** (not just old tool call/result pairs) among what it can remove. See [[summary-2026-04-02 - Harnessing Claude’s intelligence]].
 
 ## Measured Results
 
@@ -39,3 +40,4 @@ Context editing is an automatic context management mechanism that removes stale 
 - [[VertexAI]] — cloud platform where context editing is available
 - [[Anthropic]] — introduced context editing in September 2025
 - [[summary-2025-09-29 - Managing context on the Claude Developer Platform]] — source article
+- [[summary-2026-04-02 - Harnessing Claude’s intelligence]] — thinking-block removal framing

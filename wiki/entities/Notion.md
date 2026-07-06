@@ -16,6 +16,7 @@ Notion is a productivity and collaboration platform that uses Claude Managed Age
 - **Managed Agents integration:** Plug-and-play API integration — "If you were to roll it up yourself, it's like a mega brain engineering effort."
 - **Long-running tasks:** Harness runs for 20 minutes to hours with memory management and quality outputs.
 - **Dual view:** Notion UI for end users; Claude platform console for developers to see traces and improve agents.
+- **Skill-from-connector distribution (April 2026)**: Notion is cited as one of the providers (with Canva and Sentry) that publishes a companion skill alongside its MCP server in Claude's connector directory. See [[ModelContextProtocol]].
 
 ## Prompt Caching Integration
 
@@ -30,3 +31,5 @@ Notion was one of the early adopters of [[PromptCaching]] on the Anthropic API. 
 - [[Anthropic]] — model provider
 - [[PromptCaching]] — API feature used to optimize Notion AI cost and latency
 - [[summary-2025-08-14 - Prompt caching with Claude]] — launch article featuring Notion as early adopter
+- [[summary-2026-04-08 - Claude Managed Agents get to production 10x faster]] — reaffirms Notion as a Managed Agents customer
+- [[summary-2026-04-22 - Building agents that reach production systems with MCP]] — skill-from-connector distribution example

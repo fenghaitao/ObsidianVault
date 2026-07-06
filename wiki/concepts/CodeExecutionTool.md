@@ -2,7 +2,7 @@
 title: "CodeExecutionTool"
 type: concept
 tags: [anthropic, api, code-execution, python, data-analysis, agents]
-sources: [raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md, raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md]
+sources: [raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md, raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md, raw/01-articles/claude/2026-02-17 - Increase web search accuracy and efficiency with dynamic filtering.md]
 last_updated: 2026-07-04
 ---
 
@@ -52,6 +52,18 @@ Unlike the [[CodeExecution|analysis tool]] in [[Claude.ai]] which uses JavaScrip
 - Enables scientific and data analysis workflows
 - Serverless container-based execution
 
+## Dynamic Filtering for Web Search (February 2026)
+
+Extended to web search and web fetch tools: Claude writes and executes code to post-process search results, filtering out irrelevant content before it reaches the context window rather than reasoning over raw HTML. Improved accuracy by an average of 11% while using 24% fewer input tokens across BrowseComp and DeepSearchQA benchmarks. See [[WebSearch]].
+
+## Harness-Design Framing (April 2026)
+
+Anthropic frames code execution as moving *orchestration decisions* from the harness to the model — Claude decides what tool-call results to pass through, filter, or pipe onward, so only code's output reaches the context window rather than every raw tool result. Reasoning: since code is a general orchestration mechanism, a strong coding model is also a strong general agent. See [[summary-2026-04-02 - Harnessing Claude’s intelligence]].
+
+## Programmatic Tool Calling in MCP Clients (April 2026)
+
+Applied to MCP tool results specifically: rather than returning raw tool output to the model, an MCP client can process results inside a code-execution sandbox, letting the agent loop, filter, and aggregate across multiple tool calls with only the final output reaching context. Anthropic reports roughly 37% token-usage reduction on complex multi-step workflows, composing naturally with Tool Search across multiple MCP servers. See [[ModelContextProtocol]] and [[summary-2026-04-22 - Building agents that reach production systems with MCP]].
+
 ## Agent Skills Dependency (October 2025)
 
 [[ClaudeCodeSkills|Agent Skills]] on the Anthropic API require the Code Execution Tool beta, which provides the secure sandboxed environment Skills need to run — for example, Anthropic-created skills that read/generate Excel, PowerPoint, Word, and fillable PDFs.
@@ -68,3 +80,8 @@ Unlike the [[CodeExecution|analysis tool]] in [[Claude.ai]] which uses JavaScrip
 - [[summary-2025-05-22 - New capabilities for building agents on the Anthropic API]] — announcement article
 - [[ClaudeCodeSkills]] — Agent Skills feature that depends on this tool via the API
 - [[summary-2025-10-16 - Introducing Agent Skills]] — Agent Skills announcement noting the Code Execution Tool dependency
+- [[WebSearch]] — dynamic filtering feature built on this tool
+- [[summary-2026-02-17 - Increase web search accuracy and efficiency with dynamic filtering]] — dynamic filtering announcement
+- [[summary-2026-04-02 - Harnessing Claude’s intelligence]] — harness-design framing for code execution as self-orchestration
+- [[ModelContextProtocol]] — protocol whose clients use programmatic tool calling for context efficiency
+- [[summary-2026-04-22 - Building agents that reach production systems with MCP]] — programmatic tool calling applied to MCP clients

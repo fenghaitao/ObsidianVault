@@ -22,6 +22,7 @@ Claude in Chrome is an [[Anthropic]]-built browser extension for [[GoogleChrome]
 - **Safety focus**: the product was explicitly designed as a controlled real-world experiment to develop and validate [[PromptInjection]] defenses before wider rollout.
 - **Permission model**: users control what Claude can access and do; blocked by default from high-risk website categories (financial services, adult content, pirated content).
 - Documented in Anthropic's trustworthy agents framework: agents must operate within well-defined user-granted permissions.
+- **"Teach Mode" (referenced May 2026)**: an internal workflow-recording feature — the user demonstrates a task once (screenshots, click coordinates/selectors, optional voice narration), and the demonstration becomes a reusable specification Claude replays adaptively on later requests (adapting to layout changes rather than blindly replaying recorded coordinates). Anthropic describes the underlying pattern (capture a demonstration, feed it back as context) as broadly applicable beyond Claude in Chrome. See [[summary-2026-05-13 - Best practices for computer and browser use with Claude]].
 
 ## Related
 
@@ -35,3 +36,4 @@ Claude in Chrome is an [[Anthropic]]-built browser extension for [[GoogleChrome]
 - [[ClaudeTeamPlan]] — expanded access tier
 - [[ClaudeEnterprise]] — expanded access tier with org admin controls
 - [[AIAgent]] — Claude in Chrome as a browser-using AI agent
+- [[summary-2026-05-13 - Best practices for computer and browser use with Claude]] — describes the internal "Teach Mode" workflow-recording pattern

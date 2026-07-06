@@ -2,8 +2,8 @@
 title: "Poe"
 type: entity
 tags: [poe, quora, ai-platform, claude-integration]
-sources: [raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2026-02-17 - Increase web search accuracy and efficiency with dynamic filtering.md]
+last_updated: 2026-07-04
 ---
 
 # Poe
@@ -23,6 +23,10 @@ This integration enables Poe users to:
 - Benefit from cost-effective web search
 - Use Claude with current, up-to-date information
 
+## Dynamic Filtering (February 2026)
+
+Internal Quora teams found Opus 4.6 with [[WebSearch|dynamic filtering]] "achieved the highest accuracy on our internal evals when tested against other frontier models," per Gareth Jones, Product and Research Lead: "The model behaves like an actual researcher, writing Python to parse, filter, and cross-reference results rather than reasoning over raw HTML in context."
+
 ## Key Features
 
 - Multi-model access (including [[Claude]] variants)
@@ -36,3 +40,5 @@ This integration enables Poe users to:
 - [[summary-2025-05-07 - Introducing web search on the Anthropic API]] — Source announcement
 - [[Claude3.5Sonnet]] — Claude model available on Poe
 - [[Anthropic]] — Provider of web search technology
+- [[Claude4.6Opus]] — model quoted for dynamic-filtering accuracy
+- [[summary-2026-02-17 - Increase web search accuracy and efficiency with dynamic filtering]] — source article

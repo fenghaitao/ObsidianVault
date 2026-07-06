@@ -23,3 +23,4 @@ An Anthropic marketer with zero coding experience describes building a Figma plu
 - [[Anthropic]] — the company using Claude internally
 - [[ClaudeCode]] — the tool enabling non-coders to build
 - [[Figma]] — the design tool integrated via plugin
+- [[summary-2026-01-26 - How Anthropic&#39;s Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code]] — the same initiative, named (Austin Lau) and expanded with a companion Google Ads copy workflow in a January 2026 blog post

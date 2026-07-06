@@ -112,7 +112,7 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-2025-03-06 - Get to production faster with the upgraded Anthropic Console]] — Extended thinking support and collaboration features.
 - [[summary-2025-03-13 - Token-saving updates on the Anthropic API]] — Prompt caching, cache-aware rate limits, and token optimization.
 - [[summary-2025-03-20 - Claude can now search the web]] — Real-time web search with citations integrated into Claude.
-- [[summary-2025-04-02 - Claude on Google Cloud's Vertex AI FedRAMP High and IL2 Authorized]] — Government compliance authorizations for Claude on Google Cloud.
+- [[summary-2025-04-02 - Claude on Google Cloud’s Vertex AI FedRAMP High and IL2 Authorized]] — Government compliance authorizations for Claude on Google Cloud.
 - [[summary-2025-04-15 - Claude takes research to new places]] — Research capabilities with Google Workspace integration.
 - [[summary-2025-05-01 - Claude can now connect to your world]] — Integrations and advanced research capabilities across platforms.
 - [[summary-2025-05-07 - Introducing web search on the Anthropic API]] — Web search feature for API with citations and real-time data.
@@ -134,6 +134,107 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-2025-09-29 - Building agents with the Claude Agent SDK]] — Claude Agent SDK (renamed from Claude Code SDK) for building general-purpose agents.
 - [[summary-2025-09-29 - Managing context on the Claude Developer Platform]] — Context editing and Claude Sonnet 4.5 for autonomous context management in agents.
 - [[summary-2025-10-01 - Claude and Slack]] — Native Claude integration in Slack channels via Claude for Work.
+- [[summary-2025-10-01 - How enterprises are driving AI transformation with Claude]] — Five enterprise case studies plus HackerOne, NBIM, Netflix, and GitHub results with Claude Sonnet 4.5.
+- [[summary-2025-10-06 - Optimize code performance quickly]] — Claude.ai for quick performance analysis, Claude Code for project-wide fixes; Ramp case study.
+- [[summary-2025-10-08 - Beyond permission prompts making Claude Code more secure and autonomous]] — Sandboxing via filesystem/network isolation, sandboxed bash tool, and Claude Code on the web preview.
+- [[summary-2025-10-09 - Customize Claude Code with plugins]] — Installable plugin bundles and marketplaces for slash commands, agents, MCP servers, and hooks.
+- [[summary-2025-10-10 - Build responsive web layouts]] — Claude.ai for quick layout prototyping, Claude Code for codebase-wide responsive-design refactoring.
+- [[summary-2025-10-15 - How to scale agentic coding across your engineering organization]] — Pilot-to-org-wide rollout methodology, CLAUDE.md standardization, and Activity Metrics.
+- [[summary-2025-10-16 - Claude and your productivity platforms]] — Microsoft 365 connector and enterprise search via MCP.
+- [[summary-2025-10-16 - Introducing Agent Skills]] — Agent Skills formalized as a portable, cross-platform capability.
+- [[summary-2025-10-20 - Claude Code on the web]] — Browser-based cloud coding sessions with parallel tasks, PR creation, and iOS support.
+- [[summary-2025-10-27 - How to integrate APIs seamlessly]] — Claude.ai for upfront API risk analysis, Claude Code for client/auth-flow implementation.
+- [[summary-2025-10-28 - Fix software bugs faster with Claude]] — Claude.ai for error analysis, Claude Code for autonomous multi-file debugging; Ramp case study.
+- [[summary-2025-10-30 - Building AI agents for financial services]] — Agentic AI in banking/wealth/insurance; NBIM, Intuit, Brex, Block case studies.
+- [[summary-2025-10-30 - Building AI agents for healthcare and life sciences]] — Agentic AI in clinical/life-sciences workflows; Pfizer and Novo Nordisk case studies.
+- [[summary-2025-10-30 - How Brex improves code quality and productivity with Claude Code]] — Three Brex team case studies: content design, Product AI, and data analytics.
+- [[summary-2025-10-30 - Introduction to agentic coding]] — Autocomplete vs. conversational vs. agentic coding tools; Rakuten vLLM case study.
+- [[summary-2025-10-31 - What is Model Context Protocol Connect AI to your world]] — MCP origin story, USB-C analogy, and Connectors explainer.
+- [[summary-2025-11-03 - Building AI agents for startups]] — Startup AI agent case studies: Campfire, Brex, Armanino, ClassDojo, eSentire, Micro1.
+- [[summary-2025-11-10 - Best practices for prompt engineering]] — Consolidated prompt engineering techniques from explicit instructions to prompt chaining.
+- [[summary-2025-11-12 - Improving frontend design through Skills]] — Frontend-aesthetics skill and web-artifacts-builder skill for richer Claude-generated UIs.
+- [[summary-2025-11-14 - Structured outputs on the Claude Developer Platform]] — Guaranteed JSON schema/tool-definition conformance in the API.
+- [[summary-2025-11-17 - How three YC startups built their companies with Claude Code]] — HumanLayer, Ambral, and Vulcan case studies.
+- [[summary-2025-11-19 - How to create Skills Key steps, limitations, and examples]] — Practical guide to writing SKILL.md files with docx and brand-guidelines examples.
+- [[summary-2025-11-20 - What's new in Claude: Turning Claude into your thinking partner]] — Roundup of memory, voice, mobile actions, Claude for Chrome, and connectors.
+- [[summary-2025-11-25 - Using CLAUDE.md files Customizing Claude Code for your codebase]] — CLAUDE.md structuring guide plus /clear, subagents, and custom slash commands.
+- [[summary-2025-12-01 - What are the key benefits of transitioning to agentic coding for software development]] — Organizational case for agentic coding with Augment Code and Grafana examples.
+- [[summary-2025-12-08 - Claude Code and Slack]] — Delegate coding tasks to Claude Code directly from Slack.
+- [[summary-2025-12-08 - How Anthropic&#39;s legal team cut review times from days to hours with Claude]] — Four Skills/MCP-powered legal workflows built by a non-coder lawyer.
+- [[summary-2025-12-09 - How enterprises are building AI agents in 2026]] — 2026 State of AI Agents survey of 500+ technical leaders.
+- [[summary-2025-12-11 - Claude Code power user customization How to configure hooks]] — All eight Claude Code hook types, matchers, and debugging.
+- [[summary-2025-12-12 - Making Claude a better electrical engineer]] — Diode Computers partnership improving PCB reference-design generation.
+- [[summary-2025-12-18 - Skills for organizations, partners, the ecosystem]] — Org-wide skill management, partner directory, and open standard.
+- [[summary-2025-12-19 - Extending Claude’s capabilities with skills and MCP servers]] — MCP provides connectivity, Skills provide expertise, and how to combine them.
+- [[summary-2026-01-21 - Eight trends defining how software gets built in 2026]] — 2026 Agentic Coding Trends Report teaser with Rakuten, TELUS, Zapier examples.
+- [[summary-2026-01-22 - Building agents with Skills Equipping agents for specialized work]] — Why Anthropic converged on Skills instead of domain-specific agents.
+- [[summary-2026-01-23 - Building multi-agent systems When and how to use them]] — When multi-agent architectures beat a single agent, and how to decompose work.
+- [[summary-2026-01-26 - How Anthropic&#39;s Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code]] — Non-technical marketer builds Figma plugin and ad-copy workflow with Claude Code.
+- [[summary-2026-01-26 - Your favorite work tools are now interactive connectors inside Claude]] — MCP Apps bring interactive, in-conversation UI to Asana, Slack, and Figma connectors.
+- [[summary-2026-01-28 - How leading retailers are turning AI pilots into enterprise-wide transformation]] — Retail AI transformation guide with Shopify, L'Oréal, and Lotte Homeshopping case studies.
+- [[summary-2026-01-28 - Updates to Claude Team]] — Lower pricing and annual discounts for Claude Team standard and premium seats.
+- [[summary-2026-01-29 - A complete guide to building skills for Claude]] — Comprehensive downloadable guide to building, testing, and distributing Skills.
+- [[summary-2026-01-29 - Understand Claude Code’s impact with contribution metrics]] — GitHub-integrated dashboard tracking PRs and code committed with Claude Code.
+- [[summary-2026-01-30 - Customize Cowork with plugins]] — 11 open-sourced Cowork plugins for sales, finance, legal, marketing, and more.
+- [[summary-2026-02-05 - Advancing finance with Claude Opus 4.6]] — Claude Opus 4.6 for finance: Cowork, Claude in Excel, and new Claude in PowerPoint.
+- [[summary-2026-02-09 - Behind the model launch What customers discovered testing Claude Opus 4.6 early]] — Harvey, bolt.new, Shopify, and Lovable's early-access testing of Opus 4.6.
+- [[summary-2026-02-12 - Claude Enterprise, now available self-serve]] — Purchase Claude Enterprise directly online, no sales conversation required.
+- [[summary-2026-02-17 - Increase web search accuracy and efficiency with dynamic filtering]] — Code-execution-based dynamic filtering improves web search accuracy 11%, tokens -24%.
+- [[summary-2026-02-20 - Bringing automated preview, review, and merge to Claude Code on desktop]] — Live app preview, auto-review diffs, auto-fix/merge PRs, and cross-surface session handoff.
+- [[summary-2026-02-23 - How AI helps break the cost barrier to COBOL modernization]] — AI automates COBOL discovery and mapping, cutting migration timelines from years to quarters.
+- [[summary-2026-02-24 - Cowork and plugins for finance]] — Five new finance plugins, FactSet/MSCI connectors, and Excel-to-PowerPoint context carryover.
+- [[summary-2026-02-24 - Cowork and plugins for teams across the enterprise]] — Private plugin marketplaces, unified Customize menu, and new enterprise connectors.
+- [[summary-2026-03-03 - Improving skill-creator Test, measure, and refine Agent Skills]] — Evals, benchmark mode, and description tuning for no-code skill authors.
+- [[summary-2026-03-05 - Common workflow patterns for AI agents—and when to use them]] — Sequential, parallel, and evaluator-optimizer agent workflow patterns.
+- [[summary-2026-03-05 - Skills explained How Skills compares to prompts, Projects, MCP, and subagents]] — Where Skills fit relative to prompts, Projects, MCP, and subagents.
+- [[summary-2026-03-09 - Bringing Code Review to Claude Code]] — Multi-agent PR review catching bugs human reviewers miss.
+- [[summary-2026-03-11 - Advancing Claude for Excel and PowerPoint]] — Shared context across Excel/PowerPoint files, Skills support, and multi-cloud availability.
+- [[summary-2026-03-12 - Claude now creates interactive charts, diagrams and visualizations]] — In-line, temporary interactive visuals distinct from Artifacts.
+- [[summary-2026-03-13 - 1M context is now generally available for Opus 4.6 and Sonnet 4.6]] — Standard pricing across the full 1M-token window for Opus 4.6 and Sonnet 4.6.
+- [[summary-2026-03-18 - Code with Claude comes to San Francisco, London, and Tokyo]] — 2026 developer conference expands to three cities.
+- [[summary-2026-03-19 - Product management on the AI exponential]] — How Anthropic's PM team and customers adapt practice to exponential model improvement.
+- [[summary-2026-03-23 - Put Claude to work on your computer]] — Computer use and Dispatch let Claude act autonomously on a user's desktop.
+- [[summary-2026-03-24 - Auto mode for Claude Code]] — Classifier-gated permissions mode between default prompts and skipping permissions entirely.
+- [[summary-2026-03-30 - Audit Claude Platform activity with the Compliance API]] — Compliance API expands platform-wide as a security/audit activity feed.
+- [[summary-2026-04-02 - Harnessing Claude’s intelligence]] — Harness-design patterns: code execution, context editing, subagents, and memory folders.
+- [[summary-2026-04-07 - How and when to use subagents in Claude Code]] — Expanded guidance on subagent use cases, invocation, and background execution.
+- [[summary-2026-04-08 - Claude Managed Agents get to production 10x faster]] — Public beta launch of Claude Managed Agents on the Claude Platform.
+- [[summary-2026-04-08 - How Carta Healthcare gets AI to reason like a clinical abstractor]] — Context engineering over prompt tuning for clinical data abstraction.
+- [[summary-2026-04-09 - Making Claude Cowork ready for enterprise]] — Role-based access, spend limits, OpenTelemetry, and a Zoom connector for org-wide Cowork rollout.
+- [[summary-2026-04-09 - The advisor strategy Give agents an intelligence boost]] — The `advisor` tool: a small executor escalates to a large advisor model for a cost/quality edge.
+- [[summary-2026-04-10 - Multi-agent coordination patterns Five approaches and when to use them]] — Generator-verifier, orchestrator-subagent, agent teams, message bus, and shared state.
+- [[summary-2026-04-10 - Preparing your security program for AI-accelerated offense]] — Project Glasswing and a seven-point defensive playbook against AI-accelerated exploitation.
+- [[summary-2026-04-10 - Seeing like an agent how we design tools in Claude Code]] — Tool-design case studies: AskUserQuestion, the Task tool, and the Claude Code Guide subagent.
+- [[summary-2026-04-14 - Introducing routines in Claude Code]] — Scheduled, API-triggered, and event-triggered automation runs on Claude Code's web infrastructure.
+- [[summary-2026-04-14 - Redesigning Claude Code on desktop for parallel agents]] — Sidebar, side chat, and drag-and-drop layout for orchestrating many concurrent sessions.
+- [[summary-2026-04-15 - Using Claude Code session management and 1M context]] — /rewind, /compact vs /clear, and avoiding bad compacts.
+- [[summary-2026-04-16 - Best practices for using Claude Opus 4.7 with Claude Code]] — New `xhigh` effort level and default-behavior shifts from Opus 4.6.
+- [[summary-2026-04-20 - Meet the winners of our Built with Opus 4.6 Claude Code hackathon]] — Five hackathon-winning projects spanning permitting, education, healthcare, infrastructure, and music.
+- [[summary-2026-04-22 - Building agents that reach production systems with MCP]] — Three integration paths (API, CLI, MCP), server/client design patterns, and skills+MCP pairing.
+- [[summary-2026-04-23 - Built-in memory for Claude Managed Agents]] — Filesystem-based, exportable/API-managed memory reaches public beta.
+- [[summary-2026-04-23 - New connectors in Claude for everyday life]] — Connectors expand beyond work tools to AllTrails, Spotify, Uber, and more.
+- [[summary-2026-04-28 - Onboarding Claude Code like a new developer Lessons from 17 years of development]] — MacCoss Lab/Skyline applies 17 years of human-onboarding methodology to Claude Code.
+- [[summary-2026-04-29 - Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp]] — The claude-api skill expands from Claude Code into four partner developer tools.
+- [[summary-2026-04-29 - Deploying agentic AI across the enterprise with Claude Cowork]] — Teaser for a guide on deploying Cowork across a business function.
+- [[summary-2026-04-29 - Product development in the agentic era]] — Jess Yan on prototyping and shipping custom Managed Agents via Claude Code.
+- [[summary-2026-04-30 - Building AI agents for the enterprise]] — Anthropic Economic Index enterprise-AI-adoption stat and "three pillars" framing.
+- [[summary-2026-04-30 - Claude Security is now in public beta]] — Opus 4.7-based repo vulnerability scanning and patch generation for Enterprise.
+- [[summary-2026-04-30 - How Kepler built verifiable AI for financial services with Claude]] — Kepler separates Claude's reasoning from a deterministic verification layer for auditable financial research.
+- [[summary-2026-04-30 - Lessons from building Claude Code Prompt caching is everything]] — Claude Code engineering lessons on prompt caching: prefix ordering, system-reminders, model-switch costs, Plan Mode design, and cache-safe compaction forking.
+- [[summary-2026-05-01 - How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks]] — Respiro case study: 15+ subagent architecture built by a non-engineer.
+- [[summary-2026-05-05 - Deploying Claude across financial services]] — Thin marketing teaser on multi-product Claude deployment patterns across financial services firms.
+- [[summary-2026-05-07 - Collaborate with Claude across Excel, PowerPoint, Word and Outlook]] — Claude for Excel/PowerPoint/Word reach GA; Claude for Outlook launches in public beta.
+- [[summary-2026-05-11 - Agent view in Claude Code]] — CLI list-style interface for managing many concurrent Claude Code sessions.
+- [[summary-2026-05-11 - Introducing the Claude Platform on AWS]] — Anthropic-operated AWS offering with full native Claude API feature parity, distinct from Bedrock.
+- [[summary-2026-05-12 - Claude for the legal industry]] — 20+ new legal MCP connectors and 12 practice-area plugins; access-to-justice partnerships.
+- [[summary-2026-05-12 - Code w Claude SF 2026 recap Building on the AI exponential]] — SF conference recap: rate-limit increases, Managed Agents feature teaser, London/Tokyo dates.
+- [[summary-2026-05-12 - How Anthropic's cybersecurity team built a threat detection platform with Claude Code]] — Deep dive on Anthropic's CLUE detection/investigation platform with quantified 30-day impact metrics.
+- [[summary-2026-05-13 - Best practices for computer and browser use with Claude]] — Resolution limits, effort tuning, prompt injection defenses, context management, and Teach Mode for computer use.
+- [[summary-2026-05-14 - How Claude Code works in large codebases Best practices and where to start]] — Agentic search over indexing/RAG, layered CLAUDE.md, LSP-backed navigation, and organizational governance at scale.
+- [[summary-2026-05-14 - The founder&#39;s playbook Building an AI-native startup]] — Announcement teaser for a four-stage (Idea/MVP/Launch/Scale) founder-as-orchestrator playbook.
+- [[summary-2026-05-15 - Deploying Claude across the legal industry]] — FTI Consulting/Relativity General Counsel Report stat (87% GC genAI adoption) and a three-phase legal adoption roadmap.
+- [[summary-2026-05-19 - New in Claude Managed Agents dreaming, outcomes, and multiagent orchestration]] — Dreaming enters research preview; outcomes, multiagent orchestration, and memory reach public beta.
+- [[summary-2026-05-19 - New in Claude Managed Agents self-hosted sandboxes and MCP tunnels]] — Self-hosted sandboxes (public beta) and MCP tunnels (research preview) for Managed Agents.
 
 ## Entities
 
@@ -218,6 +319,99 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Microsoft]] — Enterprise software company; integrated Claude into Microsoft 365 Copilot.
 - [[Microsoft365Copilot]] — Microsoft's enterprise AI platform integrating Claude alongside Copilot across M365 apps.
 - [[Salesforce]] — Enterprise CRM and cloud software company; parent of Slack.
+- [[AnthropicConsole]] — Web-based developer platform for building, testing, and deploying with Claude models.
+- [[ClaudeIOSApp]] — Free iOS app bringing Claude (and, since October 2025, Claude Code) to iPhone and iPad.
+- [[ClaudeTeamPlan]] — $30/user/month subscription for teams, 5-seat minimum, shared workspace and usage limits.
+- [[CoxAutomotive]] — World's largest automotive services/technology provider; personalizes car-buying with Claude.
+- [[HackerOne]] — Security organization cited for 44% faster vulnerability response with Claude Sonnet 4.5.
+- [[IGGroup]] — Global online trading company; deployed Claude across analytics, HR, and marketing.
+- [[Linear]] — Project management and issue-tracking platform with an MCP server integrating Claude Code.
+- [[MCP]] — Protocol enabling Claude Code to integrate with external systems, tools, and knowledge bases.
+- [[NBIM]] — Norges Bank Investment Management; cited for investment-grade financial analysis with Claude Sonnet 4.5.
+- [[Netflix]] — Streaming company cited for developers tackling complex, codebase-spanning tasks with Claude Sonnet 4.5.
+- [[NovoNordisk]] — Pharmaceutical company; used Claude to speed up clinical study report writing.
+- [[PaloAltoNetworks]] — World's largest cybersecurity company; accelerated engineering while prioritizing safety.
+- [[Ramp]] — Fintech company using Claude Code to accelerate performance work and debugging across hundreds of services.
+- [[VertexAI]] — Google Cloud's unified AI/ML platform hosting FedRAMP High and DoD IL2 authorized Claude models.
+- [[Brex]] — Intelligent finance platform using Claude for anomaly detection and internal engineering productivity.
+- [[Pfizer]] — Pharmaceutical company; saved 16,000 hours of annual research time with Claude.
+- [[Rakuten]] — E-commerce company; Claude Code autonomously implemented a vLLM extraction method in 7 hours.
+- [[Intuit]] — TurboTax maker; Claude-powered AI tax assistant earned higher customer ratings.
+- [[Block]] — Financial services company; internal AI agent reached 4,000 of 10,000 employees.
+- [[Campfire]] — Modern accounting software provider; cuts 3 days off monthly close with Claude.
+- [[Armanino]] — Large US accounting firm; 65% reduction in manual writing tasks using Claude on Bedrock.
+- [[ClassDojo]] — Education platform serving 45M users; Sidekick AI teaching assistant.
+- [[ESentire]] — Managed detection and response provider; replicates elite SOC analyst investigations.
+- [[GradientLabs]] — AI customer support platform for financial institutions.
+- [[Micro1]] — Talent-sourcing platform; 3,000+ AI interviews daily, 85% lower recruitment costs.
+- [[LegalSoft]] — Company using Micro1's platform to streamline hiring.
+- [[OpenRouter]] — API aggregator giving 4M+ developers access to major AI models.
+- [[YCombinator]] — Startup accelerator; profiled HumanLayer, Ambral, and Vulcan built with Claude Code.
+- [[HumanLayer]] — YC startup providing human-approval infrastructure for AI agents; built CodeLayer.
+- [[Ambral]] — YC startup building AI-powered account management with the Claude Agent SDK.
+- [[Vulcan]] — YC startup winning a Virginia state government regulatory-analysis contract.
+- [[AugmentCode]] — AI coding tool on Vertex AI; enterprise customer shipped in 2 weeks vs. an estimated 4-8 months.
+- [[Grafana]] — Observability platform; Claude-powered assistant answers natural-language PromQL/LogQL questions.
+- [[DiodeComputers]] — Circuit board design company; partnered with Anthropic on PCB reference-design generation.
+- [[Doctolib]] — Healthcare company; replaced legacy testing infrastructure using Claude Code org-wide.
+- [[LOreal]] — Retail company; 99.9% accuracy on conversational analytics for 44,000 monthly users.
+- [[TELUS]] — Telecommunications company; 13,000+ custom AI solutions, 30% faster code shipping.
+- [[Shopify]] — E-commerce platform; Claude powers Sidekick, converting natural language into ShopifyQL queries.
+- [[LotteHomeshopping]] — Retail company; 24/7 Claude-powered partner-supplier support.
+- [[Claude4.6Opus]] — Anthropic's February 2026 flagship model; state-of-the-art finance, legal, and web-search benchmarks.
+- [[Claude4.6Sonnet]] — Mid-tier model released alongside Opus 4.6.
+- [[Harvey]] — Legal AI company; Opus 4.6 broke 90% on BigLaw Bench.
+- [[ShortcutAI]] — Spreadsheet-agent company; called Opus 4.6 "a watershed moment."
+- [[HgCatalyst]] — Investment firm; uses Claude in Excel for due diligence.
+- [[BCI]] — Canadian institutional investor; multi-tab Excel analysis with Opus 4.6.
+- [[Quantium]] — Data-analytics company; Claude Enterprise customer.
+- [[Deloitte]] — Professional services firm; major Anthropic platform investment.
+- [[PwC]] — Professional services firm; agentic AI partnership for the office of the CFO.
+- [[BlankMetal]] — Company using Claude Cowork over "digital employee" agent hype.
+- [[ClaudeForExcelPowerPoint]] — Office add-ins for Excel and PowerPoint with shared cross-app context.
+- [[CodeWithClaude]] — Anthropic's developer conference, expanding to San Francisco, London, and Tokyo in 2026.
+- [[METR]] — AI evaluation org measuring model capability via task "time horizon."
+- [[Decagon]] — Company using Claude Cowork + Claude Code for context-gathering-to-prototype workflows.
+- [[Datadog]] — Observability company using offline evals and tight feedback loops to build its Bits AI SRE agent.
+- [[CartaHealthcare]] — Clinical data abstraction company; Lighthouse platform reasons over patient documentation like a human abstractor.
+- [[Vibecode]] — Company cited as a Claude Managed Agents customer.
+- [[Jamf]] — Enterprise customer using Claude Cowork for HR, vendor review, and incident-response workflows.
+- [[Airtree]] — Venture capital firm using Claude Cowork for board-prep workflows.
+- [[Zoom]] — Video-conferencing company; new MCP connector bringing meeting intelligence into Cowork.
+- [[ProjectGlasswing]] — Anthropic's defensive-cybersecurity initiative using Claude Mythos Preview.
+- [[Claude4.7Opus]] — Anthropic's strongest generally available model (April 2026); introduces the `xhigh` effort level.
+- [[CrossBeam]] — Hackathon-winning tool tackling California's housing-permit bottleneck.
+- [[Elisa]] — Hackathon-winning block-based visual IDE for non-coders.
+- [[PostVisit]] — Hackathon-winning suite of AI tools for post-appointment patient care.
+- [[TARA]] — Hackathon-winning tool turning dashcam footage into road-investment appraisals.
+- [[Conductr]] — Hackathon-winning real-time AI bandmate for MIDI performance.
+- [[Wisedocs]] — Document-verification company using Claude Managed Agents memory (-30% verification time) and outcomes (-50% review time).
+- [[Ando]] — Workplace messaging platform building on Claude Managed Agents memory.
+- [[CodeRabbit]] — AI code review tool bundling the claude-api skill.
+- [[JetBrains]] — IDE maker (IntelliJ, Junie) bundling the claude-api skill.
+- [[ResolveAI]] — Developer tool bundling the claude-api skill.
+- [[Warp]] — Terminal company bundling the claude-api skill.
+- [[MacCossLab]] — University of Washington lab maintaining Skyline; 17-year Claude Code onboarding case study.
+- [[Cloudflare]] — CDN/infrastructure company; reference example for code-orchestration MCP server design.
+- [[Kepler]] — Startup building a deterministic trust-and-verification layer for AI in financial services.
+- [[ClaudeSecurity]] — Anthropic's Opus 4.7-based code vulnerability scanning and patch product, in public beta for Claude Enterprise.
+- [[DoorDash]] — Delivery platform and named Claude Security customer.
+- [[Respiro]] — Hackathon-winning iOS stress-management app built by a non-technical PM with a 15+ subagent architecture.
+- [[MythicalGames]] — Respiro creator's employer; now internally adopting Claude-based workflows.
+- [[ClaudePlatformOnAWS]] — Anthropic-operated AWS offering with full native Claude API feature parity.
+- [[Courtroom5]] — Access-to-justice legal-tech company; Claude MCP connector partner.
+- [[SolveIntelligence]] — Legal-tech company building its own product on the Claude Agent SDK.
+- [[Zoox]] — Customer credited with feedback on Claude Code's large-codebase best practices.
+- [[FTIConsulting]] — Co-author (with Relativity) of the 2026 General Counsel Report on legal genAI adoption.
+- [[Relativity]] — Co-author (with FTI Consulting) of the 2026 General Counsel Report on legal genAI adoption.
+- [[Daytona]] — Self-hosted sandbox provider option for Claude Managed Agents.
+- [[Modal]] — Self-hosted sandbox provider option for Claude Managed Agents.
+- [[Vercel]] — Self-hosted sandbox provider option for Claude Managed Agents.
+- [[Amplitude]] — Company named in Managed Agents' sandbox-client documentation.
+- [[Clay]] — Company named in Managed Agents' sandbox-client documentation.
+- [[Rogo]] — Company named in Managed Agents' sandbox-client documentation.
+- [[Spiral]] — Every's Haiku-led, Opus-subagent writing product using multiagent orchestration and outcomes.
+- [[Every]] — Media/software company behind Spiral, a Claude Managed Agents production example.
 
 ## Concepts
 
@@ -283,6 +477,30 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[ContextEngineering]] — Practice of designing agent file/folder structure to flow the right information into context.
 - [[IncognitoChat]] — Privacy mode in Claude app for conversations not saved to memory or history.
 - [[PromptInjection]] — Security attack embedding hidden instructions in web content to hijack AI agent behavior.
+- [[APIIntegration]] — Practice of using Claude to anticipate API failure modes upfront rather than reactively.
+- [[Citations]] — Source-attribution mechanism linking AI-generated answers back to original materials.
+- [[ClaudeCodePlugins]] — Installable packages bundling slash commands, agents, MCP servers, and hooks.
+- [[CodePerformanceOptimization]] — Moving from reactive profiling to proactive performance engineering with Claude.
+- [[Debugging]] — Turning root-cause investigation into systematic problem-solving with Claude.
+- [[EnterpriseSearch]] — Company-branded shared project searching across all connected data sources at once.
+- [[ResponsiveWebDesign]] — Generating and debugging viewport-adaptive CSS layouts with Claude.
+- [[Sandboxing]] — OS-level filesystem/network isolation replacing per-action permission prompts.
+- [[FinancialServicesAI]] — Deploying autonomous Claude agents in banking, wealth management, and insurance.
+- [[HealthcareAI]] — Deploying autonomous Claude agents across clinical and life-sciences workflows.
+- [[StructuredOutputs]] — Guaranteed JSON schema/tool-definition conformance in Claude API responses.
+- [[MultiAgentSystem]] — Orchestrator-subagent architecture; when it beats a single agent and how to decompose work.
+- [[COBOLModernization]] — Using AI to automate discovery and dependency-mapping in legacy COBOL migrations.
+- [[AgentWorkflowPatterns]] — Sequential, parallel, and evaluator-optimizer patterns for structuring agent tasks.
+- [[Projects]] — Claude.ai persistent-context workspaces with their own knowledge base.
+- [[CodeReview]] — Multi-agent PR review feature in Claude Code.
+- [[ComputerUse]] — Claude directly perceiving and controlling a user's desktop when no connector exists.
+- [[Dispatch]] — Assign Claude a task from a phone and pick it up later on desktop.
+- [[PermissionModes]] — The spectrum of Claude Code approval policies, from default prompts to auto mode.
+- [[OpenTelemetry]] — Open observability standard Claude Cowork emits events through for SIEM/audit correlation.
+- [[AIAcceleratedOffense]] — Anthropic's seven-point security-program playbook for AI-accelerated vulnerability exploitation.
+- [[LegalAI]] — Deploying Claude across the legal industry via MCP connectors, practice-area plugins, and playbook-driven skills.
+- [[LanguageServerProtocol]] — Symbol-level code navigation standard underlying Claude Code's large-codebase search.
+- [[AINativeStartup]] — Founder-as-orchestrator framing across the Idea/MVP/Launch/Scale startup lifecycle.
 
 ## Syntheses
 

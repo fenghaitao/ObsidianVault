@@ -76,7 +76,7 @@ The Console integrates with the broader [[Anthropic]] platform:
 - [[summary-2024-07-09 - Evaluate prompts in the developer console]] — announcement and feature overview
 - [[summary-2024-05-20 - Generate better prompts in the developer console]] — prompt generator feature and techniques
 - [[summary-2024-10-14 - Improve your prompts in the developer console]] — prompt improver, example management, and ideal output features
-- [[summary-2024-09-10-Workspaces]] — Workspaces feature announcement and documentation
+- [[summary-2024-09-10 - Workspaces in the Anthropic API Console]] — Workspaces feature announcement and documentation
 - [[summary-2025-03-06 - Get to production faster with the upgraded Anthropic Console]] — shareable prompts and extended thinking support
 - [[ChainOfThoughtReasoning]] — key technique in generated and improved prompts
 - [[XMLTags]] — structuring technique in generated templates

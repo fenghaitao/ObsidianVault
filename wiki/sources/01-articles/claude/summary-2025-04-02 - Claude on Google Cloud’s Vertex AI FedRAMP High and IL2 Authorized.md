@@ -1,8 +1,8 @@
 ---
-title: "Claude on Google Cloud's Vertex AI: FedRAMP High and IL2 Authorized"
+title: "Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized"
 type: source
 tags: [fedramp, il2, compliance, government, vertex-ai, google-cloud]
-sources: [raw/01-articles/claude/2025-04-02 - Claude on Google Cloud's Vertex AI FedRAMP High and IL2 Authorized.md]
+sources: [raw/01-articles/claude/2025-04-02 - Claude on Google Cloud’s Vertex AI FedRAMP High and IL2 Authorized.md]
 last_updated: 2026-06-28
 ---
 

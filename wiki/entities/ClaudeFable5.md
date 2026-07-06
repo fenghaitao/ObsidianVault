@@ -27,3 +27,4 @@ Claude Fable 5 is Anthropic's most capable generally available model, released a
 - [[ClaudeCode]] — uses Fable 5 for coding tasks
 - [[ClaudeManagedAgents]] — platform optimized for Fable 5
 - [[Anthropic]] — the company behind the model
+- [[ProjectGlasswing]] — Anthropic's defensive-cybersecurity initiative that "Glasswing partners" refers to

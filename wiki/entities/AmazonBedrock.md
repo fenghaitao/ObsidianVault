@@ -2,7 +2,7 @@
 title: "Amazon Bedrock"
 type: entity
 tags: [aws, amazon, cloud, foundation-model, managed-service, enterprise-ai]
-sources: ["raw/01-articles/claude/2023-08-23 - Claude 2 on Amazon Bedrock.md", "raw/01-articles/claude/2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer.md", "raw/01-articles/claude/2024-07-10 - Fine-tune Claude 3 Haiku in Amazon Bedrock.md", "raw/01-articles/claude/2024-10-08 - Introducing the Message Batches API.md", "raw/01-articles/claude/2025-06-23 - Introducing Citations on the Anthropic API.md", "raw/01-articles/claude/2025-08-14 - Prompt caching with Claude.md", "raw/01-articles/claude/2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context.md"]
+sources: ["raw/01-articles/claude/2023-08-23 - Claude 2 on Amazon Bedrock.md", "raw/01-articles/claude/2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer.md", "raw/01-articles/claude/2024-07-10 - Fine-tune Claude 3 Haiku in Amazon Bedrock.md", "raw/01-articles/claude/2024-10-08 - Introducing the Message Batches API.md", "raw/01-articles/claude/2025-06-23 - Introducing Citations on the Anthropic API.md", "raw/01-articles/claude/2025-08-14 - Prompt caching with Claude.md", "raw/01-articles/claude/2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context.md", "raw/01-articles/claude/2025-11-03 - Building AI agents for startups.md", "raw/01-articles/claude/2025-11-14 - Structured outputs on the Claude Developer Platform.md"]
 last_updated: 2026-07-04
 ---
 
@@ -35,6 +35,8 @@ Claude models on Bedrock now support [[Citations]] (available June 30, 2025), en
 
 [[Claude4Sonnet]] on Bedrock supports the **1M token [[ContextWindow]]** (public beta, August 2025), enabling processing of entire codebases and large-scale document synthesis in a single request.
 
+- **1M context expanded (March 2026)**: [[Claude4.6Opus|Claude Opus 4.6]] and [[Claude4.6Sonnet|Claude Sonnet 4.6]] also reach general availability for the full 1M-token context window on Amazon Bedrock, at standard pricing with no long-context premium.
+
 ## Enterprise Use Cases
 
 Enterprise customers such as [[LexisNexis]], [[LonelyPlanet]], and [[RicohUSA]] adopted Claude 2 via Bedrock for:
@@ -42,7 +44,13 @@ Enterprise customers such as [[LexisNexis]], [[LonelyPlanet]], and [[RicohUSA]] 
 - Travel content generation
 - Training data generation with compliance guarantees (HIPAA, SOC II)
 
-At GA (September 2023), [[BridgewaterAssociates]] was highlighted building an Investment Analyst Assistant with Claude on Bedrock.
+At GA (September 2023), [[BridgewaterAssociates]] was highlighted building an Investment Analyst Assistant with Claude on Bedrock. [[Armanino]], one of the largest US accounting firms, used Claude on Bedrock to cut manual-writing time 65% and follow-up clarifications 60%.
+
+[[StructuredOutputs]] reached general availability on Amazon Bedrock (alongside the Claude Developer Platform) for Sonnet 4.5, Opus 4.5, and Haiku 4.5 on February 4, 2026, adding support for more complex schemas.
+
+## Claude Platform on AWS — a Sibling AWS Offering (May 2026)
+
+On May 11, 2026, Anthropic launched [[ClaudePlatformOnAWS|Claude Platform on AWS]], a separate, first-of-its-kind AWS offering distinct from Bedrock: Anthropic (not AWS) operates the service and processes data outside the AWS boundary, giving customers full native Claude API feature parity (new features/betas ship same-day as the direct API) via AWS IAM auth, CloudTrail logging, and consolidated AWS billing. Amazon Bedrock remains the option for customers who need AWS to remain the data processor operating within the AWS boundary, e.g. for strict regional data-residency requirements.
 
 ## Agents for Amazon Bedrock (2023)
 
@@ -92,6 +100,7 @@ As of December 2024, [[AmazonBedrock]] offers latency-optimized [[Claude3.5Haiku
 ## Related
 
 - [[Anthropic]] — key model partner on Bedrock
+- [[ClaudePlatformOnAWS]] — sibling, Anthropic-operated AWS offering with full feature parity, launched May 2026
 - [[Claude2]] — Anthropic model available on Bedrock since August 2023
 - [[Claude3Haiku]] — Claude model with fine-tuning support
 - [[Claude3.5Haiku]] — latest Claude model with distillation and Trainium2 optimization
@@ -116,3 +125,10 @@ As of December 2024, [[AmazonBedrock]] offers latency-optimized [[Claude3.5Haiku
 - [[AgentsForAmazonBedrock]] — agent-orchestration feature announced alongside GA
 - [[MessageBatchesAPI]] — batch inference available on Bedrock
 - [[summary-2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer]] — general-availability announcement
+- [[Armanino]] — enterprise customer using Claude on Bedrock for manual-writing reduction
+- [[summary-2025-11-03 - Building AI agents for startups]] — source noting Armanino's Bedrock deployment
+- [[StructuredOutputs]] — API feature that reached GA on Bedrock
+- [[summary-2025-11-14 - Structured outputs on the Claude Developer Platform]] — structured outputs GA announcement
+- [[Claude4.6Opus]] — model with 1M context window GA on Bedrock
+- [[Claude4.6Sonnet]] — model with 1M context window GA on Bedrock
+- [[summary-2026-03-13 - 1M context is now generally available for Opus 4.6 and Sonnet 4.6]] — GA announcement

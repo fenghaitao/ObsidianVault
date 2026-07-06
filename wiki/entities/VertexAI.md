@@ -28,6 +28,7 @@ Vertex AI provides access to [[Claude]] models with government compliance featur
 - **Citations**: Support for [[Citations]] feature enabling grounded responses with precise source citations (available June 23, 2025).
 - **Prompt Caching**: [[PromptCaching]] available in preview on Vertex AI, reducing costs by up to 90% and latency by up to 85% for long-context applications.
 - **Batch Predictions**: [[MessageBatchesAPI|batch predictions]] announced as "coming soon" alongside the October 2024 Message Batches API launch, later confirmed available in preview (per a December 17, 2024 update).
+- **1M Context (March 2026)**: [[Claude4.6Opus|Claude Opus 4.6]] and [[Claude4.6Sonnet|Claude Sonnet 4.6]] reach general availability for the full 1M-token context window on Vertex AI, at standard pricing with no long-context premium.
 
 ## Getting Started with Claude on Vertex AI
 
@@ -49,3 +50,6 @@ Vertex AI provides access to [[Claude]] models with government compliance featur
 - [[summary-2025-08-14 - Prompt caching with Claude]] — article noting Vertex AI preview availability
 - [[MessageBatchesAPI]] — batch predictions available in preview on Vertex AI
 - [[summary-2024-10-08 - Introducing the Message Batches API]] — announcement noting Vertex AI batch predictions coming soon
+- [[Claude4.6Opus]] — model with 1M context window GA on Vertex AI
+- [[Claude4.6Sonnet]] — model with 1M context window GA on Vertex AI
+- [[summary-2026-03-13 - 1M context is now generally available for Opus 4.6 and Sonnet 4.6]] — GA announcement

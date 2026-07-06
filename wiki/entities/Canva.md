@@ -2,8 +2,8 @@
 title: "Canva"
 type: entity
 tags: [company, design, platform, ai]
-sources: [raw/03-transcripts/Claude/Code with Claude 2026 - Japan/02 - Code with Claude 2026 ｜ Tokyo.md]
-last_updated: 2026-06-23
+sources: [raw/03-transcripts/Claude/Code with Claude 2026 - Japan/02 - Code with Claude 2026 ｜ Tokyo.md, "raw/01-articles/claude/2026-02-12 - Claude Enterprise, now available self-serve.md"]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -21,9 +21,14 @@ Canva is an Australian graphic design and visual communication platform used by 
   - Distributed AI team model: each product group owns their AI features.
 - Canva Code lets non-coders create interactive mini-apps within designs using Claude.
 - ~5,500 employees; broad range of design jobs to be done.
+- Uses [[ClaudeEnterprise|Claude Enterprise]]. Samantha Garrett, Head of the AI & Automation Platform team: "Never before have we seen new technologies adopted so quickly and integrated so meaningfully as part of the day-to-day."
+- **Skill-from-connector distribution (April 2026)**: Canva is cited as one of the providers (with Notion and Sentry) that publishes a companion skill alongside its MCP server in Claude's connector directory. See [[ModelContextProtocol]].
 
 ## Related
 
 - [[summary-02 - Code with Claude 2026 ｜ Tokyo]] — Canva presentation source
 - [[ClaudeFable5]] — the model powering Canva AI
 - [[Anthropic]] — the company behind Claude
+- [[ClaudeEnterprise]] — the plan Canva uses
+- [[summary-2026-02-12 - Claude Enterprise, now available self-serve]] — source article
+- [[summary-2026-04-22 - Building agents that reach production systems with MCP]] — skill-from-connector distribution example

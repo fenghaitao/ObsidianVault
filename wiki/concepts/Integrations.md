@@ -2,7 +2,7 @@
 title: "Integrations"
 type: concept
 tags: [integrations, mcp, feature, claude-ai, productivity]
-sources: [raw/01-articles/claude/2025-05-01 - Claude can now connect to your world.md, raw/01-articles/claude/2025-10-16 - Claude and your productivity platforms.md]
+sources: [raw/01-articles/claude/2025-05-01 - Claude can now connect to your world.md, raw/01-articles/claude/2025-10-16 - Claude and your productivity platforms.md, raw/01-articles/claude/2026-01-26 - Your favorite work tools are now interactive connectors inside Claude.md, raw/01-articles/claude/2026-04-23 - New connectors in Claude for everyday life.md]
 last_updated: 2026-07-04
 ---
 
@@ -65,6 +65,20 @@ Available for all Claude Team and Enterprise plan customers; admins must enable 
 
 [[EnterpriseSearch]] is a dedicated, company-branded shared project that searches across *all* of an organization's connected data sources in one place (rather than one tool at a time), personalized with the company's name and custom prompts. Available to all Team and Enterprise organizations once an admin sets it up and curates data sources.
 
+## MCP Apps: Interactive Connectors (January 2026)
+
+**MCP Apps**, an official MCP extension, lets integrations render a live, interactive UI directly inside a Claude conversation instead of only exchanging data/actions in the background — building Asana project timelines, drafting/sending formatted Slack messages, or visualizing Figma diagrams without tab-switching. Available for Asana, Slack, and Figma at launch (Salesforce/Agentforce 360 planned), across Claude mobile, web, desktop (Free through Enterprise) and [[ClaudeCowork|Claude Cowork]]. Since MCP Apps is a protocol extension rather than a Claude-only feature, any MCP-supporting AI product can adopt it. See [[ModelContextProtocol]].
+
+## Everyday-Life Connectors (April 2026)
+
+Starting April 23, 2026, Claude expanded connectors beyond work tools to apps used throughout the week: AllTrails, Audible, Booking.com, Instacart, Intuit Credit Karma, Intuit TurboTax, Resy, Spotify, StubHub, Taskrabbit, Thumbtack, Tripadvisor, Uber, Uber Eats, and Viator, with more planned. The Claude connector directory (launched July 2025) has grown to 200+ connectors spanning design, finance, productivity, and health apps used daily by millions.
+
+Key changes accompanying this expansion:
+- **Dynamic, contextual surfacing**: Claude now suggests the right connector mid-conversation based on what the user is doing (e.g., a weekend-hike request surfaces AllTrails results, refinable conversationally — "shorter," "more scenic," "dog-friendly" — without leaving the thread). When multiple connected apps could help, Claude shows them all, ranked by usefulness — never by paid placement; Claude remains ad-free with no sponsored answers.
+- **User control over data**: connecting a service grants Claude access on the user's behalf; that app's data isn't used to train Anthropic's models, the app can't see the user's other Claude conversations, and users can disconnect at any time.
+- **Confirmation before action**: Claude is designed to check with the user before booking or purchasing anything on their behalf.
+- **Availability**: all Claude plans, with mobile in beta. Full list at claude.ai/directory/connectors; third parties can submit their product for inclusion.
+
 ## Use Cases
 
 ### Example: Zapier Integration
@@ -103,3 +117,7 @@ As of May 2025:
 - [[Microsoft365Copilot]] — the inverse integration (Claude embedded inside Microsoft's own product)
 - [[EnterpriseSearch]] — cross-tool search capability introduced alongside the Microsoft 365 connector
 - [[summary-2025-10-16 - Claude and your productivity platforms]] — Source article on the Microsoft 365 connector and enterprise search
+- [[ClaudeCowork]] — product now supporting MCP Apps
+- [[summary-2026-01-26 - Your favorite work tools are now interactive connectors inside Claude]] — MCP Apps announcement
+- [[Intuit]] — Credit Karma and TurboTax connectors added in the April 2026 everyday-life expansion
+- [[summary-2026-04-23 - New connectors in Claude for everyday life]] — announcement of the everyday-life connector expansion

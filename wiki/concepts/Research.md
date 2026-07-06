@@ -2,8 +2,8 @@
 title: "Research"
 type: concept
 tags: [capability, feature, search, agentic]
-sources: [raw/01-articles/claude/2025-04-15 - Claude takes research to new places.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-04-15 - Claude takes research to new places.md, raw/01-articles/claude/2026-01-23 - Building multi-agent systems When and how to use them.md]
+last_updated: 2026-07-04
 ---
 
 # Research
@@ -51,6 +51,10 @@ For [[ClaudeEnterprise|Claude Enterprise]] users, **cataloging** enables special
 
 Enterprise-grade security keeps data within the organization's control.
 
+## Multi-Agent Architecture
+
+Research is cited as an example of the parallelizable-tasks pattern in [[MultiAgentSystem|multi-agent systems]]: a lead agent decomposes a query into independent facets and runs subagents concurrently, each researching independently before the lead agent synthesizes results — improving coverage/thoroughness at the cost of higher token usage versus a single agent.
+
 ## Availability
 
 As of May 2025:
@@ -71,3 +75,5 @@ Historical availability (April 2025):
 [[ClaudeEnterprise]] — Enterprise product with advanced research and cataloging  
 [[ToolUse]] — Underlying capability enabling agentic search operations
 [[ModelContextProtocol]] — Protocol enabling integrations that Research can access
+[[MultiAgentSystem]] — the parallel-subagent architecture underlying Research
+[[summary-2026-01-23 - Building multi-agent systems When and how to use them]] — cites Research as a parallelizable-tasks example

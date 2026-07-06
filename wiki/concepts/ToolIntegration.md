@@ -39,6 +39,10 @@ Direct integration with local desktop applications through the Claude Desktop ap
 
 Tool integration is built on the [[ModelContextProtocol]] (MCP), an open standard for connecting AI agents to external tools and data sources. Partners build connectors that expose their services through the MCP interface.
 
+### Three-Path Framing (April 2026)
+
+Anthropic frames tool integration as one of three converging approaches — direct API calls, CLIs, and MCP — distinguished by whether there's a common layer between agents and services and how far it reaches. Direct API calls create an M×N integration problem at scale (each agent–service pair is bespoke); CLIs provide a thin common layer but can't reach cloud/mobile/web agents; MCP standardizes auth, discovery, and semantics so one remote server reaches every compatible client. See [[ModelContextProtocol]] and [[summary-2026-04-22 - Building agents that reach production systems with MCP]].
+
 ## Availability & Access
 
 - **Web and Desktop**: Tool directory is available to all Claude users
@@ -63,3 +67,4 @@ Users can explore available tools and connectors at:
 - [[Linear]] — Project management tool integrated with Claude
 - [[Notion]] — Productivity platform integrated with Claude
 - [[Figma]] — Design tool integrated with Claude
+- [[summary-2026-04-22 - Building agents that reach production systems with MCP]] — three-path framing (API, CLI, MCP)

@@ -2,8 +2,8 @@
 title: "Claude Team Plan"
 type: entity
 tags: [claude, product, subscription, team-collaboration, anthropic]
-sources: ["raw/01-articles/claude/2024-05-01 - Introducing the Claude Team plan and iOS app.md", "raw/01-articles/claude/2025-08-20 - Claude Code and new admin controls for business plans.md"]
-last_updated: 2026-06-28
+sources: ["raw/01-articles/claude/2024-05-01 - Introducing the Claude Team plan and iOS app.md", "raw/01-articles/claude/2025-08-20 - Claude Code and new admin controls for business plans.md", "raw/01-articles/claude/2026-01-28 - Updates to Claude Team.md"]
+last_updated: 2026-07-04
 ---
 
 # Claude Team Plan
@@ -13,7 +13,7 @@ Claude Team Plan is a subscription offering from [[Anthropic]] enabling business
 ## Key Information
 
 - **Launch date:** May 2024
-- **Pricing:** $30 per user per month
+- **Pricing (at May 2024 launch):** $30 per user per month; superseded by the January 2026 pricing update below
 - **Minimum:** 5 seats required
 - **Creator:** [[Anthropic]]
 - **Target market:** Teams and businesses needing collaborative AI capabilities
@@ -40,6 +40,14 @@ Claude Team Plan is a subscription offering from [[Anthropic]] enabling business
 
 ### Available Features (October 2025+)
 - **Slack Connector:** Connect a [[Slack]] workspace so Claude can search channels, DMs, and shared files for context during conversations. Also enables the Claude app in Slack for in-channel AI assistance with web search, document analysis, and other capabilities. Admins enable the connector via the Claude directory; users configure it in the "Connectors" tab.
+
+### Pricing Update (January 2026)
+
+Prices lowered and annual discounts introduced: standard seats now $20/month (annual) or $25/month (monthly); premium seats now $100/month (annual) or $125/month (monthly), including 5x the usage of standard seats. Every seat still includes more usage than the Pro plan, and [[ClaudeCode]] is included with every seat regardless of tier. Admins can purchase additional capacity for power users beyond seat allowances.
+
+### Available Features (March 2026+)
+- **1M context for Claude Code:** Claude Code sessions on [[Claude4.6Opus|Opus 4.6]] now default automatically to the full 1M-token context window (previously extra usage), reducing compactions and keeping more conversation intact.
+- **Auto mode:** Research preview of a new [[ClaudeCode]] permissions mode where a classifier screens tool calls, letting Claude act with fewer interruptions than the default while blocking destructive actions. See [[PermissionModes]].
 
 ### Planned Features (Coming Weeks)
 - **Source citations:** Citations from reliable sources to verify AI-generated claims
@@ -70,4 +78,8 @@ The Team Plan represents [[Anthropic]]'s strategy to expand from individual user
 - [[ClaudeMemory]] — persistent cross-conversation memory feature
 - [[IncognitoChat]] — private chat mode introduced with memory
 - [[Slack]] — Slack connector available for Team plans (October 2025)
+- [[summary-2026-01-28 - Updates to Claude Team]] — January 2026 pricing update
 - [[summary-2025-10-01 - Claude and Slack]] — source article on the Slack integration
+- [[PermissionModes]] — the permission-mode system auto mode belongs to
+- [[summary-2026-03-13 - 1M context is now generally available for Opus 4.6 and Sonnet 4.6]] — 1M context GA announcement
+- [[summary-2026-03-24 - Auto mode for Claude Code]] — auto mode research-preview announcement, first available on Team plan

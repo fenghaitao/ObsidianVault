@@ -29,3 +29,4 @@ Asana is a work management platform that integrates with [[Anthropic]] to power 
 - [[summary-12 - Building with Claude Managed Agents and Asana AI teammates]] — source talk on AI teammates
 - [[summary-2025-05-22 - New capabilities for building agents on the Anthropic API]] — announcement of Asana MCP server
 - [[AgenticMemory]] — memory from user feedback
+- [[summary-2026-04-08 - Claude Managed Agents get to production 10x faster]] — reaffirms Asana as a Managed Agents customer

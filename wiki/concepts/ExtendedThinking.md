@@ -22,6 +22,7 @@ Extended thinking is a capability that enables Claude models to produce step-by-
 
 - **Extended Thinking**: Visible step-by-step reasoning with token budget control
 - **[[AdaptiveThinking]]**: Claude's capability to choose when to think, call tools, or output text based on task requirements
+- **Deprecated on newest models**: [[Claude4.7Opus|Opus 4.7]] (April 2026) does not support extended thinking with a fixed token budget at all, relying exclusively on adaptive thinking instead.
 
 ## Related
 
@@ -30,3 +31,4 @@ Extended thinking is a capability that enables Claude models to produce step-by-
 - [[AnthropicConsole]] — platform offering extended thinking optimization
 - [[PromptEngineering]] — discipline enhanced by extended thinking optimization
 - [[summary-2025-03-06 - Get to production faster with the upgraded Anthropic Console]] — article introducing extended thinking in console
+- [[Claude4.7Opus]] — model that no longer supports fixed-budget extended thinking

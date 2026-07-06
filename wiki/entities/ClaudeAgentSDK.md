@@ -2,7 +2,7 @@
 title: "ClaudeAgentSDK"
 type: entity
 tags: [tool, sdk, agent, anthropic, claude-code]
-sources: ["raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md", "raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md"]
+sources: ["raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md", "raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md", "raw/01-articles/claude/2025-11-17 - How three YC startups built their companies with Claude Code.md"]
 last_updated: 2026-07-04
 ---
 
@@ -56,6 +56,11 @@ The SDK is organized around three phases:
 
 The Claude Agent SDK provides the same [[ClaudeCodeSkills|Agent Skills]] support available in Claude Code, letting developers building custom agents package specialized, on-demand expertise the same way — one part of Agent Skills becoming a portable standard across Claude apps, Claude Code, the SDK, and the API.
 
+### Customer Examples (November 2025)
+
+- **[[HumanLayer]]**: built CodeLayer on the SDK's headless execution mode, running multiple Claude Code sessions in parallel via worktrees and remote cloud workers.
+- **[[Ambral]]**: built its core account-management research engine on the SDK, with dedicated [[ClaudeCodeSubagents|subagents]] for each customer-data type (Slack, meeting transcripts, product usage) — an architecture directly inspired by Claude Code's own subagent design.
+
 ### Best Practices
 
 - Start with agentic search; add semantic search only when speed is necessary.
@@ -78,3 +83,6 @@ The Claude Agent SDK provides the same [[ClaudeCodeSkills|Agent Skills]] support
 - [[AIAgent]] — the broader agent paradigm
 - [[ClaudeCodeSkills]] — Agent Skills support shared with the SDK
 - [[summary-2025-10-16 - Introducing Agent Skills]] — Agent Skills announcement noting SDK support
+- [[HumanLayer]] — built CodeLayer on the SDK's headless execution
+- [[Ambral]] — built its research engine on the SDK with per-data-type subagents
+- [[summary-2025-11-17 - How three YC startups built their companies with Claude Code]] — source article

@@ -2,8 +2,8 @@
 title: "PromptEngineering"
 type: concept
 tags: [prompting, system-prompt, interview, requirements, progressive-disclosure]
-sources: [raw/03-transcripts/Claude/Code with Claude 2026 - London/05 - The prompting playbook.md, raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/06 - How we Claude Code.md, raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/04 - Evals for taste： Hill-climbing a slide-generation agent.md, raw/01-articles/claude/2024-05-20 - Generate better prompts in the developer console.md, raw/01-articles/claude/2024-10-14 - Improve your prompts in the developer console.md]
-last_updated: 2026-06-28
+sources: [raw/03-transcripts/Claude/Code with Claude 2026 - London/05 - The prompting playbook.md, raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/06 - How we Claude Code.md, raw/03-transcripts/Claude/Code with Claude 2026 - London Day 2/04 - Evals for taste： Hill-climbing a slide-generation agent.md, raw/01-articles/claude/2024-05-20 - Generate better prompts in the developer console.md, raw/01-articles/claude/2024-10-14 - Improve your prompts in the developer console.md, raw/01-articles/claude/2025-11-10 - Best practices for prompt engineering.md]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -27,6 +27,18 @@ Prompt engineering is the practice of designing effective instructions for AI mo
 - **Automated prompt improvement:** The [[AnthropicConsole]] prompt improver refines existing prompts using advanced techniques like [[ChainOfThoughtReasoning]] and example enrichment. Particularly useful for adapting prompts originally written for other AI models or optimizing hand-written prompts. Includes iterative feedback loops for continuous refinement. Testing shows 30% accuracy improvements on multilabel classification and 100% adherence to output format constraints on summarization tasks.
 - **Retrieval-directing prompts:** an early (2023) example of prompting overriding model behavior — see [[LongContextRetrieval]], where appending "Here is the most relevant sentence in the context:" to a response raised [[Claude2.1]]'s long-document retrieval accuracy from 27% to 98%.
 
+## Core Techniques (November 2025 consolidation)
+
+- **Explicit instructions:** state exactly what's wanted rather than relying on inference — e.g., "include as many relevant features and interactions as possible" instead of "create a dashboard."
+- **Motivating context:** explaining *why* something matters (e.g., a formatting preference) lets the model generalize the reasoning to related decisions, not just follow a single rule.
+- **Specificity:** structure requests with explicit units, constraints, and required output sections rather than vague asks.
+- **Examples (one/few-shot):** Claude 4.x pays close attention to example details, so examples must model the exact target behavior; start with one example and add more only if output still misses the mark.
+- **Permission for uncertainty:** explicitly allowing "say so rather than speculating" reduces hallucination and increases trustworthiness.
+- **Prefilling:** starting the assistant's response (e.g., with `{`) forces continuation in that format — useful for enforcing JSON output or skipping preambles; approximable in chat UIs with explicit instructions.
+- **Formatting control:** state what TO do rather than what NOT to do; match the prompt's own formatting style to the desired output style.
+- **Prompt chaining:** breaks a complex task into sequential prompts/stages, each feeding the next — trades latency for higher accuracy on complex tasks; cannot be done in a single prompt.
+- **Legacy techniques still occasionally useful:** [[XMLTags]] for large data blocks (less necessary with modern models, which handle plain headings/whitespace well); role prompting, where over-constrained personas ("world-renowned expert who never makes mistakes") can reduce helpfulness — being explicit about the desired analytical perspective is often more effective than assigning a persona.
+
 ## Related
 
 - [[ClaudeCodeSkills]] — skills as the progressive disclosure mechanism
@@ -44,3 +56,6 @@ Prompt engineering is the practice of designing effective instructions for AI mo
 - [[RetrievalAugmentedGeneration]] — application architecture benefiting from effective prompting
 - [[LongContextRetrieval]] — early retrieval-prompting technique for long-context reluctance
 - [[Claude2.1]] — model on which the retrieval-prompting technique was demonstrated
+- [[ExtendedThinking]] — model-native alternative to manual chain-of-thought prompting
+- [[ContextEngineering]] — the broader discipline prompt engineering feeds into
+- [[summary-2025-11-10 - Best practices for prompt engineering]] — November 2025 consolidation of core and advanced techniques

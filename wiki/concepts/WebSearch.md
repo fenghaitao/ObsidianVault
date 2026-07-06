@@ -2,7 +2,7 @@
 title: "WebSearch"
 type: concept
 tags: [web-search, real-time, citations, api]
-sources: [raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2025-03-20 - Claude can now search the web.md]
+sources: [raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2025-03-20 - Claude can now search the web.md, raw/01-articles/claude/2026-02-17 - Increase web search accuracy and efficiency with dynamic filtering.md]
 last_updated: 2026-07-04
 ---
 
@@ -67,6 +67,16 @@ WebSearch is available on the Anthropic API at $10 per 1,000 searches plus stand
 
 As of September 2025, a web fetch tool has been added alongside web search, allowing Claude to fetch and analyze content from any specific webpage URL that developers specify.
 
+## Dynamic Filtering (February 2026)
+
+Alongside [[Claude4.6Opus|Claude Opus 4.6]] and [[Claude4.6Sonnet|Sonnet 4.6]], new versions of the web search and web fetch tools (`web_search_20260209`, `web_fetch_20260209`) use [[CodeExecutionTool|code execution]] to dynamically filter search/fetch results before they reach the context window, instead of Claude reasoning over full raw HTML.
+
+- **Mechanism**: Claude writes and executes code to post-process query results, keeping only relevant content and discarding the rest — extending a technique Anthropic previously found effective in other agentic workflows (code execution, programmatic tool calling).
+- **Benchmark gains**: averaged 11% accuracy improvement and 24% fewer input tokens across BrowseComp and DeepSearchQA. BrowseComp accuracy: Sonnet 4.6 33.3%→46.6%, Opus 4.6 45.3%→61.6%. DeepSearchQA F1: Sonnet 4.6 52.6%→59.4%, Opus 4.6 69.8%→77.3%.
+- **Cost caveat**: price-weighted token cost decreased for Sonnet 4.6 on both benchmarks but *increased* for Opus 4.6 — evaluate against representative production queries rather than assuming savings.
+- On by default with the new tools on Sonnet 4.6/Opus 4.6 via the API. [[Poe]] (Quora) reported the highest internal-eval accuracy among frontier models tested, describing the model as behaving "like an actual researcher."
+- Released alongside several other tools graduating to general availability: code execution, memory, programmatic tool calling, tool search, and tool use examples.
+
 ## Related
 
 - [[summary-2025-05-07 - Introducing web search on the Anthropic API]] — Source announcement
@@ -79,3 +89,8 @@ As of September 2025, a web fetch tool has been added alongside web search, allo
 - [[Claude3.5Sonnet]] — Model supporting web search
 - [[Claude3.5Haiku]] — Model supporting web search
 - [[AIAgent]] — Agentic patterns leveraging web search for research
+- [[CodeExecutionTool]] — underlying technique behind dynamic filtering
+- [[Claude4.6Opus]] — model benchmarked with dynamic filtering
+- [[Claude4.6Sonnet]] — model benchmarked with dynamic filtering
+- [[Poe]] — customer example citing dynamic filtering accuracy
+- [[summary-2026-02-17 - Increase web search accuracy and efficiency with dynamic filtering]] — source article

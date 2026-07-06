@@ -22,6 +22,16 @@ The Compliance API is an [[Anthropic]] feature for [[ClaudeEnterprise]] customer
 - Enables organizations to build continuous monitoring and automated policy enforcement systems.
 - Designed to help enterprises meet regulatory requirements at scale as AI adoption grows.
 - Access requires contacting Anthropic sales.
+- **March 2026**: Expanded from Claude Enterprise-only to the full Claude Platform — any Claude API organization can now use it, not just Enterprise. See [[summary-2026-03-30 - Audit Claude Platform activity with the Compliance API]].
+- Activity feed is filterable by time range, specific users, or API keys.
+- Logging begins only once the API is enabled for an org; historical activity from before enablement is not available.
+- Organizations already using the Compliance API for Claude Enterprise can add their Claude API organization to the same parent organization to view combined activity in a single feed.
+- Full documentation is published on the Anthropic Trust Center (trust.anthropic.com).
+- **April 2026:** Claude Cowork's expanded OpenTelemetry events include a shared user account identifier, letting admins correlate OTel events (tool/connector calls, file activity, approval mode) with Compliance API records for unified auditing.
+
+## Knowledge Conflicts
+
+- The original announcement ([[summary-2025-08-20 - Claude Code and new admin controls for business plans]], Aug 2025) describes the Compliance API as providing "real-time access to Claude usage data and **customer content**." The Mar 2026 update ([[summary-2026-03-30 - Audit Claude Platform activity with the Compliance API]]) describes it as an activity/audit-log feed that explicitly **excludes inference activity** (no user-model interaction content or model activity logged) — only login/logout, account setting, and workspace/org config change events. Not clear whether this is a scope narrowing/correction or the two sources describe different sub-features. Flagged for review rather than silently reconciled.
 
 ## Use Cases
 
@@ -36,3 +46,6 @@ The Compliance API is an [[Anthropic]] feature for [[ClaudeEnterprise]] customer
 - [[Anthropic]] — Provider of the Compliance API
 - [[Workspace]] — Related admin/management layer in Claude Enterprise
 - [[summary-2025-08-20 - Claude Code and new admin controls for business plans]] — Source article announcing the Compliance API
+- [[summary-2026-03-30 - Audit Claude Platform activity with the Compliance API]] — March 2026 update expanding availability to the full Claude Platform
+- [[summary-2026-04-09 - Making Claude Cowork ready for enterprise]] — OTel/Compliance API correlation via Cowork
+- [[summary-2026-05-07 - Collaborate with Claude across Excel, PowerPoint, Word and Outlook]] — Analytics API breakdown per user/app/day for Claude's Office add-ins

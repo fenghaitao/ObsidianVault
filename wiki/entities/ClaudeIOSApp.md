@@ -2,8 +2,8 @@
 title: "Claude iOS App"
 type: entity
 tags: [claude, mobile-app, ios, anthropic, product]
-sources: ["raw/01-articles/claude/2024-05-01 - Introducing the Claude Team plan and iOS app.md"]
-last_updated: 2026-06-28
+sources: ["raw/01-articles/claude/2024-05-01 - Introducing the Claude Team plan and iOS app.md", "raw/01-articles/claude/2025-10-20 - Claude Code on the web.md"]
+last_updated: 2026-07-04
 ---
 
 # Claude iOS App
@@ -31,6 +31,10 @@ The Claude iOS App is a free mobile application from [[Anthropic]] that brings C
 - Offline-friendly design for users on the move
 - Integration with device camera for image capture and analysis
 
+## Claude Code on iOS (October 2025)
+
+As part of the [[ClaudeCode]] on the web research preview, the iOS app gained early access to Claude Code sessions, letting developers delegate coding tasks and monitor progress from their phone.
+
 ## Strategic Significance
 
 The iOS app represents [[Anthropic]]'s strategy to expand Claude's accessibility beyond desktop:
@@ -44,3 +48,5 @@ The iOS app represents [[Anthropic]]'s strategy to expand Claude's accessibility
 - [[AppleAppStore]] — distribution platform
 - [[summary-2024-05-01 - Introducing the Claude Team plan and iOS app]] — source article
 - [[ClaudeTeamPlan]] — complementary team product announced simultaneously
+- [[ClaudeCode]] — coding agent extended to iOS via Claude Code on the web
+- [[summary-2025-10-20 - Claude Code on the web]] — announcement of iOS support

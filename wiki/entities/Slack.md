@@ -2,8 +2,8 @@
 title: "Slack"
 type: entity
 tags: [company, communication, search, summarization, claude, integration]
-sources: [raw/03-transcripts/Claude/How teams use Claude/04 - How Slack uses Claude for AI search and summaries.md, raw/01-articles/claude/2025-10-01 - Claude and Slack.md]
-last_updated: 2026-06-28
+sources: [raw/03-transcripts/Claude/How teams use Claude/04 - How Slack uses Claude for AI search and summaries.md, raw/01-articles/claude/2025-10-01 - Claude and Slack.md, raw/01-articles/claude/2025-12-08 - Claude Code and Slack.md]
+last_updated: 2026-07-04
 ---
 
 ## Definition
@@ -29,6 +29,10 @@ Slack uses Claude internally for AI-powered search and summarization, helping us
 | Claude Enterprise | Available at launch (October 2025) |
 | Claude Pro & Max | Expanded January 26, 2026 |
 
+## Claude Code and Slack (December 2025)
+
+Extends the existing Claude Slack app to relay tasks directly to [[ClaudeCode|Claude Code on the web]] (beta, research preview): tagging @Claude on a bug report or feature request in a channel/thread automatically spins up a Claude Code session using the surrounding conversation as context, auto-selects which authenticated repository to run against, posts progress updates back to the thread, and links to the full session and an option to open a PR. Requires the Claude Slack app plus access to Claude Code on the web.
+
 ### Privacy and Security
 
 - Claude only accesses channels and conversations the authenticated user has permission to view.
@@ -46,3 +50,4 @@ Slack uses Claude internally for AI-powered search and summarization, helping us
 - [[ClaudeTeamPlan]] — initial plan tier for the Slack connector
 - [[ClaudeEnterprise]] — initial plan tier for the Slack connector
 - [[ClaudeMax]] — expanded access as of January 2026
+- [[summary-2025-12-08 - Claude Code and Slack]] — Claude Code delegation from Slack announcement

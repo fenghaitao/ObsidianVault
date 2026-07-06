@@ -2,7 +2,7 @@
 title: "Artifacts"
 type: concept
 tags: [artifacts, interactive-apps, no-code, agentic-coding, claude-ai]
-sources: ["raw/01-articles/claude/2025-06-25 - Turn ideas into interactive AI-powered apps.md"]
+sources: ["raw/01-articles/claude/2025-06-25 - Turn ideas into interactive AI-powered apps.md", "raw/01-articles/claude/2025-11-12 - Improving frontend design through Skills.md", "raw/01-articles/claude/2026-03-12 - Claude now creates interactive charts, diagrams and visualizations.md"]
 last_updated: 2026-07-04
 ---
 
@@ -19,6 +19,14 @@ Artifacts is the conceptual pattern behind Claude's ability to generate standalo
 - Illustrative example: musician Rick Rubin's "The Way of Code," pairing 81 meditations with interactive artifacts that anyone can reshape through conversation with Claude.
 - Reflects a broader shift where "conversation itself becomes a form of creative expression," part of the same [[No-CodeDevelopment|no-code]] and [[AgenticCoding|agentic-coding]] trend of dissolving the line between describing an idea and building it.
 
+### Distinction from In-Line Visualizations (March 2026)
+
+Claude gained a separate, beta capability (built on the earlier "Imagine with Claude" preview) to build custom interactive charts, diagrams, and visualizations directly in-line within chat responses — distinct from Artifacts. Artifacts are permanent, polished creations meant to be shared or downloaded in a side panel; in-line visualizations are temporary aids to understanding that appear inline as part of the live discussion and change or disappear as the conversation evolves (e.g., an interactive compound-interest curve or a clickable periodic table). On by default; Claude decides when a visual helps, or a user can request one directly. Available on all plan types (Cowork added April 2026).
+
+### Architectural Constraint and the web-artifacts-builder Skill (November 2025)
+
+Because artifacts must render as a single HTML file, Claude's default behavior is to hand-write one file of HTML/CSS/JS — limiting the complexity of frontends it can produce, much as a human developer would be limited to basic frontends if restricted to a single file. The **web-artifacts-builder** [[ClaudeCodeSkills|Skill]] removes this constraint: it exposes scripts that set up a React project and bundle it (via Parcel) back into the required single-HTML-file format, letting Claude build artifacts with React, Tailwind CSS, and shadcn/ui components. Users enable the skill and ask Claude to "use the web-artifacts-builder skill" when building artifacts in [[Claude.ai]].
+
 ## Related
 
 - [[ClaudeArtifacts]] — the concrete Claude product feature implementing this concept
@@ -26,3 +34,7 @@ Artifacts is the conceptual pattern behind Claude's ability to generate standalo
 - [[AgenticCoding]] — broader paradigm of AI-driven, conversational software creation
 - [[No-CodeDevelopment]] — paradigm for building applications without writing code
 - [[summary-2025-06-25 - Turn ideas into interactive AI-powered apps]] — source announcement introducing the artifacts space and interactivity
+- [[ClaudeCodeSkills]] — mechanism behind the web-artifacts-builder skill
+- [[summary-2025-11-12 - Improving frontend design through Skills]] — web-artifacts-builder skill and frontend design skill
+- [[Integrations]] — MCP Apps interactive connectors, part of the same broader response-format push
+- [[summary-2026-03-12 - Claude now creates interactive charts, diagrams and visualizations]] — in-line visualizations announcement

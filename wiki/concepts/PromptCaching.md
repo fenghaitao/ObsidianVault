@@ -2,7 +2,7 @@
 title: "Prompt Caching"
 type: concept
 tags: [claude, api, optimization, caching, cost-reduction, latency]
-sources: [raw/01-articles/claude/2025-08-14 - Prompt caching with Claude.md, raw/01-articles/claude/2025-03-13 - Token-saving updates on the Anthropic API.md, raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md, raw/01-articles/claude/2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context.md]
+sources: [raw/01-articles/claude/2025-08-14 - Prompt caching with Claude.md, raw/01-articles/claude/2025-03-13 - Token-saving updates on the Anthropic API.md, raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md, raw/01-articles/claude/2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context.md, "raw/01-articles/claude/2026-04-30 - Lessons from building Claude Code Prompt caching is everything.md"]
 last_updated: 2026-06-28
 ---
 
@@ -52,6 +52,23 @@ Prompt caching is particularly powerful for:
 - Batch processing with consistent context
 - **Long-context cost mitigation**: When using [[Claude4Sonnet]]'s 1M token [[ContextWindow]] (where tiered pricing applies over 200K tokens), prompt caching can offset cost increases on repeated large-context requests
 
+## Engineering Lessons from Claude Code (April 2026)
+
+Thariq Shihipar (Claude Code team) shared unintuitive lessons from optimizing prompt caching at production scale in [[ClaudeCode]]'s harness, treated as foundational enough that Anthropic alerts on cache hit rate and declares SEVs when it drops too low:
+
+- **Static-first, dynamic-last ordering**: caching works by exact prefix matching up to each `cache_control` breakpoint, so requests should put static content first and dynamic content last to maximize shared-prefix hits across sessions. Named causes of accidental breaks: an in-depth timestamp embedded in the static system prompt, non-deterministic tool-definition ordering, and mid-conversation tool-parameter changes.
+- **Prefer messages over prompt edits for stale info**: rather than editing the system prompt when data goes stale (which forces a cache miss), pass updated information via a `<system-reminder>` tag in the next user message or tool result, preserving the cache.
+- **Caches are model-specific**: switching models mid-conversation (e.g., Opus → Haiku for an easy follow-up question) can be *more* expensive than staying on the original model, since the cache must be rebuilt from scratch for the new model. Claude Code's recommended pattern is a subagent "hand-off": the current model prepares a summary message for the next model, as used by Claude Code's Haiku-based Explore agents.
+- **Never change the tool set mid-conversation** — called out as one of the most common ways to break caching, since tool definitions are part of the cached prefix. This is why Plan Mode is implemented by keeping *all* tools present at all times and adding `EnterPlanMode`/`ExitPlanMode` as callable tools (with a system message explaining Plan Mode's rules), rather than swapping in a read-only tool subset. A side benefit: because `EnterPlanMode` is itself a tool, the model can autonomously enter plan mode on a hard problem without any cache break.
+- **`defer_loading` over tool removal**: for large MCP tool sets, Claude Code sends lightweight stubs (tool name only, `defer_loading: true`) discoverable via the tool search tool, loading full schemas only once a tool is selected — keeping the cached prefix stable since the same stubs appear in the same order every request.
+- **Cache-safe forking for compaction**: naive compaction (a separate API call with its own summarization system prompt and no tools) diverges from the cached prefix at the first token, making the *entire* conversation being compacted uncached — worst exactly when conversations are longest. The fix: run the compaction call with the exact same system prompt, context, and tools as the parent conversation, prepending the parent's messages and appending only the compaction prompt as a new final user message, so the cached prefix is reused and a "compaction buffer" of context-window headroom is reserved for the compact message and summary output. These patterns are now built directly into the Claude API's native [[ContextWindow|compaction]] feature.
+
+See [[summary-2026-04-30 - Lessons from building Claude Code Prompt caching is everything]].
+
+## Cache Breakpoints for Computer-Use / Screenshot Agents (May 2026)
+
+For [[ComputerUse|computer-use]] agents, the API's 4 total cache breakpoints are best allocated as 1 on the stable prefix (system prompt, tool definitions — already hit once and never invalidates, so more than one breakpoint there is wasted) and the remaining 3 spread across recent conversation history, where invalidation risk is highest and savings compound over long sessions. Spreading breakpoints across recent positions gives graceful degradation: if the newest breakpoint is invalidated (e.g. by an image prune or compaction), an earlier breakpoint can still hit, so the request pays 10% of full input cost instead of 100%. This pairs with a batched screenshot-pruning rolling buffer (see [[ContextWindow]]) to keep the cached prefix byte-stable across several turns at a time. See [[summary-2026-05-13 - Best practices for computer and browser use with Claude]].
+
 ## Availability
 
 - [[Anthropic]] API: Generally available; initial public beta launched with [[Claude3.5Sonnet]], [[Claude3Opus]], and [[Claude3Haiku]]
@@ -86,3 +103,8 @@ Prompt caching is particularly powerful for:
 - [[BatchProcessing]] — complementary API cost-reduction technique
 - [[summary-2025-08-14 - Prompt caching with Claude]] — original launch announcement, pricing details, and Notion use case
 - [[summary-2025-08-12 - Claude Sonnet 4 now supports 1M tokens of context]] — mentions prompt caching as a cost mitigation for 1M context requests
+- [[summary-2026-04-02 - Harnessing Claude’s intelligence]] — restates cache-breakpoint mechanism and pricing in a harness-design context
+- [[summary-2026-04-30 - Lessons from building Claude Code Prompt caching is everything]] — Claude Code engineering lessons: static/dynamic ordering, system-reminder tags, model-switch cost, Plan Mode design, defer_loading, cache-safe compaction forking
+- [[ClaudeCode]] — product whose harness these caching engineering lessons were drawn from
+- [[summary-2026-05-13 - Best practices for computer and browser use with Claude]] — cache breakpoint allocation strategy for screenshot-heavy computer-use agents
+- [[ComputerUse]] — capability whose screenshot volume motivates this caching strategy

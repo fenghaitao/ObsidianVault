@@ -2,7 +2,7 @@
 title: "GitHub"
 type: entity
 tags: [company, version-control, devops, ci-cd, claude-code]
-sources: ["raw/01-articles/claude/2025-08-06 - Automate security reviews with Claude Code.md", "raw/01-articles/claude/2025-10-01 - How enterprises are driving AI transformation with Claude.md"]
+sources: ["raw/01-articles/claude/2025-08-06 - Automate security reviews with Claude Code.md", "raw/01-articles/claude/2025-10-01 - How enterprises are driving AI transformation with Claude.md", "raw/01-articles/claude/2025-10-20 - Claude Code on the web.md", "raw/01-articles/claude/2026-01-29 - Understand Claude Code’s impact with contribution metrics.md"]
 last_updated: 2026-07-04
 ---
 
@@ -16,6 +16,8 @@ GitHub is a version control and collaboration platform for software development,
 - Anthropic hosts the security review GitHub Action and `/security-review` command documentation at `anthropics/claude-code-security-review` on GitHub.
 - More broadly, GitHub Actions integration lets Claude Code automate PR comments, test generation, and code review as part of a team's existing CI/CD pipeline.
 - [[Netflix]] is cited (alongside GitHub itself) as an example of developers tackling complex, codebase-spanning tasks with Claude Sonnet 4.5.
+- [[ClaudeCode]] on the web (October 2025) connects directly to GitHub repositories; git operations run through a secure proxy that scopes credentials rather than exposing raw tokens to the cloud sandbox.
+- **Contribution metrics** (January 2026, public beta): installing the Claude GitHub App lets Claude Code's dashboard track PRs merged and code committed with vs. without Claude Code assistance, plus per-user adoption data, with no external tooling required.
 
 ## Related
 
@@ -26,3 +28,5 @@ GitHub is a version control and collaboration platform for software development,
 - [[Netflix]] — cited alongside GitHub for the same capability
 - [[summary-2025-08-06 - Automate security reviews with Claude Code]] — source article on the security review GitHub Action
 - [[summary-2025-10-01 - How enterprises are driving AI transformation with Claude]] — source noting GitHub developers' use of Claude Sonnet 4.5
+- [[summary-2025-10-20 - Claude Code on the web]] — Claude Code on the web GitHub integration
+- [[summary-2026-01-29 - Understand Claude Code’s impact with contribution metrics]] — contribution metrics feature announcement

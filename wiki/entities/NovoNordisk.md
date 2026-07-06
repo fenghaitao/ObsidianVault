@@ -2,7 +2,7 @@
 title: "Novo Nordisk"
 type: entity
 tags: [enterprise, pharmaceutical, healthcare, ai-adopter, documentation]
-sources: ["raw/01-articles/claude/2025-10-01 - How enterprises are driving AI transformation with Claude.md"]
+sources: ["raw/01-articles/claude/2025-10-01 - How enterprises are driving AI transformation with Claude.md", "raw/01-articles/claude/2025-10-30 - Building AI agents for healthcare and life sciences.md"]
 last_updated: 2026-07-04
 ---
 
@@ -25,3 +25,6 @@ Novo Nordisk is a pharmaceutical company and creator of Ozempic. Its documentati
 - [[Claude4.5Sonnet]] — the release cited as driving this transformation
 - [[Anthropic]] — model provider
 - [[summary-2025-10-01 - How enterprises are driving AI transformation with Claude]] — source case study
+- [[HealthcareAI]] — the broader practice Novo Nordisk exemplifies
+- [[Pfizer]] — sibling life-sciences customer example
+- [[summary-2025-10-30 - Building AI agents for healthcare and life sciences]] — source article

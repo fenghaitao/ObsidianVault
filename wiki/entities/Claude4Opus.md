@@ -31,6 +31,7 @@ Claude 4 Opus (Claude Opus 4 / Claude Opus 4.1) is the flagship model in the Cla
 - Multi-system agent workflows
 - Long-running agentic applications with extended caching
 - Enterprise agent applications requiring advanced reasoning
+- Occasionally succeeded at Anthropic's internal Excalidraw table-tool test (a recurring capability check run with each model release) — enough to become a pre-recorded demo at the Claude 4 model launch. See [[summary-2026-03-19 - Product management on the AI exponential]].
 
 ## Availability
 
@@ -51,3 +52,5 @@ Claude 4 Opus (Claude Opus 4 / Claude Opus 4.1) is the flagship model in the Cla
 - [[CopilotStudio]] — agent-building platform where Opus 4.1 is available
 - [[Microsoft]] — enterprise partner
 - [[summary-2025-09-24 - Claude is now available in Microsoft 365 Copilot]] — Microsoft 365 Copilot availability announcement
+- [[Claude4.6Opus]] — successor model with dramatically higher METR time horizon
+- [[summary-2026-03-19 - Product management on the AI exponential]] — Excalidraw demo anecdote

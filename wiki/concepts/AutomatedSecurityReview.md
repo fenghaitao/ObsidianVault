@@ -17,11 +17,15 @@ Automated security review is a feature pattern that automates detection (and opt
 - Both are available to all Claude Code users (as of August 2025); documented at `anthropics/claude-code-security-review` on [[GitHub]].
 - **Anthropic's own dogfooding**: the GitHub Action caught a DNS-rebinding remote code execution vulnerability in a local HTTP server, and an SSRF vulnerability in an internal credential-management proxy — both fixed before merging to production.
 - See [[VulnerabilityDetection]] for the specific vulnerability classes these features target.
+- Positioned by Anthropic as a concrete instance of the "find bugs before you ship them" recommendation in its broader [[AIAcceleratedOffense]] security-program guidance, motivated by [[ProjectGlasswing]]'s finding that AI is collapsing the time needed to turn known vulnerabilities into exploits.
 
 ## Related
 
+- [[ClaudeSecurity]] — sibling standalone product (public beta, April 2026): repo-level scheduled scanning via claude.ai/security, distinct from this terminal/CI feature
 - [[ClaudeCode]] — the tool hosting both the `/security-review` command and the GitHub Action
 - [[VulnerabilityDetection]] — the vulnerability classes detected
 - [[CodeSecurity]] — the broader security-in-development-workflows concept this feature belongs to
 - [[GitHub]] — hosts the GitHub Action integration and documentation
 - [[summary-2025-08-06 - Automate security reviews with Claude Code]] — source announcement
+- [[CodeReview]] — the deeper, more expensive multi-agent PR review feature that complements this one
+- [[AIAcceleratedOffense]] — broader org-wide security-program playbook this feature is one instance of

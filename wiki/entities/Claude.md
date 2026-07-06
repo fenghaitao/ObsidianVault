@@ -2,8 +2,8 @@
 title: "Claude"
 type: entity
 tags: [AI, LLM, platform, chatbot, assistant]
-sources: [raw/01-articles/claude/2025-07-25 - Build and share AI-powered apps with Claude.md]
-last_updated: 2026-07-04
+sources: [raw/01-articles/claude/2025-07-25 - Build and share AI-powered apps with Claude.md, raw/01-articles/claude/2026-05-14 - The founder&#39;s playbook Building an AI-native startup.md]
+last_updated: 2026-07-05
 ---
 
 ## Definition
@@ -18,6 +18,7 @@ Claude is a family of large language models and the platform built around them b
 - Trained using [[ConstitutionalAI]] alignment methodology
 - Powers interactive artifacts for building and sharing AI-powered apps directly within the platform
 - Available on Free, Pro, and Max subscription tiers, with Team and Enterprise options
+- Positioned as the tool for AI-native founders across the startup lifecycle (Idea, MVP, Launch, Scale), per Anthropic's "Founder's Playbook" (May 2026), which frames the founder's role as shifting from individual contributor to orchestrator of AI-driven work
 
 ## Related
 
@@ -31,3 +32,5 @@ Claude is a family of large language models and the platform built around them b
 - [[ConstitutionalAI]] — training methodology
 - [[summary-2025-07-25 - Build and share AI-powered apps with Claude]] — Artifacts feature announcement
 - [[summary-20 - Claude can now show you]] — product-launch teaser for an unspecified visual/output capability
+- [[AINativeStartup]] — founder-as-orchestrator concept and four-stage lifecycle framework Claude underpins
+- [[summary-2026-05-14 - The founder's playbook Building an AI-native startup]] — Founder's Playbook announcement (May 2026)

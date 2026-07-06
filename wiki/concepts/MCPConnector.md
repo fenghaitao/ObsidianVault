@@ -75,3 +75,4 @@ Hundreds of additional connectors available at claude.com/connectors.
 - [[Claude4Sonnet]] — model with MCP connector support
 - [[summary-2025-05-22 - New capabilities for building agents on the Anthropic API]] — announcement article
 - [[summary-02 - Enterprise-managed auth for MCP connectors]] — product-launch teaser for enterprise-managed authentication on MCP connectors
+- [[LegalAI]] — legal-industry use of MCP connectors (20+ new connectors, May 2026)

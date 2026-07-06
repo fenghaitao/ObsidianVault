@@ -37,3 +37,4 @@ Cited again in Anthropic's September 2023 general-availability announcement for 
 - [[Anthropic]] — model creator
 - [[summary-2023-08-23 - Claude 2 on Amazon Bedrock]] — source article
 - [[summary-2023-09-28 - Claude on Amazon Bedrock now available to every AWS customer]] — GA announcement citing LexisNexis as an early adopter
+- [[LegalAI]] — legal-industry concept page
