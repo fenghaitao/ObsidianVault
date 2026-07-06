@@ -74,6 +74,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260521 - Anthropic Just Dropped a Masterclass on Building Agent Harnesses (for Large Codebases)]] — Anthropic's playbook for Claude Code in large codebases: layered rules, self-improving hooks, LSP, scoped skills.
 - [[summary-20260604 - Claude Plans, Gemini Designs： The Workflow to Build BEAUTIFUL Frontends]] — A cross-provider workflow: Gemini designs the UI, Opus plans/integrates; session-per-step with handoff docs.
 - [[summary-20260618 - The Creators of Claude Code and OpenClaw don't Prompt Their Agents Anymore!]] — A skeptical, practical take on "loop engineering" (/loop, /goal, /routines); fold it into harness engineering with durability + HITL.
+- [[summary-20260625 - Google Just Dropped a Masterclass on Agentic Engineering (It's SO Good)]] — Google's 51-page agentic-engineering masterclass: AI-driven SDLC, the harness-is-90% claim, static vs dynamic context, conductor vs orchestrator, token economics.
+- [[summary-20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE]] — Google's Open Knowledge Format: a shareable standard built on top of Karpathy's LLM Wiki pattern.
+- [[summary-20260703 - The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)]] — Dan Shapiro's five levels of AI-coding autonomy; Cole's R-PIV loop and Dark Factory components.
 - [[summary-20260622 - How to build your own CRM (start to finish)]] — Brian Casel builds a complete CRM from scratch with Claude Code, demonstrating spec-driven development end to end.
 - [[summary-20260611 - Claude Fable： Build me an app]] — Brian Casel stress-tests Anthropic's Claude Fable model on a real business tool expansion; model selection as a new skill.
 - [[summary-20260609 - Hermes vs. Claude Cowork Wrong Question]] — Brian Casel argues for platform-agnostic patterns over committing to any single agent platform; runs Hermes + Claude Co-work simultaneously.
@@ -201,7 +204,15 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Termius]] — SSH client with mobile support; used for remote agent access from mobile devices.
 - [[TMux]] — Terminal multiplexer for managing multiple agent sessions simultaneously.
 - [[PyConUS]] — Largest annual Python conference in the United States.
-- [[Google]] — Technology company; Google DeepMind develops Gemini, Google Antigravity is an AI coding tool.
+- [[Google]] — Technology company; Google DeepMind develops Gemini, Google Antigravity is an AI coding tool; published an agentic-engineering masterclass and the Open Knowledge Format.
+- [[BetterDB]] — Self-tuning Valkey/Redis caching and observability platform for AI agents with a semantic cache and MCP server.
+- [[OpenKnowledgeFormat]] — Google's standard for organizing and sharing knowledge bases, built on top of Karpathy's LLM Wiki pattern.
+- [[PostHog]] — Product analytics platform for understanding real user behavior; used by Cole Medin to monitor Archon.
+- [[Sonar]] — AI code-review/quality company; agent-centric development life cycle framework (guide, verify, solve).
+- [[Gitarr]] — Sonar's AI code-review tool that automatically fixes issues found in pull requests, validated against CI.
+- [[StrongDM]] — Company cited as running a real production Dark Factory (fully autonomous spec-to-shipped-code pipeline).
+- [[DanShapiro]] — Author of the five-levels-of-AI-coding-autonomy framework (spicy autocomplete → dark factory).
+- [[Stripe]] — Payments company; "Stripe Minions" cited as an example of mixing deterministic and agentic workflow nodes.
 
 ## Concepts
 
@@ -303,6 +314,13 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[AISafety]] — Ensuring AI systems behave as intended and don't cause harm.
 - [[GitWorktrees]] — Multiple working directories from a single Git repository; isolation mechanism for parallel agent execution.
 - [[CLAUDE.md]] — Instruction file pattern for persisting project-level rules and conventions across Claude Code sessions.
+- [[AIDrivenSDLC]] — Google's reframing of the SDLC for AI coding: implementation collapsed to minutes, specification quality is the new bottleneck.
+- [[StaticVsDynamicContext]] — Context management split: static (always-loaded rules) vs dynamic (on-demand skills/docs).
+- [[ConductorVsOrchestrator]] — Two modes engineers move between with AI coding assistants: file-level micromanagement vs codebase-level direction.
+- [[TokenEconomics]] — CapEx/OpEx framing: vibe coding is cheap upfront but token-expensive to run; agentic engineering is the reverse.
+- [[AICodingAutonomyLevels]] — Dan Shapiro's five levels of AI-coding autonomy, from spicy autocomplete to dark factory.
+- [[DarkFactory]] — Level 5 autonomy: a fully autonomous spec-in/shipped-code-out pipeline with no human review step.
+- [[DeterministicVsAgenticNodes]] — Workflow-design principle: use deterministic code for mechanically-correct steps, LLM agents only where reasoning is needed.
 
 ## Syntheses
 
@@ -317,6 +335,7 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[fighting-context-rot]] — Every technique Cole uses against context rot, organized by layer; the unifying thread of the corpus.
 - [[cole-vs-brian-planning-methodologies]] — How Cole Medin's and Brian Casel's planning methodologies compare: PRD-First + PIV Loop vs Spec-Driven + Milestones.
 - [[cole-vs-brian-agent-autonomy]] — How Cole Medin's and Brian Casel's agent autonomy patterns compare: harness engineering + Ralph Loops vs Night Shift + multitasking.
+- [[cole-medin-karpathy-llm-wiki-evolution]] — The three-stage arc of Cole's Karpathy-LLM-Wiki coverage: build (Second Brain) → name/extend (self-evolving memory) → standardize (Google's OKF).
 
 - [[summary-20251112 - Claude Code vs. Cursor vs. Codex： Cloud Agents Showdown]] — Brian Casel compares Claude Code, Cursor, and Codex for cloud-based agent workflows.
 - [[summary-20251107 - Cursor 2.0 Changed How I Work]] — Brian reviews Cursor 2.0: built-in browser, background agents, mobile access, agent sidebar.

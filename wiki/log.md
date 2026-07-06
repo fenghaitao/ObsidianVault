@@ -297,3 +297,19 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 - **Changes**: created 27 source summaries, updated [[index.md]]
 - **Conflicts**: none
 - **Notes**: Batches 5-8 completed in rapid succession. These earlier transcripts cover Brian's foundational content: the case for Claude Code, early Agent OS releases, spec-driven development methodology, Rails tutorials, and the transition from vibe coding to professional building. Many concepts introduced here (spec-driven development, milestone building, design systems) were later refined in his 2026 content.
+
+## [2026-07-06] ingest | Cole Medin "Channel Only" — Google's agentic-engineering masterclass (20260625)
+- **Changes**: created [[summary-20260625 - Google Just Dropped a Masterclass on Agentic Engineering (It's SO Good)]]; created concepts [[AIDrivenSDLC]], [[StaticVsDynamicContext]], [[ConductorVsOrchestrator]], [[TokenEconomics]]; created entity [[BetterDB]]; updated [[Google]], [[HarnessEngineering]]; updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-07-06] ingest | Cole Medin "Channel Only" — Google's Open Knowledge Format (20260702)
+- **Changes**: created [[summary-20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE]]; created entity [[OpenKnowledgeFormat]], [[PostHog]]; updated [[Google]], [[KarpathyLLMWiki]], [[ModelContextProtocol]]; updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-07-06] ingest | Cole Medin "Channel Only" — Dan Shapiro's AI-coding autonomy levels (20260703)
+- **Changes**: created [[summary-20260703 - The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)]]; created concepts [[AICodingAutonomyLevels]], [[DarkFactory]], [[DeterministicVsAgenticNodes]]; created entities [[DanShapiro]], [[Sonar]], [[Gitarr]], [[StrongDM]], [[Stripe]]; updated [[PIVLoop]], [[ColeMedin]]; updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-07-06] query | How has Cole Medin's coverage of the Karpathy LLM Wiki pattern evolved across his videos?
+- **Output**: saved to [[cole-medin-karpathy-llm-wiki-evolution]]
+- **Pages consulted**: [[KarpathyLLMWiki]], [[SecondBrain]], [[OpenKnowledgeFormat]], [[AndrejKarpathy]], [[ColeMedin]], [[ModelContextProtocol]]

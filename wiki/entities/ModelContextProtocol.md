@@ -8,7 +8,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Archon - The AI Agent Builder/04 - Introducing Archon - an AI Agent that BUILDS AI Agents.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them).md"
-last_updated: 2026-06-19
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE.md"
+last_updated: 2026-07-06
 ---
 
 ## Definition
@@ -60,6 +61,10 @@ Cole's published template (covered in [[summary-20250414 - The ULTIMATE Guide to
 
 > See `Cole's mem0 MCP server` referenced in [[Mem0]] for a complete implementation.
 
+### The OKF analogy
+
+Per [[ColeMedin]] in `summary-20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE`: "what MCP did for agent-to-tool communication, [[OpenKnowledgeFormat|OKF]] is doing for agent-to-knowledge-base communication" — both are thin, adoption-friendly standards that let any agent interoperate with any tool/knowledge-base built by someone else, without bespoke integration work per pair.
+
 ### Cole's "3 must-have MCP servers" for AI coding
 
 From [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — Cole's recommended slot fillers:
@@ -83,8 +88,10 @@ Pairs commonly used together: **Crawl4AIRAG + Brave** — query private docs fir
 - [[Mem0]] — long-term-memory library Cole's MCP template uses as its example
 - [[SubAgent]] — pattern often realized via MCP
 - [[ToolUse]] — what MCP standardizes
+- [[OpenKnowledgeFormat]] — the analogous standard for agent-to-knowledge-base communication
 - [[summary-03 - Coding Subagents - The Next Evolution of AI IDEs]] — MCP-as-sub-agent thesis
 - [[summary-01 - Build an ARMY of AI Agents on Autopilot with Archon, Here's How]] — MCP Agent Army demo
 - [[summary-20250414 - The ULTIMATE Guide to Building Your Own MCP Servers (Free Template)]] — building your own MCP server with best practices
 - [[summary-20250515 - The 3 MUST Have MCP Servers for Any AI Coding (and How to Use Them)]] — recommended MCP server triad for AI coding
 - [[summary-20250627 - MCP Sampling in Pydantic AI： How to Proxy LLM Calls]] — MCP sampling feature
+- [[summary-20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE]] — the OKF analogy

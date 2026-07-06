@@ -5,7 +5,8 @@ tags: [concept, knowledge-management, karpathy, wiki, second-brain, pattern, com
 sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases.md"
-last_updated: 2026-06-20
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE.md"
+last_updated: 2026-07-06
 ---
 
 ## Definition
@@ -84,6 +85,10 @@ This is the defining property: a knowledge base that gets richer and more useful
 
 [[ColeMedin]]'s [[SecondBrain]] is a Karpathy-LLM-Wiki implementation with extras (skills for capabilities, a heartbeat for proactivity, integrations). The knowledge-management core of a Second Brain *is* the Karpathy pattern. They're the same idea at different scopes: KarpathyLLMWiki is the knowledge architecture; SecondBrain is that architecture plus action capabilities.
 
+### The standardization problem — and Google's answer (July 2026)
+
+Because the original pattern only specifies the *idea*, everyone who builds an LLM wiki structures folders and metadata differently — one person's `tags` field is another's `categories` field. That means knowledge bases built this way can't be shared between people, teams, or each other's agents: an agent unfamiliar with a given wiki's specific structure can't navigate it optimally. [[Google]]'s **[[OpenKnowledgeFormat]] (OKF)**, per `summary-20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE`, is a thin standard built directly on top of the Karpathy pattern to solve exactly this: it standardizes document organization (nested indexes, shareable "bundles") and the minimum required metadata (`type` is the only mandatory field), so that any OKF-consuming agent can navigate any OKF-producing wiki — including ones it's never seen before.
+
 ### How this vault implements it
 
 - `raw/` — immutable sources (e.g. the Cole Medin transcripts being ingested right now).
@@ -105,6 +110,10 @@ The vault diverges from Karpathy's auto-maintained-by-hooks version in being **h
 - [[ClaudeSkills]] — capability layer
 - [[RetrievalAugmentedGeneration]] — the counterpoint pattern
 - [[ContextRot]] — what compiling-to-wiki helps avoid (query reads a focused page, not a giant corpus)
+- [[OpenKnowledgeFormat]] — Google's standard built on top of this pattern
+- [[Google]] — publisher of OKF
 - [[summary-20260406 - I Built Self-Evolving Claude Code Memory w⧸ Karpathy's LLM Knowledge Bases]] — canonical source
 - [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — second-brain framing
+- [[summary-20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE]] — OKF standardization
 - [[vault-architecture-mapped-to-cole-teachings]] — synthesis: how this vault is itself an instance of this pattern
+- [[cole-medin-karpathy-llm-wiki-evolution]] — synthesis: the three-stage arc of Cole's coverage (build → name/extend → standardize)

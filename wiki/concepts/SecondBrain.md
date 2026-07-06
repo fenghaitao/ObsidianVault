@@ -142,3 +142,4 @@ Cole reports the Second Brain "saves me dozens of hours every single week" and m
 - [[summary-20260402 - Full Guide - Build Your Own AI Second Brain with Claude Code]] — comprehensive architecture source
 - [[summary-20260212 - I Built a Safer OpenClaw Alternative Using Claude Code]] — clone-and-rebuild method + Cole's VPS stack
 - [[summary-20260302 - Build BEAUTIFUL Diagrams with Claude Code (Full Workflow)]] — the Excalidraw diagram skill in the template
+- [[cole-medin-karpathy-llm-wiki-evolution]] — synthesis: Second Brain as Stage 1 (build-before-naming) of Cole's Karpathy-LLM-Wiki coverage

@@ -19,7 +19,10 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now.md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260507 - AI YouTube Is Only Claude Hype Now.md"
-last_updated: 2026-06-20
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260625 - Google Just Dropped a Masterclass on Agentic Engineering (It's SO Good).md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE.md"
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260703 - The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why).md"
+last_updated: 2026-07-06
 ---
 
 ## Definition
@@ -76,6 +79,10 @@ By Jan 2026 Cole codifies his discipline as 5 techniques: [[PRDFirstDevelopment]
 
 Per `summary-ai-youtube-claude-hype`, Cole deliberately resists the "Claude hype" content cycle (creators racing to react to each release) in favor of **depth and real engineering**, moving to multi-weekly **live streams** (Mon/Thu/Sat) of live building alongside ~one polished video/week. He argues many release-reaction videos are skippable since [[ClaudeCode]] can search its own up-to-date docs on demand. He builds **[[Archon]]** live and runs the **Dark Factory** experiment — a codebase handed *entirely* to AI agents, with no human allowed to review or write code (a maximal autonomy test).
 
+### Reacting to industry convergence (June–July 2026)
+
+Cole increasingly covers third-party releases that independently arrive at his own frameworks: [[Google]]'s agentic-engineering masterclass ([[AIDrivenSDLC]], [[StaticVsDynamicContext]], [[ConductorVsOrchestrator]], [[TokenEconomics]]) and Google's [[OpenKnowledgeFormat]] standard for [[KarpathyLLMWiki]]-style knowledge bases, plus [[DanShapiro]]'s five-level [[AICodingAutonomyLevels]] framework, which Cole maps directly onto his own [[PIVLoop]] (extended to "R-PIV") and [[DarkFactory]] experiment.
+
 ## Related
 
 - [[Archon]] — flagship project
@@ -119,3 +126,7 @@ Per `summary-ai-youtube-claude-hype`, Cole deliberately resists the "Claude hype
 - [[summary-20260108 - The 5 Techniques Separating Top Agentic Engineers Right Now]] — agentic engineering checklist
 - [[summary-20260126 - I Built My Second Brain with Claude Code + Obsidian + Skills (Here's How)]] — Second Brain pattern
 - [[summary-20260507 - AI YouTube Is Only Claude Hype Now]] — content philosophy; live-stream shift; Dark Factory
+- [[AIDrivenSDLC]], [[OpenKnowledgeFormat]], [[AICodingAutonomyLevels]], [[DarkFactory]] — June–July 2026 industry-convergence coverage
+- [[summary-20260625 - Google Just Dropped a Masterclass on Agentic Engineering (It's SO Good)]] — Google's agentic-engineering masterclass
+- [[summary-20260702 - Finally, an Open Standard for the Karpathy LLM Wiki is HERE]] — Google's OKF standard
+- [[summary-20260703 - The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)]] — Dan Shapiro's autonomy levels; R-PIV; Dark Factory

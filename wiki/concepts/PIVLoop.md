@@ -6,7 +6,8 @@ sources:
   - "raw/03-transcripts/Cole Medin/Channel Only/20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now).md"
   - "raw/03-transcripts/Cole Medin/Channel Only/20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI).md"
-last_updated: 2026-06-20
+  - "raw/03-transcripts/Cole Medin/Channel Only/20260703 - The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why).md"
+last_updated: 2026-07-06
 ---
 
 ## Definition
@@ -46,6 +47,10 @@ Per `summary-principled-agentic-engineer`, the PIV loop is the **inner loop** �
 
 Set real environment variables (via a `.env.example` the agent reads) *before* implementation — otherwise the agent does mock testing and falsely reports validation passed.
 
+### The "R-PIV" expansion (July 2026)
+
+Per `summary-20260703 - The Best AI Coding Setup Isn't the Most Autonomous One`, Cole makes the implicit first step explicit by naming the loop **R-PIV: Research → Plan → Implement → Validate**. Research is the exploration Cole already did informally at the start of the Plan step (spinning up research [[SubAgent]]s, understanding the codebase) — the rename doesn't change the mechanics, just makes the research phase a named, first-class step. Cole ties the R-PIV loop directly to [[AICodingAutonomyLevels]] Level 3 ("developer" — a Waymo with a safety driver): full coding delegation is safe specifically because it's sandwiched by human-led research/planning and human-led validation.
+
 ## Related
 
 - [[AILayer]] — set up before the first PIV loop; PIV loops evolve it
@@ -57,6 +62,8 @@ Set real environment variables (via a `.env.example` the agent reads) *before* i
 - [[SystemEvolution]] — applied after each loop to improve the system
 - [[ColeMedin]] — articulator
 - [[cole-vs-brian-planning-methodologies]] — synthesis comparing Cole's and Brian's planning approaches
+- [[AICodingAutonomyLevels]] — Level 3, the autonomy level the R-PIV loop operationalizes
 - [[summary-20260223 - My COMPLETE Agentic Coding Workflow to Build Anything (No Fluff or Overengineering)]] — primary source
 - [[summary-20260226 - This One Command Makes Coding Agents Find All Their Mistakes (Use it Now)]] — the /e2e-test skill as the validate step
 - [[summary-20260430 - FULL Guide to Becoming a Principled Agentic Engineer (Build Anything with AI)]] — inner/outer loop framing; two planning layers
+- [[summary-20260703 - The Best AI Coding Setup Isn't the Most Autonomous One (Here's Why)]] — the R-PIV (Research-Plan-Implement-Validate) naming
