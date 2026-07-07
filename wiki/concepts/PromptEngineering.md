@@ -59,3 +59,4 @@ Prompt engineering is the practice of designing effective instructions for AI mo
 - [[ExtendedThinking]] — model-native alternative to manual chain-of-thought prompting
 - [[ContextEngineering]] — the broader discipline prompt engineering feeds into
 - [[summary-2025-11-10 - Best practices for prompt engineering]] — November 2025 consolidation of core and advanced techniques
+- [[summary-05 - The prompting playbook]] — source summary

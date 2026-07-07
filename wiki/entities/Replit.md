@@ -2,7 +2,7 @@
 title: "Replit"
 type: entity
 tags: [company, coding-platform, vibe-coding, app-building, agents]
-sources: [raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/16 - Evaluating and improving Replit Agent at scale.md, raw/03-transcripts/Claude/The Problem Solvers/04 - The Problem Solvers： Michele Catasta at Replit.md]
+sources: [raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/16 - Evaluating and improving Replit Agent at scale.md, raw/03-transcripts/Claude/The Problem Solvers/04 - The Problem Solvers： Michele Catasta at Replit.md, "raw/01-articles/claude/2026-06-17 - Claude Design now stays on brand for daily work.md"]
 last_updated: 2026-06-23
 ---
 
@@ -27,3 +27,5 @@ Replit is a vibe-coding platform that lets anyone build applications from natura
 - [[ClaudeFable5]] — Opus as the workhorse model
 - [[ClaudeCode]] — related coding agent
 - [[Anthropic]] — model provider and partner
+- [[ClaudeDesign]] — exports to Replit as a connector destination
+- [[summary-2026-06-17 - Claude Design now stays on brand for daily work]] — source listing Replit as a connector

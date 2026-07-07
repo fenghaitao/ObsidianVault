@@ -46,11 +46,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-04 - Live coding session with Boris Cherny and Jarred Sumner]] — Live coding: Robo Bun automated pipeline and Claude Code advanced usage.
 - [[summary-12 - Building with Claude Managed Agents and Asana AI teammates]] — Asana's AI teammates built on Claude Managed Agents.
 - [[summary-13 - Running an AI-native engineering org]] — Fiona Fung on running Claude Code engineering at Anthropic (San Francisco delivery).
-- [[summary-14 - The thinking lever]] — San Francisco version of test-time compute and adaptive thinking talk.
 - [[summary-15 - Building with Claude on Google Cloud]] — End-to-end app building and deployment on Google Cloud with Claude Code.
 - [[summary-16 - Evaluating and improving Replit Agent at scale]] — Replit's VibeBench and Telescope for continuous agent improvement.
 - [[summary-17 - Giving coding agents their own computers： How Cursor built cloud agents]] — Cursor's three-stage journey to cloud agents with computer use.
-- [[summary-18 - Memory and dreaming for self-learning agents]] — San Francisco version of memory and dreaming talk.
 - [[summary-19 - The expanding toolkit]] — How scaffolding now ships with the model: tool use, context, code execution, computer use.
 - [[summary-anthropic-gtm-engineering]] — How Anthropic uses Claude in GTM: Class email automation tool.
 - [[summary-anthropic-cybersecurity]] — How Anthropic uses Claude in cybersecurity: Clue detection platform.
@@ -235,6 +233,37 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-2026-05-15 - Deploying Claude across the legal industry]] — FTI Consulting/Relativity General Counsel Report stat (87% GC genAI adoption) and a three-phase legal adoption roadmap.
 - [[summary-2026-05-19 - New in Claude Managed Agents dreaming, outcomes, and multiagent orchestration]] — Dreaming enters research preview; outcomes, multiagent orchestration, and memory reach public beta.
 - [[summary-2026-05-19 - New in Claude Managed Agents self-hosted sandboxes and MCP tunnels]] — Self-hosted sandboxes (public beta) and MCP tunnels (research preview) for Managed Agents.
+- [[summary-2026-05-20 - How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book]] — Travis Bryant details using Claude Cowork to automate three sales cadences across a 4,000-account book, freeing leaders for customer conversations and strategic judgment.
+- [[summary-2026-05-20 - Using Claude Code The unreasonable effectiveness of HTML]] — Thariq Shihipar argues HTML is a superior output format to Markdown for Claude Code work, offering richer visualization, interactivity, and shareability.
+- [[summary-2026-05-21 - Claude now works with more security and compliance tools]] — Anthropic announced 60+ integrations with security and compliance tools via the Claude Compliance API, enabling enterprises to govern Claude usage alongside other workplace applications.
+- [[summary-2026-05-21 - How our partners are putting Opus to work for cybersecurity]] — Anthropic's cybersecurity partners are live with Claude Opus-powered defensive offerings spanning offensive testing, vulnerability remediation, and governed AI deployment.
+- [[summary-2026-05-22 - How Anthropic's finance team uses Claude to shape the narrative behind the numbers]] — Alice Fong describes using Claude Cowork and Claude for Excel to maintain a single coherent financial narrative, freeing 10 to 20 hours a week for judgment work.
+- [[summary-2026-05-26 - Code w Claude London 2026 Rethinking how we build]] — Code w/ Claude London 2026 recap: Boris Cherny on collapsing the idea-to-execution gap, Managed Agents self-hosted sandboxes and MCP tunnels announced, with customer talks from Spotify, Base44, and Legora.
+- [[summary-2026-05-27 - How CodeRabbit used Claude to build an agent orchestration system]] — CodeRabbit built an agent orchestration layer on Claude that inserts a structured planning phase between request and coding agent, coordinating multiple model tiers to produce collaborative PRDs.
+- [[summary-2026-05-27 - Using LLMs to secure source code]] — Anthropic shares a six-step workflow for using Claude Opus to secure source code, noting that the bottleneck has shifted from vulnerability discovery to verification, triage, and patching.
+- [[summary-2026-05-27 - Zero Trust for AI agents]] — Anthropic introduces a Zero Trust security framework for autonomous AI agents in the enterprise, with cryptographically rooted agent identities, task-scoped permissions, and agentic SOAR.
+- [[summary-2026-05-28 - Introducing dynamic workflows in Claude Code]] — Dynamic workflows in Claude Code enable tackling large-scale engineering tasks end-to-end by fanning work across tens to hundreds of parallel subagents with verification.
+- [[summary-2026-06-02 - A harness for every task dynamic workflows in Claude Code]] — Claude Code dynamic workflows, powered by Opus 4.8, let Claude write orchestration scripts on the fly for classifier routing, fan-out/synthesis, adversarial verification, tournaments, and parallel competition.
+- [[summary-2026-06-03 - Best practices for getting started with Claude Cowork]] — Austin Lau provides a practical guide for knowledge workers: a Chat/Cowork/Code decision framework, a five-ingredient checklist for Cowork-shaped tasks, and a ten-minute getting-started guide.
+- [[summary-2026-06-03 - How Anthropic enables self-service data analytics with Claude]] — Anthropic's Data Science team built an agentic data stack handling 95% of business analytics queries with ~95% accuracy, identifying three failure modes and a four-layer solution stack.
+- [[summary-2026-06-03 - Lessons from building Claude Code How we use skills]] — Nine categories of effective Claude Code skills distilled from Anthropic's internal experience: progressive disclosure via folders, giving Claude code not just instructions, and treating descriptions as trigger signals.
+- [[summary-2026-06-03 - Running an AI-native engineering org]] — Fiona Fung on how the Claude Code team rewrote engineering processes once agentic coding became the default: bottlenecks shifted from coding to verification, code review, and security.
+- [[summary-2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code]] — Jared Sires, a non-coder salesperson, used Claude Code to build CLAFTS — a Gmail-integrated app saving 10-15 hours/week — which scaled to ~80% of Anthropic's sales organization.
+- [[summary-2026-06-05 - The Claude Cowork product guide]] — Claude Cowork is Anthropic's knowledge work agent that reads and writes local files, works across connected apps, and carries multi-step tasks through to real deliverables with source citations.
+- [[summary-2026-06-08 - Building intelligent apps for Apple platforms with Claude in the Foundation Models framework]] — A Swift package connects Apple's Foundation Models framework to Claude, enabling model handoff from on-device to cloud reasoning with typed Swift outputs on iOS 27 and beyond.
+- [[summary-2026-06-08 - Observability for developers building connectors]] — Anthropic launched a public beta observability dashboard for MCP connector developers to monitor error rates, latency, and performance across Claude product surfaces, plus in-app directory submission.
+- [[summary-2026-06-09 - New in Claude Managed Agents run agents on a schedule and store environment variables in vaults]] — Claude Managed Agents adds scheduled deployments via cron and agentic vaults for secure credential injection at the network boundary, both in public beta.
+- [[summary-2026-06-10 - The evolution of agentic surfaces building with Claude Managed Agents]] — Claude Managed Agents is Anthropic's composable API suite decoupling the agent brain (orchestration) from the hands (sandbox execution), solving production challenges around hosting, state, and observability.
+- [[summary-2026-06-15 - Meet the winners of the Built with Opus 4.7 Claude Code hackathon]] — Six winning projects from the Built with Opus 4.7 hackathon, spanning medical training (Medkit), electronics repair (Wrench Board), CS education (Maieutic), interactive play, home repair (MaestrIA), and factory maintenance (ARIA).
+- [[summary-2026-06-17 - Claude Design now stays on brand for daily work]] — Claude Design rebuilt with design system imports from GitHub, bidirectional sync with Claude Code, and a direct canvas editor, reaching over one million users in its first week.
+- [[summary-2026-06-17 - Meet the winners of our Claude Opus 4.8 Build Day hackathon]] — Three winning teams from a 12-hour, 310-builder hackathon: Tekton (3D historical reconstruction), Sim Francisco (10,000-resident synthetic population), and Custom Universe (phone-photo-to-3D pipeline).
+- [[summary-2026-06-17 - Secure access to the Claude Platform with Workload Identity Federation]] — Workload Identity Federation replaces static API keys with short-lived, scoped credentials from any OIDC-compliant identity provider, now generally available on the Claude Platform.
+- [[summary-2026-06-18 - Centrally manage authorization for MCP connectors]] — Enterprise-Managed Authorization for MCP connectors lets admins provision connector access centrally through their identity provider, starting with Okta and seven launch partners.
+- [[summary-2026-06-18 - Claude Code now supports artifacts]] — Claude Code artifacts are live, interactive web pages built from session context that auto-update and provide shareable views like PR walkthroughs, dashboards, and release checklists.
+- [[summary-2026-06-18 - Steering Claude Code CLAUDE.md files, skills, hooks, rules, subagents and more]] — A decision framework for Claude Code's seven steering methods, with guidance on when each instruction loads, whether it persists through compaction, and how to avoid common anti-patterns.
+- [[summary-2026-06-22 - The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry]] — The full Claude Desktop experience (chat, Cowork, Code) is now available through AWS, Google Cloud, and Microsoft Foundry, with enterprise deployment controls and per-product policy keys.
+- [[summary-2026-06-24 - Agent identity in Claude Tag a new access model for autonomous, team-wide AI]] — Claude Tag introduces agent identity where the AI has its own workspace-level credentials, enabling secure team-wide autonomous AI in shared channels without borrowing user credentials.
+- [[summary-2026-06-24 - Building effective human-agent teams]] — Four lessons from Anthropic's internal testing of multiplayer human-agent teams: work in public, define clear roles, set a north star goal, and build trust through graduated autonomy.
 
 ## Entities
 
@@ -380,6 +409,7 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Zoom]] — Video-conferencing company; new MCP connector bringing meeting intelligence into Cowork.
 - [[ProjectGlasswing]] — Anthropic's defensive-cybersecurity initiative using Claude Mythos Preview.
 - [[Claude4.7Opus]] — Anthropic's strongest generally available model (April 2026); introduces the `xhigh` effort level.
+- [[ClaudeOpus4.8]] — Anthropic model succeeding Opus 4.7; featured in the June 2026 Build Day hackathon and powering Claude Code dynamic workflows.
 - [[CrossBeam]] — Hackathon-winning tool tackling California's housing-permit bottleneck.
 - [[Elisa]] — Hackathon-winning block-based visual IDE for non-coders.
 - [[PostVisit]] — Hackathon-winning suite of AI tools for post-appointment patient care.
@@ -412,6 +442,71 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Rogo]] — Company named in Managed Agents' sandbox-client documentation.
 - [[Spiral]] — Every's Haiku-led, Opus-subagent writing product using multiagent orchestration and outcomes.
 - [[Every]] — Media/software company behind Spiral, a Claude Managed Agents production example.
+- [[Accenture]] — Global professional services and consulting firm, a Claude Security services partner building Cyber.AI on Claude Opus.
+- [[ActivelyAI]] — Company using Claude Managed Agents to power cross-account agentic search for sales teams with scheduled deployments.
+- [[Adobe]] — Multinational software company known for creative tools; listed as an export connector destination for Claude Design.
+- [[AlexLieberman]] — Co-founder of Morning Brew and Tenex; advocate for Claude Design as a core part of his tech stack.
+- [[AliceFong]] — Member of Anthropic's corporate finance and strategy team responsible for quarterly board deck analysis.
+- [[AppleFoundationModels]] — Native Swift framework giving developers access to Apple's on-device AI models with typed Swift outputs via @Generable annotations.
+- [[ARIA]] — AI system for continuous factory machine monitoring and custom diagnostics; won Best Use of Claude Managed Agents in the Opus 4.7 hackathon.
+- [[Atlassian]] — Enterprise software company (Jira, Confluence, Bitbucket); MCP provider supporting Enterprise-Managed Authorization.
+- [[AWS]] — Amazon's cloud computing platform serving as a cloud inference platform for Claude Desktop within organizations' own AWS environment.
+- [[Base44]] — Hypergrowth engineering organization using Claude Code to scale development capacity; presented at Code w/ Claude London 2026.
+- [[BCG]] — Global management consulting firm; Claude Security services partner building defensive cyber offerings on Claude Opus.
+- [[BigQuery]] — Google's fully-managed data warehouse; serves as a data source for Claude Cowork sales workflows and token spend analysis.
+- [[BorisCherny]] — Head of Claude Code at Anthropic; leads the agentic coding tool team and speaks at developer conferences.
+- [[Browserbase]] — Company providing browser capabilities for Claude Managed Agents via browse CLI, authenticated through agentic vaults.
+- [[ClaudeComplianceApi]] — Anthropic's programmatic interface giving enterprise security teams access to Claude usage data via 60+ partner integrations.
+- [[ClaudeDesign]] — Anthropic's HTML-based design prototyping tool rebuilt in June 2026 with design system imports, Claude Code sync, and a canvas editor.
+- [[ClaudeDesktop]] — Anthropic's unified desktop app bringing chat, Cowork, and Code together with cloud inference and enterprise deployment controls.
+- [[ClaudeTag]] — Anthropic's multiplayer AI product where Claude sits in shared Slack channels with workspace-scoped tools and agent identity.
+- [[CrowdStrike]] — Cybersecurity company trusted by 60%+ of the Fortune 500; Claude Security partner building Frontier AI Readiness services on Opus.
+- [[CustomUniverse]] — Opus 4.8 hackathon-winning project turning phone photos into restylable 3D models for robotics training data generation.
+- [[FionaFung]] — Director of Engineering for Claude Code and Claude Cowork at Anthropic; delivered the AI-native engineering org talk.
+- [[Gamma]] — AI-powered platform for creating presentations, documents, and web pages; export connector destination for Claude Design.
+- [[GoogleSuiteConnector]] — MCP connector linking Claude Cowork to Google Workspace apps (Docs, Sheets, Slides, Drive, Gmail, Calendar).
+- [[Granola]] — AI-powered meeting notes tool; MCP provider supporting Enterprise-Managed Authorization.
+- [[Hubspot]] — CRM and marketing/sales platform; Claude customer rolling out Enterprise-Managed Authorization across its teams.
+- [[Infosys]] — Global IT services and consulting company; Claude Security services partner building defensive cyber offerings on Claude Opus.
+- [[JarredSumner]] — Creator of Bun; used Claude Code dynamic workflows to port Bun from Zig to Rust (~750K lines) in eleven days.
+- [[KERNEL]] — Company providing browser capabilities for Claude Managed Agents via CLI, authenticated through agentic vaults.
+- [[M365Connector]] — Enterprise integration for Claude Desktop giving Claude access to Microsoft 365 mail and documents via Microsoft Entra.
+- [[MaestrIA]] — Web app for master-level home repair diagnostics built by a non-programmer, using Claude to stream diagnostic reasoning.
+- [[Maieutic]] — IDE designed to make CS students slow down and think before coding, using plain-language specs and Intent-Diff Review.
+- [[Medkit]] — Gamified medical training tool using Claude Managed Agents to simulate patient encounters for residents and junior doctors.
+- [[MicrosoftFoundry]] — Cloud platform hosting Claude models; supports the full Claude Desktop experience with customer-cloud inference as of June 2026.
+- [[Milana]] — Company building an AI product engineer powered by Claude Managed Agents, using vaults for secure codebase connections.
+- [[Miro]] — Online collaborative whiteboard platform; listed as an export connector destination for Claude Design.
+- [[Okta]] — Enterprise identity and access management platform; first IdP supported by Anthropic's Enterprise-Managed Authorization for MCP connectors.
+- [[SentinelOne]] — Cybersecurity company providing AI-powered endpoint protection; Claude Security technology partner on Claude Opus.
+- [[SimFrancisco]] — Opus 4.8 hackathon-winning synthetic population of 10,000 San Francisco residents for polling and prediction-market forecasting.
+- [[Spotify]] — Global audio streaming platform and Anthropic customer using Claude Code to scale developer experience across teams.
+- [[Supabase]] — Open-source backend-as-a-service platform; MCP provider supporting Enterprise-Managed Authorization.
+- [[Superpowers]] — Skills framework integrated into Claude that structures brainstorm-then-plan steps for disciplined software development.
+- [[Tekton]] — Opus 4.8 hackathon-winning project reconstructing historical buildings in 3D with evidence-chain verification to documented sources.
+- [[Tenex]] — Company co-founded by Alex Lieberman; uses Claude Design for site, brand assets, and presentations.
+- [[ThariqShihipar]] — Member of technical staff at Anthropic on the Claude Code team; authored articles on HTML output, tool design, and prompt caching.
+- [[TravisBryant]] — Head of US Mid-Market GTM at Anthropic; power user of Claude Cowork for sales workflows across 4,000 accounts.
+- [[TrendMicro]] — Global cybersecurity company; Claude Security partner using Claude Opus for vulnerability research and virtual patching.
+- [[VirtualPuppetTheater]] — Browser-based interactive puppet show app turning webcam video and voice into a dynamic AI-driven puppet theater experience.
+- [[Webflow]] — No-code web design and hosting platform; Claude customer rolling out Enterprise-Managed Authorization across its teams.
+- [[Wix]] — Cloud-based web development platform; listed as an export connector destination for Claude Design.
+- [[Wiz]] — Cloud security company; Claude Security partner building Wiz Red Agent on Claude Opus for AI-powered offensive security testing.
+- [[WrenchBoard]] — AI-powered electronics repair diagnostic tool that ingests schematics and guides technicians to the exact pad to probe.
+- [[TejasPrabhune]] — UC Berkeley EECS student and co-creator of Sim Francisco, exploring simulated personas for model post-training.
+- [[HollyTang]] — Designer and co-creator of Tekton, the 3D historical building reconstruction hackathon project.
+- [[AustinBurgess]] — Founder of Pearl and engineer co-creator of Tekton, who scaled 3D building reconstruction to work on any building.
+- [[JakeStevens]] — RIT computer-vision graduate, founder of Luminal, and co-creator of Custom Universe for robotics synthetic data.
+- [[MauricioPereira]] — MIT robotics graduate, founder of Coat Robotics, and co-creator of Custom Universe for robotics synthetic data.
+- [[TanmayiPriyaDasari]] — UC Berkeley EECS student and co-creator of Sim Francisco, the synthetic San Francisco population model.
+- [[ClaudeAPI]] — Anthropic's developer-facing API providing programmatic access to Claude models and features.
+- [[NVIDIAH100]] — NVIDIA's Hopper-architecture high-performance GPU used for AI model inference and training.
+- [[AppleRealityKit]] — Apple's AR framework for 3D object capture and scene rendering, used in synthetic data pipelines.
+- [[Devin]] — Cognition's flagship AI software engineer capable of writing, reviewing, and deploying code end-to-end.
+- [[Kalshi]] — Regulated prediction market platform used as a forecasting accuracy benchmark.
+- [[Polymarket]] — Decentralized blockchain-based prediction market platform used as a forecasting accuracy benchmark.
+- [[Stripe]] — Payment processing infrastructure company integrating with Claude as an MCP connector.
+- [[Elicit]] — AI research company that developed Ash PL, a custom DSL for trustworthy scientific research agents.
 
 ## Concepts
 
@@ -451,25 +546,21 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Research]] — Agentic capability enabling Claude to conduct deep research and analysis.
 - [[TokenOptimization]] — Strategies for reducing token usage including caching and efficient tool calls.
 - [[WebSearch]] — Real-time internet search capability integrated into Claude with cited sources.
-- [[Workspace]] — Resource management concept for multi-tenancy and access control.
 - [[AgenticCoding]] — Development paradigm using Claude Code to dissolve technical/non-technical boundaries.
 - [[Artifacts]] — Feature for creating interactive AI-powered applications through conversation.
+- [[NoCodeDevelopment]] — Paradigm for building applications without writing traditional code, accelerated by AI-powered tools.
 - [[AutomatedSecurityReview]] — Feature automating vulnerability detection in code.
-- [[CodeExecution]] — Claude's capability to execute and analyze code (evolved from analysis tool).
 - [[CodeSecurity]] — Security patterns and practices in development workflows with Claude.
 - [[CodeExecutionTool]] — API capability for running arbitrary code safely.
 - [[FilesAPI]] — Anthropic API for persistent file management across sessions.
 - [[Integrations]] — Feature enabling Claude to connect to external services and data sources.
 - [[MCPConnector]] — Connection pattern for Model Context Protocol servers via API.
 - [[MessagesAPI]] — Core Anthropic API endpoint for message-based interactions.
-- [[No-CodeDevelopment]] — Paradigm for building applications through conversation without writing code.
-- [[PromptCaching]] — Feature providing up to 90% cost savings by caching long prompts for reuse.
 - [[ReinforcementLearning]] — ML technique for improving model performance through feedback loops.
 - [[TestDrivenDevelopment]] — Development workflow transformed by Claude Code's test automation.
 - [[ToolIntegration]] — Pattern for integrating external tools via one-click authentication or desktop extensions.
 - [[UnitTesting]] — Automated test generation and execution through Claude Code.
 - [[VulnerabilityDetection]] — Pattern for identifying security flaws (SQL injection, XSS, SSRF, auth issues).
-- [[WebSearch]] — Real-time internet search capability integrated into Claude with citations.
 - [[BrowserUseAgent]] — AI agent pattern enabling perception and action within web browsers on behalf of users.
 - [[ClaudeMemory]] — Persistent cross-conversation memory in the Claude app for teams and individuals.
 - [[ComplianceAPI]] — Anthropic Enterprise feature providing programmatic real-time access to usage data for governance.
@@ -501,6 +592,52 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[LegalAI]] — Deploying Claude across the legal industry via MCP connectors, practice-area plugins, and playbook-driven skills.
 - [[LanguageServerProtocol]] — Symbol-level code navigation standard underlying Claude Code's large-codebase search.
 - [[AINativeStartup]] — Founder-as-orchestrator framing across the Idea/MVP/Launch/Scale startup lifecycle.
+- [[AccountPropensityScoring]] — AI-driven methodology for ranking sales accounts by conversion likelihood using Claude Cowork dimensional scoring rubrics.
+- [[AgenticAnalytics]] — Paradigm of using LLM-powered agents to automate self-service business analytics, addressing the long tail of questions without SQL knowledge.
+- [[AgenticSecurity]] — Practice of deploying governed, auditable AI agents into cybersecurity production workflows with CISOs' required controls and autonomy boundaries.
+- [[AgenticSurfaces]] — Interfaces and infrastructure layers through which developers build, deploy, and interact with AI agents, progressing from API contracts to managed platforms.
+- [[AgenticVaults]] — Secure credential management in Claude Managed Agents where real secrets are injected at the network boundary, never exposed to the model.
+- [[AgentIdentity]] — Access model where an AI agent has its own workspace-scoped credentials rather than acting on behalf of an individual user.
+- [[AgentOrchestration]] — Coordination of multiple AI agents and model tiers to break complex tasks into structured, reviewable phases with a planning step.
+- [[AIAcceleratedSalesWorkflows]] — Practice of using Claude Code and Claude Cowork to automate GTM tasks, built by domain experts with little or no coding experience.
+- [[AINativeEngineeringOrg]] — Engineering org that rewrites processes around the new bottleneck landscape where verification, code review, and security are scarce resources.
+- [[AISecurityGovernance]] — Practice of applying enterprise security, compliance, and data protection controls to AI tools as governed workplace applications.
+- [[AutomatedPatching]] — Using LLMs to generate, validate, and refine security patches for verified vulnerabilities with test-driven, adversarial validation.
+- [[ClaudeCodeOutputStyles]] — Files in .claude/output-styles/ carrying the highest instruction-following weight that never get compacted.
+- [[ClaudeCodeRules]] — Markdown files in .claude/rules/ with path-scoped YAML frontmatter that give Claude specific constraints or conventions.
+- [[ClaudeCodeSystemPrompt]] — Invocation method adding instructions to Claude's default system prompt via append-system-prompt flag for a single session.
+- [[ClaudeCoworkBestPractices]] — Framework for knowledge workers deciding what to delegate to Claude Cowork, centered on a Chat/Cowork/Code decision model.
+- [[CloudInference]] — Pattern of running AI inference within an organization's own cloud environment, with conversation history stored locally.
+- [[ConnectorObservability]] — Public beta dashboard for MCP connector developers to monitor error rates and latency across Claude product surfaces.
+- [[ContextAnxiety]] — Model behavior where an agent rushes work near the context window limit; observed on Claude Sonnet 4.5 and resolved on Opus 4.7.
+- [[CTEM]] — Continuous Threat Exposure Management framework running discovery, validation, prioritization, and remediation as one continuous workflow.
+- [[DesignSystem]] — Collection of reusable components and standards providing guardrails for AI-generated design output to stay on brand.
+- [[DesignToCodeHandoff]] — Bidirectional workflow between Claude Design and Claude Code where design exploration and implementation share context and state.
+- [[DoerVerifier]] — Agent harness pattern where one agent performs a task and a separate agent checks the work against explicit criteria.
+- [[DynamicWorkflows]] — Claude Code feature letting Claude write orchestration scripts to run tens to hundreds of parallel subagents with verification.
+- [[EnterpriseManagedAuthorization]] — MCP extension allowing admins to provision connectors centrally through IdP groups and roles, eliminating per-user authorization.
+- [[EvalDrivenDevelopment]] — Methodology where evaluation criteria are established before implementation and development is guided by measured benchmark results.
+- [[EvidenceChain]] — Verification methodology tracing every component of a generated output back to a documented source.
+- [[FinancialNarrative]] — Practice of maintaining a single coherent story behind financial numbers, with AI holding the integrity layer and humans focusing on judgment.
+- [[HTMLAsAgentOutputFormat]] — Using HTML instead of Markdown as the primary output medium for AI coding agents, prioritizing visual richness and interactivity.
+- [[HumanAgentTeams]] — Collaboration model where humans and AI agents work together in a shared workspace with humans setting strategy and agents executing.
+- [[JustInTimePlanning]] — Software planning methodology sizing planning effort to match AI-assisted development pace, shifting from roadmaps to PR discussions.
+- [[ModelHandoff]] — Pattern of routing user requests to the most appropriate AI model per step, escalating from on-device to cloud models seamlessly.
+- [[ModelTiering]] — Practice of matching AI model tiers to task complexity within an agent system for cost-appropriate reasoning.
+- [[MultiplayerAI]] — Paradigm where an AI agent sits in a shared channel alongside many people with workspace-scoped tools and context.
+- [[NorthStar]] — Ambitious goal set by humans that gives AI agents consistent direction and opportunities to proactively suggest new work.
+- [[ScheduledDeployments]] — Claude Managed Agents feature letting agents run on a cron schedule with no scheduler for the developer to build or host.
+- [[SpecFirstDevelopment]] — Methodology where detailed specifications are created before code, emphasizing upfront thinking for faster, more directed implementation.
+- [[SyntheticData]] — Artificially generated data mimicking real-world distributions for training ML models when real data is scarce.
+- [[SyntheticPopulation]] — Creation of artificial residents from real demographic data to simulate and forecast collective behavior at scale.
+- [[ThreatModeling]] — Process of defining a system's context, assets, entry points, and trust boundaries to guide security analysis scope.
+- [[Ultracode]] — Claude Code effort setting at xhigh that lets Claude decide automatically when to use dynamic workflows.
+- [[VirtualPatching]] — Security mitigation protecting systems from exploitation before a vendor patch is available via network-level controls.
+- [[VulnerabilityTriage]] — Process of deduplicating verified findings and ranking them by severity to prevent alert fatigue.
+- [[VulnerabilityVerification]] — Independent adversarial re-examination of discovered findings to filter out non-exploitable false positives.
+- [[WorkingInPublic]] — Practice of defaulting team communication to internally public channels so AI agents have broad context to work effectively.
+- [[WorkloadIdentityFederation]] — Authentication mechanism replacing static API keys with short-lived, scoped credentials from any OIDC-compliant identity provider.
+- [[ZeroTrustAIAgents]] — Security framework adapting Zero Trust principles to autonomous AI agent risks, addressing both the AI-accelerated threat landscape and agent-native attack surfaces.
 
 ## Syntheses
 

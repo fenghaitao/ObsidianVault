@@ -2,8 +2,8 @@
 title: "ClaudeCodeHooks"
 type: concept
 tags: [claude-code, hooks, automation, determinism]
-sources: [raw/03-transcripts/Claude/Claude Code 101/09 - Hooks in Claude Code.md, raw/01-articles/claude/2025-12-11 - Claude Code power user customization How to configure hooks.md]
-last_updated: 2026-07-04
+sources: [raw/03-transcripts/Claude/Claude Code 101/09 - Hooks in Claude Code.md, raw/01-articles/claude/2025-12-11 - Claude Code power user customization How to configure hooks.md, "raw/01-articles/claude/2026-06-03 - Lessons from building Claude Code How we use skills.md", "raw/01-articles/claude/2026-06-18 - Steering Claude Code CLAUDE.md files, skills, hooks, rules, subagents and more.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -18,6 +18,12 @@ Claude Code hooks are deterministic lifecycle event handlers that run commands a
 - **Configuration:** defined in settings.json with event, optional matcher, and command.
 - **Project-level:** `.claude/settings.json` can be checked into version control; use `CLAUDE_PROJECT_DIR` env var for project-relative script paths.
 - **Rule of thumb:** if something needs to happen every time without fail, use a hook, not a prompt.
+
+## Hooks as the Right Tool for Deterministic Behavior (June 2026)
+
+- **"Every time X, always do Y"** patterns in CLAUDE.md are an anti-pattern. If the behavior should happen reliably — like running prettier after every edit or posting to Slack on completion — use a hook in `settings.json` instead. The model choosing to run a formatter is different from the formatter running automatically.
+- **"Never do this"** instructions in CLAUDE.md are the wrong tool. When something absolutely must not happen, an instruction is insufficient — Claude will follow it most of the time but can fail under pressure, in long sessions, or due to prompt injection. A real guardrail needs to be deterministic: a `PreToolUse` hook can inspect a call and exit code 2 to block it. **Managed settings** go further: they are admin-deployed, cannot be overridden by local config, and are the only way to enforce a deterministic, organization-wide guardrail.
+- **Low context cost**: hooks are code that the harness runs rather than instructions loaded into context. The configuration or instruction lives outside the main context window. Most hooks don't save output to the main window unless explicitly configured to return it.
 
 ## The Eight Hook Events (December 2025)
 
@@ -53,6 +59,15 @@ Most teams think of hooks primarily as scripts that prevent Claude from doing so
 
 See [[summary-2026-05-14 - How Claude Code works in large codebases Best practices and where to start]].
 
+## Skill-Scoped Session Hooks (June 2026)
+
+Skills can include hooks that are only activated when the skill is called, and that only last for the duration of the session. This enables opinionated hooks you don't want running all the time but that are extremely useful in specific contexts:
+
+- **`/careful`** — blocks `rm -rf`, `DROP TABLE`, force-push, `kubectl delete` via PreToolUse matcher on Bash. Only wanted when touching production; having it always on would be disruptive.
+- **`/freeze`** — prevents any edits, useful when you want Claude to only read and analyze.
+
+Skill-scoped hooks are configured within the skill's own folder structure, using the same hook event types as global hooks. They activate only when the skill is loaded and deactivate when the session ends. See [[ClaudeCodeSkills]] and [[summary-2026-06-03 - Lessons from building Claude Code How we use skills]].
+
 ## Related
 
 - [[summary-09 - Hooks in Claude Code]] — source summary
@@ -61,3 +76,8 @@ See [[summary-2026-05-14 - How Claude Code works in large codebases Best practic
 - [[analysis-claude-code-extension-mechanisms]] — decision guide for choosing among extension mechanisms
 - [[summary-2025-12-11 - Claude Code power user customization How to configure hooks]] — advanced configuration guide expanding hooks from 5 to 8 event types
 - [[summary-2026-05-14 - How Claude Code works in large codebases Best practices and where to start]] — self-improving hooks (Stop/SessionStart) and maintaining hooks as models evolve
+- [[summary-2026-06-03 - Lessons from building Claude Code How we use skills]] — skill-scoped session hooks (/careful, /freeze)
+- [[ClaudeCodeSkills]] — skills system that can include scoped hooks
+- [[summary-2026-06-18 - Steering Claude Code CLAUDE.md files, skills, hooks, rules, subagents and more]] — steering framework: hooks for deterministic enforcement, not prompted instructions
+- [[ClaudeCodeRules]] — path-scoped rules as the middle ground between CLAUDE.md and hooks
+- [[ClaudeCodeOutputStyles]] — system-prompt-level authority for instructions that must carry weight

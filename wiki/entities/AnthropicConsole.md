@@ -81,3 +81,4 @@ The Console integrates with the broader [[Anthropic]] platform:
 - [[ChainOfThoughtReasoning]] — key technique in generated and improved prompts
 - [[XMLTags]] — structuring technique in generated templates
 - [[Kapa.ai]] — company that used prompt improver for Claude migration
+- [[WorkloadIdentityFederation]] — WIF guided setup flow is provided through the Claude Console

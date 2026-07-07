@@ -2,8 +2,8 @@
 title: "ClaudeCodeSkills"
 type: concept
 tags: [claude-code, skills, automation, context, agent-skills, api]
-sources: [raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md, raw/03-transcripts/Claude/Claude Code Skills/02 - Troubleshooting skills.md, raw/03-transcripts/Claude/Claude Code Skills/03 - Sharing skills.md, raw/03-transcripts/Claude/Claude Code Skills/04 - How skills compare to other Claude Code features.md, raw/03-transcripts/Claude/Claude Code Skills/05 - Configuration and multi-file skills.md, raw/03-transcripts/Claude/Claude Code Skills/06 - Creating your first skill.md, raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md, raw/01-articles/claude/2025-11-12 - Improving frontend design through Skills.md, raw/01-articles/claude/2025-11-19 - How to create Skills Key steps, limitations, and examples.md, "raw/01-articles/claude/2025-12-08 - How Anthropic&#39;s legal team cut review times from days to hours with Claude.md", raw/01-articles/claude/2025-12-18 - Skills for organizations, partners, the ecosystem.md, raw/01-articles/claude/2025-12-19 - Extending Claude’s capabilities with skills and MCP servers.md, raw/01-articles/claude/2026-01-22 - Building agents with Skills Equipping agents for specialized work.md, "raw/01-articles/claude/2026-01-26 - How Anthropic&#39;s Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code.md", raw/01-articles/claude/2026-01-29 - A complete guide to building skills for Claude.md, raw/01-articles/claude/2026-03-03 - Improving skill-creator Test, measure, and refine Agent Skills.md, raw/01-articles/claude/2026-03-05 - Skills explained How Skills compares to prompts, Projects, MCP, and subagents.md]
-last_updated: 2026-07-04
+sources: [raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md, raw/03-transcripts/Claude/Claude Code Skills/02 - Troubleshooting skills.md, raw/03-transcripts/Claude/Claude Code Skills/03 - Sharing skills.md, raw/03-transcripts/Claude/Claude Code Skills/04 - How skills compare to other Claude Code features.md, raw/03-transcripts/Claude/Claude Code Skills/05 - Configuration and multi-file skills.md, raw/03-transcripts/Claude/Claude Code Skills/06 - Creating your first skill.md, raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md, raw/01-articles/claude/2025-11-12 - Improving frontend design through Skills.md, raw/01-articles/claude/2025-11-19 - How to create Skills Key steps, limitations, and examples.md, "raw/01-articles/claude/2025-12-08 - How Anthropic&#39;s legal team cut review times from days to hours with Claude.md", raw/01-articles/claude/2025-12-18 - Skills for organizations, partners, the ecosystem.md, raw/01-articles/claude/2025-12-19 - Extending Claude’s capabilities with skills and MCP servers.md, raw/01-articles/claude/2026-01-22 - Building agents with Skills Equipping agents for specialized work.md, "raw/01-articles/claude/2026-01-26 - How Anthropic&#39;s Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code.md", raw/01-articles/claude/2026-01-29 - A complete guide to building skills for Claude.md, raw/01-articles/claude/2026-03-03 - Improving skill-creator Test, measure, and refine Agent Skills.md, raw/01-articles/claude/2026-03-05 - Skills explained How Skills compares to prompts, Projects, MCP, and subagents.md, "raw/01-articles/claude/2026-06-03 - Lessons from building Claude Code How we use skills.md", "raw/01-articles/claude/2026-06-03 - How Anthropic enables self-service data analytics with Claude.md", "raw/01-articles/claude/2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code.md", "raw/01-articles/claude/2026-06-18 - Steering Claude Code CLAUDE.md files, skills, hooks, rules, subagents and more.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -12,8 +12,11 @@ Claude Code skills are markdown-based instruction files that teach Claude specia
 
 ## Key Information
 
+- **Context efficiency**: only the skill name and description stay in context (~50 tokens); full content loads on demand when activated. On compaction, invoked skills are re-injected up to a total budget; oldest invoked skills drop first if many were used.
+- **Procedural fit** (June 2026): instructions that are procedural — deploy workflows, release checklists, review processes — belong in a skill rather than in CLAUDE.md. A 30-line procedure in CLAUDE.md should move to `.claude/skills/` where the body loads only when invoked.
+- **Skills vs. subagents** (June 2026): use a subagent when a side task like deep search or log analysis would clutter the main conversation with intermediate results you won't reference again. Use a skill when you want the procedure to play out inside the main thread so you can see and steer each step.
+
 - **Automatic activation:** Claude matches user requests against available skill descriptions and activates matching ones without manual invocation.
-- **Context efficiency:** only the skill name and description stay in context; full content loads on demand when activated.
 - **Storage locations:** personal skills in `~/.claude/skills` (follow you across projects); project skills in `.claude/skills/` (shared via version control).
 - **Comparison to other mechanisms:**
   - CLAUDE.md: loads into every conversation (persistent); skills load on demand (task-specific).
@@ -111,6 +114,21 @@ Anthropic's own legal team used Skills for two distinct purposes: **workflow con
 
 A non-technical Anthropic growth marketer built Skills for brand tone/voice, product accuracy, and Google Ads RSA (responsive search ad) best practices, invoked via a custom `/rsa` slash command that cross-references campaign data and keywords against those Skills before producing upload-ready ad copy. The underlying copy/examples baked into the Skills were written in partnership with the product marketing and copywriting teams, so human judgment sits upstream of the Skill rather than being replaced by it. See [[summary-2026-01-26 - How Anthropic&#39;s Growth Marketing team cut ad creation time from 30 minutes to 30 seconds with Claude Code]].
 
+## Case Study: GTM Sales Workflow Skills (June 2026)
+
+GTM product manager Jared Sires (no prior coding experience) built a set of skills that bookend the sales calendar and are distributed as a [[ClaudeCowork]] plugin adopted by ~80% of [[Anthropic]]'s sales organization:
+
+- **Daily brief**: Reads the calendar each morning, runs web searches on meeting participants, pulls CRM data via [[ModelContextProtocol|MCP servers]], and produces talking points before the first call — connecting to Google Calendar and CRM data.
+- **Daily recap**: Pulls from Google Docs and meeting notes at end of day to draft follow-up emails in Jared's voice, similar to the CLAFTS email drafting system.
+- **`/customer-context`**: Pulls a 360-degree account view across Salesforce, Intercom, Gong, Google Calendar, Gmail, Google Drive, and BigQuery in ~90 seconds.
+- **`/pipeline-management`**: Surfaces at-risk deals, forecasting guidance, and progression recommendations.
+
+When paired, daily brief and daily recap form an agent-like system managing daily sales tasks end-to-end. The plugin integrates with Cowork's scheduling feature so reps can queue skills to run automatically. New hires install the plugin on day one instead of spending weeks building their own workflows — the skills were specifically designed to accelerate ramp time.
+
+The skills are built on ~4,300 lines of [[ClaudeCode]]-generated code (CLAFTS), with hundreds of system prompt iterations to match Jared's writing style across different relationships (CLAFTS Tones). Sires is now experimenting with the [[ClaudeAgentSDK|Agent SDK]] to chain multi-step workflows where one skill's output feeds the next.
+
+See [[AIAcceleratedSalesWorkflows]] and [[summary-2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code]].
+
 ## Writing Effective Skills (November 2025)
 
 - **Only name and description drive triggering** — Claude semantically matches a request against the description; instructions only come into play once a skill has already activated. A strong description states specific capabilities, clear triggers, relevant context, and explicit boundaries (what the skill is *not* for).
@@ -126,6 +144,96 @@ Unguided, Claude's frontend output converges toward generic, "on-distribution" d
 ## Progressive Disclosure's Origin in Claude Code (April 2026)
 
 Before Agent Skills existed, Claude Code's context-gathering evolved from an internally pre-indexed RAG pipeline (fragile across environments, and it handed Claude context rather than letting it search) to a self-directed Grep tool for codebase search. Agent Skills later formalized that same self-directed, recursive file-reading pattern into the named **progressive disclosure** technique. See [[RetrievalAugmentedGeneration]] and [[summary-2026-04-10 - Seeing like an agent how we design tools in Claude Code]].
+
+## Nine Skill Categories (June 2026)
+
+After cataloging all internal skills at [[Anthropic]], the Claude Code team found they cluster into nine categories. The best skills fit cleanly into one; those that try to do too much straddle several and confuse the agent.
+
+### 1. Library / CLI Skills
+
+Explain how to correctly use a library, CLI, or SDK — internal or common libraries Claude sometimes struggles with. Often include a folder of reference code snippets and a list of gotchas.
+
+Examples: `billing-lib` (internal billing library edge cases and footguns), `internal-platform-cli` (every subcommand with examples), `sandbox-proxy` (egress gateway configuration and debugging).
+
+### 2. Verification Skills
+
+Describe how to test or verify that code is working. Often paired with Playwright, tmux, or other external tools. **Verification skills have had the most measurable impact on Claude's output quality internally** — worth dedicating an engineer for a week to making them excellent.
+
+Techniques: recording video of output, enforcing programmatic assertions on state at each step, including verification scripts in the skill.
+
+Examples: `signup-flow-driver` (headless browser signup → verify → onboarding with state-assertion hooks), `checkout-verifier` (Stripe test cards, invoice state verification), `tmux-cli-driver` (interactive CLI testing requiring a TTY).
+
+### 3. Data & Monitoring Skills
+
+Connect to data and monitoring stacks. Include libraries to fetch data with credentials, specific dashboard IDs, and instructions on common workflows.
+
+Examples: `funnel-query` (which events to join for signup → activation → paid), `cohort-compare` (retention/conversion comparison with statistical significance), `grafana` (datasource UIDs, cluster names, problem → dashboard lookup), `datadog` (field reference, service list, metric prefix conventions).
+
+### 4. Workflow Automation Skills
+
+Automate repetitive workflows into one command. Usually simple instructions but may have dependencies on other skills or MCPs. Saving previous results in log files helps the model stay consistent and reflect on previous executions.
+
+Examples: `standup-post` (aggregates ticket tracker, GitHub activity, prior Slack → formatted standup), `create-<ticket-system>-ticket` (enforces schema with valid enum values and required fields), `weekly-recap` (merged PRs + closed tickets + deploys → formatted recap).
+
+### 5. Scaffolding / Boilerplate Skills
+
+Generate framework boilerplates for a specific function in a codebase. Combine with composable scripts. Especially useful when scaffolding has natural-language requirements that can't be purely covered by code.
+
+Examples: `new-<framework>-workflow` (scaffolds new service/workflow/handler with org annotations), `new-migration` (migration file template plus common gotchas), `create-app` (new internal app with auth, logging, and deploy config pre-wired).
+
+### 6. Code Review Skills
+
+Enforce code quality inside an org and help review code. Can include deterministic scripts or tools for maximum robustness. May run automatically as hooks or inside GitHub Actions.
+
+Examples: `adversarial-review` (spawns fresh-eyes subagent to critique, implements fixes, iterates until findings degrade to nitpicks), `code-style` (enforces styles Claude does poorly by default), `testing-practices` (instructions on how to write tests and what to test).
+
+### 7. Deployment / CI Skills
+
+Help fetch, push, and deploy code. May reference other skills to collect data.
+
+Examples: `babysit-pr` (monitors PR → retries flaky CI → resolves merge conflicts → enables auto-merge), `deploy-<service>` (build → smoke test → gradual traffic rollout with error-rate comparison → auto-rollback on regression), `cherry-pick-prod` (isolated worktree → cherry-pick → conflict resolution → PR with template).
+
+### 8. Debugging / Triage Skills
+
+Take a symptom (Slack thread, alert, error signature), walk through a multi-tool investigation, and produce a structured report.
+
+Examples: `<service>-debugging` (maps symptoms → tools → query patterns for high-traffic services), `oncall-runner` (fetches alert → checks usual suspects → formats a finding), `log-correlator` (given a request ID, pulls matching logs from every system that might have touched it).
+
+### 9. Operations / Maintenance Skills
+
+Perform routine maintenance and operational procedures, some involving destructive actions that benefit from guardrails. Make it easier for engineers to follow best practices in critical operations.
+
+Examples: `<resource>-orphans` (finds orphaned pods/volumes → posts to Slack → soak period → user confirms → cascading cleanup), `dependency-management` (org's dependency approval workflow), `cost-investigation` ("why did our storage/egress bill spike" with specific buckets and query patterns).
+
+## Best Practices from Internal Use (June 2026)
+
+Drawing from Anthropic's experience with hundreds of internal skills:
+
+- **Don't restate what Claude already knows.** Claude can already code and read your codebase. A skill that restates defaults adds context without adding value. Focus on information that pushes Claude out of its normal way of thinking — like the [[summary-2025-11-12 - Improving frontend design through Skills|frontend design skill]], which was built by iterating with customers to improve Claude's design taste away from Inter fonts and purple gradients.
+- **Gotchas are the highest-signal content.** Build them up from common failure points Claude encounters. Examples: "The `subscriptions` table is append-only — the row you want is the one with the highest version, not the most recent `created_at`"; "This field is called `@request_id` in the API gateway and `trace_id` in the billing service — they're the same value"; "Staging returns 200 even when the Stripe webhook didn't actually process — check `payment_events` for the real state."
+- **The file system is progressive disclosure.** Think of the entire file system as context engineering. Split detailed function signatures into `references/api.md`, include template files in `assets/`, and tell Claude what files are available — it reads them at appropriate times.
+- **Give Claude flexibility.** Claude will generally try to stick to instructions. Being too specific can backfire given how reusable skills are. Provide the information needed but let Claude adapt to the situation.
+- **Use config.json for user-specific setup.** For skills that need context from the user (e.g., which Slack channel to post standup), store setup information in a `config.json` file in the skill directory. If config is not set up, the agent asks the user. For structured multiple-choice questions, instruct Claude to use the AskUserQuestion tool.
+- **The description is a trigger, not a summary.** When Claude Code starts a session, it builds a listing of every available skill with its description. This listing is what Claude scans to decide "is there a skill for this request?" The description field must describe *when to trigger this skill*, not summarize what it does.
+- **Skills can include memory.** Store data in append-only text logs, JSON files, or SQLite databases. A `standup-post` skill keeping a `standups.log` lets Claude read its own history and tell what's changed since yesterday. Use `${CLAUDE_PLUGIN_DATA}` for a stable persistent data directory.
+- **Give Claude code, not just instructions.** Scripts and libraries let Claude spend turns on composition — deciding what to do next — rather than reconstructing boilerplate. A `data-science` skill with helper functions to fetch data lets Claude compose them for complex analysis like "What happened on Tuesday?"
+- **Session-only hooks via skills.** Skills can include hooks activated only when the skill is called and lasting only for the session duration. Use for opinionated hooks you don't want running all the time: `/careful` blocks `rm -rf`, `DROP TABLE`, force-push, `kubectl delete` via PreToolUse matcher on Bash; `/freeze` prevents any edits.
+- **Sharing: repos for small teams, marketplace for scale.** For smaller teams, checking skills into repos (`.claude/skills`) works well, but every checked-in skill adds to model context. At scale, an internal plugin marketplace lets teams decide which skills to install. At Anthropic, the promotion path is organic: upload to a sandbox folder → share in Slack → once traction is gained → PR into the marketplace. Skills can depend on each other by referencing other skills by name — the model invokes them if installed.
+- **Usage analytics.** A PreToolUse hook can log skill usage within the company, revealing which skills are popular or undertriggering compared to expectations. See [[ClaudeCodeHooks]].
+- **Iterative improvement.** Most of Anthropic's best skills began as a few lines and a single gotcha, then improved because people kept adding to them as Claude hit new edge cases. The best way to understand skills is to get started, experiment, and see what works.
+
+See [[summary-2026-06-03 - Lessons from building Claude Code How we use skills]].
+
+## Case Study: Self-Service Data Analytics (June 2026)
+
+Anthropic's Data Science and Data Engineering team built an [[AgenticAnalytics|agentic analytics]] stack where skills are the single largest accuracy lever. Without skills, Claude's analytics accuracy did not exceed 21% on their evals; with skills, it consistently reaches 95%+ and up to 99% in certain domains. Key analytics skill patterns:
+
+- **Pairwise skills**: A thin **knowledge skill** acts as a top-level router, loading domain details on demand. It narrows the agent's search space from millions of fields to a few dozen curated reference files before any query is written, directly addressing retrieval failure. An **analysis skill** encodes the process a senior analyst would follow: clarify the question, find sources, run the query, and loop the result through adversarial review sub-agents.
+- **Reference docs for LLM retrieval**: Written to describe tables (grain, scope, exclusions), gotchas mechanics, and explicit routing triggers (e.g., "IF the question is about experiment lift... DO NOT use for raw event counts") without prescriptive recipes that go stale.
+- **Skill maintenance as engineering**: Skill markdown files are colocated in the same repo as transformation models. The PR that changes a model is the same PR that updates the doc describing it. A code-review hook flags any reporting-model change that does not touch a skill file. ~90% of data-model PRs include a skill change. Without active maintenance, accuracy drifted from ~95% to ~65% over one month.
+- **Adversarial review sub-agent**: A skill that aggressively challenges all underlying assumptions on a proposed answer. Increased accuracy by 6% at the cost of 32% more tokens and 72% higher latency.
+
+See [[summary-2026-06-03 - How Anthropic enables self-service data analytics with Claude]] for the full article and appendix with the warehouse skill skeleton.
 
 ## Related
 
@@ -171,3 +279,15 @@ Before Agent Skills existed, Claude Code's context-gathering evolved from an int
 - [[ClaudeManagedAgents]] — configurable via the claude-api skill's managed-agents-onboard subcommand
 - [[MacCossLab]] — customer example, "reference do not embed" skill-library principle
 - [[summary-2026-04-28 - Onboarding Claude Code like a new developer Lessons from 17 years of development]] — MacCoss Lab / Skyline skills case study
+- [[summary-2026-06-03 - Lessons from building Claude Code How we use skills]] — nine skill categories and internal best practices
+- [[ClaudeCodeHooks]] — hooks system, including skill-scoped session hooks
+- [[summary-2026-06-03 - How Anthropic enables self-service data analytics with Claude]] — analytics skills case study and warehouse skill skeleton
+- [[AgenticAnalytics]] — the overarching paradigm of LLM-driven self-service business analytics
+- [[AIAcceleratedSalesWorkflows]] — GTM sales skills pattern (daily brief, daily recap, /customer-context, /pipeline-management)
+- [[ClaudeCowork]] — the platform through which GTM sales skills are distributed as a plugin
+- [[summary-2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code]] — GTM sales skills case study
+- [[ClaudeAgentSDK]] — the SDK for chaining multi-step skill workflows
+- [[summary-2026-06-18 - Steering Claude Code CLAUDE.md files, skills, hooks, rules, subagents and more]] — steering framework: when skills vs. CLAUDE.md vs. hooks vs. subagents
+- [[ClaudeCodeRules]] — path-scoped rules as an alternative location for instructions
+- [[ClaudeCodeHooks]] — deterministic hooks for "always do Y" patterns
+- [[ClaudeCodeOutputStyles]] — system-prompt-level behavior modification with higher authority

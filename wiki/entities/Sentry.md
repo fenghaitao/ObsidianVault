@@ -2,8 +2,8 @@
 title: "Sentry"
 type: entity
 tags: [error-tracking, devops, monitoring, development-tool, mcp-server]
-sources: [raw/01-articles/claude/2025-06-18 - Remote MCP support in Claude Code.md]
-last_updated: 2026-06-28
+sources: [raw/01-articles/claude/2025-06-18 - Remote MCP support in Claude Code.md, "raw/01-articles/claude/2026-06-09 - New in Claude Managed Agents run agents on a schedule and store environment variables in vaults.md"]
+last_updated: 2026-07-07
 ---
 
 # Sentry
@@ -17,6 +17,7 @@ Sentry is an error tracking and monitoring platform that helps developers identi
 - **MCP server integration**: Through the Sentry MCP server, developers can access errors and issues directly within Claude Code for debugging without leaving the terminal
 - **Claude Managed Agents customer** (April 2026): named in Anthropic's public-beta announcement as a team shipping production agents with Claude Managed Agents.
 - **Skill-from-connector distribution (April 2026)**: Sentry is cited as one of the providers (with Canva and Notion) that publishes a companion skill alongside its MCP server in Claude's connector directory, pairing raw MCP access with an opinionated playbook for using it. See [[ModelContextProtocol]].
+- **Environment variable vaults (June 2026)**: Sentry's CLI is listed among the CLIs that work with [[AgenticVaults|environment variable vaults]], where the key is sent in an HTTP request and the vault injects it at the network boundary without the agent ever seeing it.
 
 ## Integration with Claude Code
 
@@ -33,3 +34,5 @@ The Sentry MCP server enables:
 - [[ClaudeManagedAgents]] — production platform Sentry uses
 - [[summary-2026-04-08 - Claude Managed Agents get to production 10x faster]] — customer mention
 - [[summary-2026-04-22 - Building agents that reach production systems with MCP]] — skill-from-connector distribution example
+- [[summary-2026-06-09 - New in Claude Managed Agents run agents on a schedule and store environment variables in vaults]] — environment variable vaults announcement listing Sentry CLI
+- [[AgenticVaults]] — the vault feature compatible with Sentry's CLI

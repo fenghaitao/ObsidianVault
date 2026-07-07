@@ -62,4 +62,4 @@ In the context of the [[AnthropicConsole]], Workspaces address the need for deve
 - [[Anthropic]] — the company providing Workspaces
 - [[AccessControl]] — permission and authorization management enabled by workspaces
 - [[APIKeyManagement]] — credential scoping within workspaces
-- [[summary-2024-09-10-Workspaces]] — announcement of Workspaces feature
+- [[summary-2024-09-10 - Workspaces in the Anthropic API Console]] — announcement of Workspaces feature

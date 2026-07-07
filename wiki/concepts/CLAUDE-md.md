@@ -2,7 +2,7 @@
 title: "CLAUDE-md"
 type: concept
 tags: [claude-code, memory, configuration, markdown]
-sources: [raw/03-transcripts/Claude/Claude Code 101/05 - The CLAUDE.md file.md, raw/01-articles/claude/2025-10-15 - How to scale agentic coding across your engineering organization.md, raw/01-articles/claude/2025-11-25 - Using CLAUDE.md files Customizing Claude Code for your codebase.md]
+sources: [raw/03-transcripts/Claude/Claude Code 101/05 - The CLAUDE.md file.md, raw/01-articles/claude/2025-10-15 - How to scale agentic coding across your engineering organization.md, raw/01-articles/claude/2025-11-25 - Using CLAUDE.md files Customizing Claude Code for your codebase.md, "raw/01-articles/claude/2026-06-18 - Steering Claude Code CLAUDE.md files, skills, hooks, rules, subagents and more.md"]
 last_updated: 2026-07-04
 ---
 
@@ -26,6 +26,21 @@ CLAUDE.md is a markdown configuration file that provides Claude Code with persis
 - **Standard workflows**: define what Claude should do before making changes for different task types (e.g., explore-plan-code-commit for features, [[TestDrivenDevelopment|TDD]] for algorithmic work) — the goal is to make Claude think before acting rather than jumping straight to a solution that misses requirements.
 - **Iterative growth**: use the `#` key during a session to add instructions you find yourself repeating; a CLAUDE.md that accumulates this way genuinely reflects team practice rather than a one-time speculative setup.
 - **Security**: never include secrets, API keys, credentials, or vulnerability details — CLAUDE.md becomes part of the system prompt and should be treated as documentation that could be shared publicly.
+
+## Two Types and Loading Behavior (June 2026)
+
+CLAUDE.md files come in two types with different loading behaviors:
+
+- **Always loaded**: A root CLAUDE.md file, either in a shared repository or saved locally for personal project-specific preferences. All these files load at session start and won't get lost or degraded across long sessions. When Claude Code compacts the conversation, it re-reads these files.
+- **On-demand**: CLAUDE.md files in subdirectories below the folder where the session was initialized (e.g., `app/api/CLAUDE.md`). These load only when Claude reads a file under that subdirectory, not at session start. They share the compaction behavior of path-scoped rules: gone until that subdirectory is touched again.
+
+## Size Management and Monorepo Guidance (June 2026)
+
+- **Keep root CLAUDE.md under 200 lines**: give it an owner and review changes like code. Think of it as giving Claude an overview of the codebase, or as an index pointing to other files where Claude can find more information as needed.
+- **Push team-specific conventions into path-scoped rules** and procedures into skills as the file grows, where they load only when relevant.
+- **Monorepos**: give each team's directory its own subdirectory CLAUDE.md so teams only load their own conventions. Developers can use the `claudeMdExcludes` setting to skip files from teams whose code they never touch.
+- **Organization-wide standards**: for policies that must apply to every repository (security policies, compliance requirements), a centrally managed CLAUDE.md can be deployed via MDM or config management and cannot be excluded by individual settings.
+- **User-level vs. project-level**: use local (user-level) files for personal preferences (e.g., always use semantic commit messages). Keep project-level files for preferences that are team-wide but specific to a given codebase.
 
 ## Complementary Context-Management Techniques (November 2025)
 
@@ -66,3 +81,7 @@ Brendan MacLean ([[MacCossLab|MacCoss Lab]]/Skyline) keeps all AI context — in
 - [[summary-2026-04-28 - Onboarding Claude Code like a new developer Lessons from 17 years of development]] — separate-repository context pattern case study
 - [[ContextEngineering]] — layered CLAUDE.md hierarchy for large-codebase navigation
 - [[summary-2026-05-14 - How Claude Code works in large codebases Best practices and where to start]] — layering, subdirectory initialization, and model-evolution maintenance cadence
+- [[summary-2026-06-18 - Steering Claude Code CLAUDE.md files, skills, hooks, rules, subagents and more]] — two types, 200-line limit, and monorepo guidance
+- [[ClaudeCodeRules]] — path-scoped rules as an alternative to subdirectory CLAUDE.md files
+- [[ClaudeCodeSkills]] — on-demand procedural alternative for instructions that don't belong in CLAUDE.md
+- [[ClaudeCodeHooks]] — deterministic enforcement for "always do Y" patterns that don't belong as CLAUDE.md instructions

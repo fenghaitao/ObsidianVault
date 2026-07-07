@@ -2,8 +2,8 @@
 title: "Slack"
 type: entity
 tags: [company, communication, search, summarization, claude, integration]
-sources: [raw/03-transcripts/Claude/How teams use Claude/04 - How Slack uses Claude for AI search and summaries.md, raw/01-articles/claude/2025-10-01 - Claude and Slack.md, raw/01-articles/claude/2025-12-08 - Claude Code and Slack.md]
-last_updated: 2026-07-04
+sources: [raw/03-transcripts/Claude/How teams use Claude/04 - How Slack uses Claude for AI search and summaries.md, raw/01-articles/claude/2025-10-01 - Claude and Slack.md, raw/01-articles/claude/2025-12-08 - Claude Code and Slack.md, raw/01-articles/claude/2026-06-18 - Centrally manage authorization for MCP connectors.md]
+last_updated: 2026-07-07
 ---
 
 ## Definition

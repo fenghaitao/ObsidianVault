@@ -2,8 +2,8 @@
 title: "CodeReview"
 type: concept
 tags: [claude-code, code-review, multi-agent, quality]
-sources: ["raw/01-articles/claude/2026-03-09 - Bringing Code Review to Claude Code.md"]
-last_updated: 2026-07-04
+sources: ["raw/01-articles/claude/2026-03-09 - Bringing Code Review to Claude Code.md", "raw/01-articles/claude/2026-06-03 - Running an AI-native engineering org.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -19,9 +19,16 @@ Code Review is a Claude Code feature (research preview, Team/Enterprise) that di
 - **Cost**: billed on token usage, averaging $15-25 per review depending on PR size/complexity; admins have spend/usage controls.
 - Available now as a research preview in beta for Team and Enterprise plans.
 
+### Usage on the Claude Code Team
+
+The [[ClaudeCode]] engineering team at [[Anthropic]] uses Code Review heavily as part of their [[AINativeEngineeringOrg|AI-native engineering org]] transformation. Claude handles style, linting, PR feedback requests, catching bugs before full commits, and adding tests. Human review is reserved for where it still matters: legal review, security-sensitive code and trust boundaries, and product sense/taste from PMs and designers. The right balance of trust vs. verify keeps changing as models improve. See [[summary-2026-06-03 - Running an AI-native engineering org]].
+
 ## Related
 
 - [[ClaudeCode]] — the product Code Review extends
 - [[AutomatedSecurityReview]] — the earlier, lighter-weight security-focused review this complements (not replaces)
 - [[MultiAgentSystem]] — the underlying multi-agent architecture
 - [[summary-2026-03-09 - Bringing Code Review to Claude Code]] — source article
+- [[summary-2026-06-03 - Running an AI-native engineering org]] — blog article describing team usage patterns
+- [[AINativeEngineeringOrg]] — organizational context for automated review adoption
+- [[FionaFung]] — engineering leader describing the human-in-the-loop boundaries

@@ -2,13 +2,25 @@
 title: "Agentic Coding"
 type: concept
 tags: [ai-development, automation, workflow, autonomous-systems]
-sources: ["raw/01-articles/claude/2025-10-15 - How to scale agentic coding across your engineering organization.md", "raw/01-articles/claude/2025-10-30 - Introduction to agentic coding.md", "raw/01-articles/claude/2025-12-01 - What are the key benefits of transitioning to agentic coding for software development.md", "raw/01-articles/claude/2026-01-21 - Eight trends defining how software gets built in 2026.md"]
-last_updated: 2026-07-04
+sources: ["raw/01-articles/claude/2025-10-15 - How to scale agentic coding across your engineering organization.md", "raw/01-articles/claude/2025-10-30 - Introduction to agentic coding.md", "raw/01-articles/claude/2025-12-01 - What are the key benefits of transitioning to agentic coding for software development.md", "raw/01-articles/claude/2026-01-21 - Eight trends defining how software gets built in 2026.md", "raw/01-articles/claude/2026-05-26 - Code w Claude London 2026 Rethinking how we build.md", "raw/01-articles/claude/2026-05-27 - How CodeRabbit used Claude to build an agent orchestration system.md", "raw/01-articles/claude/2026-05-28 - Introducing dynamic workflows in Claude Code.md", "raw/01-articles/claude/2026-06-03 - Running an AI-native engineering org.md"]
+last_updated: 2026-07-07
 ---
 
 # Agentic Coding
 
 Agentic coding refers to the use of autonomous AI agents to assist with software development tasks. These agents can analyze code, generate solutions, run tests, and iterate independently, with human developers providing guidance and validation.
+
+## Collapsing the Idea-to-Execution Gap
+
+At Code w/ Claude London 2026, [[BorisCherny]] (Head of [[ClaudeCode]]) described agentic coding as collapsing the distance between "I have an idea" and "it runs" — the same magic he felt as a student writing TI-83 programs to solve math homework. Over decades, compilers, typecheckers, and build systems pushed that distance further out. With AI agents, it's collapsing again: you describe a problem, and the program shows up. "It's the calculator feeling, except the calculator can write a distributed system." See [[summary-2026-05-26 - Code w Claude London 2026 Rethinking how we build]].
+
+## The Planning-First Imperative
+
+As AI coding tools collapse the time between idea and prototype, a new failure mode has emerged: code that compiles and passes tests but doesn't solve the intended problem. [[CodeRabbit]]'s analysis of AI-generated pull requests found this to be the most frequent failure mode, caused by developers omitting requirements they consider obvious and coding agents filling gaps with plausible but incorrect assumptions.
+
+CodeRabbit's response was an [[AgentOrchestration|agent orchestration]] layer that inserts a structured planning phase before any code is generated. The system coordinates multiple [[Claude]] model tiers (using [[ModelTiering]]) to analyze requirements, surface hidden assumptions, and produce a collaborative Product Requirements Document (PRD) that stakeholders review before implementation begins. The core thesis: planning quality determines output quality, and the cheaper code generation gets, the more expensive it becomes to move in the wrong direction.
+
+This planning-first approach complements [[ClaudeCode]]'s built-in [[ExplorePlanCodeCommit|Plan Mode]] — CodeRabbit's orchestration sits above it as a higher-level planning phase that makes everything explicit and surfaces all assumptions before Claude Code begins its own planning and implementation. See [[summary-2026-05-27 - How CodeRabbit used Claude to build an agent orchestration system]].
 
 ## Pattern
 
@@ -72,6 +84,19 @@ Technical configuration alone doesn't drive adoption in large engineering organi
 
 See [[summary-2026-05-14 - How Claude Code works in large codebases Best practices and where to start]].
 
+## Bottleneck Shift and AI-Native Orgs (June 2026)
+
+As agentic coding becomes the default way of working, the bottleneck shifts from coding throughput to verification, code review, and security. On the [[ClaudeCode]] engineering team at [[Anthropic]], coding, testing, and refactoring rarely slow work down anymore — but the questions "Is this code correct?" and "How is it maintained?" became the new constraints. This forces a broader organizational transformation toward an [[AINativeEngineeringOrg|AI-native engineering org]]:
+
+- **Planning** shifts from long-range roadmaps to [[JustInTimePlanning|JIT planning]], with technical debates settled by generating competing PRs rather than whiteboarding ("building is cheap, arguing is expensive").
+- **Code ownership** is redefined: since all PRs are AI-assisted, "who made this change" is replaced by "what do you actually need to know?" — and the first step is asking Claude.
+- **Human review** is reserved for where it still matters: legal review, security-sensitive code, and product taste — while [[CodeReview|automated review]] handles style, linting, bug fixes, and test authoring.
+- **Team composition** shifts from raw throughput to two profiles: creative builders with product sense, and engineers with deep systems expertise.
+- **Roles blur**: PMs code, engineers do design and content, nontraditional coders do engineering.
+- **Metrics** track onboarding ramp-up time, PR cycle time, and share of Claude-assisted commits — alongside product outcomes, not just throughput.
+
+See [[summary-2026-06-03 - Running an AI-native engineering org]].
+
 ## Related
 
 - [[ClaudeCode]] — Primary agentic coding tool
@@ -91,3 +116,16 @@ See [[summary-2026-05-14 - How Claude Code works in large codebases Best practic
 - [[summary-2026-01-21 - Eight trends defining how software gets built in 2026]] — 2026 Agentic Coding Trends Report teaser
 - [[summary-2026-05-14 - How Claude Code works in large codebases Best practices and where to start]] — organizational ownership models (DRI, agent manager role, cross-functional governance) for scaling Claude Code adoption
 - [[Zoox]] — customer providing feedback on organizational rollout practices
+- [[BorisCherny]] — Head of Claude Code, articulated the "collapsing distance" framing at London 2026
+- [[summary-2026-05-26 - Code w Claude London 2026 Rethinking how we build]] — London 2026 event recap with keynote framing
+- [[DynamicWorkflows]] — massively parallel subagent orchestration pushing agentic coding to quarter-scale tasks
+- [[summary-2026-05-28 - Introducing dynamic workflows in Claude Code]] — dynamic workflows announcement
+- [[CodeRabbit]] — built a planning-first orchestration layer to prevent assumption-driven failures
+- [[AgentOrchestration]] — the orchestration pattern that inserts structured planning before code generation
+- [[ModelTiering]] — matching model tiers to task complexity for cost and quality optimization
+- [[summary-2026-05-27 - How CodeRabbit used Claude to build an agent orchestration system]] — source article on planning-first agentic coding
+- [[AINativeEngineeringOrg]] — organizational design for engineering teams where agentic coding is the default
+- [[JustInTimePlanning]] — planning methodology for AI-native teams
+- [[summary-2026-06-03 - Running an AI-native engineering org]] — blog article on the Claude Code team's org transformation
+- [[summary-19 - The expanding toolkit]] — source summary
+- [[summary-03 - Agent Battle： Mine the most diamonds in 45 minutes]] — source summary

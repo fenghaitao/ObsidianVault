@@ -12,7 +12,7 @@ Government AI refers to the adoption and integration of artificial intelligence 
 
 ## Key Challenges
 
-- **Regulatory Compliance**: Federal and defense agencies must maintain [[FedRAMP]] High or [[DoD_IL2]] compliance when adopting AI services.
+- **Regulatory Compliance**: Federal and defense agencies must maintain [[FedRAMP]] High or [[DoD-IL2]] compliance when adopting AI services.
 - **Security Standards**: AI systems must meet stringent security requirements for handling sensitive unclassified and controlled information.
 - **Infrastructure Management**: Many agencies lack the infrastructure to deploy and manage frontier AI models securely.
 - **Balancing Innovation and Security**: Organizations must adopt advanced AI capabilities while maintaining security posture.
@@ -27,8 +27,8 @@ Government AI refers to the adoption and integration of artificial intelligence 
 - Access to complete Claude model family including [[Claude3.7Sonnet]].
 
 ### Defense Organizations
-- [[DoD_IL2]] authorization enables defense contractors and agencies to use [[Claude]] with non-controlled unclassified information.
-- Future [[DoD_IL2#Future IL5 Compatibility|IL5 compatibility]] will expand access to more sensitive defense workloads.
+- [[DoD-IL2]] authorization enables defense contractors and agencies to use [[Claude]] with non-controlled unclassified information.
+- Future [[DoD-IL2#Future IL5 Compatibility|IL5 compatibility]] will expand access to more sensitive defense workloads.
 
 ## Benefits of Managed Cloud AI
 

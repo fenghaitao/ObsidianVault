@@ -2,8 +2,8 @@
 title: "Asana"
 type: entity
 tags: [company, work-management, ai-teammates, managed-agents, enterprise]
-sources: [raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/12 - Building with Claude Managed Agents and Asana AI teammates.md, raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md]
-last_updated: 2026-06-23
+sources: [raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/12 - Building with Claude Managed Agents and Asana AI teammates.md, raw/01-articles/claude/2025-05-22 - New capabilities for building agents on the Anthropic API.md, raw/01-articles/claude/2026-06-18 - Centrally manage authorization for MCP connectors.md]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -17,6 +17,7 @@ Asana is a work management platform that integrates with [[Anthropic]] to power 
 - **Enterprise memory:** Historical decisions, approvals, and interactions tracked and provided to agents with security and auditability.
 - **Work graph:** 17 years of structured context (mission → goals → portfolios → projects → tasks with approvals).
 - **Remote MCP server:** Asana offers a remote [[ModelContextProtocol|MCP server]] that Claude agents can access through the [[Anthropic]] API [[MCPConnector|MCP connector]], enabling API-based agents to reference tasks, assign work, and integrate with Asana workflows.
+- **Enterprise-Managed Authorization:** Asana was among the MCP providers supporting [[EnterpriseManagedAuthorization|EMA]] at its June 2026 launch, enabling admins to provision the Asana connector centrally through [[Okta]] groups and roles.
 
 ## Related
 

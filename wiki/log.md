@@ -263,3 +263,131 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-07-05] ingest | Claude blog batch 22 (5 posts)
 - **Changes**: created 5 source summaries (large-codebases best practices, founder's playbook teaser, legal industry deployment, Managed Agents dreaming/outcomes/multiagent orchestration, Managed Agents self-hosted sandboxes/MCP tunnels); created concepts [[LanguageServerProtocol]], [[AINativeStartup]]; created entities [[Zoox]], [[FTIConsulting]], [[Relativity]], [[Daytona]], [[Modal]], [[Vercel]], [[Amplitude]], [[Clay]], [[Rogo]], [[Spiral]], [[Every]]; updated [[ClaudeCode]] (large-codebases best practices), [[AgenticCoding]], [[ContextEngineering]], [[CLAUDE-md]], [[ClaudeCodeHooks]], [[ClaudeCodeSubagents]], [[ClaudeCodePlugins]], [[ModelContextProtocol]] (MCP tunnels section), [[RetrievalAugmentedGeneration]] (large-codebase staleness), [[Anthropic]], [[Claude]] (founder's playbook), [[LegalAI]] (GC Report stat), [[ClaudeManagedAgents]] (dreaming/outcomes/multiagent orchestration public beta, self-hosted sandboxes, MCP tunnels), [[MultiAgentSystem]] (multiagent orchestration public-beta detail), [[AgenticMemory]] (dreaming spec), [[Harvey]], [[Netflix]], [[Sandboxing]], [[Cloudflare]]; updated [[Wisedocs]] with outcomes customer detail (see Conflicts); updated [[index.md]].
 - **Conflicts**: one flagged and resolved — [[Wisedocs]] had two speed-improvement figures from different features (30% faster verification via memory, Apr 2026 source; 50% faster review via outcomes, May 2026 source). User chose to record both as complementary (distinct features/metrics), not a contradiction; no `## Knowledge Conflicts` section added.
+
+## [2026-07-07] ingest | How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book
+- **Changes**: created [[summary-2026-05-20 - How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Using Claude Code: The unreasonable effectiveness of HTML
+- **Changes**: created [[summary-2026-05-20 - Using Claude Code The unreasonable effectiveness of HTML]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Claude now works with more security and compliance tools
+- **Changes**: created [[summary-2026-05-21 - Claude now works with more security and compliance tools]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | How our partners are putting Opus to work for cybersecurity
+- **Changes**: created [[summary-2026-05-21 - How our partners are putting Opus to work for cybersecurity]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | How Anthropic's finance team uses Claude to shape the narrative behind the numbers
+- **Changes**: created [[summary-2026-05-22 - How Anthropic's finance team uses Claude to shape the narrative behind the numbers]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Code w/ Claude London 2026: Rethinking how we build
+- **Changes**: created [[summary-2026-05-26 - Code w Claude London 2026 Rethinking how we build]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | How CodeRabbit used Claude to build an agent orchestration system
+- **Changes**: created [[summary-2026-05-27 - How CodeRabbit used Claude to build an agent orchestration system]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Using LLMs to secure source code
+- **Changes**: created [[summary-2026-05-27 - Using LLMs to secure source code]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Zero Trust for AI agents
+- **Changes**: created [[summary-2026-05-27 - Zero Trust for AI agents]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Introducing dynamic workflows in Claude Code
+- **Changes**: created [[summary-2026-05-28 - Introducing dynamic workflows in Claude Code]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | A harness for every task: dynamic workflows in Claude Code
+- **Changes**: created [[summary-2026-06-02 - A harness for every task dynamic workflows in Claude Code]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Best practices for getting started with Claude Cowork
+- **Changes**: created [[summary-2026-06-03 - Best practices for getting started with Claude Cowork]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | How Anthropic enables self-service data analytics with Claude
+- **Changes**: created [[summary-2026-06-03 - How Anthropic enables self-service data analytics with Claude]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Lessons from building Claude Code: How we use skills
+- **Changes**: created [[summary-2026-06-03 - Lessons from building Claude Code How we use skills]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Running an AI-native engineering org
+- **Changes**: created [[summary-2026-06-03 - Running an AI-native engineering org]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | How one Anthropic seller rebuilt his team's workflows with Claude Code
+- **Changes**: created [[summary-2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | The Claude Cowork product guide
+- **Changes**: created [[summary-2026-06-05 - The Claude Cowork product guide]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Building intelligent apps for Apple platforms with Claude in the Foundation Models framework
+- **Changes**: created [[summary-2026-06-08 - Building intelligent apps for Apple platforms with Claude in the Foundation Models framework]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Observability for developers building connectors
+- **Changes**: created [[summary-2026-06-08 - Observability for developers building connectors]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults
+- **Changes**: created [[summary-2026-06-09 - New in Claude Managed Agents run agents on a schedule and store environment variables in vaults]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | The evolution of agentic surfaces: building with Claude Managed Agents
+- **Changes**: created [[summary-2026-06-10 - The evolution of agentic surfaces building with Claude Managed Agents]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Meet the winners of the Built with Opus 4.7 Claude Code hackathon
+- **Changes**: created [[summary-2026-06-15 - Meet the winners of the Built with Opus 4.7 Claude Code hackathon]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Claude Design now stays on brand for daily work
+- **Changes**: created [[summary-2026-06-17 - Claude Design now stays on brand for daily work]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Meet the winners of our Claude Opus 4.8 Build Day hackathon
+- **Changes**: created [[summary-2026-06-17 - Meet the winners of our Claude Opus 4.8 Build Day hackathon]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Secure access to the Claude Platform with Workload Identity Federation
+- **Changes**: created [[summary-2026-06-17 - Secure access to the Claude Platform with Workload Identity Federation]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Centrally manage authorization for MCP connectors
+- **Changes**: created [[summary-2026-06-18 - Centrally manage authorization for MCP connectors]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Claude Code now supports artifacts
+- **Changes**: created [[summary-2026-06-18 - Claude Code now supports artifacts]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more
+- **Changes**: created [[summary-2026-06-18 - Steering Claude Code CLAUDE.md files, skills, hooks, rules, subagents and more]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry
+- **Changes**: created [[summary-2026-06-22 - The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Agent identity in Claude Tag: a new access model for autonomous, team-wide AI
+- **Changes**: created [[summary-2026-06-24 - Agent identity in Claude Tag a new access model for autonomous, team-wide AI]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] ingest | Building effective human-agent teams
+- **Changes**: created [[summary-2026-06-24 - Building effective human-agent teams]], created/updated entity and concept pages
+- **Conflicts**: none
+
+## [2026-07-07] lint | fixed 44 dead links, 25 orphans, 4 conflicts, 2 stale index entries
+- **Changes**: removed stale index entries ([[No-CodeDevelopment]] slug, [[Page Name]] template artifact); fixed DoD_IL2 -> DoD-IL2 wikilinks across 6 files; fixed apostrophe encoding (&#39;) in wikilinks across 4 files; created 15 missing entity pages ([[ClaudeOpus4.8]], [[ClaudeAPI]], [[NVIDIAH100]], [[AppleRealityKit]], [[Devin]], [[Kalshi]], [[Polymarket]], [[Stripe]], [[Elicit]], [[TejasPrabhune]], [[HollyTang]], [[AustinBurgess]], [[JakeStevens]], [[MauricioPereira]], [[TanmayiPriyaDasari]]); created [[NoCodeDevelopment]] concept stub; fixed summary slug mismatches (summary-anthropic-cybersecurity, summary-2024-09-10-Workspaces); added backlinks to 23 orphan source summaries from related entity/concept pages; resolved 4 knowledge conflicts on [[PromptInjection]], [[MultiAgentSystem]], [[ComplianceAPI]], [[ClaudeCodeSubagents]]
+- **Conflicts**: resolved all 4 (activation scanning vs real-time classifiers; sequential pipeline guidance; Compliance API data streams; subagent sequential pipelines)

@@ -67,7 +67,7 @@ Claude 3.7 Sonnet succeeds [[Claude3.5Sonnet]] with enhanced capabilities across
 - [[GoogleCloud]] — cloud provider offering Claude 3.7 Sonnet
 - [[VertexAI]] — Vertex AI platform hosting this model
 - [[FedRAMP]] — federal compliance standard
-- [[DoD_IL2]] — defense compliance standard
+- [[DoD-IL2]] — defense compliance standard
 - [[PromptEngineering]] — discipline enhanced by this model's capabilities
 - [[AdaptiveThinking]] — complementary thinking capability
 - [[Cognition]] — enterprise customer leveraging this model

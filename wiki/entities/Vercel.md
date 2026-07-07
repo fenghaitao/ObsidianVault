@@ -2,7 +2,7 @@
 title: "Vercel"
 type: entity
 tags: [company, infrastructure, sandboxing, claude-managed-agents]
-sources: ["raw/01-articles/claude/2026-05-19 - New in Claude Managed Agents self-hosted sandboxes and MCP tunnels.md"]
+sources: ["raw/01-articles/claude/2026-05-19 - New in Claude Managed Agents self-hosted sandboxes and MCP tunnels.md", "raw/01-articles/claude/2026-06-17 - Claude Design now stays on brand for daily work.md"]
 last_updated: 2026-07-05
 ---
 
@@ -24,3 +24,5 @@ Vercel is a managed sandbox/compute provider offered as a self-hosted sandbox op
 - [[Cloudflare]] — fellow self-hosted sandbox provider
 - [[Daytona]] — fellow self-hosted sandbox provider
 - [[Modal]] — fellow self-hosted sandbox provider
+- [[ClaudeDesign]] — exports to Vercel as a connector destination
+- [[summary-2026-06-17 - Claude Design now stays on brand for daily work]] — source listing Vercel as a connector

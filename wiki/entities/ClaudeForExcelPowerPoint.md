@@ -2,8 +2,8 @@
 title: "Claude for Excel and PowerPoint"
 type: entity
 tags: [claude, product, excel, powerpoint, office, finance]
-sources: ["raw/01-articles/claude/2026-02-05 - Advancing finance with Claude Opus 4.6.md", "raw/01-articles/claude/2026-03-11 - Advancing Claude for Excel and PowerPoint.md", "raw/01-articles/claude/2026-05-07 - Collaborate with Claude across Excel, PowerPoint, Word and Outlook.md"]
-last_updated: 2026-07-04
+sources: ["raw/01-articles/claude/2026-02-05 - Advancing finance with Claude Opus 4.6.md", "raw/01-articles/claude/2026-03-11 - Advancing Claude for Excel and PowerPoint.md", "raw/01-articles/claude/2026-05-07 - Collaborate with Claude across Excel, PowerPoint, Word and Outlook.md", "raw/01-articles/claude/2026-05-22 - How Anthropic's finance team uses Claude to shape the narrative behind the numbers.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -17,6 +17,7 @@ Claude for Excel, PowerPoint, Word, and Outlook are Office add-ins letting Claud
 - **Skills support**: any Skill already configured in Claude (personal or org-wide) works inside both add-ins automatically. Anthropic shipped a preloaded starter set of Excel (financial-analysis) and PowerPoint (presentation-layer) skills, also bundled in the Financial Analysis plugin (auto-installs, auto-updates).
 - **Instructions**: persistent app-level preferences (e.g., firm number formatting, one-line PowerPoint bullets, flagging hardcoded-assumption cells) applied automatically without re-prompting; Claude can help write/edit them.
 - **Excel capabilities**: pivot table editing, chart modification, conditional formatting, sorting/filtering, data validation, finance-grade formatting, auto-compaction for long conversations, drag-and-drop multi-file support.
+- **Model diagnostics (May 2026):** Claude for Excel has progressed from being unable to follow references across tabs to tracing balance sheets that won't balance through multiple tabs to find the root cause. When opening an unfamiliar model, users ask Claude to summarize the key drivers and flag structural issues before investing time in it -- a workflow used by Anthropic's own corporate finance team (Alice Fong).
 - **Cloud platform availability**: accessible via a Claude account or routed through an existing LLM gateway to Claude models on [[AmazonBedrock]], [[VertexAI|Google Cloud's Vertex AI]], or Microsoft Foundry, meeting existing enterprise compliance postures. Also powers Agent Mode natively inside Excel for [[Microsoft365Copilot]] customers.
 - Available in beta on Mac and Windows for all paid plans. *Update (April 10, 2026): Claude for Word beta added for Team and Enterprise plans.*
 - **General availability + Outlook beta (May 7, 2026)**: Claude for Excel, PowerPoint, and Word reached general availability; Claude for Outlook launched in public beta for all paid plans. One conversation now carries context across all four apps — e.g., triage an email in Outlook, draft a memo from it in Word, build supporting analysis in Excel, and turn it into a PowerPoint deck, with changes to an Excel assumption automatically flowing into linked PowerPoint charts and Word memo figures (as long as the files are open side by side). Conversations persist per file, so a sidebar session survives being closed and reopened, and can be resumed via keyboard or voice.
@@ -36,3 +37,5 @@ Claude for Excel, PowerPoint, Word, and Outlook are Office add-ins letting Claud
 - [[summary-2026-02-05 - Advancing finance with Claude Opus 4.6]] — original launch article
 - [[summary-2026-03-11 - Advancing Claude for Excel and PowerPoint]] — cross-app context and skills update
 - [[summary-2026-05-07 - Collaborate with Claude across Excel, PowerPoint, Word and Outlook]] — GA announcement plus Claude for Outlook beta
+- [[summary-2026-05-22 - How Anthropic's finance team uses Claude to shape the narrative behind the numbers]] — corporate finance team's model diagnostics and board deck workflow
+- [[FinancialNarrative]] — the concept of maintaining coherent financial storytelling using AI
