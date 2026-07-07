@@ -2,7 +2,7 @@
 title: "Lovable"
 type: entity
 tags: [company, app-building, democratization, no-code]
-sources: [raw/03-transcripts/Claude/The Problem Solvers/02 - The Problem Solvers ｜ Anton Osika at Lovable.md, "raw/01-articles/claude/2026-02-09 - Behind the model launch What customers discovered testing Claude Opus 4.6 early.md"]
+sources: [raw/03-transcripts/Claude/The Problem Solvers/02 - The Problem Solvers ｜ Anton Osika at Lovable.md, "raw/01-articles/claude/2026-02-09 - Behind the model launch What customers discovered testing Claude Opus 4.6 early.md", "raw/01-articles/claude/2026-06-17 - Claude Design now stays on brand for daily work.md"]
 last_updated: 2026-07-04
 ---
 
@@ -22,3 +22,5 @@ The models/evals team ran structured benchmarks while engineers booked "vibe che
 - [[Replit]] — related vibe-coding platform
 - [[Claude4.6Opus]] — model tested in early access
 - [[summary-2026-02-09 - Behind the model launch What customers discovered testing Claude Opus 4.6 early]] — source article
+- [[ClaudeDesign]] — exports to Lovable as a connector destination
+- [[summary-2026-06-17 - Claude Design now stays on brand for daily work]] — source listing Lovable as a connector

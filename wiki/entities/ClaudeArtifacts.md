@@ -2,8 +2,8 @@
 title: "Claude Artifacts"
 type: entity
 tags: [feature, interactive, deployment, sharing, AI-powered-apps]
-sources: [raw/01-articles/claude/2025-07-25 - Build and share AI-powered apps with Claude.md, raw/01-articles/claude/2025-06-25 - Turn ideas into interactive AI-powered apps.md]
-last_updated: 2026-07-04
+sources: [raw/01-articles/claude/2025-07-25 - Build and share AI-powered apps with Claude.md, raw/01-articles/claude/2025-06-25 - Turn ideas into interactive AI-powered apps.md, "raw/01-articles/claude/2026-06-18 - Claude Code now supports artifacts.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -32,12 +32,27 @@ A month before the July 25 "build and share" beta launch, Anthropic introduced a
 - Later updates tracked in the same announcement: iOS and Android app availability (July 21, 2025); Team and Enterprise plan availability (July 31, 2025); MCP and persistent storage support (October 21, 2025).
 - See [[Artifacts]] for the broader conceptual pattern this feature embodies.
 
+## Claude Code Artifacts (June 2026)
+
+In June 2026, the artifacts concept was extended to [[ClaudeCode]], where it takes a distinct form: live, interactive web pages built from a Claude Code session's full context -- codebase, connectors, and conversation -- that visualize work progress and auto-update as the session continues. Unlike Claude.ai artifacts (user-described interactive apps), Claude Code artifacts translate agent sessions into collaborative views.
+
+- **Use cases**: PR walkthroughs, system explainers, dashboards, incident timelines, and release checklists.
+- **Session-context construction**: Built from what already exists in the session without requiring separate data-source wiring or infrastructure.
+- **Auto-updating and versioning**: When Claude Code republishes an artifact, the open page refreshes in place at the same URL. Every publish is a new version with full version history; a gallery lets users browse all artifacts.
+- **Incident investigation**: An engineer kicks off an investigation before standup; Claude Code publishes a timeline with suspect commits and error-rate charts, and republishes updates as the investigation progresses -- giving the team a shared, context-rich view.
+- **Privacy**: Artifacts are private to the author by default; sharing is to authenticated org members only (cannot be made public). Admins control access via org-level toggle, role-based scoping, retention policies, and the compliance API.
+- **Availability**: Beta for Claude Team and Enterprise orgs, from the Claude Code CLI and desktop app; pages viewable in any browser.
+
+See [[summary-2026-06-18 - Claude Code now supports artifacts]].
+
 ## Related
 
 - [[Claude]] — the platform providing this feature
 - [[Anthropic]] — creator of Claude and Artifacts
+- [[ClaudeCode]] — product where the artifacts concept was extended (June 2026)
 - [[PromptEngineering]] — automatically handled by the platform
 - [[ToolUse]] — related capability for API integration
 - [[Artifacts]] — the broader concept of AI-generated interactive artifacts
 - [[summary-2025-07-25 - Build and share AI-powered apps with Claude]] — Feature announcement and documentation
 - [[summary-2025-06-25 - Turn ideas into interactive AI-powered apps]] — Artifacts space and interactivity announcement (one month earlier)
+- [[summary-2026-06-18 - Claude Code now supports artifacts]] — Claude Code artifacts announcement

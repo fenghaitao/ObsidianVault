@@ -2,8 +2,8 @@
 title: "AIAcceleratedOffense"
 type: concept
 tags: [security, cybersecurity, ai-safety, vulnerability-management, devsecops]
-sources: [raw/01-articles/claude/2026-04-10 - Preparing your security program for AI-accelerated offense.md]
-last_updated: 2026-07-04
+sources: [raw/01-articles/claude/2026-04-10 - Preparing your security program for AI-accelerated offense.md, raw/01-articles/claude/2026-05-27 - Zero Trust for AI agents.md]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -26,3 +26,9 @@ AI-accelerated offense is the phenomenon of frontier AI models collapsing the ti
 - [[CodeSecurity]] — broader development-workflow security practices this extends to org-wide program strategy
 - [[VulnerabilityDetection]] — vulnerability classes and detection patterns this playbook's scanning recommendations target
 - [[Anthropic]] — publisher of this guidance
+- [[ZeroTrustAIAgents]] — Zero Trust framework specifically adapted for agentic AI systems, extending the "design for breach" recommendation to agent deployments
+- [[summary-2026-05-27 - Using LLMs to secure source code]] — the six-step defensive workflow operationalizing this playbook
+- [[ThreatModeling]] — the first defensive step: defining trust boundaries
+- [[VulnerabilityVerification]] — adversarial verification to maintain precision at scale
+- [[VulnerabilityTriage]] — deduplication and severity ranking for the increased report volume
+- [[AutomatedPatching]] — TDD-based patch generation to close the fix loop

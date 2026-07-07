@@ -33,7 +33,7 @@ Jackie Bow, Technical Lead for Anthropic's Detection Platform Engineering team, 
 
 ## Related
 
-- [[summary-anthropic-cybersecurity]] — earlier, shorter source summary covering the same CLUE platform at an earlier stage (suppression engine, general workflow); this article is a deeper, later-dated treatment with named lead, sub-component split (Triage/Investigate), and quantified metrics
+- [[summary-02 - How Anthropic uses Claude in Cybersecurity]] — earlier, shorter source summary covering the same CLUE platform at an earlier stage
 - [[ClaudeCode]] — the tool CLUE was built with
 - [[Anthropic]] — the company; publisher and internal user
 - [[MultiAgentSystem]] — CLUE Investigate's orchestrator/sub-agent parallel-query architecture is a production instance of this pattern

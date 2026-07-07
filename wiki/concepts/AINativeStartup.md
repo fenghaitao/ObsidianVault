@@ -20,7 +20,7 @@ An AI-native startup is a company architected from day one around AI (specifical
 
 ## Related
 
-- [[summary-2026-05-14 - The founder's playbook Building an AI-native startup]] — source announcing the four-stage framework
+- [[summary-2026-05-14 - The founder&#39;s playbook Building an AI-native startup]] — source announcing the four-stage framework
 - [[Anthropic]] — publisher of the playbook
 - [[Claude]] — the tool the playbook is built around
 - [[AgenticCoding]] — related practice of using Claude Code to build software with AI doing most of the implementation work

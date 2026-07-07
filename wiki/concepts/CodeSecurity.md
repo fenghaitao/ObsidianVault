@@ -30,3 +30,9 @@ Code security, in the context of Claude, is the broader set of security patterns
 - [[AIAcceleratedOffense]] — organization-wide security-program playbook for the AI-accelerated-offense era
 - [[ClaudeSecurity]] — standalone repo-scanning product (public beta, April 2026)
 - [[summary-2026-04-30 - Claude Security is now in public beta]] — Claude Security public beta announcement
+- [[summary-2026-05-27 - Using LLMs to secure source code]] — six-step LLM-powered security scanning workflow
+- [[ThreatModeling]] — the first step: defining trust boundaries to reduce false positives
+- [[VulnerabilityVerification]] — independent adversarial verification to filter non-exploitable findings
+- [[VulnerabilityTriage]] — deduplication and severity ranking to prevent alert fatigue
+- [[AutomatedPatching]] — TDD-based, adversarially-validated security patch generation
+- [[WorkloadIdentityFederation]] — eliminates static API keys, reducing credential leak risk

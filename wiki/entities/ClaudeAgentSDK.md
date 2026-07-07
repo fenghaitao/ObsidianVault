@@ -2,8 +2,8 @@
 title: "ClaudeAgentSDK"
 type: entity
 tags: [tool, sdk, agent, anthropic, claude-code]
-sources: ["raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md", "raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md", "raw/01-articles/claude/2025-11-17 - How three YC startups built their companies with Claude Code.md"]
-last_updated: 2026-07-04
+sources: ["raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md", "raw/01-articles/claude/2025-10-16 - Introducing Agent Skills.md", "raw/01-articles/claude/2025-11-17 - How three YC startups built their companies with Claude Code.md", "raw/01-articles/claude/2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code.md", "raw/01-articles/claude/2026-06-10 - The evolution of agentic surfaces building with Claude Managed Agents.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -61,6 +61,14 @@ The Claude Agent SDK provides the same [[ClaudeCodeSkills|Agent Skills]] support
 - **[[HumanLayer]]**: built CodeLayer on the SDK's headless execution mode, running multiple Claude Code sessions in parallel via worktrees and remote cloud workers.
 - **[[Ambral]]**: built its core account-management research engine on the SDK, with dedicated [[ClaudeCodeSubagents|subagents]] for each customer-data type (Slack, meeting transcripts, product usage) — an architecture directly inspired by Claude Code's own subagent design.
 
+### GTM Sales Workflow Chaining (June 2026)
+
+Anthropic GTM product manager Jared Sires, after building CLAFTS and the Sales plugin with [[ClaudeCode]], is experimenting with the Agent SDK to chain multi-step workflows where the output of one Claude run feeds the input of the next — pushing beyond individual skill automation into agent territory. His trajectory: individual task automation (CLAFTS email drafts) → team-wide plugin distribution (Sales plugin via [[ClaudeCowork]]) → multi-step agent chains (Agent SDK experimentation). See [[AIAcceleratedSalesWorkflows]] and [[summary-2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code]].
+
+### Role in Agentic Surface Evolution (June 2026)
+
+The Claude Agent SDK represents the third stage in the evolution of [[AgenticSurfaces]]: after the simple API (tokens in/out) and Claude Code's internal harness, the SDK exposed that same harness machinery as a programmable toolkit. It gave developers a pre-tuned agentic loop, filesystem access, session persistence, and OpenTelemetry observability — eliminating the need to maintain a homegrown loop. For many teams, this was when agents became practical: the harness arrived already tuned for Claude and kept improving as Claude Code did. However, the SDK still required teams to handle production infrastructure themselves (hosting, scaling, credential management). This gap led to [[ClaudeManagedAgents]], the fourth stage, where Anthropic runs the infrastructure and the harness evolves alongside model intelligence automatically. See [[summary-2026-06-10 - The evolution of agentic surfaces building with Claude Managed Agents]].
+
 ### Best Practices
 
 - Start with agentic search; add semantic search only when speed is necessary.
@@ -86,3 +94,9 @@ The Claude Agent SDK provides the same [[ClaudeCodeSkills|Agent Skills]] support
 - [[HumanLayer]] — built CodeLayer on the SDK's headless execution
 - [[Ambral]] — built its research engine on the SDK with per-data-type subagents
 - [[summary-2025-11-17 - How three YC startups built their companies with Claude Code]] — source article
+- [[AIAcceleratedSalesWorkflows]] — GTM sales workflow chaining via the Agent SDK
+- [[ClaudeCowork]] — the platform skills are distributed through before SDK chaining
+- [[summary-2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code]] — GTM sales SDK experimentation case study
+- [[summary-2026-06-10 - The evolution of agentic surfaces building with Claude Managed Agents]] — article tracing the SDK's role in agentic surface evolution
+- [[AgenticSurfaces]] — the four-stage evolution from API to Managed Agents
+- [[ClaudeManagedAgents]] — the managed platform that evolved from the SDK's harness

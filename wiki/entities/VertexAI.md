@@ -21,7 +21,7 @@ Vertex AI is Google Cloud's unified AI and machine learning platform for buildin
 
 Vertex AI provides access to [[Claude]] models with government compliance features and advanced capabilities:
 - **FedRAMP High Authorization**: Federal agencies can use Claude through Vertex AI in compliance with FedRAMP High standards for sensitive unclassified data.
-- **DoD IL2 Support**: Defense contractors can use Claude with [[DoD_IL2]] compliance for non-controlled unclassified information.
+- **DoD IL2 Support**: Defense contractors can use Claude with [[DoD-IL2]] compliance for non-controlled unclassified information.
 - **Managed Infrastructure**: Fully serverless APIs eliminate the need for agencies to provision infrastructure.
 - **Complete Model Family**: Access to all [[Claude]] models including [[Claude3.7Sonnet]].
 - **Assured Workloads**: Enhanced security and compliance controls for government workloads.
@@ -42,7 +42,7 @@ Vertex AI provides access to [[Claude]] models with government compliance featur
 - [[Claude]] — AI models available on Vertex AI
 - [[Claude3.7Sonnet]] — Latest Claude model on Vertex AI
 - [[FedRAMP]] — Compliance standard for federal cloud services
-- [[DoD_IL2]] — Department of Defense Impact Level 2 compliance
+- [[DoD-IL2]] — Department of Defense Impact Level 2 compliance
 - [[GovernmentAI]] — Government and defense AI adoption
 - [[Anthropic]] — Provider of Claude models
 - [[Citations]] — API feature for citations available on Vertex AI

@@ -2,8 +2,8 @@
 title: "Claude Security"
 type: entity
 tags: [claude, product, security, enterprise, vulnerability-scanning, opus-4.7]
-sources: ["raw/01-articles/claude/2026-04-30 - Claude Security is now in public beta.md"]
-last_updated: 2026-07-04
+sources: ["raw/01-articles/claude/2026-04-30 - Claude Security is now in public beta.md", "raw/01-articles/claude/2026-05-21 - How our partners are putting Opus to work for cybersecurity.md", "raw/01-articles/claude/2026-05-27 - Zero Trust for AI agents.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -26,6 +26,7 @@ Claude Security (previously "Claude Code Security") is Anthropic's code-vulnerab
 ## Related
 
 - [[summary-2026-04-30 - Claude Security is now in public beta]] — source announcement
+- [[summary-2026-05-21 - How our partners are putting Opus to work for cybersecurity]] — partner results and offerings live on Opus
 - [[Claude4.7Opus]] — the model Claude Security is built on
 - [[ClaudeEnterprise]] — the plan Claude Security is exclusively available to at public-beta launch
 - [[ProjectGlasswing]] — Anthropic's adjacent partner-only offensive/defensive security initiative using Claude Mythos Preview
@@ -35,6 +36,23 @@ Claude Security (previously "Claude Code Security") is Anthropic's code-vulnerab
 - [[AIAcceleratedOffense]] — the security-program playbook motivating this release
 - [[ClaudeCode]] — hosts "Claude Code on the Web," where generated patches are opened to work through fixes
 - [[DoorDash]] — named customer with attributed quote
+- [[Wiz]] — named technology partner
 - [[PaloAltoNetworks]] — named technology partner
+- [[CrowdStrike]] — named technology partner
+- [[TrendMicro]] — named technology partner (TrendAI)
+- [[SentinelOne]] — named technology partner
+- [[Accenture]] — named services partner
+- [[BCG]] — named services partner
 - [[Deloitte]] — named services partner
+- [[Infosys]] — named services partner
 - [[PwC]] — named services partner
+- [[CTEM]] — framework underlying Deloitte's Claude Security offering
+- [[VirtualPatching]] — mitigation technique underlying Trend Micro's Claude Security offering
+- [[AgenticSecurity]] — governance paradigm underlying PwC's Claude Security offering
+- [[ZeroTrustAIAgents]] — Zero Trust framework for AI agents, recommending Claude Security as the get-started product
+- [[summary-2026-05-27 - Zero Trust for AI agents]] — source announcing the Zero Trust for AI agents framework
+- [[summary-2026-05-27 - Using LLMs to secure source code]] — related security scanning workflow guidance
+- [[ThreatModeling]] — the first step of the security scanning workflow Claude Security operationalizes
+- [[VulnerabilityVerification]] — the verification phase Claude Security's multi-stage validation pipeline implements
+- [[VulnerabilityTriage]] — the triage phase for ranked, deduplicated findings
+- [[AutomatedPatching]] — the patching phase for generated, validated fixes

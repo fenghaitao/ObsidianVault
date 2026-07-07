@@ -31,11 +31,11 @@ FedRAMP High is the highest standard authorization for federal cloud services, e
 
 ## Relationship to DoD IL2
 
-While FedRAMP High applies to federal civilian agencies, [[DoD_IL2|DoD Impact Level 2]] is the corresponding compliance standard for defense contractors and Department of Defense workloads.
+While FedRAMP High applies to federal civilian agencies, [[DoD-IL2|DoD Impact Level 2]] is the corresponding compliance standard for defense contractors and Department of Defense workloads.
 
 ## Future Directions
 
-Organizations are working toward higher compliance levels, such as [[DoD_IL2#Future IL5 Compatibility|IL5 compatibility]], which would enable use with more sensitive Department of Defense workloads.
+Organizations are working toward higher compliance levels, such as [[DoD-IL2#Future IL5 Compatibility|IL5 compatibility]], which would enable use with more sensitive Department of Defense workloads.
 
 ## Related
 
@@ -43,5 +43,5 @@ Organizations are working toward higher compliance levels, such as [[DoD_IL2#Fut
 - [[VertexAI]] — Google Cloud platform hosting FedRAMP High authorized Claude models
 - [[Anthropic]] — provider of FedRAMP High authorized Claude models
 - [[Claude]] — models authorized for FedRAMP High workloads
-- [[DoD_IL2]] — defense compliance standard parallel to FedRAMP
+- [[DoD-IL2]] — defense compliance standard parallel to FedRAMP
 - [[GovernmentAI]] — AI adoption in federal agencies with compliance requirements

@@ -2,8 +2,8 @@
 title: "FinancialServicesAI"
 type: concept
 tags: [financial-services, ai-agents, compliance, risk, fintech]
-sources: ["raw/01-articles/claude/2025-10-30 - Building AI agents for financial services.md"]
-last_updated: 2026-07-04
+sources: ["raw/01-articles/claude/2025-10-30 - Building AI agents for financial services.md", "raw/01-articles/claude/2026-05-22 - How Anthropic's finance team uses Claude to shape the narrative behind the numbers.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition

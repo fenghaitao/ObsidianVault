@@ -2,8 +2,8 @@
 title: "Claude Opus 4.7"
 type: entity
 tags: [claude, model, anthropic, llm, foundation-model, opus, agentic-coding]
-sources: [raw/01-articles/claude/2026-04-16 - Best practices for using Claude Opus 4.7 with Claude Code.md]
-last_updated: 2026-07-04
+sources: [raw/01-articles/claude/2026-04-16 - Best practices for using Claude Opus 4.7 with Claude Code.md, raw/01-articles/claude/2026-05-21 - How our partners are putting Opus to work for cybersecurity.md, raw/01-articles/claude/2026-05-27 - Using LLMs to secure source code.md, "raw/01-articles/claude/2026-06-15 - Meet the winners of the Built with Opus 4.7 Claude Code hackathon.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
@@ -19,6 +19,8 @@ Claude Opus 4.7 is Anthropic's strongest generally available model to date (as o
 - **No fixed-budget extended thinking**: unlike prior models, Opus 4.7 does not support [[ExtendedThinking|extended thinking]] with a fixed thinking-token budget. It instead uses [[AdaptiveThinking|adaptive thinking]] exclusively — thinking is optional at each step and the model decides when more thinking is warranted — and this adaptive thinking is less prone to overthinking than in the prior release.
 - **Default behavior changes vs. Opus 4.6** (relevant when migrating existing Claude Code setups): less default-verbose (response length calibrated to task complexity rather than uniformly long); calls tools less often while reasoning more per call; spawns fewer [[ClaudeCodeSubagents|subagents]] by default, requiring explicit prompting to fan out across files/independent items when parallelism is desired.
 - **[[ComputerUse|Computer use]] (May 2026)**: supports a higher resolution budget than the 4.6 family (2576px max long edge, ~3.75MP max pixel budget, vs. 1568px/~1.15MP) — recommended starting resolution 1080p. Its clicking precision is roughly on par with Sonnet 4.6 (closing a prior gap where Sonnet was mechanically more precise), while its larger resolution budget reduces how much screenshots need to be downscaled. On the OSWorld Verified benchmark, Opus 4.7 outperforms the entire 4.6 family at equivalent token/effort settings — at `low` effort it scores similarly to Sonnet 4.6 at `max` effort while using ~1/10th the tokens, making it the recommended choice for difficult computer-use tasks or high-resolution source images. See [[summary-2026-05-13 - Best practices for computer and browser use with Claude]].
+- **Visual schematic understanding**: Opus 4.7's spatial reasoning capabilities extend to understanding visual schematics and boardviews, demonstrated in the Built with Opus 4.7 hackathon where [[WrenchBoard]] used it to trace power paths on motherboard schematics, lighting up boardviews step by step. [[VirtualPuppetTheater]] leveraged its spatial reasoning for real-time webcam-based puppet animation and 3D prop generation.
+- **Hackathon adoption**: Opus 4.7 powered all six winning projects in Anthropic's Built with Opus 4.7 hackathon (June 2026), spanning medical training ([[Medkit]]), electronics repair ([[WrenchBoard]]), CS education ([[Maieutic]]), interactive play ([[VirtualPuppetTheater]]), home repair ([[MaestrIA]]), and factory maintenance ([[ARIA]]). See [[summary-2026-06-15 - Meet the winners of the Built with Opus 4.7 Claude Code hackathon]].
 
 ## Related
 
@@ -31,3 +33,17 @@ Claude Opus 4.7 is Anthropic's strongest generally available model to date (as o
 - [[ClaudeCodeSubagents]] — subagent delegation behavior changed in this release
 - [[summary-2026-05-13 - Best practices for computer and browser use with Claude]] — computer-use resolution limits and OSWorld Verified benchmarks
 - [[ComputerUse]] — capability with model-specific resolution/effort guidance for this model
+- [[summary-2026-05-21 - How our partners are putting Opus to work for cybersecurity]] — cybersecurity partner offerings powered by Opus
+- [[ClaudeSecurity]] — partner ecosystem built on this model
+- [[summary-2026-05-27 - Using LLMs to secure source code]] — security scanning workflow guidance using Opus
+- [[ThreatModeling]] — threat modeling with Opus as the first step of security scanning
+- [[VulnerabilityDetection]] — vulnerability discovery powered by Opus
+- [[VulnerabilityVerification]] — adversarial verification using Opus
+- [[AutomatedPatching]] — patch generation using Opus
+- [[WrenchBoard]] — hackathon project using visual schematic understanding
+- [[VirtualPuppetTheater]] — hackathon project using spatial reasoning for puppet animation
+- [[Medkit]] — hackathon project using Opus 4.7 for medical training simulation
+- [[Maieutic]] — hackathon project using Opus 4.7 for CS education
+- [[MaestrIA]] — hackathon project using Opus 4.7 for home repair diagnostics
+- [[ARIA]] — hackathon project using Opus 4.7 for industrial maintenance
+- [[summary-2026-06-15 - Meet the winners of the Built with Opus 4.7 Claude Code hackathon]] — hackathon source summary

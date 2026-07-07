@@ -39,3 +39,4 @@ This prevents scope creep and maintains quality when working with [[ClaudeCode]]
 - [[AgenticCoding]] — Development paradigm enabling TDD acceleration
 - [[Anthropic]] — Company implementing agentic TDD
 - [[summary-2025-10-15 - How to scale agentic coding across your engineering organization]] — TDD as structure for agentic coding tasks during org rollout
+- [[AutomatedPatching]] — TDD applied to security patch generation in LLM-powered vulnerability remediation workflows

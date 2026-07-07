@@ -3,19 +3,19 @@ title: "ComplianceAPI"
 type: concept
 tags: [compliance, governance, api, enterprise, audit]
 sources: ["raw/01-articles/claude/2025-08-20 - Claude Code and new admin controls for business plans.md"]
-last_updated: 2026-06-28
+last_updated: 2026-07-07
 ---
 
 ## Definition
 
-The Compliance API is an [[Anthropic]] feature for [[ClaudeEnterprise]] customers that provides programmatic, real-time access to Claude usage data and customer content — enabling organizations to build continuous monitoring, automated policy enforcement, and governance systems.
+The Compliance API is an [[Anthropic]] feature that provides programmatic, real-time access to Claude usage data — enabling organizations to build continuous monitoring, automated policy enforcement, and governance systems. It exposes two distinct data streams: an **Enterprise stream** (available since August 2025) that includes real-time access to customer conversation content, and a **Platform stream** (expanded March 2026) that provides activity and audit logs (login/logout, account settings, workspace/org config changes) and explicitly excludes inference activity — no user-model interaction content or model activity is logged.
 
 ## Key Information
 
 - Introduced August 2025 for Enterprise plan customers.
 - Replaces manual exports and periodic compliance reviews with always-on programmatic access.
 - **Core capabilities:**
-  - Real-time access to Claude usage data and customer content
+  - **Two data streams**: Enterprise stream provides real-time access to customer conversation content; Platform stream provides activity/audit logs (login/logout, account settings, workspace/org config changes) excluding inference activity
   - Integration with existing compliance dashboards
   - Automated flagging of potential policy issues
   - Selective data deletion for data retention management
@@ -28,10 +28,6 @@ The Compliance API is an [[Anthropic]] feature for [[ClaudeEnterprise]] customer
 - Organizations already using the Compliance API for Claude Enterprise can add their Claude API organization to the same parent organization to view combined activity in a single feed.
 - Full documentation is published on the Anthropic Trust Center (trust.anthropic.com).
 - **April 2026:** Claude Cowork's expanded OpenTelemetry events include a shared user account identifier, letting admins correlate OTel events (tool/connector calls, file activity, approval mode) with Compliance API records for unified auditing.
-
-## Knowledge Conflicts
-
-- The original announcement ([[summary-2025-08-20 - Claude Code and new admin controls for business plans]], Aug 2025) describes the Compliance API as providing "real-time access to Claude usage data and **customer content**." The Mar 2026 update ([[summary-2026-03-30 - Audit Claude Platform activity with the Compliance API]]) describes it as an activity/audit-log feed that explicitly **excludes inference activity** (no user-model interaction content or model activity logged) — only login/logout, account setting, and workspace/org config change events. Not clear whether this is a scope narrowing/correction or the two sources describe different sub-features. Flagged for review rather than silently reconciled.
 
 ## Use Cases
 

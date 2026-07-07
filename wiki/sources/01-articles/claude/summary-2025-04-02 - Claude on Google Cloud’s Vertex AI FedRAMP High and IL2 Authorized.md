@@ -36,7 +36,7 @@ Federal agency employees and contractors access Claude through:
 [[Anthropic]] — Cloud and government partnerships enabling enterprise adoption.
 [[GoogleCloud]] — Cloud platform delivering Claude models through Vertex AI.
 [[FedRAMP]] — Standardized security authorization framework for federal cloud services.
-[[DoD_IL2]] — Department of Defense Impact Level 2 compliance standard.
+[[DoD-IL2]] — Department of Defense Impact Level 2 compliance standard.
 [[VertexAI]] — Google Cloud's managed AI/ML platform.
 [[Claude3.7Sonnet]] — Latest Claude model supporting government workloads.
 [[GovernmentAI]] — Regulatory compliance and AI adoption in federal agencies.

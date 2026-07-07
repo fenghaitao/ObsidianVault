@@ -38,9 +38,13 @@ Two agents run an iterative cycle: one generates content, another evaluates it a
 
 Try the task as a single agent call first; if that meets the quality bar, stop there. If not, identify *where* it falls short — that indicates which pattern to reach for. Patterns are building blocks, not mutually exclusive templates: a sequential workflow can incorporate parallel processing at a bottleneck stage, or add an evaluator-optimizer loop as quality standards tighten, without requiring a full rewrite. Default to sequential; move to parallel only when latency is the bottleneck and tasks are independent; add evaluator-optimizer loops only when the quality gain is measurable.
 
+These three patterns describe **static workflows** — pre-built by a human developer using the Claude Agent SDK or `claude -p`. As of May 2026, [[DynamicWorkflows|dynamic workflows]] let Claude write and orchestrate its own harness on the fly, composing these and additional patterns (classifier routing, fan-out/synthesis, adversarial verification, tournaments, parallel competition, agentic loops, quarantine, model selection) into custom JavaScript harnesses tailored to the specific task — a runtime evolution of the static workflow paradigm.
+
 ## Related
 
 - [[MultiAgentSystem]] — the broader question of *when* to use multiple agents at all; this concept covers the *shape* once multiple agents are chosen
 - [[ClaudeCodeSubagents]] — Claude Code's subagent mechanism, usable to implement any of these three patterns
+- [[DynamicWorkflows]] — the runtime evolution of static workflows, letting Claude compose these and additional patterns dynamically
 - [[summary-2026-03-05 - Common workflow patterns for AI agents—and when to use them]] — source article
 - [[summary-2026-04-10 - Multi-agent coordination patterns Five approaches and when to use them]] — names the same evaluator-optimizer mechanic "generator-verifier" under a coordination-pattern taxonomy
+- [[summary-2026-06-02 - A harness for every task dynamic workflows in Claude Code]] — follow-up article cataloging dynamic workflow patterns

@@ -2,17 +2,20 @@
 title: "ClaudeCode"
 type: entity
 tags: [tool, coding-agent, anthropic]
-sources: ["raw/01-articles/claude/2026-02-20 - Bringing automated preview, review, and merge to Claude Code on desktop.md", "raw/01-articles/claude/2026-02-23 - How AI helps break the cost barrier to COBOL modernization.md", "raw/01-articles/claude/2026-05-11 - Agent view in Claude Code.md", raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/02 - Installing Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/03 - How Claude Code Works.md, raw/03-transcripts/Claude/Claude Code 101/04 - Your first Claude Code prompt.md, raw/03-transcripts/Claude/Claude Code 101/05 - The CLAUDE.md file.md, raw/03-transcripts/Claude/Claude Code 101/06 - The Explore → Plan → Code → Commit workflow in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/07 - Context Management in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/08 - MCP in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/09 - Hooks in Claude Code.md, raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md, raw/03-transcripts/Claude/Claude Code subagents/03 - What are subagents.md, raw/01-articles/claude/2025-06-18 - Remote MCP support in Claude Code.md, raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2025-07-24 - How Anthropic teams use Claude Code.md, raw/01-articles/claude/2025-08-20 - Claude Code and new admin controls for business plans.md, raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md, raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/13 - Running an AI-native engineering org.md, raw/01-articles/claude/2025-08-06 - Automate security reviews with Claude Code.md, raw/01-articles/claude/2025-10-06 - Optimize code performance quickly.md, raw/01-articles/claude/2025-10-08 - Beyond permission prompts making Claude Code more secure and autonomous.md, raw/01-articles/claude/2025-10-09 - Customize Claude Code with plugins.md, raw/01-articles/claude/2025-10-10 - Build responsive web layouts.md, raw/01-articles/claude/2025-10-15 - How to scale agentic coding across your engineering organization.md]
-last_updated: 2026-07-04
+sources: ["raw/01-articles/claude/2026-02-20 - Bringing automated preview, review, and merge to Claude Code on desktop.md", "raw/01-articles/claude/2026-02-23 - How AI helps break the cost barrier to COBOL modernization.md", "raw/01-articles/claude/2026-05-11 - Agent view in Claude Code.md", raw/03-transcripts/Claude/Claude Code 101/01 - What is Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/02 - Installing Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/03 - How Claude Code Works.md, raw/03-transcripts/Claude/Claude Code 101/04 - Your first Claude Code prompt.md, raw/03-transcripts/Claude/Claude Code 101/05 - The CLAUDE.md file.md, raw/03-transcripts/Claude/Claude Code 101/06 - The Explore → Plan → Code → Commit workflow in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/07 - Context Management in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/08 - MCP in Claude Code.md, raw/03-transcripts/Claude/Claude Code 101/09 - Hooks in Claude Code.md, raw/03-transcripts/Claude/Claude Code Skills/01 - What are skills.md, raw/03-transcripts/Claude/Claude Code subagents/03 - What are subagents.md, raw/01-articles/claude/2025-06-18 - Remote MCP support in Claude Code.md, raw/01-articles/claude/2025-05-07 - Introducing web search on the Anthropic API.md, raw/01-articles/claude/2025-07-24 - How Anthropic teams use Claude Code.md, raw/01-articles/claude/2025-08-20 - Claude Code and new admin controls for business plans.md, raw/01-articles/claude/2025-09-29 - Building agents with the Claude Agent SDK.md, raw/03-transcripts/Claude/Code with Claude 2026 - San Francisco/13 - Running an AI-native engineering org.md, raw/01-articles/claude/2025-08-06 - Automate security reviews with Claude Code.md, raw/01-articles/claude/2025-10-06 - Optimize code performance quickly.md, raw/01-articles/claude/2025-10-08 - Beyond permission prompts making Claude Code more secure and autonomous.md, raw/01-articles/claude/2025-10-09 - Customize Claude Code with plugins.md, raw/01-articles/claude/2025-10-10 - Build responsive web layouts.md, raw/01-articles/claude/2025-10-15 - How to scale agentic coding across your engineering organization.md, "raw/01-articles/claude/2026-05-20 - Using Claude Code The unreasonable effectiveness of HTML.md", "raw/01-articles/claude/2026-05-26 - Code w Claude London 2026 Rethinking how we build.md", "raw/01-articles/claude/2026-05-27 - How CodeRabbit used Claude to build an agent orchestration system.md", "raw/01-articles/claude/2026-05-28 - Introducing dynamic workflows in Claude Code.md", "raw/01-articles/claude/2026-06-02 - A harness for every task dynamic workflows in Claude Code.md", "raw/01-articles/claude/2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code.md", "raw/01-articles/claude/2026-06-03 - How Anthropic enables self-service data analytics with Claude.md", "raw/01-articles/claude/2026-06-17 - Claude Design now stays on brand for daily work.md", "raw/01-articles/claude/2026-06-15 - Meet the winners of the Built with Opus 4.7 Claude Code hackathon.md", "raw/01-articles/claude/2026-06-18 - Claude Code now supports artifacts.md", "raw/01-articles/claude/2026-06-22 - The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry.md"]
+last_updated: 2026-07-07
 ---
 
 ## Definition
 
 Claude Code is Anthropic's agentic coding tool that has direct access to a developer's files, terminal, and codebase. It can read code, edit files, run commands, and integrate with existing developer tools to accelerate software development.
 
+Claude Code is led by [[BorisCherny]], Head of Claude Code at [[Anthropic]], who delivered the keynote at Code w/ Claude London 2026 framing the tool's philosophy around collapsing the distance between "I have an idea" and "it runs" — returning to the immediacy of programming before compilers, typecheckers, and build systems added layers of complexity.
+
 ## Key Information
 
 - Available in the terminal, Visual Studio Code, JetBrains IDEs, the Claude desktop app, and the web (claude.ai/code).
+- As of June 2026, Claude Code on desktop is available through [[ClaudeDesktop]] on AWS, Google Cloud, and Microsoft Foundry, with inference running in the customer's own cloud environment and per-surface policy keys for phased organizational rollout.
 - Differs from Claude AI in that it has direct filesystem access rather than requiring copy-paste workflows.
 - Operates as an AI agent: an LLM in a real-time loop with access to tools, external services, and other agents.
 - By default asks for permission before running commands or modifying files.
@@ -47,8 +50,9 @@ Across [[Anthropic]], teams use [[ClaudeCode]] to:
 - **Rapid Prototyping** — Build [[React]] applications with [[TypeScript]] for visualizing [[ReinforcementLearning]] models; develop features autonomously through iterative testing
 - **Knowledge Consolidation** — Consolidate scattered technical documentation via [[MCP]] and CLAUDE.md files; create markdown runbooks and troubleshooting guides
 - **Custom Automation** — Build tools without dedicated development resources; process data, generate variations, and create specialized workflows
+- **Self-Service Data Analytics** — Power an [[AgenticAnalytics|agentic analytics]] stack handling 95% of business analytics queries with ~95% accuracy via [[ClaudeCodeSkills|skills]]; skills lift accuracy from 21% to 95%+ by encoding procedural knowledge for navigating data models, semantic layers, and validation workflows
 
-See [[summary-2025-07-24 - How Anthropic teams use Claude Code]] for detailed case studies.
+See [[summary-2025-07-24 - How Anthropic teams use Claude Code]] for detailed case studies. See [[summary-2026-06-03 - How Anthropic enables self-service data analytics with Claude]] for the analytics case study.
 
 ### Scaling Adoption and Activity Metrics (October 2025)
 
@@ -86,7 +90,7 @@ For performance issues spanning multiple files, Claude Code scans an entire code
 
 ### Case Study: CLUE Cybersecurity Detection Platform (May 2026)
 
-Anthropic's Detection Platform Engineering team (Technical Lead Jackie Bow) built **CLUE** ("Claude Looks Up Evidence") with Claude Code — a proof of concept in a day, full design docs and implementation within a week. CLUE Triage auto-dispositions every incoming security alert (false positive/true positive/malicious/expected) with a confidence score, dropping the false-positive rate from ~33% to 7%. CLUE Investigate answers natural-language questions over security-critical logs via an orchestrator dispatching sub-agents to run queries in parallel (see [[MultiAgentSystem]]), averaging 25 tool calls and ~11 queries per investigation, cutting hours-to-days manual investigations to 3-4 minutes. Over a 30-day window, CLUE automated ~12,000 queries and ~27,000 tool calls — an estimated 1,870 hours (234 person-days) of manual-equivalent work, 5-10x time savings. The team frames its roadmap as applying "the bitter lesson" to security operations: give Claude goals and tool access rather than rigid SOAR-style playbooks, move from reactive alert response to proactive threat-hunting, build organizational memory from stored investigation transcripts, and embrace non-deterministic parallel investigation strategies rather than treating variation as a bug. See [[summary-2026-05-12 - How Anthropic's cybersecurity team built a threat detection platform with Claude Code]] and the earlier, shorter [[summary-anthropic-cybersecurity]].
+Anthropic's Detection Platform Engineering team (Technical Lead Jackie Bow) built **CLUE** ("Claude Looks Up Evidence") with Claude Code — a proof of concept in a day, full design docs and implementation within a week. CLUE Triage auto-dispositions every incoming security alert (false positive/true positive/malicious/expected) with a confidence score, dropping the false-positive rate from ~33% to 7%. CLUE Investigate answers natural-language questions over security-critical logs via an orchestrator dispatching sub-agents to run queries in parallel (see [[MultiAgentSystem]]), averaging 25 tool calls and ~11 queries per investigation, cutting hours-to-days manual investigations to 3-4 minutes. Over a 30-day window, CLUE automated ~12,000 queries and ~27,000 tool calls — an estimated 1,870 hours (234 person-days) of manual-equivalent work, 5-10x time savings. The team frames its roadmap as applying "the bitter lesson" to security operations: give Claude goals and tool access rather than rigid SOAR-style playbooks, move from reactive alert response to proactive threat-hunting, build organizational memory from stored investigation transcripts, and embrace non-deterministic parallel investigation strategies rather than treating variation as a bug. See [[summary-2026-05-12 - How Anthropic&#39;s cybersecurity team built a threat detection platform with Claude Code]] and the earlier, shorter [[summary-02 - How Anthropic uses Claude in Cybersecurity]].
 
 ### Code Review (March 2026)
 
@@ -167,6 +171,20 @@ Growth marketer Austin Lau (no prior coding experience) built a Figma plugin gen
 
 Project manager Kostiantyn Vlasenko (no prior coding experience) built and shipped [[Respiro]], a real-time stress-detection iOS app, going from idea to App Store-ready in under six weeks after entering the Built With Opus 4.6 Claude Code Hackathon. He personally built and orchestrated a 15+ specialized-subagent architecture (TCA architect, Swift developer, Metal specialist, code reviewer, and more) running in parallel across modules, drawing an explicit analogy to managing a human team from his PM background. When an early React Native MVP proved untestable without an Android device, Claude Code rewrote the app in Swift from scratch in a few hours. Claude also guided him through unfamiliar developer consoles (Apple Developer Program, Meta API) via screenshot-based vision analysis, which Vlasenko considers Claude's most underrated feature. See [[MythicalGames]].
 
+### GTM Sales Workflow Case Study: CLAFTS (June 2026)
+
+Jared Sires, an Anthropic account executive with no prior coding experience, used Claude Code to build **CLAFTS** (Claude Drafts) — a ~4,300-line Gmail-integrated application using the [[ClaudeAPI|Claude API]] to draft customer email replies in his voice, saving 10–15 hours per week. Key elements of the build:
+
+- **System prompt iteration**: Hundreds of iterations to match Jared's writing style, removing Claude's default hedging phrases and verbose tendencies.
+- **CLAFTS Tones**: Pattern matching to mimic voice across different relationships (customers, peers, family), validated when Claude began refusing to generate increasingly angry test emails — confirming the tone-matching was working.
+- **Documentation awareness**: Uses web search to pull current Anthropic product documentation on every draft, so responses reflect the latest shipped details rather than what Jared remembers.
+- **Team scaling**: Shared in Slack, adopted by the sales org within 24 hours. Now packaged as a [[ClaudeCowork]] plugin with 20+ [[ClaudeCodeSkills|skills]] wired into Salesforce, Intercom, Gong, Google Calendar, Gmail, Google Drive, and BigQuery — adopted by ~80% of Anthropic's sales organization.
+- **Role transformation**: Jared's success led to a shift from account executive to GTM product manager, focused on identifying sales-org problems and building Claude-powered solutions. He now sits in design conversations with product engineers, describing the shift as "the most empowering thing I've ever experienced."
+- **Skills built**: `/customer-context` (360-degree account view in ~90 seconds), `/pipeline-management` (at-risk deals, forecasting guidance), daily brief (pre-call research from calendar + CRM), and daily recap (post-meeting follow-up drafts).
+- **Next frontier**: Experimenting with the [[ClaudeAgentSDK|Agent SDK]] to chain workflows where one Claude run's output feeds the next.
+
+See [[AIAcceleratedSalesWorkflows]] and [[summary-2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code]].
+
 ### Claude Code and Slack (December 2025)
 
 Tagging @Claude on a bug report or feature request in [[Slack]] automatically spins up a [[ClaudeCode|Claude Code on the web]] session (beta, research preview) using surrounding channel/thread context, auto-selecting the authenticated repository to run against, posting status updates back to the thread, and linking to the full session with an option to open a PR — extending the existing Claude Slack app rather than adding a new surface.
@@ -205,6 +223,54 @@ The first article in Anthropic's "Claude Code at scale" series distills patterns
 - Customer feedback for the article came from [[Zoox]] and members of Anthropic's Applied AI team.
 
 See [[summary-2026-05-14 - How Claude Code works in large codebases Best practices and where to start]].
+
+### HTML as Output Format (May 2026)
+
+[[ThariqShihipar]] advocates using HTML instead of Markdown as Claude Code's output format. HTML provides richer visualization (SVG diagrams, colors, diff annotations, tabs), better readability for long documents (100+ lines), easier browser-based sharing, and interactive capabilities (sliders, knobs, "copy as prompt" buttons). Key patterns:
+
+- **Six use-case categories**: brainstorming/exploration (a web of HTML files for different planning stages), code review (rendered diffs with inline annotations and flowcharts), design prototyping (interactive HTML mockups with parameter-tuning controls), research/reports (synthesized multi-source explainers with SVG diagrams), purpose-built editors (throwaway single-file editors with export buttons), and interactive documents.
+- **Token trade-off**: HTML uses more tokens than Markdown, but the 1M context window in Opus 4.7 makes overhead negligible, and the higher likelihood of the developer actually reading the output justifies the cost.
+- **Workflow integration**: Prompting "make an HTML file" or "make an HTML artifact" is sufficient. HTML files from exploration phases are passed to implementation sessions and verification agents for broader context. Claude Code's filesystem, MCPs, browser, and git history provide far more context for building rich HTML artifacts than Claude.ai or [[ClaudeDesign]] alone.
+- Shihipar has stopped using Markdown almost entirely, describing himself as "far on the HTML maximalist side."
+
+See [[HTMLAsAgentOutputFormat]] and [[summary-2026-05-20 - Using Claude Code The unreasonable effectiveness of HTML]].
+
+### Dynamic Workflows (May 2026)
+
+**Dynamic workflows** let Claude tackle large-scale engineering tasks end-to-end by dynamically writing orchestration scripts that fan out work across tens to hundreds of parallel subagents, with independent verification and adversarial checking before results reach the user. Work that would normally be planned in quarters now finishes in days.
+
+- **How it works**: Claude plans dynamically, breaks the task into subtasks, fans work across parallel subagents, verifies results, and iterates until answers converge — producing results a single pass cannot. Coordination happens outside the conversation, so the plan stays on track regardless of task size. Progress is saved as the run goes, so interrupted jobs resume where they left off.
+- **Invocation**: Ask Claude to create a workflow directly, or enable `ultracode` (effort level xhigh) through the effort menu, which lets Claude decide automatically when to use workflows.
+- **Availability**: GA in CLI, Desktop, and VS Code for Pro, Max, Team, and Enterprise plans; also on the Claude API, [[AmazonBedrock]], [[VertexAI]], and [[MicrosoftFoundry]]. On by default for Max, Team, and Enterprise; Pro plan users enable in `/config`. Admins can disable via managed settings.
+- **Token consumption**: Substantially more than typical sessions; recommended to start on a scoped task to gauge usage. First workflow invocation shows what will run and asks for confirmation.
+- **Use cases**: codebase-wide bug hunts, security audits, profiler-guided optimization, large migrations (framework swaps, API deprecations, language ports across thousands of files), and critical work requiring double-checking with adversarial verification.
+- **Flagship example**: [[JarredSumner]] used dynamic workflows to port [[Bun]] from Zig to Rust — ~750,000 lines, 99.8% test pass rate, eleven days from first commit to merge, with hundreds of parallel agents and two reviewers per file.
+
+See [[DynamicWorkflows]], [[Ultracode]], and [[summary-2026-05-28 - Introducing dynamic workflows in Claude Code]].
+
+A follow-up article (June 2026) catalogs common workflow patterns (classifier routing, fan-out/synthesis, adversarial verification, tournaments, parallel competition, agentic loops, quarantine, model selection) and concrete use cases (debugging, research, triage, CLAUDE.md mining, evals, design exploration). See [[summary-2026-06-02 - A harness for every task dynamic workflows in Claude Code]].
+
+### Claude Design Integration (June 2026)
+
+Claude Code gained bidirectional integration with [[ClaudeDesign]]:
+
+- **`/design-sync`**: Pull your design system into Claude Design, so everything built in Claude Design starts from existing components.
+- **`/design`**: Create, edit, and sync design projects without leaving the terminal. Import a design into your codebase, turn code into a live prototype, or let Claude carry a project all the way through.
+- When a design is ready to become software, hand it off to Claude Code, which continues from existing work instead of starting over from a screenshot.
+
+See [[summary-2026-06-17 - Claude Design now stays on brand for daily work]].
+
+### Artifacts (June 2026)
+
+Claude Code now supports **artifacts**: live, interactive web pages built from a session's full context (codebase, connectors, conversation) that visualize work progress and auto-update as the session continues. Unlike [[ClaudeArtifacts|Claude.ai artifacts]] (user-described interactive apps), Claude Code artifacts translate agent sessions into collaborative views such as PR walkthroughs, system explainers, dashboards, incident timelines, and release checklists.
+
+- **Session-context construction**: Artifacts are built from what already exists in the session -- codebase, connectors, and the conversation itself -- without requiring separate data-source wiring or infrastructure.
+- **Auto-updating**: When Claude Code updates an artifact, the open page refreshes in place; teammates see updates immediately at the same URL. Every publish is a new version with full version history, and a gallery lets users browse all artifacts.
+- **Incident investigation**: A flagship use case. An engineer kicks off an incident investigation before standup; Claude Code works through logs and publishes an artifact with a timeline, suspect commits, and an error-rate chart. By standup, Claude has republished updates incorporating the latest information, giving the team a shared view with the same context.
+- **Privacy and access control**: Artifacts are private to the author by default. Sharing is restricted to authenticated org members (cannot be made public). Admins manage access via an org-level toggle, role-based scoping, retention policies, and the compliance API.
+- **Availability**: Beta for Claude Team and Enterprise orgs, from the Claude Code CLI and desktop app; pages viewable in any browser.
+
+See [[summary-2026-06-18 - Claude Code now supports artifacts]].
 
 ## Related
 
@@ -311,7 +377,7 @@ See [[summary-2026-05-14 - How Claude Code works in large codebases Best practic
 - [[summary-2026-04-16 - Best practices for using Claude Opus 4.7 with Claude Code]] — source article
 - [[MacCossLab]] — customer example, 17-year legacy C# codebase onboarding methodology
 - [[summary-2026-04-28 - Onboarding Claude Code like a new developer Lessons from 17 years of development]] — MacCoss Lab / Skyline case study
-- [[summary-2026-05-12 - How Anthropic's cybersecurity team built a threat detection platform with Claude Code]] — CLUE cybersecurity detection-platform case study
+- [[summary-2026-05-12 - How Anthropic&#39;s cybersecurity team built a threat detection platform with Claude Code]] — CLUE cybersecurity detection-platform case study
 - [[summary-2026-05-11 - Agent view in Claude Code]] — CLI agent view feature announcement
 - [[PromptCaching]] — the caching mechanism Claude Code's harness is built around
 - [[summary-2026-04-30 - Lessons from building Claude Code Prompt caching is everything]] — prompt-caching engineering lessons: static/dynamic ordering, model-switch cost, Plan Mode design, defer_loading, cache-safe compaction forking
@@ -320,3 +386,45 @@ See [[summary-2026-05-14 - How Claude Code works in large codebases Best practic
 - [[ContextEngineering]] — codebase-legibility patterns (layered CLAUDE.md, codebase maps) for large-scale navigation
 - [[Zoox]] — customer providing feedback on the large-codebases best-practices article
 - [[summary-2026-05-14 - How Claude Code works in large codebases Best practices and where to start]] — large-codebase deployment patterns: agentic search vs. RAG at scale, the harness framework, and organizational ownership
+- [[HTMLAsAgentOutputFormat]] — pattern of using HTML instead of Markdown for Claude Code outputs
+- [[ClaudeDesign]] — Anthropic's HTML-based design prototyping tool
+- [[ThariqShihipar]] — Claude Code team member, author of HTML effectiveness and tool-design articles
+- [[summary-2026-05-20 - Using Claude Code The unreasonable effectiveness of HTML]] — source article on HTML as Claude Code output format
+- [[BorisCherny]] — Head of Claude Code, London 2026 keynote speaker
+- [[summary-2026-05-26 - Code w Claude London 2026 Rethinking how we build]] — London 2026 event recap
+- [[CodeWithClaude]] — developer conference series featuring Claude Code
+- [[DynamicWorkflows]] — large-scale parallel subagent orchestration feature
+- [[Ultracode]] — effort setting enabling automatic workflow invocation
+- [[summary-2026-05-28 - Introducing dynamic workflows in Claude Code]] — dynamic workflows announcement
+- [[summary-2026-06-02 - A harness for every task dynamic workflows in Claude Code]] — dynamic workflows patterns and use cases deep-dive
+- [[JarredSumner]] — Bun creator, flagship dynamic workflows user
+- [[MicrosoftFoundry]] — cloud platform supporting Claude Code dynamic workflows
+- [[CodeRabbit]] — built an agent orchestration planning layer that sits above Claude Code
+- [[AgentOrchestration]] — the orchestration pattern CodeRabbit implements, inserting structured planning before Claude Code execution
+- [[summary-2026-05-27 - How CodeRabbit used Claude to build an agent orchestration system]] — source article on CodeRabbit's planning layer
+- [[AIAcceleratedSalesWorkflows]] — non-technical GTM staff building AI tools with Claude Code
+- [[ClaudeCowork]] — platform through which sales tools are distributed as plugins
+- [[summary-2026-06-05 - How one Anthropic seller rebuilt his team's workflows with Claude Code]] — CLAFTS and sales-workflow case study
+- [[ClaudeAPI]] — the API powering CLAFTS email drafts
+- [[summary-2026-06-03 - How Anthropic enables self-service data analytics with Claude]] — internal data analytics case study
+- [[AgenticAnalytics]] — the overarching paradigm of LLM-driven self-service business analytics
+- [[summary-2026-06-17 - Claude Design now stays on brand for daily work]] — Claude Design integration (/design-sync, /design)
+- [[summary-2026-06-18 - Claude Code now supports artifacts]] — artifacts support announcement
+- [[WorkloadIdentityFederation]] — authentication mechanism replacing static API keys, supported in Claude Code
+- [[DesignToCodeHandoff]] — the design-to-code workflow Claude Design and Claude Code participate in
+- [[summary-2026-06-15 - Meet the winners of the Built with Opus 4.7 Claude Code hackathon]] — hackathon source summary
+- [[Medkit]] — hackathon winner using Claude Code for medical training simulation
+- [[WrenchBoard]] — hackathon winner using Claude Code for electronics repair diagnostics
+- [[Maieutic]] — hackathon winner using Claude Code for CS education IDE
+- [[VirtualPuppetTheater]] — hackathon winner using Claude Code for interactive puppet show
+- [[MaestrIA]] — hackathon winner using Claude Code for home repair diagnostics
+- [[ARIA]] — hackathon winner using Claude Code for industrial maintenance AI
+- [[SpecFirstDevelopment]] — planning-first methodology used by multiple hackathon winners
+- [[EvalDrivenDevelopment]] — eval-first methodology used by hackathon winners
+- [[Superpowers]] — skills framework used alongside Claude Code in the hackathon
+- [[ClaudeDesktop]] — the unified desktop app including Claude Code as a surface with cloud inference
+- [[AWS]] — cloud platform for Claude Desktop inference
+- [[CloudInference]] — the pattern of running AI inference within the customer's own cloud
+- [[summary-2026-06-22 - The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry]] — cloud deployment announcement
+- [[summary-19 - Build a proactive agent workflow with Claude Code]] — source summary
+- [[summary-2026-02-20 - Bringing automated preview, review, and merge to Claude Code on desktop]] — source summary

@@ -46,3 +46,4 @@ Legal AI refers to deploying Claude across the legal industry's fragmented techn
 - [[summary-2026-05-15 - Deploying Claude across the legal industry]] — deployment guide with GC adoption stat and three-phase roadmap
 - [[FTIConsulting]] — co-author of the 2026 General Counsel Report cited for the adoption surge
 - [[Relativity]] — co-author of the 2026 General Counsel Report cited for the adoption surge
+- [[summary-01 - Working Like a Lawyer with Claude]] — source summary
