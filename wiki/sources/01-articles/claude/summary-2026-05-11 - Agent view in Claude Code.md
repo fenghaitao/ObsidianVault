@@ -1,8 +1,11 @@
 ---
-title: "summary-2026-05-11 - Agent view in Claude Code"
+title: summary-2026-05-11 - Agent view in Claude Code
 type: source
-tags: [source, original-material]
-sources: ["raw/01-articles/claude/2026-05-11 - Agent view in Claude Code.md"]
+tags:
+  - source
+  - original-material
+sources:
+  - raw/01-articles/claude/2026-05-11 - Agent view in Claude Code.md
 last_updated: 2026-07-04
 ---
 
