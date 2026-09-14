@@ -2,8 +2,8 @@
 title: "Force Multiplier"
 type: concept
 tags: [career, engineering, impact, leadership]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -26,6 +26,11 @@ A Force Multiplier is an approach to work that amplifies the productivity and im
 - Having Scott on a team made the entire team much better
 - He was capable both personally of guaranteeing a huge scope of work AND being a force multiplier for teams
 
+### Joakim Recht on the Force Multiplier
+- Recht: "you become a forceful multiplier by allowing other people to work better and faster — or maybe not even work at all" on their problem
+- The most fundamental form is taking a problem entirely "out of the equation" via tooling, so software acts on your behalf and helps others
+- His Odin platform is the example: a single ~20-person team operated all of Uber's stateful workloads, freeing hundreds of engineers from repetitive fleet management
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
@@ -35,3 +40,6 @@ A Force Multiplier is an approach to work that amplifies the productivity and im
 - [[Lee]] — panelist who emphasized force multiplying
 - [[summary-20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su]] — source summary
 - [[Scott Renfro]] — described as a force multiplier at Meta
+- [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — source summary
+- [[Joakim Recht]] — force multiplier via Odin
+- [[Odin]] — platform as a force multiplier

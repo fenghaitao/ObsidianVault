@@ -2,8 +2,8 @@
 title: "Promotion Process"
 type: concept
 tags: [career, google, performance, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -44,6 +44,12 @@ The Promotion Process at Google is the formal system for advancing engineers thr
 - Amazon promotions and performance reviews are decoupled: you can be high-performing at principal-level work but flagged as low-performing at SDE3
 - Steve described the process of getting promoted as "becoming an expert in the process of getting promoted" rather than necessarily upleveling himself
 
+### Uber's Promo Committees (Joakim Recht)
+- Early Uber's platform-engineering promo committee put all managers, VPs, senior directors, and senior engineers in a room for a day, going through hundreds of engineers with no preparation or materials
+- Managers would present their own staff — all "should be promoted" — so outcomes hinged on "how good is your manager at presenting your case"; a bad manager meant a bad case
+- Over time the process became more structured, but it is "super hard" to judge a person objectively across many dimensions — you may depend on another team that "ghosted" you, or have a project canceled by management through no fault of your own
+- Recht notes unfairness runs both ways: good work can go unrewarded when weakly presented, while some who feel cheated are actually "on an island" relative to a much stronger external bar
+
 ## Related
 
 - [[summary-20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions]] — source summary
@@ -57,3 +63,6 @@ The Promotion Process at Google is the formal system for advancing engineers thr
 - [[Promotion By Committee]] — related concept about calibration
 - [[Amazon Promotion Process]] — the Amazon-specific process
 - [[Senior to Principal Gap]] — the two-level jump at Amazon
+- [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — source summary
+- [[Uber]] — company whose committees are described
+- [[Joakim Recht]] — repeated promo-committee member

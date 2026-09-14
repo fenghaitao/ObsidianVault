@@ -2,8 +2,8 @@
 title: "Interviewing"
 type: concept
 tags: [career, engineering, FAANG, job-search]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -30,6 +30,13 @@ Interviewing is the process of evaluating and being evaluated for a job. Zach Wi
 - For standing out before the interview, Steve recommends being an outlier in networking: genuine, personalized DMs to people on teams with openings, asking about their day-to-day and how to position yourself
 - 90% of people in Steve's Discord said they would engage with and extend a referral to someone who sent a genuine, non-scripted DM
 
+### Brian Attwell on Interviewing
+- Attwell: processes that hire strong engineers "explicitly test your brain's ability to reason about on-the-spot tradeoffs," perform job-relevant skills, and assimilate/discuss information quickly
+- Good signal: a postmortem exercise (read a 5-page postmortem, debate whether the team should be restructured, noting where one part contradicts another three pages down)
+- Bad signal: interviews testing recall, experience, or mindsets that anyone can pass by practicing enough (e.g., gameable LeetCode)
+- He is considering adding an IQ screen (likely for PMs first), since IQ is one of the most predictive signals and can't be practiced
+- Strong interview processes are rare because they are expensive to build; his company runs ~20 experiments at any time to improve it
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -46,3 +53,6 @@ Interviewing is the process of evaluating and being evaluated for a job. Zach Wi
 - [[System Design Interview]] — the functional bar
 - [[Packaging]] — communicating your experience effectively
 - [[Amazon Bar Raiser]] — the interviewer training program
+- [[summary-20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell]] — source summary
+- [[Brian Attwell]] — interviewing philosophy
+- [[IQ and Job Performance]] — the rationale behind his approach

@@ -2,8 +2,8 @@
 title: "Mentorship"
 type: concept
 tags: [career, learning, growth, engineering]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -27,6 +27,12 @@ Mentorship is the relationship where a more experienced engineer guides and acce
 ### The Team Accountability Factor
 - Part of what made the mentorship effective was the team accountability: "when you have a team of people who are holding you accountable or they're going to judge you, that was a really good fire under my butt to actually learn it properly"
 
+### Joakim Recht on Mentoring
+- Recht prefers mentoring people outside his own org: close-range mentoring (your team/org) is easier but yields less new information, while mentoring further-away people plants "seeds" that spread positive change through their teams
+- Mentoring is inefficient as a scaling mechanism (1:1), so treat it as a two-way network — he should be learning about what they do, not just dispensing advice
+- Keep it informal and unscheduled ("I don't want a plan and I don't want a schedule"); don't be afraid to end it when neither side is getting value
+- For mentees: cold outreach works "most of the time"; start with a specific ask or just a conversation rather than "can you mentor me"; show up, ask questions, and be willing to learn
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -36,3 +42,6 @@ Mentorship is the relationship where a more experienced engineer guides and acce
 - [[Side Projects]] — the sandbox approach translated to side project ability
 - [[Workflow Optimization]] — the fast iteration loop the mentor taught
 - [[Technical Learning]] — how to properly learn
+- [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — source summary
+- [[Joakim Recht]] — mentoring outside his org
+- [[Uber]] — company context

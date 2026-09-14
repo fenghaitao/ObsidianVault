@@ -2,8 +2,8 @@
 title: "Software Engineering"
 type: concept
 tags: [engineering, career, FAANG, software]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -20,6 +20,7 @@ Software Engineering is the practice of designing, building, and maintaining sof
 - At Netflix, transitioning to Software Engineer while also being at a staff-level scope proved to be too much change at once — "you only want to change one variable at a time"
 - Zach's advice: don't focus exclusively on technical skills; after senior engineer, soft skills become more important than pure technical ability
 - Zach's side projects and weekend work on full-stack development (JavaScript, React) were critical for his transition to Software Engineering
+- Joakim Recht (Uber Distinguished Engineer): "A software engineer needs to write code. If you're not writing code, you're not a software engineer" — applies at every level, ideally daily; those who stop writing code lose touch with the system and produce increasingly idealized, decoupled-from-reality designs
 
 ## Related
 
@@ -29,3 +30,6 @@ Software Engineering is the practice of designing, building, and maintaining sof
 - [[Analytics Engineering]] — the related but distinct discipline
 - [[Meta]] — where SWE and DE tracks were separated
 - [[Engineering Ladder]] — the career progression within software engineering
+- [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — source summary
+- [[Joakim Recht]] — wrote code daily through Distinguished
+- [[Running Code Beats Perfect Code]] — related principle

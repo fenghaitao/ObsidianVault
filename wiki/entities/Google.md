@@ -2,8 +2,8 @@
 title: "Google"
 type: entity
 tags: [company, FAANG, tech, search, advertising]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -35,6 +35,17 @@ Google is a multinational technology company focused on search, online advertisi
 - Early Google had genuine 20% time and "member of technical staff" titles (borrowed from Bell Labs) so ideas were judged on merit rather than title
 - Singleton contrasts Google's slow release process (a merged change could take ~a month to reach production) with Stripe's same-day gradual rollout
 
+### Ilya Grigorik's Google Tenure
+- Grigorik joined Google via the PostRank acquisition as an engineering manager on Google Analytics, rebuilding their stack to operate at Google's scale ("more than half the internet")
+- Google's open culture let him "approach anyone and everyone" about any infrastructure or product; internal design docs were "three generations ahead" of the published papers (Bigtable, Hadoop)
+- He turned down a director path to be voluntarily down-leveled to an IC in "Make the Web Fast," a Sergey-initiated skunkworks project based on the insight that a faster web drives more Google usage
+- Later became Director of Developer Relations, driving adoption of web performance metrics through W3C/IETF standards work
+
+### Brian Attwell's Google Tenure
+- Attwell joined Google as his first company; a first-week encounter with a non-working "nice guy" (kept because he was well-liked, then moved to a dead team) seeded his skepticism about how big tech companies are run
+- Attwell reports (verbally, not in writing) that around a decade ago Google had a policy of keeping as many smart people on staff as possible — even if idle — so competitors couldn't have them; several managers and a VP told him this
+- He cites DeepMind as a team working hard now because of the existential (AI) threat to Alphabet
+
 ## Related
 
 - [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary
@@ -58,3 +69,9 @@ Google is a multinational technology company focused on search, online advertisi
 - [[Promotion Process]] — Google's rating and calibration system
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
+- [[summary-20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik]] — source summary
+- [[Ilya Grigorik]] — ex-Google engineering manager and director
+- [[PostRank]] — company Google acquired
+- [[Google Analytics]] — team Grigorik joined
+- [[summary-20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell]] — source summary
+- [[Brian Attwell]] — started his career at Google

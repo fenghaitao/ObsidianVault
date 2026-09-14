@@ -2,8 +2,8 @@
 title: "Influence Without Authority"
 type: concept
 tags: [career, leadership, soft-skills, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,9 +21,19 @@ Influence Without Authority is the ability to lead and direct others without hav
 - To get five people to go in your direction, you must convince them you know what you're doing, have good ideas, and can be trusted — all without relying on formal authority
 - This is a critical skill for tech leads and staff+ engineers
 
+### Joakim Recht on Influence
+- Recht: the best outcome is "when the other person thinks the idea is theirs" — overhearing someone repeat your idea with conviction months later, adopted because "a seed was planted," not because it was forced
+- Influence is built by leading by example and staying hands-on: people don't trust top-down authority from those without "skin in the game," and a VP saying the same thing as an engineer is trusted less
+- Take the "boring"/shovel work yourself and delegate the hard-but-growth work downward — it builds trust and grows the team
+- "Never go for 100%" — some people will never be convinced, and that's expected
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Tech Lead]] — a role that requires influence without authority
 - [[Meta]] — company where levels are not public
 - [[Leadership]] — broader concept of which this is a key component
+- [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — source summary
+- [[Joakim Recht]] — described seeding ideas
+- [[Uber]] — company context
+- [[Credibility]] — what hands-on influence builds

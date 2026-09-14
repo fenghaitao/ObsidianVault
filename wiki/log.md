@@ -55,3 +55,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-14] ingest | Ingested Bobby Holley (Mozilla Firefox CTO) episode
 - **Changes**: created [[summary-20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos]], created [[Bobby Holly]], created [[Mozilla]], created [[Firefox]], created [[Rust]], created [[Servo]], created [[WebAssembly]], created [[Google Chrome]], updated [[Writing as Communication]], updated [[Visibility]], updated [[Impact]], updated [[Engineering Culture]], updated [[Technical Breadth vs Depth]], updated [[Ryan L. Peterman]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Ilya Grigorik (Shopify Distinguished Eng) episode
+- **Changes**: created [[summary-20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik]], created [[Ilya Grigorik]], created [[Shopify]], created [[PostRank]], created [[University of Waterloo]], created [[Google Analytics]], created [[Sir Ken Robinson]], created [[Be the Only Not the Best]], created [[Tour of Duty]], created [[Dynamic Range]], created [[Co-op Program]], updated [[Google]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Joakim Recht (Uber Distinguished Eng) episode
+- **Changes**: created [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]], created [[Joakim Recht]], created [[Uber]], created [[Odin]], created [[Schemaless]], created [[Docker]], created [[Kubernetes]], created [[MySQL]], created [[Cassandra]], created [[Kafka]], created [[Running Code Beats Perfect Code]], updated [[Ryan L. Peterman]], updated [[Force Multiplier]], updated [[Promotion Process]], updated [[Influence Without Authority]], updated [[Mentorship]], updated [[Software Engineering]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Brian Attwell (Atoms CTO) episode
+- **Changes**: created [[summary-20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell]], created [[Brian Attwell]], created [[Travis Kalanick]], created [[Steve Jobs]], created [[Atoms]], created [[Otter]], created [[Picnic]], created [[Yi Wang]], created [[Truth Seeking]], created [[Expected Value Prioritization]], created [[IQ and Job Performance]], created [[Entropy Of Standards]], updated [[Uber]], updated [[Google]], updated [[Ryan L. Peterman]], updated [[Engineering Ladder]], updated [[Interviewing]], updated [[index.md]]
+- **Conflicts**: none

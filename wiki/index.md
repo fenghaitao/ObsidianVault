@@ -22,6 +22,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — David Singleton's Symbian → Google VP → Stripe CTO journey: no-LeetCode hiring, leaders coding, and deliberate org design.
 - [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — David Fowler's 11 Microsoft promotions from intern to Distinguished Engineer through NuGet, SignalR, and .NET Core.
 - [[summary-20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos]] — Bobby Holley on the Chrome-Firefox browser wars, Mozilla's Rust/Quantum CSS, and distinguished engineers.
+- [[summary-20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik]] — Ilya Grigorik on "being the only, not the best," Waterloo co-op, and the dynamic range of principal+ engineering.
+- [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — Joakim Recht on building Uber's Odin platform, "running code beats perfect code," and leading by example without authority.
+- [[summary-20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell]] — Brian Attwell on truth seeking, IQ-aware hiring, expected-value prioritization, and redesigning the engineering ladder.
 
 ## Entities
 
@@ -54,7 +57,7 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Mark Zuckerberg]] — Meta founder and CEO (updated with early-Facebook coding stories).
 - [[UCLA]] — University (updated with Carey Nachenberg's lecturing role).
 - [[Jeff Bezos]] — Amazon founder (updated with the Bezos vs Jassy leadership contrast).
-- [[Ryan L. Peterman]] — Podcast host (updated with new August 2025 episodes and the behind-the-scenes special).
+- [[Ryan L. Peterman]] — Podcast host (updated with the Oct–Nov 2025 episodes: Grigorik, Recht, Attwell).
 - [[Symbian]] — Pre-smartphone OS company where David Singleton began his career.
 - [[Dev Agents]] — David Singleton's startup building a consumer platform for AI agents.
 - [[David Fowler]] — Microsoft Distinguished Engineer who joined as an intern and was promoted 11 times.
@@ -69,10 +72,32 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[WebAssembly]] — Portable web bytecode standard steered by Mozilla's Luke Wagner.
 - [[Google Chrome]] — Google's Chromium browser and Firefox's main rival.
 - [[David Singleton]] — Ex-Stripe CTO, former Google VP, and co-founder of Dev Agents.
-- [[Google]] — Search and advertising giant where Singleton rose to VP (updated with his tenure).
+- [[Google]] — Search and advertising giant (updated with Singleton's, Grigorik's, and Attwell's tenures).
 - [[Stripe]] — Payments company where Singleton became CTO (updated with his tenure).
 - [[Microsoft]] — Where David Fowler was promoted from intern to Distinguished Engineer (updated).
 - [[Android]] — Google's mobile OS (updated with Singleton's Android Wear role).
+- [[Ilya Grigorik]] — Shopify Distinguished Engineer (L10) and former Google web-performance lead who founded PostRank.
+- [[Shopify]] — E-commerce platform where Ilya Grigorik is a Distinguished Engineer.
+- [[PostRank]] — Social-engagement analytics company Ilya Grigorik founded and sold to Google.
+- [[University of Waterloo]] — Canadian university whose co-op program shaped Ilya Grigorik's early career.
+- [[Google Analytics]] — Google product team Ilya Grigorik joined after the PostRank acquisition.
+- [[Sir Ken Robinson]] — Education author and speaker whose creativity talks influenced Ilya Grigorik.
+- [[Joakim Recht]] — Uber Distinguished Engineer who built the Odin stateful-workloads platform.
+- [[Uber]] — Ride-hailing company where Joakim Recht and Brian Attwell reached senior engineer levels.
+- [[Odin]] — Uber's platform that containerized and automated all of its stateful workloads.
+- [[Schemaless]] — Uber's sharded MySQL datastore, the first workload Odin automated.
+- [[Docker]] — Containerization technology Odin used to run databases.
+- [[Kubernetes]] — Container orchestration emerging as Odin grew.
+- [[MySQL]] — Database technology Odin automated.
+- [[Cassandra]] — Distributed database technology Odin automated.
+- [[Kafka]] — Streaming and data-stack technology Odin had to accommodate.
+- [[Brian Attwell]] — CTO of Atoms (Cloud Kitchens) and former Uber Senior Staff engineer.
+- [[Travis Kalanick]] — Brian Attwell's CEO at Atoms and co-founder and former CEO of Uber.
+- [[Steve Jobs]] — Apple co-founder whom Brian Attwell encountered early in his career.
+- [[Atoms]] — Travis Kalanick's food-robotics and ghost-kitchen company led as CTO by Brian Attwell.
+- [[Otter]] — Atoms' software product for restaurant operations.
+- [[Picnic]] — Atoms' robotics and restaurant product.
+- [[Yi Wang]] — Brian Attwell's Uber collaborator.
 
 ## Concepts
 
@@ -127,6 +152,22 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Agency]] — Proactively creating opportunity (updated with Fowler's permissionless agency).
 - [[Impact]] — The measurable outcomes that drive rewards (updated with Fowler and Holley).
 - [[Engineering Culture]] — Shared values and practices (updated with Singleton, Holley, and Microsoft's shift).
+- [[Be the Only Not the Best]] — Combine a broad 80–90% skill stack whose unique intersection is more resilient than being the single best specialist.
+- [[Tour of Duty]] — The IC↔manager seesaw common among principal+ engineers.
+- [[Dynamic Range]] — The breadth of problems and execution modes a principal+ engineer can handle.
+- [[Co-op Program]] — University of Waterloo's alternating study/work terms giving students many real "shots on goal."
+- [[Running Code Beats Perfect Code]] — Ship something to get feedback rather than polishing until it handles every case.
+- [[Truth Seeking]] — Being right most of the time when questioning foundational decisions, not merely convincing people.
+- [[Expected Value Prioritization]] — Choose work by (importance × probability of success with vs. without you) ÷ time.
+- [[IQ and Job Performance]] — IQ as a well-researched, non-gameable predictor of job performance.
+- [[Entropy Of Standards]] — Organizational standards decay by entropy unless leaders actively hold the line.
+- [[Force Multiplier]] — Amplifying others' productivity through people leadership or technology leverage.
+- [[Promotion Process]] — The formal advancement systems (Google six-month cycles, Amazon panels, Uber committees) and their fairness.
+- [[Influence Without Authority]] — Leading by being right and seeding ideas rather than by title.
+- [[Mentorship]] — A more experienced engineer accelerating a less experienced one's growth (updated with Joakim Recht's cross-org approach).
+- [[Software Engineering]] — The primary engineering track, with Recht's "write code daily" discipline (updated).
+- [[Engineering Ladder]] — Career progression frameworks (updated with Brian Attwell's skill-gradient redesign).
+- [[Interviewing]] — Interview leverage and evaluation (updated with Brian Attwell's postmortem-based, anti-recall approach).
 
 ## Syntheses
 
