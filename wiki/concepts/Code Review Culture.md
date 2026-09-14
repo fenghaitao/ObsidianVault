@@ -2,8 +2,8 @@
 title: "Code Review Culture"
 type: concept
 tags: [engineering, process, culture, code-quality]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -29,6 +29,13 @@ Code Review Culture refers to the norms and processes around how code changes ar
 - Meta had a more aggressive PIP culture compared to Pinterest
 - The lighter review process at Meta enabled faster iteration but potentially less oversight
 
+### Jake Bolam's Risk-Based Review Philosophy
+- Review depth should scale with risk: thorough on core/prod surfaces, light and trust-based on gated leaf components
+- He prefers "how do I accept this diff" over "how do I reject it" — look for what absolutely blocks production, not rewrite-to-your-style
+- He'll even comment "this will blow up production" and still accept, trusting a teammate to fix it first
+- Leaf components are cheap to fix if they fail, so lower quality there is acceptable; bad architecture in the trunk is expensive to fix
+- He invites authors to flag "need real review" so he doesn't under-review something they consider critical
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -36,3 +43,5 @@ Code Review Culture refers to the norms and processes around how code changes ar
 - [[Pinterest]] — the more rigorous review culture
 - [[Rahul]] — experienced both cultures
 - [[Impact-Driven Culture]] — Meta's culture that influenced the review process
+- [[Jake Bolam]] — his risk-based review philosophy
+- [[summary-20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam]] — source summary

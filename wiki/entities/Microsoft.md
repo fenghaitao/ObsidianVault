@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: entity
 tags: [company, FAANG, tech, Seattle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md"]
 last_updated: 2026-07-21
 ---
 
@@ -22,8 +22,21 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - At Microsoft, Philip notes there are "always weak teams" at a company of that size, and being on a weak team can lead to over-leveling
 - Philip missed both the internet revolution and the mobile revolution while at Microsoft, as the company largely missed both these transition points
 
+### David Fowler's Microsoft
+- Leveling runs 59-80 with entry at 59/60, roughly two levels per title band; principal spans three levels, so depth within a band is immense; Distinguished Engineer is ~70, with technical fellows above
+- David Fowler was promoted 11 times from intern (2006) to Distinguished Engineer; he was first engineer on NuGet, creator of SignalR, and co-architect of .NET Core
+- The Satya-era culture shift moved Microsoft from competing duplicate teams and "highest-paid-person's-opinion" meetings to collaboration incentives, raising hands, and pulling quiet voices into conversation
+- Fowler credits .NET Core's accumulated (deferred) impact — cited ~7 years later — for his partner promotion
+- Peers at the top include Python creator Guido van Rossum, and fellow-level icons like Andrew Hejlsberg (Turbo Pascal, Delphi, C#, TypeScript) and Dave Cutler (Windows NT)
+
 ## Related
 
+- [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
+- [[David Fowler]] — 11-time-promoted Distinguished Engineer
+- [[NuGet]] — package manager from his founding team
+- [[SignalR]] — library he built on the side
+- [[.NET Core]] — platform he co-architected
+- [[Deferred Impact]] — how the ladder rewards accumulated work
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Evan King]] — grew up in the Seattle area near Microsoft
 - [[summary-20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su]] — source summary

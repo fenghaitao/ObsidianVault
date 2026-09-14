@@ -2,8 +2,8 @@
 title: "Relationship Building"
 type: concept
 tags: [career, engineering, soft-skills, visibility]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -24,6 +24,10 @@ Relationship Building is the deliberate practice of forming professional connect
 - The people who vouch for you in performance reviews are the ones you've built relationships with
 - A good litmus test: if you ask a teammate "what is this person known for?" and they can't tell you coherently, you haven't built enough visibility
 
+### Ethan Evans' Experience
+- His reputation compounded: after rebuilding his soft skills and becoming an Amazon VP, Amazon recruited him — he "didn't have to go find them"
+- His advice favors reputation and relationships over always being right: prefer high-growth companies where relationships and impact compound faster ("escalator, not ladder")
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -33,3 +37,5 @@ Relationship Building is the deliberate practice of forming professional connect
 - [[Zach Wilson]] — emphasized its importance
 - [[Lee]] — shared practical techniques for remote relationship building
 - [[Carly]] — stressed the importance of being known across the org
+- [[summary-20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans]] — source summary (reputation over being right)
+- [[Ethan Evans]] — reputation brought Amazon to him

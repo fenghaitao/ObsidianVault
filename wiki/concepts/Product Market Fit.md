@@ -2,8 +2,8 @@
 title: "Product Market Fit"
 type: concept
 tags: [startups, product, business, strategy]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -29,6 +29,10 @@ Product Market Fit (PMF) is the degree to which a product satisfies strong marke
 - This is why the acquisition was closer to a failure: the company never validated whether there was real market demand
 - The lesson: academic IP without PMF is a bet, not a business
 
+### The Podcast's Product Market Fit
+- The Philip Su episode's breakout ("the graphs all going vertical") proved the "hidden senior engineer career story" format had real demand — not just Ryan's interest
+- The Ethan Evans episode showed the same live energy, confirming the format resonated rather than being a one-off guest
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -36,3 +40,5 @@ Product Market Fit (PMF) is the degree to which a product satisfies strong marke
 - [[Pinterest]] — the company that had PMF
 - [[Acquisitions]] — the context for the PMF discussion
 - [[Startup vs Big Tech]] — PMF is the difference between a startup bet and an established business
+- [[summary-20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special)]] — source summary (podcast PMF)
+- [[Ryan L. Peterman]] — the breakout episodes proved demand

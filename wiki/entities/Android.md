@@ -2,7 +2,7 @@
 title: "Android"
 type: entity
 tags: [platform, mobile, technology, operating-system]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md"]
 last_updated: 2026-07-21
 ---
 
@@ -20,8 +20,15 @@ Android is Google's mobile operating system. Rahul Pandey deliberately pivoted h
 - The Portal Android build system was very different from standard Android, using Buck and custom tooling
 - Rahul published Android tutorials on YouTube starting in 2019, which helped give him signal to leave Meta and start a company
 
+### Android Wear (David Singleton)
+- David Singleton ran Android Wear at Google as a VP engineering, nearly as a general manager across product, engineering, business partnerships, UX, and marketing
+- Android Wear is the foundation of the wearables platform in Google's smartwatches today
+- Singleton periodically did small projects in the codebase (about every 2-3 months) to keep visceral context on the toolchain his org used
+
 ## Related
 
+- [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary
+- [[David Singleton]] — ran Android Wear as VP
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
 - [[Rahul]] — Android engineer
 - [[Pinterest]] — where Rahul learned Android

@@ -2,8 +2,8 @@
 title: "Work-Life Balance"
 type: concept
 tags: [career, well-being, engineering, lifestyle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -31,8 +31,19 @@ Work-Life Balance is the equilibrium between professional demands and personal w
 - Moving to LA and having friends outside the tech bubble helped Evan find more fulfillment and balance
 - He emphasized that you can absolutely do both — career growth and strong relationships — he just didn't understand the importance of relationships until he got older
 
+### Ryan's Content Workload
+- Ryan wrote his newsletter until roughly 4 a.m. on Thursdays for two years while holding a full-time job
+- He was warned not to burn the candle at both ends, and admits a family or other commitments would have made it unsustainable
+
+### David Fowler's Energy-Based Balance
+- Fowler now defines balance not as 9-to-5 stopping, but by what gives you energy versus what drains you
+- He works a lot because programming is his passion, not just his job; all-day meetings followed by more work is his definition of burnout quality
+- Early side projects (games, SignalR) were fun and fed his work skills — the intrinsic-motivation advantage he sees across top performers
+
 ## Related
 
+- [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
+- [[David Fowler]] — energy versus drain framing
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
 - [[Zach Wilson]] — personal experience with work-life trade-offs
 - [[Sustainability Of Performance]] — the professional consequence of poor work-life balance
@@ -42,6 +53,8 @@ Work-Life Balance is the equilibrium between professional demands and personal w
 - [[Netflix]] — company where Zach took a mental health break
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
+- [[summary-20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special)]] — source summary (content workload)
+- [[Ryan L. Peterman]] — 4 a.m. newsletter Thursdays
 
 ### UCLA Talk: Work Is Not Everything
 - Ricky's closing advice: "Work is not everything." The happiest moments of his 20s were not promotions but being at Coachella "really drunk and my shirt's off and having fun with my friends"

@@ -2,8 +2,8 @@
 title: "Ryan L. Peterman"
 type: entity
 tags: [person, engineer, content-creator, FAANG]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -34,9 +34,21 @@ Ryan L. Peterman is a software engineer and content creator who hosts panels and
 - Also switched to management because he felt growing to IC7 would make him a "snowflake" — narrowly useful only at very large companies, with limited transferability
 - Hosted a November 2024 podcast episode interviewing Ricky, a Staff Engineer at Google who reached L6 by age 28, covering accelerated promotion strategies, the trade-offs of seniority, and the Manager vs IC decision. Also hosted a November 2024 podcast episode interviewing Zach Wilson about his career journey from IC3 at Facebook to Staff Engineer at Airbnb by age 26, covering job hopping, interviewing leverage, manager trust, and the trade-offs of accelerated career growth.
 - Hosted a January 2025 podcast episode interviewing Evan King about his rapid career growth to Staff Engineer at Meta by age 25, creating a dual-perspective narrative by interweaving his own parallel career experience. Also hosted a March 2025 podcast episode interviewing Steve Huynh, a former Amazon Principal Engineer, covering Amazon's interview culture, performance management, the SDE3-to-Principal promotion gauntlet, and career advice. Also hosted an April 2025 podcast episode interviewing Rahul Pandey about his career journey from a Stanford spinout startup to Staff Engineer at Meta by age 28 and founding Taro. Also hosted an April 2025 podcast episode interviewing Jia Chen, a college student who won 21 hackathons with a 70% win rate, covering hackathon strategy, agency, content creation, and founding Sprint.dev. Also gave a talk at UCLA in May 2025 with Ricky about industry secrets for students, covering the engineering ladder, internship success, promotion strategies, luck vs. agency, imposter syndrome, big tech vs. startups, and the importance of soft skills and asking questions.
+- Hosted a May 2025 episode interviewing Jake Bolam (Instagram IC8) about promotions, breaking prod, and tech leading; and July 2025 episodes interviewing Simon (Meta IC6) about rapid growth and secret equity, and Michael Novati (Meta IC7) about Zuck stories and the coding machine archetype
+- Hosted July 2025 episodes interviewing Carey Nachenberg (Symantec Fellow → Google X → Lyft → UCLA lecturer) about imposter syndrome, career growth, and project taste; Dwayne Reeves (Meta IC7 tech lead for Hack) about his promotion story and the uncanny valley of type systems; and Ethan Evans (Amazon VP) about stack ranking, PIPs, working with Bezos, and his promotions
+
+- Hosted August 2025 episodes interviewing Sash (Instagram IC6 who switched teams ten times) about prototyping, team switching, and the early Threads; Stefan Mai (Meta M2) about manager growth, PIPs, and Amazon vs Meta; and a 25,000-subscriber "behind the scenes" special with Brandon about the podcast itself
+
+- Hosted an August 2025 episode interviewing David Singleton (ex-Stripe CTO) about hiring without LeetCode, career growth, and coding as a leader; a September 2025 episode interviewing David Fowler (Microsoft Distinguished Engineer) about his 11 promotions; and an October 2025 episode interviewing Bobby Holley (CTO of Mozilla Firefox) about the Chrome-vs-Firefox browser wars and distinguished-engineer promotions
 
 ## Related
 
+- [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary
+- [[David Singleton]] — guest in August 2025
+- [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
+- [[David Fowler]] — guest in September 2025
+- [[summary-20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos]] — source summary
+- [[Bobby Holly]] — guest in October 2025
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -59,3 +71,18 @@ Ryan L. Peterman is a software engineer and content creator who hosts panels and
 - [[Jia Chen]] — guest on his podcast in April 2025
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
 - [[UCLA]] — alma mater where he gave the talk
+- [[Jake Bolam]] — guest in May 2025
+- [[Simon]] — guest in July 2025
+- [[Michael Novati]] — guest in July 2025
+- [[summary-20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg]] — source summary
+- [[Carey Nachenberg]] — guest in July 2025
+- [[summary-20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story)]] — source summary
+- [[Dwayne Reeves]] — guest in July 2025
+- [[summary-20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans]] — source summary
+- [[Ethan Evans]] — guest in August 2025
+- [[summary-20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story)]] — source summary
+- [[Sash]] — guest in August 2025
+- [[summary-20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai]] — source summary
+- [[Stefan Mai]] — guest in August 2025
+- [[summary-20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special)]] — source summary
+- [[Brandon]] — interviewer in the behind-the-scenes special

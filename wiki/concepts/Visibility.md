@@ -2,8 +2,8 @@
 title: "Visibility"
 type: concept
 tags: [career, engineering, soft-skills, promotion]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -25,8 +25,26 @@ Visibility is the degree to which your work, expertise, and value are known and 
 - Zach's advice: post on LinkedIn daily to practice concise communication, which translates to better visibility at work
 - At the UCLA talk, Ryan and Ricky emphasized that visibility is critical: "if a tree falls in a forest and no one sees it, did it really fall?" After doing good work, you must tell everyone about it — through writing, presenting, or manager advocacy. The specific advice for interns: hit a milestone, tell your manager, make a post or write an email showing results, and "put the idea in their head" that you're killing it. Writing is "one of the best ways" to build visibility, and the term "visibility" is commonly used at work.
 
+### Sash's Prototype-Based Visibility
+- Sash built visibility by posting working prototypes on Workplace rather than write-ups; his RAG FAQ demo drove ~50 reach-outs from across the company
+- A prototype's fidelity connects with people in a way text can't — someone clicks it and sees the real thing
+- This is how he became known as "the prototyping person" that others reach out to when they need something quick and dirty
+
+### Bobby Holley's Visibility Framing
+- Impact needs to be visible so people understand what you're capable of and can put you in higher-impact positions
+- The framing decides the outcome: "brag about me" versus "communicate and coordinate important work for others" produces very different results
+- Give visibility to others and thank the team; updates that are all about you read as self-promotion, while team-centered updates build trust
+
+### David Fowler's Visibility
+- At top levels he made sure his boss knew his impact, especially in his first DE review cycles
+- He built early credibility by showing working prototypes to advocates, architects, and PMs rather than arguing from documents
+
 ## Related
 
+- [[summary-20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos]] — source summary
+- [[Bobby Holly]] — visibility as coordination, not self-promotion
+- [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
+- [[David Fowler]] — made his own impact visible early
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
 - [[Relationship Building]] — the foundation for visibility
 - [[Technical Communication]] — the skill of making work visible
@@ -35,3 +53,6 @@ Visibility is the degree to which your work, expertise, and value are known and 
 - [[Rahul]] — reframed self-promotion as value-sharing
 - [[Ryan L. Peterman]] — emphasized communication as key to visibility
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
+- [[summary-20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story)]] — source summary (Sash)
+- [[Sash]] — built visibility through prototypes
+- [[Prototype as Highest Fidelity]] — the medium that outshines text

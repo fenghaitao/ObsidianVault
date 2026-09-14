@@ -2,8 +2,8 @@
 title: "Job Hopping"
 type: concept
 tags: [career, promotion, strategy, engineering]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -33,6 +33,11 @@ Job Hopping is the strategy of changing companies to achieve higher levels, comp
 - Early on, job hopping works because companies can assess your competency directly; later, your impact is through influence on others, which requires tenure
 - Rahul's Meta move was also motivated by Meta being a much bigger company with a stronger engineering brand, more pay, and clearer career growth pathway
 
+### Stefan Mai's Perspective
+- Early-career moves are growth — an unfamiliar environment forces you to generalize your skills
+- Frequent senior-level moves are a red flag: a hiring manager is betting a year of ramp-up on someone likely to leave in six months
+- The credibility you accumulate by staying (the snowball) is powerful, but it can become a shackle if you get stuck as "the person who built that system"
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -48,6 +53,8 @@ Job Hopping is the strategy of changing companies to achieve higher levels, comp
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
 - [[Rahul]] — job hopped from Pinterest to Meta
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
+- [[summary-20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai]] — source summary (early vs senior moves)
+- [[Stefan Mai]] — early moves grow you, senior moves are a red flag
 
 ### UCLA Talk: Job Hopping Strategy by Level
 - Ryan presented a nuanced view: job hopping for promotions is optimal when you're a junior/mid-level/senior trying to get promoted — "aggressively try to job hop" and take the faster path because momentum doesn't matter as much

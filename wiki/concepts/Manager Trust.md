@@ -2,8 +2,8 @@
 title: "Manager Trust"
 type: concept
 tags: [career, management, engineering, relationships]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,6 +21,14 @@ Manager Trust is the relationship dynamic between an engineer and their manager 
 - At Netflix, managers have significant power over hiring and firing ("freedom and responsibility"), making manager trust even more critical
 - The lesson: "find those people who you really click with because you never know, you might be working with them again in the future"
 
+### Dwayne Reeves' Experience
+- Dwayne credits consistent manager support ("there have been so many great people") for a career that went "beyond my wildest dreams"
+- His IC6 promotion came after his manager pushed him to hand off the project that had "left orbit" — trusting him to give up direct control and align on strategy instead
+
+### Ethan Evans' "Magic Loop"
+- The manager partnership is explicit: "I'll do everything you need done; you make sure I'm rewarded for it"
+- It is built over time — Ethan's VP took roughly 2.5 years before he was willing to stake his reputation on Ethan's promotion — and requires you to know the process and dates, since a well-meaning manager who misses the cycle cannot honor the deal
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -30,3 +38,8 @@ Manager Trust is the relationship dynamic between an engineer and their manager 
 - [[Career Growth]] — manager trust as a key enabler or blocker
 - [[Meta]] — where manager changes disrupted Zach's promotion
 - [[Netflix]] — where manager power is especially high
+- [[summary-20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story)]] — source summary (Dwayne)
+- [[Dwayne Reeves]] — manager trust across his career
+- [[summary-20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans]] — source summary (Ethan)
+- [[Ethan Evans]] — the magic loop with his VP
+- [[Magic Loop]] — his framework for manager partnership

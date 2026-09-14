@@ -2,8 +2,8 @@
 title: "UCLA"
 type: entity
 tags: [university, education, California]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -20,6 +20,7 @@ UCLA (University of California, Los Angeles) is a public research university. Ry
 - Amazon came to UCLA and conducted mass SAT-like logic puzzle interviews in a room fitting hundreds of people
 - Ryan and Ricky gave a Q&A talk at UCLA in May 2025 for a student group Ryan used to be part of, covering industry secrets for software engineering students. It was observed that UCLA students overwhelmingly prefer big tech over startups, to the point that startup recruiters said they stopped coming to UCLA because no one wanted to join.
 - Ricky noted that UCLA seems to have a much larger portion of students wanting big tech compared to other colleges like Stanford or Ivy League schools
+- Carey Nachenberg has been a part-time UCLA lecturer since 2001, after a last-minute "our lecturer bailed" call gave him two weeks to prepare; he teaches with empathy and humor aimed at the median student
 
 ## Related
 
@@ -32,3 +33,5 @@ UCLA (University of California, Los Angeles) is a public research university. Ry
 - [[Ricky]] — gave a talk at UCLA
 - [[Ashley]] — UCLA student who organized the talk
 - [[Startup vs Big Tech]] — UCLA students overwhelmingly prefer big tech
+- [[summary-20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg]] — source summary (Carey lectures at UCLA)
+- [[Carey Nachenberg]] — part-time UCLA lecturer

@@ -2,7 +2,7 @@
 title: "Google"
 type: entity
 tags: [company, FAANG, tech, search, advertising]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md"]
 last_updated: 2026-07-21
 ---
 
@@ -27,8 +27,20 @@ Google is a multinational technology company focused on search, online advertisi
 - At the UCLA talk, Google's compensation was compared to Meta's on Levels.FYI — Meta's numbers were much higher because Meta's stock was "ripping recently"
 - Google has no "up or out" policy, which is more relaxed than other companies; Ryan noted that "up or out" is not as scary as it sounds — 90%+ of people make it to those levels
 
+### David Singleton's Google Tenure
+- David Singleton joined Google immediately post-IPO planning a short stay but remained ~12 years; he stayed because every 18-24 months he realized he had learned a tremendous amount
+- He did "six different jobs" with gradual transitions, including mobile (before Android), ads (deliberately, to learn how Google made money), and the Android team
+- Google opened its London engineering office with a mobile focus because London was a global hub of mobile expertise (Symbian and others)
+- As a VP engineering he ran Android Wear almost like a general manager, and separately ran the Google London engineering site while competing with Meta London's Philip Su for talent
+- Early Google had genuine 20% time and "member of technical staff" titles (borrowed from Bell Labs) so ideas were judged on merit rather than title
+- Singleton contrasts Google's slow release process (a merged change could take ~a month to reach production) with Stripe's same-day gradual rollout
+
 ## Related
 
+- [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary
+- [[David Singleton]] — former Google VP and London site lead
+- [[Android]] — where he ran Android Wear
+- [[Stripe]] — where he applied Google's lessons differently
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary

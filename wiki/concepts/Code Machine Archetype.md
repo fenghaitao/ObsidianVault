@@ -2,8 +2,8 @@
 title: "Code Machine Archetype"
 type: concept
 tags: [career, engineering, staff-level, archetypes]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,6 +21,12 @@ The Code Machine Archetype is one of several staff engineering archetypes. It de
 - The existence of this archetype shows that there is no single path to staff — it depends on your strengths
 - Other archetypes: Tech Lead, Domain Specialist
 
+### Michael Novati's Coding Machine
+- Michael is a canonical coding machine: he single-handedly removed every "preparable" class from Facebook's codebase and merged two task-tool UIs in roughly a week
+- His caveat: raw output didn't increase on his path to IC7 — taste and judgment did; a coding machine who writes fast code without judgment won't be trusted
+- On LLMs, he frames them as the Vim→VS Code→AI-assisted progression that makes coding machines (and all experienced engineers) more productive
+- Asked whether LLMs will kill the coding machine archetype: he's undecided, but says agentic flows may push it further than anything before
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -29,3 +35,6 @@ The Code Machine Archetype is one of several staff engineering archetypes. It de
 - [[Domain Specialist Archetype]] — the alternative archetype
 - [[Rahul]] — referenced this archetype from Meta's framework
 - [[Multiplicative Impact]] — even Code Machines need to scale their impact
+- [[Michael Novati]] — a canonical coding machine
+- [[summary-20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype]] — source summary
+- [[Taste and Judgment]] — what coding machines still need

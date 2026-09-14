@@ -2,7 +2,7 @@
 title: "Agency"
 type: concept
 tags: [career, soft-skills, initiative, opportunity]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md"]
 last_updated: 2026-07-21
 ---
 
@@ -22,8 +22,17 @@ Agency is the proactive taking of initiative to seek out and create opportunitie
 - Jia emphasized that agency is "not the audacity, but the initiative to kind of just go, not take permission, and just go and send it"
 - Jia's agency was further demonstrated by founding Sprint.dev from a bored Thursday night, shipping an MVP overnight, and raising angel investment at a Luma event
 
+### David Fowler's Permissionless Agency
+- Boiled down to one sentence: "you can just do things"
+- He doesn't recommend everyone burn nights/weekends, but early on his goal was to get better at software engineering, so he built whatever he could and looked for problems to solve
+- He started by attaching himself to an architect whose career he wanted, then learned to generate his own ideas and communicate them with code
+- Credibility compounds: "you get a chance to be more permissionless the better your track record is," which gives you more leash to fail and try things
+
 ## Related
 
+- [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
+- [[David Fowler]] — permissionless side projects that became products
+- [[Prototype as Highest Fidelity]] — how he communicated his ideas
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Luck]] — agency is how you capitalize on luck
 - [[Career Growth]] — agency accelerates career growth

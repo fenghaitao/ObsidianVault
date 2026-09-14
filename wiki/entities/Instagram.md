@@ -2,8 +2,8 @@
 title: "Instagram"
 type: entity
 tags: [product, social-media, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -19,6 +19,9 @@ Instagram is a photo and video sharing social media platform owned by Meta. Ryan
 - His staff promotion project was a compute efficiency optimization for Instagram video encoding, eliminating redundant work — the optimization was trivial but impactful because COVID increased platform demand
 - Instagram was a growing acquisition at the time with a "small company" feel within Meta, which made it attractive to new engineers
 
+- Jake Bolam reached IC8 (Principal Engineer) at Instagram, joining as an IC6 on Instagram web before leading the backend infrastructure migration to Meta's main stack
+- Jake's most important feedback channel for infra changes was the "server champions" — ~40 cross-org product-team leads who surface breakages within hours of a rollout
+
 - Jia Chen used Instagram as her primary content platform, posting short-form reels about hackathons
 - Jia posted the Sprint.dev MVP on Instagram at 9:00 AM and it crashed from too much traffic
 - Jia's video about receiving angel checks for Sprint.dev got 500K views on Instagram, leading to more angel investors reaching out
@@ -33,3 +36,6 @@ Instagram is a photo and video sharing social media platform owned by Meta. Ryan
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Jia Chen]] — used Instagram for content and distribution
 - [[Short-Form Content]] — Jia's content strategy on Instagram
+- [[Jake Bolam]] — Principal Engineer (IC8) at Instagram
+- [[summary-20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam]] — source summary
+- [[Blast Radius]] — how Jake's scope scaled at IC7/IC8

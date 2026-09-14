@@ -2,7 +2,7 @@
 title: "Engineering Culture"
 type: concept
 tags: [culture, engineering, teams, leadership, remote]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md"]
 last_updated: 2026-07-21
 ---
 
@@ -28,8 +28,26 @@ Engineering Culture refers to the shared values, practices, and norms that defin
 - On a weak team, you may think you're awesome because you work with bad peers, leading to over-leveling
 - You never want to be the "most expensive house on the block" — you have no room to grow
 
+### David Singleton on Enforcing Culture
+- "Culture is the behaviors you accept": if you see off-culture behavior and don't call it out, that becomes the culture
+- Leaders must authentically exemplar the culture ("ooze it out of every pore") and work at places whose values match their own
+- Concrete enforcement tools: a high-visibility bug mailing list, "walk the store" product dogfooding in all-hands, and acting as "a little bit of the police in the culture" in a supportive way
+- Stripe's operating principles are concrete behaviors distilled from the most effective Stripes, not abstract values
+
+### Bobby Holley on Bottom-Up Culture
+- Mozilla's early culture selected for persistent, self-directed people who needed only the bare minimum
+- Module ownership made areas somewhat final; distributed decisions were powerful but uneven, with weak owners tolerated
+- Modern Mozilla preserves the bottom-up security culture (voluntary around-the-clock Pwn2Own patching) while addressing those shortcomings
+
+### Microsoft's Satya-Era Shift (David Fowler)
+- Culture moved from competing duplicate teams and shouting over each other to collaboration, hand-raising, and pulling quiet voices into conversation
+
 ## Related
 
+- [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary
+- [[David Singleton]] — culture as accepted behaviors
+- [[summary-20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos]] — source summary
+- [[Bobby Holly]] — bottom-up open-source culture
 - [[Philip Su]] — built Meta London's engineering culture
 - [[Landing Teams]] — the mechanism for preserving culture
 - [[Meta]] — where Philip built the London office

@@ -1,0 +1,1136 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.270 align:start position:0%
+ 
+I<00:00:00.120><c> always</c><00:00:00.400><c> hear</c><00:00:00.680><c> there's</c><00:00:01.080><c> there's</c><00:00:01.320><c> compiled</c>
+
+00:00:02.270 --> 00:00:02.280 align:start position:0%
+I always hear there's there's compiled
+ 
+
+00:00:02.280 --> 00:00:04.710 align:start position:0%
+I always hear there's there's compiled
+languages<00:00:02.960><c> and</c><00:00:03.120><c> there's</c><00:00:03.320><c> dynamic</c><00:00:04.600><c> or</c>
+
+00:00:04.710 --> 00:00:04.720 align:start position:0%
+languages and there's dynamic or
+ 
+
+00:00:04.720 --> 00:00:06.790 align:start position:0%
+languages and there's dynamic or
+interpreted<00:00:05.280><c> languages,</c><00:00:05.760><c> I</c><00:00:05.840><c> guess.</c>
+
+00:00:06.790 --> 00:00:06.800 align:start position:0%
+interpreted languages, I guess.
+ 
+
+00:00:06.800 --> 00:00:09.430 align:start position:0%
+interpreted languages, I guess.
+But<00:00:07.240><c> really</c><00:00:07.560><c> that</c><00:00:07.760><c> distinction</c><00:00:09.000><c> is</c><00:00:09.200><c> in</c><00:00:09.320><c> the</c>
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+But really that distinction is in the
+ 
+
+00:00:09.440 --> 00:00:11.710 align:start position:0%
+But really that distinction is in the
+tool<00:00:09.640><c> chain,</c><00:00:09.960><c> not</c><00:00:10.120><c> necessarily</c><00:00:10.760><c> in</c><00:00:11.240><c> the</c><00:00:11.440><c> way</c>
+
+00:00:11.710 --> 00:00:11.720 align:start position:0%
+tool chain, not necessarily in the way
+ 
+
+00:00:11.720 --> 00:00:13.270 align:start position:0%
+tool chain, not necessarily in the way
+that<00:00:12.040><c> the</c><00:00:12.160><c> symbols</c><00:00:12.640><c> are</c><00:00:12.760><c> laid</c><00:00:13.000><c> out</c><00:00:13.120><c> in</c><00:00:13.200><c> the</c>
+
+00:00:13.270 --> 00:00:13.280 align:start position:0%
+that the symbols are laid out in the
+ 
+
+00:00:13.280 --> 00:00:15.910 align:start position:0%
+that the symbols are laid out in the
+source<00:00:13.600><c> code.</c><00:00:13.920><c> Like</c><00:00:14.120><c> I</c><00:00:14.200><c> could</c><00:00:14.440><c> write</c><00:00:15.240><c> compiler</c>
+
+00:00:15.910 --> 00:00:15.920 align:start position:0%
+source code. Like I could write compiler
+ 
+
+00:00:15.920 --> 00:00:19.510 align:start position:0%
+source code. Like I could write compiler
+or<00:00:16.040><c> program</c><00:00:16.600><c> that</c><00:00:17.360><c> takes</c><00:00:17.640><c> in</c><00:00:17.800><c> Python</c><00:00:18.320><c> code</c><00:00:19.360><c> and</c>
+
+00:00:19.510 --> 00:00:19.520 align:start position:0%
+or program that takes in Python code and
+ 
+
+00:00:19.520 --> 00:00:22.750 align:start position:0%
+or program that takes in Python code and
+then<00:00:19.760><c> converts</c><00:00:20.320><c> it</c><00:00:20.440><c> into</c><00:00:21.000><c> machine</c><00:00:21.360><c> code</c><00:00:22.320><c> and</c>
+
+00:00:22.750 --> 00:00:22.760 align:start position:0%
+then converts it into machine code and
+ 
+
+00:00:22.760 --> 00:00:24.790 align:start position:0%
+then converts it into machine code and
+then<00:00:22.960><c> I</c><00:00:23.000><c> would</c><00:00:23.120><c> have</c><00:00:23.320><c> compiled</c><00:00:23.920><c> Python.</c>
+
+00:00:24.790 --> 00:00:24.800 align:start position:0%
+then I would have compiled Python.
+ 
+
+00:00:24.800 --> 00:00:27.510 align:start position:0%
+then I would have compiled Python.
+&gt;&gt; And<00:00:25.000><c> you</c><00:00:25.120><c> can</c><00:00:25.320><c> interpret</c><00:00:26.120><c> C</c><00:00:26.360><c> code,</c><00:00:27.080><c> too.</c><00:00:27.440><c> You</c>
+
+00:00:27.510 --> 00:00:27.520 align:start position:0%
+&gt;&gt; And you can interpret C code, too. You
+ 
+
+00:00:27.520 --> 00:00:30.590 align:start position:0%
+&gt;&gt; And you can interpret C code, too. You
+can<00:00:27.760><c> write</c><00:00:28.040><c> an</c><00:00:28.200><c> interpreter</c><00:00:29.080><c> for</c><00:00:29.320><c> C.</c>
+
+00:00:30.590 --> 00:00:30.600 align:start position:0%
+can write an interpreter for C.
+ 
+
+00:00:30.600 --> 00:00:32.910 align:start position:0%
+can write an interpreter for C.
+Yes.<00:00:31.320><c> But</c><00:00:31.520><c> the</c><00:00:31.840><c> the</c><00:00:32.000><c> main</c><00:00:32.320><c> difference</c><00:00:32.800><c> is</c>
+
+00:00:32.910 --> 00:00:32.920 align:start position:0%
+Yes. But the the main difference is
+ 
+
+00:00:32.920 --> 00:00:35.670 align:start position:0%
+Yes. But the the main difference is
+actually<00:00:33.280><c> what</c><00:00:33.560><c> it's</c><00:00:33.840><c> easy</c><00:00:34.320><c> to</c><00:00:34.880><c> For</c><00:00:35.080><c> instance,</c>
+
+00:00:35.670 --> 00:00:35.680 align:start position:0%
+actually what it's easy to For instance,
+ 
+
+00:00:35.680 --> 00:00:38.270 align:start position:0%
+actually what it's easy to For instance,
+as<00:00:35.880><c> I</c><00:00:35.960><c> said,</c><00:00:36.240><c> one</c><00:00:36.400><c> of</c><00:00:36.560><c> the</c><00:00:36.800><c> hallmarks</c><00:00:38.080><c> of</c>
+
+00:00:38.270 --> 00:00:38.280 align:start position:0%
+as I said, one of the hallmarks of
+ 
+
+00:00:38.280 --> 00:00:41.950 align:start position:0%
+as I said, one of the hallmarks of
+interpreted<00:00:39.000><c> languages</c><00:00:39.960><c> eval.</c><00:00:40.960><c> So,</c>
+
+00:00:41.950 --> 00:00:41.960 align:start position:0%
+interpreted languages eval. So,
+ 
+
+00:00:41.960 --> 00:00:44.910 align:start position:0%
+interpreted languages eval. So,
+if<00:00:42.160><c> you</c><00:00:42.240><c> want</c><00:00:42.440><c> to</c><00:00:42.520><c> compile</c><00:00:43.280><c> the</c><00:00:43.440><c> language</c><00:00:44.600><c> and</c>
+
+00:00:44.910 --> 00:00:44.920 align:start position:0%
+if you want to compile the language and
+ 
+
+00:00:44.920 --> 00:00:48.590 align:start position:0%
+if you want to compile the language and
+keep<00:00:45.360><c> eval,</c><00:00:45.920><c> you</c><00:00:46.080><c> have</c><00:00:46.400><c> to</c><00:00:47.160><c> have</c><00:00:47.400><c> a</c><00:00:47.440><c> compiler</c>
+
+00:00:48.590 --> 00:00:48.600 align:start position:0%
+keep eval, you have to have a compiler
+ 
+
+00:00:48.600 --> 00:00:50.990 align:start position:0%
+keep eval, you have to have a compiler
+as<00:00:48.800><c> a</c><00:00:48.880><c> library</c><00:00:49.520><c> of</c><00:00:49.800><c> your</c>
+
+00:00:50.990 --> 00:00:51.000 align:start position:0%
+as a library of your
+ 
+
+00:00:51.000 --> 00:00:53.470 align:start position:0%
+as a library of your
+of<00:00:51.120><c> your</c><00:00:51.320><c> runtime</c><00:00:52.280><c> because</c><00:00:52.600><c> you</c><00:00:52.680><c> may</c><00:00:53.000><c> want</c><00:00:53.320><c> to</c>
+
+00:00:53.470 --> 00:00:53.480 align:start position:0%
+of your runtime because you may want to
+ 
+
+00:00:53.480 --> 00:00:55.670 align:start position:0%
+of your runtime because you may want to
+compile<00:00:54.120><c> things</c>
+
+00:00:55.670 --> 00:00:55.680 align:start position:0%
+compile things
+ 
+
+00:00:55.680 --> 00:00:58.110 align:start position:0%
+compile things
+during<00:00:56.120><c> execution.</c><00:00:56.800><c> This</c><00:00:57.000><c> is</c><00:00:57.240><c> the</c><00:00:57.400><c> hallmark</c>
+
+00:00:58.110 --> 00:00:58.120 align:start position:0%
+during execution. This is the hallmark
+ 
+
+00:00:58.120 --> 00:01:00.590 align:start position:0%
+during execution. This is the hallmark
+of<00:00:58.360><c> a</c><00:00:58.600><c> dynamic</c><00:00:59.200><c> language.</c><00:00:59.720><c> That's</c><00:01:00.040><c> So,</c><00:01:00.480><c> you</c>
+
+00:01:00.590 --> 00:01:00.600 align:start position:0%
+of a dynamic language. That's So, you
+ 
+
+00:01:00.600 --> 00:01:05.150 align:start position:0%
+of a dynamic language. That's So, you
+can<00:01:00.880><c> create</c><00:01:01.440><c> code</c><00:01:02.280><c> while</c><00:01:02.680><c> running</c><00:01:03.200><c> code.</c><00:01:04.160><c> So,</c>
+
+00:01:05.150 --> 00:01:05.160 align:start position:0%
+can create code while running code. So,
+ 
+
+00:01:05.160 --> 00:01:08.230 align:start position:0%
+can create code while running code. So,
+that<00:01:05.480><c> part</c><00:01:05.880><c> is</c><00:01:06.360><c> that</c><00:01:06.680><c> that's</c><00:01:07.120><c> why</c>
+
+00:01:08.230 --> 00:01:08.240 align:start position:0%
+that part is that that's why
+ 
+
+00:01:08.240 --> 00:01:09.630 align:start position:0%
+that part is that that's why
+in
+
+00:01:09.630 --> 00:01:09.640 align:start position:0%
+in
+ 
+
+00:01:09.640 --> 00:01:13.710 align:start position:0%
+in
+more<00:01:10.440><c> much</c><00:01:10.920><c> more</c><00:01:11.120><c> often</c><00:01:11.440><c> than</c><00:01:11.640><c> not</c>
+
+00:01:13.710 --> 00:01:13.720 align:start position:0%
+more much more often than not
+ 
+
+00:01:13.720 --> 00:01:17.190 align:start position:0%
+more much more often than not
+dynamic<00:01:14.560><c> languages</c><00:01:15.240><c> are</c><00:01:15.680><c> interpreted.</c>
+
+00:01:17.190 --> 00:01:17.200 align:start position:0%
+dynamic languages are interpreted.
+ 
+
+00:01:17.200 --> 00:01:19.670 align:start position:0%
+dynamic languages are interpreted.
+But<00:01:17.600><c> you</c><00:01:17.760><c> can</c><00:01:18.040><c> compile</c><00:01:18.640><c> but</c><00:01:18.800><c> then</c><00:01:19.040><c> sometimes</c>
+
+00:01:19.670 --> 00:01:19.680 align:start position:0%
+But you can compile but then sometimes
+ 
+
+00:01:19.680 --> 00:01:23.030 align:start position:0%
+But you can compile but then sometimes
+or<00:01:19.800><c> some</c><00:01:20.080><c> compilers</c><00:01:20.720><c> do</c><00:01:20.880><c> not</c><00:01:21.560><c> handle</c><00:01:22.160><c> eval</c><00:01:22.800><c> at</c>
+
+00:01:23.030 --> 00:01:23.040 align:start position:0%
+or some compilers do not handle eval at
+ 
+
+00:01:23.040 --> 00:01:25.110 align:start position:0%
+or some compilers do not handle eval at
+all.<00:01:23.200><c> They</c><00:01:23.360><c> say,</c><00:01:23.600><c> "Oh,</c><00:01:23.680><c> you</c><00:01:23.760><c> can</c><00:01:23.960><c> compile</c><00:01:24.760><c> as</c>
+
+00:01:25.110 --> 00:01:25.120 align:start position:0%
+all. They say, "Oh, you can compile as
+ 
+
+00:01:25.120 --> 00:01:27.270 align:start position:0%
+all. They say, "Oh, you can compile as
+long<00:01:25.440><c> as</c><00:01:25.560><c> your</c><00:01:25.760><c> program</c><00:01:26.200><c> doesn't</c><00:01:26.560><c> have</c>
+
+00:01:27.270 --> 00:01:27.280 align:start position:0%
+long as your program doesn't have
+ 
+
+00:01:27.280 --> 00:01:29.550 align:start position:0%
+long as your program doesn't have
+evals."<00:01:28.520><c> The</c><00:01:28.600><c> so</c><00:01:28.800><c> there</c><00:01:28.960><c> is</c><00:01:29.200><c> some</c>
+
+00:01:29.550 --> 00:01:29.560 align:start position:0%
+evals." The so there is some
+ 
+
+00:01:29.560 --> 00:01:32.950 align:start position:0%
+evals." The so there is some
+restrictions.<00:01:30.560><c> And</c><00:01:30.760><c> as</c><00:01:30.880><c> I</c><00:01:30.960><c> said,</c><00:01:31.320><c> you</c><00:01:31.480><c> can</c>
+
+00:01:32.950 --> 00:01:32.960 align:start position:0%
+restrictions. And as I said, you can
+ 
+
+00:01:32.960 --> 00:01:36.710 align:start position:0%
+restrictions. And as I said, you can
+interpret<00:01:34.360><c> C</c><00:01:34.720><c> code,</c><00:01:35.240><c> I</c><00:01:35.400><c> mean,</c><00:01:35.920><c> but</c><00:01:36.440><c> you'll</c><00:01:36.560><c> be</c>
+
+00:01:36.710 --> 00:01:36.720 align:start position:0%
+interpret C code, I mean, but you'll be
+ 
+
+00:01:36.720 --> 00:01:40.950 align:start position:0%
+interpret C code, I mean, but you'll be
+extremely<00:01:37.600><c> slowly</c><00:01:38.280><c> with</c><00:01:38.840><c> it.</c><00:01:38.920><c> It</c><00:01:38.960><c> doesn't</c><00:01:39.800><c> but</c>
+
+00:01:40.950 --> 00:01:40.960 align:start position:0%
+extremely slowly with it. It doesn't but
+ 
+
+00:01:40.960 --> 00:01:42.550 align:start position:0%
+extremely slowly with it. It doesn't but
+&gt;&gt; I<00:01:41.040><c> think</c><00:01:41.280><c> one</c><00:01:41.480><c> big</c><00:01:41.680><c> difference</c><00:01:42.280><c> I</c><00:01:42.360><c> mean,</c><00:01:42.440><c> when</c>
+
+00:01:42.550 --> 00:01:42.560 align:start position:0%
+&gt;&gt; I think one big difference I mean, when
+ 
+
+00:01:42.560 --> 00:01:45.310 align:start position:0%
+&gt;&gt; I think one big difference I mean, when
+I<00:01:42.600><c> look</c><00:01:42.840><c> at</c><00:01:43.520><c> statically</c><00:01:44.760><c> you</c><00:01:44.840><c> know,</c><00:01:44.960><c> static</c>
+
+00:01:45.310 --> 00:01:45.320 align:start position:0%
+I look at statically you know, static
+ 
+
+00:01:45.320 --> 00:01:47.390 align:start position:0%
+I look at statically you know, static
+languages<00:01:45.680><c> or</c><00:01:45.760><c> compiled</c><00:01:46.160><c> languages,</c>
+
+00:01:47.390 --> 00:01:47.400 align:start position:0%
+languages or compiled languages,
+ 
+
+00:01:47.400 --> 00:01:49.430 align:start position:0%
+languages or compiled languages,
+they<00:01:48.040><c> they</c><00:01:48.160><c> seem</c><00:01:48.320><c> to</c><00:01:48.400><c> have</c><00:01:48.560><c> type</c><00:01:48.840><c> systems</c><00:01:49.320><c> in</c>
+
+00:01:49.430 --> 00:01:49.440 align:start position:0%
+they they seem to have type systems in
+ 
+
+00:01:49.440 --> 00:01:52.230 align:start position:0%
+they they seem to have type systems in
+them<00:01:49.760><c> or</c><00:01:50.000><c> the</c><00:01:50.400><c> type</c><00:01:50.800><c> annotations.</c>
+
+00:01:52.230 --> 00:01:52.240 align:start position:0%
+them or the type annotations.
+ 
+
+00:01:52.240 --> 00:01:54.830 align:start position:0%
+them or the type annotations.
+What<00:01:52.360><c> is</c><00:01:52.480><c> the</c><00:01:52.600><c> role</c><00:01:52.960><c> of</c><00:01:53.160><c> a</c><00:01:53.400><c> type</c><00:01:53.720><c> system</c><00:01:54.320><c> in</c><00:01:54.680><c> the</c>
+
+00:01:54.830 --> 00:01:54.840 align:start position:0%
+What is the role of a type system in the
+ 
+
+00:01:54.840 --> 00:01:57.190 align:start position:0%
+What is the role of a type system in the
+compilation<00:01:55.480><c> process?</c>
+
+00:01:57.190 --> 00:01:57.200 align:start position:0%
+compilation process?
+ 
+
+00:01:57.200 --> 00:02:00.830 align:start position:0%
+compilation process?
+&gt;&gt; Depends<00:01:58.000><c> a</c><00:01:58.160><c> lot</c><00:01:58.760><c> of</c><00:01:59.000><c> the</c><00:01:59.240><c> on</c><00:01:59.480><c> the</c><00:01:59.600><c> type</c><00:01:59.880><c> system.</c>
+
+00:02:00.830 --> 00:02:00.840 align:start position:0%
+&gt;&gt; Depends a lot of the on the type system.
+ 
+
+00:02:00.840 --> 00:02:03.790 align:start position:0%
+&gt;&gt; Depends a lot of the on the type system.
+Several<00:02:01.640><c> type</c><00:02:01.960><c> systems</c><00:02:02.760><c> like</c><00:02:03.080><c> in</c><00:02:03.280><c> C</c><00:02:03.600><c> for</c>
+
+00:02:03.790 --> 00:02:03.800 align:start position:0%
+Several type systems like in C for
+ 
+
+00:02:03.800 --> 00:02:06.710 align:start position:0%
+Several type systems like in C for
+instance<00:02:04.200><c> are</c><00:02:04.400><c> written</c><00:02:05.520><c> to</c><00:02:05.640><c> be</c><00:02:05.760><c> an</c><00:02:06.320><c> very</c>
+
+00:02:06.710 --> 00:02:06.720 align:start position:0%
+instance are written to be an very
+ 
+
+00:02:06.720 --> 00:02:09.270 align:start position:0%
+instance are written to be an very
+important<00:02:07.560><c> part</c><00:02:08.119><c> of</c><00:02:08.440><c> the</c><00:02:08.600><c> compilation</c>
+
+00:02:09.270 --> 00:02:09.280 align:start position:0%
+important part of the compilation
+ 
+
+00:02:09.280 --> 00:02:12.470 align:start position:0%
+important part of the compilation
+process.<00:02:10.200><c> So,</c><00:02:10.960><c> if</c><00:02:11.240><c> you</c><00:02:11.400><c> have</c><00:02:11.640><c> the</c><00:02:11.800><c> right</c><00:02:12.160><c> type</c>
+
+00:02:12.470 --> 00:02:12.480 align:start position:0%
+process. So, if you have the right type
+ 
+
+00:02:12.480 --> 00:02:15.830 align:start position:0%
+process. So, if you have the right type
+system,<00:02:13.040><c> it's</c><00:02:13.280><c> much</c><00:02:13.680><c> much</c><00:02:13.959><c> easier</c><00:02:14.720><c> to</c><00:02:14.840><c> write</c><00:02:15.720><c> a</c>
+
+00:02:15.830 --> 00:02:15.840 align:start position:0%
+system, it's much much easier to write a
+ 
+
+00:02:15.840 --> 00:02:17.150 align:start position:0%
+system, it's much much easier to write a
+compiler.
+
+00:02:17.150 --> 00:02:17.160 align:start position:0%
+compiler.
+ 
+
+00:02:17.160 --> 00:02:20.030 align:start position:0%
+compiler.
+A<00:02:17.320><c> trivial</c><00:02:17.840><c> example</c><00:02:18.840><c> is</c><00:02:19.080><c> one</c><00:02:19.360><c> of</c><00:02:19.400><c> the</c><00:02:19.520><c> space</c>
+
+00:02:20.030 --> 00:02:20.040 align:start position:0%
+A trivial example is one of the space
+ 
+
+00:02:20.040 --> 00:02:22.550 align:start position:0%
+A trivial example is one of the space
+for<00:02:20.280><c> variables</c><00:02:21.560><c> because</c><00:02:21.840><c> if</c><00:02:22.040><c> you</c><00:02:22.120><c> know</c><00:02:22.360><c> all</c>
+
+00:02:22.550 --> 00:02:22.560 align:start position:0%
+for variables because if you know all
+ 
+
+00:02:22.560 --> 00:02:25.190 align:start position:0%
+for variables because if you know all
+this<00:02:22.800><c> is</c><00:02:22.959><c> an</c><00:02:23.160><c> integer,</c><00:02:24.120><c> this</c><00:02:24.360><c> is</c><00:02:24.520><c> a</c><00:02:24.600><c> float,</c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+this is an integer, this is a float,
+ 
+
+00:02:25.200 --> 00:02:27.630 align:start position:0%
+this is an integer, this is a float,
+this<00:02:25.400><c> is</c><00:02:25.560><c> a</c><00:02:25.640><c> double,</c><00:02:26.480><c> you</c><00:02:26.640><c> know</c><00:02:26.840><c> exactly</c><00:02:27.400><c> how</c>
+
+00:02:27.630 --> 00:02:27.640 align:start position:0%
+this is a double, you know exactly how
+ 
+
+00:02:27.640 --> 00:02:31.070 align:start position:0%
+this is a double, you know exactly how
+many<00:02:28.000><c> bytes</c><00:02:28.400><c> of</c><00:02:28.600><c> memory</c><00:02:29.560><c> you</c><00:02:29.720><c> need</c><00:02:30.200><c> to</c><00:02:30.320><c> that.</c>
+
+00:02:31.070 --> 00:02:31.080 align:start position:0%
+many bytes of memory you need to that.
+ 
+
+00:02:31.080 --> 00:02:33.830 align:start position:0%
+many bytes of memory you need to that.
+Otherwise,<00:02:32.000><c> it's</c><00:02:32.320><c> a</c><00:02:32.360><c> mess</c><00:02:32.880><c> of</c><00:02:33.320><c> more</c><00:02:33.560><c> often</c>
+
+00:02:33.830 --> 00:02:33.840 align:start position:0%
+Otherwise, it's a mess of more often
+ 
+
+00:02:33.840 --> 00:02:35.510 align:start position:0%
+Otherwise, it's a mess of more often
+than<00:02:34.000><c> not</c><00:02:34.240><c> you</c><00:02:34.360><c> have</c><00:02:34.560><c> to</c><00:02:34.720><c> keep</c><00:02:34.959><c> everything</c><00:02:35.440><c> in</c>
+
+00:02:35.510 --> 00:02:35.520 align:start position:0%
+than not you have to keep everything in
+ 
+
+00:02:35.520 --> 00:02:40.150 align:start position:0%
+than not you have to keep everything in
+the<00:02:35.680><c> heap</c><00:02:36.320><c> dynamically</c><00:02:37.040><c> allocated.</c><00:02:38.120><c> And</c><00:02:38.320><c> so,</c>
+
+00:02:40.150 --> 00:02:40.160 align:start position:0%
+the heap dynamically allocated. And so,
+ 
+
+00:02:40.160 --> 00:02:41.870 align:start position:0%
+the heap dynamically allocated. And so,
+huge
+
+00:02:41.870 --> 00:02:41.880 align:start position:0%
+huge
+ 
+
+00:02:41.880 --> 00:02:44.110 align:start position:0%
+huge
+penalty<00:02:42.520><c> in</c><00:02:42.720><c> performance.</c><00:02:43.840><c> And</c><00:02:44.000><c> for</c>
+
+00:02:44.110 --> 00:02:44.120 align:start position:0%
+penalty in performance. And for
+ 
+
+00:02:44.120 --> 00:02:45.990 align:start position:0%
+penalty in performance. And for
+instance,<00:02:44.440><c> when</c><00:02:44.600><c> you</c><00:02:44.720><c> see</c><00:02:45.040><c> it</c><00:02:45.440><c> as</c><00:02:45.640><c> I</c><00:02:45.720><c> said,</c><00:02:45.920><c> a</c>
+
+00:02:45.990 --> 00:02:46.000 align:start position:0%
+instance, when you see it as I said, a
+ 
+
+00:02:46.000 --> 00:02:48.510 align:start position:0%
+instance, when you see it as I said, a
+trivial<00:02:46.520><c> you</c><00:02:46.680><c> have</c><00:02:46.840><c> an</c><00:02:47.000><c> addition.</c>
+
+00:02:48.510 --> 00:02:48.520 align:start position:0%
+trivial you have an addition.
+ 
+
+00:02:48.520 --> 00:02:52.510 align:start position:0%
+trivial you have an addition.
+A<00:02:49.040><c> plus</c><00:02:49.480><c> B.</c><00:02:50.240><c> If</c><00:02:50.440><c> you</c><00:02:50.520><c> know</c><00:02:50.680><c> the</c><00:02:50.920><c> type</c><00:02:51.280><c> of</c><00:02:51.560><c> A</c>
+
+00:02:52.510 --> 00:02:52.520 align:start position:0%
+A plus B. If you know the type of A
+ 
+
+00:02:52.520 --> 00:02:54.630 align:start position:0%
+A plus B. If you know the type of A
+A<00:02:52.760><c> plus</c><00:02:53.040><c> B,</c><00:02:53.240><c> you</c><00:02:53.360><c> have</c><00:02:53.520><c> the</c><00:02:53.720><c> type</c><00:02:54.040><c> of</c><00:02:54.280><c> A,</c><00:02:54.480><c> the</c>
+
+00:02:54.630 --> 00:02:54.640 align:start position:0%
+A plus B, you have the type of A, the
+ 
+
+00:02:54.640 --> 00:02:57.070 align:start position:0%
+A plus B, you have the type of A, the
+type<00:02:54.920><c> of</c><00:02:55.120><c> B,</c><00:02:55.400><c> you</c><00:02:55.560><c> have</c><00:02:55.760><c> a</c><00:02:55.840><c> compile</c><00:02:56.480><c> time,</c><00:02:56.959><c> you</c>
+
+00:02:57.070 --> 00:02:57.080 align:start position:0%
+type of B, you have a compile time, you
+ 
+
+00:02:57.080 --> 00:02:59.590 align:start position:0%
+type of B, you have a compile time, you
+know<00:02:57.320><c> all</c><00:02:57.560><c> this</c><00:02:57.880><c> plus</c><00:02:58.320><c> is</c><00:02:58.520><c> a</c>
+
+00:02:59.590 --> 00:02:59.600 align:start position:0%
+know all this plus is a
+ 
+
+00:02:59.600 --> 00:03:01.990 align:start position:0%
+know all this plus is a
+I'm<00:02:59.840><c> adding</c><00:03:00.280><c> two</c><00:03:00.480><c> integers,</c><00:03:01.160><c> I</c><00:03:01.239><c> just</c><00:03:01.600><c> generate</c>
+
+00:03:01.990 --> 00:03:02.000 align:start position:0%
+I'm adding two integers, I just generate
+ 
+
+00:03:02.000 --> 00:03:04.750 align:start position:0%
+I'm adding two integers, I just generate
+the<00:03:02.120><c> machine</c><00:03:02.600><c> code</c><00:03:02.959><c> to</c><00:03:03.200><c> add</c><00:03:03.440><c> integers,</c><00:03:04.560><c> and</c>
+
+00:03:04.750 --> 00:03:04.760 align:start position:0%
+the machine code to add integers, and
+ 
+
+00:03:04.760 --> 00:03:06.710 align:start position:0%
+the machine code to add integers, and
+there<00:03:05.000><c> everything</c><00:03:05.440><c> is</c><00:03:05.640><c> fine.</c><00:03:05.880><c> In</c><00:03:06.000><c> a</c><00:03:06.080><c> dynamic</c>
+
+00:03:06.710 --> 00:03:06.720 align:start position:0%
+there everything is fine. In a dynamic
+ 
+
+00:03:06.720 --> 00:03:09.150 align:start position:0%
+there everything is fine. In a dynamic
+language,<00:03:07.160><c> I</c><00:03:07.200><c> see</c><00:03:07.400><c> a</c><00:03:07.519><c> plus,</c>
+
+00:03:09.150 --> 00:03:09.160 align:start position:0%
+language, I see a plus,
+ 
+
+00:03:09.160 --> 00:03:11.590 align:start position:0%
+language, I see a plus,
+I<00:03:09.239><c> don't</c><00:03:09.480><c> I</c><00:03:09.760><c> I</c><00:03:10.000><c> I</c><00:03:10.120><c> compile</c>
+
+00:03:11.590 --> 00:03:11.600 align:start position:0%
+I don't I I I compile
+ 
+
+00:03:11.600 --> 00:03:13.990 align:start position:0%
+I don't I I I compile
+to<00:03:11.800><c> a</c><00:03:12.000><c> virtual</c><00:03:12.440><c> in</c><00:03:12.560><c> the</c><00:03:12.680><c> virtual</c><00:03:13.200><c> language</c><00:03:13.720><c> it</c>
+
+00:03:13.990 --> 00:03:14.000 align:start position:0%
+to a virtual in the virtual language it
+ 
+
+00:03:14.000 --> 00:03:17.430 align:start position:0%
+to a virtual in the virtual language it
+is<00:03:14.200><c> just</c><00:03:14.519><c> piece</c><00:03:14.800><c> of</c><00:03:15.040><c> plus,</c><00:03:16.000><c> but</c><00:03:16.280><c> then</c><00:03:16.600><c> how</c><00:03:16.840><c> do</c><00:03:17.040><c> I</c>
+
+00:03:17.430 --> 00:03:17.440 align:start position:0%
+is just piece of plus, but then how do I
+ 
+
+00:03:17.440 --> 00:03:19.990 align:start position:0%
+is just piece of plus, but then how do I
+at<00:03:17.840><c> run</c><00:03:18.120><c> time</c><00:03:18.440><c> you</c><00:03:18.519><c> have</c><00:03:18.720><c> to</c><00:03:18.840><c> check</c><00:03:19.239><c> what</c><00:03:19.480><c> is</c><00:03:19.680><c> A</c>
+
+00:03:19.990 --> 00:03:20.000 align:start position:0%
+at run time you have to check what is A
+ 
+
+00:03:20.000 --> 00:03:22.590 align:start position:0%
+at run time you have to check what is A
+or<00:03:20.280><c> A</c><00:03:20.400><c> is</c><00:03:20.560><c> an</c><00:03:20.760><c> integer,</c><00:03:21.320><c> B</c><00:03:21.680><c> is</c><00:03:21.880><c> a</c><00:03:21.959><c> float,</c><00:03:22.440><c> oh</c>
+
+00:03:22.590 --> 00:03:22.600 align:start position:0%
+or A is an integer, B is a float, oh
+ 
+
+00:03:22.600 --> 00:03:25.150 align:start position:0%
+or A is an integer, B is a float, oh
+yeah,<00:03:22.760><c> I</c><00:03:22.800><c> have</c><00:03:22.959><c> to</c><00:03:23.080><c> convert</c><00:03:23.680><c> or</c><00:03:24.120><c> B</c><00:03:24.320><c> is</c><00:03:24.480><c> a</c><00:03:24.560><c> string</c>
+
+00:03:25.150 --> 00:03:25.160 align:start position:0%
+yeah, I have to convert or B is a string
+ 
+
+00:03:25.160 --> 00:03:27.670 align:start position:0%
+yeah, I have to convert or B is a string
+or<00:03:25.400><c> depending</c><00:03:25.880><c> on</c><00:03:26.000><c> the</c><00:03:26.120><c> language,</c><00:03:26.800><c> you're</c>
+
+00:03:27.670 --> 00:03:27.680 align:start position:0%
+or depending on the language, you're
+ 
+
+00:03:27.680 --> 00:03:29.310 align:start position:0%
+or depending on the language, you're
+you're<00:03:27.800><c> not</c><00:03:28.040><c> doing</c><00:03:28.360><c> addition,</c><00:03:28.880><c> it</c><00:03:28.959><c> can</c><00:03:29.160><c> be</c>
+
+00:03:29.310 --> 00:03:29.320 align:start position:0%
+you're not doing addition, it can be
+ 
+
+00:03:29.320 --> 00:03:31.790 align:start position:0%
+you're not doing addition, it can be
+doing<00:03:29.640><c> concatenation,</c><00:03:30.680><c> or</c><00:03:30.840><c> you</c><00:03:30.920><c> can</c><00:03:31.120><c> just</c>
+
+00:03:31.790 --> 00:03:31.800 align:start position:0%
+doing concatenation, or you can just
+ 
+
+00:03:31.800 --> 00:03:33.790 align:start position:0%
+doing concatenation, or you can just
+calling<00:03:32.360><c> someone,</c><00:03:32.959><c> and</c><00:03:33.120><c> you</c><00:03:33.200><c> have</c><00:03:33.400><c> to</c><00:03:33.519><c> do</c><00:03:33.680><c> all</c>
+
+00:03:33.790 --> 00:03:33.800 align:start position:0%
+calling someone, and you have to do all
+ 
+
+00:03:33.800 --> 00:03:34.710 align:start position:0%
+calling someone, and you have to do all
+that
+
+00:03:34.710 --> 00:03:34.720 align:start position:0%
+that
+ 
+
+00:03:34.720 --> 00:03:38.430 align:start position:0%
+that
+at<00:03:34.959><c> run</c><00:03:35.200><c> time.</c><00:03:36.080><c> So,</c><00:03:36.640><c> types</c><00:03:37.080><c> can</c><00:03:37.280><c> be</c><00:03:37.440><c> very</c><00:03:38.080><c> very</c>
+
+00:03:38.430 --> 00:03:38.440 align:start position:0%
+at run time. So, types can be very very
+ 
+
+00:03:38.440 --> 00:03:43.710 align:start position:0%
+at run time. So, types can be very very
+important<00:03:39.680><c> to</c><00:03:40.239><c> compile</c><00:03:41.239><c> efficiently,</c><00:03:42.560><c> but</c><00:03:43.480><c> of</c>
+
+00:03:43.710 --> 00:03:43.720 align:start position:0%
+important to compile efficiently, but of
+ 
+
+00:03:43.720 --> 00:03:45.830 align:start position:0%
+important to compile efficiently, but of
+course<00:03:44.040><c> you</c><00:03:44.160><c> have</c><00:03:44.440><c> to</c>
+
+00:03:45.830 --> 00:03:45.840 align:start position:0%
+course you have to
+ 
+
+00:03:45.840 --> 00:03:48.670 align:start position:0%
+course you have to
+have<00:03:46.080><c> a</c><00:03:46.160><c> type</c><00:03:46.519><c> system</c><00:03:47.080><c> that</c>
+
+00:03:48.670 --> 00:03:48.680 align:start position:0%
+have a type system that
+ 
+
+00:03:48.680 --> 00:03:50.670 align:start position:0%
+have a type system that
+that<00:03:48.840><c> there</c><00:03:48.959><c> are</c><00:03:49.040><c> several</c><00:03:49.480><c> language</c><00:03:49.920><c> now</c><00:03:50.160><c> like</c>
+
+00:03:50.670 --> 00:03:50.680 align:start position:0%
+that there are several language now like
+ 
+
+00:03:50.680 --> 00:03:53.550 align:start position:0%
+that there are several language now like
+type<00:03:51.200><c> type</c><00:03:51.519><c> script</c><00:03:52.440><c> that</c>
+
+00:03:53.550 --> 00:03:53.560 align:start position:0%
+type type script that
+ 
+
+00:03:53.560 --> 00:03:55.670 align:start position:0%
+type type script that
+types<00:03:54.040><c> are</c><00:03:54.280><c> kind</c><00:03:54.720><c> of</c>
+
+00:03:55.670 --> 00:03:55.680 align:start position:0%
+types are kind of
+ 
+
+00:03:55.680 --> 00:03:58.070 align:start position:0%
+types are kind of
+you<00:03:55.800><c> do</c><00:03:55.920><c> not</c><00:03:56.160><c> guarantee</c><00:03:56.920><c> that</c><00:03:57.240><c> everything</c><00:03:57.800><c> has</c>
+
+00:03:58.070 --> 00:03:58.080 align:start position:0%
+you do not guarantee that everything has
+ 
+
+00:03:58.080 --> 00:04:00.190 align:start position:0%
+you do not guarantee that everything has
+the<00:03:58.240><c> types</c><00:03:58.680><c> you</c><00:03:58.800><c> said</c>
+
+00:04:00.190 --> 00:04:00.200 align:start position:0%
+the types you said
+ 
+
+00:04:00.200 --> 00:04:03.430 align:start position:0%
+the types you said
+they<00:04:00.360><c> have.</c><00:04:01.160><c> So,</c><00:04:02.040><c> then</c><00:04:02.280><c> it's</c><00:04:02.480><c> impossible</c><00:04:03.200><c> to</c>
+
+00:04:03.430 --> 00:04:03.440 align:start position:0%
+they have. So, then it's impossible to
+ 
+
+00:04:03.440 --> 00:04:05.830 align:start position:0%
+they have. So, then it's impossible to
+use<00:04:03.720><c> them</c><00:04:03.920><c> to</c><00:04:04.080><c> compile</c><00:04:04.720><c> because</c><00:04:05.000><c> oh,</c><00:04:05.400><c> thread</c>
+
+00:04:05.830 --> 00:04:05.840 align:start position:0%
+use them to compile because oh, thread
+ 
+
+00:04:05.840 --> 00:04:08.350 align:start position:0%
+use them to compile because oh, thread
+the<00:04:05.960><c> BA</c><00:04:06.520><c> will</c><00:04:06.760><c> be</c><00:04:06.959><c> an</c><00:04:07.120><c> integer,</c><00:04:07.720><c> but</c><00:04:07.920><c> if</c><00:04:08.120><c> it's</c>
+
+00:04:08.350 --> 00:04:08.360 align:start position:0%
+the BA will be an integer, but if it's
+ 
+
+00:04:08.360 --> 00:04:11.270 align:start position:0%
+the BA will be an integer, but if it's
+not<00:04:08.640><c> I</c><00:04:08.720><c> mean</c><00:04:09.040><c> it's</c><00:04:09.920><c> if</c><00:04:10.280><c> it</c><00:04:10.440><c> I</c><00:04:10.560><c> have</c><00:04:10.800><c> an</c><00:04:11.080><c> an</c>
+
+00:04:11.270 --> 00:04:11.280 align:start position:0%
+not I mean it's if it I have an an
+ 
+
+00:04:11.280 --> 00:04:14.110 align:start position:0%
+not I mean it's if it I have an an
+integer<00:04:11.800><c> register</c><00:04:12.400><c> to</c><00:04:12.600><c> put</c><00:04:12.959><c> 40</c>
+
+00:04:14.110 --> 00:04:14.120 align:start position:0%
+integer register to put 40
+ 
+
+00:04:14.120 --> 00:04:16.990 align:start position:0%
+integer register to put 40
+it<00:04:14.360><c> must</c><00:04:14.760><c> be</c><00:04:14.920><c> a</c><00:04:15.000><c> register</c><00:04:15.680><c> or</c>
+
+00:04:16.990 --> 00:04:17.000 align:start position:0%
+it must be a register or
+ 
+
+00:04:17.000 --> 00:04:19.349 align:start position:0%
+it must be a register or
+things<00:04:17.239><c> do</c><00:04:17.359><c> not</c><00:04:17.720><c> work.</c><00:04:18.000><c> So,</c><00:04:18.760><c> but</c><00:04:18.959><c> if</c><00:04:19.079><c> you</c><00:04:19.200><c> have</c>
+
+00:04:19.349 --> 00:04:19.359 align:start position:0%
+things do not work. So, but if you have
+ 
+
+00:04:19.359 --> 00:04:23.030 align:start position:0%
+things do not work. So, but if you have
+the<00:04:19.519><c> right</c><00:04:20.079><c> type</c><00:04:20.400><c> system</c><00:04:21.320><c> they</c><00:04:21.640><c> are</c><00:04:22.280><c> essential</c>
+
+00:04:23.030 --> 00:04:23.040 align:start position:0%
+the right type system they are essential
+ 
+
+00:04:23.040 --> 00:04:24.870 align:start position:0%
+the right type system they are essential
+for<00:04:23.240><c> a</c><00:04:23.320><c> good</c><00:04:23.520><c> compilation.</c>
+
+00:04:24.870 --> 00:04:24.880 align:start position:0%
+for a good compilation.
+ 
+
+00:04:24.880 --> 00:04:26.270 align:start position:0%
+for a good compilation.
+&gt;&gt; I<00:04:24.919><c> know</c><00:04:25.080><c> some</c><00:04:25.280><c> programming</c><00:04:25.760><c> languages</c><00:04:26.120><c> have</c>
+
+00:04:26.270 --> 00:04:26.280 align:start position:0%
+&gt;&gt; I know some programming languages have
+ 
+
+00:04:26.280 --> 00:04:28.830 align:start position:0%
+&gt;&gt; I know some programming languages have
+type<00:04:26.600><c> inference.</c><00:04:27.600><c> What</c><00:04:27.720><c> if</c><00:04:27.840><c> you</c><00:04:28.040><c> did</c><00:04:28.400><c> you</c><00:04:28.560><c> run</c>
+
+00:04:28.830 --> 00:04:28.840 align:start position:0%
+type inference. What if you did you run
+ 
+
+00:04:28.840 --> 00:04:32.470 align:start position:0%
+type inference. What if you did you run
+type<00:04:29.120><c> inference</c><00:04:29.760><c> and</c><00:04:29.919><c> you</c><00:04:30.000><c> got</c><00:04:30.320><c> a</c><00:04:30.600><c> unambiguous</c>
+
+00:04:32.470 --> 00:04:32.480 align:start position:0%
+type inference and you got a unambiguous
+ 
+
+00:04:32.480 --> 00:04:35.550 align:start position:0%
+type inference and you got a unambiguous
+set<00:04:32.720><c> of</c><00:04:32.840><c> types</c><00:04:33.280><c> and</c><00:04:33.400><c> then</c><00:04:33.560><c> you</c><00:04:33.720><c> use</c><00:04:33.960><c> that</c><00:04:34.360><c> in</c>
+
+00:04:35.550 --> 00:04:35.560 align:start position:0%
+set of types and then you use that in
+ 
+
+00:04:35.560 --> 00:04:37.550 align:start position:0%
+set of types and then you use that in
+compilation.<00:04:36.440><c> Like</c><00:04:36.800><c> could</c><00:04:37.000><c> you</c><00:04:37.080><c> do</c><00:04:37.200><c> that</c><00:04:37.440><c> for</c>
+
+00:04:37.550 --> 00:04:37.560 align:start position:0%
+compilation. Like could you do that for
+ 
+
+00:04:37.560 --> 00:04:39.470 align:start position:0%
+compilation. Like could you do that for
+Lua?
+
+00:04:39.470 --> 00:04:39.480 align:start position:0%
+Lua?
+ 
+
+00:04:39.480 --> 00:04:41.909 align:start position:0%
+Lua?
+&gt;&gt; No.
+
+00:04:41.909 --> 00:04:41.919 align:start position:0%
+&gt;&gt; No.
+ 
+
+00:04:41.919 --> 00:04:44.830 align:start position:0%
+&gt;&gt; No.
+I<00:04:42.320><c> I</c><00:04:42.440><c> mean</c><00:04:42.600><c> that's</c><00:04:42.880><c> not</c><00:04:43.160><c> computable,</c><00:04:44.040><c> but</c><00:04:44.760><c> a</c>
+
+00:04:44.830 --> 00:04:44.840 align:start position:0%
+I I mean that's not computable, but a
+ 
+
+00:04:44.840 --> 00:04:47.150 align:start position:0%
+I I mean that's not computable, but a
+lot<00:04:45.120><c> of</c><00:04:45.280><c> people</c><00:04:45.680><c> tried</c><00:04:46.240><c> to</c>
+
+00:04:47.150 --> 00:04:47.160 align:start position:0%
+lot of people tried to
+ 
+
+00:04:47.160 --> 00:04:48.750 align:start position:0%
+lot of people tried to
+to<00:04:47.320><c> do</c>
+
+00:04:48.750 --> 00:04:48.760 align:start position:0%
+to do
+ 
+
+00:04:48.760 --> 00:04:52.390 align:start position:0%
+to do
+in<00:04:49.080><c> type</c><00:04:49.440><c> inference</c><00:04:50.320><c> for</c><00:04:50.600><c> dynamic</c><00:04:51.200><c> languages</c>
+
+00:04:52.390 --> 00:04:52.400 align:start position:0%
+in type inference for dynamic languages
+ 
+
+00:04:52.400 --> 00:04:55.590 align:start position:0%
+in type inference for dynamic languages
+and<00:04:52.560><c> it's</c><00:04:53.360><c> really</c><00:04:53.760><c> hard</c><00:04:54.240><c> pro-</c><00:04:54.800><c> problem</c><00:04:55.400><c> and</c>
+
+00:04:55.590 --> 00:04:55.600 align:start position:0%
+and it's really hard pro- problem and
+ 
+
+00:04:55.600 --> 00:04:57.590 align:start position:0%
+and it's really hard pro- problem and
+it's<00:04:55.800><c> very</c><00:04:56.080><c> difficult</c><00:04:56.640><c> to</c><00:04:56.840><c> do</c><00:04:57.040><c> anything</c>
+
+00:04:57.590 --> 00:04:57.600 align:start position:0%
+it's very difficult to do anything
+ 
+
+00:04:57.600 --> 00:05:01.150 align:start position:0%
+it's very difficult to do anything
+useful<00:04:58.600><c> in</c><00:04:58.760><c> terms</c><00:04:59.200><c> of</c><00:04:59.520><c> performance.</c><00:05:00.640><c> What</c><00:05:01.000><c> you</c>
+
+00:05:01.150 --> 00:05:01.160 align:start position:0%
+useful in terms of performance. What you
+ 
+
+00:05:01.160 --> 00:05:04.390 align:start position:0%
+useful in terms of performance. What you
+sometimes<00:05:02.200><c> you</c><00:05:02.320><c> get,</c><00:05:02.760><c> but</c><00:05:03.280><c> you</c><00:05:03.440><c> have</c><00:05:03.720><c> a</c><00:05:03.800><c> very</c>
+
+00:05:04.390 --> 00:05:04.400 align:start position:0%
+sometimes you get, but you have a very
+ 
+
+00:05:04.400 --> 00:05:05.990 align:start position:0%
+sometimes you get, but you have a very
+restrict
+
+00:05:05.990 --> 00:05:06.000 align:start position:0%
+restrict
+ 
+
+00:05:06.000 --> 00:05:08.710 align:start position:0%
+restrict
+Oh,<00:05:06.400><c> if</c><00:05:06.720><c> you</c><00:05:06.880><c> write</c><00:05:07.280><c> your</c><00:05:07.520><c> program</c><00:05:08.120><c> in</c><00:05:08.280><c> that</c>
+
+00:05:08.710 --> 00:05:08.720 align:start position:0%
+Oh, if you write your program in that
+ 
+
+00:05:08.720 --> 00:05:12.710 align:start position:0%
+Oh, if you write your program in that
+specific<00:05:09.680><c> way</c><00:05:10.320><c> use</c><00:05:10.760><c> for</c><00:05:11.440><c> So,</c><00:05:11.800><c> it's</c><00:05:12.200><c> like</c><00:05:12.600><c> you</c>
+
+00:05:12.710 --> 00:05:12.720 align:start position:0%
+specific way use for So, it's like you
+ 
+
+00:05:12.720 --> 00:05:14.670 align:start position:0%
+specific way use for So, it's like you
+don't<00:05:13.000><c> have</c><00:05:13.280><c> the</c><00:05:13.440><c> type,</c><00:05:13.760><c> but</c><00:05:13.960><c> you</c><00:05:14.160><c> write</c><00:05:14.560><c> the</c>
+
+00:05:14.670 --> 00:05:14.680 align:start position:0%
+don't have the type, but you write the
+ 
+
+00:05:14.680 --> 00:05:18.070 align:start position:0%
+don't have the type, but you write the
+program<00:05:15.200><c> thinking</c><00:05:16.280><c> about</c><00:05:16.760><c> type</c><00:05:17.440><c> and</c><00:05:17.640><c> then</c><00:05:17.880><c> if</c>
+
+00:05:18.070 --> 00:05:18.080 align:start position:0%
+program thinking about type and then if
+ 
+
+00:05:18.080 --> 00:05:20.390 align:start position:0%
+program thinking about type and then if
+the<00:05:18.200><c> program</c><00:05:18.560><c> is</c><00:05:18.720><c> that</c><00:05:19.040><c> very</c><00:05:19.600><c> particular</c>
+
+00:05:20.390 --> 00:05:20.400 align:start position:0%
+the program is that very particular
+ 
+
+00:05:20.400 --> 00:05:23.909 align:start position:0%
+the program is that very particular
+format,<00:05:21.320><c> then</c><00:05:21.960><c> you</c><00:05:22.160><c> can</c>
+
+00:05:23.909 --> 00:05:23.919 align:start position:0%
+format, then you can
+ 
+
+00:05:23.919 --> 00:05:26.350 align:start position:0%
+format, then you can
+do<00:05:24.200><c> type</c><00:05:24.600><c> inference</c><00:05:25.160><c> and</c><00:05:25.320><c> everything</c><00:05:25.960><c> goes</c>
+
+00:05:26.350 --> 00:05:26.360 align:start position:0%
+do type inference and everything goes
+ 
+
+00:05:26.360 --> 00:05:29.270 align:start position:0%
+do type inference and everything goes
+well.<00:05:27.000><c> Otherwise,</c><00:05:28.080><c> either</c><00:05:28.480><c> type</c><00:05:28.840><c> inference</c>
+
+00:05:29.270 --> 00:05:29.280 align:start position:0%
+well. Otherwise, either type inference
+ 
+
+00:05:29.280 --> 00:05:32.470 align:start position:0%
+well. Otherwise, either type inference
+doesn't<00:05:29.720><c> work</c><00:05:30.400><c> or</c><00:05:30.960><c> I</c><00:05:31.080><c> mean</c><00:05:31.280><c> it</c><00:05:31.480><c> works,</c><00:05:32.000><c> but</c><00:05:32.200><c> it</c>
+
+00:05:32.470 --> 00:05:32.480 align:start position:0%
+doesn't work or I mean it works, but it
+ 
+
+00:05:32.480 --> 00:05:35.870 align:start position:0%
+doesn't work or I mean it works, but it
+actually<00:05:33.000><c> it</c><00:05:33.160><c> infers</c><00:05:34.400><c> very</c><00:05:34.760><c> generic</c><00:05:35.480><c> types</c>
+
+00:05:35.870 --> 00:05:35.880 align:start position:0%
+actually it infers very generic types
+ 
+
+00:05:35.880 --> 00:05:38.790 align:start position:0%
+actually it infers very generic types
+for<00:05:36.080><c> everything</c><00:05:37.120><c> and</c><00:05:37.320><c> so</c><00:05:37.919><c> you</c><00:05:38.040><c> cannot</c><00:05:38.560><c> take</c>
+
+00:05:38.790 --> 00:05:38.800 align:start position:0%
+for everything and so you cannot take
+ 
+
+00:05:38.800 --> 00:05:41.790 align:start position:0%
+for everything and so you cannot take
+advantage<00:05:39.600><c> of</c><00:05:39.919><c> of</c><00:05:40.320><c> of</c><00:05:40.480><c> the</c><00:05:40.680><c> types</c><00:05:41.440><c> because</c>
+
+00:05:41.790 --> 00:05:41.800 align:start position:0%
+advantage of of of the types because
+ 
+
+00:05:41.800 --> 00:05:44.350 align:start position:0%
+advantage of of of the types because
+exactly<00:05:42.160><c> the</c><00:05:42.360><c> dynamic</c><00:05:43.120><c> nature</c><00:05:43.760><c> of</c><00:05:44.240><c> the</c>
+
+00:05:44.350 --> 00:05:44.360 align:start position:0%
+exactly the dynamic nature of the
+ 
+
+00:05:44.360 --> 00:05:47.550 align:start position:0%
+exactly the dynamic nature of the
+language.<00:05:45.240><c> This</c><00:05:45.560><c> is</c><00:05:46.080><c> also</c><00:05:46.480><c> happens</c><00:05:47.000><c> with</c>
+
+00:05:47.550 --> 00:05:47.560 align:start position:0%
+language. This is also happens with
+ 
+
+00:05:47.560 --> 00:05:49.390 align:start position:0%
+language. This is also happens with
+legit<00:05:48.040><c> for</c><00:05:48.200><c> instance.</c>
+
+00:05:49.390 --> 00:05:49.400 align:start position:0%
+legit for instance.
+ 
+
+00:05:49.400 --> 00:05:52.430 align:start position:0%
+legit for instance.
+You<00:05:49.560><c> can</c><00:05:49.760><c> get</c><00:05:50.120><c> much</c><00:05:50.680><c> much</c><00:05:51.000><c> better</c><00:05:51.320><c> performance</c>
+
+00:05:52.430 --> 00:05:52.440 align:start position:0%
+You can get much much better performance
+ 
+
+00:05:52.440 --> 00:05:55.470 align:start position:0%
+You can get much much better performance
+if<00:05:52.640><c> you</c><00:05:52.800><c> have</c><00:05:53.520><c> a</c><00:05:53.640><c> kind</c><00:05:54.000><c> of</c><00:05:54.200><c> a</c><00:05:54.440><c> type</c><00:05:54.800><c> system</c><00:05:55.320><c> in</c>
+
+00:05:55.470 --> 00:05:55.480 align:start position:0%
+if you have a kind of a type system in
+ 
+
+00:05:55.480 --> 00:05:58.510 align:start position:0%
+if you have a kind of a type system in
+your<00:05:55.720><c> in</c><00:05:55.840><c> your</c><00:05:56.080><c> mind.</c><00:05:57.000><c> Usually</c><00:05:57.440><c> we</c><00:05:57.680><c> do</c><00:05:57.880><c> that</c>
+
+00:05:58.510 --> 00:05:58.520 align:start position:0%
+your in your mind. Usually we do that
+ 
+
+00:05:58.520 --> 00:06:01.830 align:start position:0%
+your in your mind. Usually we do that
+and<00:05:58.640><c> you</c><00:05:59.160><c> and</c><00:05:59.360><c> you</c><00:05:59.480><c> follow</c><00:06:00.000><c> that</c><00:06:00.840><c> type</c><00:06:01.200><c> rules</c>
+
+00:06:01.830 --> 00:06:01.840 align:start position:0%
+and you and you follow that type rules
+ 
+
+00:06:01.840 --> 00:06:04.350 align:start position:0%
+and you and you follow that type rules
+even<00:06:02.200><c> without</c><00:06:02.720><c> that.</c><00:06:02.960><c> I</c><00:06:03.000><c> mean</c><00:06:03.200><c> the</c><00:06:03.320><c> compiler</c>
+
+00:06:04.350 --> 00:06:04.360 align:start position:0%
+even without that. I mean the compiler
+ 
+
+00:06:04.360 --> 00:06:06.990 align:start position:0%
+even without that. I mean the compiler
+the<00:06:04.480><c> language</c><00:06:04.880><c> does</c><00:06:05.120><c> not</c><00:06:05.400><c> impose</c><00:06:06.000><c> them</c><00:06:06.720><c> on</c>
+
+00:06:06.990 --> 00:06:07.000 align:start position:0%
+the language does not impose them on
+ 
+
+00:06:07.000 --> 00:06:08.950 align:start position:0%
+the language does not impose them on
+you,<00:06:07.240><c> but</c><00:06:07.600><c> you</c><00:06:07.760><c> assume</c><00:06:08.280><c> or</c><00:06:08.440><c> I'm</c><00:06:08.600><c> going</c><00:06:08.840><c> to</c>
+
+00:06:08.950 --> 00:06:08.960 align:start position:0%
+you, but you assume or I'm going to
+ 
+
+00:06:08.960 --> 00:06:10.350 align:start position:0%
+you, but you assume or I'm going to
+follow<00:06:09.400><c> those</c>
+
+00:06:10.350 --> 00:06:10.360 align:start position:0%
+follow those
+ 
+
+00:06:10.360 --> 00:06:13.510 align:start position:0%
+follow those
+sometime<00:06:11.040><c> discipline.</c><00:06:12.040><c> I'm</c><00:06:12.240><c> not</c><00:06:12.480><c> going</c><00:06:12.680><c> to</c><00:06:13.280><c> to</c>
+
+00:06:13.510 --> 00:06:13.520 align:start position:0%
+sometime discipline. I'm not going to to
+ 
+
+00:06:13.520 --> 00:06:15.470 align:start position:0%
+sometime discipline. I'm not going to to
+to<00:06:13.720><c> use</c><00:06:13.880><c> the</c><00:06:14.000><c> same</c><00:06:14.360><c> variable</c><00:06:14.960><c> to</c><00:06:15.120><c> store</c>
+
+00:06:15.470 --> 00:06:15.480 align:start position:0%
+to use the same variable to store
+ 
+
+00:06:15.480 --> 00:06:18.590 align:start position:0%
+to use the same variable to store
+integers<00:06:16.360><c> and</c><00:06:16.560><c> strings</c><00:06:17.200><c> etc.</c><00:06:18.120><c> And</c><00:06:18.320><c> then</c><00:06:18.520><c> you</c>
+
+00:06:18.590 --> 00:06:18.600 align:start position:0%
+integers and strings etc. And then you
+ 
+
+00:06:18.600 --> 00:06:23.120 align:start position:0%
+integers and strings etc. And then you
+can<00:06:18.800><c> have</c><00:06:19.080><c> much</c><00:06:19.360><c> better</c><00:06:20.200><c> results.</c>
+

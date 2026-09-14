@@ -2,8 +2,8 @@
 title: "Impostor Syndrome"
 type: concept
 tags: [psychology, career, confidence, growth]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -41,8 +41,25 @@ Impostor Syndrome is the persistent feeling of self-doubt and fear of being expo
 - He was "very much welcomed being leveled appropriately relative to my contributions" rather than being over-leveled and feeling fraudulent
 - He also had to be careful not to use his "outsize influence from the past to get things done" — he needed to support the new leaders by playing his role on the team
 
+### Carey Nachenberg's Experience
+- At Symantec, Carey felt safe because he was well-regarded there, but feared he "grew up" there and wouldn't be good enough elsewhere (Google, Meta, etc.) — which kept him comfortable but unhappy near the end
+- The thing that broke the inertia was an external pull: someone reached out to interview him, and he decided "I'm probably going to fail this interview... but I'm going to do it"
+- Impostor syndrome returned at Google: at senior levels he was afraid to risk a big project not landing ("what have you been doing the last couple months?") because he lacked confidence the leadership would have his back, unlike at Symantec
+- At X he saw a 200+ IQ engineer stuck at L4 due to poor communication and low business impact — ability alone is not what gets recognized
+
+### Dwayne Reeves' Experience
+- Early in his career Dwayne wrestled with "a lot of impostor syndrome," rooted in measuring his worth only by his output — the code he could type
+- The clarity that helped: "I'm more than what I can type on the keyboard" — his value is his ideas and the decisions about what to build, not being an output machine
+
+### David Fowler's Experience
+- Reaching Distinguished Engineer (the same level as Guido van Rossum) gave him "maximum imposter syndrome"; he called himself a "baby DE" for the first year
+- His early reframe: promotions are about making an impact, not being the smartest — "being smart is something else"
+- Mentors redirected him from fixing every weakness toward amplifying strengths, reducing the pressure to be perfectly well-rounded
+
 ## Related
 
+- [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
+- [[David Fowler]] — came to feel he could perform at DE level
 - [[summary-20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions]] — source summary
 - [[Ricky]] — guest who shared his impostor syndrome experience
 - [[Career Growth]] — impostor syndrome as a barrier to career progression
@@ -50,3 +67,7 @@ Impostor Syndrome is the persistent feeling of self-doubt and fear of being expo
 - [[Credibility]] — what eventually replaced impostor syndrome
 - [[summary-20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su]] — source summary
 - [[Philip Su]] — deliberately sought demotion to escape impostor syndrome
+- [[summary-20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg]] — source summary (Carey)
+- [[Carey Nachenberg]] — imposter syndrome kept him at Symantec
+- [[summary-20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story)]] — source summary (Dwayne)
+- [[Dwayne Reeves]] — "more than what I can type on the keyboard"

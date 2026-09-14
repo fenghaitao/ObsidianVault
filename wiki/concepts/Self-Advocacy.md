@@ -2,8 +2,8 @@
 title: "Self-Advocacy"
 type: concept
 tags: [career, promotions, soft-skills, communication]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -33,6 +33,14 @@ Self-Advocacy is the practice of proactively communicating your career goals, pr
 - Ricky practiced self-advocacy through ongoing conversations with his manager, asking "Do you feel like these projects that I'm currently doing are for the next level?" and creating a one-year roadmap for manager buy-in a full year before his promotion
 - He explicitly endorsed managing up: "I fully support managing your manager. I think it's something that you have to do if you want an accelerated promotion timeline."
 
+### Carey Nachenberg: "Toot Your Own Horn"
+- Somebody else took credit for part of Carey's Lyft driving-architecture work — the lesson was to claim credit for the specific things he actually did, not let it slide
+- His formula: "toot your own horn," but claim only the parts you did, and record metrics while they're fresh so you can defend them later
+
+### Ethan Evans: "Strategically Annoying"
+- Have an opinion and push for it, but civilly — "you can raise any topic if you phrase it politely"
+- His director promotion came from a visible TiVo-partnership win plus politely pressuring his VP: "my career is very important to me"
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -51,3 +59,8 @@ Self-Advocacy is the practice of proactively communicating your career goals, pr
 - [[Bad News Early]] — the proactive communication complement to self-advocacy
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
+- [[summary-20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg]] — source summary ("toot your own horn")
+- [[Carey Nachenberg]] — learned to claim credit for his work
+- [[summary-20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans]] — source summary ("strategically annoying")
+- [[Ethan Evans]] — "strategically annoying"
+- [[Magic Loop]] — the manager-partnership deal that complements self-advocacy

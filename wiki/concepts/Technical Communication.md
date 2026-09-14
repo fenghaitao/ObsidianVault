@@ -2,8 +2,8 @@
 title: "Technical Communication"
 type: concept
 tags: [career, engineering, soft-skills, communication]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -23,6 +23,12 @@ Technical Communication is the ability to explain complex technical topics clear
 - Being able to ask the right question at the right time can be the difference between successful and failing projects
 - Lee: "20 minutes of a senior person's time could have prevented two or three Dev years of sunk cost"
 
+### Simon's Written Update Framework
+- TLDR must be truly above the fold (the "see more"), include numbers, and write sections for different audiences
+- Keep context, impact, and next steps in the top three sections; push technical deep-dives lower for "the fellow nerds"
+- The biggest mistake: writing your journey (which files/lines) instead of the outcome (is it on track, what moved, why care)
+- Written is higher leverage than spoken: spoken reaches dozens, written reaches hundreds and is re-referenced over time
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -32,3 +38,5 @@ Technical Communication is the ability to explain complex technical topics clear
 - [[Carly]] — got promoted through a presentation to the CTO
 - [[Rahul]] — emphasized tailoring communication to audience
 - [[Lee]] — emphasized asking questions over making statements
+- [[Simon]] — his written update framework
+- [[summary-20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses]] — source summary

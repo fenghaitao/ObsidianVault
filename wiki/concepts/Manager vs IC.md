@@ -2,8 +2,8 @@
 title: "Manager vs IC"
 type: concept
 tags: [career, management, engineering, decision]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -58,8 +58,31 @@ Manager vs IC is the career decision framework for choosing between the manageme
 - At the senior levels (E8+), Philip observes a "diamond shape" convergence where IC and manager skills overlap — both require vision, communication, and strategic thinking
 - His advice: before becoming a manager, ask "would I want to work for me?" and be sure you're not walking through a one-way door
 
+### Simon's Manager vs IC Experience
+- Simon chose management after IC6 because his trusted long-time manager was becoming overloaded and would coach him through the switch
+- The timing went badly: his manager was in an accident, his skip went on parental leave, and he reported across time zones to a just-returned director
+- He overpromised two IC5→IC6 promotions on the same team at once and learned not to overpromise again
+- He burned out handling the switch alongside leaving London, and when a director asked if he wanted to return to IC, his gut said yes
+- As a people-oriented IC6 he gets more optionality in who/what he coaches than a manager, whose support responsibility is unconditional
+
+### Stefan Mai's Meritocracy Comparison
+- At high levels, attribution gets opaque: senior ICs "talk a big game," and managers' impact is hard to tie to deliverables half-to-half
+- Early IC promotions are the most verifiable; the higher the level, the more optics and narrative enter
+- There's a mild "unaccountability" in management — like judging a leadership team, you need time to tell whether they're actually good
+
+### David Singleton's Manager vs IC Experience
+- Asked to become a product manager; his manager instead pitched the Tech Lead Manager role so he could get management fulfillment while continuing technical work
+- He got energy from "helping people accomplish more together than they might on their own," and stayed hands-on by building the Google Translate iPhone app on 20% time
+- Warns the IC-plus-manager split is hardest when you're an IC on the same project you manage — easy to get sucked into personal work unless you deliberately "step onto the balcony"
+- As a manager-of-managers he realized "teams that are perfectly happy are rarely performing at their very best"; the toolkit shifts from 1:1s and goals to designing the org's systems
+- When people tell him they want to enter management, he often first tries to talk them out of it: the job only works if you get energy from getting more out of others
+
 ## Related
 
+- [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary
+- [[David Singleton]] — TLM then manager-of-managers then VP
+- [[Step Onto The Balcony]] — the habit that keeps the split working
+- [[Type Two Fun]] — what he aims to create as a manager
 - [[summary-20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions]] — source summary
 - [[Ricky]] — served as both IC and TLM at Google
 - [[Tech Lead Manager]] — the hybrid role Ricky held
@@ -72,3 +95,7 @@ Manager vs IC is the career decision framework for choosing between the manageme
 - [[Philip Su]] — switched between IC and management six times
 - [[Diamond Shape (Skills Convergence)]] — how IC and manager skills converge at senior levels
 - [[Two-Way Door Decisions]] — Philip's framing of the IC/manager switch
+- [[Simon]] — switched to management then back to IC
+- [[summary-20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses]] — source summary
+- [[summary-20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai]] — source summary (meritocracy)
+- [[Stefan Mai]] — attribution opacity at high levels
