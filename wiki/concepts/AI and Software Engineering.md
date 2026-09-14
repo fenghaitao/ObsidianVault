@@ -25,6 +25,9 @@ AI and Software Engineering examines the relationship between artificial intelli
 - Beyond augmentation, if AI writes and maintains its own code, it may not look like human-readable code at all — just API contracts meeting specifications
 - He argues we should make the AI world "the best it can be" rather than resist the shift
 
+### Boris Cherny and Claude Code
+- Claude Code was built on "don't build for the model of today, build for the model 6 months from now" — it went from writing ~10% of Boris's code to writing 80–90% of Claude Code itself once the models matured, lifting Anthropic's productivity per engineer ~70% despite tripling headcount ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -33,3 +36,6 @@ AI and Software Engineering examines the relationship between artificial intelli
 - [[Machine Learning]] — the field of AI itself
 - [[Michael Novati]] — his LLM workflow and predictions
 - [[summary-20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype]] — source summary
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
+- [[Boris Cherny]] — builds Claude Code
+- [[Claude Code]] — the AI coding agent he created

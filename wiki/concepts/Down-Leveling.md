@@ -3,7 +3,7 @@ title: "Down-Leveling"
 type: concept
 tags: [career, interviewing, FAANG, leveling]
 sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md"]
-last_updated: 2026-07-21
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -20,6 +20,8 @@ Down-Leveling is the practice of offering a candidate a lower title/level than t
 - A "vice president" at a small company might lead a small team, which maps to a senior engineer at FAANG
 - Down-leveling is a reflection of the candidate's demonstrated scope, not a punishment
 
+- Boris Cherny came in under-leveled at Meta and called it lucky: lower expectations gave him space to explore and build a strong first impression, and he cautions against pushing for level+1 on job switches ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -32,3 +34,5 @@ Down-Leveling is the practice of offering a candidate a lower title/level than t
 - [[Mis-Leveling]] — the inverse phenomenon (being hired below capability)
 - [[Behavioral Interviewing]] — poor behavioral answers can cause down-leveling
 - [[Packaging]] — the skill to prevent down-leveling
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
+- [[Boris Cherny]] — under-leveling as an advantage

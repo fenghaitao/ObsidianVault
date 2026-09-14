@@ -33,6 +33,9 @@ Product Market Fit (PMF) is the degree to which a product satisfies strong marke
 - The Philip Su episode's breakout ("the graphs all going vertical") proved the "hidden senior engineer career story" format had real demand — not just Ryan's interest
 - The Ethan Evans episode showed the same live energy, confirming the format resonated rather than being a one-off guest
 
+### Boris Cherny's Perspective
+- Building new product lines at scale: what matters is solving people's problems bottoms-up and dialing up headcount only as you find product-market fit, rather than front-loading hundreds of engineers at once ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -42,3 +45,5 @@ Product Market Fit (PMF) is the degree to which a product satisfies strong marke
 - [[Startup vs Big Tech]] — PMF is the difference between a startup bet and an established business
 - [[summary-20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special)]] — source summary (podcast PMF)
 - [[Ryan L. Peterman]] — the breakout episodes proved demand
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
+- [[Boris Cherny]] — bottoms-up staffing as you find PMF

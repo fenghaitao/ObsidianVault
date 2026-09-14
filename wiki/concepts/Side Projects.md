@@ -3,7 +3,7 @@ title: "Side Projects"
 type: concept
 tags: [engineering, career, learning, portfolio]
 sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -29,6 +29,10 @@ Side Projects are software projects built outside of work or formal education. T
 - He described the joy of getting comments on his tutorials: "this is such a magical, helpful tutorial"
 - Published Android apps as side projects while working at Meta
 
+### Boris Cherny's Side Quests
+- Boris calls them "side quests" and looks for them when hiring — he wants generally curious people with interests outside their main work
+- His Undux framework and TypeScript book/meetup fed his Meta career growth and network ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
@@ -39,3 +43,6 @@ Side Projects are software projects built outside of work or formal education. T
 - [[Rahul]] — built Android apps and YouTube tutorials as side projects
 - [[Android]] — the platform Rahul used for side projects
 - [[YouTube]] — platform where Rahul published tutorials
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
+- [[Boris Cherny]] — "side quests" as a hiring signal
+- [[Undux]] — his React state-management side project

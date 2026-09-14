@@ -25,6 +25,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik]] — Ilya Grigorik on "being the only, not the best," Waterloo co-op, and the dynamic range of principal+ engineering.
 - [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — Joakim Recht on building Uber's Odin platform, "running code beats perfect code," and leading by example without authority.
 - [[summary-20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell]] — Brian Attwell on truth seeking, IQ-aware hiring, expected-value prioritization, and redesigning the engineering ladder.
+- [[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]] — Jay Jo's non-linear path from Robinhood to founding Sei Network after the GameStop short squeeze.
+- [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — Marius Schultz on redefining expectations, lagging promotions, and leveraged product-infra work on the way to Meta IC7.
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — Boris Cherny on latent demand, unshipping, under-leveling, and building Claude Code.
 
 ## Entities
 
@@ -98,6 +101,17 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Otter]] — Atoms' software product for restaurant operations.
 - [[Picnic]] — Atoms' robotics and restaurant product.
 - [[Yi Wang]] — Brian Attwell's Uber collaborator.
+- [[Jay Jo]] — Robinhood software engineer who co-founded Sei Network.
+- [[Robinhood]] — Commission-free trading app where Jay Jo worked before founding Sei.
+- [[Sei Network]] — Crypto exchange and infrastructure company co-founded by Jay Jo.
+- [[Facebook]] — Meta's core social network, the backdrop of Jay Jo and Boris Cherny's early work.
+- [[Multicoin]] — Sei Network's tier-1 lead investor.
+- [[Marius Schultz]] — Meta Senior Staff engineer (IC7) specializing in frontend web.
+- [[Boris Cherny]] — Creator of Claude Code and former Meta principal engineer (IC8).
+- [[Claude Code]] — Anthropic's CLI coding agent created by Boris Cherny.
+- [[Anthropic]] — AI safety company where Boris Cherny builds Claude Code.
+- [[Comet]] — The facebook.com rewrite Boris Cherny co-built.
+- [[Undux]] — Boris Cherny's React state-management side project.
 
 ## Concepts
 
@@ -168,6 +182,22 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Software Engineering]] — The primary engineering track, with Recht's "write code daily" discipline (updated).
 - [[Engineering Ladder]] — Career progression frameworks (updated with Brian Attwell's skill-gradient redesign).
 - [[Interviewing]] — Interview leverage and evaluation (updated with Brian Attwell's postmortem-based, anti-recall approach).
+- [[Directly Responsible Individual]] — An accountability model where one person owns an outcome end to end.
+- [[Latent Demand]] — Watch how users hack a product and build around the intent they reveal.
+- [[Non-Linear Careers]] — Careers advance in step functions, not smooth linear growth.
+- [[Playing the Game]] — Disengaging from the promotion chase while still getting promoted.
+- [[Product Infra]] — Leveraged infrastructure work that amplifies many engineers' output.
+- [[Short Squeeze]] — The price spike caused by short-sellers being forced to buy back stock.
+- [[T+2 Settlement]] — The two-day settlement window that forced Robinhood to halt GameStop buys.
+- [[Fundraising]] — Raising venture capital, such as Sei Network's $35M seed and strategic round.
+- [[Unshipping]] — Instagram's practice of deleting low-usage features for the majority's good.
+- [[Career Decision Making]] — Choosing what you're optimizing for: learning, growth, or compensation upside.
+- [[Generalist vs Specialist]] — Breadth across domains versus depth in one (Boris Cherny prioritizes generalists).
+- [[Side Projects]] — "Side quests" that build skills and reputation beyond the day job.
+- [[Trailing Promotions]] — Promotions lag delivered impact and measure next-level behaviors instead.
+- [[Down-Leveling]] — Joining under-leveled lowers expectations and creates room to explore.
+- [[Leverage]] — Amplifying impact through tooling, automation, notes, and other people.
+- [[Ownership]] — End-to-end individual accountability, exemplified by the DRI model.
 
 ## Syntheses
 

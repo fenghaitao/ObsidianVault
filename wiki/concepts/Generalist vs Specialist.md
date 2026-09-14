@@ -3,7 +3,7 @@ title: "Generalist vs Specialist"
 type: concept
 tags: [career, engineering, specialization, startup, big-tech]
 sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
-last_updated: 2026-07-21
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -28,6 +28,9 @@ Generalist vs Specialist is a career strategy decision about whether to develop 
 - At very senior levels (E8+), skills converge again in a "diamond shape" — both ICs and managers at those levels need vision, communication, and strategic thinking
 - However, some archetypes (like deep SQL query optimization specialists) may never develop the breadth needed for management
 
+### Boris Cherny's Perspective
+- Boris prioritizes generalists — on the Claude Code team "everyone does everything" (PMs, data scientists, and researchers all code), echoing early Facebook's reward of generalists who do UX, design, and product work ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
+
 ## Related
 
 - [[Philip Su]] — self-identified generalist
@@ -35,3 +38,5 @@ Generalist vs Specialist is a career strategy decision about whether to develop 
 - [[IC vs Management Track]] — related diamond shape convergence
 - [[Quantization Effects]] — why generalists are more valuable at small companies
 - [[Career Growth]] — specialization as a career strategy
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
+- [[Boris Cherny]] — prioritizes generalists on Claude Code

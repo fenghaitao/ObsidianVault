@@ -3,7 +3,7 @@ title: "Career Decision Making"
 type: concept
 tags: [career, growth, decision-making]
 sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md"]
-last_updated: 2026-07-21
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -20,6 +20,8 @@ Career Decision Making is the practice of making explicit, conscious choices abo
 - The advice: "Did you make it a decision or not?" — turn the default into an explicit choice
 - This connects to the broader theme of people-pleasing: are you on this path because you chose it, or because it was put in front of you?
 
+- Jay Jo advises picking what you're optimizing for (learning, career growth, or compensation) before choosing big tech vs startup, and warns that people over-index on the risk of leaving a job ([[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]])
+
 ## Related
 
 - [[Steve Huynh]] — source of the insight
@@ -27,3 +29,5 @@ Career Decision Making is the practice of making explicit, conscious choices abo
 - [[Career Growth]] — the broader context
 - [[Job Hopping]] — the active alternative to staying put
 - [[Company Hopping]] — the strategic alternative
+- [[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]] — source summary (Jay)
+- [[Jay Jo]] — choosing what to optimize for

@@ -27,6 +27,10 @@ The Code Machine Archetype is one of several staff engineering archetypes. It de
 - On LLMs, he frames them as the Vim→VS Code→AI-assisted progression that makes coding machines (and all experienced engineers) more productive
 - Asked whether LLMs will kill the coding machine archetype: he's undecided, but says agentic flows may push it further than anything before
 
+### Marius Schultz's Coding Machine
+- Marius is a coding machine at IC7: ~2,000 diffs in the year Threads launched (~10/day by his own math)
+- His caveat: not every diff is level-appropriate — sometimes the goal is just to unblock the next workstream quickly, leaning into your strengths to land real impact rather than waiting for "Shakespeare" diffs ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]])
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -38,3 +42,5 @@ The Code Machine Archetype is one of several staff engineering archetypes. It de
 - [[Michael Novati]] — a canonical coding machine
 - [[summary-20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype]] — source summary
 - [[Taste and Judgment]] — what coding machines still need
+- [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — source summary (Marius)
+- [[Marius Schultz]] — a coding machine with ~2,000 diffs in Threads' launch year

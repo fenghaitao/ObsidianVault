@@ -17,6 +17,8 @@ Blast Radius describes how many engineers, teams, and systems a given engineerin
 - Top-level archetypes can have large blast radius via leadership ("leading through others") or deep specialization (a compiler fixer whose 10-line change saves hundreds of millions)
 - Jake's IC8 project touched ~150 teams and made migrated infrastructure 20% faster, illustrating blast radius beyond a single org
 
+- Marius Schultz used React error boundaries to fence the blast radius of rendering errors — picturing a rendering error as a grenade whose blast radius determines whether the whole page fails or just a section ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]])
+
 ## Related
 
 - [[summary-20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam]] — source summary
@@ -24,3 +26,5 @@ Blast Radius describes how many engineers, teams, and systems a given engineerin
 - [[Scope]] — the related notion of owning larger problems
 - [[Multiplicative Impact]] — impact through others
 - [[Staff Engineer]] — the level where blast radius dominates
+- [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — source summary (Marius)
+- [[Marius Schultz]] — fenced rendering-error blast radius

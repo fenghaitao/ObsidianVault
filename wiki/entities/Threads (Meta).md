@@ -18,6 +18,8 @@ Threads is Meta's text-first social network launched in 2023, built on Instagram
 - The launch was top-down and urgent (the "window of opportunity" around Twitter's chaos), which made red tape and bureaucracy vanish as helpers volunteered to unblock
 - Meta later held it up as a poster child for how little a team needs to ship a great product when it builds on existing primitives
 
+- Marius Schultz joined a few weeks after kickoff as the sole web engineer (6–8 weeks solo), created a separate code surface rather than a tab, built logged-out and logged-in clients, then hired and led the team as TL — work that earned him IC7 ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]])
+
 ## Related
 
 - [[summary-20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story)]] — source summary
@@ -26,3 +28,5 @@ Threads is Meta's text-first social network launched in 2023, built on Instagram
 - [[Instagram]] — the product it was built on
 - [[Meta]] — the company
 - [[Prototype as Highest Fidelity]] — the momentum that got it staffed
+- [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — source summary (Marius)
+- [[Marius Schultz]] — first engineer and TL on Threads web

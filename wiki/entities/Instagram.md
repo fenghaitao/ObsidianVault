@@ -2,7 +2,7 @@
 title: "Instagram"
 type: entity
 tags: [product, social-media, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md"]
 last_updated: 2026-09-14
 ---
 
@@ -26,6 +26,9 @@ Instagram is a photo and video sharing social media platform owned by Meta. Ryan
 - Jia posted the Sprint.dev MVP on Instagram at 9:00 AM and it crashed from too much traffic
 - Jia's video about receiving angel checks for Sprint.dev got 500K views on Instagram, leading to more angel investors reaching out
 
+- Marius Schultz reached IC7 at Instagram web ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]]): rewrote the long-neglected notifications panel, worked in product infra (error boundaries and reliability), and was the first engineer on Threads web
+- Boris Cherny joined Instagram's Tokyo office and absorbed its craft-focused, product-driven culture — he learned "unshipping" and led the Python-to-Hack migration toward Meta's main stack ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -39,3 +42,9 @@ Instagram is a photo and video sharing social media platform owned by Meta. Ryan
 - [[Jake Bolam]] — Principal Engineer (IC8) at Instagram
 - [[summary-20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam]] — source summary
 - [[Blast Radius]] — how Jake's scope scaled at IC7/IC8
+- [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — source summary (Marius)
+- [[Marius Schultz]] — Senior Staff (IC7) on Instagram web
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
+- [[Boris Cherny]] — ran the Python-to-Hack migration
+- [[Product Infra]] — Marius's leveraged area on Instagram web
+- [[Unshipping]] — Instagram's feature-deletion practice

@@ -67,3 +67,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-14] ingest | Ingested Brian Attwell (Atoms CTO) episode
 - **Changes**: created [[summary-20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell]], created [[Brian Attwell]], created [[Travis Kalanick]], created [[Steve Jobs]], created [[Atoms]], created [[Otter]], created [[Picnic]], created [[Yi Wang]], created [[Truth Seeking]], created [[Expected Value Prioritization]], created [[IQ and Job Performance]], created [[Entropy Of Standards]], updated [[Uber]], updated [[Google]], updated [[Ryan L. Peterman]], updated [[Engineering Ladder]], updated [[Interviewing]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Jay Jo (Robinhood → Sei Network) episode
+- **Changes**: created [[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]], created [[Jay Jo]], created [[Robinhood]], created [[Sei Network]], created [[Facebook]], created [[Multicoin]], created [[Non-Linear Careers]], created [[Playing the Game]], created [[Short Squeeze]], created [[T+2 Settlement]], created [[Fundraising]], updated [[Career Decision Making]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Marius Schultz (Instagram IC7) episode
+- **Changes**: created [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]], created [[Marius Schultz]], created [[Directly Responsible Individual]], created [[Product Infra]], updated [[Instagram]], updated [[Threads (Meta)]], updated [[Redefines Expectations]], updated [[Trailing Promotions]], updated [[Leverage]], updated [[Code Machine Archetype]], updated [[Blast Radius]], updated [[Ownership]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Boris Cherny (Creator of Claude Code) episode
+- **Changes**: created [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]], created [[Boris Cherny]], created [[Claude Code]], created [[Anthropic]], created [[Comet]], created [[Undux]], created [[Latent Demand]], created [[Unshipping]], updated [[Facebook]], updated [[Instagram]], updated [[Side Projects]], updated [[Down-Leveling]], updated [[Impostor Syndrome]], updated [[Generalist vs Specialist]], updated [[Product Market Fit]], updated [[Leverage]], updated [[AI and Software Engineering]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none

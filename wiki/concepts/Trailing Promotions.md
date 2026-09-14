@@ -3,7 +3,7 @@ title: "Trailing Promotions"
 type: concept
 tags: [career, promotions, performance, FAANG]
 sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md"]
-last_updated: 2026-07-21
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -20,6 +20,8 @@ Trailing Promotions refer to the practice at most big tech companies where promo
 - The work needed for a high rating at your current level may be different from the work needed to set up a promotion
 - A manager may not know you want promotion if you don't express it — not everyone wants to advance
 
+- Marius Schultz calls them "lagging promotions": ratings look back at the impact you delivered, while promotions check whether you already exhibit the next level's behaviors — so a top rating can coexist with a blocked promo, as it did for him ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]])
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
@@ -27,3 +29,5 @@ Trailing Promotions refer to the practice at most big tech companies where promo
 - [[Self-Advocacy]] — why you should still ask despite trailing promotions
 - [[Promotion By Committee]] — the process that evaluates trailing performance
 - [[Lee]] — panelist who discussed trailing promotions
+- [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — source summary (Marius)
+- [[Marius Schultz]] — elaborated on lagging promotions

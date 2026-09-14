@@ -56,6 +56,10 @@ Impostor Syndrome is the persistent feeling of self-doubt and fear of being expo
 - His early reframe: promotions are about making an impact, not being the smartest — "being smart is something else"
 - Mentors redirected him from fixing every weakness toward amplifying strengths, reducing the pressure to be perfectly well-rounded
 
+### Boris Cherny's Experience
+- Boris felt impostor syndrome directing engineers at his own (hidden) level on the public-groups project
+- His reframe: "don't overthink it — no one really knows what they're doing"; levels don't matter that much, and a little impostor syndrome is healthy because it signals you're pushing yourself ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
+
 ## Related
 
 - [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
@@ -71,3 +75,5 @@ Impostor Syndrome is the persistent feeling of self-doubt and fear of being expo
 - [[Carey Nachenberg]] — imposter syndrome kept him at Symantec
 - [[summary-20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story)]] — source summary (Dwayne)
 - [[Dwayne Reeves]] — "more than what I can type on the keyboard"
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
+- [[Boris Cherny]] — no one really knows what they're doing

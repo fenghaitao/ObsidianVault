@@ -3,7 +3,7 @@ title: "Leverage"
 type: concept
 tags: [career, engineering, impact, strategy]
 sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md"]
-last_updated: 2026-07-21
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -25,6 +25,9 @@ Leverage is the principle of achieving outsized impact by building tools, platfo
 - The key feedback Evan received when going from senior to staff was "scaling yourself" — you need to increase your scope through others
 - Working through others allows you to take on more scope than you can physically deliver yourself, which is the name of the game at staff level and beyond
 
+- Marius Schultz's leverage: hardened Instagram web with React error boundaries, then wrote a company-wide note and lint rules so tooling does recurring work on his behalf ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]])
+- Boris Cherny's leverage: automate your own toil — he tallied repeated code-review comments and turned them into lint rules until most of his code reviews were automated ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -35,3 +38,7 @@ Leverage is the principle of achieving outsized impact by building tools, platfo
 - [[Master Data]] — a data engineering form of leverage
 - [[Rahul]] — discussed leverage in the context of project evaluation
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
+- [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — source summary (Marius)
+- [[Marius Schultz]] — leveraged notes and lint rules
+- [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
+- [[Boris Cherny]] — automation as leverage
