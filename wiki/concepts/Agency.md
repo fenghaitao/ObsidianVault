@@ -2,8 +2,8 @@
 title: "Agency"
 type: concept
 tags: [career, soft-skills, initiative, opportunity]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -28,6 +28,11 @@ Agency is the proactive taking of initiative to seek out and create opportunitie
 - He started by attaching himself to an architect whose career he wanted, then learned to generate his own ideas and communicate them with code
 - Credibility compounds: "you get a chance to be more permissionless the better your track record is," which gives you more leash to fail and try things
 
+### Focus on What You Can Control (Snapchat-director guest)
+- "Control the things that you can control" — make impact in your current role and steer toward work you love in the long run; everything else is a lagging indicator
+- Don't aim for promotions as the objective of your work, because that ties your happiness to things you don't fully control
+- He deliberately chose difficult, unfamiliar roles (Director of Camera at Snapchat, learning iOS/Android from scratch) to close specific gaps on the way to his CTO north star
+
 ## Related
 
 - [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
@@ -40,3 +45,6 @@ Agency is the proactive taking of initiative to seek out and create opportunitie
 - [[Evan King]] — demonstrated agency throughout his career
 - [[Jia Chen]] — exemplified agency through hackathons and startup founding
 - [[summary-20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen]] — source summary
+- [[Rome]] — controlling what you can control
+- [[North Star Goal]] — how he chose what to pursue
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary

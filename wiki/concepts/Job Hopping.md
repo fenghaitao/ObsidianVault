@@ -2,7 +2,7 @@
 title: "Job Hopping"
 type: concept
 tags: [career, promotion, strategy, engineering]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md"]
 last_updated: 2026-09-14
 ---
 
@@ -38,6 +38,11 @@ Job Hopping is the strategy of changing companies to achieve higher levels, comp
 - Frequent senior-level moves are a red flag: a hiring manager is betting a year of ramp-up on someone likely to leave in six months
 - The credibility you accumulate by staying (the snowball) is powerful, but it can become a shackle if you get stuck as "the person who built that system"
 
+### Snapchat-director guest's View
+- He never considered job hopping the only or best way to level up — peers stayed at Facebook and reached VP — but he explains his own moves as deliberate steps toward a north star (CTO of an AI company)
+- He never proactively searched for jobs; opportunities came inbound, and he preferred roles where he had a personal connection
+- He took a director offer at Square (rather than being promoted into it) and later intentionally chose unfamiliar domains (e.g., Director of Camera at Snapchat) to fill gaps on the way to his goal
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -55,6 +60,9 @@ Job Hopping is the strategy of changing companies to achieve higher levels, comp
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
 - [[summary-20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai]] — source summary (early vs senior moves)
 - [[Stefan Mai]] — early moves grow you, senior moves are a red flag
+- [[Rome]] — moves as deliberate north-star steps
+- [[North Star Goal]] — the framework behind his moves
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
 
 ### UCLA Talk: Job Hopping Strategy by Level
 - Ryan presented a nuanced view: job hopping for promotions is optimal when you're a junior/mid-level/senior trying to get promoted — "aggressively try to job hop" and take the faster path because momentum doesn't matter as much

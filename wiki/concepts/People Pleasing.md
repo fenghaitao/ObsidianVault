@@ -2,8 +2,8 @@
 title: "People Pleasing"
 type: concept
 tags: [career, psychology, growth]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,6 +21,7 @@ People Pleasing in a career context is the tendency to seek external validation,
 
 ## Related
 
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (compilation re-quotes this theme)
 - [[Steve Huynh]] — source of the insight
 - [[Career Decision Making]] — the related practice of making explicit choices
 - [[Career Growth]] — the broader context

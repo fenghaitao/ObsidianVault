@@ -2,8 +2,8 @@
 title: "Career Growth"
 type: concept
 tags: [career, engineering, progression, FAANG]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -72,6 +72,21 @@ Career Growth in the context of software engineering refers to the progression t
 - Philip warns about the "dog that caught the car" — achieving a career goal early with no plan for what comes next, leading to a crisis of purpose
 - Philip's advice to his younger self: spend more time clarifying your values before pursuing goals; getting to E7 at 30 vs 38 doesn't matter in the big arc
 
+### Snapchat-director guest on Career Growth
+- Don't make promotions the objective of your work — chasing the next level's checklist breeds pain, because promotion depends partly on factors you don't control (it is a lagging indicator)
+- Control what you can control: make impact in your current role and steer toward work you love in the long run; everything else follows
+- Titles and levels belong to the company, not to you — he wants to be remembered for a product that improves lives, not for a title
+- He was willing to trade headcount and company valuation for impact, waiting for the day "two people can make a $1B company"
+
+### 2025 Advice Compilation
+- "Always prefer high growth": a guest's career ladder was an "escalator" — Amazon grew ~100-fold (about 10,000 people to a million) with revenue up ~80x while he climbed
+- Be sure you actually want the thing you're chasing (avoid the "dog that caught the car"), and be comfortable with other things breaking to get there
+- "Go where you're valued" — find an environment that values your strengths rather than fighting a misfit one
+
+### Fiona Fung
+- Impact vs passion: have an honest conversation with yourself about what's important to you and what's motivating, and share it with your manager (there are no right answers)
+- Advice to her younger self: "enjoy the ride... these are the good old days" (quoting Michael Abrash)
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -103,3 +118,10 @@ Career Growth in the context of software engineering refers to the progression t
 - [[Diminishing Returns]] — the limits of hard work
 - [[Terminal Level]] — the danger of peaking early
 - [[Dog That Caught the Car]] — Philip's metaphor for achieving a goal with no plan
+- [[Rome]] — promotions as lagging indicators, titles belong to the company
+- [[North Star Goal]] — anchoring growth to a long-term destination
+- [[Fiona Fung]] — impact vs passion, enjoy the ride
+- [[Michael Abrash]] — "these are the good old days"
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary

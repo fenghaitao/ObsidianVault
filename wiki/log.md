@@ -79,3 +79,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-14] ingest | Ingested Boris Cherny (Creator of Claude Code) episode
 - **Changes**: created [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]], created [[Boris Cherny]], created [[Claude Code]], created [[Anthropic]], created [[Comet]], created [[Undux]], created [[Latent Demand]], created [[Unshipping]], updated [[Facebook]], updated [[Instagram]], updated [[Side Projects]], updated [[Down-Leveling]], updated [[Impostor Syndrome]], updated [[Generalist vs Specialist]], updated [[Product Market Fit]], updated [[Leverage]], updated [[AI and Software Engineering]], updated [[Ryan L. Peterman]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Rome (Meta manager → HeyGen CTO) episode
+- **Changes**: created [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]], created [[Rome]], created [[HeyGen]], created [[Snapchat]], created [[Evan Spiegel]], created [[IBM]], created [[Carnegie Mellon University]], created [[The Five Dysfunctions of a Team]], created [[North Star Goal]], updated [[Facebook]], updated [[Square]], updated [[Manager vs IC]], updated [[Engineering Culture]], updated [[Manager Trust]], updated [[Career Growth]], updated [[Scale]], updated [[Networking]], updated [[Career Decision Making]], updated [[Agency]], updated [[Job Hopping]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Best Software Engineering Career Advice of 2025 compilation
+- **Changes**: created [[summary-20251229 - Best Software Engineering Career Advice of 2025]], updated [[Amazon]], updated [[LinkedIn]], updated [[Microsoft]], updated [[PostRank]], updated [[Career Growth]], updated [[Networking]], updated [[Career Decision Making]], updated [[Dog That Caught the Car]], updated [[Bending the Reed vs Breaking the Reed]], updated [[People Pleasing]], updated [[Impostor Syndrome]], updated [[Work-Life Balance]], updated [[Be the Only Not the Best]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Fiona Fung (Anthropic eng leader) episode
+- **Changes**: created [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]], created [[Fiona Fung]], created [[TypeScript]], created [[Visual Studio]], created [[Facebook Marketplace]], created [[Michael Abrash]], created [[One-on-Ones]], created [[Dogfooding]], created [[Kindness in Engineering]], updated [[Anthropic]], updated [[Claude Code]], updated [[Meta]], updated [[Facebook]], updated [[Microsoft]], updated [[Mentorship]], updated [[Manager vs IC]], updated [[Manager Trust]], updated [[Feedback Reception]], updated [[Engineering Culture]], updated [[Career Decision Making]], updated [[Career Growth]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none

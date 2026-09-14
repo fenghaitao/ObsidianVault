@@ -28,6 +28,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]] — Jay Jo's non-linear path from Robinhood to founding Sei Network after the GameStop short squeeze.
 - [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — Marius Schultz on redefining expectations, lagging promotions, and leveraged product-infra work on the way to Meta IC7.
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — Boris Cherny on latent demand, unshipping, under-leveling, and building Claude Code.
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — Rome's path from IBM research and Meta manager to Square director, Snapchat senior director, and HeyGen CTO, anchored on a north-star goal.
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — Ryan L. Peterman's compilation of the year's best "advice to your younger self" from CTOs and distinguished engineers.
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — Fiona Fung on Microsoft vs Facebook engineering cultures, mentoring vs coaching, dogfooding, and kindness at Anthropic.
 
 ## Entities
 
@@ -112,6 +115,22 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Anthropic]] — AI safety company where Boris Cherny builds Claude Code.
 - [[Comet]] — The facebook.com rewrite Boris Cherny co-built.
 - [[Undux]] — Boris Cherny's React state-management side project.
+- [[Rome]] — CTO of AI video company HeyGen, formerly a Meta manager and Snapchat senior director.
+- [[HeyGen]] — AI human-centric video generation company where Rome is CTO.
+- [[Snapchat]] — Camera-first social app where Rome was Senior Director of Camera.
+- [[Evan Spiegel]] — Snapchat CEO known for pixel-level product standards.
+- [[IBM]] — Where Rome spent three years as a research scientist after his PhD.
+- [[Carnegie Mellon University]] — Rome's machine-learning PhD school.
+- [[The Five Dysfunctions of a Team]] — Patrick Lencioni's book on trust as a team's foundation.
+- [[Fiona Fung]] — Anthropic engineering leader on Claude Code, formerly of Microsoft and Meta.
+- [[Facebook Marketplace]] — Meta's local commerce product Fiona Fung helped build.
+- [[TypeScript]] — Microsoft's typed superset of JavaScript; Fiona stayed at Microsoft to ship 1.0.
+- [[Visual Studio]] — Microsoft's IDE and the dogfooding lesson of Fiona Fung's first job.
+- [[Michael Abrash]] — Influential technologist quoted in Fiona Fung's episode.
+- [[Amazon]] — E-commerce and cloud giant, referenced for its high-growth "escalator."
+- [[LinkedIn]] — Professional network used to build a reputation that brings opportunities inbound.
+- [[Meta]] — Facebook's parent company, the setting of several guests' careers.
+- [[Square]] — Payments company (now Block) where Rome was a director.
 
 ## Concepts
 
@@ -198,6 +217,17 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Down-Leveling]] — Joining under-leveled lowers expectations and creates room to explore.
 - [[Leverage]] — Amplifying impact through tooling, automation, notes, and other people.
 - [[Ownership]] — End-to-end individual accountability, exemplified by the DRI model.
+- [[Dogfooding]] — Using the product you build to gain empathy and a pulse.
+- [[Kindness in Engineering]] — "In a world where you can be anything, be kind," grounding team culture.
+- [[North Star Goal]] — A single guiding objective that anchors every career decision.
+- [[One-on-Ones]] — Effective manager-report meetings that keep status async and save live time for real conversation.
+- [[Career Growth]] — The expansion of responsibility and level over time.
+- [[Networking]] — Building a reputation and relationships so opportunities come inbound.
+- [[Scale]] — Growing teams and organizations through successive doubling stages.
+- [[Bending the Reed vs Breaking the Reed]] — Choosing which parts of life bend or break under extreme focus.
+- [[Dog That Caught the Car]] — Achieving a goal you never examined, then feeling empty.
+- [[Feedback Reception]] — Receiving constructive feedback in "read-only mode" without justifying.
+- [[People Pleasing]] — Examining whether you climb a ladder you chose or one that was handed to you.
 
 ## Syntheses
 

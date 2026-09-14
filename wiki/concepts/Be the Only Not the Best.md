@@ -2,7 +2,7 @@
 title: "Be the Only Not the Best"
 type: concept
 tags: [career, strategy, skills, generalist]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
 last_updated: 2026-09-14
 ---
 
@@ -21,6 +21,7 @@ last_updated: 2026-09-14
 
 ## Related
 
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (compilation re-quotes this theme)
 - [[summary-20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik]] — source summary
 - [[Ilya Grigorik]] — originator of the strategy
 - [[Generalist vs Specialist]] — the broader tension

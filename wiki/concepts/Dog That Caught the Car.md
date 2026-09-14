@@ -2,8 +2,8 @@
 title: "Dog That Caught the Car"
 type: concept
 tags: [career, purpose, goals, reflection]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -22,6 +22,7 @@ last_updated: 2026-07-21
 
 ## Related
 
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (compilation re-quotes this theme)
 - [[Philip Su]] — experienced this firsthand
 - [[Terminal Level]] — the career level where you "catch the car"
 - [[Career Growth]] — the pursuit that can lead to this crisis

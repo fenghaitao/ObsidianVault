@@ -2,8 +2,8 @@
 title: "Amazon"
 type: entity
 tags: [company, FAANG, tech, e-commerce, cloud]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -36,6 +36,7 @@ Amazon is a multinational technology company focused on e-commerce, cloud comput
 - SDE1 is not a terminal level — there is an "up or out" expectation within ~2 years; SDE2 is debated as a terminal level
 - Ryan Peterman described Amazon as "the lowest tier of the FAANG ones" at the time, though his LinkedIn was "blowing up" with recruiter interest after joining
 - Ryan floundered at Amazon for the first 8 months, realizing he wasn't learning and didn't know what growth to the next level looked like, which motivated him to apply broadly and end up at Meta
+- In the 2025 advice compilation, a guest who "always preferred high growth" recalled Amazon growing ~100-fold (from roughly 10,000 people to a million) with revenue up ~80x while he was there, calling his career ladder "an escalator" that moved up beneath him
 
 ## Related
 
@@ -61,3 +62,4 @@ Amazon is a multinational technology company focused on e-commerce, cloud comput
 - [[Feedback Reception]] — how Lee handled promotion rejection
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (high-growth escalator)

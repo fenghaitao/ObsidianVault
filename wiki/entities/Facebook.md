@@ -2,7 +2,7 @@
 title: "Facebook"
 type: entity
 tags: [company, social-media, big-tech, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
 last_updated: 2026-09-14
 ---
 
@@ -17,9 +17,18 @@ Facebook is the social network (now part of Meta) where Jay Jo interned and wher
 - Boris Cherny later built "chats and groups" (bridging Messenger and Facebook) there, volunteered Facebook Groups for the Comet rewrite, and led the "public groups" project that earned him IC7
 - Facebook Groups was the single biggest product surface in all of Facebook
 - Culture rewarded generalists (engineers doing UXR, design, and product work) and hid titles behind a uniform "software engineer"
+- The Snapchat-director guest joined Facebook around 2009 as a frontline manager in its fast-growth years; a critical cultural philosophy he learned there is that everyone who works in engineering must stay technical — even VP-level hires went through the six-week boot camp writing and reviewing code (a contrast with IBM, where VPs no longer coded)
+- Fiona Fung joined Facebook in 2015 to build Facebook Marketplace; the early Marketplace ran weekly sprints with the first version on www.fas.com, and the office culture was captured by a poster, "nothing at Facebook is somebody else's problem" — everyone leans in to help regardless of role
+- Fiona found Facebook felt much smaller than Microsoft and far faster (weekly vs ~4-week sprints); over time its culture changed as it grew
 
 ## Related
 
+- [[Rome]] — joined Facebook ~2009 as a frontline manager
+- [[Fiona Fung]] — joined Facebook in 2015 for Marketplace
+- [[Facebook Marketplace]] — the commerce product she helped build
+- [[Snapchat]] — company whose culture she compared to Facebook
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
 - [[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]] — source summary
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — Boris Cherny's Facebook chapter
 - [[Jay Jo]] — interned at Facebook

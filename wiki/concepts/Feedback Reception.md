@@ -2,8 +2,8 @@
 title: "Feedback Reception"
 type: concept
 tags: [career, soft-skills, growth, promotions]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,6 +21,11 @@ Feedback Reception is the ability to hear, process, and act on constructive crit
 - Karly emphasized that asking early for promotion has no downside as long as you can take feedback and handle hearing "no"
 - However, if you genuinely disagree with the feedback and believe it's wrong, interviewing externally to test the market is also a valid option
 
+### Fiona Fung's "Read-Only Mode"
+- The most pivotal feedback she ever received was "feedback on receiving feedback": when someone gives constructive feedback, the first session should be read-only — just listen and learn, because it is already uncomfortable for the giver
+- Save your questions for another day; never make someone feel they have to justify their feedback
+- Let yourself sit with the feedback and reflect (even overnight) before responding
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
@@ -28,3 +33,5 @@ Feedback Reception is the ability to hear, process, and act on constructive crit
 - [[Self-Advocacy]] — asking for promotion requires openness to feedback
 - [[Lee]] — personal example of effective feedback reception
 - [[Karly]] — manager who evaluates feedback reception
+- [[Fiona Fung]] — read-only mode when receiving feedback
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary

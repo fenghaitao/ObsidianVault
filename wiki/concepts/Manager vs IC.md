@@ -2,7 +2,7 @@
 title: "Manager vs IC"
 type: concept
 tags: [career, management, engineering, decision]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
 last_updated: 2026-09-14
 ---
 
@@ -77,6 +77,16 @@ Manager vs IC is the career decision framework for choosing between the manageme
 - As a manager-of-managers he realized "teams that are perfectly happy are rarely performing at their very best"; the toolkit shifts from 1:1s and goals to designing the org's systems
 - When people tell him they want to enter management, he often first tries to talk them out of it: the job only works if you get energy from getting more out of others
 
+### Director vs Manager (Snapchat-director guest)
+- The shift from frontline manager to director taught the guest the difference between "managing" and "directing": a director directs an organization toward a better future rather than simply managing people
+- Managing managers requires a different philosophy from managing ICs — a line manager typically knows the details best, but a director must add value to senior reports who know more detail than they do
+- His first half year as director was rough until he reframed his role: high-level strategic direction, gathering resources across departments, solving the organization's hardest problems, and growing his reports to the next level ([[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]])
+
+### Fiona Fung's Manager-of-Managers Lessons
+- When supporting other managers, use "divide and conquer" — ask what each of you is strong at and how to complement each other; this extends beyond IC skill sets to manager skill sets
+- Practice "trust but verify": delegate to scale, but verify enough that you don't lose touch with a project
+- Ask the managers you support for fast feedback and full transparency about what's going well and what isn't; her nightmare is the "this is fine" dog meme hiding a burning room
+
 ## Related
 
 - [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary
@@ -99,3 +109,8 @@ Manager vs IC is the career decision framework for choosing between the manageme
 - [[summary-20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses]] — source summary
 - [[summary-20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai]] — source summary (meritocracy)
 - [[Stefan Mai]] — attribution opacity at high levels
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
+- [[Rome]] — the manager-to-director shift
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
+- [[Fiona Fung]] — manager-of-managers lessons
+- [[Manager Trust]] — trust but verify

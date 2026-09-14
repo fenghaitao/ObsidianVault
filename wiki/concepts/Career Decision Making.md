@@ -2,7 +2,7 @@
 title: "Career Decision Making"
 type: concept
 tags: [career, growth, decision-making]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
 last_updated: 2026-09-14
 ---
 
@@ -22,6 +22,18 @@ Career Decision Making is the practice of making explicit, conscious choices abo
 
 - Jay Jo advises picking what you're optimizing for (learning, career growth, or compensation) before choosing big tech vs startup, and warns that people over-index on the risk of leaving a job ([[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]])
 
+### The Regret Test & North Star (Snapchat-director guest)
+- The guest's decision heuristic: project yourself 15 years out — if you would feel regret not having done something, do it now rather than later
+- He anchors choices to a north star (becoming a CTO of an AI company) rather than to external factors like title, headcount, or money
+- Don't always follow conventional wisdom — "only the people who can think differently early can see the new opportunity that no one else can see"
+
+### Roy Disney's Values Test (2025 compilation)
+- The compilation opens with Roy Disney's line, "decisions are easy when your values are clear to you" — hard decisions often signal unclear values
+- One guest cautions to be sure you actually want the thing you're pursuing (e.g., the Warren Buffett test: billions of dollars but being in your late 90s)
+
+### Impact vs Passion (Fiona Fung)
+- When impact and passion trade off, have an honest conversation with yourself about what's important to you and what's motivating, and why — then share it with your manager; there are no right answers
+
 ## Related
 
 - [[Steve Huynh]] — source of the insight
@@ -29,5 +41,11 @@ Career Decision Making is the practice of making explicit, conscious choices abo
 - [[Career Growth]] — the broader context
 - [[Job Hopping]] — the active alternative to staying put
 - [[Company Hopping]] — the strategic alternative
+- [[Rome]] — the regret test and north star
+- [[North Star Goal]] — anchoring decisions to a destination
+- [[Fiona Fung]] — impact vs passion
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
 - [[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]] — source summary (Jay)
 - [[Jay Jo]] — choosing what to optimize for

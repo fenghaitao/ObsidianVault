@@ -2,8 +2,8 @@
 title: "Scale"
 type: concept
 tags: [engineering, infrastructure, Meta, career]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -19,9 +19,17 @@ Scale refers to both the technical scale of systems serving billions of users an
 - The paradox: Meta's scale makes individual contributions hugely impactful, but also makes engineers dependent on infrastructure they don't understand
 - The solution: combine Meta-scale impact with curiosity about how the infrastructure actually works
 
+### Scaling a Company from 100 to 3,000 (Snapchat)
+- Snapchat grew from about 100 employees (the guest was roughly employee #100) to about 3,000 in two years, and his camera team grew with the company
+- He calls fast growth a "painful period," because the culture that works for a 100-person company is very different from the one for a 3,000-person company — cultures start to clash (in a good way)
+- "Every time you double your team, it's almost like building a new company": leadership must be resilient and adaptive, rethinking problems in new ways rather than clinging to old approaches
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Meta]] — the company defined by scale
 - [[Working Through Others]] — the career interpretation of scale
 - [[Startup vs Big Tech]] — scale is a key differentiator
+- [[Rome]] — grew a team alongside Snapchat's 100→3,000 scaling
+- [[Snapchat]] — the company that scaled
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary

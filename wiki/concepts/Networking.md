@@ -2,8 +2,8 @@
 title: "Networking"
 type: concept
 tags: [career, relationships, communication, opportunity]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -35,6 +35,14 @@ Networking is the practice of building professional relationships. Rahul Pandey 
 - It creates luck because you don't know who's going to see your post, but people will think of you when opportunities arise
 - Both Rahul and Ryan are active on social media as a deliberate networking strategy
 
+### Build Your Network Early (Snapchat-director guest)
+- Build a professional network and connections early — you never know when an opportunity will arrive, but you want to be able to capture it when it does
+- He never proactively looked for jobs; nearly all opportunities came inbound via personal connections or recruiter outreach, and he heavily weights personal connection
+- He prefers to join places where he has a personal connection, so he can weather up- and down-cycles with people he likes and trusts
+
+### Build a Reputation So Jobs Come to You (2025 compilation)
+- "Jobs are still with other humans": build relationships and a reputation online (e.g., via LinkedIn, from your keyboard) so opportunities come to you — Amazon called one guest, not the other way around
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -44,3 +52,6 @@ Networking is the practice of building professional relationships. Rahul Pandey 
 - [[Relationship Building]] — related concept
 - [[Internal Brand]] — networking builds internal brand
 - [[LinkedIn]] — platform for networking
+- [[Rome]] — builds connections early and weights personal connection
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary

@@ -2,7 +2,7 @@
 title: "Claude Code"
 type: entity
 tags: [tool, AI, developer-tools, Anthropic]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
 last_updated: 2026-09-14
 ---
 
@@ -20,9 +20,16 @@ Claude Code is Anthropic's AI coding agent, created by Boris Cherny.
 - Team philosophy: hold model-generated and human code to the same quality bar; vibe code only for throwaway/prototype code, otherwise pair with the model (plan mode) or hand-write high-conviction parts
 - Plugins were built by a "swarm" of ~20 Claude agents over a weekend
 
+### Fiona Fung on Claude Code's Speed
+- Fiona supports the Claude Code team at Anthropic; its loop — idea → build → launch internally → gather dogfooding feedback → launch publicly — impressed her as possibly even faster than her Facebook Marketplace days
+- Anthropic "everybody dogfoods Claude Code," producing a very high volume of feedback
+- She now uses Claude Code to build Claude Code — the first time in a long while she's shipped production software, and she'd forgotten how fun shipping code and seeing customer feedback is
+
 ## Related
 
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
+- [[Fiona Fung]] — supports the Claude Code team
 - [[Boris Cherny]] — creator
 - [[Anthropic]] — the company behind it
 - [[Claude]] — the underlying model family

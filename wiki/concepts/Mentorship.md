@@ -2,7 +2,7 @@
 title: "Mentorship"
 type: concept
 tags: [career, learning, growth, engineering]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
 last_updated: 2026-09-14
 ---
 
@@ -33,6 +33,11 @@ Mentorship is the relationship where a more experienced engineer guides and acce
 - Keep it informal and unscheduled ("I don't want a plan and I don't want a schedule"); don't be afraid to end it when neither side is getting value
 - For mentees: cold outreach works "most of the time"; start with a specific ask or just a conversation rather than "can you mentor me"; show up, ask questions, and be willing to learn
 
+### Fiona Fung on Mentoring vs Coaching
+- Start with an explicit conversation about what the mentee is looking for — what does success look like after 3 months, and after 6 months — so the time is well used for both
+- Distinguish mentoring (listening and dispensing helpful advice) from coaching (acting as a mirror so the other person discovers the answers within themselves), and confirm which mode the other person wants
+- The most effective mentoring relationships have goals set by the mentee; the mentor adds life experience and resources, but mentees should set explicit goals for what they want to receive ([[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]])
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -45,3 +50,6 @@ Mentorship is the relationship where a more experienced engineer guides and acce
 - [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — source summary
 - [[Joakim Recht]] — mentoring outside his org
 - [[Uber]] — company context
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
+- [[Fiona Fung]] — mentoring vs coaching
+- [[One-on-Ones]] — related growth conversation

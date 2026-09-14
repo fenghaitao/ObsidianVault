@@ -2,7 +2,7 @@
 title: "Manager Trust"
 type: concept
 tags: [career, management, engineering, relationships]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
 last_updated: 2026-09-14
 ---
 
@@ -29,6 +29,15 @@ Manager Trust is the relationship dynamic between an engineer and their manager 
 - The manager partnership is explicit: "I'll do everything you need done; you make sure I'm rewarded for it"
 - It is built over time — Ethan's VP took roughly 2.5 years before he was willing to stake his reputation on Ethan's promotion — and requires you to know the process and dates, since a well-meaning manager who misses the cycle cannot honor the deal
 
+### Build Trust First (Snapchat-director guest)
+- The first thing the guest does in any new leadership role is build a trust layer — his core job is to be seen as helping his reports grow, not as a blocker to their career
+- He credits "The Five Dysfunctions of a Team" for the lesson that trust is the foundational layer of a successful team
+- He builds trust partly by unblocking things his reports cannot unblock themselves, which demonstrates the value of upper management
+
+### Trust But Verify (Fiona Fung)
+- As a manager of managers, build a "trust but verify" muscle: delegate to scale, but verify enough that you don't lose touch with a project
+- Ask the managers you support for fast feedback and full transparency about what's going well and what isn't, so problems surface instead of being hidden behind "this is fine"
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -43,3 +52,8 @@ Manager Trust is the relationship dynamic between an engineer and their manager 
 - [[summary-20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans]] — source summary (Ethan)
 - [[Ethan Evans]] — the magic loop with his VP
 - [[Magic Loop]] — his framework for manager partnership
+- [[Rome]] — build trust first in new roles
+- [[The Five Dysfunctions of a Team]] — the book behind trust-first
+- [[Fiona Fung]] — trust but verify
+- [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary

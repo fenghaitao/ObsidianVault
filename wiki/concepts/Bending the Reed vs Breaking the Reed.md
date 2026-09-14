@@ -2,8 +2,8 @@
 title: "Bending the Reed vs Breaking the Reed"
 type: concept
 tags: [life, balance, career, relationships, trade-offs]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,6 +21,7 @@ last_updated: 2026-07-21
 
 ## Related
 
+- [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (compilation re-quotes this theme)
 - [[Philip Su]] — nearly broke his relationship through overwork
 - [[Work-Life Balance]] — the trade-off this metaphor describes
 - [[Diminishing Returns]] — the cost of extreme work hours

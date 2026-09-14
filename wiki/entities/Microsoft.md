@@ -2,8 +2,8 @@
 title: "Microsoft"
 type: entity
 tags: [company, FAANG, tech, Seattle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,6 +21,14 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - Philip described Microsoft as having 140,000 people when he worked there (~15 years ago), which is more than the populations of 40 countries
 - At Microsoft, Philip notes there are "always weak teams" at a company of that size, and being on a weak team can lead to over-leveling
 - Philip missed both the internet revolution and the mobile revolution while at Microsoft, as the company largely missed both these transition points
+- The Snapchat-director guest cited Microsoft Research's ~50/50 research-and-engineering industrial model as similarly unsustainable to IBM Research's, part of why he left research for full-time engineering ([[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]])
+- The 2025 advice compilation retells a guest's Microsoft story: he joined Microsoft convinced he wanted to become a dev manager and reached level 67 (near E7, what he regarded as his terminal level) young, then faced the "dog that caught the car" crisis of purpose ([[summary-20251229 - Best Software Engineering Career Advice of 2025]])
+
+### Fiona Fung's Microsoft
+- Fiona spent 11.5 years at Microsoft; her first job out of college was "using Visual Studio to build Visual Studio" (editor and debugger), ending on JavaScript and TypeScript to help ship TypeScript 1.0
+- Became a manager of managers at Microsoft, supporting the manager of the TypeScript team
+- Visual Studio teams ran ~4-week sprints, which she later found slow relative to Facebook's weekly sprints
+- She left in 2015 partly because, after 11.5 years, she wanted to learn to be an effective engineer outside the "Microsoft ecosystem cocoon"
 
 ### David Fowler's Microsoft
 - Leveling runs 59-80 with entry at 59/60, roughly two levels per title band; principal spans three levels, so depth within a band is immense; Distinguished Engineer is ~70, with technical fellows above
@@ -41,4 +49,8 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - [[Evan King]] — grew up in the Seattle area near Microsoft
 - [[summary-20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su]] — source summary
 - [[Philip Su]] — spent 12 years at Microsoft before Meta
+- [[Fiona Fung]] — 11.5 years at Microsoft before Facebook
+- [[TypeScript]] — the project she stayed to ship
+- [[Visual Studio]] — the IDE she built with itself
+- [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
 - [[Meta]] — where a former Microsoft engineer joined Evan's team
