@@ -91,3 +91,7 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-14] ingest | Ingested Fiona Fung (Anthropic eng leader) episode
 - **Changes**: created [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]], created [[Fiona Fung]], created [[TypeScript]], created [[Visual Studio]], created [[Facebook Marketplace]], created [[Michael Abrash]], created [[One-on-Ones]], created [[Dogfooding]], created [[Kindness in Engineering]], updated [[Anthropic]], updated [[Claude Code]], updated [[Meta]], updated [[Facebook]], updated [[Microsoft]], updated [[Mentorship]], updated [[Manager vs IC]], updated [[Manager Trust]], updated [[Feedback Reception]], updated [[Engineering Culture]], updated [[Career Decision Making]], updated [[Career Growth]], updated [[Ryan L. Peterman]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-14] backfill | Registered 248 previously-unindexed wiki pages
+- **Changes**: updated [[index.md]] — added 10 source summaries, 112 entities, and 126 concepts that existed on disk but were not registered
+- **Conflicts**: none

@@ -31,6 +31,16 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — Rome's path from IBM research and Meta manager to Square director, Snapchat senior director, and HeyGen CTO, anchored on a north-star goal.
 - [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — Ryan L. Peterman's compilation of the year's best "advice to your younger self" from CTOs and distinguished engineers.
 - [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — Fiona Fung on Microsoft vs Facebook engineering cultures, mentoring vs coaching, dogfooding, and kindness at Anthropic.
+- [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
+- [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
+- [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
+- [[summary-20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions]] — Ricky (aka "finding Ricky"), a Staff Engineer at Google who reached that level by age 28, shares the detailed arc of his career from new grad (L3) to Staff (L6) across three promotions over approximately seven years.
+- [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — Ryan L. Peterman interviews Evan King, who reached Staff Engineer (IC6) at Meta by age 25 through three consecutive annual promotions.
+- [[summary-20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh]] — Ryan L. Peterman interviews Steve Huynh, a former Amazon Principal Engineer (L7) with 18 years at the company, covering his unconventional path from English/Creative Writing major to top-tier IC, Amazon's interviewing and performance management culture, and the career progression from SDE1 to Principal.
+- [[summary-20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen]] — Ryan L. Peterman interviews Jia Chen, a college student who won 21 hackathons with a 70% win rate despite starting as a finance major with only one Python class.
+- [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — Rahul Pandey shares his full career journey from a Stanford research lab spinout startup (Cos) that was acquired by Pinterest, through two failed promotion attempts at Pinterest, to achieving Staff Engineer (IC6) at Meta by age 28.
+- [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — Ryan Peterman and Ricky, both staff engineers at Meta/Google, give a Q&A talk to UCLA students covering the unwritten rules of succeeding in the software engineering industry.
+- [[summary-20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su]] — Philip Su, one of the few IC9 (Distinguished Engineer) at Meta, shares his career journey from Microsoft to Meta to OpenAI, covering his rapid promotions, his deliberate demotion from E9 to E7, and his philosophy on career growth.
 
 ## Entities
 
@@ -131,6 +141,118 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[LinkedIn]] — Professional network used to build a reputation that brings opportunities inbound.
 - [[Meta]] — Facebook's parent company, the setting of several guests' careers.
 - [[Square]] — Payments company (now Block) where Rome was a director.
+- [[A Life Engineered]] — YouTube channel and weekly newsletter by Steve Huynh, former Amazon Principal Engineer.
+- [[Activision]] — Activision is a major video game publisher known for franchises like Call of Duty.
+- [[Aiden Goolan]] — Aiden Goolan is the co-founder of Sprint.dev alongside Jia Chen.
+- [[Airbnb]] — Airbnb is an online marketplace for lodging and travel experiences, and one of the FAANG-adjacent tech companies.
+- [[Alex]] — Alex is Rahul Pandey's co-founder at Taro.
+- [[AP Computer Science]] — AP Computer Science is an Advanced Placement course offered in some US high schools.
+- [[Apple]] — Apple is a multinational technology company known for consumer electronics, software, and online services.
+- [[Arduino]] — Arduino is an open-source electronics platform based on easy-to-use hardware and software.
+- [[Ashley]] — Ashley is a UCLA student who reached out to Ryan Peterman to invite him to give a talk and served as the MC for the Q&A event.
+- [[Asset Inventory]] — Asset Inventory was a Knowledge Graph project built by Zach Wilson at Netflix.
+- [[Avalanche]] — Avalanche is a blockchain platform.
+- [[Bay Area]] — The Bay Area (San Francisco Bay Area) is the primary hub of the technology industry in the United States, home to Silicon Valley and many of the world's largest tech companies.
+- [[Ben Matthews]] — Ben Matthews was one of the 12 members of Meta London's original landing team, selected by Philip Su for his exceptional productivity and hiring acumen.
+- [[Bloomberg]] — Bloomberg is a financial software, data, and media company.
+- [[Bosworth]] — Bosworth (Bos) is the former CTO of Meta (Facebook).
+- [[Buck]] — Buck is Meta's custom-built build system used for Android compilation.
+- [[Building 8]] — Building 8 was Meta's hardware division that developed the Portal video calling device.
+- [[Call Of Duty]] — Call of Duty is a major video game franchise published by Activision.
+- [[Capture The Flag]] — Capture The Flag (CTF) is a cybersecurity competition where participants solve security-related challenges.
+- [[Carly]] — Carly (also referred to as Karly in other transcripts) is a Senior Manager and Lead Engineer (staff-equivalent IC) at Activision, working in security.
+- [[ChatGPT]] — ChatGPT is OpenAI's conversational AI product.
+- [[Christchurch]] — The Christchurch mosque shooting occurred on March 15, 2019 in Christchurch, New Zealand, where a gunman livestreamed the shooting of a mosque, killing 51 people.
+- [[Claude]] — Claude is an AI assistant developed by Anthropic.
+- [[Coachella]] — Coachella is a major music and arts festival held annually in California.
+- [[Content Integrity]] — Content Integrity is a Meta organization whose mission was to build machine learning models to identify and take action on violating content, covering everything from hate speech to graphic violence to suicide to terrorism to child exploitation imagery to pornography.
+- [[Cornell University]] — Cornell University is an Ivy League university in Ithaca, New York.
+- [[Cos]] — Cos was a startup spun out of Stanford University research, founded by professor Yuri Lusco and an industry veteran.
+- [[DataExpert.io]] — DataExpert.io is an educational platform created by Zach Wilson that teaches data engineering, data science, and SQL.
+- [[Defcon]] — Defcon is one of the world's largest and most well-known hacker conventions, held annually in Las Vegas.
+- [[Designing Data-Intensive Applications]] — "Designing Data-Intensive Applications" is a widely respected book on data engineering and distributed systems.
+- [[Discord]] — Discord is a communication platform for communities.
+- [[Disney]] — Disney is a multinational entertainment and media company.
+- [[Emin Gun Sirer]] — Emin Gun Sirer is a computer scientist, Cornell professor, and the CEO and founder of the Avalanche blockchain platform.
+- [[Estuary]] — Estuary was Evan King's first substantial project at Meta, named after the point where multiple rivers come together.
+- [[Evan King]] — Evan King is a software engineer who reached Staff Engineer (IC6) at Meta by age 25, one of the fastest promotion trajectories at the company.
+- [[FAANG]] — FAANG is an acronym for five major American technology companies: Facebook (Meta), Amazon, Apple, Netflix, and Google.
+- [[FastAPI]] — FastAPI is a modern Python web framework for building APIs.
+- [[Figma]] — Figma is a collaborative web-based design tool.
+- [[Flink]] — Apache Flink is an open-source stream processing framework used for real-time data processing and analytics.
+- [[GarageBand]] — GarageBand is a music creation software application developed by Apple.
+- [[Gates Foundation]] — The Bill & Melinda Gates Foundation is a philanthropic organization that funded Philip Su's nonprofit Outeré, which built free software for global health deployed in Nigeria, Kenya, and South Africa for malaria rapid testing.
+- [[GitHub]] — GitHub is a code hosting platform for version control and collaboration.
+- [[Gmail]] — Gmail is Google's email service.
+- [[Golden Set Recall]] — Golden Set Recall was an evaluation system and project built by Evan King and the Realtime Integrity team at Meta.
+- [[HackerRank]] — HackerRank is a platform used by tech companies to administer coding challenges and technical assessments during the recruiting process.
+- [[Hello Interview]] — Hello Interview is a mock interview and interview preparation platform co-founded by Evan King and Stephan.
+- [[iPhone]] — The iPhone is Apple's flagship smartphone product line, used as an example in the panel of a high-visibility product that makes promotion more likely.
+- [[Jane Street]] — Jane Street is a quantitative trading firm and one of the most prestigious employers for software engineers, particularly known for its use of OCaml and high cash compensation.
+- [[Java]] — A widely-used object-oriented programming language running on the JVM (Java Virtual Machine).
+- [[Jender]] — Jender is an engineering manager who was Zach Wilson's direct manager at both Facebook and Netflix.
+- [[Jia Chen]] — Jia Chen is a college student, hackathon competitor, content creator, and startup founder.
+- [[John Carmack]] — John Carmack is a legendary software engineer known for his work in gaming (id Software) and virtual reality (Oculus/Meta).
+- [[Karly]] — Karly (also referred to as Carly in the transcript) is an engineering manager at a FAANG company who manages Staff Engineers.
+- [[Kindle]] — Amazon's e-reader product line.
+- [[Lee]] — Lee is an engineer and engineering manager with experience at Amazon, known for writing about tech career topics and mental health.
+- [[LeetCode]] — Online platform for coding interview preparation, providing a battery of test cases and automated evaluation.
+- [[Levels.FYI]] — Levels.FYI is a website that provides leveling frameworks and compensation data across tech companies.
+- [[Luma]] — Luma is an event platform.
+- [[Messenger]] — Facebook Messenger is Meta's messaging platform with a mature ecosystem for cross-platform video calling.
+- [[Michigan State University]] — Michigan State University (MSU) is a public research university in East Lansing, Michigan.
+- [[MongoDB]] — MongoDB is a NoSQL document database.
+- [[Monta Vista]] — Monta Vista High School is a highly competitive public high school in Cupertino, California, in the Bay Area.
+- [[Netflix]] — Netflix is a streaming entertainment company and one of the FAANG tech companies.
+- [[Next.js]] — Next.js is a React framework for building web applications.
+- [[Oculus]] — Oculus is Meta's virtual reality division, acquired by Facebook.
+- [[Ohio Hackathon]] — The Ohio Hackathon (called "Hacks") was a hackathon event in Ohio.
+- [[OpenAI]] — OpenAI is an AI research and deployment company.
+- [[Outeré]] — Outeré is a Seattle-based nonprofit founded by Philip Su that builds free software for global health.
+- [[Palantir]] — Palantir is a data analytics and software company known for its work with government and defense agencies.
+- [[Peak Salvation]] — Peak Salvation is a podcast miniseries by Philip Su about his time working at Amazon's flagship warehouse over peak season (Black Friday to Christmas).
+- [[Perplexity]] — Perplexity is an AI-powered search engine startup.
+- [[Philip Su]] — Philip Su is a software engineer who was promoted to Distinguished Engineer (IC9) at Meta, one of the few to reach that level.
+- [[Pinterest]] — Pinterest is a social media and image sharing platform.
+- [[Portal (Meta)]] — Portal was a standalone hardware video calling device developed by Meta (Facebook).
+- [[Prime Video]] — Prime Video (formerly Amazon Video) is Amazon's video streaming service.
+- [[Princeton Hackathon]] — The Princeton Hackathon is a hackathon event at Princeton University.
+- [[Quora]] — Quora is a question-and-answer platform.
+- [[Rahul]] — Rahul is a software engineer and content creator who went from E3 to E6 at Meta in three years, a trajectory similar to Ryan L. Peterman.
+- [[Raspberry Pi]] — Raspberry Pi is a series of small single-board computers.
+- [[Realtime Integrity]] — Realtime Integrity was a Meta team created in response to the Christchurch mosque shooting in March 2019.
+- [[Rebecca Ambrose]] — Rebecca Ambrose is a professional editor whom Philip Su hired to edit his podcast miniseries "Peak Salvation."
+- [[Ricky]] — Ricky (online handle "finding Ricky") is a Staff Engineer at Google who reached the L6 level by age 28, having started as a new grad in 2017.
+- [[Rooflow]] — Rooflow is a tech company that recruits at hackathons.
+- [[RTC]] — RTC (Real-Time Communication) is the video calling infrastructure team within Meta's Messenger organization.
+- [[San Francisco]] — San Francisco (SF) is a major city in California and a global hub for technology and startups.
+- [[Scott Renfro]] — Scott Renfro is a high-level individual contributor at Meta whom Philip Su described as a "force multiplier" and a "slam dunk case" of someone deserving of seniority.
+- [[Shrep]] — Shrep (Schrep) was the CTO of Facebook/Meta during Philip Su's tenure as Site Director of Meta London.
+- [[Silicon Valley]] — Silicon Valley is a region in the southern San Francisco Bay Area known as the global center for technology and innovation.
+- [[Smart Pricing]] — Smart Pricing is an Airbnb machine learning algorithm that automatically sets prices for Airbnb listings.
+- [[Spotify]] — Spotify is a music streaming platform.
+- [[Sprint.dev]] — Sprint.dev is a hackathon platform co-founded by Jia Chen and Aiden Goolan that helps students and developers of any age enter hackathons.
+- [[StaffEng.com]] — StaffEng.com is a website and resource about the Staff Engineer role, providing articles, guides, and frameworks for understanding engineering career ladders and the staff+ levels.
+- [[Stanford University]] — Stanford University is a top-tier research university in Silicon Valley.
+- [[Stephan]] — Stephan is the co-founder of Hello Interview and Evan King's former manager at Meta.
+- [[Steve Huynh]] — Former Amazon Principal Engineer (L7) who spent 18 years at the company.
+- [[Substack]] — Substack is a newsletter publishing platform used by multiple panelists for long-form content about career growth and software engineering.
+- [[Taro]] — Taro is Rahul's company focused on career growth for software engineers.
+- [[The Great Post Explorer]] — The Great Post Explorer was an internal tool at Facebook (Meta) built by Philip Su to rank and expose people to the most commented-on and reacted-to posts of all time within Facebook's internal network (Workplace).
+- [[Think Big Analytics]] — Think Big Analytics was a startup company where Zach Wilson began his data career as a data analyst.
+- [[Twitter]] — Twitter (now X) is a social media platform.
+- [[University Of Washington]] — Public research university in Seattle, Washington.
+- [[Web3]] — Web3 refers to a vision of a decentralized internet built on blockchain technology.
+- [[WhatsApp]] — WhatsApp is a messaging platform acquired by Facebook (Meta) for $19 billion in 2014.
+- [[Whisper AI]] — Whisper AI is an automatic speech recognition system developed by OpenAI.
+- [[Workplace]] — Workplace is Meta's internal version of Facebook, used for company-wide communication, sharing work updates, and building visibility within the organization.
+- [[Xiaohongshu]] — Xiaohongshu (Little Red Book, also known as RED) is a Chinese social media and e-commerce platform.
+- [[Y Combinator]] — Y Combinator (YC) is a startup accelerator that provides seed funding, mentorship, and networking.
+- [[Yelp]] — Yelp is a platform for local business reviews and recommendations.
+- [[YouTube]] — YouTube is a video sharing platform used by multiple panelists (Rahul, Ryan L. Peterman) for publishing career growth and software engineering content.
+- [[Yuri Lusco]] — Yuri Lusco was a rising star professor at Stanford University whose research lab Rahul Pandey joined as a research assistant.
+- [[Zach Wilson]] — Zach Wilson is a data engineer and content creator who worked at Netflix, Airbnb, and Amazon.
+- [[Zillow]] — Zillow is an online real estate marketplace company.
 
 ## Concepts
 
@@ -228,6 +350,132 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Dog That Caught the Car]] — Achieving a goal you never examined, then feeling empty.
 - [[Feedback Reception]] — Receiving constructive feedback in "read-only mode" without justifying.
 - [[People Pleasing]] — Examining whether you climb a ladder you chose or one that was handed to you.
+- [[Acquisitions]] — Acquisitions in Silicon Valley is an "overloaded term" that can range from blockbuster deals (WhatsApp acquired by Facebook for $19 billion) to acqui-hires where a failed startup is acquired primarily for its team.
+- [[AI as Amplifier]] — AI as Amplifier is Steve Huynh's framework for understanding AI's impact on software engineering: AI can take a non-coder from 0 to 1 (building a basic app), and a 1x engineer to 10x (amplifying existing skills), but cannot yet take someone from 0 to 10x (create a senior/staff engineer from nothing).
+- [[AI Transition Point]] — AI Transition Point refers to the current era of artificial intelligence as a major technological shift comparable to the internet and mobile revolutions.
+- [[Amazon Bar Raiser]] — The Amazon Bar Raiser program is an interviewer training and assessment program at Amazon.
+- [[Amazon Green Badge]] — Amazon uses a color-coded badge system to distinguish employment types: Blue Badge (full-time employee), Green Badge (contractor/temp), and Yellow Badge (vendor).
+- [[Amazon Leadership Principles]] — Amazon Leadership Principles are a set of 11-12 core values that guide decision-making, hiring, and performance evaluation at Amazon.
+- [[Amazon Leveling]] — Amazon's Engineering Leveling is the SDE career ladder from SDE1 (entry level) through SDE2 (mid-level), SDE3 (Senior), and L7 (Principal Engineer).
+- [[Amazon Operational Culture]] — Amazon's Operational Culture is the company's emphasis on operational excellence, including on-call rotations, understanding how systems break, and having ideas about how to fix operational issues.
+- [[Amazon Promotion Process]] — Amazon's Promotion Process is the formal system for advancing engineers through the SDE leveling ladder.
+- [[Amazon Refreshers]] — Amazon Refreshers are additional equity grants given to employees, typically at the discretion of managers.
+- [[Amazon Writing Culture]] — Amazon's Writing Culture is the practice of expressing ideas through written documents (typically six-page narratives) rather than PowerPoint presentations.
+- [[Analytics Engineering]] — Analytics Engineering is a discipline focused on SQL, experimentation, and product analytics — more analytical and less infrastructure-focused than traditional Data Engineering.
+- [[Bad News Early]] — "Bad News Early" is the principle that surfacing problems proactively is always better than hiding them.
+- [[Behavioral Interviewing]] — Behavioral Interviewing is the portion of the interview process focused on past experiences, how a candidate operates, and cultural fit.
+- [[Boot Camp]] — Boot Camp is the onboarding program at Meta (Facebook) for new engineers, lasting several weeks.
+- [[Bottom-Up Project Ideas]] — Bottom-Up Project Ideas refers to the strategy of identifying and proposing your own projects rather than waiting for top-down assignments from a manager or tech lead.
+- [[Brand Equity]] — Brand Equity in the context of a software engineering career refers to the prestige and signaling value of having a recognizable company name on your resume.
+- [[Code Search]] — Code Search is the skill of effectively searching a large codebase to find relevant code, patterns, and prior art.
+- [[Coding Interview]] — The Coding Interview is the technical portion of big tech interviews where candidates solve algorithmic and data structure problems, typically on a whiteboard or in a shared coding environment.
+- [[Company Hopping]] — Company Hopping is the strategy of achieving higher job levels by moving between companies rather than through internal promotion.
+- [[Confidence Building]] — Confidence Building refers to the moments and experiences that establish an engineer's belief in their own capabilities.
+- [[Content Moderation]] — Content Moderation is the process of detecting, reviewing, and taking action on violating content on online platforms.
+- [[Creative Expression]] — Creative Expression is the practice of pursuing ideas and projects that you care about, rather than only doing what you're told.
+- [[Credibility]] — Credibility in engineering is the earned reputation that makes others trust your ideas, judgment, and technical direction.
+- [[Curiosity]] — Curiosity is the drive to understand how things work, not just that they work.
+- [[Customer Obsession]] — Customer Obsession is the primary Amazon Leadership Principle, holding that the customer experience is the highest priority above all other considerations.
+- [[Data Engineering]] — Data Engineering is the practice of building and maintaining data pipelines, infrastructure, and platforms that process, transform, and serve data at scale.
+- [[Decision Maker]] — Decision Maker is a strategy for students at non-target schools to stand out by becoming a decision maker in their area — whether through club leadership, large side projects, or personal brand.
+- [[Design Docs]] — Design Docs are written documents that explore the pros and cons of different technical approaches before implementation begins.
+- [[Diamond Shape (Skills Convergence)]] — The Diamond Shape is a pattern where IC and management skills diverge in the middle of a career but converge again at very senior levels (E8+).
+- [[Diminishing Returns]] — Diminishing Returns is the economic principle that additional investment in one area yields progressively smaller gains.
+- [[Disagree and Commit]] — Disagree and Commit is a leadership principle where you voice disagreement with a decision but then fully commit to executing it once the decision is made.
+- [[Distribution Systems]] — Distribution Systems are the channels and methods through which a product reaches its users.
+- [[Domain Specialist Archetype]] — The Domain Specialist Archetype is one of several staff engineering archetypes.
+- [[Equity Compensation]] — Equity Compensation refers to stock-based pay (RSUs, stock options, etc.) that becomes a larger portion of total compensation at higher engineering levels in big tech companies.
+- [[Experimentation]] — Experimentation is the practice of running controlled tests (A/B tests, model experiments) to measure the impact of changes.
+- [[Feature Engineering]] — Feature Engineering is the process of selecting, transforming, and creating input features for machine learning models.
+- [[Founder Market Fit]] — Founder Market Fit is the alignment between a founder's background, skills, and experience with the market or product they are building.
+- [[Frugality]] — Frugality is one of Amazon's Leadership Principles that emphasizes accomplishing more with less.
+- [[Gatekeepers]] — Gatekeepers is the mindset that there are no external authorities who must grant you permission before you can learn, build, or teach.
+- [[Golden Set Recall]] — Golden Set Recall is the evaluation methodology of curating a fixed set of known positive examples (a "golden set") and measuring how many of them a detection system successfully identifies (recall).
+- [[Growth Mindset]] — Growth Mindset is the belief that abilities can be developed through dedication and hard work.
+- [[Hackathon Strategy]] — Hackathon Strategy is a systematic approach to winning hackathons, encompassing pre-event research, team selection, execution, and pitching.
+- [[Holistic Problem Solving]] — Holistic Problem Solving is the approach of looking at the entire problem space rather than narrowly focusing on a single technical dimension.
+- [[Horizontal Impact]] — Horizontal Impact is the concept of enabling your team and organization to move faster by improving the development process, tooling, and how work gets done — as opposed to what work gets done.
+- [[IC Levels]] — IC Levels (Individual Contributor levels) define the engineering ladder at companies like Meta, ranging from IC3 (new grad) through IC9 and beyond.
+- [[Impact Story]] — An Impact Story is a compelling narrative of accomplishments and delivered value that an engineer uses to sell themselves during interviews and negotiations.
+- [[Impact Throughput]] — Impact Throughput is a framework for prioritization where you optimize for the ratio of impact to effort.
+- [[Impact-Driven Culture]] — Impact-Driven Culture is Meta's engineering culture that rewards engineers based on the impact of their work rather than the difficulty or complexity of the solution.
+- [[Independence]] — Independence in engineering is the ability to finish projects on your own without requiring handholding or continuous guidance from more senior engineers.
+- [[Individual Contributor Track]] — The Individual Contributor (IC) track is the career path for engineers who advance without becoming managers, progressing through Senior, Staff, Principal, and Distinguished Engineer levels.
+- [[Infrastructure Bias]] — Infrastructure Bias is the observed tendency for infrastructure and backend teams to have more Staff+ promotion opportunities than product or frontend teams, because infrastructure work naturally creates leveraged impact that is easier to measure and justify for promotion.
+- [[Infrastructure Teams vs Product Teams]] — Infrastructure Teams vs Product Teams is a distinction in engineering org design that has significant implications for career progression, especially at the Staff+ level.
+- [[Inquisitiveness]] — Inquisitiveness is the quality of being curious and eager to learn, especially about how things work beyond the surface level.
+- [[Internal Brand]] — Internal Brand is an engineer's reputation within their company — being known as someone who gets things done, is approachable, and can be trusted with high-impact problems.
+- [[Internal Promotion]] — Internal Promotion is the traditional path to Staff Engineer, where an engineer grows within a single company, building the track record, relationships, and scope needed to justify the promotion through the company's formal process.
+- [[Knowledge Graph]] — A Knowledge Graph is a graph database that describes entities and their relationships.
+- [[Lacing Algorithm]] — A Lacing Algorithm is an algorithm that traces the provenance of digital art, tracking back through a tree of edits to determine if someone has altered an artist's NFT and identifying the original artist.
+- [[Landing Teams]] — A Landing Team is a group of experienced engineers brought from a company's headquarters to bootstrap a new remote office, carrying the company's culture and engineering practices.
+- [[Leadership]] — Leadership in the engineering context refers to the ability to guide teams, set direction, influence without authority, and grow people around you.
+- [[Learning Vs Earning]] — Learning Vs Earning is a career decision framework stating that at any point in your career, you should be getting at least one of learning or earning from your job.
+- [[Luck]] — Luck refers to the role of chance and serendipity in career outcomes.
+- [[Luck And Agency]] — Luck And Agency is the interplay between chance opportunities and the proactive initiative to capitalize on them.
+- [[Luck Surface Area]] — Luck Surface Area is the concept that you can increase the probability of fortunate outcomes by being curious, maintaining relationships, and putting yourself and your work out there.
+- [[Luck Talent Hard Work]] — Luck, Talent, and Hard Work are the three factors Philip Su identifies as the main contributors to fast career growth.
+- [[Luck vs Ability]] — Luck vs Ability is the reflective framework for understanding how much of career success is attributable to fortunate circumstances versus personal effort and skill.
+- [[Main Character Energy]] — Main Character Energy is the mindset of being the protagonist of your own career rather than a passive participant.
+- [[Management Track]] — The Management Track is the career path for engineers who transition into people management, diverging from the IC track at the Senior Engineer level.
+- [[Manager Advocacy]] — Manager Advocacy refers to the proactive support a manager provides for an engineer's career growth, including creating opportunities, advocating behind the scenes during promotion discussions, and pushing for accelerated timelines.
+- [[Managing Up]] — Managing Up is the practice of proactively communicating with and influencing your manager to align expectations, secure support, and create conditions for your own success.
+- [[Market Leader vs Market Follower]] — Market Leader vs Market Follower is a strategic framework for choosing which company to join or compete against.
+- [[Master Data]] — Master Data is a data engineering concept referring to foundational data sets that many other pipelines, teams, and systems depend on.
+- [[Microservices Architecture]] — Microservices Architecture is a software architecture pattern where applications are built as collections of small, independently deployable services.
+- [[Mis-Leveling]] — Mis-Leveling occurs when a company hires an engineer at a level below their actual capability, typically due to the interview process not capturing the full scope of their experience.
+- [[Mock Interviews]] — Mock Interviews are practice interviews conducted with experienced interviewers to prepare candidates for real technical interviews.
+- [[Model Training]] — Model Training is the process of teaching machine learning models to recognize patterns by feeding them training data.
+- [[Multiplicative Impact]] — Multiplicative Impact is the concept of achieving outsized results by making other engineers or teams more effective, rather than by individual output alone.
+- [[Network Effects]] — Network Effects in the career context refers to how personal connections and relationships multiply opportunities and can change career trajectories.
+- [[Neurodiversity In Tech]] — Neurodiversity In Tech refers to the experiences and challenges of neurodivergent individuals (those with autism, ADHD, etc.) working in the technology industry, particularly around communication styles, career advancement, and workplace adaptation.
+- [[Non-Technical Judging]] — Non-Technical Judging is the recognition that most hackathon judges are not technical, and that pitches should focus on the demo and user experience rather than technical complexity or tech stack details.
+- [[Opportunity vs Preparedness]] — Opportunity vs Preparedness is Steve Huynh's framework for getting a job: it takes both opportunity (unevenly distributed, unpredictable — a referral, a chance connection) and preparedness (within your control — skills, knowledge, interview readiness).
+- [[Packaging]] — Packaging is Steve Huynh's term for the skill of communicating your experience, who you are, and what you're about in a coherent, efficient story during interviews.
+- [[Paved Road]] — Paved Road is a platform engineering concept at Airbnb that defines the standard, supported way to build data pipelines — ensuring compatibility with the platform, high quality, and maintainability.
+- [[Pedigree]] — Pedigree in the tech industry refers to the name-brand value of having worked at prestigious companies (especially FAANG) at senior levels.
+- [[Performance Review]] — Performance Review (called PSC at Meta) is the formal evaluation process at large tech companies where engineers receive ratings and feedback on their work.
+- [[Personal Brand]] — Personal Brand is the public image and reputation an individual builds through content, projects, and visibility.
+- [[Portfolio Approach]] — Portfolio Approach is a promotion strategy of having multiple projects contributing to your case rather than betting everything on a single large project.
+- [[Portfolio Of Bets]] — Portfolio Of Bets is a strategy for building a promotion case to Staff Engineer by maintaining 2-3 concurrent projects rather than betting everything on a single project.
+- [[Project Execution]] — Project Execution is the approach to building software projects, particularly in time-constrained environments like hackathons.
+- [[Promotion By Committee]] — Promotion By Committee is the process at many big tech companies where Staff+ level promotions are decided by a panel of senior leaders rather than by an individual's direct manager.
+- [[Promotion Velocity]] — Promotion Velocity refers to the speed at which an engineer progresses through the IC ladder, measured by the number of halves (performance cycles) between promotions.
+- [[Quantization Effects]] — Quantization Effects describe the phenomenon where small companies cannot hire fractional specialists for every role, making generalists more valuable.
+- [[Question Asking]] — Question Asking is the habit of aggressively seeking information, clarification, and help at work.
+- [[Radical Candor]] — Radical Candor is a feedback culture, particularly associated with Netflix, where colleagues give immediate, direct feedback with the intention of helping each other grow.
+- [[Real-Time Detection]] — Real-Time Detection is the ability to identify violating content in live video streams as they are happening, rather than after the fact.
+- [[Relationship Investment]] — Relationship Investment is the conscious allocation of time and effort to friendships, romantic relationships, and life outside of work.
+- [[Saying No]] — Saying No in the context of engineering career growth is the deliberate practice of declining work that does not contribute to promotion readiness or personal growth, even when that work comes from peers or managers.
+- [[Scope]] — Scope refers to the breadth and depth of impact an engineer has, progressing from a single task at entry level to industry-wide influence at the distinguished level.
+- [[Scope Creation]] — Scope Creation is the process by which senior engineers identify, define, and own large-scale problems that are not yet recognized or prioritized by the organization.
+- [[Scope Ownership]] — Scope Ownership is the state of being recognized as the definitive go-to person for a specific area of a codebase or product.
+- [[Senior Engineer (Terminal Level)]] — Senior Engineer is a terminal level at many tech companies, meaning engineers can remain at this level indefinitely without being expected to advance further.
+- [[Senior to Principal Gap]] — The Senior to Principal Gap at Amazon refers to the difficulty of promoting from SDE3 (Senior) to L7 (Principal Engineer), which Steve Huynh describes as effectively jumping two levels because Amazon skips the staff level that exists at Meta and Google.
+- [[Short-Form Content]] — Short-Form Content is a content strategy focused on creating brief, high-impact videos (3-5 seconds) that require minimal effort but generate high leverage through broad reach.
+- [[Simple Solutions]] — Simple Solutions refers to the principle that the most impactful engineering solutions are often the simplest and most obvious, rather than the most technically sophisticated.
+- [[Social Proof]] — Social Proof is the credibility and validation that comes from prestigious institutions, companies, and accomplishments on your resume.
+- [[Staff Engineer]] — Staff Engineer is a very senior individual contributor (IC) level at large tech companies, typically one level above Senior Engineer.
+- [[Startup vs Big Tech]] — Startup vs Big Tech is a career trade-off between the depth and specialization of large companies and the breadth and generalism of startups.
+- [[Sustainability Of Performance]] — Sustainability Of Performance is the principle that promotions are based not just on delivering impact, but on demonstrating that the impact can be sustained at normal working hours.
+- [[System Design Interview]] — The System Design Interview is the technical portion of big tech interviews where candidates design large-scale distributed systems.
+- [[System Design Interviews]] — System Design Interviews are a type of technical interview that assesses a candidate's ability to design large-scale distributed systems.
+- [[Talent Density]] — Talent Density refers to the concentration of exceptional engineers within a team or company.
+- [[Team Building]] — Team Building is the process of selecting and assembling teammates for collaborative projects.
+- [[Team Match]] — Team Match is the current onboarding process at Meta that replaced Boot Camp.
+- [[Tech Lead]] — Tech Lead is a set of leadership behaviors that can occur across multiple engineering levels, not a distinct level itself.
+- [[Tech Lead Manager]] — A Tech Lead Manager (TLM) is a hybrid role combining technical leadership with people management responsibilities.
+- [[Technical Debt]] — Technical Debt is the implied cost of additional rework caused by choosing an expedient solution now instead of a better approach that would take longer.
+- [[Technical Learning]] — Technical Learning refers to the acquisition of engineering knowledge and skills.
+- [[Technical Unemployment]] — Technical Unemployment is the concern that AI and automation will replace human workers at scale.
+- [[Temporal Modeling]] — Temporal Modeling is a machine learning approach that incorporates time-based patterns and sequences into model predictions.
+- [[Terminal Level]] — Terminal Level is the career level at which a person's growth asmtotically approaches its maximum.
+- [[Up or Out Policy]] — Up or Out is a policy at some tech companies where engineers are expected to reach a certain level (typically senior) within a defined timeframe, or they will be managed out.
+- [[Vertical Impact]] — Vertical Impact is the direct impact on the business through the products and features you build — as opposed to how you build them.
+- [[Win Conditions]] — Win Conditions are predetermined criteria that must be met before making a major career decision, such as dropping out of college to start a company.
+- [[Workflow Optimization]] — Workflow Optimization is the practice of dialing in your development environment, key bindings, tooling, and processes to maximize coding speed and efficiency.
+- [[Working Through Others]] — Working Through Others is the ability to achieve impact by empowering and directing other engineers rather than doing all the work yourself.
+- [[Writing as Leverage]] — Writing as Leverage is the idea that strong writing ability is a superpower for software engineers, providing outsized influence and reach.
 
 ## Syntheses
 
