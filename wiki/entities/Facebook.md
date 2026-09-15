@@ -2,7 +2,7 @@
 title: "Facebook"
 type: entity
 tags: [company, social-media, big-tech, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md"]
 last_updated: 2026-09-14
 ---
 
@@ -27,7 +27,17 @@ Facebook is the social network (now part of Meta) where Jay Jo interned and wher
 - Ryan Olson failed his 2011 Facebook interview from nerves (the question was later banned), but later joined Instagram (a Facebook company) at IC4 and grew to IC8; he used beta blockers to manage interview anxiety
 - Via later antitrust litigation, internal communications revealed tension between Facebook and Instagram leadership — Facebook feared Instagram cannibalizing its users, and Mark Zuckerberg's internal memo surfaced on keeping the Instagram founders
 
+### Adam Ernst's Facebook Chapter
+
+- Joined Facebook in 2012 as an E5, "literally weeks before the IPO," during the cultural shift from the HTML5 "Faceweb" app to native code.
+- All the iOS engineers could meet in one conference room; the native-code rewrite created big opportunities and many scaling problems.
+- His first major project replaced Apple's Core Data, on which the native rewrite had just launched.
+
 ## Related
+- [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — source summary
+- [[Adam Ernst]] — joined weeks before the IPO
+- [[ComponentKit]] — his later iOS framework
+- [[Core Data]] — the framework his early project replaced
 
 - [[Rome]] — joined Facebook ~2009 as a frontline manager
 - [[Fiona Fung]] — joined Facebook in 2015 for Marketplace

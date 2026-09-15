@@ -2,8 +2,8 @@
 title: "Netflix"
 type: entity
 tags: [company, FAANG, streaming, tech]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,7 +21,21 @@ Netflix is a streaming entertainment company and one of the FAANG tech companies
 - Netflix didn't have a formal Staff Engineer title at the time Zach worked there — everyone was just "Senior Engineer" — but the work was at staff level
 - This Netflix project was what Airbnb recognized as staff-level work when they hired Zach as a Staff Engineer
 
+### David Ronca's Netflix
+
+- Joined Netflix in 2007 (starting salary $175k) and later led the encoding technology team from one person to ~55.
+- Early culture: "don't hire brilliant jerks"; value results in an 8-hour day over 24/7; Patty McCord interviewed and blessed every hire; Reed Hastings held a late-1990s vision of streaming ("DVD by mail was a stepping stone").
+- One software-engineering level (only a "senior software engineer," no levels) and "personal top of market" compensation; no individual credit ("Netflix won," not named engineers).
+- Ronca argues the culture memo was "aspirational" and did not scale: without levels and objective recognition, the best people eventually leave.
+- Co-developed content-based encoding there with Ioannis Katsavounidis.
+
 ## Related
+- [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
+- [[David Ronca]] — encoding director
+- [[Reed Hastings]] — co-founder/CEO
+- [[Patty McCord]] — talent leader who shaped him
+- [[Ioannis Katsavounidis]] — encoding collaborator
+- [[Freedom and Responsibility]] — the culture he describes
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary

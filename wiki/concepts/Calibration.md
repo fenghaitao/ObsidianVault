@@ -2,7 +2,7 @@
 title: "Calibration"
 type: concept
 tags: [performance, management, promotion, calibration]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
 last_updated: 2026-09-14
 ---
 
@@ -20,7 +20,18 @@ Calibration is the (often closed-door) meeting where managers compare employees'
 - To dispute a rule: gather evidence and make your case, but first understand the story behind the rule (some are justified, some are stale precedents); have the conversation one-on-one rather than in the room.
 - Intern calibration is "one of the meetings where people cry the most," because every manager is over-attached to their own intern and assumes exceeding expectations/return offer.
 
+### David Ronca on Meta's Calibration (PSC)
+
+- At Meta, PSC/calibration time was "the most dreaded time of the year and my favorite time of the year."
+- Managers write self-reviews into performance packets, gather feedback, align with goals, then argue in large calibrations — convincing with data, not rhetoric — who deserves credit and what level.
+- Credits individual contributions on paper: "when you leave Meta, the one thing you bring with you is every single performance review package."
+- His greatest joy as a leader: handing a direct report a "redefines expectations" rating.
+
 ## Related
+- [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
+- [[David Ronca]] — his PSC perspective
+- [[Meta]] — where calibrations shaped his leadership
+- [[Performance Review]] — the process calibration feeds
 
 - [[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]] — source summary
 - [[Laurent]] — disclosure of calibration rules

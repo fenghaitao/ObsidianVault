@@ -2,7 +2,7 @@
 title: "Interviewing"
 type: concept
 tags: [career, engineering, FAANG, job-search]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
 last_updated: 2026-09-14
 ---
 
@@ -42,7 +42,18 @@ Interviewing is the process of evaluating and being evaluated for a job. Zach Wi
 - Later used prescribed beta blockers to block the physical effects of interview adrenaline (pounding heart, sweaty palms), staying calm enough to get through his full-time loop
 - Felt the process is broken: he showed interviewers his open-source FLEX code and none would look at it; a mixed loop led to an underleveled IC4 hire
 
+### David Ronca on Identifying Strong Engineers
+
+- Ronca trusts foundational engineering ability — understanding complex systems, strong technical intuition, and making decisions without enough data — over LeetCode, which "doesn't tell you much about an engineer."
+- He sees that foundation as innate ("like a musician... you're born with it") and coding as the teachable part: "I can help them with that. I can't teach them how to make good decisions."
+- Hired a wastewater civil engineer who had never really written code after her two-hour whiteboard revealed "a damn good engineer"; she later "killed it."
+- Hired a train-automation systems engineer everyone else was lukewarm about; she "absolutely killed it" on their systems-integration problem.
+- "You interview to the person, not to the process" — a method that works at small companies but doesn't scale to Meta/Google volume.
+
 ## Related
+- [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
+- [[David Ronca]] — his hiring philosophy
+- [[LeetCode]] — the signal he downplays
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
 - [[summary-20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh]] — source summary

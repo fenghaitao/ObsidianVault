@@ -37,6 +37,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni]] — Nimit Sohoni compares quant trading at Citadel Securities with AI research, covering state space models and tech-vs-finance tradeoffs.
 - [[summary-20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality]] — A 25-year engineer's candid account of a Big Tech layoff, the anxiety around it, and his pivot to technical consulting.
 - [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — Ryan Olson on building Instagram Stories with small teams, fast promotion velocity, and infrastructure-vs-product leadership.
+- [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — Adam Ernst on influencing without authority, the GraphQL/React Native journey, and lessons from Meta failures.
+- [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — David Ronca on Netflix's freedom-and-responsibility culture, leetcode regrets, and honest hiring.
+- [[summary-20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport]] — Leslie Lamport on thinking clearly, Paxos vs Raft, and working with Dijkstra.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -305,6 +308,28 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Nathan Sharp]] — Instagram engineer and co-founder of Retro.
 - [[Ian Spalter]] — Instagram's Head of Design.
 - [[Nassim Taleb]] — Author of "Skin in the Game," cited by Ryan Olson.
+- [[Adam Ernst]] — Meta Distinguished Engineer (IC9) and creator of React Native.
+- [[Lee Byron]] — GraphQL co-creator at Facebook.
+- [[GraphQL]] — Facebook's query language for APIs.
+- [[React]] — Facebook's JavaScript UI library that enabled declarative UI.
+- [[React Native]] — Framework Adam Ernst created for writing native mobile apps in React.
+- [[ComponentKit]] — Facebook's declarative iOS UI framework.
+- [[ComponentScript]] — Facebook's experiment in typed declarative UI.
+- [[Core Data]] — Apple's object graph and persistence framework.
+- [[David Ronca]] — Retired Netflix engineering director who later led video encoding at Meta.
+- [[Ioannis Katsavounidis]] — Netflix and Meta video encoding researcher.
+- [[Patty McCord]] — Former Netflix chief talent officer.
+- [[Reed Hastings]] — Netflix co-founder and former CEO.
+- [[Bill Gates]] — Microsoft co-founder cited by David Ronca.
+- [[Leslie Lamport]] — Turing Award-winning computer scientist who created Paxos and LaTeX.
+- [[Edsger Dijkstra]] — Pioneering computer scientist Leslie Lamport worked with.
+- [[Butler Lampson]] — Turing Award-winning computing systems pioneer.
+- [[Whitfield Diffie]] — Public-key cryptography pioneer.
+- [[Xerox PARC]] — Xerox's Palo Alto Research Center.
+- [[DEC Systems Research Center]] — Digital Equipment Corporation's systems research lab.
+- [[SRI International]] — Research institute.
+- [[LaTeX]] — Typesetting system created by Leslie Lamport.
+- [[Turing Award]] — ACM's highest honor in computer science.
 
 ## Concepts
 
@@ -544,6 +569,17 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Digital Transformation]] — Helping traditional companies modernize their technology and processes.
 - [[Small Teams]] — Keeping teams tiny to move fast and give engineers full scope.
 - [[Skin in the Game]] — Taleb's principle that decision makers should bear the downside risk of their choices.
+- [[Declarative UI]] — Describing what the UI should render rather than imperatively mutating views.
+- [[Freedom and Responsibility]] — Netflix's culture principle of running on context, not control.
+- [[Good Failure]] — Failing for the right reasons and learning in proportion to the risk taken.
+- [[Paxos]] — Leslie Lamport's consensus algorithm.
+- [[Raft]] — Consensus algorithm designed to be more understandable than Paxos.
+- [[Bakery Algorithm]] — Lamport's mutual-exclusion algorithm for concurrent processes.
+- [[Byzantine Generals Problem]] — Reaching agreement despite faulty or malicious participants.
+- [[Logical Clocks]] — Lamport's ordering of events across distributed systems.
+- [[State Machine]] — Abstraction modeling computation as states and transitions.
+- [[Distributed Systems]] — Systems whose components coordinate across networked computers.
+- [[Abstraction]] — Hiding complexity behind a simpler interface; central to Lamport's thinking.
 
 ## Syntheses
 

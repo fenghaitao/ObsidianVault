@@ -2,7 +2,7 @@
 title: "Writing as Communication"
 type: concept
 tags: [communication, engineering, documentation, influence]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md"]
 last_updated: 2026-09-14
 ---
 
@@ -34,7 +34,18 @@ Writing as Communication is the principle that writing is a core part of the sof
 - Prefer short documents: when you run out of things to say, either refine your ideas more or you're done — never add fluff
 - Don't use an LLM to produce text under your name; you lose the thinking that happens while writing, which is the growth
 
+### Leslie Lamport on Writing to Think
+
+- "If you think you know something but don't write it down, you only think you know it" — that's where errors come from.
+- Writing is conducive to good thinking because "it's very easy to fool yourself"; explaining something forces you to find what you haven't said.
+- Developed hierarchical proofs (a proof as a sequence of steps, each with its own proof) that worked for correctness proofs and ordinary math; mathematicians reacted with anger and fear at the thought of writing proofs a machine could check.
+- Endorses "write the instruction manual before you write the program" — writing LaTeX's book forced changes to LaTeX itself.
+
 ## Related
+- [[summary-20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport]] — source summary
+- [[Leslie Lamport]] — his "thinking without writing" maxim
+- [[Abstraction]] — the underlying habit
+- [[LaTeX]] — where writing forced design changes
 
 - [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary
 - [[David Singleton]] — condense + get reviews

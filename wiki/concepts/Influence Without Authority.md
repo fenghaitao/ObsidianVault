@@ -2,7 +2,7 @@
 title: "Influence Without Authority"
 type: concept
 tags: [career, leadership, soft-skills, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md"]
 last_updated: 2026-09-14
 ---
 
@@ -27,7 +27,19 @@ Influence Without Authority is the ability to lead and direct others without hav
 - Take the "boring"/shovel work yourself and delegate the hard-but-growth work downward — it builds trust and grows the team
 - "Never go for 100%" — some people will never be convinced, and that's expected
 
+### Adam Ernst on Influencing Without Authority
+
+- Talk in person or via video to convey tone faster than writing.
+- Be sympathetic to the other side: start with "yes, I prefer vanilla Apple frameworks too — here are the specific reasons we can't scale."
+- Do your research and give data (e.g., disassemble Core Data's closed source to explain why initialization was slow).
+- "Do the work for them": show up having already completed the migration so they only have to sign off — much easier than asking them to do the work.
+- Allies help: engineers who carry weight (Lee Byron, Clement Gendmer, Greg Mech) persuade in ways you can't; find compromises to bring people "into the tent" (adopting Panels' data-source tech).
+
 ## Related
+- [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — source summary
+- [[Adam Ernst]] — his adoption playbook
+- [[Lee Byron]] — an ally who carried weight
+- [[Meta]] — the company context
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Tech Lead]] — a role that requires influence without authority

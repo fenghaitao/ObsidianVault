@@ -2,7 +2,7 @@
 title: "Down-Leveling"
 type: concept
 tags: [career, interviewing, FAANG, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
 last_updated: 2026-09-14
 ---
 
@@ -22,7 +22,15 @@ Down-Leveling is the practice of offering a candidate a lower title/level than t
 
 - Boris Cherny came in under-leveled at Meta and called it lucky: lower expectations gave him space to explore and build a strong first impression, and he cautions against pushing for level+1 on job switches ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
 
+### David Ronca on Leveling
+
+- "When in doubt, go low": joining Meta or Google as a 5 and executing as a 6 earns better bonuses, multipliers, and RSU refreshes; an over-leveled hire has no mechanism to fix it except leaving.
+- Netflix's lack of levels made compensation un-rationalizable — a 2x market offer for a great engineer couldn't be justified in context, which is why he argues levels are needed at scale.
+
 ## Related
+- [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
+- [[David Ronca]] — his "when in doubt, go low" advice
+- [[Netflix]] — the no-levels company that illustrated the failure mode
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary

@@ -2,7 +2,7 @@
 title: "Meta"
 type: entity
 tags: [company, FAANG, tech, social-media]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
 last_updated: 2026-09-14
 ---
 
@@ -80,7 +80,24 @@ Meta (formerly Facebook) is a multinational technology conglomerate and one of t
 - Meta had no process for demoting an IC within the same job family, which surfaced when he asked to drop from E7.
 - Described Meta's culture as setting arbitrary, aggressive deadlines with constant leadership status updates that people eventually dismissed.
 
+### Adam Ernst's Meta Chapter ([[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]])
+
+- Adam Ernst is a Distinguished Engineer (IC9) at Meta who built company-wide iOS infrastructure: the Core Data replacement ("mem models"), ComponentKit, and the failed ComponentScript.
+- Joined Facebook in 2012 as an E5, weeks before the IPO, during the native-code rewrite; all iOS engineers then fit in one conference room.
+- Reviewed ~1,600 diffs in six months and treated code review as an organic way to influence engineers.
+
+### David Ronca's Meta Chapter ([[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]])
+
+- Joined Meta in late July 2019 to lead a ~55-person video-processing team after leading Netflix's encoding team.
+- His team kept Facebook/Instagram video running when COVID made "every day New Year's Eve" in traffic.
+- Valued Meta's PSC/calibration process for turning individual credit into documented, argued, on-paper impact (in contrast with Netflix's team-only credit).
+- Recalled Meta's rocking-horse poster: "don't mistake motion for progress."
+
 ## Related
+- [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — source summary (Adam Ernst)
+- [[Adam Ernst]] — IC9 on iOS infrastructure
+- [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary (David Ronca)
+- [[David Ronca]] — video-processing director
 
 - [[Fiona Fung]] — VR/AR leader at Meta, then left for Anthropic
 - [[Facebook Marketplace]] — Meta/Facebook product she helped build

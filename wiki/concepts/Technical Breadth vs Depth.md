@@ -2,7 +2,7 @@
 title: "Technical Breadth vs Depth"
 type: concept
 tags: [engineering, learning, career, startups]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md"]
 last_updated: 2026-09-14
 ---
 
@@ -35,7 +35,17 @@ Technical Breadth vs Depth describes the trade-off between being a generalist wh
 - Holly jumped to whatever felt like the biggest, gnarliest problem (DOM bindings, media, multiprocess, Quantum CSS, WebRender, mobile)
 - That produced prolific, broad codebase knowledge — the traditional Mozilla DE archetype — even though the criteria later shifted toward industry impact
 
+### Adam Ernst's Depth-First Breadth
+
+- Stayed on iOS/mobile his whole career ("that's where things have taken me"), building "deep knowledge expertise about how all different parts of our system work."
+- Built breadth organically: when a problem blocks him he dives "eight levels deep" into that system's guts (GraphQL codegen, Buck) and either fixes it himself or shows up informed — learning new systems only when they come up.
+- Says he'd maybe pick AI over mobile if starting today, but doesn't regret the depth.
+
 ## Related
+- [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — source summary
+- [[Adam Ernst]] — deep breadth by diving into blocking systems
+- [[GraphQL]] — one system he dove into
+- [[Buck]] — another system he knows deeply
 
 - [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
 - [[David Fowler]] — architect-as-breadth

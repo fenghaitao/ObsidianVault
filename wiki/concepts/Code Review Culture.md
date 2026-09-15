@@ -2,7 +2,7 @@
 title: "Code Review Culture"
 type: concept
 tags: [engineering, process, culture, code-quality]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md"]
 last_updated: 2026-09-14
 ---
 
@@ -36,7 +36,16 @@ Code Review Culture refers to the norms and processes around how code changes ar
 - Leaf components are cheap to fix if they fail, so lower quality there is acceptable; bad architecture in the trunk is expensive to fix
 - He invites authors to flag "need real review" so he doesn't under-review something they consider critical
 
+### Adam Ernst's Diff-Review Philosophy
+
+- Reviewed ~1,600 diffs in six months (~14/workday); he still does a lot of code review because it lets you influence engineers "in an organic way."
+- Be flexible: "here's my concern and why," then either let the author decide or redo together — not blanket reject.
+- Comment on why you care, not just what to change: explain the problem with X and suggest Y, rather than dictating "change X to Y."
+- Assume you may be missing context and ask the author to fill it in (and put it in the diff summary) — so if you're wrong, you don't look like "a total idiot."
+
 ## Related
+- [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — source summary
+- [[Adam Ernst]] — his code-review philosophy
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
 - [[Meta]] — the lighter review culture

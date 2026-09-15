@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: entity
 tags: [company, FAANG, tech, Seattle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
 last_updated: 2026-09-14
 ---
 
@@ -37,7 +37,19 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - Fowler credits .NET Core's accumulated (deferred) impact — cited ~7 years later — for his partner promotion
 - Peers at the top include Python creator Guido van Rossum, and fellow-level icons like Andrew Hejlsberg (Turbo Pascal, Delphi, C#, TypeScript) and Dave Cutler (Windows NT)
 
+### David Ronca's Microsoft ("12 Secrets to Microsoft Success")
+
+- Ronca cites "12 Secrets to Microsoft Success" as the book that most shaped his thinking: betting the company, "good failure" ("failure can be success... it's how you fail, what you learned, and what you bring forward"), hiring the top 5%, and dogfooding.
+- Bill Gates forced the whole company onto the then-failing NT Server in ~1995-96, exposing its bugs to everyone so the OS "that couldn't ship started getting fixed."
+- Gates later instituted a company-wide hiring freeze to kill low-value projects and reassign people.
+- Ronca argues Microsoft introduced engineering-leadership concepts that didn't exist before, later inherited by Amazon, Google, Netflix, and Meta.
+
 ## Related
+- [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
+- [[Bill Gates]] — the NT Server and hiring-freeze stories
+- [[David Ronca]] — the retrospective
+- [[Dogfooding]] — the NT Server example
+- [[Good Failure]] — "failure can be success"
 
 - [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
 - [[David Fowler]] — 11-time-promoted Distinguished Engineer

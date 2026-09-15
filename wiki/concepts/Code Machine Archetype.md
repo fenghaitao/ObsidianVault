@@ -2,7 +2,7 @@
 title: "Code Machine Archetype"
 type: concept
 tags: [career, engineering, staff-level, archetypes]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md"]
 last_updated: 2026-09-14
 ---
 
@@ -31,7 +31,15 @@ The Code Machine Archetype is one of several staff engineering archetypes. It de
 - Marius is a coding machine at IC7: ~2,000 diffs in the year Threads launched (~10/day by his own math)
 - His caveat: not every diff is level-appropriate — sometimes the goal is just to unblock the next workstream quickly, leaning into your strengths to land real impact rather than waiting for "Shakespeare" diffs ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]])
 
+### Adam Ernst's Coding Machine
+
+- Adam Ernst self-identifies with the coding-machine style: "I write a lot of code. I like to write code."
+- During ComponentScript's decline his instinct was "I just need to write more code" — which he now sees as the wrong reaction when a project is failing.
+
 ## Related
+- [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — source summary
+- [[Adam Ernst]] — a self-described coding machine
+- [[ComponentScript]] — where writing more code wasn't the answer
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
 - [[Staff Engineer]] — the level this archetype represents

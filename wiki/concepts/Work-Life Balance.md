@@ -2,7 +2,7 @@
 title: "Work-Life Balance"
 type: concept
 tags: [career, well-being, engineering, lifestyle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
 last_updated: 2026-09-14
 ---
 
@@ -44,7 +44,17 @@ Work-Life Balance is the equilibrium between professional demands and personal w
 
 - Asian Dad Energy: after an involuntary semi-retirement, his physical health and mood trended upward month over month; he also described the mid-career learning slowdown — after 40 it took noticeably longer to learn new frameworks ("like an Olympic gymnast past 30")
 
+### David Ronca's Work-Life Balance
+
+- At a 24/7 startup he worked 10 a.m. to 10 p.m. (sometimes 2-3 a.m.), seven days a week, driving toward the IPO and revenue wins.
+- In 2004 he was diagnosed with stage-3 colon cancer (~25% five-year survival); his youngest child "didn't even know who I was," and he realized "there's no job worth that."
+- After recovering he told his boss he could no longer work those hours and did "some of my best engineering" with balance thrust upon him.
+- Advice: don't wait for cancer or a heart attack — bake balance in early, take vacations, and force the org to survive without you.
+- Meta's rocking-horse poster — "don't mistake motion for progress" — and his corollary: clarify with your boss the few things that matter and say no to the rest.
+
 ## Related
+- [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
+- [[David Ronca]] — his cancer story and re-set on balance
 
 - [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (compilation re-quotes this theme)
 - [[summary-20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story)]] — source summary
