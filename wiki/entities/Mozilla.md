@@ -2,7 +2,7 @@
 title: "Mozilla"
 type: entity
 tags: [company, open-source, Firefox, foundation, web]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
 last_updated: 2026-09-14
 ---
 
@@ -18,8 +18,15 @@ Mozilla is the organization (nonprofit foundation plus corporation) that steward
 - Created the Rust programming language and the Servo research engine, and produced world-changing standards work (WebAssembly, HTTP/2, QUIC, WebRTC, Opus, AV1) through its distinguished engineers
 - Firefox is the last independent browser engine, which gives Mozilla a seat at the web-standards table
 
+### Netscape's Open-Source Origin
+- James Everingham confirms Mozilla was created when Netscape open-sourced its browser to "invite the world to help" against Microsoft's thousands of engineers.
+- The move (suggested by Jamie Zawinski) required stripping SSL (then classified as a munition) and censoring swear words and inappropriate variable names from the source.
+
 ## Related
 
+- [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
+- [[Netscape]] — where the open-source move began
+- [[Jamie Zawinski]] — suggested the giveaway
 - [[Firefox]] — its flagship browser
 - [[Bobby Holly]] — its CTO
 - [[Rust]] — language it created

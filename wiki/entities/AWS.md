@@ -2,7 +2,7 @@
 title: "AWS"
 type: entity
 tags: [company, cloud, Amazon, infrastructure]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
 last_updated: 2026-09-14
 ---
 
@@ -17,8 +17,16 @@ AWS (Amazon Web Services) is Amazon's cloud computing division, whose early EC2/
 - Amazon did not break out AWS revenue, and analysts asking were told "we're not talking about that" — obscuring how profitable the business actually was.
 - Cantrill, who competed with Amazon, says "the margins on this thing are great," and that AWS-era re:Invent no longer offers the same "can't live without" new services and price cuts.
 
+### In the Kubernetes Origin Story
+- At the time Kubernetes started, "AWS was dominant. They were there first and doing very well," while GCP was an up-and-coming third.
+- Burns argued GCP should stop "tail light chasing" VMs and instead create a new playing field; he notes partners like Red Hat, Azure, and AWS could later "take a bet on Kubernetes" because of its independent governance.
+
 ## Related
 
+- [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
+- [[Kubernetes]] — the project positioned against AWS's dominance
+- [[Google]] — the challenger (GCP)
+- [[Thought Leadership]] — the strategy to compete
 - [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary
 - [[Amazon]] — the parent company
 - [[Jeff Bezos]] — the executive behind the strategy

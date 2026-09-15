@@ -2,7 +2,7 @@
 title: "Dev Agents"
 type: entity
 tags: [company, startup, AI, agents, San Francisco]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
 last_updated: 2026-09-14
 ---
 
@@ -19,8 +19,16 @@ Dev Agents is the AI startup David Singleton co-founded after leaving Stripe. It
 - Singleton ran weekly user-facing friction logs at Dev Agents as part of product development
 - Early-access signup for creators/developers: sdsa.ai/build
 
+### Meta's Dev Mate and Guild
+- James Everingham built Dev Mate at Meta: an agentic platform where engineers scaled agents that "were working on tooling, not just coding"; it went viral internally across 40,000+ engineers.
+- Guild (James's company) extends the idea into an enterprise control plane: identity, access, observability, circuit breakers, and policy — a deterministic layer on top of non-deterministic AI.
+
 ## Related
 
+- [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
+- [[James Everingham]] — built Dev Mate, founded Guild
+- [[Guild]] — the control-plane company
+- [[Meta]] — origin of Dev Mate
 - [[David Singleton]] — co-founder
 - [[AI and Software Engineering]] — the broader technology shift it sits inside
 - [[Friction Logging]] — the practice used to drive product priorities

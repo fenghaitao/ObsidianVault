@@ -143,3 +143,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-14] ingest | Ingested Austin McDonald (Meta hiring lead) episode
 - **Changes**: created [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]], created [[Austin McDonald]], created [[Hiring Committee]], created [[Leveling Rubric]], updated [[Meta]], updated [[Anthropic]], updated [[OpenAI]], updated [[Hello Interview]], updated [[Behavioral Interviewing]], updated [[Down-Leveling]], updated [[Interviewing]], updated [[Work-Life Balance]], updated [[Career Growth]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Brendan Burns (Kubernetes co-creator) episode
+- **Changes**: created [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]], created [[Brendan Burns]], created [[Joe Beda]], created [[Craig McLuckie]], created [[Sarah Novotny]], created [[Red Hat]], created [[Linux Foundation]], created [[Cloud Native Computing Foundation]], created [[Borg]], created [[MapReduce]], created [[Hadoop]], created [[etcd]], created [[Thought Leadership]], created [[Declarative Configuration]], updated [[Kubernetes]], updated [[Google]], updated [[Microsoft]], updated [[AWS]], updated [[Facebook]], updated [[Twitter]], updated [[Netflix]], updated [[Docker]], updated [[Side Projects]], updated [[Open Source]], updated [[Distributed Systems]], updated [[State Machine]], updated [[Career Growth]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Ethan Evans (Retired Amazon VP) episode
+- **Changes**: created [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]], created [[Corporate Politics]], created [[Empire Building]], created [[Reorganization]], created [[Polite Fiction]], created [[Backchanneling]], updated [[Ethan Evans]], updated [[Amazon]], updated [[Jeff Bezos]], updated [[Andy Jassy]], updated [[Leverage]], updated [[Influence Without Authority]], updated [[Managing Up]], updated [[Span of Control]], updated [[Promotion Process]], updated [[Manager Trust]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested James Everingham (ex-Instagram Head of Eng) episode
+- **Changes**: created [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]], created [[James Everingham]], created [[Netscape]], created [[Borland]], created [[Yahoo]], created [[Guild]], created [[Lightspark]], created [[David Marcus]], created [[Kevin Weil]], created [[Jamie Zawinski]], created [[Hadi Partovi]], created [[Novi]], created [[Distribution Advantage]], created [[CTO vs VP of Engineering]], updated [[Instagram]], updated [[Meta]], updated [[Microsoft]], updated [[Mozilla]], updated [[Mike Krieger]], updated [[Dev Agents]], updated [[Small Teams]], updated [[Networking]], updated [[Simple Solutions]], updated [[Career Growth]], updated [[Leadership]], updated [[index.md]]
+- **Conflicts**: none

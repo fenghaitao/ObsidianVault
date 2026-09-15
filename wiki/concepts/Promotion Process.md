@@ -2,7 +2,7 @@
 title: "Promotion Process"
 type: concept
 tags: [career, google, performance, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
 last_updated: 2026-09-14
 ---
 
@@ -55,8 +55,20 @@ The Promotion Process at Google is the formal system for advancing engineers thr
 - He asked his director to promote him straight from IC4 to IC6; HR said the company had done that only twice before, and both times "it worked out terribly"
 - He notes promotions are an incentive system where high performers may be deliberately deferred to "dangle the carrot" and avoid successive quick promotions
 
+### The Queue, Quotas, and Champions
+- There's a "forward-looking slate" — a queue/line of who is up next, tracked in halves (6, 12, 18, maybe 24 months) alongside the sense of "whose turn is it?"
+- At rare, expensive levels there are quotas (e.g., Google L8-to-L9 limited to a couple per half per org); earlier levels usually have no quota.
+- Getting stuck comes from "not learning the new skill of the next level, but doing the current skill harder and harder"; get advice from people two levels up about what to let go and what to learn.
+- Trust is earned in bad times; likeability tips ties, and "do people want you in the room?" is a simple rubric.
+- Draft champions/allies early: your boss can put a peer/skip "on notice" that feedback will be requested in six months; oversubscribe (ask seven for four spots).
+- "You have to have your manager's support" — nobody gets promoted over a manager's objection.
+
 ## Related
 
+- [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
+- [[Ethan Evans]] — the VP's promotion mechanics
+- [[Corporate Politics]] — the domain
+- [[Manager Trust]] — the tiebreaker and champion fuel
 - [[summary-20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions]] — source summary
 - [[summary-20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh]] — source summary
 - [[Google]] — company whose promotion process is described

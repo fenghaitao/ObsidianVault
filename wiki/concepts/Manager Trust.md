@@ -2,7 +2,7 @@
 title: "Manager Trust"
 type: concept
 tags: [career, management, engineering, relationships]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
 last_updated: 2026-09-14
 ---
 
@@ -38,8 +38,17 @@ Manager Trust is the relationship dynamic between an engineer and their manager 
 - As a manager of managers, build a "trust but verify" muscle: delegate to scale, but verify enough that you don't lose touch with a project
 - Ask the managers you support for fast feedback and full transparency about what's going well and what isn't, so problems surface instead of being hidden behind "this is fine"
 
+### Trust in Bad Times (Ethan Evans)
+- Trust is earned more in bad times than good: "if you came through when the bullets were flying, I know you'll come through the rest of the time" — crises, outages, and lost accounts are where trust is built.
+- Backchanneling builds trust by making people feel consulted and heard, which can outweigh a slightly better competing proposal.
+- In reorgs, leaders funnel the "juicier" roles to people they need to keep — relationships and trust, not just performance, drive who gets what.
+
 ## Related
 
+- [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
+- [[Ethan Evans]] — trust through crises
+- [[Backchanneling]] — the trust-building method
+- [[Promotion Process]] — where trust tips the scale
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
 - [[Zach Wilson]] — personal experience with Jender
 - [[Jender]] — the manager who trusted Zach across two companies

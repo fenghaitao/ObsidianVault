@@ -2,7 +2,7 @@
 title: "Instagram"
 type: entity
 tags: [product, social-media, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
 last_updated: 2026-09-14
 ---
 
@@ -34,8 +34,19 @@ Instagram is a photo and video sharing social media platform owned by Meta. Ryan
 
 - Ryan Olson (iOS, IC8) lived several of Instagram's landmark projects — the White Out redesign, Instagram Stories, IGTV, and IG Labs — when the iOS team (~10 engineers) was rebuilding after an internal faction war over AsyncDisplayKit vs vanilla iOS left it depleted
 
+### James Everingham's Tenure (Head of Engineering)
+- James became head of engineering when Instagram's engineering was ~100 people ("a common place where teams start to break"); he partnered with CTO Mike Krieger, who wanted to focus on technology and stepped back from people management.
+- Instagram Stories shipped in ~3 months with a deliberately small, founder-led team (Kevin and Mikey involved) that had clear ownership and no cross-org dependencies.
+- "The best software is built by people who use it" — everyone at Instagram was a power user; Boomerang was built by an intern at a hackathon in ~3 days.
+- The team was so talented it "IQ'd past" the normal ~100-person communication break point until ~150–200 engineers.
+
 ## Related
 
+- [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
+- [[James Everingham]] — head of engineering
+- [[Mike Krieger]] — CTO he partnered with
+- [[CTO vs VP of Engineering]] — the role split
+- [[Small Teams]] — the Stories build approach
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
 - [[summary-20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen]] — source summary
 - [[Ryan L. Peterman]] — Staff Engineer who worked on Instagram

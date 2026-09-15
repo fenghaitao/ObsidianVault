@@ -2,7 +2,7 @@
 title: "Side Projects"
 type: concept
 tags: [engineering, career, learning, portfolio]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
 last_updated: 2026-09-14
 ---
 
@@ -33,8 +33,16 @@ Side Projects are software projects built outside of work or formal education. T
 - Boris calls them "side quests" and looks for them when hiring — he wants generally curious people with interests outside their main work
 - His Undux framework and TypeScript book/meetup fed his Meta career growth and network ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
 
+### Brendan Burns's "Hide 10%" Advice
+- Burns advises always keeping "a side project that you think is relevant… nobody told you to do": hide ~10% of your effort from management, and don't ask permission until it's real enough to show.
+- He frames the downside explicitly: you'll waste time on some bets, and you must be comfortable with that — the payout of one hit is far bigger than grinding for an "exceeds" every cycle.
+- It's "not unlike doing a startup": go in with "I think this is good, I'm going to try, but I'm okay if I fail."
+
 ## Related
 
+- [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
+- [[Brendan Burns]] — Kubernetes as the canonical side project
+- [[Kubernetes]] — built as a hidden side project
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Evan King]] — built side projects through the hacking club
 - [[Ryan L. Peterman]] — built the occupancy sensor side project

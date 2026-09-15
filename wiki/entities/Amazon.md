@@ -2,7 +2,7 @@
 title: "Amazon"
 type: entity
 tags: [company, FAANG, tech, e-commerce, cloud]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
 last_updated: 2026-09-14
 ---
 
@@ -44,8 +44,18 @@ Amazon is a multinational technology company focused on e-commerce, cloud comput
 - Amazon did not break out AWS revenue — "we're not talking about that" — obscuring how good the margins actually were; having competed with it at Joyent, Cantrill says "the margins on this thing are great."
 - Cantrill calls Jeff Bezos "an apex predator in capitalism" for pressing Amazon's advantage rather than milking it: "I'm going to make it so no one can compete with me... I'm going to do it by giving a great product at a reasonable price." He notes re:Invent no longer offers the same "can't live without" new services and price cuts ([[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]]).
 
+### Ethan Evans on Amazon Politics
+- Post-era Amazon reportedly wrote down a director threshold of ~90 people in some orgs, despite the leadership principle "there's no bonus for additional head count."
+- Amazon grew from ~14,000 people when Ethan joined to 1.4 million when he left (a hundredfold), which opened doors that a 5–10%-a-year company never would.
+- Andy Jassy, running AWS then the company, would "absolve" a few principal engineers of mentoring/architecture duties so they could solve the hardest problems — leverage over politics.
+- Amazon Cloud Drive began as an idea from an entry-level new-grad engineer who pitched it to Jeff Bezos at a poster session; Amazon Fire TV similarly came from a not-super-senior person's legwork.
+
 ## Related
 
+- [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
+- [[Ethan Evans]] — the VP describing these mechanics
+- [[Corporate Politics]] — the theme
+- [[Empire Building]] — the headcount threshold
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
 - [[Steve Huynh]] — Principal Engineer who spent 18 years at Amazon

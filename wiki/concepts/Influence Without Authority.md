@@ -2,7 +2,7 @@
 title: "Influence Without Authority"
 type: concept
 tags: [career, leadership, soft-skills, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
 last_updated: 2026-09-14
 ---
 
@@ -40,7 +40,17 @@ Influence Without Authority is the ability to lead and direct others without hav
 - When Microsoft acquired GitHub, he grew anxious (correctly, as it turned out, that VS Code would kill Atom) and pushed people despite them not wanting "their cheese moved"; the result was a delayed promotion and "a little bit of a talking-to."
 - A later coaching process helped him recognize his triggers and choose the venue: if he can't have the conversation from a good place, he goes to the person's manager rather than going "like a bull in a china shop" to the engineer ([[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]]).
 
+### Ethan Evans on Influence vs Politics
+- "The skill sets are the same, they're around motive" — influence becomes politics/manipulation depending on why it is used.
+- Executive presence is amoral: "Darth Vader had it in spades," and so did Palpatine.
+- Assess a skilled operator as if they were special forces: are they working for the org, purely for themselves, or in a middle ground you can negotiate with?
+- Backchanneling builds influence by making people feel consulted and heard, not just through information exchange.
+
 ## Related
+- [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
+- [[Corporate Politics]] — the motive-distinguished sibling
+- [[Backchanneling]] — his one-on-one method
+- [[Polite Fiction]] — his wording technique
 - [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — source summary
 - [[Adam Ernst]] — his adoption playbook
 - [[Lee Byron]] — an ally who carried weight

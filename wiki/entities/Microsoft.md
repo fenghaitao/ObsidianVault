@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: entity
 tags: [company, FAANG, tech, Seattle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
 last_updated: 2026-09-14
 ---
 
@@ -49,7 +49,22 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - He characterizes 1990s Microsoft as "a compiler company, not an operating systems company" — dominant in operating systems but with compilers in its DNA.
 - He credits Microsoft with perfecting "vaporware" (announcing a forthcoming OS feature that never ships) and cites the Netscape case findings of fact as judicial confirmation of anticompetitive behavior ([[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]]).
 
+### Brendan Burns (Microsoft/Azure)
+- Burns, co-creator of Kubernetes, now works at Microsoft and says "we make a commitment to contributing to open source" at a leadership level, with teams who specialize in upstream open-source projects.
+- On Azure (AKS), spinning up a cluster became trivially easy ("you press a button, pops up in 2 minutes"), shifting the scale problem from one big data center to many smaller clusters.
+
+### James Everingham's Browser Wars
+- James frames Microsoft's browser victory as a distribution war: Microsoft bundled IE into Windows and gave it away free, "instantly" killing Netscape's ~$35-per-copy browser revenue.
+- "When you have two products where the quality is pretty equal, people are going to just use the one that's the default."
+- The IE team placed a giant "E" logo on Netscape's San Francisco lawn — attributed to Hadi Partovi, who ran IE while James ran the Netscape browser.
+
 ## Related
+- [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
+- [[Netscape]] — the browser-war rival
+- [[Distribution Advantage]] — the lesson
+- [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
+- [[Brendan Burns]] — Kubernetes co-creator at Microsoft
+- [[Kubernetes]] — the project he works on (AKS)
 - [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
 - [[Bill Gates]] — the NT Server and hiring-freeze stories
 - [[David Ronca]] — the retrospective

@@ -2,7 +2,7 @@
 title: "Netflix"
 type: entity
 tags: [company, FAANG, streaming, tech]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
 last_updated: 2026-09-14
 ---
 
@@ -29,7 +29,12 @@ Netflix is a streaming entertainment company and one of the FAANG tech companies
 - Ronca argues the culture memo was "aspirational" and did not scale: without levels and objective recognition, the best people eventually leave.
 - Co-developed content-based encoding there with Ioannis Katsavounidis.
 
+### In the Kubernetes Origin Story
+- Brendan Burns cites Netflix as one of the companies "talking about immutable infrastructure" and advancing similar concepts at the time Kubernetes was conceived — "a broader movement happening that we were taking part in."
+
 ## Related
+- [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
+- [[Kubernetes]] — the project that coalesced the movement
 - [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
 - [[David Ronca]] — encoding director
 - [[Reed Hastings]] — co-founder/CEO

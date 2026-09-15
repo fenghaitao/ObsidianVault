@@ -2,7 +2,7 @@
 title: "Leverage"
 type: concept
 tags: [career, engineering, impact, strategy]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
 last_updated: 2026-09-14
 ---
 
@@ -28,8 +28,17 @@ Leverage is the principle of achieving outsized impact by building tools, platfo
 - Marius Schultz's leverage: hardened Instagram web with React error boundaries, then wrote a company-wide note and lint rules so tooling does recurring work on his behalf ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]])
 - Boris Cherny's leverage: automate your own toil — he tallied repeated code-review comments and turned them into lint rules until most of his code reviews were automated ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
 
+### Ethan Evans on Leverage as Power
+- Leverage is why influence can be delivered softly: "if your lever is long enough, it doesn't take very much force," which is why he can be polite about his asks.
+- When being fired, you still hold leverage: you can save the manager time, control the story you tell the team, and let them feel good about themselves — but "if you don't ask, you certainly won't."
+- An essential skill no one else has buys you exceptions: Jassy tolerated a "not working that hard" employee because "he's in a role where we need him."
+- "Don't be a victim. You have agency." Create leverage and you're "always in the winning situation."
+
 ## Related
 
+- [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
+- [[Corporate Politics]] — the domain of leverage
+- [[Polite Fiction]] — soft delivery made possible by a long lever
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
 - [[Multiplicative Impact]] — the outcome of effective leverage
 - [[Horizontal Impact]] — one dimension of leverage

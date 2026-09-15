@@ -2,7 +2,7 @@
 title: "Ethan Evans"
 type: entity
 tags: [person, manager, Amazon, leadership]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
 last_updated: 2026-09-14
 ---
 
@@ -19,8 +19,19 @@ Ethan Evans is a former Amazon VP (a team of 800+ engineers) who was fired twice
 - Led the Twitch integration as an advisor with no authority, after giving up an 800-person team to practice influence
 - Now writes and coaches on promotion strategy as "Ethan Evans VP"
 
+### Second Appearance: Corporate Politics
+- Returns for a second episode to go "deep on transparency" about reorgs, empire building, promotion mechanics, and being fired — "I'm retired, so I'm immune."
+- Ran Prime Video, Prime Music, Kindle, reverse logistics, and Amazon's Appstore at various points; grew from a team of 6 to 800 across his Amazon tenure.
+- Was fired twice early in his career for being "volatile and critical," then "put the temper away" — the foundation of his later influence.
+- Built trust with a VP by "saying yes to everything," accumulating ~200 people across a grab-bag of functions; later made deals to promote others (e.g., the India dev-center director).
+
 ## Related
 
+- [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
+- [[Corporate Politics]] — the theme
+- [[Empire Building]] — a dynamic he dissects
+- [[Polite Fiction]] — his wording technique
+- [[Backchanneling]] — his one-on-one influence method
 - [[summary-20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans]] — source summary
 - [[Amazon]] — where he became a VP
 - [[Jeff Bezos]] — founder he worked with

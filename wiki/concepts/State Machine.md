@@ -2,7 +2,7 @@
 title: "State Machine"
 type: concept
 tags: [distributed-systems, concurrency, abstraction, formalism]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
 last_updated: 2026-09-14
 ---
 
@@ -19,8 +19,15 @@ A state machine is an abstract model — something with a state, and commands (o
 - He rejects language-centered formalisms (e.g., Petri nets): "programmers are hung up on languages"; the semantics of any language would itself be given in terms of a state machine.
 - For understanding a program, the key tool is the invariant — a Boolean-valued function of the state that guarantees correctness — and invariance proofs scale better (quadratic in process count) than reasoning over exponentially many execution sequences.
 
+### Kubernetes's Contrast
+- Brendan Burns contrasts Kubernetes' control loops (driving current state toward a declared desired state) with state machines: a state machine is "easy to debug, hard to make stable," while the control-loop design is stable but hard to debug.
+- A state machine must get the world exactly right; a control loop "no matter where you woke up and found yourself, you kind of knew where you were supposed to drive to."
+
 ## Related
 
+- [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
+- [[Kubernetes]] — the control-loop alternative
+- [[Declarative Configuration]] — declares the desired state
 - [[summary-20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport]] — source summary
 - [[Leslie Lamport]] — the champion of this abstraction
 - [[Paxos]] — implements a state machine

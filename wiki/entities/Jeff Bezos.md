@@ -2,7 +2,7 @@
 title: "Jeff Bezos"
 type: entity
 tags: [entity, person]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
 last_updated: 2026-09-14
 ---
 
@@ -25,8 +25,14 @@ Founder and former CEO of Amazon. Known for instilling Amazon's Leadership Princ
 - Cantrill, who competed against Amazon at Joyent, says "it was very, very hard to compete with Amazon"; you had to find a lane because "their execution was extraordinary."
 - Amazon's refusal to break out AWS revenue on earnings calls was part of the disguise — "we're not talking about that" ([[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]]).
 
+### From the Corporate Politics Episode
+- Ethan quotes a Bezos-attributed question that rates leaders: "when you come into the room, do you suck all the oxygen out of it?" — if people don't want you in the room, you won't go far.
+- Bezos personally reviewed an idea poster session; a new-grad engineer emailed him asking him to stop by, got an audience, and Bezos said "look into it" — outsized influence can come from anywhere with a good story.
+
 ## Related
 
+- [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
+- [[Corporate Politics]] — the context of the quotes
 - [[Amazon]] — company he founded
 - [[Amazon Leadership Principles]] — cultural framework he established
 - [[Amazon Writing Culture]] — reading and writing culture he championed

@@ -43,6 +43,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — Bryan Cantrill on a 30-year career from Sun to Oxide, why stack ranking is "organizational cancer," and competing with Bezos.
 - [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]] — Michael Bolin from Buck and Nuclide to OpenAI Codex, on building tools he loves and the rise of AI coding agents.
 - [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]] — Austin McDonald on hiring and leveling committees, avoiding downleveling, and passing OpenAI and Anthropic interviews.
+- [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — Brendan Burns on co-creating Kubernetes, engineering-led direction, and convincing management.
+- [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — Ethan Evans on how corporate politics actually work and how to win at them.
+- [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — James Everingham on his career regrets and the engineering lessons from Instagram and beyond.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -364,6 +367,28 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Wes Furlong]] — Meta engineer on the Eden virtual file system.
 - [[Xcode]] — Apple IDE that Nuclide aimed to replace.
 - [[Austin McDonald]] — Former Meta hiring committee member; the episode's guest.
+- [[Brendan Burns]] — Kubernetes co-creator; the episode's guest.
+- [[Joe Beda]] — Kubernetes co-creator (transcript refers to him as "Joe").
+- [[Craig McLuckie]] — Kubernetes co-creator (transcript refers to him as "Craig").
+- [[Sarah Novotny]] — Kubernetes' early community leader.
+- [[Red Hat]] — Open-source company whose OpenShift bet on Kubernetes.
+- [[Linux Foundation]] — Host of the Kubernetes community.
+- [[Cloud Native Computing Foundation]] — The CNCF foundation Kubernetes was donated to.
+- [[Borg]] — Google's internal cluster manager that inspired Kubernetes.
+- [[MapReduce]] — Google paradigm cited in the episode.
+- [[Hadoop]] — Open-source MapReduce implementation referenced.
+- [[etcd]] — Distributed key-value store built for Kubernetes.
+- [[James Everingham]] — Ex-Instagram Head of Engineering; the episode's guest.
+- [[Netscape]] — Browser company where Everingham worked early in his career.
+- [[Borland]] — Software company Everingham worked for.
+- [[Yahoo]] — Company referenced in Everingham's career.
+- [[Guild]] — Startup Everingham joined.
+- [[Lightspark]] — Startup Everingham was involved with.
+- [[David Marcus]] — Meta executive who led the Novi wallet effort.
+- [[Kevin Weil]] — Product executive referenced in the episode.
+- [[Jamie Zawinski]] — Netscape and Mozilla engineer (transcript "JWZ").
+- [[Hadi Partovi]] — Tech founder and Code.org figure referenced (transcript "Hody Partovi").
+- [[Novi]] — Meta's wallet project referenced in Everingham's episode.
 
 ## Concepts
 
@@ -620,6 +645,15 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Leveling Rubric]] — The structured criteria committees use to assign seniority.
 - [[Monorepo]] — A single shared code repository for an entire company.
 - [[Open Source]] — Releasing tools openly; Bolin's rationale for sharing engineering work.
+- [[Thought Leadership]] — Using public writing and talks to gain credibility and influence.
+- [[Declarative Configuration]] — Describing a system's desired state rather than the steps to reach it.
+- [[Corporate Politics]] — How power and decisions actually work in large companies.
+- [[Empire Building]] — Growing headcount and scope to gain status.
+- [[Reorganization]] — Restructuring teams and orgs, often as a political tool.
+- [[Polite Fiction]] — The unstated stories an organization maintains.
+- [[Backchanneling]] — Gathering private support before a decision.
+- [[Distribution Advantage]] — A product's path to reach users as a competitive moat.
+- [[CTO vs VP of Engineering]] — The distinction between technical vision and operational delivery.
 
 ## Syntheses
 

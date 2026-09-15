@@ -2,7 +2,7 @@
 title: "Networking"
 type: concept
 tags: [career, relationships, communication, opportunity]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
 last_updated: 2026-09-14
 ---
 
@@ -43,8 +43,18 @@ Networking is the practice of building professional relationships. Rahul Pandey 
 ### Build a Reputation So Jobs Come to You (2025 compilation)
 - "Jobs are still with other humans": build relationships and a reputation online (e.g., via LinkedIn, from your keyboard) so opportunities come to you — Amazon called one guest, not the other way around
 
+### James Everingham's Career-Long View
+- "You end up building great relationships with people and companies. And that opens up doors and creates opportunity for you later in your career" — Borland colleagues took him to Netscape, and three Guild colleagues have been with him since Netscape across five or six companies.
+- To find a mentor, don't ask "will you be my mentor?" — go offer help ("How can I help you?"), be curious about others' work, and don't be afraid to speak up.
+- "Friends come and go, but enemies collect" (attributed to Bill Gates, possibly re-quoting) — build relationships and don't burn bridges.
+- "The people that you're sitting next to are going to look a lot different in 20 years" (e.g., Netscape seatmate John Giannandrea now runs AI at Apple).
+
 ## Related
 
+- [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
+- [[James Everingham]] — the practitioner
+- [[Mentorship]] — offer help rather than ask
+- [[Relationship Building]] — the broader concept
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
 - [[Rahul]] — practices this approach to networking
 - [[Luck Surface Area]] — networking as a way to manufacture luck

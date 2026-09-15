@@ -2,8 +2,8 @@
 title: "Leadership"
 type: concept
 tags: [career, soft-skills, management, engineering]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -22,8 +22,18 @@ Leadership in the engineering context refers to the ability to guide teams, set 
 
 - Mike Krieger modeled "lead from the front": never putting himself above the team, jumping into any effort needing help (finishing the Stories neon brush, reviewing diffs at 2 a.m., working the same insane hours) — which shaped how Ryan Olson thinks about leading teams
 
+### James Everingham's Leadership Philosophy
+- He is the "bottom of the org chart" servant-leader type: act as a tool to help the team achieve their vision, rather than a top-down leader hiring a workforce to achieve his.
+- Micromanagement is a temporary tool to fix a broken team, then step back — "if you start micromanaging really smart people, you're going to lose them."
+- Technology work is creative: "you don't know what it looks like often… you have to free people," focus them on outcomes, and clear blockers.
+- Different tools for different jobs: Elon-style get-into-the-details management may fit a different environment, but sustaining it as your only mode isn't.
+
 ## Related
 
+- [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
+- [[James Everingham]] — the practitioner
+- [[CTO vs VP of Engineering]] — the role split with Mike Krieger
+- [[Small Teams]] — the org design he favors
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Tech Lead]] — a leadership role for ICs
 - [[Influence Without Authority]] — key leadership skill
