@@ -2,7 +2,7 @@
 title: "Amazon"
 type: entity
 tags: [company, FAANG, tech, e-commerce, cloud]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
 last_updated: 2026-09-14
 ---
 
@@ -50,6 +50,10 @@ Amazon is a multinational technology company focused on e-commerce, cloud comput
 - Andy Jassy, running AWS then the company, would "absolve" a few principal engineers of mentoring/architecture duties so they could solve the hardest problems — leverage over politics.
 - Amazon Cloud Drive began as an idea from an entry-level new-grad engineer who pitched it to Jeff Bezos at a poster session; Amazon Fire TV similarly came from a not-super-senior person's legwork.
 
+### Marc Brooker and Mike Stonebraker on Amazon
+- Marc Brooker notes that "writing forces a level of mental clarity that speaking, making slide decks, etc. doesn't" is a core belief held culturally at Amazon; Al Vermeulen (an early AWS engineer) was CTO of Amazon for a period.
+- Mike Stonebraker gave a talk at Amazon (~3 years prior) telling them they support ~15 database systems — about 12 too many; he argues most are outperformed by another of their own systems, and any database that isn't performant in a big-enough market should be retired.
+
 ## Related
 
 - [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
@@ -81,3 +85,8 @@ Amazon is a multinational technology company focused on e-commerce, cloud comput
 - [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (high-growth escalator)
 - [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary (AWS economics)
 - [[Bryan Cantrill]] — the apex-predator framing
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
+- [[Marc Brooker]] — on writing culture and Al Vermeulen
+- [[summary-20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker]] — source summary
+- [[Michael Stonebraker]] — on Amazon's 15 database systems
+- [[Al Vermeulen]] — former CTO of Amazon

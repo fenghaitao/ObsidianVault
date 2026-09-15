@@ -2,8 +2,8 @@
 title: "Luck And Agency"
 type: concept
 tags: [career, opportunity, soft-skills, growth]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -21,6 +21,8 @@ Luck And Agency is the interplay between chance opportunities and the proactive 
 - Both Evan and Ryan described themselves as "very lucky" while also emphasizing the importance of agency
 - At the UCLA talk, Ricky framed luck as two parts: "one is the opportunity coming and the other part is you being prepared for that opportunity when it comes." Getting an interview is luck; being prepared for it is agency. Ryan gave the example of leaving Amazon — he got lucky getting interviews, but he "grinded to apply to all the places, grinded LeetCode" to increase his luck. "A good part of it's luck, no doubt, but also you have a lot of agency."
 
+- Barbara Liskov attributes her career to luck, hard work, and not letting negatives stop her: without good faculty offers she "kept on marching" back to Mitre, and "doors opened, and then you have to decide, am I going to step through?"
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
@@ -28,3 +30,5 @@ Luck And Agency is the interplay between chance opportunities and the proactive 
 - [[Agency]] — the proactive component
 - [[Career Growth]] — both luck and agency contribute to growth
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
+- [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — source summary
+- [[Barbara Liskov]] — on luck and "doors opening"

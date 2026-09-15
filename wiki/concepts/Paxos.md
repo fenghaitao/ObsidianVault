@@ -2,7 +2,7 @@
 title: "Paxos"
 type: concept
 tags: [distributed-systems, consensus, algorithms]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
 last_updated: 2026-09-14
 ---
 
@@ -18,6 +18,10 @@ Paxos is Leslie Lamport's algorithm for implementing a fault-tolerant distribute
 - Publication lagged eight years (as "The Part-Time Parliament," with a manuscript framing and a preface by Keith Marzullo) because early referees found it unremarkable and Butler Lampson's recognition meant there was no urgency.
 - Lamport is puzzled by its reputation for being hard: "I've explained it to some people in five minutes and they understood it."
 
+- Barbara Liskov: Viewstamped Replication and Paxos are essentially the same system, developed independently; the big step forward in both is leader changeover (moving to a new leader when the old one fails).
+- Lamport "went around giving all the talks, and she implemented it"; the catchier "Paxos" name is part of why it's better known.
+- The Google File System used Viewstamped Replication (which Google's people thought was Paxos).
+
 ## Related
 
 - [[summary-20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport]] — source summary
@@ -28,3 +32,6 @@ Paxos is Leslie Lamport's algorithm for implementing a fault-tolerant distribute
 - [[DEC Systems Research Center]] — where it was developed
 - [[Butler Lampson]] — who grasped its importance
 - [[Distributed Systems]] — the field of the algorithm
+- [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — source summary
+- [[Barbara Liskov]] — independently developed the equivalent
+- [[Viewstamped Replication]] — her equivalent protocol

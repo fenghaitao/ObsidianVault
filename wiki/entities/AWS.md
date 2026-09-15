@@ -2,7 +2,7 @@
 title: "AWS"
 type: entity
 tags: [company, cloud, Amazon, infrastructure]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md"]
 last_updated: 2026-09-14
 ---
 
@@ -21,6 +21,11 @@ AWS (Amazon Web Services) is Amazon's cloud computing division, whose early EC2/
 - At the time Kubernetes started, "AWS was dominant. They were there first and doing very well," while GCP was an up-and-coming third.
 - Burns argued GCP should stop "tail light chasing" VMs and instead create a new playing field; he notes partners like Red Hat, Azure, and AWS could later "take a bet on Kubernetes" because of its independent governance.
 
+### Marc Brooker on AWS Operations
+
+- AWS Distinguished Engineer Marc Brooker read between 3,000 and 4,000 industry postmortems/Amazon COEs, and AWS runs a broad weekly COE-review meeting across engineers, leaders, and senior leaders — which he calls a core, almost causal factor in AWS's success.
+- The collision of customer demand (serverless/container workloads) and the technical trend of block storage becoming the durability layer produced Aurora Serverless and Aurora D SQL, built on S3.
+
 ## Related
 
 - [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
@@ -32,3 +37,7 @@ AWS (Amazon Web Services) is Amazon's cloud computing division, whose early EC2/
 - [[Jeff Bezos]] — the executive behind the strategy
 - [[Joyent]] — where Cantrill competed with AWS
 - [[Bryan Cantrill]] — who describes AWS's economics
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
+- [[Marc Brooker]] — Distinguished Engineer's operations/postmortem account
+- [[Postmortems]] — the COE learning practice
+- [[Amazon Aurora]] — the database work led by Brooker

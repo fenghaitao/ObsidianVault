@@ -46,6 +46,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — Brendan Burns on co-creating Kubernetes, engineering-led direction, and convincing management.
 - [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — Ethan Evans on how corporate politics actually work and how to win at them.
 - [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — James Everingham on his career regrets and the engineering lessons from Instagram and beyond.
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — Marc Brooker on lessons from thousands of AWS incidents and how AI is changing engineering.
+- [[summary-20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker]] — Mike Stonebraker on disagreeing with Google, the Postgres story, and the future of databases.
+- [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — Barbara Liskov on data abstraction, working with Dijkstra, and fault-tolerant distributed systems.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -389,6 +392,39 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Jamie Zawinski]] — Netscape and Mozilla engineer (transcript "JWZ").
 - [[Hadi Partovi]] — Tech founder and Code.org figure referenced (transcript "Hody Partovi").
 - [[Novi]] — Meta's wallet project referenced in Everingham's episode.
+- [[Marc Brooker]] — AWS Distinguished Engineer; the episode's guest.
+- [[Al Vermeulen]] — Amazon executive referenced in the episode.
+- [[Amazon Aurora]] — AWS cloud relational database.
+- [[Amazon S3]] — AWS object storage service.
+- [[AWS Lambda]] — AWS serverless compute service.
+- [[Amazon DynamoDB]] — AWS NoSQL database.
+- [[Martin Kleppmann]] — Author of Designing Data-Intensive Applications.
+- [[Michael Stonebraker]] — Turing Award-winning database pioneer; the episode's guest.
+- [[PostgreSQL]] — Open-source relational database descended from Ingres.
+- [[Ingres]] — Early relational database Stonebraker built.
+- [[Larry Ellison]] — Oracle co-founder.
+- [[Jeff Dean]] — Google engineer behind MapReduce-era systems.
+- [[Google Spanner]] — Google's globally-distributed database.
+- [[Databricks]] — Company co-founded by Matei Zaharia.
+- [[Apache Spark]] — Big-data engine from UC Berkeley research.
+- [[DBOS]] — Database-oriented operating system Stonebraker advocates.
+- [[Matei Zaharia]] — Databricks co-founder and Spark creator.
+- [[David DeWitt]] — Database researcher colleague of Stonebraker.
+- [[Ted Codd]] — Inventor of the relational model.
+- [[Eugene Wong]] — Ingres-era collaborator.
+- [[StreamBase]] — Stream-processing company Stonebraker founded.
+- [[Vertica]] — Columnar analytics database Stonebraker founded.
+- [[UC Berkeley]] — University where Stonebraker and colleagues worked.
+- [[Barbara Liskov]] — Turing Award-winning computer scientist; the episode's guest.
+- [[Alan Kay]] — Computing pioneer referenced in the episode.
+- [[Jeannette Wing]] — Liskov's collaborator; known for computational thinking.
+- [[John Guttag]] — Liskov's colleague and co-author.
+- [[Steve Zilles]] — Collaborator referenced in the episode.
+- [[Brian Oki]] — Liskov's PhD student on Viewstamped Replication.
+- [[Miguel Castro]] — Liskov's student on Byzantine fault tolerance.
+- [[Bob Kahn]] — Internet pioneer and DARPA program lead.
+- [[Princeton University]] — Institution in Liskov's career.
+- [[MITRE]] — Organization where Liskov worked early.
 
 ## Concepts
 
@@ -654,6 +690,23 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Backchanneling]] — Gathering private support before a decision.
 - [[Distribution Advantage]] — A product's path to reach users as a competitive moat.
 - [[CTO vs VP of Engineering]] — The distinction between technical vision and operational delivery.
+- [[Postmortems]] — Retrospective analysis of production incidents.
+- [[Metastable Failures]] — Failures that persist even after their trigger is removed.
+- [[Caching]] — Storing derived data to speed up reads.
+- [[On-Call]] — Rotation of engineers responsible for production health.
+- [[Multi-Version Concurrency Control]] — Concurrency control that lets readers and writers proceed via versions.
+- [[Four Hobbies and Apparent Expertise]] — Brooker's framework for engineers who superficially dabble.
+- [[Databases]] — Systems for storing, querying, and managing data.
+- [[One Size Does Not Fit All]] — Stonebraker's argument that different workloads need different engines.
+- [[Eventual Consistency]] — Weaker consistency where replicas converge over time.
+- [[Text-to-SQL]] — Translating natural language into SQL queries.
+- [[Agentic AI]] — AI systems that act autonomously toward goals.
+- [[Query Optimizer]] — Database component that chooses efficient query plans.
+- [[Data Abstraction]] — Hiding data representation behind an interface (Liskov's CLU).
+- [[Modularity]] — Decomposing programs into independent, composable modules.
+- [[Liskov Substitution Principle]] — Subtypes must be substitutable for their base types.
+- [[Viewstamped Replication]] — Replication protocol from Liskov's group.
+- [[Byzantine Fault Tolerance]] — Tolerating arbitrary or malicious failures.
 
 ## Syntheses
 

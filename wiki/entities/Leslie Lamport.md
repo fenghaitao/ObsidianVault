@@ -2,7 +2,7 @@
 title: "Leslie Lamport"
 type: entity
 tags: [person, computer-scientist, distributed-systems, Turing-Award]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
 last_updated: 2026-09-14
 ---
 
@@ -21,6 +21,8 @@ Leslie Lamport is an American computer scientist and Turing Award winner known f
 - Worked mostly in industry; says abstraction — not raw intelligence — is his real gift, and only recognized it in his last decade.
 - Coined the maxim: "if you think you know something but don't write it down, you only think you know it."
 - Declines to second-guess his past: "I shouldn't waste time trying to answer questions that I don't have to answer."
+- Marc Brooker references an "early conversation" with Lamport who takes the writing-clarity idea a step further into formal mathematics.
+- Barbara Liskov describes Lamport as having independently developed the same idea as her Viewstamped Replication (Paxos); she quotes him as saying "I went around giving all the talks, and she implemented it," and credits the catchier "Paxos" name for its greater fame. Lamport also coined the term "Byzantine."
 
 ## Related
 
@@ -38,3 +40,8 @@ Leslie Lamport is an American computer scientist and Turing Award winner known f
 - [[Turing Award]] — the prize for his work
 - [[Abstraction]] — his self-identified gift
 - [[Distributed Systems]] — the field he helped found
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
+- [[Marc Brooker]] — references Lamport on formal clarity
+- [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — source summary
+- [[Barbara Liskov]] — independently developed Viewstamped Replication
+- [[Viewstamped Replication]] — the equivalent of Paxos

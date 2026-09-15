@@ -2,7 +2,7 @@
 title: "Google"
 type: entity
 tags: [company, FAANG, tech, search, advertising]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251024 - Shopify Distinguished Eng (L10)： Principal+ Engineering, Career Story, Regrets ｜ Ilya Grigorik.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
 last_updated: 2026-09-14
 ---
 
@@ -62,6 +62,12 @@ Google is a multinational technology company focused on search, online advertisi
 - He argued Google should open-source an orchestrator rather than just "kick out white papers" (the MapReduce/Hadoop lesson), positioning GCP to lead the container ecosystem while AWS and VMs dominated.
 - About a year in, Google donated Kubernetes to the Cloud Native Computing Foundation to make it an industry standard rather than a Google standard.
 
+### Mike Stonebraker and Barbara Liskov on Google
+
+- Stonebraker disputed Google's MapReduce and eventual consistency ("that wasn't the only thing Google was stupid about"); he says unenlightened people followed Google into Hadoop, but Hadoop is "ridiculously inefficient."
+- Google pushed eventual consistency "from on high"; database people rejected it, and Jeff Dean's Spanner later shipped conventional transactions — "Google completely abandoned eventual consistency and completely abandoned MapReduce."
+- Liskov recounts that the first real-world use of Viewstamped Replication she noticed was the Google File System; a former student consulting at Google recognized it (Google folks thought it was Paxos, but the two are the same system).
+
 ## Related
 
 - [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
@@ -98,3 +104,10 @@ Google is a multinational technology company focused on search, online advertisi
 - [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]] — source summary
 - [[Michael Bolin]] — Calendar, Tasks, and Closure at Google
 - [[Google Calendar]] — his early product work
+- [[summary-20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker]] — source summary
+- [[Michael Stonebraker]] — disputed MapReduce and eventual consistency
+- [[Jeff Dean]] — Spanner's transactional correction
+- [[Google Spanner]] — the transactional system
+- [[Eventual Consistency]] — the rejected model
+- [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — source summary
+- [[Barbara Liskov]] — on Viewstamped Replication in the Google File System

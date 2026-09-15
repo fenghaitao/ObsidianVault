@@ -2,7 +2,7 @@
 title: "Sun Microsystems"
 type: entity
 tags: [company, tech, operating-systems, hardware]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
 last_updated: 2026-09-14
 ---
 
@@ -22,6 +22,8 @@ Sun Microsystems was the workstation and server company (founded 1983) where Bry
 - Sun lost 98% of its value in the public markets and traded below cash at one point; IBM and HP jockeyed to buy it punitively before Oracle swept in.
 - Cantrill does not view Sun as a failure — a Fortune 200 company for decades whose epitaph, per Scott McNealy, was "Kick butt, had fun, didn't she? Loved her customers, changed computing forever."
 
+- Ryan Peterman recounted interviewing someone from Sun Microsystems who shared a similar view that Larry Ellison was "a little bit shady."
+
 ## Related
 
 - [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary
@@ -36,3 +38,7 @@ Sun Microsystems was the workstation and server company (founded 1983) where Bry
 - [[Distinguished Engineer]] — the rank whose process Sun shaped
 - [[Stack Ranking]] — the performance system he criticizes
 - [[Acquisitions]] — the Oracle acquisition context
+- [[summary-20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker]] — source summary
+- [[Michael Stonebraker]] — the episode source
+- [[Larry Ellison]] — the subject of the opinion
+- [[Oracle]] — Ellison's company

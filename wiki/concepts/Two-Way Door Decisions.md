@@ -2,7 +2,7 @@
 title: "Two-Way Door Decisions"
 type: concept
 tags: [career, decision-making, risk, framework]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md"]
 last_updated: 2026-09-14
 ---
 
@@ -38,6 +38,8 @@ Two-Way Door Decisions is a decision-making framework that distinguishes between
 - Sash framed leaving Meta for startups as a two-way door: "you can always come back and be hired into the next big tech company"
 - He was careful but willing to take the risk because of where he was in life — lucky enough to absorb the downside of a failed experiment
 
+- Marc Brooker applies the one-way-door framing to deciding what to document: he spends the time writing for difficult, often one-way-door, hard-to-change technical or API design decisions — not for every small reversible decision.
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -50,3 +52,5 @@ Two-Way Door Decisions is a decision-making framework that distinguishes between
 - [[IC vs Management Track]] — the career track decision Philip kept reversible
 - [[summary-20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story)]] — source summary (Sash)
 - [[Sash]] — framed leaving Meta as a two-way door
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
+- [[Marc Brooker]] — uses it to decide what to document

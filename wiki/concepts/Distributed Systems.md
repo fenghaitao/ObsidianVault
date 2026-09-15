@@ -2,7 +2,7 @@
 title: "Distributed Systems"
 type: concept
 tags: [distributed-systems, computer-science, concurrency]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
 last_updated: 2026-09-14
 ---
 
@@ -23,6 +23,12 @@ Distributed systems are computer systems whose components run on multiple networ
 - All persistence was forced through the etcd-backed API server, making every other component stateless; etcd (a raft-based consensus store) is the scaling bottleneck.
 - Burns contrasts state-machine designs (easy to debug, hard to make reliable) with control loops driving current state toward desired state (stable, but hard to trace failures).
 
+### Marc Brooker, Mike Stonebraker, and Barbara Liskov
+
+- Marc Brooker: on-call and postmortem/COE analysis taught him distributed systems in practice; caches introduce metastable failures; Aurora D SQL uses multi-version concurrency control plus commit-time optimistic checks so misbehaving clients can't hold locks.
+- Mike Stonebraker: a distributed database beats the "ridiculously inefficient" Hadoop; distributed commit is expensive (extra round trips), which motivated Google's eventual-consistency shortcut — later abandoned when Spanner shipped conventional transactions.
+- Barbara Liskov: Argus ran computations as atomic transactions across "guardians"; Viewstamped Replication (leader/view changeover on failure) is essentially the same as Paxos, and Byzantine fault tolerance extends the model to malicious nodes.
+
 ## Related
 
 - [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
@@ -37,3 +43,14 @@ Distributed systems are computer systems whose components run on multiple networ
 - [[Logical Clocks]] — event ordering
 - [[State Machine]] — the abstraction used to build them
 - [[Bakery Algorithm]] — an early synchronization algorithm
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
+- [[Marc Brooker]] — hands-on distributed-systems learning
+- [[Metastable Failures]] — the cache failure mode
+- [[Multi-Version Concurrency Control]] — the D SQL mechanism
+- [[summary-20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker]] — source summary
+- [[Michael Stonebraker]] — distributed databases vs. Hadoop
+- [[Eventual Consistency]] — the rejected model
+- [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — source summary
+- [[Barbara Liskov]] — distributed transactions and replication
+- [[Viewstamped Replication]] — the equivalent of Paxos
+- [[Byzantine Fault Tolerance]] — the malicious-fault protocol

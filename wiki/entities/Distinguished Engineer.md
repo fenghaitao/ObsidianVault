@@ -2,7 +2,7 @@
 title: "Distinguished Engineer"
 type: entity
 tags: [title, career, engineer, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md"]
 last_updated: 2026-09-14
 ---
 
@@ -17,6 +17,7 @@ Distinguished Engineer is a senior individual-contributor engineering title that
 - Greg Papadopoulos presented Cantrill's DE case to the committee, reportedly saying he expected no votes against it; the vote was unanimous, validating work "so indisputable" it was beyond contest.
 - Cantrill argues ranks can be corrosive and that Oxide deliberately has no ranks; chasing a distinguished engineer title is, in his words, "a recipe for a midlife crisis."
 - At Meta, Michael Bolin's E8 promotion is described as "principal in the industry," with E9 mapping to distinguished engineer and beyond that the expectation of outsized, often doc-and-influence-driven impact rather than pure coding.
+- Marc Brooker is an AWS Distinguished Engineer whose account centers on staying hands-on and close to production systems; he warns that distinguished engineers who stop building have opinions that become "fiction," and that the title alone is no substitute for grounded practice.
 
 ## Related
 
@@ -29,3 +30,5 @@ Distinguished Engineer is a senior individual-contributor engineering title that
 - [[Staff Engineer]] — the rank below distinguished
 - [[Engineering Ladder]] — the broader leveling framework
 - [[Career Growth]] — the context for title pursuit
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
+- [[Marc Brooker]] — AWS Distinguished Engineer on staying hands-on

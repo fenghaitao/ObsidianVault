@@ -2,7 +2,7 @@
 title: "Edsger Dijkstra"
 type: entity
 tags: [person, computer-scientist, concurrency, distributed-systems]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
 last_updated: 2026-09-14
 ---
 
@@ -19,6 +19,12 @@ Edsger Dijkstra (transcribed in the episode as "Dystra," "Dysterra," "Dyster," a
 - Reportedly found Lamport's simplification "impressive" and said Lamport had "a remarkable ability at abstraction."
 - Authored the dining philosophers problem, whose catchy story Lamport later emulated when naming the Byzantine generals problem.
 
+### Barbara Liskov on Dijkstra
+
+- "Go To Statement Considered Harmful" was a letter to the editor of Communications of the ACM, arguing that reasoning about the correctness of code is nontrivial and that gotos can be misused.
+- It was controversial because assembly required gotos, languages lacked today's constructs, compilers were less optimizing, and Dijkstra wasn't diplomatic — yet "clearly, Dijkstra won the day."
+- In person, Liskov says, Dijkstra was "not always as tactful as he might be," but a very distinguished researcher.
+
 ## Related
 
 - [[summary-20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport]] — source summary
@@ -26,3 +32,6 @@ Edsger Dijkstra (transcribed in the episode as "Dystra," "Dysterra," "Dyster," a
 - [[Bakery Algorithm]] — Lamport's solution to Dijkstra's problem
 - [[Byzantine Generals Problem]] — named with a story inspired by Dijkstra's approach
 - [[Distributed Systems]] — the field his concurrency work helped open
+- [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — source summary
+- [[Barbara Liskov]] — recounts the "Go To..." letter
+- [[Modularity]] — the correctness concerns it relates to

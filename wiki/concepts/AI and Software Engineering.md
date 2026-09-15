@@ -2,7 +2,7 @@
 title: "AI and Software Engineering"
 type: concept
 tags: [AI, career, engineering, future-of-work]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md"]
 last_updated: 2026-09-14
 ---
 
@@ -28,6 +28,12 @@ AI and Software Engineering examines the relationship between artificial intelli
 ### Boris Cherny and Claude Code
 - Claude Code was built on "don't build for the model of today, build for the model 6 months from now" — it went from writing ~10% of Boris's code to writing 80–90% of Claude Code itself once the models matured, lifting Anthropic's productivity per engineer ~70% despite tripling headcount ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
 
+### Marc Brooker's Perspective
+
+- Software has been supply-constrained and the changing economics of AI will produce more software — bigger, better, more personal. Careers will span a craft/hobby tier, a shrinking "old way" (analog-electronics analogy), and the mainstream (agentic/AI/specification-driven development).
+- Juniors should learn to find problems that matter and understand customers/business early; the most technical, deeply expert folks also become more valuable as boilerplate shrinks.
+- Seniors must get hands-on and use the new tools, or their opinions "tend to be essentially fiction"; people using agentic-powered practices have grounded views, while non-hands-on people have a poor mental model.
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -39,3 +45,5 @@ AI and Software Engineering examines the relationship between artificial intelli
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
 - [[Boris Cherny]] — builds Claude Code
 - [[Claude Code]] — the AI coding agent he created
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
+- [[Marc Brooker]] — his perspective on AI and engineering careers

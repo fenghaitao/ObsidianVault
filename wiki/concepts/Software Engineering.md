@@ -2,7 +2,7 @@
 title: "Software Engineering"
 type: concept
 tags: [engineering, career, FAANG, software]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md"]
 last_updated: 2026-09-14
 ---
 
@@ -22,6 +22,8 @@ Software Engineering is the practice of designing, building, and maintaining sof
 - Zach's side projects and weekend work on full-stack development (JavaScript, React) were critical for his transition to Software Engineering
 - Joakim Recht (Uber Distinguished Engineer): "A software engineer needs to write code. If you're not writing code, you're not a software engineer" — applies at every level, ideally daily; those who stop writing code lose touch with the system and produce increasingly idealized, decoupled-from-reality designs
 
+- Marc Brooker: the direction of your work matters more than volume; with code "flowing like water," the job shifts toward finding important problems and understanding customers, business, economics, and systems — moving from senior-only work into the earliest steps of a career.
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -33,3 +35,5 @@ Software Engineering is the practice of designing, building, and maintaining sof
 - [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — source summary
 - [[Joakim Recht]] — wrote code daily through Distinguished
 - [[Running Code Beats Perfect Code]] — related principle
+- [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
+- [[Marc Brooker]] — on the changing practice of software engineering
