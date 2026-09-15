@@ -2,7 +2,7 @@
 title: "Mis-Leveling"
 type: concept
 tags: [career, leveling, interviewing, FAANG]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-07-21
 ---
 
@@ -20,6 +20,8 @@ Mis-Leveling occurs when a company hires an engineer at a level below their actu
 - Zach contrasts this with his experience in Utah where promotions were based on tenure ("been here three years, okay you're a senior engineer now"), not on impact
 - The concept demonstrates why interviewing is such high leverage — getting hired at the right level from the start avoids the catch-up period
 
+- Ryan Olson felt he was hired underleveled at IC4 at Facebook/Instagram and told his director he should be promoted IC4 → IC6 in one cycle; he seeded the idea so later promotions wouldn't be deferred for "he just got promoted last half"
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -28,3 +30,6 @@ Mis-Leveling occurs when a company hires an engineer at a level below their actu
 - [[Interviewing]] — the process that determines correct leveling
 - [[Meta]] — company where Zach was mis-leveled
 - [[Career Growth]] — the broader context of leveling
+- [[Ryan Olson]] — felt underleveled at IC4
+- [[Promotion Process]] — his ask to jump levels
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

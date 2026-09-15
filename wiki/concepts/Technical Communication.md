@@ -2,7 +2,7 @@
 title: "Technical Communication"
 type: concept
 tags: [career, engineering, soft-skills, communication]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md"]
 last_updated: 2026-09-14
 ---
 
@@ -29,6 +29,8 @@ Technical Communication is the ability to explain complex technical topics clear
 - The biggest mistake: writing your journey (which files/lines) instead of the outcome (is it on track, what moved, why care)
 - Written is higher leverage than spoken: spoken reaches dozens, written reaches hundreds and is re-referenced over time
 
+- Asian Dad Energy's speaking advice: relax and don't over-identify with the subject — a brilliant engineer he knew couldn't explain his Drupal memory-cache optimization because he took it too seriously; instead, "take a step back and explain it like the audience is five years old"
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -40,3 +42,6 @@ Technical Communication is the ability to explain complex technical topics clear
 - [[Lee]] — emphasized asking questions over making statements
 - [[Simon]] — his written update framework
 - [[summary-20250704 - 26 Year Old Meta Staff Eng (IC6)： Promotions, Redefining Expectations, Secret Equity Bonuses]] — source summary
+- [[Asian Dad Energy]] — "explain it like the audience is five"
+- [[Technical Consulting]] — where he sold to non-technical executives
+- [[summary-20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality]] — source summary

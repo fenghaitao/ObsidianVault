@@ -2,7 +2,7 @@
 title: "Promotion Process"
 type: concept
 tags: [career, google, performance, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-09-14
 ---
 
@@ -50,6 +50,11 @@ The Promotion Process at Google is the formal system for advancing engineers thr
 - Over time the process became more structured, but it is "super hard" to judge a person objectively across many dimensions — you may depend on another team that "ghosted" you, or have a project canceled by management through no fault of your own
 - Recht notes unfairness runs both ways: good work can go unrewarded when weakly presented, while some who feel cheated are actually "on an island" relative to a much stronger external bar
 
+### Ryan Olson's Meta/Instagram Promotion Path
+- Rising path: IC4 → IC5 (White Out) → IC6 (Stories) → IC7 (IGTV) → IC8 (IG Labs / tech lead director), roughly one promotion per half at the start via the normal half-year cycle
+- He asked his director to promote him straight from IC4 to IC6; HR said the company had done that only twice before, and both times "it worked out terribly"
+- He notes promotions are an incentive system where high performers may be deliberately deferred to "dangle the carrot" and avoid successive quick promotions
+
 ## Related
 
 - [[summary-20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions]] — source summary
@@ -66,3 +71,6 @@ The Promotion Process at Google is the formal system for advancing engineers thr
 - [[summary-20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht]] — source summary
 - [[Uber]] — company whose committees are described
 - [[Joakim Recht]] — repeated promo-committee member
+- [[Ryan Olson]] — Facebook/Instagram promotion path
+- [[Promotion Velocity]] — his one-promo-per-half pace
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

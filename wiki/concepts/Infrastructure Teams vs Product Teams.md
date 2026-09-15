@@ -2,7 +2,7 @@
 title: "Infrastructure Teams vs Product Teams"
 type: concept
 tags: [career, engineering, org-design, promotions]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-07-21
 ---
 
@@ -21,6 +21,8 @@ Infrastructure Teams vs Product Teams is a distinction in engineering org design
 - Zach Wilson observed this distinction in data engineering: the more you lean into infrastructure (how work gets done) vs. product (what work gets done), the better the promotion path
 - However, just being on an infrastructure team doesn't guarantee promotion potential — you still need to evaluate whether managers in that space know how to promote people, and whether senior leaders see the work
 
+- Ryan Olson: Facebook's boot camp culture steered juniors to product teams and seniors to infrastructure ("product is easy; real engineers work on infrastructure"); Instagram instead prioritized the product side, which let product-focused engineers like Will Bailey thrive
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
@@ -28,3 +30,7 @@ Infrastructure Teams vs Product Teams is a distinction in engineering org design
 - [[Leverage]] — infrastructure offers natural technology leverage
 - [[Force Multiplier]] — infrastructure as a force multiplier
 - [[Scope]] — how team type affects available scope
+- [[Instagram]] — prioritized product engineering
+- [[Will Bailey]] — product-focused engineer who thrived
+- [[Ryan Olson]] — the observation
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

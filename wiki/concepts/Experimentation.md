@@ -2,7 +2,7 @@
 title: "Experimentation"
 type: concept
 tags: [engineering, ML, Meta, product-development]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-07-21
 ---
 
@@ -20,9 +20,15 @@ Experimentation is the practice of running controlled tests (A/B tests, model ex
 - The Golden Set Recall system was built to solve the experimentation measurement problem for rare events
 - The balance: experimentation is essential for measuring impact, but should be paired with curiosity about underlying causes
 
+- White Out redesign debate: Mike Krieger said don't A/B test it ("just build and ship it"), but a Facebook executive forced A/B tests the night before launch; Ryan Olson's takeaway — testing is valuable for onboarding/conversion details, but for high-level product direction prefer a "stronger opinion" to avoid getting trapped in incrementalism (1% wins instead of 50% jumps)
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Machine Learning]] — the domain where experimentation is central
 - [[Model Training]] — the process of training models for experiments
 - [[Golden Set Recall]] — evaluation system for experimentation
+- [[White Out (Instagram)]] — the ship-vs-test debate
+- [[Ryan Olson]] — the engineer's takeaway
+- [[Mike Krieger]] — "just ship it"
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

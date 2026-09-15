@@ -2,7 +2,7 @@
 title: "Career Growth"
 type: concept
 tags: [career, engineering, progression, FAANG]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-09-14
 ---
 
@@ -87,6 +87,19 @@ Career Growth in the context of software engineering refers to the progression t
 - Impact vs passion: have an honest conversation with yourself about what's important to you and what's motivating, and share it with your manager (there are no right answers)
 - Advice to her younger self: "enjoy the ride... these are the good old days" (quoting Michael Abrash)
 
+### Nimit Sohoni's Career Advice (AI research & quant)
+- Focus on fundamentals: build deep technical skills (coding, math) and read tons of papers, so opportunities "come to you"; pivoting into AI research is easier with resume evidence (e.g., a master's) or at a flexible startup
+- His biggest regret: overthinking and spending time regretting decisions that turned out not to matter; advice to his younger self — focus on the deep technical skills and don't spread yourself too thin ("a simple recipe that's very hard to follow")
+
+### Asian Dad Energy's Career Lessons
+- His most cherished growth period was from senior software engineer to senior enterprise architect, driven by a series of strong mentors; after becoming a director the work turned managerial and growth slowed
+- Advice to his younger self: "work hard, don't stop learning, and stay flexible"
+
+### Ryan Olson's Career Advice
+- Find a great designer (or, in infrastructure, a great senior engineer) and build that relationship — "your impact can be multiplied so much" when top designers' work flows through you
+- For new grads: master the tools of your time (now AI tools); new grads can outpace senior engineers on new tools the way he stood out on iOS as a junior
+- "If you want to go fast, go small" — small teams move faster, and demonstrated delivery ("put me on a project and I'll do a good job") opened the door to each next big project
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -125,3 +138,11 @@ Career Growth in the context of software engineering refers to the progression t
 - [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
 - [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary
 - [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
+- [[Nimit Sohoni]] — fundamentals-first advice
+- [[Quantitative Finance]] — the alternate path he compared
+- [[summary-20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni]] — source summary
+- [[Asian Dad Energy]] — mentor-driven growth and flexibility
+- [[summary-20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality]] — source summary
+- [[Ryan Olson]] — advice from his Instagram career
+- [[Small Teams]] — go fast, go small
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

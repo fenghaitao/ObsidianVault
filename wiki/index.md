@@ -34,6 +34,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260112 - New Grad to Principal Engineer (IC8) at Meta (Career Story) ｜ Adrien Friggeri]] — Adrien Friggeri's new-grad-to-IC8 path through Instagram A/B testing, the Bento notebook platform, Clubhouse, and Meta smart glasses.
 - [[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]] — Laurent on the untold rules of calibrations, the senior-to-staff mindset shift, and measuring developer productivity.
 - [[summary-20260123 - Meta Senior Staff (IC7) Eng's Honest Demotion Story]] — Igor's honest account of asking Meta for a demotion and returning to Google at L6 to keep writing code.
+- [[summary-20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni]] — Nimit Sohoni compares quant trading at Citadel Securities with AI research, covering state space models and tech-vs-finance tradeoffs.
+- [[summary-20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality]] — A 25-year engineer's candid account of a Big Tech layoff, the anxiety around it, and his pivot to technical consulting.
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — Ryan Olson on building Instagram Stories with small teams, fast promotion velocity, and infrastructure-vs-product leadership.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -269,6 +272,39 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Mike Krieger]] — Instagram co-founder and CTO.
 - [[Ray-Ban Stories]] — Meta's Ray-Ban smart glasses Adrien Friggeri worked on.
 - [[Tensor Processing Unit (TPU)]] — Google's ML accelerator that Igor's L7 work targeted.
+- [[Nimit Sohoni]] — Ex-Citadel Securities quant and AI researcher comparing finance and AI-research careers.
+- [[Citadel Securities]] — Market-making firm where Nimit Sohoni worked as a quant trader/researcher.
+- [[Cartesia]] — AI startup applying state space models, co-founded by Albert Gu.
+- [[Eleven Labs]] — AI voice-generation company.
+- [[Renaissance Technologies]] — Ultra-successful quant hedge fund, also known as RenTech/Medallion.
+- [[Jump Trading]] — Chicago-based proprietary trading firm.
+- [[Hudson River Trading]] — High-frequency trading firm.
+- [[TGS Management]] — Quantitative trading firm.
+- [[XTX Markets]] — Quantitative trading firm.
+- [[Radix Trading]] — Chicago proprietary trading firm.
+- [[DeepMind]] — Google's AI research lab.
+- [[Albert Gu]] — Stanford professor and co-creator of Mamba state space models.
+- [[Chris Ré]] — Stanford professor whose lab Nimit Sohoni researched in.
+- [[Asian Dad Energy]] — Persona behind the honest Big Tech layoff story episode.
+- [[Ryan Olson]] — Instagram iOS Principal Engineer (IC8) and former Flipboard engineering leader.
+- [[Flipboard]] — Social news aggregator app where Ryan Olson and Evan Doll worked.
+- [[Evan Doll]] — Flipboard co-founder who brought Ryan Olson to Flipboard.
+- [[Insight Partners]] — Venture capital firm referenced in the episode.
+- [[Dylan Field]] — Co-founder and CEO of Figma.
+- [[Devin Finzer]] — Co-founder and CEO of OpenSea.
+- [[OpenSea]] — NFT marketplace co-founded by Devin Finzer.
+- [[FLEX (iOS Debugging Tool)]] — iOS introspection/debugging tool from Flipboard.
+- [[Instagram Stories]] — Ephemeral photo/video feature whose iOS team Ryan Olson led.
+- [[White Out (Instagram)]] — Instagram feature discussed by Ryan Olson.
+- [[IGTV]] — Instagram's long-form video product.
+- [[IG Labs]] — Instagram's internal initiative discussed by Ryan Olson.
+- [[Retro (App)]] — Photo-sharing app built by Instagram alumni.
+- [[BeReal]] — Photo-sharing app referenced by Ryan Olson.
+- [[Will Bailey]] — Instagram engineering leader referenced in the episode.
+- [[Thomas Dimson]] — Instagram engineer who built the original algorithmic feed.
+- [[Nathan Sharp]] — Instagram engineer and co-founder of Retro.
+- [[Ian Spalter]] — Instagram's Head of Design.
+- [[Nassim Taleb]] — Author of "Skin in the Game," cited by Ryan Olson.
 
 ## Concepts
 
@@ -499,6 +535,15 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Senior to Staff Promotion]] — The shift to independently finding, pitching, and solving problems.
 - [[Situational Leadership]] — Matching coaching style to a learner's motivation and mastery.
 - [[Surprise Factor]] — Revealing expected ratings simultaneously; any mismatch signals a gap.
+- [[Quantitative Finance]] — Using math and models to price and trade financial instruments.
+- [[State Space Models]] — Sequence models, such as Mamba, that compress context into a fixed state instead of full attention.
+- [[Garden Leave]] — Paid period where a departing trader is barred from joining a competitor.
+- [[Layoffs]] — Company-wide job cuts and how engineers navigate the career aftershock.
+- [[Engineering Integrity]] — Refusing to ship misleading or broken work.
+- [[Technical Consulting]] — A career path selling engineering expertise to traditional companies.
+- [[Digital Transformation]] — Helping traditional companies modernize their technology and processes.
+- [[Small Teams]] — Keeping teams tiny to move fast and give engineers full scope.
+- [[Skin in the Game]] — Taleb's principle that decision makers should bear the downside risk of their choices.
 
 ## Syntheses
 

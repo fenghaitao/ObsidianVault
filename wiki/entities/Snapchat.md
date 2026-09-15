@@ -2,7 +2,7 @@
 title: "Snapchat"
 type: entity
 tags: [company, social-media, tech, Los-Angeles]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-09-14
 ---
 
@@ -20,6 +20,8 @@ Snapchat is a messaging and camera app company founded by Evan Spiegel, original
 - Spiegel reportedly told a leader that "no matter what happens, you should never fire the first 15 engineers," because they are the company's founding members
 - The guest credits the first two years at Snapchat as among the happiest of his career, spent learning new things daily
 
+- Ryan Olson: Instagram Stories was built because everyday sharing was "evaporating" to Snapchat's ephemeral format; Instagram's unfair advantage was that people already had their friend graph on it, and it added UX touches Snapchat lacked (tap-left to navigate back, hold-to-pause).
+
 ## Related
 
 - [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
@@ -29,3 +31,6 @@ Snapchat is a messaging and camera app company founded by Evan Spiegel, original
 - [[Steve Jobs]] — comparison for Spiegel's performance bar
 - [[Scale]] — 100 to 3,000 people
 - [[Engineering Culture]] — similarity to Bay Area culture
+- [[Instagram Stories]] — the competing format that won
+- [[Ryan Olson]] — led the competing Instagram effort
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

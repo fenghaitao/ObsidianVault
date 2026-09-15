@@ -2,7 +2,7 @@
 title: "Mark Zuckerberg"
 type: entity
 tags: [person, Meta, CEO, Facebook]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-09-14
 ---
 
@@ -22,6 +22,8 @@ Mark Zuckerberg (Zuck) is the founder and CEO of Meta (formerly Facebook). Phili
 - Michael once made a public bet with Zuckerberg during the 2010 lockdown that he wouldn't commit code; Zuckerberg actually merged a PR, so Michael had to stop ripsticking
 - When Michael messaged Zuckerberg directly about a controversial internal post, Zuckerberg was "totally fine with it" and encouraged him to keep posting
 
+- Via public antitrust litigation, Ryan Olson read Mark Zuckerberg's internal memo on the Facebook–Instagram tension: Zuckerberg showed "a very understandable emotional attachment to the Facebook product" he created, wanted to keep the Instagram founders ("great at building products"), and was navigating his side of the equation
+
 ## Related
 
 - [[Meta]] — the company Zuckerberg founded and leads
@@ -29,3 +31,7 @@ Mark Zuckerberg (Zuck) is the founder and CEO of Meta (formerly Facebook). Phili
 - [[Bosworth]] — another Meta leader who impressed Philip with self-improvement
 - [[Michael Novati]] — early collaborator and source of these stories
 - [[summary-20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype]] — source summary
+- [[Facebook]] — the product he's emotionally attached to
+- [[Instagram]] — the acquisition and its leadership tension
+- [[Ryan Olson]] — read the memo via antitrust litigation
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

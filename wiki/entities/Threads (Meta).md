@@ -2,7 +2,7 @@
 title: "Threads (Meta)"
 type: entity
 tags: [product, Meta, Instagram, social-media]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-09-14
 ---
 
@@ -20,6 +20,8 @@ Threads is Meta's text-first social network launched in 2023, built on Instagram
 
 - Marius Schultz joined a few weeks after kickoff as the sole web engineer (6–8 weeks solo), created a separate code surface rather than a tab, built logged-out and logged-in clients, then hired and led the team as TL — work that earned him IC7 ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]])
 
+- Ryan Olson's IG Labs — a small, high-talent-density team he co-founded to pursue new initiatives — provided the concentrated talent that ultimately went to work on Threads when that initiative emerged.
+
 ## Related
 
 - [[summary-20250808 - Instagram Staff (IC6) Promo Despite 10 Team Switches in 9 Years (Career Story)]] — source summary
@@ -30,3 +32,6 @@ Threads is Meta's text-first social network launched in 2023, built on Instagram
 - [[Prototype as Highest Fidelity]] — the momentum that got it staffed
 - [[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]] — source summary (Marius)
 - [[Marius Schultz]] — first engineer and TL on Threads web
+- [[IG Labs]] — the team whose talent seeded Threads
+- [[Ryan Olson]] — IG Labs co-founder
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

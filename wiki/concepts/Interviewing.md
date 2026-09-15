@@ -2,7 +2,7 @@
 title: "Interviewing"
 type: concept
 tags: [career, engineering, FAANG, job-search]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-09-14
 ---
 
@@ -37,6 +37,11 @@ Interviewing is the process of evaluating and being evaluated for a job. Zach Wi
 - He is considering adding an IQ screen (likely for PMs first), since IQ is one of the most predictive signals and can't be practiced
 - Strong interview processes are rare because they are expensive to build; his company runs ~20 experiments at any time to improve it
 
+### Ryan Olson on Interviewing
+- Failed his 2011 Facebook interview from nerves on the "engram buckets" question (later banned); the interviewer cut the interview short and told him he "just wasn't going to be able to make it at Facebook"
+- Later used prescribed beta blockers to block the physical effects of interview adrenaline (pounding heart, sweaty palms), staying calm enough to get through his full-time loop
+- Felt the process is broken: he showed interviewers his open-source FLEX code and none would look at it; a mixed loop led to an underleveled IC4 hire
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -56,3 +61,7 @@ Interviewing is the process of evaluating and being evaluated for a job. Zach Wi
 - [[summary-20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell]] — source summary
 - [[Brian Attwell]] — interviewing philosophy
 - [[IQ and Job Performance]] — the rationale behind his approach
+- [[Ryan Olson]] — failed interview, beta blockers
+- [[Coding Interview]] — LeetCode-style loop he struggled with
+- [[Mis-Leveling]] — underleveled at hire
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

@@ -2,7 +2,7 @@
 title: "Individual Contributor Track"
 type: concept
 tags: [career, engineering-levels, IC-track]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-07-21
 ---
 
@@ -19,6 +19,8 @@ The Individual Contributor (IC) track is the career path for engineers who advan
 - The IC track progression follows scope: entry level (task) → mid-level (feature) → senior (project) → staff (multiple projects/product) → principal/distinguished (industry-wide impact)
 - The panel focused on the decision to pursue the IC ladder rather than the management track
 
+- Ryan Olson tried the rare "tech lead director" (TLD) role at Instagram — managing his IG Labs group while staying an IC — as a deliberate experiment against Facebook's strict IC/management separation; he prefers models (like Tesla's) where ICs have reports and managers stay technical
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
@@ -26,3 +28,6 @@ The Individual Contributor (IC) track is the career path for engineers who advan
 - [[Senior Engineer (Terminal Level)]] — where the IC and management tracks diverge
 - [[Management Track]] — the alternative career path
 - [[Scope]] — how scope expands on the IC track
+- [[Ryan Olson]] — tech lead director experiment
+- [[Manager vs IC]] — the separation he questioned
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

@@ -2,7 +2,7 @@
 title: "Facebook"
 type: entity
 tags: [company, social-media, big-tech, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-09-14
 ---
 
@@ -24,6 +24,9 @@ Facebook is the social network (now part of Meta) where Jay Jo interned and wher
 - Facebook's early (~2011-12) "data science" team of ~20 statisticians and early-ML researchers built the A/B testing and data-measurement infrastructure; the "data scientist" title was later reused for product analytics around 2014.
 - Early Facebook culture was bottoms-up with a heavy hackathon culture — Adrien Friggeri did about six hackathons in his first six months ([[summary-20260112 - New Grad to Principal Engineer (IC8) at Meta (Career Story) ｜ Adrien Friggeri]]).
 
+- Ryan Olson failed his 2011 Facebook interview from nerves (the question was later banned), but later joined Instagram (a Facebook company) at IC4 and grew to IC8; he used beta blockers to manage interview anxiety
+- Via later antitrust litigation, internal communications revealed tension between Facebook and Instagram leadership — Facebook feared Instagram cannibalizing its users, and Mark Zuckerberg's internal memo surfaced on keeping the Instagram founders
+
 ## Related
 
 - [[Rome]] — joined Facebook ~2009 as a frontline manager
@@ -40,3 +43,7 @@ Facebook is the social network (now part of Meta) where Jay Jo interned and wher
 - [[Messenger]] — the org Facebook clashed with
 - [[Instagram]] — sibling Meta app
 - [[Pinterest]] — Jay's contrasting internship
+- [[Ryan Olson]] — failed a Facebook interview, then rose at Instagram
+- [[Mark Zuckerberg]] — internal memo on Facebook–Instagram tension
+- [[Instagram]] — the sibling that created friction
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

@@ -2,7 +2,7 @@
 title: "Leadership"
 type: concept
 tags: [career, soft-skills, management, engineering]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-07-21
 ---
 
@@ -20,9 +20,14 @@ Leadership in the engineering context refers to the ability to guide teams, set 
 - Leadership at higher IC levels requires influence without authority, especially at Meta where levels are not public
 - The transition from IC to management (TLM) is a different form of leadership that involves direct people responsibility, performance reviews, and dealing with "people problems"
 
+- Mike Krieger modeled "lead from the front": never putting himself above the team, jumping into any effort needing help (finishing the Stories neon brush, reviewing diffs at 2 a.m., working the same insane hours) — which shaped how Ryan Olson thinks about leading teams
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[Tech Lead]] — a leadership role for ICs
 - [[Influence Without Authority]] — key leadership skill
 - [[Evan King]] — example of early leadership development
+- [[Mike Krieger]] — lead from the front
+- [[Ryan Olson]] — shaped by Krieger's example
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

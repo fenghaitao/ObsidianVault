@@ -2,7 +2,7 @@
 title: "Promotion Velocity"
 type: concept
 tags: [career, promotions, Meta, growth]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-07-21
 ---
 
@@ -21,6 +21,8 @@ Promotion Velocity refers to the speed at which an engineer progresses through t
 - Promotion velocity can create a "video game" effect where the next promotion is always visible and achievable, keeping you motivated
 - Evan noted that the "next promotion is always right there" can also be a trap that keeps you at a company longer than optimal for technical breadth
 
+- Ryan Olson (Instagram) got one promotion per half for two halves straight — IC4 → IC5 (White Out/infrastructure) → IC6 (Stories) — followed by IC7 (IGTV) and IC8 (IG Labs / tech lead director)
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
@@ -29,3 +31,6 @@ Promotion Velocity refers to the speed at which an engineer progresses through t
 - [[Ryan L. Peterman]] — example of rapid promotion velocity
 - [[Meta]] — company with the half-based promotion cycle
 - [[IC Levels]] — the levels being promoted through
+- [[Ryan Olson]] — one promo per half for two halves
+- [[Promotion Process]] — the cycle he navigated
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

@@ -2,7 +2,7 @@
 title: "Instagram"
 type: entity
 tags: [product, social-media, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250531 - Instagram Principal Engineer (IC8)： Promotions, Breaking Prod, Tech Leading ｜ Jake Bolam.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
 last_updated: 2026-09-14
 ---
 
@@ -32,6 +32,8 @@ Instagram is a photo and video sharing social media platform owned by Meta. Ryan
 - Adrien Friggeri brought A/B testing to Instagram as an IC4 with no mandate, hacking a Facebook API endpoint to log exposures and replicating bucket-hashing — the system underpinned his IC5 promotion ([[summary-20260112 - New Grad to Principal Engineer (IC8) at Meta (Career Story) ｜ Adrien Friggeri]]).
 - Laurent joined Instagram (via Meta) in 2020 and, after a July 4th on-call paging, led work to bring Facebook's incident-reliability tooling to Instagram, partnering with an exceptional Facebook-side tech lead named Arianne ([[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]]).
 
+- Ryan Olson (iOS, IC8) lived several of Instagram's landmark projects — the White Out redesign, Instagram Stories, IGTV, and IG Labs — when the iOS team (~10 engineers) was rebuilding after an internal faction war over AsyncDisplayKit vs vanilla iOS left it depleted
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary
@@ -51,3 +53,9 @@ Instagram is a photo and video sharing social media platform owned by Meta. Ryan
 - [[Boris Cherny]] — ran the Python-to-Hack migration
 - [[Product Infra]] — Marius's leveraged area on Instagram web
 - [[Unshipping]] — Instagram's feature-deletion practice
+- [[Ryan Olson]] — iOS engineer behind Stories, White Out, IGTV, IG Labs
+- [[Instagram Stories]] — the project he led
+- [[White Out (Instagram)]] — the 2016 redesign
+- [[IGTV]] — the long-form vertical product
+- [[IG Labs]] — the new-initiatives team
+- [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary

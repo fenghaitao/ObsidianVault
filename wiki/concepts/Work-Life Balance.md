@@ -2,7 +2,7 @@
 title: "Work-Life Balance"
 type: concept
 tags: [career, well-being, engineering, lifestyle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md"]
 last_updated: 2026-09-14
 ---
 
@@ -40,6 +40,10 @@ Work-Life Balance is the equilibrium between professional demands and personal w
 - He works a lot because programming is his passion, not just his job; all-day meetings followed by more work is his definition of burnout quality
 - Early side projects (games, SignalR) were fun and fed his work skills — the intrinsic-motivation advantage he sees across top performers
 
+- Nimit Sohoni: quant often has better work-life balance than AI research — trading hours cluster the office culture so people leave work at work, whereas AI's intense competition drives many to work around the clock; he personally had a "pretty great" balance as a quant
+
+- Asian Dad Energy: after an involuntary semi-retirement, his physical health and mood trended upward month over month; he also described the mid-career learning slowdown — after 40 it took noticeably longer to learn new frameworks ("like an Olympic gymnast past 30")
+
 ## Related
 
 - [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (compilation re-quotes this theme)
@@ -56,6 +60,12 @@ Work-Life Balance is the equilibrium between professional demands and personal w
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
 - [[summary-20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special)]] — source summary (content workload)
 - [[Ryan L. Peterman]] — 4 a.m. newsletter Thursdays
+- [[Nimit Sohoni]] — quant vs AI balance
+- [[Quantitative Finance]] — field with trading-hours culture
+- [[summary-20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni]] — source summary
+- [[Asian Dad Energy]] — semi-retirement and mood recovery
+- [[Layoffs]] — the trigger context
+- [[summary-20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality]] — source summary
 
 ### UCLA Talk: Work Is Not Everything
 - Ricky's closing advice: "Work is not everything." The happiest moments of his 20s were not promotions but being at Coachella "really drunk and my shirt's off and having fun with my friends"

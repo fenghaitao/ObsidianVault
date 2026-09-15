@@ -2,7 +2,7 @@
 title: "Mentorship"
 type: concept
 tags: [career, learning, growth, engineering]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md"]
 last_updated: 2026-09-14
 ---
 
@@ -38,6 +38,10 @@ Mentorship is the relationship where a more experienced engineer guides and acce
 - Distinguish mentoring (listening and dispensing helpful advice) from coaching (acting as a mirror so the other person discovers the answers within themselves), and confirm which mode the other person wants
 - The most effective mentoring relationships have goals set by the mentee; the mentor adds life experience and resources, but mentees should set explicit goals for what they want to receive ([[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]])
 
+### Asian Dad Energy on Mentors
+- He credits "a series of extremely good, knowledgeable, capable mentors" for his growth from senior software engineer to senior enterprise architect
+- The mentor lesson that stuck most: "be flexible" — adapt yourself to changing conditions (tech stack, CI/CD pipeline, client teams) and you'll survive
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -53,3 +57,5 @@ Mentorship is the relationship where a more experienced engineer guides and acce
 - [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
 - [[Fiona Fung]] — mentoring vs coaching
 - [[One-on-Ones]] — related growth conversation
+- [[Asian Dad Energy]] — mentors shaped his consulting growth
+- [[summary-20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality]] — source summary
