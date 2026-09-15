@@ -29,6 +29,9 @@ Instagram is a photo and video sharing social media platform owned by Meta. Ryan
 - Marius Schultz reached IC7 at Instagram web ([[summary-20251208 - Instagram Senior Staff Eng (IC7)： What Held Him Back, Redefining Expectations, Promo Stories]]): rewrote the long-neglected notifications panel, worked in product infra (error boundaries and reliability), and was the first engineer on Threads web
 - Boris Cherny joined Instagram's Tokyo office and absorbed its craft-focused, product-driven culture — he learned "unshipping" and led the Python-to-Hack migration toward Meta's main stack ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
 
+- Adrien Friggeri brought A/B testing to Instagram as an IC4 with no mandate, hacking a Facebook API endpoint to log exposures and replicating bucket-hashing — the system underpinned his IC5 promotion ([[summary-20260112 - New Grad to Principal Engineer (IC8) at Meta (Career Story) ｜ Adrien Friggeri]]).
+- Laurent joined Instagram (via Meta) in 2020 and, after a July 4th on-call paging, led work to bring Facebook's incident-reliability tooling to Instagram, partnering with an exceptional Facebook-side tech lead named Arianne ([[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]]).
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — source summary

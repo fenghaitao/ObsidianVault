@@ -16,6 +16,8 @@ IBM (specifically IBM Research) is the industrial research lab where the Snapcha
 - He judged industrial research models (IBM Research, Microsoft Research) — a roughly 50/50 mix of research and engineering — as not sustainable long term, and exited to full-time engineering
 - Cultural contrast with Facebook: at IBM, VP-level staff no longer wrote code, whereas at Facebook even VP-level hires wrote and reviewed code during the six-week boot camp
 
+- Igor mentioned IBM (reputation only — he never worked there) as a company where switching projects internally is said to be impossible ([[summary-20260123 - Meta Senior Staff (IC7) Eng's Honest Demotion Story]]).
+
 ## Related
 
 - [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary

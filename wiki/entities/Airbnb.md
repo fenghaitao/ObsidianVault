@@ -21,6 +21,11 @@ Airbnb is an online marketplace for lodging and travel experiences, and one of t
 - Airbnb's Marketplace org had about 75 engineers, with approximately 5 staff engineers
 - Zach's stock grant at Airbnb was $1.5M over 4 years at a share price of $210, but the share price dropped to $80 within 6 months, reducing the grant value to ~$600K
 
+### Laurent's Airbnb Tenure ([[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]])
+- Joined in 2016 as one of two test-infrastructure engineers; Airbnb was (and is) a designer-led company, which made low-level infrastructure harder to justify.
+- Hired people with firefighting/disaster-management backgrounds to run its incident handling and measurement — an outside-the-box hiring move Laurent adopted at later jobs.
+- Was where Laurent ran intern calibrations and led org-wide calibration-transparency sessions, and used his "surprise factor" review metric.
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary

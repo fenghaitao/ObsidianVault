@@ -16,6 +16,9 @@ Apple is a multinational technology company known for consumer electronics, soft
 - The example illustrates the heuristic that the team and product you're on heavily influences promotion potential
 - The counterpoint was that even on a less prominent product, you can find ways to have cross-team impact (e.g., improving real-time audio in the OS to benefit GarageBand)
 
+- Laurent worked at Apple earlier in his career, before specializing in developer productivity ([[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]]).
+- Kim Scott (author of Radical Candor) previously helped train managers at Apple ([[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]]).
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary

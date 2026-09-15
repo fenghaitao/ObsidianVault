@@ -21,6 +21,9 @@ Facebook is the social network (now part of Meta) where Jay Jo interned and wher
 - Fiona Fung joined Facebook in 2015 to build Facebook Marketplace; the early Marketplace ran weekly sprints with the first version on www.fas.com, and the office culture was captured by a poster, "nothing at Facebook is somebody else's problem" — everyone leans in to help regardless of role
 - Fiona found Facebook felt much smaller than Microsoft and far faster (weekly vs ~4-week sprints); over time its culture changed as it grew
 
+- Facebook's early (~2011-12) "data science" team of ~20 statisticians and early-ML researchers built the A/B testing and data-measurement infrastructure; the "data scientist" title was later reused for product analytics around 2014.
+- Early Facebook culture was bottoms-up with a heavy hackathon culture — Adrien Friggeri did about six hackathons in his first six months ([[summary-20260112 - New Grad to Principal Engineer (IC8) at Meta (Career Story) ｜ Adrien Friggeri]]).
+
 ## Related
 
 - [[Rome]] — joined Facebook ~2009 as a frontline manager

@@ -95,3 +95,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-14] backfill | Registered 248 previously-unindexed wiki pages
 - **Changes**: updated [[index.md]] — added 10 source summaries, 112 entities, and 126 concepts that existed on disk but were not registered
 - **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Adrien Friggeri (Meta IC8) episode
+- **Changes**: created [[summary-20260112 - New Grad to Principal Engineer (IC8) at Meta (Career Story) ｜ Adrien Friggeri]], created [[Adrien Friggeri]], created [[Bento]], created [[Clubhouse]], created [[Ray-Ban Stories]], created [[Kevin Systrom]], created [[Mike Krieger]], created [[Alex Schultz]], created [[Consensus Building]], updated [[Meta]], updated [[Facebook]], updated [[Instagram]], updated [[Apple]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Laurent (Airbnb staff/manager) episode
+- **Changes**: created [[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]], created [[Laurent]], created [[Kim Scott]], created [[Calibration]], created [[Surprise Factor]], created [[Situational Leadership]], created [[Developer Productivity]], created [[Senior to Staff Promotion]], updated [[Airbnb]], updated [[Stripe]], updated [[Instagram]], updated [[Apple]], updated [[Google]], updated [[Scott Renfro]], updated [[Meta]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Igor (Meta demotion) episode
+- **Changes**: created [[summary-20260123 - Meta Senior Staff (IC7) Eng's Honest Demotion Story]], created [[Igor]], created [[Tensor Processing Unit (TPU)]], created [[Cruise]], created [[Intel]], created [[Ramp-Up]], updated [[Google]], updated [[Meta]], updated [[IBM]], updated [[index.md]]
+- **Conflicts**: none

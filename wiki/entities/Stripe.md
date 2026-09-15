@@ -24,6 +24,11 @@ Stripe is a financial technology company providing payment processing infrastruc
 - Singleton continued "engineeration" quarterly and used friction logs to steer developer-productivity investment
 - Polished error messages (e.g. "not found, but an object with that ID exists in the other mode") are remembered by customers and exemplify "meticulous in your craft"
 
+### Laurent's Stripe Tenure ([[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]])
+- Joined as tech lead of build/test/tooling, scaling the organization from ~35 to ~140 engineers.
+- Had a strong data/metrics culture; Laurent reframed measuring developer output from lines-of-code/PR count to the "journey of a change" (time and phases from branch to merge).
+- Influenced by asking questions rather than dictating, embedded in teams to build credibility, and scaled further through office hours.
+
 ## Related
 
 - [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary

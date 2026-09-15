@@ -70,6 +70,16 @@ Meta (formerly Facebook) is a multinational technology conglomerate and one of t
 - Treated hands-on debugging of hard-to-reproduce Horizon OS issues as her "maker time" (e.g., floor-height bugs)
 - Left a happy VR role at Meta to join Anthropic, drawn by its mission-driven culture
 
+### Adrien Friggeri's Meta Chapter ([[summary-20260112 - New Grad to Principal Engineer (IC8) at Meta (Career Story) ｜ Adrien Friggeri]])
+- Joined Facebook's ~20-person "data science" team in 2011-12, which built the A/B testing and data-measurement infrastructure before the "data scientist" title was repurposed for product analytics around 2014.
+- Built Bento, Meta's Jupyter-based notebook platform, seeding adoption through new-hire boot camp/data camp and legacy-system support.
+- Pivoted from "the data guy" to product/hardware, leading all user "experiences" on an unreleased smart-glasses line, and earned IC8 (Principal Engineer) by pairing impact with consensus built ahead of calibration.
+
+### Igor's Meta Experience ([[summary-20260123 - Meta Senior Staff (IC7) Eng's Honest Demotion Story]])
+- Joined as a senior staff (E7) and felt Meta's senior space was crowded; Meta had begun managing out the lowest ~10% of performers.
+- Meta had no process for demoting an IC within the same job family, which surfaced when he asked to drop from E7.
+- Described Meta's culture as setting arbitrary, aggressive deadlines with constant leadership status updates that people eventually dismissed.
+
 ## Related
 
 - [[Fiona Fung]] — VR/AR leader at Meta, then left for Anthropic

@@ -20,6 +20,8 @@ Scott Renfro is a high-level individual contributor at Meta whom Philip Su descr
 - He was capable both personally of guaranteeing a huge scope of work and being a force multiplier for the teams he was on
 - Philip described him as a "slam dunk case of someone who deserved to be rewarded well" for his work
 
+- Introduced Laurent to "situational leadership" while leading Facebook's bootcamp program, after one of Laurent's bootcamp mentees stalled and the program lead suggested the model ([[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]]).
+
 ## Related
 
 - [[Meta]] — company where Scott worked

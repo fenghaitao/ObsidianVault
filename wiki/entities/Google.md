@@ -46,6 +46,12 @@ Google is a multinational technology company focused on search, online advertisi
 - Attwell reports (verbally, not in writing) that around a decade ago Google had a policy of keeping as many smart people on staff as possible — even if idle — so competitors couldn't have them; several managers and a VP told him this
 - He cites DeepMind as a team working hard now because of the existential (AI) threat to Alphabet
 
+### Igor's Google Tenure ([[summary-20260123 - Meta Senior Staff (IC7) Eng's Honest Demotion Story]])
+- Spent ~14.5 years at Google, rising from L3 to L7 (senior staff); left for Cruise and then Meta, then returned to Google at L6 (one level down).
+- His L7 promotion came from leading ads machine-learning training infrastructure onto first-generation TPUs.
+- Grew disillusioned after Google shut its Atlanta office with little empathy — "at the end of the day I'm just a cell in the spreadsheet."
+- Recalls Google (a decade ago) reserving real deadline pressure for genuine exceptions, versus Meta's artificial deadlines.
+
 ## Related
 
 - [[summary-20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story)]] — source summary

@@ -31,6 +31,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — Rome's path from IBM research and Meta manager to Square director, Snapchat senior director, and HeyGen CTO, anchored on a north-star goal.
 - [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — Ryan L. Peterman's compilation of the year's best "advice to your younger self" from CTOs and distinguished engineers.
 - [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — Fiona Fung on Microsoft vs Facebook engineering cultures, mentoring vs coaching, dogfooding, and kindness at Anthropic.
+- [[summary-20260112 - New Grad to Principal Engineer (IC8) at Meta (Career Story) ｜ Adrien Friggeri]] — Adrien Friggeri's new-grad-to-IC8 path through Instagram A/B testing, the Bento notebook platform, Clubhouse, and Meta smart glasses.
+- [[summary-20260119 - Airbnb Staff Eng： Untold Rules of Calibrations and How To Not Get Stuck at Senior]] — Laurent on the untold rules of calibrations, the senior-to-staff mindset shift, and measuring developer productivity.
+- [[summary-20260123 - Meta Senior Staff (IC7) Eng's Honest Demotion Story]] — Igor's honest account of asking Meta for a demotion and returning to Google at L6 to keep writing code.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -253,6 +256,19 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Yuri Lusco]] — Yuri Lusco was a rising star professor at Stanford University whose research lab Rahul Pandey joined as a research assistant.
 - [[Zach Wilson]] — Zach Wilson is a data engineer and content creator who worked at Netflix, Airbnb, and Amazon.
 - [[Zillow]] — Zillow is an online real estate marketplace company.
+- [[Adrien Friggeri]] — Meta Principal Engineer (IC8) who brought A/B testing to Instagram and built Bento.
+- [[Alex Schultz]] — Meta's CMO and former head of analytics.
+- [[Bento]] — Meta's Jupyter-based notebook platform Adrien Friggeri built.
+- [[Clubhouse]] — Audio social app where Adrien Friggeri built the data stack after Meta.
+- [[Cruise]] — Self-driving company where Igor ramped up successfully.
+- [[Igor]] — Senior staff engineer (Google, Cruise, Meta) who chose a demotion to keep coding.
+- [[Intel]] — Semiconductor company in Igor's TPU timeline.
+- [[Kevin Systrom]] — Instagram co-founder and CEO.
+- [[Kim Scott]] — Author of Radical Candor, recommended by Laurent.
+- [[Laurent]] — Staff engineer and manager (Airbnb, Stripe, Instagram, Meta) on calibrations.
+- [[Mike Krieger]] — Instagram co-founder and CTO.
+- [[Ray-Ban Stories]] — Meta's Ray-Ban smart glasses Adrien Friggeri worked on.
+- [[Tensor Processing Unit (TPU)]] — Google's ML accelerator that Igor's L7 work targeted.
 
 ## Concepts
 
@@ -476,6 +492,13 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Workflow Optimization]] — Workflow Optimization is the practice of dialing in your development environment, key bindings, tooling, and processes to maximize coding speed and efficiency.
 - [[Working Through Others]] — Working Through Others is the ability to achieve impact by empowering and directing other engineers rather than doing all the work yourself.
 - [[Writing as Leverage]] — Writing as Leverage is the idea that strong writing ability is a superpower for software engineers, providing outsized influence and reach.
+- [[Calibration]] — The hidden, local rules that govern performance ratings and promotions.
+- [[Consensus Building]] — Pre-building agreement with champions before a promotion decision.
+- [[Developer Productivity]] — Measuring output by the journey of a code change, not lines of code.
+- [[Ramp-Up]] — Climbing from zero knowledge to full productivity at a new level.
+- [[Senior to Staff Promotion]] — The shift to independently finding, pitching, and solving problems.
+- [[Situational Leadership]] — Matching coaching style to a learner's motivation and mastery.
+- [[Surprise Factor]] — Revealing expected ratings simultaneously; any mismatch signals a gap.
 
 ## Syntheses
 
