@@ -2,7 +2,7 @@
 title: "Down-Leveling"
 type: concept
 tags: [career, interviewing, FAANG, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md"]
 last_updated: 2026-09-14
 ---
 
@@ -27,6 +27,12 @@ Down-Leveling is the practice of offering a candidate a lower title/level than t
 - "When in doubt, go low": joining Meta or Google as a 5 and executing as a 6 earns better bonuses, multipliers, and RSU refreshes; an over-leveled hire has no mechanism to fix it except leaving.
 - Netflix's lack of levels made compensation un-rationalizable — a 2x market offer for a great engineer couldn't be justified in context, which is why he argues levels are needed at scale.
 
+### Austin McDonald on Leveling Mechanics
+- Because Meta levels aren't public, sourcers rely on years of experience and previous title; a "principal architect" or "vice president" outside FAANG is "downloaded significantly" on entry.
+- Austin's example: a manager supporting 50–75 people at a non-FAANG company might be downleveled to a team of 8–10 at Meta.
+- To avoid being placed into a lower level, candidates should anchor "tell me about yourself" to scope early and, if mis-bucketed, ask the recruiter directly to be evaluated at the target level — the committee can uplevel as well as downlevel.
+- Push to complete the higher level's evaluation (e.g., both system-design interviews) up front so the committee has the signal it needs rather than adding follow-ups late ([[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]]).
+
 ## Related
 - [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
 - [[David Ronca]] — his "when in doubt, go low" advice
@@ -44,3 +50,6 @@ Down-Leveling is the practice of offering a candidate a lower title/level than t
 - [[Packaging]] — the skill to prevent down-leveling
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
 - [[Boris Cherny]] — under-leveling as an advantage
+- [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]] — source summary
+- [[Austin McDonald]] — years-of-experience/previous-title mechanics
+- [[Leveling Rubric]] — the rubric that determines the level

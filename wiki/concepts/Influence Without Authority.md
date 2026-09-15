@@ -2,7 +2,7 @@
 title: "Influence Without Authority"
 type: concept
 tags: [career, leadership, soft-skills, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md"]
 last_updated: 2026-09-14
 ---
 
@@ -35,6 +35,11 @@ Influence Without Authority is the ability to lead and direct others without hav
 - "Do the work for them": show up having already completed the migration so they only have to sign off — much easier than asking them to do the work.
 - Allies help: engineers who carry weight (Lee Byron, Clement Gendmer, Greg Mech) persuade in ways you can't; find compromises to bring people "into the tent" (adopting Panels' data-source tech).
 
+### Michael Bolin on Ill-Chosen Influence
+- As an E8 who primarily wrote code, Bolin learned that writer-style ICs must spend at least some time influencing to reach their expected impact — but his first attempts came down "way too hard."
+- When Microsoft acquired GitHub, he grew anxious (correctly, as it turned out, that VS Code would kill Atom) and pushed people despite them not wanting "their cheese moved"; the result was a delayed promotion and "a little bit of a talking-to."
+- A later coaching process helped him recognize his triggers and choose the venue: if he can't have the conversation from a good place, he goes to the person's manager rather than going "like a bull in a china shop" to the engineer ([[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]]).
+
 ## Related
 - [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — source summary
 - [[Adam Ernst]] — his adoption playbook
@@ -49,3 +54,5 @@ Influence Without Authority is the ability to lead and direct others without hav
 - [[Joakim Recht]] — described seeding ideas
 - [[Uber]] — company context
 - [[Credibility]] — what hands-on influence builds
+- [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]] — source summary
+- [[Michael Bolin]] — pushing too hard and learning to pick the venue

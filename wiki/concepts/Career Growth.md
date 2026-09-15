@@ -2,7 +2,7 @@
 title: "Career Growth"
 type: concept
 tags: [career, engineering, progression, FAANG]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md"]
 last_updated: 2026-09-14
 ---
 
@@ -100,6 +100,24 @@ Career Growth in the context of software engineering refers to the progression t
 - For new grads: master the tools of your time (now AI tools); new grads can outpace senior engineers on new tools the way he stood out on iOS as a junior
 - "If you want to go fast, go small" — small teams move faster, and demonstrated delivery ("put me on a project and I'll do a good job") opened the door to each next big project
 
+### Bryan Cantrill's Third Path
+- When asked how to become a Distinguished Engineer, Cantrill steers toward a "third path": inquiry the goal itself — if the goal is the title, "that's a recipe for a midlife crisis"; the title "doesn't give you meaning."
+- His advice is to find what drives meaning for you and "introduce you to some miserable DEs / miserable wealthy people" to disabuse you of pursuing external validation.
+- Financial independence as a destination is equally hollow if it defers the meaningful work; the dot-com bust showed the people who stayed in tech were there for the work, not the money.
+- He would rather be under-promoted than over-promoted, and says the meaningful moments were never the promotion — always the significant body of work, the hard bug, or the impossible thing done with a team ([[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]]).
+
+### Michael Bolin's Three-Step Plan for Impact
+- Bolin's career-note algorithm: (1) figure out what you really like to do, (2) figure out what your employer really values, (3) find that intersection and lean into it.
+- At Google he failed step 2 — he worked hard on things that mattered to him (Calendar, Tasks, Closure) but weren't AdWords-level important to Google.
+- At Facebook he got the intersection right: he was in the dev-tools/mobile lane the company needed (Buck, Nuclide, Eden/Miles), and the E8 promotion validated not just technical growth but learning to do work "in line with your employer."
+- He warns against the "hero quest" — ego-driven attempts to single-handedly fix problems outside your strengths — and to stay inside the subset of work you genuinely enjoy ([[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]]).
+
+### Austin McDonald on Creating Scope
+- The best career advice Austin received was "if you want this [bigger role], create the [bigger] scope" — don't wait for someone to hand you the opportunity.
+- The test: what would your VP say about your project to their peers? If your VP wouldn't talk about it, ask "am I doing the right thing?"
+- Growing means doing something different, not just the same thing better: work backwards from what you want leadership to say about what you accomplished, then go figure out how to do that thing.
+- His own M2 promotion built that scope across the iOS/Android recruiting pipelines, improved diversity hiring via better interview prep, and raised candidate-data quality ([[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]]).
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -146,3 +164,11 @@ Career Growth in the context of software engineering refers to the progression t
 - [[Ryan Olson]] — advice from his Instagram career
 - [[Small Teams]] — go fast, go small
 - [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary
+- [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary (third path)
+- [[Bryan Cantrill]] — meaning over titles
+- [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]] — source summary (three-step plan)
+- [[Michael Bolin]] — the three-step plan and the hero quest
+- [[Hero Quest]] — the ego trap he warns against
+- [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]] — source summary (creating scope)
+- [[Austin McDonald]] — creating scope
+- [[Scope Creation]] — the advice he received

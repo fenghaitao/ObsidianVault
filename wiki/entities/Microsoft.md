@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: entity
 tags: [company, FAANG, tech, Seattle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
 last_updated: 2026-09-14
 ---
 
@@ -44,6 +44,11 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - Gates later instituted a company-wide hiring freeze to kill low-value projects and reassign people.
 - Ronca argues Microsoft introduced engineering-leadership concepts that didn't exist before, later inherited by Amazon, Google, Netflix, and Meta.
 
+### Bryan Cantrill's Early-Career View of Microsoft
+- Cantrill refused to work at Microsoft "as a point of principle," believing Bill Gates "robbed me of my childhood" with DOS/Windows software that lacked the memory protection he later found on Unix.
+- He characterizes 1990s Microsoft as "a compiler company, not an operating systems company" — dominant in operating systems but with compilers in its DNA.
+- He credits Microsoft with perfecting "vaporware" (announcing a forthcoming OS feature that never ships) and cites the Netscape case findings of fact as judicial confirmation of anticompetitive behavior ([[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]]).
+
 ## Related
 - [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
 - [[Bill Gates]] — the NT Server and hiring-freeze stories
@@ -66,3 +71,5 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - [[Visual Studio]] — the IDE she built with itself
 - [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
 - [[Meta]] — where a former Microsoft engineer joined Evan's team
+- [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary
+- [[Bryan Cantrill]] — who refused to work at Microsoft on principle

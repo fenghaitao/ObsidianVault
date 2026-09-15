@@ -2,7 +2,7 @@
 title: "Anthropic"
 type: entity
 tags: [company, AI, LLM]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md"]
 last_updated: 2026-09-14
 ---
 
@@ -24,6 +24,10 @@ Anthropic is the AI lab behind the Claude model family and Claude Code.
 - Onboarding confirmed the mission is core to the culture and DNA, "not just a slogan"
 - The Claude Code team's loop — idea → build → launch internally → gather dogfooding feedback → launch publicly — is a "rapid iteration loop" that she says may feel even faster than her Facebook Marketplace days
 
+### Austin McDonald on Anthropic's Hiring Signal
+- Anthropic's behavioral interview assesses a signal called "hold light and shade": the ability to understand both the positive and negative implications of AI for the future.
+- When telling a story about leveraging AI to Anthropic, candidates should mention how they considered potential negative implications of the project and how they went about assessing and mitigating them — without that, interviewers won't feel comfortable hiring you ([[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]]).
+
 ## Related
 
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary
@@ -35,3 +39,5 @@ Anthropic is the AI lab behind the Claude model family and Claude Code.
 - [[ChatGPT]] — the product that drew him to AI
 - [[OpenAI]] — a peer lab
 - [[Meta]] — where Boris previously worked
+- [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]] — source summary (hiring signal)
+- [[Austin McDonald]] — "hold light and shade" signal

@@ -2,7 +2,7 @@
 title: "Stack Ranking"
 type: concept
 tags: [performance, management, amazon, meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250801 - Amazon VP： Stack Ranking & PIPs, Working With Bezos, His Promotions ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
 last_updated: 2026-09-14
 ---
 
@@ -21,6 +21,13 @@ Stack Ranking is a performance management approach where employees are ranked ag
 - For people near the median, the repeated cuts become concerning — they'd be fine in any other year
 - Middle management is particularly vulnerable since 6% of 4-8 managers doesn't make statistical sense
 - The "low performer" label is problematic — Steve argues it's more about culture mismatch than actual performance
+
+### Bryan Cantrill's Perspective
+- Calls stack ranking "organizational cancer" and "very, very bad news"; terminating a bottom percentage is "death" and a "wall-to-wall terrible idea."
+- The core problem: stack ranking "teaches you that your team are adversaries," when "teams do extraordinary things" and the team — not the individual — should win or lose.
+- Sun's forced grade distribution (superlative / excellent / good, roughly 10/20/70 [percent]) created its own perverse incentives: managers kept dead weight on their teams as "fodder" to throw into the wood chipper rather than giving high performers the top grade.
+- Sun's superlative grade forced a promotion, so managers would hand out apologetic "excellent" grades to avoid promoting someone too soon after a prior promotion.
+- Intel famously named its version "rank and yank" ([[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]]).
 
 ### Ethan Evans' Perspective
 - Calls Amazon's ~5-7% annual "unregretted attrition" a device that forces managers to have hard conversations they would otherwise avoid
@@ -44,3 +51,5 @@ Stack Ranking is a performance management approach where employees are ranked ag
 - [[Ethan Evans]] — VP perspective on stack ranking
 - [[summary-20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai]] — source summary (quotas and manager dynamics)
 - [[Stefan Mai]] — quotas of 7-20% and the "egg on your face" reversal
+- [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary (organizational cancer)
+- [[Bryan Cantrill]] — Sun's grade distribution and perverse incentives

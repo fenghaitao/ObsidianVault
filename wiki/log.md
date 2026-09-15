@@ -131,3 +131,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-14] ingest | Ingested Leslie Lamport (Turing Award) episode
 - **Changes**: created [[summary-20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport]], created [[Leslie Lamport]], created [[Edsger Dijkstra]], created [[Butler Lampson]], created [[Whitfield Diffie]], created [[Xerox PARC]], created [[DEC Systems Research Center]], created [[SRI International]], created [[LaTeX]], created [[Turing Award]], created [[Paxos]], created [[Raft]], created [[Bakery Algorithm]], created [[Byzantine Generals Problem]], created [[Logical Clocks]], created [[State Machine]], created [[Distributed Systems]], created [[Abstraction]], updated [[Writing as Communication]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Bryan Cantrill (Distinguished Engineer) episode
+- **Changes**: created [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]], created [[Bryan Cantrill]], created [[Sun Microsystems]], created [[Distinguished Engineer]], created [[Fishworks]], created [[Greg Papadopoulos]], created [[Jeff Bonwick]], created [[Joyent]], created [[Kevin Clark]], created [[Nvidia]], created [[Oracle]], created [[Oxide]], created [[QNX]], created [[Scott McNealy]], created [[Solaris]], created [[Steve Tuck]], created [[AWS]], created [[Financial Independence]], updated [[Amazon]], updated [[Jeff Bezos]], updated [[Microsoft]], updated [[Performance Review]], updated [[Stack Ranking]], updated [[Career Growth]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Michael Bolin (OpenAI Codex tech lead) episode
+- **Changes**: created [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]], created [[Michael Bolin]], created [[Codex]], created [[Eden]], created [[Miles]], created [[Nuclide]], created [[Adam Simpkins]], created [[Brian O'Sullivan]], created [[Wes Furlong]], created [[Hanson Wong]], created [[John Perlow]], created [[HTC]], created [[Google Calendar]], created [[VS Code]], created [[Xcode]], created [[Hero Quest]], created [[Monorepo]], created [[Open Source]], updated [[Buck]], updated [[Facebook]], updated [[GitHub]], updated [[Google]], updated [[OpenAI]], updated [[Code Review Culture]], updated [[Influence Without Authority]], updated [[Career Growth]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-14] ingest | Ingested Austin McDonald (Meta hiring lead) episode
+- **Changes**: created [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]], created [[Austin McDonald]], created [[Hiring Committee]], created [[Leveling Rubric]], updated [[Meta]], updated [[Anthropic]], updated [[OpenAI]], updated [[Hello Interview]], updated [[Behavioral Interviewing]], updated [[Down-Leveling]], updated [[Interviewing]], updated [[Work-Life Balance]], updated [[Career Growth]], updated [[index.md]]
+- **Conflicts**: none

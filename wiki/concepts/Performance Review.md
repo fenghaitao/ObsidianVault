@@ -2,7 +2,7 @@
 title: "Performance Review"
 type: concept
 tags: [career, engineering, FAANG, management]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
 last_updated: 2026-07-21
 ---
 
@@ -27,6 +27,12 @@ Performance Review (called PSC at Meta) is the formal evaluation process at larg
 - Steve noted that in recent years, without backfills, the repeated cuts start cannibalizing solid performers who would have been fine in any other year
 - The way to survive stack ranking: explicitly ask your manager about expectations and whether you're meeting them, ideally early in the cycle — "bad news delivered early is just news; bad news delivered late is terrible news"
 
+### Bryan Cantrill's Perspective (Sun Microsystems)
+- Argues formalized performance review never made him perform better: "performance review is not about you performing better, it's about us measuring your performance" — but measurement should not be the goal.
+- The annual cadence felt broken: self-reviews produced manager reviews that looked "stunningly like my self review albeit with great grammatical errors introduced."
+- Promotions were never the highlight of his progression — significant bodies of work, nailing a hard bug, or doing the impossible with a team were "catalytic"; review, even positive ones, was not uplifting.
+- Sun's grades were superlative / excellent / good; a superlative grade forced a promotion, so managers apologized for giving "excellent" to extraordinary work they couldn't yet reward with a promotion ([[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]]).
+
 ## Related
 
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — source summary
@@ -40,3 +46,5 @@ Performance Review (called PSC at Meta) is the formal evaluation process at larg
 - [[Sustainability Of Performance]] — why ratings alone don't guarantee promotion
 - [[Career Growth]] — the broader context of performance evaluation
 - [[Bad News Early]] — surfacing performance issues early
+- [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary
+- [[Bryan Cantrill]] — measurement-vs-growth critique

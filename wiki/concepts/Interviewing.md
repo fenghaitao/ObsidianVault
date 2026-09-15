@@ -2,7 +2,7 @@
 title: "Interviewing"
 type: concept
 tags: [career, engineering, FAANG, job-search]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251121 - Atoms CTO： Intelligence, Regrets, Travis Kalanick Stories ｜ Brian Attwell.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md"]
 last_updated: 2026-09-14
 ---
 
@@ -50,6 +50,15 @@ Interviewing is the process of evaluating and being evaluated for a job. Zach Wi
 - Hired a train-automation systems engineer everyone else was lukewarm about; she "absolutely killed it" on their systems-integration problem.
 - "You interview to the person, not to the process" — a method that works at small companies but doesn't scale to Meta/Google volume.
 
+### Austin McDonald on Hiring Mechanics and Leveling
+- Initial leveling is set mostly by years of experience and previous title — sourcers look at your LinkedIn, years of experience, and past companies, so a "principal architect" outside FAANG may be significantly downleveled.
+- Meta's loop structure encodes level: staff requires two system-design interviews, and principal/distinguished add more behavioral interviews plus a project deep-dive.
+- Every stage is evaluative, including the recruiter's "just a little chat" call and the final "do you have questions" — "always be closing for sure"; the tell-me-about-yourself answer is where you anchor your scope.
+- What the data shows: interviewers' confidence level (not pass/fail counts) correlates with future performance, and interviewing is a distinct skill from doing the job — so it is worth practicing.
+- Senior-plus candidates should rebalance prep toward behavioral and system design; coding is a check-box that can be flubbed at staff/principal/manager levels where day-to-day coding is discounted.
+- First impressions carry outsized weight (social-science estimate ~40% of decisions formed in the first 10–15 minutes); candidates who fail early usually choose the wrong stories, reveal they haven't worked at the target level, or communicate poorly.
+- Referrals matter most on the bubble; a senior (VP/director) referral who worked with you directly can turn a borderline reject into a follow-up, but won't override a unanimous no ([[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]]).
+
 ## Related
 - [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
 - [[David Ronca]] — his hiring philosophy
@@ -76,3 +85,7 @@ Interviewing is the process of evaluating and being evaluated for a job. Zach Wi
 - [[Coding Interview]] — LeetCode-style loop he struggled with
 - [[Mis-Leveling]] — underleveled at hire
 - [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary
+- [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]] — source summary (hiring mechanics)
+- [[Austin McDonald]] — Meta hiring committee chair
+- [[Hiring Committee]] — the body making hire/level decisions
+- [[Leveling Rubric]] — how levels are calibrated

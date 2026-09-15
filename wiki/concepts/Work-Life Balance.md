@@ -2,7 +2,7 @@
 title: "Work-Life Balance"
 type: concept
 tags: [career, well-being, engineering, lifestyle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250822 - Behind the Scenes of this Podcast So Far (25,000 Sub Special).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md"]
 last_updated: 2026-09-14
 ---
 
@@ -52,6 +52,11 @@ Work-Life Balance is the equilibrium between professional demands and personal w
 - Advice: don't wait for cancer or a heart attack — bake balance in early, take vacations, and force the org to survive without you.
 - Meta's rocking-horse poster — "don't mistake motion for progress" — and his corollary: clarify with your boss the few things that matter and say no to the rest.
 
+### Austin McDonald's Reflection
+- His main regret is "the anxiety that I put into the teams and the anxiety that I put into myself" — at the end of life nobody says "I wish I had gotten a few more percent out of that engagement number."
+- He left big tech to support his wife's business, accepting lower pay in exchange for more time with his kids and more volunteering; being honest about that trade-off up front let him return to the decision whenever cash-flow got tight.
+- The harder lesson: he wasn't always honest with himself about trade-offs — he wanted the outcome (promotions, status) without fully doing what others did to get there, which bred frustration and bitterness until he anchored to "what do I want my kids to say about me in 10 years."
+
 ## Related
 - [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — source summary
 - [[David Ronca]] — his cancer story and re-set on balance
@@ -76,6 +81,8 @@ Work-Life Balance is the equilibrium between professional demands and personal w
 - [[Asian Dad Energy]] — semi-retirement and mood recovery
 - [[Layoffs]] — the trigger context
 - [[summary-20260130 - Honest Big Tech Layoff Story After 25 Year Career, Anxiety, and Untold Reality]] — source summary
+- [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]] — source summary
+- [[Austin McDonald]] — regret over anxiety and the trade-off honesty
 
 ### UCLA Talk: Work Is Not Everything
 - Ricky's closing advice: "Work is not everything." The happiest moments of his 20s were not promotions but being at Coachella "really drunk and my shirt's off and having fun with my friends"

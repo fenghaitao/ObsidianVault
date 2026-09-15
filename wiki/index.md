@@ -40,6 +40,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst]] — Adam Ernst on influencing without authority, the GraphQL/React Native journey, and lessons from Meta failures.
 - [[summary-20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories]] — David Ronca on Netflix's freedom-and-responsibility culture, leetcode regrets, and honest hiring.
 - [[summary-20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport]] — Leslie Lamport on thinking clearly, Paxos vs Raft, and working with Dijkstra.
+- [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — Bryan Cantrill on a 30-year career from Sun to Oxide, why stack ranking is "organizational cancer," and competing with Bezos.
+- [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]] — Michael Bolin from Buck and Nuclide to OpenAI Codex, on building tools he loves and the rise of AI coding agents.
+- [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]] — Austin McDonald on hiring and leveling committees, avoiding downleveling, and passing OpenAI and Anthropic interviews.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -330,6 +333,37 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[SRI International]] — Research institute.
 - [[LaTeX]] — Typesetting system created by Leslie Lamport.
 - [[Turing Award]] — ACM's highest honor in computer science.
+- [[AWS]] — Amazon Web Services, the cloud whose economics Cantrill critiques.
+- [[Bryan Cantrill]] — Distinguished Engineer and Oxide co-founder; the episode's guest.
+- [[Distinguished Engineer]] — Top individual-contributor title whose promotion path Cantrill analyzes.
+- [[Fishworks]] — Sun storage group Cantrill was part of.
+- [[Greg Papadopoulos]] — Sun Microsystems CTO during Cantrill's tenure.
+- [[Jeff Bonwick]] — Sun engineer who created ZFS.
+- [[Joyent]] — Cloud company where Cantrill worked after Sun.
+- [[Kevin Clark]] — Sun engineer who helped convince Cantrill to join.
+- [[Nvidia]] — Chipmaker referenced in Cantrill's episode.
+- [[Oracle]] — Company whose acquisition of Sun Cantrill describes as "invaded."
+- [[Oxide]] — Rack-scale computer company co-founded by Cantrill and Steve Tuck.
+- [[QNX]] — Real-time operating system referenced in Cantrill's episode.
+- [[Scott McNealy]] — Sun Microsystems co-founder and CEO.
+- [[Solaris]] — Sun operating system Cantrill worked on.
+- [[Steve Tuck]] — Oxide co-founder with Cantrill.
+- [[Sun Microsystems]] — Company where Cantrill's career and philosophy formed.
+- [[Adam Simpkins]] — Facebook engineer who built the Eden virtual file system.
+- [[Brian O'Sullivan]] — Meta manager who convened the Eden VFS team.
+- [[Codex]] — OpenAI's coding agent Michael Bolin tech-leads.
+- [[Eden]] — Facebook's virtual file system for monorepo scaling.
+- [[Google Calendar]] — Google product Bolin worked on.
+- [[HTC]] — Phone maker in Facebook's forked-Android phone project.
+- [[Hanson Wong]] — Miles contributor now on the Codex team.
+- [[John Perlow]] — Facebook engineer who championed Buck adoption.
+- [[Michael Bolin]] — OpenAI Codex tech lead and Buck creator; the episode's guest.
+- [[Miles]] — Fuzzy file-search index Bolin built over the monorepo.
+- [[Nuclide]] — Facebook's desktop React-based IDE.
+- [[VS Code]] — Code editor that won the IDE battle Bolin describes.
+- [[Wes Furlong]] — Meta engineer on the Eden virtual file system.
+- [[Xcode]] — Apple IDE that Nuclide aimed to replace.
+- [[Austin McDonald]] — Former Meta hiring committee member; the episode's guest.
 
 ## Concepts
 
@@ -580,6 +614,12 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[State Machine]] — Abstraction modeling computation as states and transitions.
 - [[Distributed Systems]] — Systems whose components coordinate across networked computers.
 - [[Abstraction]] — Hiding complexity behind a simpler interface; central to Lamport's thinking.
+- [[Financial Independence]] — Reaching a point where economic necessity no longer drives career choices.
+- [[Hero Quest]] — Overreaching on a grand solo project after a promotion instead of staying in your lane.
+- [[Hiring Committee]] — The group that decides hiring and leveling from interview packets.
+- [[Leveling Rubric]] — The structured criteria committees use to assign seniority.
+- [[Monorepo]] — A single shared code repository for an entire company.
+- [[Open Source]] — Releasing tools openly; Bolin's rationale for sharing engineering work.
 
 ## Syntheses
 

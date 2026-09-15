@@ -2,7 +2,7 @@
 title: "Amazon"
 type: entity
 tags: [company, FAANG, tech, e-commerce, cloud]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md"]
 last_updated: 2026-09-14
 ---
 
@@ -38,6 +38,12 @@ Amazon is a multinational technology company focused on e-commerce, cloud comput
 - Ryan floundered at Amazon for the first 8 months, realizing he wasn't learning and didn't know what growth to the next level looked like, which motivated him to apply broadly and end up at Meta
 - In the 2025 advice compilation, a guest who "always preferred high growth" recalled Amazon growing ~100-fold (from roughly 10,000 people to a million) with revenue up ~80x while he was there, calling his career ladder "an escalator" that moved up beneath him
 
+### Bryan Cantrill on AWS / Amazon
+- Amazon "hit the mother lode" by letting S3 and EC2 be developed and realizing it was cloud-first before anyone else; there was luck involved, but the execution was relentless.
+- During the ~2015 re:Invent era every event brought a price cut and new services, which made the cloud look like a terrible business to would-be competitors.
+- Amazon did not break out AWS revenue — "we're not talking about that" — obscuring how good the margins actually were; having competed with it at Joyent, Cantrill says "the margins on this thing are great."
+- Cantrill calls Jeff Bezos "an apex predator in capitalism" for pressing Amazon's advantage rather than milking it: "I'm going to make it so no one can compete with me... I'm going to do it by giving a great product at a reasonable price." He notes re:Invent no longer offers the same "can't live without" new services and price cuts ([[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]]).
+
 ## Related
 
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — source summary
@@ -63,3 +69,5 @@ Amazon is a multinational technology company focused on e-commerce, cloud comput
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
 - [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (high-growth escalator)
+- [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary (AWS economics)
+- [[Bryan Cantrill]] — the apex-predator framing

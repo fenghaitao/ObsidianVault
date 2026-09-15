@@ -2,15 +2,20 @@
 title: "Buck"
 type: entity
 tags: [tool, build-system, Meta, Android]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md"]
 last_updated: 2026-09-14
 ---
 
 ## Definition
 
-Buck is Meta's custom-built build system used for Android compilation. Rahul Pandey noted that Meta's use of Buck was one of the significant differences from standard Android development he had to learn when joining the Portal team.
+Buck is Meta's custom-built build system used for Android compilation, created by Michael Bolin during a Facebook hackathon to fix the slow, hard-to-modularize Android build of the Facebook phone project. Rahul Pandey noted that Meta's use of Buck was one of the significant differences from standard Android development he had to learn when joining the Portal team.
 
 ## Key Information
+
+- Created by Michael Bolin as a hackathon project: the inherited contractor Android code had no modularization and an Ant-based build, and every new module required ~200 lines of XML nobody understood.
+- Bolin's speed win came from incremental caching — instead of rebuilding from scratch whenever anything changed (as the Google-style build did), Buck cached per-step results, and its simpler module definition encouraged more modules and more incremental builds.
+- He framed Buck as "an Android build system," not a company-wide takeover, and borrowed credibility from senior Android engineer John Perlow; within a year the iOS team asked to adopt it too.
+- Bolin open-sourced Buck; Uber and Airbnb adopted it, and he feels Facebook got "a little bit of credit" that helped pressure Google's internal Blaze / external Bazel effort ([[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]]).
 
 - Meta's custom build system for Android
 - Used for the Portal hardware device's Android compilation
@@ -29,3 +34,6 @@ Buck is Meta's custom-built build system used for Android compilation. Rahul Pan
 - [[Meta]] — the company that built Buck
 - [[Portal (Meta)]] — the device that used Buck
 - [[Android]] — the platform Buck was used for
+- [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]] — source summary
+- [[Michael Bolin]] — who created Buck
+- [[John Perlow]] — who early-supported Buck
