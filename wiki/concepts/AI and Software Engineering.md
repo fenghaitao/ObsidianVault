@@ -2,7 +2,7 @@
 title: "AI and Software Engineering"
 type: concept
 tags: [AI, career, engineering, future-of-work]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md"]
 last_updated: 2026-09-14
 ---
 
@@ -34,6 +34,12 @@ AI and Software Engineering examines the relationship between artificial intelli
 - Juniors should learn to find problems that matter and understand customers/business early; the most technical, deeply expert folks also become more valuable as boilerplate shrinks.
 - Seniors must get hands-on and use the new tools, or their opinions "tend to be essentially fiction"; people using agentic-powered practices have grounded views, while non-hands-on people have a poor mental model.
 
+### David J. Malan's Perspective
+- CS50 is "not about Scratch and C and Python and JavaScript... but how to solve problems"; those languages are implementation details.
+- AI is "pretty darn good already at generating code" and will absorb the un-fun parts (boilerplate, unit tests); the fun part — designing the system, UX, database design — is what he doesn't want the computer to take.
+- Reassurance to anxious students: "the world is only getting more technological," and CS enrollments have ebbed and flowed before (the dot-com bust).
+- Humans should stay in charge for now: Claude returned a ~90%-correct solution and he had to correct a hallucinated API detail; hallucination will decrease, but oversight is still needed.
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -47,3 +53,6 @@ AI and Software Engineering examines the relationship between artificial intelli
 - [[Claude Code]] — the AI coding agent he created
 - [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
 - [[Marc Brooker]] — his perspective on AI and engineering careers
+- [[summary-20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan]] — source summary (Malan)
+- [[David J. Malan]] — problem-solving over syntax
+- [[CS50]] — the course teaching problem-solving

@@ -2,7 +2,7 @@
 title: "OpenAI"
 type: entity
 tags: [company, AI, startup, tech]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md"]
 last_updated: 2026-09-14
 ---
 
@@ -27,6 +27,13 @@ OpenAI is an AI research and deployment company. Ryan mentioned it as an example
 - OpenAI's behavioral signal includes "act with humility" (growth — do you respond well to feedback and improve yourself and others) and "feel the AGI" (optimistic and positive about what AGI/AI can do for the world).
 - Candidates who are not AI-forward and excited about new AI domains read as a poor culture fit to OpenAI interviewers ([[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]]).
 
+### John Myles White on OpenAI
+- Cited OpenAI (with Anthropic) as a smaller frontier-lab startup that has had more layoff rounds than MSL.
+- Notes Statsig (which he says is essentially Meta's Deltoid) was bought by OpenAI; he does not know its current state after the acquisition.
+
+### David J. Malan on OpenAI
+- CS50's virtual "rubber duck" tutor (cs50.ai) is built on top of OpenAI's APIs (and Microsoft Azure's web API service) and is deliberately less helpful than ChatGPT.
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -40,3 +47,10 @@ OpenAI is an AI research and deployment company. Ryan mentioned it as an example
 - [[Codex]] — his product
 - [[summary-20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews]] — source summary (hiring signals)
 - [[Austin McDonald]] — "feel the AGI" signal
+- [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — source summary (John Myles White)
+- [[John Myles White]] — on Statsig's acquisition
+- [[Statsig]] — the product OpenAI acquired
+- [[Meta Superintelligence Labs]] — the lab he compared
+- [[summary-20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan]] — source summary (Malan)
+- [[CS50]] — the course using OpenAI APIs
+- [[David J. Malan]] — built the rubber duck on OpenAI APIs

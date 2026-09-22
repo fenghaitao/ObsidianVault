@@ -2,7 +2,7 @@
 title: "Engineering Culture"
 type: concept
 tags: [culture, engineering, teams, leadership, remote]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250829 - Ex-Stripe CTO： Hiring Without Leetcode, Career Growth, Coding as a Leader (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md"]
 last_updated: 2026-09-14
 ---
 
@@ -47,6 +47,12 @@ Engineering Culture refers to the shared values, practices, and norms that defin
 - The guest still writes and reviews code (2–3 pull requests per week) as a leader, because he can't speak confidently about strategy without knowing the details
 - Snapchat's culture was surprisingly similar to Facebook/Silicon Valley (move fast, done is better than perfect), partly because many early employees came from the Bay Area or Seattle
 
+### Promo Culture at Meta (John Myles White)
+- Meta's AI infra had a promotion-obsessed culture where "the only reason you do anything is because there's a clear story about how it's going to get you a promotion."
+- This led to shipping work people believed would fail to hit their promo bar, and to building systems maximally coupled to other systems to satisfy "affected 10 systems" bars.
+- PyTorch was a counterexample: people "genuinely in it for the love of the craft," which became a selection mechanism for engineers who loved engineering itself.
+- He identifies "promo culture" as "the main thing that's wrong with the engineering culture... at big tech companies."
+
 ### Fiona Fung on Microsoft vs Facebook vs Anthropic
 - Speed difference: Facebook Marketplace ran weekly sprints (first version on www.fas.com) versus Microsoft/Visual Studio's ~4-week sprints
 - Facebook felt much smaller than Microsoft and had a poster, "nothing at Facebook is somebody else's problem" — everyone leans in regardless of role
@@ -69,3 +75,6 @@ Engineering Culture refers to the shared values, practices, and norms that defin
 - [[Facebook Marketplace]] — where weekly sprints and war rooms happened
 - [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
 - [[summary-20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung]] — source summary
+- [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — source summary (John Myles White)
+- [[John Myles White]] — promo culture at Meta
+- [[PyTorch]] — the craft-focused counterexample

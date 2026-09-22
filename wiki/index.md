@@ -49,6 +49,8 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — Marc Brooker on lessons from thousands of AWS incidents and how AI is changing engineering.
 - [[summary-20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker]] — Mike Stonebraker on disagreeing with Google, the Postgres story, and the future of databases.
 - [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — Barbara Liskov on data abstraction, working with Dijkstra, and fault-tolerant distributed systems.
+- [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — John Myles White on Meta's promotion-driven culture, the oversupplied engineering labor market, and his years building Meta's A/B testing and PyTorch.
+- [[summary-20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan]] — David J. Malan on turning CS50 into a free world-class online course, memorable-moments teaching, and why C still matters in the AI era.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -425,6 +427,24 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Bob Kahn]] — Internet pioneer and DARPA program lead.
 - [[Princeton University]] — Institution in Liskov's career.
 - [[MITRE]] — Organization where Liskov worked early.
+- [[John Myles White]] — Former Meta engineering director on PyTorch and Meta Superintelligence Labs, and earlier a main developer of the Deltoid A/B testing framework.
+- [[Meta Superintelligence Labs]] — Meta's AI frontier lab where John Myles White served as engineering director.
+- [[PyTorch]] — A machine-learning framework and Meta org whose craft-focused culture contrasted with promotion-driven AI infra.
+- [[Deltoid]] — Meta's internal A/B testing framework, later re-built externally as Statsig.
+- [[Statsig]] — An experimentation product that re-built Meta's Deltoid externally, later acquired by OpenAI.
+- [[DataSwarm]] — Meta's internal workflow tool, re-built by its author as Airflow.
+- [[Airflow]] — An open-source workflow orchestration tool descended from Meta's DataSwarm.
+- [[Optimizely]] — An A/B testing company exemplifying the "productize a big-tech internal tool" playbook.
+- [[Julia (Programming Language)]] — A high-level programming language designed to run at C-like speed, which John Myles White helped build.
+- [[R (Programming Language)]] — A statistical programming language whose slowness motivated the Julia language.
+- [[Python]] — A high-level dynamically-typed language whose high-performance libraries are lower-level code underneath.
+- [[MATLAB]] — The numerical-computing language Julia was originally designed to replace.
+- [[Larry Wasserman]] — Statistician and author whom John Myles White recommends above all for learning statistics.
+- [[David J. Malan]] — Harvard professor who transformed CS50 into a free, world-class online computer-science course.
+- [[Harvard University]] — The institution where David J. Malan teaches CS50.
+- [[CS50]] — Harvard's introductory computer-science course transformed by David J. Malan into a free, world-class online course.
+- [[Brian Kernighan]] — Computer scientist who taught CS50 when David J. Malan first took it in 1996.
+- [[Khan Academy]] — A free online-learning platform David J. Malan contrasts with CS50's teaching style.
 
 ## Concepts
 
@@ -707,6 +727,12 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Liskov Substitution Principle]] — Subtypes must be substitutable for their base types.
 - [[Viewstamped Replication]] — Replication protocol from Liskov's group.
 - [[Byzantine Fault Tolerance]] — Tolerating arbitrary or malicious failures.
+- [[Engineering Labor Market]] — The supply/demand balance for engineers, which John Myles White says has flipped to oversupply.
+- [[Statistics]] — The statistical rigor of A/B testing, which John Myles White argues is often missing in review meetings.
+- [[Programming Language Design]] — The craft of language syntax and performance trade-offs, framed by White as products in a zero-sum ecosystem.
+- [[Academic Integrity]] — Honesty expectations in education, made harder to enforce as AI can now do students' homework.
+- [[Online Education]] — Distributing teaching over the internet, underused for consolidating the world's best instruction.
+- [[Teaching]] — The craft of making material memorable, centered on David J. Malan's theatrical "memorable moments."
 
 ## Syntheses
 

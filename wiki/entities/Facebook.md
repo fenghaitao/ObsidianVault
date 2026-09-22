@@ -2,7 +2,7 @@
 title: "Facebook"
 type: entity
 tags: [company, social-media, big-tech, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md"]
 last_updated: 2026-09-14
 ---
 
@@ -26,6 +26,10 @@ Facebook is the social network (now part of Meta) where Jay Jo interned and wher
 
 - Ryan Olson failed his 2011 Facebook interview from nerves (the question was later banned), but later joined Instagram (a Facebook company) at IC4 and grew to IC8; he used beta blockers to manage interview anxiety
 - Via later antitrust litigation, internal communications revealed tension between Facebook and Instagram leadership — Facebook feared Instagram cannibalizing its users, and Mark Zuckerberg's internal memo surfaced on keeping the Instagram founders
+
+### John Myles White's Facebook Chapter
+- Joined a "data science" team that was split into core data science and data science infrastructure around when he arrived; he wanted core data science but loved collaborating with the infrastructure side that owned the experimentation tools.
+- Was affiliated with the researchy division whose "Emotional Contagion in Social Networks" PNAS paper became "the absolute singular worst piece of PR for Meta" that year; the paper's author held a company-wide apologetic Q&A.
 
 ### Adam Ernst's Facebook Chapter
 
@@ -74,3 +78,6 @@ Facebook is the social network (now part of Meta) where Jay Jo interned and wher
 - [[Buck]] — the hackathon-born build system
 - [[Nuclide]] — the React-based IDE
 - [[HTC]] — the phone partner
+- [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — source summary (John Myles White)
+- [[John Myles White]] — joined the data science team
+- [[Deltoid]] — the A/B testing framework he built

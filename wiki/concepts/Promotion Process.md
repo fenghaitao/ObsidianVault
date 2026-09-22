@@ -2,7 +2,7 @@
 title: "Promotion Process"
 type: concept
 tags: [career, google, performance, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md"]
 last_updated: 2026-09-14
 ---
 
@@ -55,6 +55,13 @@ The Promotion Process at Google is the formal system for advancing engineers thr
 - He asked his director to promote him straight from IC4 to IC6; HR said the company had done that only twice before, and both times "it worked out terribly"
 - He notes promotions are an incentive system where high performers may be deliberately deferred to "dangle the carrot" and avoid successive quick promotions
 
+### John Myles White on Meta's Promo Culture
+- In AI infra, "there was not a single person... whose first and foremost goal wasn't promotion"; this was less true in data infra and absent early in his Meta career.
+- Monetization hired people out of AI infra with "a very detailed plan of work you will do in order to get promoted" — effective but "wrecked tons of teams."
+- Consequence: teams shipped work "everyone agreed... was bad" because "that's my promo bar"; the thing that develops real career skills "increasingly got decoupled from the promotions."
+- A promo bar like "ran a rollout that affected 10 other systems" causes people to build maximally coupled, unclean systems.
+- "You have to play the game. It's totally irrational not to play the game" — unless a VP shuts it down, you can't unilaterally disarm; otherwise leave that work.
+
 ### The Queue, Quotas, and Champions
 - There's a "forward-looking slate" — a queue/line of who is up next, tracked in halves (6, 12, 18, maybe 24 months) alongside the sense of "whose turn is it?"
 - At rare, expensive levels there are quotas (e.g., Google L8-to-L9 limited to a couple per half per org); earlier levels usually have no quota.
@@ -86,3 +93,6 @@ The Promotion Process at Google is the formal system for advancing engineers thr
 - [[Ryan Olson]] — Facebook/Instagram promotion path
 - [[Promotion Velocity]] — his one-promo-per-half pace
 - [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary
+- [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — source summary (John Myles White)
+- [[John Myles White]] — on Meta's promo culture
+- [[Playing the Game]] — his framing
