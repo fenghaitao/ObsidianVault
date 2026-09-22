@@ -2,7 +2,7 @@
 title: "Leadership"
 type: concept
 tags: [career, soft-skills, management, engineering]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -28,6 +28,14 @@ Leadership in the engineering context refers to the ability to guide teams, set 
 - Technology work is creative: "you don't know what it looks like often… you have to free people," focus them on outcomes, and clear blockers.
 - Different tools for different jobs: Elon-style get-into-the-details management may fit a different environment, but sustaining it as your only mode isn't.
 
+### James Cowling's Leadership Philosophy
+- Orient teams around the problem they solve, not the system they built: he renamed the Magic Pocket team to the Storage team — "a team should be oriented around what problem do they solve? They should not care about the system that survives."
+- Don't lead by example — it is passive. Early on he jumped on every page himself, but teammates just read it as "that's James's job." Instead, explain the why and win hearts and minds.
+- The oversight→accountability slider: new/junior people need oversight (checking work); as they grow, dial down oversight and dial UP accountability ("this is on you") rather than "taking hands off the wheel."
+- 100% why alignment: argue the why ad nauseam and largely trust the team on the how; most organizational conflict comes from people disagreeing on the why while debating the how.
+- Most people should not want to be managers — enter management from necessity, ideally after reaching staff engineer, rather than as an early-career promotion path.
+- Don't try to change someone's mind in a meeting: surface the disagreement, let it sit, and revisit once they've reflected, rather than forcing agreement in front of an audience.
+
 ## Related
 
 - [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
@@ -41,3 +49,6 @@ Leadership in the engineering context refers to the ability to guide teams, set 
 - [[Mike Krieger]] — lead from the front
 - [[Ryan Olson]] — shaped by Krieger's example
 - [[summary-20260202 - Instagram iOS Principal Eng (IC8)： Building IG Stories, 1 Promo Per Half, Small Teams]] — source summary
+- [[James Cowling]] — leadership philosophy
+- [[System Bias]] — the org failure of defending a system over a problem
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary

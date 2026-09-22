@@ -2,8 +2,8 @@
 title: "Sun Microsystems"
 type: entity
 tags: [company, tech, operating-systems, hardware]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -24,6 +24,9 @@ Sun Microsystems was the workstation and server company (founded 1983) where Bry
 
 - Ryan Peterman recounted interviewing someone from Sun Microsystems who shared a similar view that Larry Ellison was "a little bit shady."
 
+- Bjarne Stroustrup: Sun (or DEC — he can't recall which was the third) was among the companies whose representatives "twisted [his] arm" in 1989 to standardize C++ under ISO.
+- Sun spent far more on Java advertising/marketing than was ever spent developing C++ (which had ~$5,000 over three years), yet C++ has "10–12 times more developers today" than when Java's "we'll kill C++" ads ran.
+
 ## Related
 
 - [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary
@@ -42,3 +45,6 @@ Sun Microsystems was the workstation and server company (founded 1983) where Bry
 - [[Michael Stonebraker]] — the episode source
 - [[Larry Ellison]] — the subject of the opinion
 - [[Oracle]] — Ellison's company
+- [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
+- [[C++]] — pushed its standardization
+- [[Java]] — the product it marketed as a "C++ killer"

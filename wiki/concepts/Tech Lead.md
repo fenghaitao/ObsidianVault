@@ -2,7 +2,7 @@
 title: "Tech Lead"
 type: concept
 tags: [career, engineering, leadership, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-07-21
 ---
 
@@ -28,6 +28,7 @@ Tech Lead is a set of leadership behaviors that can occur across multiple engine
 - Ryan Peterman similarly grew into a tech lead role naturally — he was the first backend engineer on a work stream, and as the project grew in importance, he became the go-to person and de facto lead
 - Ryan described the experience of "leading meetings but not feeling like a leader" — he was doing it because he knew what had to be done and buckled down
 - The ability to influence without authority is critical for tech leads, especially at Meta where levels are not public and engineers don't report to the tech lead
+- James Cowling: a tech lead has little authority; leadership is an oversight→accountability slider, and the empowering move is explaining the why rather than telling people what to do.
 
 ## Related
 
@@ -38,3 +39,4 @@ Tech Lead is a set of leadership behaviors that can occur across multiple engine
 - [[Domain Specialist Archetype]] — alternative staff archetype
 - [[Ryan L. Peterman]] — clarified the distinction between tech lead and level
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary

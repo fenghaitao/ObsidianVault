@@ -2,7 +2,7 @@
 title: "Metastable Failures"
 type: concept
 tags: [distributed-systems, reliability, caching, failure-modes]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -16,6 +16,7 @@ A metastable failure is a failure mode where a system switches into a stable "do
 - The "down" state is stable — contention saturates the database or network so the cache can't be refilled, and the system won't come back on its own.
 - Brooker says these are not common (you might go years without one), but they underlie a majority of the biggest, most impactful industry postmortems — larger-scale, longer-recovery, more complex, often requiring a painful "turn it off and on again."
 - Mitigations: D SQL's storage tier is a "complete cache" containing every row; Aurora warms failover targets continuously; prefer complete materialized views or scalable backends over caches.
+- James Cowling: congestion collapse is a closely related failure mode — one hot file spikes load, OOM restarts look like disk failures, and re-replication turns one fire hose of load into seven.
 
 ## Related
 
@@ -25,3 +26,4 @@ A metastable failure is a failure mode where a system switches into a stable "do
 - [[Postmortems]] — where the mode keeps appearing
 - [[State Machine]] — the related notion of switching between states
 - [[Distributed Systems]] — the context
+- [[Congestion Collapse]] — the related failure mode described by Cowling

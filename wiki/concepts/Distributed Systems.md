@@ -2,7 +2,7 @@
 title: "Distributed Systems"
 type: concept
 tags: [distributed-systems, computer-science, concurrency]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -28,6 +28,7 @@ Distributed systems are computer systems whose components run on multiple networ
 - Marc Brooker: on-call and postmortem/COE analysis taught him distributed systems in practice; caches introduce metastable failures; Aurora D SQL uses multi-version concurrency control plus commit-time optimistic checks so misbehaving clients can't hold locks.
 - Mike Stonebraker: a distributed database beats the "ridiculously inefficient" Hadoop; distributed commit is expensive (extra round trips), which motivated Google's eventual-consistency shortcut — later abandoned when Spanner shipped conventional transactions.
 - Barbara Liskov: Argus ran computations as atomic transactions across "guardians"; Viewstamped Replication (leader/view changeover on failure) is essentially the same as Paxos, and Byzantine fault tolerance extends the model to malicious nodes.
+- James Cowling: performance in large-scale systems is about eliminating points of coordination, not raw hardware horse-power; his Granola work coordinated one-shot transactions via timestamp exchange, and Magic Pocket's hardest problem was congestion collapse.
 
 ## Related
 
@@ -54,3 +55,9 @@ Distributed systems are computer systems whose components run on multiple networ
 - [[Barbara Liskov]] — distributed transactions and replication
 - [[Viewstamped Replication]] — the equivalent of Paxos
 - [[Byzantine Fault Tolerance]] — the malicious-fault protocol
+- [[Tiger Beetle]] — transaction system influenced by VR Revisited
+- [[Granola]] — distributed transaction coordination
+- [[Transactions]] — the abstraction for coordination
+- [[Concurrency]] — the underlying problem
+- [[Congestion Collapse]] — a harsh large-scale failure mode
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary

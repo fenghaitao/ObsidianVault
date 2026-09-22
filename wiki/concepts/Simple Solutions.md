@@ -2,7 +2,7 @@
 title: "Simple Solutions"
 type: concept
 tags: [engineering, problem-solving, impact, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -24,6 +24,7 @@ Simple Solutions refers to the principle that the most impactful engineering sol
 ### "Do the Simple Thing First" (Instagram)
 - Mike Krieger's value: "do the simple thing first" — before pouring the whole company into a thesis, do "the simplest, hackiest thing" to prove it true.
 - Instagram Stories shipped by getting a small thing working first and scaling later, rather than designing for large scale up front.
+- James Cowling's companion idea: simple systems are way harder to design than complex ones; "designing for validation" and long-term maintainability beats sophisticated-but-unvalidatable structures like distributed hash tables.
 
 ## Related
 
@@ -34,3 +35,4 @@ Simple Solutions refers to the principle that the most impactful engineering sol
 - [[Holistic Problem Solving]] — the approach that leads to simple solutions
 - [[Impact Throughput]] — simple solutions have the best ratio
 - [[Impact-Driven Culture]] — Meta's culture that rewards simple solutions
+- [[Simplicity]] — the systems-design sibling of this idea

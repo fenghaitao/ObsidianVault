@@ -2,7 +2,7 @@
 title: "Raft"
 type: concept
 tags: [distributed-systems, consensus, algorithms]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -17,6 +17,7 @@ Raft is a consensus algorithm created to be simpler and more understandable than
 - The authors taught Paxos to one class and Raft to another, and students found Raft more understandable.
 - A bug was discovered in Raft and fixed; Lamport suspects the version students found "more understandable" was the one with that bug.
 - For Lamport, understanding means being able to write a proof of correctness, whereas for most people it means "a warm fuzzy feeling" — which is why Raft's description feels more intuitive.
+- James Cowling lists Raft among the consensus protocols that are "all basically the same thing" as Paxos and Viewstamped Replication.
 
 ## Related
 
@@ -25,3 +26,4 @@ Raft is a consensus algorithm created to be simpler and more understandable than
 - [[Leslie Lamport]] — author of Paxos and critic of Raft's framing
 - [[State Machine]] — the abstraction both implement
 - [[Distributed Systems]] — the field of consensus
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary

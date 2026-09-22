@@ -2,8 +2,8 @@
 title: "Impostor Syndrome"
 type: concept
 tags: [psychology, career, confidence, growth]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241121 - 28 Year Old Staff Eng @ Google Reveals His Promotions.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250718 - GoogleX Chief Scientist： Imposter Syndrome, Career Growth, Project Taste ｜ Carey Nachenberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250725 - Tech Lead for Meta's Most-Used Programming Language (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -60,6 +60,10 @@ Impostor Syndrome is the persistent feeling of self-doubt and fear of being expo
 - Boris felt impostor syndrome directing engineers at his own (hidden) level on the public-groups project
 - His reframe: "don't overthink it — no one really knows what they're doing"; levels don't matter that much, and a little impostor syndrome is healthy because it signals you're pushing yourself ([[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]])
 
+### Bjarne Stroustrup's Experience
+- Seeing the names on Bell Labs' doors — people who created the fields he works in — made him feel he had to "up my game" and do something bigger than he had imagined ("maybe I still got a bit of it").
+- Places with that density of talent (Bell Labs, Cambridge) produce the feeling; open doors and lunchtable conversations were how he learned his way through it.
+
 ## Related
 
 - [[summary-20251229 - Best Software Engineering Career Advice of 2025]] — source summary (compilation re-quotes this theme)
@@ -78,3 +82,4 @@ Impostor Syndrome is the persistent feeling of self-doubt and fear of being expo
 - [[Dwayne Reeves]] — "more than what I can type on the keyboard"
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary (Boris)
 - [[Boris Cherny]] — no one really knows what they're doing
+- [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary (Stroustrup)

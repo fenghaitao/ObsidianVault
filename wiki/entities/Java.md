@@ -2,8 +2,8 @@
 title: "Java"
 type: entity
 tags: [entity, technology, programming-language]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
+last_updated: 2026-09-22
 ---
 
 ## Summary
@@ -18,8 +18,14 @@ A widely-used object-oriented programming language running on the JVM (Java Virt
 - Steve advises going deep: understanding the JVM, garbage collection, and bytecode, not just surface-level syntax
 - Lombok is a library used to reduce boilerplate (auto-generating getters/setters)
 
+- Bjarne Stroustrup recalls Java's ads proclaiming "we'll kill absolutely kill C++ in two years" as "rude"; he estimates there are 10–12x more C++ developers today than when those ads ran.
+- Sun spent far more on Java marketing than was ever spent developing C++ (~$5,000 over three years), yet C++ adoption outpaced Java.
+
 ## Related
 
 - [[Amazon]] — major user of Java
 - [[JVM]] — the runtime environment
 - [[Lombok]] — boilerplate reduction library for Java
+- [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
+- [[C++]] — the language it was marketed against
+- [[Sun Microsystems]] — the company behind Java's marketing

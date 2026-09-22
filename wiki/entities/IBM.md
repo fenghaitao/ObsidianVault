@@ -2,8 +2,8 @@
 title: "IBM"
 type: entity
 tags: [company, tech, research]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -20,6 +20,9 @@ IBM (specifically IBM Research) is the industrial research lab where the Snapcha
 
 - Mike Stonebraker: IBM's IMS was the hierarchical-database alternative to the Codasyl proposal when Ingres began; trees weren't general enough, so IBM hacked on a limited network structure — "clearly a horrible hack."
 
+- Bjarne Stroustrup: IBM was one of the companies (with HP and Sun/DEC) whose representatives "twisted [his] arm" in 1989 to standardize C++ under ISO.
+- In the standards committee, the IBM rep (Brian, working on PowerPC) was deadlocked with the Intel representative over low-level hardware/cache-coordination models; Bjarne ran "shuttle diplomacy" between the two corners of the room to reach the agreement that landed in C++ 11.
+
 ## Related
 
 - [[summary-20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story)]] — source summary
@@ -30,3 +33,6 @@ IBM (specifically IBM Research) is the industrial research lab where the Snapcha
 - [[Michael Stonebraker]] — on IMS at the dawn of relational
 - [[Ingres]] — the relational alternative
 - [[Databases]] — the field
+- [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
+- [[C++]] — pushed its standardization; PowerPC corner
+- [[Intel]] — the other corner of the dispute

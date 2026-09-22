@@ -51,6 +51,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — Barbara Liskov on data abstraction, working with Dijkstra, and fault-tolerant distributed systems.
 - [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — John Myles White on Meta's promotion-driven culture, the oversupplied engineering labor market, and his years building Meta's A/B testing and PyTorch.
 - [[summary-20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan]] — David J. Malan on turning CS50 into a free world-class online course, memorable-moments teaching, and why C still matters in the AI era.
+- [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — Bjarne Stroustrup on creating C++ at Bell Labs, its design convictions (zero-overhead abstraction, static typing), and his standards-committee regrets.
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — James Cowling on distributed transactions, Dropbox's Magic Pocket migration off S3, and why simplicity and senior judgment matter in the AI era.
+- [[summary-20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson]] — Avi Wigderson on P vs NP, NP-completeness, randomness and derandomization, zero-knowledge proofs, and quantum computation's impact on complexity theory.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -445,6 +448,60 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[CS50]] — Harvard's introductory computer-science course transformed by David J. Malan into a free, world-class online course.
 - [[Brian Kernighan]] — Computer scientist who taught CS50 when David J. Malan first took it in 1996.
 - [[Khan Academy]] — A free online-learning platform David J. Malan contrasts with CS50's teaching style.
+- [[Bjarne Stroustrup]] — Danish computer scientist who created C++ at Bell Labs and later guided its ISO standardization.
+- [[Bell Labs]] — The AT&T research laboratory in New Jersey where Unix, C, and C++ were created.
+- [[Dennis Ritchie]] — Co-creator of C and Unix at Bell Labs and a colleague of Bjarne Stroustrup.
+- [[Sandy Fraser]] — Bjarne Stroustrup's boss at Bell Labs, working in networking.
+- [[C++]] — General-purpose, statically typed programming language created by Bjarne Stroustrup at Bell Labs.
+- [[C (Programming Language)]] — Low-level systems language (co-created by Dennis Ritchie) that C++ was built on.
+- [[Simula]] — Pioneering language that introduced the class concept and object-oriented programming.
+- [[BCPL]] — Early low-level systems language with a single "word" data type, used by Stroustrup for his PhD simulator.
+- [[Unix]] — Operating system created at Bell Labs, where Bjarne Stroustrup built C++.
+- [[LLVM]] — Compiler infrastructure used by most modern programming languages to generate code.
+- [[Standard Template Library (STL)]] — Generic-programming library (containers, algorithms, iterators) created by Alex Stepanov.
+- [[Alex Stepanov]] — Creator of the C++ Standard Template Library (STL).
+- [[Herb Sutter]] — Prominent C++ expert, author, and standards-committee figure.
+- [[Hans Boehm]] — Creator of a widely used conservative garbage collector and C++ GC-interface advocate.
+- [[Guido van Rossum]] — Creator of the Python programming language.
+- [[Donald Knuth]] — Computer scientist (Art of Computer Programming) credited with the "premature optimization" warning.
+- [[Vasa (Ship)]] — 17th-century Swedish warship that sank on its maiden voyage, Stroustrup's cautionary tale for the C++ committee.
+- [[AT&T]] — Corporate owner of Bell Labs and Bjarne Stroustrup's employer.
+- [[James Cowling]] — Distributed-systems engineer, Dropbox's most senior engineer, now CTO/co-founder of Convex.
+- [[Dropbox]] — File-sync and storage company where James Cowling led the Magic Pocket migration off S3.
+- [[Convex]] — Backend application platform co-founded by James Cowling and Jamie Turner.
+- [[Drew Houston]] — Founder of Dropbox.
+- [[Mike Judge]] — Creator of HBO's Silicon Valley (and Beavis and Butt-Head, Office Space); began as a software engineer.
+- [[Jamie Turner]] — Co-founder of Convex and former Dropbox engineer.
+- [[Tiger Beetle]] — Company building a high-performance transactional database.
+- [[Magic Pocket]] — Dropbox's in-house exabyte-scale block storage system that migrated the company off Amazon S3.
+- [[Discotech]] — Dropbox project that removed the filesystem layer and addressed disk heads directly with SMR drives.
+- [[Trampoline]] — Dropbox "escape hatch" that dumped excess data to S3 under capacity pressure and later moved it back.
+- [[Granola]] — James Cowling's MIT PhD work on one-shot transaction coordination without two-phase commit.
+- [[Go (Programming Language)]] — Systems language Dropbox used to build most of Magic Pocket.
+- [[Silicon Valley (TV Show)]] — Mike Judge's HBO comedy; James Cowling was a technical consultant from season 2 onward.
+- [[Avi Wigderson]] — Mathematician and theoretical computer scientist who won both the Turing Award (2023) and Abel Prize (2021).
+- [[Stephen Cook]] — Co-defined NP-completeness and proved satisfiability NP-complete (Cook–Levin theorem).
+- [[Leonid Levin]] — Independently co-discovered NP-completeness (Cook–Levin).
+- [[Richard Karp]] — Computer scientist famous for NP-completeness reductions.
+- [[Shafi Goldwasser]] — Cryptographer and co-author of the Goldwasser–Micali–Rackoff paper on interactive and zero-knowledge proofs.
+- [[Silvio Micali]] — Cryptographer, GMR co-author and GMW zero-knowledge co-author.
+- [[Oded Goldreich]] — Cryptographer, GMW co-author on zero-knowledge interactive proofs.
+- [[Charles Rackoff]] — Cryptographer and GMR interactive/zero-knowledge proofs co-author.
+- [[László Babai]] — Proposed the interactive proof system model in parallel with Goldwasser, Micali, and Rackoff.
+- [[Manuel Blum]] — Computer scientist who, with Silvio Micali, framed randomness relative to the observer's computational power.
+- [[Noam Nisan]] — Co-developed the Nisan–Wigderson pseudorandom generator with Avi Wigderson.
+- [[Scott Aaronson]] — Theoretical computer scientist who started the Complexity Zoo.
+- [[Ryan Williams]] — Complexity theorist whose 2025 breakthrough simulated time-t computations in √t space.
+- [[David Barrington]] — Known for Barrington's theorem on evaluating formulas in constant space.
+- [[Peter Shor]] — Discovered polynomial-time quantum algorithms for factoring and discrete logarithms.
+- [[Richard Feynman]] — Physicist who (with Yuri Manin) proposed quantum computation in the 1980s.
+- [[Claude Shannon]] — Founder of information theory, whose theorem ties secret security to entropy.
+- [[Johan Håstad]] — Strengthened the PCP theorem to tight hardness-of-approximation results.
+- [[Alan Turing]] — Mathematician whose paper established the Turing machine and proved some problems unsolvable.
+- [[Abel Prize]] — International mathematics prize awarded annually by the Norwegian Academy of Science and Letters.
+- [[Millennium Prize Problems]] — Seven unsolved math problems with a $1M Clay Institute prize each.
+- [[Complexity Zoo]] — Website cataloging complexity classes, started by Scott Aaronson.
+- [[AlphaFold]] — DeepMind system that predicts protein structures from amino-acid sequences with a confidence score.
 
 ## Concepts
 
@@ -733,6 +790,47 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Academic Integrity]] — Honesty expectations in education, made harder to enforce as AI can now do students' homework.
 - [[Online Education]] — Distributing teaching over the internet, underused for consolidating the world's best instruction.
 - [[Teaching]] — The craft of making material memorable, centered on David J. Malan's theatrical "memorable moments."
+- [[Zero Overhead Abstraction]] — C++ principle that abstractions should add no runtime cost beyond hand-written code.
+- [[Resource Acquisition Is Initialization (RAII)]] — C++ idiom tying a resource's lifetime to an object's lifetime via constructors and destructors.
+- [[Generic Programming]] — Writing algorithms and data structures in terms of types specified later, using templates.
+- [[Memory Safety]] — Freedom from buffer overflows and use-after-free; a major topic in modern C++.
+- [[Garbage Collection]] — Automatic reclamation of unreachable memory; optional in C++.
+- [[Bootstrapping (Compilers)]] — Writing a compiler in its own language by building successive versions in the previous one.
+- [[Object-Oriented Programming]] — Organizing code around objects combining data and behavior, with inheritance and polymorphism.
+- [[Turing Completeness]] — A system that can simulate a Turing machine and compute anything computable.
+- [[Premature Optimization]] — Optimizing before measurement shows it's needed (Donald Knuth's warning).
+- [[Static and Dynamic Typing]] — Compile-time vs runtime type checking, trading early error detection and performance for flexibility.
+- [[Template Metaprogramming]] — Computation performed by the C++ compiler through template instantiation.
+- [[Transactions]] — Grouping operations so they execute atomically, letting programmers manage concurrency.
+- [[Concurrency]] — Multiple operations progressing simultaneously and possibly interfering; Cowling calls it computing's hardest problem.
+- [[Simplicity]] — The hard-won quality of systems whose failure modes are understandable and validatable.
+- [[Two-Phase Commit]] — Protocol for multiple nodes to agree to commit a transaction atomically.
+- [[Multi-Homing]] — Keeping data in two or more locations, from lazy replication to active-active.
+- [[Erasure Coding]] — Storing data as fragments so the original reconstructs from a subset (Dropbox's ~24-nines durability).
+- [[Congestion Collapse]] — Failure mode when a system's workload crosses a threshold and it collapses.
+- [[Dark Launch]] — Dual-writing to old and new systems while keeping the new one out of the read path until proven safe.
+- [[FMEA (Failure Mode and Effects Analysis)]] — Pre-mortem inventorying every failure's likelihood and severity to design around it.
+- [[System Bias]] — An org's tendency to defend the system it built rather than the problem it set out to solve.
+- [[P vs NP]] — The open question of whether every easily-verified solution (NP) can also be efficiently found (P).
+- [[NP-Completeness]] — Property of the hardest problems in NP; solving one efficiently solves all of NP.
+- [[Computational Complexity Theory]] — Classifying problems by the resources (time, space, randomness) they require.
+- [[Time Complexity]] — How much time an algorithm needs as a function of input size.
+- [[Space Complexity]] — How much memory a computation uses.
+- [[Randomized Algorithms]] — Algorithms allowed to make random coin tosses, with a small error probability.
+- [[Pseudorandomness]] — A distribution that appears random to a bounded observer while containing little true entropy.
+- [[Randomness Extraction]] — Turning weak (biased or correlated) randomness into high-quality usable random bits.
+- [[Hardness vs Randomness]] — The connection between computational hardness and derandomization.
+- [[Interactive Proofs]] — A prover convincing a randomized verifier through a randomized conversation.
+- [[Zero-Knowledge Proofs]] — An interactive proof where the verifier learns nothing beyond the statement's truth.
+- [[One-Way Functions]] — Easy to compute but hard to invert (factoring is the canonical example).
+- [[Cryptographic Commitment]] — Binding to a secret value while hiding it until revealed.
+- [[Hardness of Approximation]] — How close to optimal you can get when exact optimization is NP-hard.
+- [[Boolean Satisfiability]] — Deciding whether a Boolean formula has a satisfying assignment; the canonical NP-complete problem.
+- [[Primality Testing]] — Determining whether a given integer is prime.
+- [[Sum-Product Theorem]] — Sums and products grow a finite set in complementary ways.
+- [[Protein Folding]] — Predicting a protein's 3D structure from its sequence; NP-hard as energy minimization.
+- [[Quantum Computation]] — Computing with qubits in superposition, "probability theory with negative numbers."
+- [[Halting Problem]] — Deciding whether an arbitrary program halts; the canonical uncomputable problem.
 
 ## Syntheses
 

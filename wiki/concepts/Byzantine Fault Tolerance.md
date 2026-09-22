@@ -2,7 +2,7 @@
 title: "Byzantine Fault Tolerance"
 type: concept
 tags: [distributed-systems, security, consensus, fault-tolerance]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -15,6 +15,7 @@ Byzantine fault tolerance handles nodes that purport to be working correctly but
 - Viewstamped Replication and Paxos only handled crashes, and could tell when messages had been tampered with upon arrival (about the extent of their fault model).
 - The "big step forward" was protocols that work when nodes have been compromised and lie about their state.
 - Leslie Lamport coined the term "Byzantine"; Miguel Castro, Liskov's student, took up a DARPA request for proposals about Byzantine/malicious attacks and asked whether a protocol could work in their presence.
+- James Cowling: his master's thesis was on Byzantine fault tolerance — consensus in the presence of malicious nodes.
 
 ## Related
 
@@ -26,3 +27,5 @@ Byzantine fault tolerance handles nodes that purport to be working correctly but
 - [[Leslie Lamport]] — coined "Byzantine"
 - [[Byzantine Generals Problem]] — the related framing
 - [[Distributed Systems]] — the field
+- [[James Cowling]] — wrote his master's thesis on it
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary

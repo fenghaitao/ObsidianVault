@@ -2,8 +2,8 @@
 title: "Turing Award"
 type: entity
 tags: [award, computer-science, recognition]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -18,6 +18,7 @@ The Turing Award (the A.M. Turing Award) is the highest distinction in computer 
 - The award is referenced throughout the episode as shorthand for the highest tier of computer-science achievement.
 - Mike Stonebraker and Barbara Liskov are both Turing Award winners interviewed by Ryan L. Peterman.
 - Liskov recalls negative online commentary about her award ("why did she get the Turing Award?"); she reads it as a compliment — her foundational work on data abstraction and modularity became so basic that people assumed it always existed.
+- Avi Wigderson is introduced as a Turing Award winner (and Abel Prize winner) in his interview with Ryan L. Peterman on complexity theory, randomness, zero-knowledge proofs, and quantum computation.
 
 ## Related
 
@@ -30,3 +31,6 @@ The Turing Award (the A.M. Turing Award) is the highest distinction in computer 
 - [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — source summary
 - [[Barbara Liskov]] — award winner
 - [[Data Abstraction]] — her foundational contribution
+- [[summary-20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson]] — source summary
+- [[Avi Wigderson]] — award winner
+- [[Abel Prize]] — the mathematics counterpart prize

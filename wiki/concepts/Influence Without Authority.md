@@ -2,7 +2,7 @@
 title: "Influence Without Authority"
 type: concept
 tags: [career, leadership, soft-skills, Meta]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -45,6 +45,7 @@ Influence Without Authority is the ability to lead and direct others without hav
 - Executive presence is amoral: "Darth Vader had it in spades," and so did Palpatine.
 - Assess a skilled operator as if they were special forces: are they working for the org, purely for themselves, or in a middle ground you can negotiate with?
 - Backchanneling builds influence by making people feel consulted and heard, not just through information exchange.
+- James Cowling: tech leads have little real authority — "if you are leading through authority, you're not going to have a culture where good ideas arise"; credibility comes from explaining the why in a way that resonates.
 
 ## Related
 - [[summary-20260330 - Retired Amazon VP： How Corporate Politics Work And How To Win ｜ Ethan Evans]] — source summary
@@ -66,3 +67,4 @@ Influence Without Authority is the ability to lead and direct others without hav
 - [[Credibility]] — what hands-on influence builds
 - [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]] — source summary
 - [[Michael Bolin]] — pushing too hard and learning to pick the venue
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary

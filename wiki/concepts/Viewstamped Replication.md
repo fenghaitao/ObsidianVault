@@ -2,7 +2,7 @@
 title: "Viewstamped Replication"
 type: concept
 tags: [distributed-systems, replication, consensus, storage]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -17,6 +17,7 @@ Viewstamped Replication is a replication/consensus protocol developed by Barbara
 - Liskov borrowed the idea of transactions from the database field; her Argus work on distributed atomic transactions led into it.
 - Lamport developed Paxos independently; he "went around giving all the talks," while Liskov "implemented it" — and Paxos's catchier name and marketing account for its greater fame.
 - Handled only crash faults; the first real use Liskov noticed was the Google File System (which thought it was Paxos).
+- James Cowling wrote "Viewstamped Replication Revisited," redefining the protocol; the work proved influential to "a few really great companies like Tiger Beetle."
 
 ## Related
 
@@ -28,3 +29,6 @@ Viewstamped Replication is a replication/consensus protocol developed by Barbara
 - [[Byzantine Fault Tolerance]] — the later extension
 - [[Google]] — where it was first used in a real system
 - [[Distributed Systems]] — the field
+- [[James Cowling]] — wrote VR Revisited
+- [[Tiger Beetle]] — a company influenced by VR Revisited
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary

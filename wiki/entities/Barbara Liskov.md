@@ -2,7 +2,7 @@
 title: "Barbara Liskov"
 type: entity
 tags: [person, computer-scientist, programming-languages, distributed-systems, Turing-Award]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -19,6 +19,7 @@ Barbara Liskov is a Turing Award-winning computer scientist at MIT known for inv
 - Namesake of the Liskov substitution principle, from a 1986 OOPSLA keynote and formalized with Jeannette Wing as behavioral subtyping.
 - Advises students to avoid incremental work: find a good problem that is amenable to solution and matches your skill set, and recognize when a direction is bad.
 - On the "why did she get the Turing Award?" backlash, she reads it as a compliment — her field's foundations became so basic people forgot there was a "before."
+- Served as James Cowling's PhD advisor at MIT; he worked with her on abstraction and the value of clean designs that minimize complexity.
 
 ## Related
 
@@ -38,3 +39,5 @@ Barbara Liskov is a Turing Award-winning computer scientist at MIT known for inv
 - [[Bob Kahn]] — whose paper inspired her
 - [[Princeton University]] — rejected her as a woman
 - [[MITRE]] — where she invented her modularity notion
+- [[James Cowling]] — her PhD student
+- [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
