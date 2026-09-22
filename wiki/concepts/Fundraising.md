@@ -2,8 +2,8 @@
 title: "Fundraising"
 type: concept
 tags: [startups, finance, venture-capital]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -18,6 +18,10 @@ Fundraising is the process of raising outside capital (seed, series, and strateg
 - Sideline investors preserve optionality with delaying excuses ("still doing diligence")
 - Crypto fundraising differs from web2: softer metrics, no revenue concept for infrastructure projects, more like 1995-era internet investing
 
+### Charlie Marsh / Astral
+- Astral did three preemptive, investor-initiated rounds (seed, series A, series B); the A and B were never announced until the acquisition blog post.
+- Charlie optimized for a few trusted investors over pitting many against each other, and appreciated the option to "give the money back" if he hated it — reducing pressure.
+
 ## Related
 
 - [[summary-20251130 - Robinhood SWE Turned $1B+ Founder： Non-Linear Careers, Being Jaded About Promos, Startup Learnings]] — source summary
@@ -25,3 +29,5 @@ Fundraising is the process of raising outside capital (seed, series, and strateg
 - [[Sei Network]] — the company being funded
 - [[Jay Jo]] — the founder raising
 - [[Product Market Fit]] — the underlying signal investors look for
+- [[Astral]] — capitalized this way
+- [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — source summary

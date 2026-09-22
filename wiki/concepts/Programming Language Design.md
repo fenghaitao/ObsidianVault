@@ -33,3 +33,4 @@ Programming language design is the craft of defining a language's syntax, semant
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
 - [[Bjarne Stroustrup]] — problem-first design philosophy
 - [[C++]] — the language he designed this way
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

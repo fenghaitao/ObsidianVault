@@ -17,3 +17,4 @@ Turing completeness is the property of a computational system that can simulate 
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
 - [[Template Metaprogramming]] — where it appeared in C++
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

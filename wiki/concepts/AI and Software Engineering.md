@@ -2,8 +2,8 @@
 title: "AI and Software Engineering"
 type: concept
 tags: [AI, career, engineering, future-of-work]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -40,6 +40,12 @@ AI and Software Engineering examines the relationship between artificial intelli
 - Reassurance to anxious students: "the world is only getting more technological," and CS enrollments have ebbed and flowed before (the dot-com bust).
 - Humans should stay in charge for now: Claude returned a ~90%-correct solution and he had to correct a hallucinated API detail; hallucination will decrease, but oversight is still needed.
 
+### Charlie Marsh's Perspective
+- The cost of putting up a plausible PR has fallen to zero while the cost to review it remains constant, creating poor open-source dynamics and a review bottleneck.
+- His team now reviews his agent-generated PRs closely ("you're not writing it anymore; it's the agent"); he self-reviews each line in the GitHub UI.
+- Strong software engineers are more valuable than ever because they use agents more effectively; he remains concerned about the "garbage" he'd ship without significant engineering experience.
+- It's a hard time to be an early-career engineer — he's unsure what the learning loop looks like when you're mostly instructing models.
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -56,3 +62,7 @@ AI and Software Engineering examines the relationship between artificial intelli
 - [[summary-20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan]] — source summary (Malan)
 - [[David J. Malan]] — problem-solving over syntax
 - [[CS50]] — the course teaching problem-solving
+- [[Mitchell Hashimoto]] — renderer example (hand-written 100x vs agent 10x)
+- [[Vibe Coding]] — one end of the agent-era spectrum
+- [[Contributor Poker]] — how agents break contributor growth
+- [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — source summary

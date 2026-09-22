@@ -15,3 +15,4 @@ LLVM is a compiler infrastructure/framework that most modern programming languag
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
 - [[C++]] — the infrastructure competitors build on
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

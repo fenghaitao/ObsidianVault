@@ -29,3 +29,4 @@ C is the low-level systems programming language created at Bell Labs (co-created
 - [[BCPL]] — precursor "that makes C look high-level"
 - [[Unix]] — the OS C was written for
 - [[Bootstrapping (Compilers)]] — starting point for C++'s bootstrap
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

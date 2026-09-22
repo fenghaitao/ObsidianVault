@@ -88,3 +88,4 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - [[Meta]] — where a former Microsoft engineer joined Evan's team
 - [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary
 - [[Bryan Cantrill]] — who refused to work at Microsoft on principle
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

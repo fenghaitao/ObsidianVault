@@ -19,3 +19,4 @@ Memory safety is freedom from bugs like buffer overflows and use-after-free; a m
 - [[C++]] — the language in question
 - [[Resource Acquisition Is Initialization (RAII)]] — the lifetime discipline
 - [[Herb Sutter]] — provided the vulnerability data
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

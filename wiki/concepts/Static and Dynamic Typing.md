@@ -19,3 +19,4 @@ Static typing checks types at compile time; dynamic typing checks them at runtim
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
 - [[C++]] — a statically typed language
 - [[Python]] — a dynamically typed language
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

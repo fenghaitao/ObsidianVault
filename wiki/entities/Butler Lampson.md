@@ -24,3 +24,4 @@ Butler Lampson (transcribed in the episode as "Butler Lamson") is a computer sci
 - [[Xerox PARC]] — the lab where he worked
 - [[Leslie Lamport]] — the author of Paxos
 - [[State Machine]] — the idea he connected to Paxos
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

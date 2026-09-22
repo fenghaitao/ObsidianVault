@@ -21,3 +21,4 @@ Alan Turing is a mathematician whose foundational paper established the Turing m
 - [[Halting Problem]] — undecidability result
 - [[Computational Complexity Theory]] — the field his work founded
 - [[Quantum Computation]] — generalizes his model
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

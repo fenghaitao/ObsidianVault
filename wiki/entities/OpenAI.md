@@ -2,8 +2,8 @@
 title: "OpenAI"
 type: entity
 tags: [company, AI, startup, tech]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -34,6 +34,14 @@ OpenAI is an AI research and deployment company. Ryan mentioned it as an example
 ### David J. Malan on OpenAI
 - CS50's virtual "rubber duck" tutor (cs50.ai) is built on top of OpenAI's APIs (and Microsoft Azure's web API service) and is deliberately less helpful than ChatGPT.
 
+### Charlie Marsh on OpenAI
+- Charlie's company Astral (Python dev tools: Ruff, uv, Red-knot) was acquired by OpenAI.
+- He studied early OpenAI blog posts (e.g., DALL·E, transcript "Dolly") as a model for communicating ideas through images alone.
+- OpenAI makes heavy use of Rust, reinforcing his bet on the language.
+
+### Vlad Feinberg on OpenAI
+- Vlad cites OpenAI (with Anthropic) as a peer frontier lab; people from both agreed with the advice in his "how to get a job at a frontier lab" post, indicating skill demands overlap across labs.
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -54,3 +62,9 @@ OpenAI is an AI research and deployment company. Ryan mentioned it as an example
 - [[summary-20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan]] — source summary (Malan)
 - [[CS50]] — the course using OpenAI APIs
 - [[David J. Malan]] — built the rubber duck on OpenAI APIs
+- [[Charlie Marsh]] — founder of acquired Astral
+- [[Astral]] — the dev-tools startup OpenAI acquired
+- [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — source summary
+- [[summary-20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg]] — source summary (Vlad Feinberg)
+- [[Google DeepMind]] — peer lab
+- [[Frontier Lab]] — the category they share

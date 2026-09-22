@@ -2,8 +2,8 @@
 title: "Tensor Processing Unit (TPU)"
 type: entity
 tags: [hardware, ML, Google, infrastructure]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260123 - Meta Senior Staff (IC7) Eng's Honest Demotion Story.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260123 - Meta Senior Staff (IC7) Eng's Honest Demotion Story.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -16,6 +16,7 @@ The Tensor Processing Unit (TPU) is Google's custom machine-learning accelerator
 - TPUs are specialized (less generic than GPUs); sparse/random access such as embedding lookups is hard on the chip, while matrix multiplication and large sequential memory access are its strengths.
 - Igor's L7 promotion project involved building new training infrastructure to run ads ML on TPUs and testing input pipelines with an "infinite-speed TPU" bottleneck test.
 - TPU chips had to be ordered ~18 months in advance; ads teams usually under-ordered to avoid provisioning waste in a mature, profitability-focused business.
+- Vlad Feinberg's team served the MoE-based Flash 2.0 by sharding experts across TPUs, then made it viable with pipeline prefill that moves layers (not experts) across the chips.
 
 ## Related
 
@@ -24,3 +25,7 @@ The Tensor Processing Unit (TPU) is Google's custom machine-learning accelerator
 - [[Google]] — developed the TPU
 - [[Machine Learning]] — concept
 - [[Model Training]] — workload the TPU accelerates
+- [[summary-20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg]] — source summary
+- [[Gemini Flash]] — served across TPUs
+- [[Mixture of Experts]] — sharded across TPUs
+- [[Pipeline Parallelism]] — moves layers across TPUs

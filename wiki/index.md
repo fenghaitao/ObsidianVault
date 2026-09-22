@@ -54,6 +54,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — Bjarne Stroustrup on creating C++ at Bell Labs, its design convictions (zero-overhead abstraction, static typing), and his standards-committee regrets.
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — James Cowling on distributed transactions, Dropbox's Magic Pocket migration off S3, and why simplicity and senior judgment matter in the AI era.
 - [[summary-20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson]] — Avi Wigderson on P vs NP, NP-completeness, randomness and derandomization, zero-knowledge proofs, and quantum computation's impact on complexity theory.
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — Simon Peyton Jones on Haskell and functional programming, GHC's compiler pipeline, monads and type systems, and language design in the LLM era.
+- [[summary-20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg]] — Vlad Feinberg on what it takes to land a job at a frontier lab: kernel engineering, research taste, scaling laws, and open-source signal.
+- [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — Charlie Marsh on building Ruff and uv at Astral, choosing Rust, and how AI agents are collapsing the cost of a plausible PR.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -502,6 +505,66 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Millennium Prize Problems]] — Seven unsolved math problems with a $1M Clay Institute prize each.
 - [[Complexity Zoo]] — Website cataloging complexity classes, started by Scott Aaronson.
 - [[AlphaFold]] — DeepMind system that predicts protein structures from amino-acid sequences with a confidence score.
+- [[Simon Peyton Jones]] — British computer scientist, co-creator of Haskell and a key figure behind GHC.
+- [[Haskell]] — Pure, lazy, statically typed functional programming language co-created by Simon Peyton Jones.
+- [[GHC]] — Glasgow Haskell Compiler, Haskell's principal compiler, itself written in Haskell.
+- [[OCaml]] — Statically typed, strict (call-by-value) functional language from the ML tradition.
+- [[ML (Programming Language)]] — Strict functional language that predated Haskell and was first with parametric polymorphism.
+- [[Scala]] — Statically typed language combining functional programming with object orientation and subtyping.
+- [[Lisp]] — Mostly functional language whose commercial hardware was the Symbolics Lisp machine.
+- [[Verse]] — Functional logic programming language being designed at Epic Games; Simon Peyton Jones's day job.
+- [[Excel]] — Spreadsheet app Simon Peyton Jones calls the world's most-used functional language.
+- [[C--]] — Portable assembly language / intermediate representation GHC uses between Core and native code.
+- [[Alonzo Church]] — Mathematician who developed the lambda calculus, a mutation-free model of computation.
+- [[John Backus]] — Fortran's designer, who argued for functional programming in his Turing Award lecture.
+- [[Robin Milner]] — Computer scientist behind ML, remembered for "well-typed programs don't go wrong."
+- [[John Hughes]] — Author of "Why Functional Programming Matters," on lazy evaluation and modularity.
+- [[Pat Helland]] — Computer scientist quoted on how programming with values changes everything.
+- [[David Turner]] — Described translating lambda calculus programs into SK combinators.
+- [[Lennart Augustsson]] — Built microHS, a Haskell implementation that runs via SK combinator reduction.
+- [[Arvind]] — Led MIT's dataflow group and designed the Monsoon dataflow machine.
+- [[Symbolics]] — Company that built the Lisp machine, hardware designed to run Lisp.
+- [[Epic Games]] — Video game company where Simon Peyton Jones designs the Verse language.
+- [[Vlad Feinberg]] — Google DeepMind Distinguished Engineer (L9) and pre-training area lead for Gemini.
+- [[Google DeepMind]] — AI research lab formed in 2023 from the DeepMind/Google Brain merger; builds Gemini.
+- [[Google Brain]] — Google's deep-learning team that merged with DeepMind to form Google DeepMind.
+- [[Gemini]] — Google DeepMind's family of large language models; Feinberg is its pre-training lead.
+- [[Gemini Flash]] — Fast, low-latency Gemini model family delivered by Feinberg's team.
+- [[Bard]] — Google's pre-Gemini conversational assistant; Feinberg contributed fine-tuning to early releases.
+- [[The Scaling Book]] — Resource on LLM scaling laws whose exercises Feinberg uses as a hiring screen.
+- [[Jacob Steinhardt]] — Professor whose "research as an MDP" framing Feinberg adopts.
+- [[Sholto Douglas]] — Google DeepMind engineer Feinberg consulted on pipelining.
+- [[Rahul Arya]] — Google engineer who applied pipeline prefill to mixture-of-experts models for Flash 2.0.
+- [[Nate Lidzén]] — Google engineer who transferred into Feinberg's team and now owns Flash inference code design.
+- [[Rohan Aneja]] — Feinberg's former Google Brain manager who pushed him to join the Bard launch.
+- [[Todd Lipkin]] — Feinberg's mentor who first got him into computer science.
+- [[vLLM]] — Open-source LLM serving stack; a strong signaling venue for frontier-lab candidates.
+- [[SGLang]] — Open-source LLM serving framework that, like vLLM, is always seeking contributors.
+- [[TensorRT]] — NVIDIA inference-optimization toolkit; demos on it signal well.
+- [[NVIDIA Dynamo]] — Distributed system for disaggregated LLM serving.
+- [[ThunderKittens]] — Programming-language abstraction for writing GPU kernels through a small function set.
+- [[CuTe]] — Hardware-specific DSL (CUDA template library) for writing GPU kernels.
+- [[XLA]] — Google's accelerator compiler for machine learning.
+- [[ImageNet]] — Classic image benchmark contrasting one-shot LLM pre-training.
+- [[LMSYS Arena]] — Chatbot Arena leaderboard that vindicated Gemini Flash 2.0.
+- [[Transformer]] — Neural-network architecture underlying modern LLMs like Gemini.
+- [[DeepSeek]] — Chinese AI lab behind DeepSeek V3, which dominated a WSJ leaderboard narrative.
+- [[Charlie Marsh]] — Founder of Astral, creator of Ruff, uv, and the Red-knot type checker.
+- [[Astral]] — Python developer-tools startup (Ruff, uv) founded by Charlie Marsh and acquired by OpenAI.
+- [[Ruff]] — Fast Python linter/formatter in Rust; Astral's first product.
+- [[uv]] — Astral's fast Python package and project manager, written in Rust.
+- [[Red-knot]] — Astral's Python type checker, built on Salsa (transcript garbles it as "ty").
+- [[Salsa (Framework)]] — Rust framework for incremental on-demand computation, used by Rust Analyzer and Red-knot.
+- [[Zig]] — Systems programming language Charlie Marsh cites as an interesting Rust alternative.
+- [[Bun]] — JavaScript/TypeScript runtime whose agent-driven Zig-to-Rust rewrite is discussed.
+- [[Mitchell Hashimoto]] — HashiCorp co-founder and Ghostty creator.
+- [[Andrew Gallant]] — Astral engineer and author of ripgrep (handle "burntsushi").
+- [[Andrew Kelley]] — Creator of the Zig programming language.
+- [[Sebastian Ramirez]] — Creator of FastAPI and an early supporter of Ruff.
+- [[ripgrep]] — Fast line-oriented search tool in Rust by Andrew Gallant.
+- [[Rust Analyzer]] — Popular Rust language-server (LSP) built on the Salsa framework.
+- [[Spring Discovery]] — Computational biology company where Marsh was the second engineer.
+- [[mypy]] — Static type checker for Python.
 
 ## Concepts
 
@@ -831,6 +894,36 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Protein Folding]] — Predicting a protein's 3D structure from its sequence; NP-hard as energy minimization.
 - [[Quantum Computation]] — Computing with qubits in superposition, "probability theory with negative numbers."
 - [[Halting Problem]] — Deciding whether an arbitrary program halts; the canonical uncomputable problem.
+- [[Functional Programming]] — Programming with values instead of mutation, excluding side effects by default.
+- [[Lambda Calculus]] — Alonzo Church's mutation-free model of computation; the essence of functional programming.
+- [[Type System]] — Letting a compiler reject "silly" programs before they run.
+- [[Monads]] — Structure letting a pure language sequence effectful computations (do notation).
+- [[Lazy Evaluation]] — Deferring evaluation until a value is needed; Haskell's default.
+- [[Immutability]] — Programming with values that don't change; "immutability changes everything."
+- [[Side Effects]] — Observable interaction with state, excluded by default in pure functional programming.
+- [[Parametric Polymorphism]] — One piece of code working uniformly for all types.
+- [[Effect Systems]] — Describing which specific effects a computation may have.
+- [[SKI Combinators]] — Three combinators (S, K, I) used as "machine code" for functional programs.
+- [[Dataflow Architecture]] — Execution where instructions fire when data arrives, not under a program counter.
+- [[Frontier Lab]] — Company at the cutting edge of AI development (Google DeepMind, OpenAI, Anthropic).
+- [[Research Taste]] — Intuition for which path to take through a research project's stochastic graph.
+- [[Research as Markov Decision Process]] — Steinhardt's framing of research as a stochastic dependency graph.
+- [[Mathematical Maturity]] — Reading and deeply understanding research-level ML papers.
+- [[Scaling Laws]] — Predicting final test loss as a function of the flops invested in pre-training.
+- [[Pre-training]] — The initial, largest-scale training phase of an LLM.
+- [[Inference Co-Design]] — Designing architectures that run inference efficiently on serving hardware.
+- [[Model Quantization]] — Compressing weights (e.g., FP32 to 4-bit) for cheaper, lower-latency inference.
+- [[Knowledge Distillation]] — Transferring knowledge from a teacher model to a student model.
+- [[Mixture of Experts]] — Routing tokens to a subset of expert parameters for capacity.
+- [[Pipeline Parallelism]] — Parallelizing model layers (not experts) across machines.
+- [[Model FLOPS Utilization]] — Ratio of useful flops to peak flops; naively low is not waste.
+- [[Reinforcement Learning from Human Feedback]] — Aligning LLMs with human preferences.
+- [[Vibe Coding]] — Karpathy's term for prompting AI without reading the code.
+- [[Hyrum's Law]] — With enough users, every observable behavior becomes part of the API.
+- [[Contributor Poker]] — Zig's term for betting on open-source contributors, broken by agent PRs.
+- [[Incremental Computation]] — Recomputing only the parts of a result affected by a change.
+- [[Developer Marketing]] — Communicating a technical product's value honestly and quickly.
+- [[Data-Oriented Design]] — Performance by centering how data is laid out and accessed in memory.
 
 ## Syntheses
 

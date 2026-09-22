@@ -2,8 +2,8 @@
 title: "Open Source"
 type: concept
 tags: [engineering, open-source, tools, sharing]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md"]
+last_updated: 2026-09-22
 ---
 
 ## Definition
@@ -25,6 +25,10 @@ Open Source refers to the practice of sharing a codebase publicly, which Michael
 - Most open-source contributions come from a small core (~80–90% core/paid contributors); legal fears about liability for contributed bugs keep non-tech companies from contributing, though Burns says those worries "don't hold water legally."
 - Independence (donation to the Linux Foundation's CNCF plus democratic governance) was critical to becoming an industry standard.
 
+### Charlie Marsh / Astral on open source + agents
+- Astral introduced an AI policy to "retain useful contributions while filtering out net negative interactions": contributors must understand what they submit, rather than relaying agent responses verbatim.
+- Zig takes a stricter "contributor poker" stance (no LLM-authored code), which Charlie partly sympathizes with because agent PRs break the maintainer–contributor feedback loop.
+
 ## Related
 
 - [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
@@ -37,3 +41,5 @@ Open Source refers to the practice of sharing a codebase publicly, which Michael
 - [[Codex]] — the open-sourced coding agent
 - [[React]] — an unambiguous success story
 - [[PyTorch]] — another success story
+- [[Contributor Poker]] — the agent-era contributor dynamic
+- [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — source summary

@@ -19,3 +19,4 @@ Garbage collection is automatic reclamation of unreachable memory; C++ supports 
 - [[C++]] — supports it optionally
 - [[Resource Acquisition Is Initialization (RAII)]] — the preferred discipline
 - [[Hans Boehm]] — its main advocate in standardization
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

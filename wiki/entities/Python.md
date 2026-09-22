@@ -2,7 +2,7 @@
 title: "Python"
 type: entity
 tags: [programming-language, scripting, data-science]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md"]
 last_updated: 2026-09-22
 ---
 
@@ -19,6 +19,11 @@ Python is a high-level, dynamically-typed programming language. John Myles White
 - Raw Python runs ~70x slower than raw C++; its viability comes from key libraries written in C/C++, recreating the high-level + low-level split he designed C++ to avoid.
 - James Cowling: Magic Pocket's initial prototype was written in Python, which he defends as "actually pretty efficient for IO" and unfairly maligned for IO-bound workloads, though less suited to concurrency, memory management, and refactoring.
 
+### Charlie Marsh on Python tooling
+- Charlie saw the Python ecosystem lacking the native, performance-focused tooling that had become accepted in the JavaScript ecosystem (esbuild, SWC, Bun, Deno), with most Python tools written in Python itself.
+- That gap inspired Astral's Ruff and uv, framed by his "Python tooling could be much, much faster" hypothesis.
+- Astral's Red-knot type checker and uv package manager bring the native/Rust approach to Python tooling.
+
 ## Related
 
 - [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — source summary
@@ -33,3 +38,10 @@ Python is a high-level, dynamically-typed programming language. John Myles White
 - [[Programming Language Design]] — a design-overhead example
 - [[Go (Programming Language)]] — the language the Magic Pocket prototype was migrated to
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
+- [[Charlie Marsh]] — founder of Astral
+- [[Astral]] — Python dev-tools company
+- [[Ruff]] — Python linter in Rust
+- [[uv]] — Python package manager in Rust
+- [[Red-knot]] — Python type checker
+- [[mypy]] — earlier Python type checker
+- [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — source summary

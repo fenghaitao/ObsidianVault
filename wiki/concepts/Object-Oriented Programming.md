@@ -19,3 +19,4 @@ Object-oriented programming organizes code around objects that combine data and 
 - [[C++]] — supports it but is not defined by it
 - [[Simula]] — the paradigm's source
 - [[Bjarne Stroustrup]] — the designer clarifying the distinction
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

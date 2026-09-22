@@ -36,3 +36,4 @@ MIT (Massachusetts Institute of Technology) is where Dwayne Reeves studied befor
 - [[Bell Labs]] — compared to MIT in scale
 - [[James Cowling]] — MIT PhD alumnus
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
+- [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
