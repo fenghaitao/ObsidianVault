@@ -57,6 +57,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — Simon Peyton Jones on Haskell and functional programming, GHC's compiler pipeline, monads and type systems, and language design in the LLM era.
 - [[summary-20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg]] — Vlad Feinberg on what it takes to land a job at a frontier lab: kernel engineering, research taste, scaling laws, and open-source signal.
 - [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — Charlie Marsh on building Ruff and uv at Astral, choosing Rust, and how AI agents are collapsing the cost of a plausible PR.
+- [[summary-20260629 - MIT Professor： Leetcode, P vs NP, SAT Solvers ｜ Ryan Williams]] — Ryan Williams on fine-grained complexity, SETH, and his contrarian confidence levels on P vs NP and beyond.
+- [[summary-20260706 - Turing Award Winner： The Invention of Public Key Cryptography ｜ Martin Hellman]] — Martin Hellman on inventing public key cryptography with Diffie and Merkle, the crypto wars, and his later nuclear-risk advocacy.
+- [[summary-20260713 - Turing Award Winner： TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC ｜ David Patterson]] — David Patterson on RISC vs CISC, Moore's law and Dennard scaling, and the rise of domain-specific architectures like the TPU.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -565,6 +568,15 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Rust Analyzer]] — Popular Rust language-server (LSP) built on the Salsa framework.
 - [[Spring Discovery]] — Computational biology company where Marsh was the second engineer.
 - [[mypy]] — Static type checker for Python.
+- [[Gödel Prize]] — Prize for outstanding papers in theoretical computer science, named after Kurt Gödel.
+- [[Lance Fortnow]] — Theoretical computer scientist and author of "The Golden Ticket: P, NP, and the Search for the Impossible."
+- [[Michael Sipser]] — Theoretical computer scientist and author of "Introduction to the Theory of Computation."
+- [[Martin Hellman]] — Co-inventor (with Diffie and Merkle) of public key cryptography and Turing Award winner.
+- [[Ralph Merkle]] — Independently invented the key-distribution half of public key cryptography and later earned his PhD under Hellman at Stanford.
+- [[NSA]] — U.S. signals-intelligence agency that opposed open publication of cryptographic research in the 1970s.
+- [[David Patterson]] — Turing Award-winning UC Berkeley computer architect, RISC champion, and leader of Google's TPU effort.
+- [[Hennessy & Patterson]] — The two computer architects who championed RISC and wrote the standard textbook "Computer Architecture: A Quantitative Approach."
+- [[Arm]] — Family of RISC processor designs (from Acorn Computers) that now dominate mobile and are entering cloud and PCs.
 
 ## Concepts
 
@@ -924,6 +936,28 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Incremental Computation]] — Recomputing only the parts of a result affected by a change.
 - [[Developer Marketing]] — Communicating a technical product's value honestly and quickly.
 - [[Data-Oriented Design]] — Performance by centering how data is laid out and accessed in memory.
+- [[Fine-Grained Complexity]] — Whether canonical polynomial and subexponential algorithm running times (n², n³, 2ⁿ) are optimal.
+- [[Strong Exponential Time Hypothesis (SETH)]] — The conjecture that SAT cannot be solved substantially faster than 2ⁿ.
+- [[Three-Sum Problem]] — Whether a list of n numbers contains three that sum to a target; a canonical fine-grained complexity and interview problem.
+- [[Subset Sum]] — Whether some subset of integers sums to a target; a canonical NP-complete problem.
+- [[Meet-in-the-Middle]] — Splitting a problem into halves, enumerating each, and combining to beat naive exhaustive search.
+- [[Circuit Complexity]] — The size and depth of Boolean circuits required to compute functions.
+- [[Public Key Cryptography]] — Using a public and a private key so parties can communicate or sign without first sharing a secret.
+- [[Diffie-Hellman Key Exchange]] — Two parties agree on a shared secret over an insecure channel via a commutative one-way function.
+- [[Digital Signatures]] — Authenticating a message by signing a hash with a private key, verifiable with the public key.
+- [[RSA]] — The first public key cryptosystem (Rivest–Shamir–Adleman), using modular arithmetic mod a composite N.
+- [[Data Encryption Standard]] — 1975 symmetric block cipher whose deliberately short 56-bit key Hellman and Diffie argued against.
+- [[Advanced Encryption Standard]] — Modern symmetric encryption standard with a 128-bit minimum key, far larger than DES's 56 bits.
+- [[Crypto Wars]] — Recurring conflicts between government surveillance agencies and cryptographers over strong encryption.
+- [[Key Escrow]] — Third-party retention of encryption keys, weakening security in exchange for lawful access.
+- [[Nuclear Risk]] — Hellman's existential-threat concern over nuclear weapons and possibly AI in command and control.
+- [[Computer Architecture]] — Design of the software–hardware interface and its quantitative evaluation, in Patterson's framing.
+- [[RISC vs CISC]] — The 1980s debate over few simple instructions versus many sophisticated ones.
+- [[Moore's Law]] — Gordon Moore's observation that transistor counts double roughly every two years.
+- [[Dennard Scaling]] — Bob Dennard's observation that shrinking transistors while lowering threshold voltage keeps power roughly constant.
+- [[Domain-Specific Architecture]] — A processor specialized for a narrow domain, sacrificing generality for large efficiency gains.
+- [[Microprogramming]] — Maurice Wilkes' control technique that stores control signals as microinstructions.
+- [[How to Have a Bad Career]] — David Patterson's talk that teaches career and life advice by negation.
 
 ## Syntheses
 

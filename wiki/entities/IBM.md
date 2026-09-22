@@ -2,8 +2,8 @@
 title: "IBM"
 type: entity
 tags: [company, tech, research]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260706 - Turing Award Winner： The Invention of Public Key Cryptography ｜ Martin Hellman.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -22,6 +22,8 @@ IBM (specifically IBM Research) is the industrial research lab where the Snapcha
 
 - Bjarne Stroustrup: IBM was one of the companies (with HP and Sun/DEC) whose representatives "twisted [his] arm" in 1989 to standardize C++ under ISO.
 - In the standards committee, the IBM rep (Brian, working on PowerPC) was deadlocked with the Intel representative over low-level hardware/cache-coordination models; Bjarne ran "shuttle diplomacy" between the two corners of the room to reach the agreement that landed in C++ 11.
+- Martin Hellman worked at IBM Research (Yorktown Heights) in 1968, overlapping with Horst Feistel — "the father of IBM's research in cryptography" — who was hired that year and started unclassified cryptography research; lunches with Feistel got Hellman started.
+- Around the time Whitfield Diffie visited, a secrecy order had descended on IBM's cryptography work; IBM staff could tell Hellman and Diffie very little.
 
 ## Related
 
@@ -36,3 +38,8 @@ IBM (specifically IBM Research) is the industrial research lab where the Snapcha
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
 - [[C++]] — pushed its standardization; PowerPC corner
 - [[Intel]] — the other corner of the dispute
+- [[summary-20260706 - Turing Award Winner： The Invention of Public Key Cryptography ｜ Martin Hellman]] — source summary (Hellman interview)
+- [[Martin Hellman]] — worked at IBM Research in 1968
+- [[Whitfield Diffie]] — visited IBM around the secrecy order
+- [[Public Key Cryptography]] — the field rooted in IBM's unclassified work
+- [[NSA]] — imposed the secrecy order

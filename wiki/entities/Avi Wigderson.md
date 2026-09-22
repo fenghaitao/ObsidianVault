@@ -2,8 +2,8 @@
 title: "Avi Wigderson"
 type: entity
 tags: [person, mathematician, computer-scientist, theoretical-computer-science]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260629 - MIT Professor： Leetcode, P vs NP, SAT Solvers ｜ Ryan Williams.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -22,6 +22,7 @@ Avi Wigderson is a mathematician and theoretical computer scientist who won both
 - Predicted zero-knowledge proofs would never be implemented because the protocol is so costly — and says "I was wrong," given how important ZK became in the real world.
 - On motivations: he works because he enjoys the activity of thinking and learning from failures; most days he "fails to do what [he] wanted to do."
 - Advice to researchers: "work on things they enjoy the most" and experiment broadly early on; "what you like most is what you are better at."
+- Ryan Williams recommends "Avi's book" as a nice introduction to complexity theory (among his recommended readings for learning the field).
 
 ## Related
 
@@ -37,3 +38,5 @@ Avi Wigderson is a mathematician and theoretical computer scientist who won both
 - [[Silvio Micali]] — collaborator
 - [[Millennium Prize Problems]] — P vs NP framing
 - [[Richard Karp]] — met early in his career
+- [[summary-20260629 - MIT Professor： Leetcode, P vs NP, SAT Solvers ｜ Ryan Williams]] — source summary
+- [[Ryan Williams]] — recommends his book

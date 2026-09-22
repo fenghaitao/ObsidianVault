@@ -2,8 +2,8 @@
 title: "Turing Award"
 type: entity
 tags: [award, computer-science, recognition]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260713 - Turing Award Winner： TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC ｜ David Patterson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260706 - Turing Award Winner： The Invention of Public Key Cryptography ｜ Martin Hellman.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -19,6 +19,10 @@ The Turing Award (the A.M. Turing Award) is the highest distinction in computer 
 - Mike Stonebraker and Barbara Liskov are both Turing Award winners interviewed by Ryan L. Peterman.
 - Liskov recalls negative online commentary about her award ("why did she get the Turing Award?"); she reads it as a compliment — her foundational work on data abstraction and modularity became so basic that people assumed it always existed.
 - Avi Wigderson is introduced as a Turing Award winner (and Abel Prize winner) in his interview with Ryan L. Peterman on complexity theory, randomness, zero-knowledge proofs, and quantum computation.
+- David Patterson is introduced as a Turing Award winner "famous for his contributions to computer architecture," in an interview covering RISC vs CISC, Moore's law, Dennard scaling, GPUs, and Google's TPU.
+- Martin Hellman won the Turing Award (with Whitfield Diffie) for public key cryptography.
+- Hellman recounts that Jim Omura, who had told him he was crazy to work in cryptography, later confessed "Oh, I told Marty he was crazy" at Tom Kailath's 80th birthday, after Hellman had won the award.
+- Hellman suspects Ron Rivest may have nominated Diffie and himself for the Turing Award.
 
 ## Related
 
@@ -34,3 +38,12 @@ The Turing Award (the A.M. Turing Award) is the highest distinction in computer 
 - [[summary-20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson]] — source summary
 - [[Avi Wigderson]] — award winner
 - [[Abel Prize]] — the mathematics counterpart prize
+- [[summary-20260713 - Turing Award Winner： TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC ｜ David Patterson]] — source summary
+- [[David Patterson]] — award winner
+- [[Hennessy & Patterson]] — RISC champions
+- [[summary-20260706 - Turing Award Winner： The Invention of Public Key Cryptography ｜ Martin Hellman]] — source summary (Hellman interview)
+- [[Martin Hellman]] — award winner
+- [[Whitfield Diffie]] — award winner
+- [[Public Key Cryptography]] — the work recognized
+- [[Diffie-Hellman Key Exchange]] — their contribution
+- [[RSA]] — Rivest may have nominated them
