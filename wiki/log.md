@@ -211,3 +211,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-23] ingest | Ingested David Patterson (computer architecture) episode
 - **Changes**: created [[summary-20260713 - Turing Award Winner： TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC ｜ David Patterson]], created [[David Patterson]], created [[Hennessy & Patterson]], created [[Arm]], created [[Computer Architecture]], created [[RISC vs CISC]], created [[Moore's Law]], created [[Dennard Scaling]], created [[Domain-Specific Architecture]], created [[Microprogramming]], created [[How to Have a Bad Career]], updated [[Turing Award]], updated [[Tensor Processing Unit (TPU)]], updated [[Google]], updated [[Nvidia]], updated [[UC Berkeley]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Xavier Leroy (OCaml creator) episode
+- **Changes**: created [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]], created [[Xavier Leroy]], created [[Yaron Minsky]], created [[Coq]], created [[Lean]], created [[CompCert]], created [[JavaScript]], created [[seL4]], created [[MirageOS]], created [[Brendan Eich]], created [[Formal Verification]], created [[Type Inference]], created [[Proof Assistants]], created [[Manual Memory Management]], created [[Memory Model]], created [[Foreign Function Interface]], created [[Semantics of Programming Languages]], updated [[OCaml]], updated [[Jane Street]], updated [[Rust]], updated [[Robin Milner]], updated [[ML (Programming Language)]], updated [[C (Programming Language)]], updated [[Garbage Collection]], updated [[Parametric Polymorphism]], updated [[Static and Dynamic Typing]], updated [[Halting Problem]], updated [[Type System]], updated [[Memory Safety]], updated [[Programming Language Design]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested David J. Malan (learn C in 2026) clip
+- **Changes**: created [[summary-20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan]], created [[Engineer vs Coder]], updated [[David J. Malan]], updated [[CS50]], updated [[C (Programming Language)]], updated [[Python]], updated [[Standard Template Library (STL)]], updated [[First Principles]], updated [[Programming Language Design]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Simon Peyton Jones (C is dangerous) clip
+- **Changes**: created [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]], created [[Buffer Overflow]], updated [[Simon Peyton Jones]], updated [[C (Programming Language)]], updated [[Haskell]], updated [[Rust]], updated [[OCaml]], updated [[ML (Programming Language)]], updated [[Microsoft]], updated [[Memory Safety]], updated [[Programming Language Design]], updated [[Functional Programming]], updated [[index.md]]
+- **Conflicts**: none

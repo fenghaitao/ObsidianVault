@@ -60,6 +60,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260629 - MIT Professor： Leetcode, P vs NP, SAT Solvers ｜ Ryan Williams]] — Ryan Williams on fine-grained complexity, SETH, and his contrarian confidence levels on P vs NP and beyond.
 - [[summary-20260706 - Turing Award Winner： The Invention of Public Key Cryptography ｜ Martin Hellman]] — Martin Hellman on inventing public key cryptography with Diffie and Merkle, the crypto wars, and his later nuclear-risk advocacy.
 - [[summary-20260713 - Turing Award Winner： TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC ｜ David Patterson]] — David Patterson on RISC vs CISC, Moore's law and Dennard scaling, and the rise of domain-specific architectures like the TPU.
+- [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — Xavier Leroy on OCaml's functional/systems duality, type inference and garbage collection, and formal verification via CompCert and proof assistants like Coq and Lean.
+- [[summary-20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan]] — David J. Malan on why CS50 still starts with C, and how building on low-level fundamentals separates engineers from coders.
+- [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — Simon Peyton Jones on C's memory unsafety and buffer overruns, and why memory-safe languages eliminate most exploits by construction.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -577,6 +580,15 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[David Patterson]] — Turing Award-winning UC Berkeley computer architect, RISC champion, and leader of Google's TPU effort.
 - [[Hennessy & Patterson]] — The two computer architects who championed RISC and wrote the standard textbook "Computer Architecture: A Quantitative Approach."
 - [[Arm]] — Family of RISC processor designs (from Acorn Computers) that now dominate mobile and are entering cloud and PCs.
+- [[Xavier Leroy]] — Creator of OCaml and leader of the formally verified CompCert C compiler.
+- [[Yaron Minsky]] — Jane Street leader and early OCaml systems user who built the firm's trading infrastructure in OCaml.
+- [[Coq]] — Interactive theorem prover used by Xavier Leroy to verify the CompCert C compiler.
+- [[Lean]] — Proof assistant whose formal language lets users write definitions and have proofs machine-checked.
+- [[CompCert]] — Formally verified C compiler led by Xavier Leroy, proved to preserve program semantics.
+- [[JavaScript]] — Dynamic, high-level language Leroy calls "the ultimate dynamic language," contrasting with OCaml.
+- [[seL4]] — Formally verified microkernel with every line of its ~8,000 lines of C proved correct.
+- [[MirageOS]] — Library operating system (unikernel) written in OCaml.
+- [[Brendan Eich]] — Designer of JavaScript, whose functional core Leroy traces to Eich's Lisp background.
 
 ## Concepts
 
@@ -958,6 +970,15 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Domain-Specific Architecture]] — A processor specialized for a narrow domain, sacrificing generality for large efficiency gains.
 - [[Microprogramming]] — Maurice Wilkes' control technique that stores control signals as microinstructions.
 - [[How to Have a Bad Career]] — David Patterson's talk that teaches career and life advice by negation.
+- [[Formal Verification]] — Proving for all possible inputs that a program meets a specification, beyond testing and review.
+- [[Type Inference]] — The compiler's deduction of types from usage, so the programmer declares fewer annotations.
+- [[Proof Assistants]] — Tools (Lean, Coq, Isabelle) with formal languages for writing and machine-checking proofs.
+- [[Manual Memory Management]] — Explicit allocation and freeing, contrasted with automatic garbage collection.
+- [[Memory Model]] — The guarantees a language gives about ordering and visibility of concurrent memory access.
+- [[Foreign Function Interface]] — How a high-level language calls functions written in a lower-level language.
+- [[Semantics of Programming Languages]] — The field assigning mathematical meaning to programs, the bridge to formal reasoning.
+- [[Engineer vs Coder]] — Malan's distinction between understanding building blocks versus merely outputting working code.
+- [[Buffer Overflow]] — Memory-safety vulnerability from writing past a buffer's bounds, possible in unchecked languages like C.
 
 ## Syntheses
 

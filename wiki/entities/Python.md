@@ -2,8 +2,8 @@
 title: "Python"
 type: entity
 tags: [programming-language, scripting, data-science]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -18,6 +18,7 @@ Python is a high-level, dynamically-typed programming language. John Myles White
 - Bjarne Stroustrup: Guido van Rossum built Python with the explicit aim of letting "many people or even everybody" program — and succeeded; Bjarne designed C++ for serious programmers, "not the same problem."
 - Raw Python runs ~70x slower than raw C++; its viability comes from key libraries written in C/C++, recreating the high-level + low-level split he designed C++ to avoid.
 - James Cowling: Magic Pocket's initial prototype was written in Python, which he defends as "actually pretty efficient for IO" and unfairly maligned for IO-bound workloads, though less suited to concurrency, memory management, and refactoring.
+- David J. Malan (2026): in CS50, the week-5 hand-built C hash table "gets whittled down in week six to one line where you just instantiate a Python dictionary" — the payoff of first understanding the underlying structure before the high-level abstraction.
 
 ### Charlie Marsh on Python tooling
 - Charlie saw the Python ecosystem lacking the native, performance-focused tooling that had become accepted in the JavaScript ecosystem (esbuild, SWC, Bun, Deno), with most Python tools written in Python itself.
@@ -45,3 +46,4 @@ Python is a high-level, dynamically-typed programming language. John Myles White
 - [[Red-knot]] — Python type checker
 - [[mypy]] — earlier Python type checker
 - [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — source summary
+- [[summary-20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan]] — source summary

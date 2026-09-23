@@ -2,8 +2,8 @@
 title: "Simon Peyton Jones"
 type: entity
 tags: [person, computer-scientist, Haskell, GHC, language-design]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md"]
+last_updated: 2026-09-23
 ---
 ## Definition
 Simon Peyton Jones is the British computer scientist and co-creator of the functional programming language Haskell, a key figure behind GHC, and a language designer at Epic Games.
@@ -20,6 +20,8 @@ Simon Peyton Jones is the British computer scientist and co-creator of the funct
 - Gives a lay-audience talk "Bits with Soul," arguing every person should understand that everything computes from bits and blindly-followed machine instructions.
 - On AI and jobs: "co-pilots need pilots"; optimistic that LLMs become bigger power tools despite considerable short-term dislocation.
 - Career advice: successful people are all "making it up as they go along," and luck favors those who take risks.
+- On C's unsafety: any function can mutate any memory at any time via raw pointers with no array-bounds checks, so buffer overruns and flawed pointer manipulation underlie most internet exploits.
+- If internet software and operating systems had been written in Haskell, OCaml, or ML, ~99% of these exploits would be "removed by construction."
 
 ## Related
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
@@ -30,3 +32,5 @@ Simon Peyton Jones is the British computer scientist and co-creator of the funct
 - [[Functional Programming]] — his life's research
 - [[Butler Lampson]] — present in the "Haskell is useless" video
 - [[Epic Games]] — his employer
+- [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — source summary
+- [[Buffer Overflow]] — the exploit class he cites

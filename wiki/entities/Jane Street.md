@@ -2,8 +2,8 @@
 title: "Jane Street"
 type: entity
 tags: [company, finance, quant, trading]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -19,6 +19,9 @@ Jane Street is a quantitative trading firm and one of the most prestigious emplo
 
 - Nimit Sohoni described Jane Street as a firm where the number of people formally called "quants" is very small because traders are themselves technical and implement a lot themselves; he contrasted this with Citadel, which is a more "quant forward" firm
 
+- Xavier Leroy: Yaron Minsky (a PhD student on Cornell's Ensemble OCaml project) joined Jane Street and implemented its trading infrastructure in OCaml because automatic trading must be fast, reliable, free of long GC pauses, and readable by non-programmers (financial engineers, quantitative analysts).
+- Jane Street explores "Oxidized OCaml," an experimental OCaml variant with Rust-inspired ideas such as stack allocation.
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
@@ -29,3 +32,7 @@ Jane Street is a quantitative trading firm and one of the most prestigious emplo
 - [[Renaissance Technologies]] — tier-list peer
 - [[Quantitative Finance]] — field context
 - [[summary-20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni]] — source summary
+- [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — source summary
+- [[OCaml]] — the language of its trading systems
+- [[Yaron Minsky]] — brought OCaml to Jane Street
+- [[Xavier Leroy]] — OCaml's creator

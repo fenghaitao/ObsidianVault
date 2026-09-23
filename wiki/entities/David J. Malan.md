@@ -2,8 +2,8 @@
 title: "David J. Malan"
 type: entity
 tags: [person, professor, computer-science, education]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -20,6 +20,9 @@ David J. Malan is a Harvard professor best known for transforming CS50 into a wo
 - Kept C in CS50 because it sits close to the hardware and forces students to build data structures themselves, teaching first principles.
 - Spent a sabbatical semester as "professor in residence" at GitHub, advocating for educational use cases in tools like VS Code.
 - Biggest regret: not calming down and exploring more (e.g., dramatic arts, archaeology) earlier.
+- In July 2026, defended starting CS50 with C: it is "about as close as you can get to the hardware" before assembly code yet keeps "English-like syntax and abstractions on top of lower-level primitives"; it is "a pretty small language" with a small standard library, so most things must be built yourself.
+- Rejected the "you don't need to actually know how the computer works" argument as "absolutely the wrong mindset" for a full-stack engineer; his framing is that you "won't need to use these things" rather than "don't need to know these things."
+- Uses C for ~5 weeks a year and Scratch for ~1 week, but argues the principles extracted from those implementation details stay valuable; the goal is "engineers and educated citizens," the "engineer" vs "coder" distinction.
 
 ## Related
 
@@ -30,3 +33,4 @@ David J. Malan is a Harvard professor best known for transforming CS50 into a wo
 - [[Teaching]] — his craft
 - [[Online Education]] — his mission
 - [[GitHub]] — his sabbatical host
+- [[summary-20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan]] — source summary

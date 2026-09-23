@@ -2,8 +2,8 @@
 title: "Microsoft"
 type: entity
 tags: [company, FAANG, tech, Seattle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -58,6 +58,9 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - "When you have two products where the quality is pretty equal, people are going to just use the one that's the default."
 - The IE team placed a giant "E" logo on Netscape's San Francisco lawn — attributed to Hadi Partovi, who ran IE while James ran the Netscape browser.
 
+### Simon Peyton Jones on MSRC
+- SPJ cites Microsoft's MSRC (Microsoft Security Response Center) as discovering security exploits "in huge numbers" — evidence of the daily toll of memory-unsafe languages like C.
+
 ## Related
 - [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
 - [[Netscape]] — the browser-war rival
@@ -89,3 +92,4 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary
 - [[Bryan Cantrill]] — who refused to work at Microsoft on principle
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
+- [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — source summary

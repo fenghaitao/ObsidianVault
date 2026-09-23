@@ -2,8 +2,8 @@
 title: "Haskell"
 type: entity
 tags: [language, functional-programming, lazy, statically-typed]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md"]
+last_updated: 2026-09-23
 ---
 ## Definition
 Haskell is a pure, lazy, statically typed functional programming language co-created by Simon Peyton Jones and others.
@@ -18,6 +18,7 @@ Haskell is a pure, lazy, statically typed functional programming language co-cre
 - On SPJ's "useful vs safe" graph, early Haskell was "very safe but useless"; it has since gained usefulness while staying safe.
 - Culture: "avoid success at all costs" — never give up the one core principle, even at the cost of a smaller community of users.
 - SPJ notes Haskell is "talked about more than used" (Stack Overflow vs GitHub volume) because it asks programmers to genuinely rewire how they think.
+- SPJ: if internet software and operating systems had been written in Haskell (or OCaml/ML), ~99% of security exploits would be "removed by construction."
 
 ## Related
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
@@ -41,3 +42,4 @@ Haskell is a pure, lazy, statically typed functional programming language co-cre
 - [[David Turner]] — lambda-to-SK translation
 - [[Lennart Augustsson]] — built microHS
 - [[Butler Lampson]] — in the "Haskell is useless" video
+- [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — source summary

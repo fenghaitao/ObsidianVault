@@ -2,8 +2,8 @@
 title: "C (Programming Language)"
 type: entity
 tags: [programming-language, systems-programming, C]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md"]
+last_updated: 2026-09-23
 ---
 ## Definition
 C is the low-level systems programming language created at Bell Labs (co-created by Dennis Ritchie), used as the foundation for C++.
@@ -17,6 +17,16 @@ C is the low-level systems programming language created at Bell Labs (co-created
 - C borrowed the C++ 11 memory model; identical code yields identical results, though C++ compilers often do more at compile time.
 - Dennis Ritchie's "fat pointer" (pointer + size) proposal was rejected by early C for memory reasons but survives as C++ `span`.
 - The "C vs C++ language war" is misplaced: the creators were friends, and Ritchie called C++ the obvious successor to C.
+- David J. Malan (2026): C is "about as close as you can get to the hardware" before code "devolves, at least aesthetically, into assembly code"; beyond that are "zeros and ones."
+- Pedagogically it "strikes this really nice balance" of English-like syntax and abstractions over lower-level primitives, letting students explore procedural programming (loops, conditions, functions, variables, return values).
+- It is "a pretty small language" with "not a very large standard library" (unless you add third-party code), so most things must be built yourself — C has no instantiable built-in data structures like Java/C++'s STL.
+- That forces students to build hash tables, singly/doubly linked lists, tries, trees, and abstract data types (stacks, queues) themselves, which Malan values for bottom-up understanding rather than for later reuse.
+- C remains ranked #1/#2 annually in omnipresence because it is "very highly performant," though more challenging to write than some languages.
+- Simon Peyton Jones: C is unsafe because any function can mutate any memory at any time via raw pointers with no array-bounds checks — "super unsafe."
+- SPJ argues most internet exploits stem from C-style buffer overruns and pointer manipulation, and that memory-safe languages would remove ~99% of them "by construction."
+- Xavier Leroy's CompCert is a formally verified C compiler, proved to translate C to assembly while faithfully preserving program semantics (no miscompilation).
+- In shared-memory concurrency, C and C++ say a race is "undefined behavior"; the C/C++11 memory model is a real improvement over Java's several iterations but remains extremely complex.
+- Depending on the host's toolchain, OCaml programs call into C via a foreign function interface, joining the C linker when statically linked.
 
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
@@ -30,3 +40,11 @@ C is the low-level systems programming language created at Bell Labs (co-created
 - [[Unix]] — the OS C was written for
 - [[Bootstrapping (Compilers)]] — starting point for C++'s bootstrap
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
+- [[summary-20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan]] — source summary
+- [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — source summary
+- [[Buffer Overflow]] — the vulnerability class tied to C
+- [[Memory Safety]] — what C lacks by default
+- [[CompCert]] — the verified C compiler
+- [[Memory Model]] — C/C++ concurrency semantics
+- [[Xavier Leroy]] — verified a C compiler's correctness
+- [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — source summary

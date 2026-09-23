@@ -2,8 +2,8 @@
 title: "Functional Programming"
 type: concept
 tags: [concept, programming-paradigm, functional-programming]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md"]
+last_updated: 2026-09-23
 ---
 ## Definition
 Functional programming is programming with values instead of mutation — excluding side effects by default so computation resembles mathematics.
@@ -15,6 +15,7 @@ Functional programming is programming with values instead of mutation — exclud
 - Downside: pure functional code is sometimes tiresome/inconvenient — e.g., simply reading the time of day is a side effect; Haskell's escape hatch is `unsafePerformIO`.
 - Many ideas "born" in functional programming crossed into the mainstream: garbage collection, lambdas, language-integrated query, type systems, polymorphism, static typing.
 - SPJ's stance: "start from functional programming and do imperative programming where necessary."
+- SPJ caveats that the case for memory-safe languages is "not just functional programming" — it is specifically about why he considers C an insecure, unsafe language.
 
 ## Related
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
@@ -32,3 +33,4 @@ Functional programming is programming with values instead of mutation — exclud
 - [[Alonzo Church]] — seeded it with the lambda calculus
 - [[John Hughes]] — "Why Functional Programming Matters"
 - [[Pat Helland]] — "programming with values changes everything"
+- [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — source summary
