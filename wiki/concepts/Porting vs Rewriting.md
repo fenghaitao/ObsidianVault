@@ -2,7 +2,7 @@
 title: "Porting vs Rewriting"
 type: concept
 tags: [concept, compilers, software-engineering, backwards-compatibility]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg.md"]
 last_updated: 2026-09-23
 ---
 
@@ -27,3 +27,4 @@ Porting vs rewriting is the engineering decision between mechanically translatin
 - [[Garbage Collection]] — a constraint on the target language
 - [[Concurrency]] — the performance motivation
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
+- [[summary-20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg]] — source summary

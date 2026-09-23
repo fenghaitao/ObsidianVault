@@ -3,7 +3,7 @@ title: "AI and Software Engineering"
 type: concept
 tags: [AI, career, engineering, future-of-work]
 sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md",
-  "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md"]
+  "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg.md"]
 last_updated: 2026-09-23
 ---
 
@@ -54,6 +54,8 @@ AI and Software Engineering examines the relationship between artificial intelli
 - On "AI will write 90% of code" / "no IDE needed within a year": people overreach to 100% — "there still has to be someone understanding what's going on" and connecting the work to the business problem.
 - If AI replaces junior engineers, "where are the seniors going to come from?" The craft shifts from typing code to reviewing agents' work — more reviewing, less typing.
 - Practical tip: ask AI to write a program that computes the answer (a spreadsheet, a translation tool) rather than the answer itself, since nondeterminism breaks trust.
+- On the "90%" claim: it depends what you count — AI already writes 100% of some no-code apps, and exploding output volume makes the prediction self-fulfilling; the harder bar is super-high-quality code no one has written before.
+- Personally, he has enjoyed typing code for 40–50 years and will keep typing the parts he likes, happily farming out tests to AI; he finds reviewing harder than writing and expects AI to make code review more ergonomic.
 
 ### Thariq Shihipar's Perspective
 - "Coding is largely solved" (a Boris tagline) means we no longer get stuck the way we used to — software was once so rare and failure-prone that most projects failed, but now it works far more often and can be applied everywhere.
@@ -90,3 +92,4 @@ AI and Software Engineering examines the relationship between artificial intelli
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
 - [[Thariq Shihipar]] — "coding is largely solved" and staying technical
 - [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — source summary
+- [[summary-20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg]] — source summary

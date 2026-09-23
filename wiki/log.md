@@ -271,3 +271,11 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-23] ingest | Ingested Thariq Shihipar (How Anthropic Builds) episode
 - **Changes**: created [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]], created [[Thariq Shihipar]], created [[Good Fire]], created [[Claude Tag]], created [[Harness Engineering]], created [[Loop Engineering]], created [[Context Engineering]], created [[Prompt Engineering]], created [[Knowledge Work as Code]], updated [[Anthropic]], updated [[Claude Code]], updated [[Claude]], updated [[AI and Software Engineering]], updated [[Agentic AI]], updated [[Vibe Coding]], updated [[Luck Surface Area]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Anders Hejlsberg (AI software engineering predictions) clip
+- **Changes**: created [[summary-20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg]], updated [[Anders Hejlsberg]], updated [[TypeScript]], updated [[AI and Software Engineering]], updated [[Agentic AI]], updated [[Software Engineering]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Anders Hejlsberg (Go rewrite) clip
+- **Changes**: created [[summary-20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg]], updated [[Anders Hejlsberg]], updated [[TypeScript]], updated [[JavaScript]], updated [[Go (Programming Language)]], updated [[Rust]], updated [[Porting vs Rewriting]], updated [[Garbage Collection]], updated [[Functional Programming]], updated [[Concurrency]], updated [[Programming Language Design]], updated [[Memory Safety]], updated [[index.md]]
+- **Conflicts**: none

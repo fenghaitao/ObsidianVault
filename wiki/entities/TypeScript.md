@@ -2,7 +2,7 @@
 title: "TypeScript"
 type: entity
 tags: [programming-language, tool, Microsoft]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg.md"]
 last_updated: 2026-09-23
 ---
 
@@ -25,8 +25,10 @@ TypeScript is the programming language whose development Fiona Fung worked on at
 - The compiler targets JavaScript rather than machine code (a "transpiler"): it mostly erases type annotations and downlevels newer syntax (e.g., classes into constructor functions), plus performs type checking — the types have no runtime effect and exist purely for tooling.
 - TypeScript uses a gradual type system: part of the code can be typed while the rest is `any`.
 - TypeScript 7 (the "native port") reimplemented the compiler in Go for a ~10x speedup, motivated by JavaScript's 2–3x performance penalty and its lack of shared-memory concurrency.
+- The port (not a rewrite) was chosen to preserve the compiler's semantics, algorithms, and exact behavior for backwards compatibility; the codebase already assumed garbage collection and first-class functions, which shaped the Go decision.
 - TypeScript recently became the #1 most-used language on GitHub — now larger than JavaScript (and Python). Its adoption "knee" coincides with AI: AI tools write TypeScript, not JavaScript, because type annotations guide the model and the compiler can statically validate output.
 - Visual Studio Code is ~2.3 million lines of code, and Microsoft has in-house projects over 10 million lines — scale far beyond what was imagined when TypeScript started in 2012.
+- The TypeScript compiler is so unlike code the models have seen that Hejlsberg says AI simply cannot write it — his concrete example of AI's limits on genuinely novel, high-quality code.
 
 ## Related
 
@@ -42,3 +44,5 @@ TypeScript is the programming language whose development Fiona Fung worked on at
 - [[Bootstrapping (Compilers)]] — self-hosting compiler
 - [[Static and Dynamic Typing]] — gradual type system
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
+- [[summary-20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg]] — source summary
+- [[summary-20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg]] — source summary

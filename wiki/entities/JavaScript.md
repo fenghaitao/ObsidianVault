@@ -2,7 +2,7 @@
 title: "JavaScript"
 type: entity
 tags: [programming-language, dynamic-typing, web]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg.md"]
 last_updated: 2026-09-23
 ---
 
@@ -27,6 +27,7 @@ JavaScript is a dynamic, high-level programming language that Xavier Leroy calls
 - JavaScript's edge over Java: it truly runs everywhere, including the browser.
 - Why replacement attempts failed: CoffeeScript was only a different syntax (no new semantics or tooling), while Dart tried to fix/replace JavaScript; fixing a language in place serves the ecosystem far better.
 - JavaScript was engineered single-threaded — hence callbacks/async rather than threads — and that lack of shared-memory concurrency is why the native TypeScript rewrite left it for Go.
+- JavaScript costs a 2–3x performance penalty versus native code and was never optimized for compute-intensive workloads like compilers (built for browser UI, originally maybe ~100 lines); its web workers can share data only by remoting/serializing it (JSON).
 
 ## Related
 
@@ -38,3 +39,4 @@ JavaScript is a dynamic, high-level programming language that Xavier Leroy calls
 - [[Anders Hejlsberg]] — defends JS and builds TypeScript on it
 - [[TypeScript]] — the typed superset he created
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
+- [[summary-20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg]] — source summary

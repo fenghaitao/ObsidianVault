@@ -2,8 +2,8 @@
 title: "Software Engineering"
 type: concept
 tags: [engineering, career, FAANG, software]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251111 - Uber Distinguished Eng： Unfair Promos, Influence, Engineering Regrets ｜ Joakim Recht.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -23,6 +23,7 @@ Software Engineering is the practice of designing, building, and maintaining sof
 - Joakim Recht (Uber Distinguished Engineer): "A software engineer needs to write code. If you're not writing code, you're not a software engineer" — applies at every level, ideally daily; those who stop writing code lose touch with the system and produce increasingly idealized, decoupled-from-reality designs
 
 - Marc Brooker: the direction of your work matters more than volume; with code "flowing like water," the job shifts toward finding important problems and understanding customers, business, economics, and systems — moving from senior-only work into the earliest steps of a career.
+- Anders Hejlsberg: the craft is changing from typing lines of code to having agents type while engineers review — more reviewing, less typing; the pyramid has narrowed at the bottom (fewer entering, advancing faster to supervisory roles), and juniors are still the pipeline that produces seniors.
 
 ## Related
 
@@ -37,3 +38,4 @@ Software Engineering is the practice of designing, building, and maintaining sof
 - [[Running Code Beats Perfect Code]] — related principle
 - [[summary-20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker]] — source summary
 - [[Marc Brooker]] — on the changing practice of software engineering
+- [[summary-20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg]] — source summary

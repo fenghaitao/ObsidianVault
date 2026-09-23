@@ -2,7 +2,7 @@
 title: "Memory Safety"
 type: concept
 tags: [concept, security, C++, safety]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -21,6 +21,9 @@ Memory safety is freedom from bugs like buffer overflows and use-after-free; a m
 - The big memory-unsafe languages are C and C++; he suspects most other low-level systems languages (e.g., Zig or Nim) are not memory safe either.
 - But you need more than memory safety: capability safety (agents must not forget or forge capabilities) — "without memory safety you have nothing, because you can fake everything."
 
+### Anders Hejlsberg on Go vs Rust
+- Go is "type safe and memory safe" — you don't get stray pointers — whereas Rust's manual strategies (ref counting and others) always carry "that little bit of unsafe"; garbage collection engineered into the language provides those safety guarantees as a separate concern.
+
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
 - [[C++]] — the language in question
@@ -37,3 +40,4 @@ Memory safety is freedom from bugs like buffer overflows and use-after-free; a m
 - [[Capability-Based Security]] — the safety that goes beyond memory
 - [[Rust]] — the language that made low-level memory safety possible
 - [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary
+- [[summary-20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg]] — source summary

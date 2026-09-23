@@ -3,7 +3,7 @@ title: "Agentic AI"
 type: concept
 tags: [AI, agents, LLM, databases, workflows]
 sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md",
-  "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md"]
+  "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg.md"]
 last_updated: 2026-09-23
 ---
 
@@ -26,6 +26,9 @@ Agentic AI refers to LLM-driven agents that take actions. Mike Stonebraker argue
 - At Anthropic, Claude Code handles code implementation while "Claude Tag" covers feedback, code review, CI/CD, and incidents — "turning every part of your software development life cycle into a routine or loop."
 - A loop that runs autonomously like an engineering job is like hiring someone: you must ensure the work you hand it is actually valuable, not just that the loop runs.
 
+### Anders Hejlsberg on Agents Writing Code
+- The craft of software engineering is shifting from typing lines of code to having agents type them while you review their work — "more reviewing, less typing" — and some engineers are fantastic at that workflow.
+
 ## Related
 
 - [[summary-20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker]] — source summary
@@ -42,3 +45,4 @@ Agentic AI refers to LLM-driven agents that take actions. Mike Stonebraker argue
 - [[Claude Tag]] — SDLC routines beyond code
 - [[Thariq Shihipar]] — autonomous-workflow practices
 - [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — source summary
+- [[summary-20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg]] — source summary
