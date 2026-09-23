@@ -2,7 +2,7 @@
 title: "Type Inference"
 type: concept
 tags: [type-systems, programming-languages, OCaml]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -18,6 +18,8 @@ Type inference is the compiler's deduction of types from how variables are used,
 - Under-constrained types yield polymorphism "for free" — the type checker sees no constraints and generalizes to "any type" — Robin Milner's great insight behind ML.
 - Main advantage: less verbose code — annotate types only where they document and clarify, and omit them for short-lived locals.
 - Trade-offs: type-error messages can be confusing and may not point at the actual source of the error; subtyping (from object-oriented languages) is hard to combine with full inference, forcing a choice between powerful inference and a richer type system.
+- Roberto Ierusalimschy: whole-program type inference for dynamic languages is "not computable"; many people have tried, but it is very hard to get useful performance — inference either demands a rigid coding style or yields very generic types.
+- The same idea applies to LuaJIT: performance improves a lot if the programmer follows an informal type discipline (not reusing a variable for integers and then strings), even though the language does not enforce it.
 
 ## Related
 

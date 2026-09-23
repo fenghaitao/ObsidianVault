@@ -2,7 +2,7 @@
 title: "C (Programming Language)"
 type: entity
 tags: [programming-language, systems-programming, C]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -27,6 +27,12 @@ C is the low-level systems programming language created at Bell Labs (co-created
 - Xavier Leroy's CompCert is a formally verified C compiler, proved to translate C to assembly while faithfully preserving program semantics (no miscompilation).
 - In shared-memory concurrency, C and C++ say a race is "undefined behavior"; the C/C++11 memory model is a real improvement over Java's several iterations but remains extremely complex.
 - Depending on the host's toolchain, OCaml programs call into C via a foreign function interface, joining the C linker when statically linked.
+
+### Roberto Ierusalimschy on C and Lua
+- Lua's C interop works through C function pointers: C registers a pointer under a name in a Lua state, and the Lua interpreter calls that pointer; a Lua function is just bytecode data that C asks the interpreter to run — calls can nest recursively across the boundary.
+- Lua's portability rests on C's portability: the interpreter (a loop-with-switch virtual machine) is written in C and compiled per platform.
+- C's long absence of a Boolean type (using integers as truth values up to C99) influenced Lua's own lack of Booleans for years.
+- C's "indexing" is really pointer arithmetic (an offset from an address), which is why zero-based indexing arose; languages without pointer arithmetic copied the convention anyway.
 
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary

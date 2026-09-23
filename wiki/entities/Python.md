@@ -2,7 +2,7 @@
 title: "Python"
 type: entity
 tags: [programming-language, scripting, data-science]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -24,6 +24,13 @@ Python is a high-level, dynamically-typed programming language. John Myles White
 - Charlie saw the Python ecosystem lacking the native, performance-focused tooling that had become accepted in the JavaScript ecosystem (esbuild, SWC, Bun, Deno), with most Python tools written in Python itself.
 - That gap inspired Astral's Ruff and uv, framed by his "Python tooling could be much, much faster" hypothesis.
 - Astral's Red-knot type checker and uv package manager bring the native/Rust approach to Python tooling.
+
+### Roberto Ierusalimschy on Lua vs Python
+- Lua and Python have very different goals: Python is a huge, library-rich language for quick general-purpose programming, while Lua is almost the opposite — intentionally minimal, expecting the host program to supply the useful libraries.
+- Lua is often much faster than Python because Lua consciously focuses on performance (features are only added if implementable efficiently), is less dynamic, and its small virtual machine fits in cache.
+- Roberto: in Python "everything can mean something else," producing many runtime interactions; Lua is more conservative, which contributes to the performance gap.
+- Python's truthy/falsy coercion (zero, empty list, empty string are false) is an easy-writing/easy-mistake trade-off; Lua only added Booleans to get `false` and keeps `true` nearly useless.
+- Sandboxing story: a large Python financial program embedded Lua for its user-facing command line because Python cannot be sandboxed — arbitrary Python can do anything to the program, whereas a fresh Lua state can only call functions the host registers.
 
 ## Related
 

@@ -66,6 +66,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260727 - Turing Award Winner： Early AI, LLM Predictions, Causality ｜ Judea Pearl]] — Judea Pearl on Bayesian networks, the formal theory of causality, and why LLMs alone can't reach AGI.
 - [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — James Cowling on why Dropbox migrated off S3 to Magic Pocket using SMR disks and workload-specific storage.
 - [[summary-20260731 - Turing Award & Abel Prize Winner Explains P vs. NP ｜ Avi Wigderson]] — Avi Wigderson's plain-language framing of P vs NP as the limits of what we can find versus verify.
+- [[summary-20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy]] — Roberto Ierusalimschy on Lua's design as an embeddable "language as a library," scripting vs dynamic languages, and LuaJIT's trace compilation.
+- [[summary-20260807 - 100,000 🙏]] — A brief 100,000-subscriber thank-you clip with no substantive interview content.
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — Leonardo de Moura on Lean, interactive theorem proving, and how AI is collapsing the cost of formal verification.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -596,6 +599,24 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Geoffrey Hinton]] — Deep-learning pioneer and Turing Award winner (transcribed "Jeff Hinton").
 - [[Technion]] — Israel Institute of Technology, where Pearl studied electrical engineering (transcribed "technon").
 - [[RCA Laboratories]] — RCA's Princeton research arm (David Sarnoff Research Laboratory), where Pearl worked on superconducting memory.
+- [[Roberto Ierusalimschy]] — Creator of the Lua programming language and proponent of its embeddable, library-first design.
+- [[Lua]] — Minimal, embeddable scripting language designed to run inside a C/C++ host.
+- [[LuaJIT]] — Mike Pall's just-in-time compiler for Lua, independent of the official project.
+- [[Mike Pall]] — Developer who created LuaJIT (transcribed "Mike Paul").
+- [[SNOBOL]] — Early language with pioneering pattern matching, recommended by Ierusalimschy (transcribed "Snowball").
+- [[Scheme]] — Minimal Lisp dialect Ierusalimschy recommends for its "economy of ideas."
+- [[WorkOS]] — API layer packaging enterprise SaaS requirements; sponsor of the Lua episode.
+- [[Leonardo de Moura]] — Automated-reasoning researcher who created the Z3 SMT solver and the Lean proof assistant.
+- [[mathlib]] — Lean's community-built mathematical library of formalized definitions and theorems.
+- [[Z3]] — Leonardo de Moura's SMT solver, created at Microsoft Research.
+- [[Jeremy Avigad]] — CMU mathematician and logician who was Lean's first user and influenced its design.
+- [[Kevin Buzzard]] — Imperial College mathematician prominent in formalizing mathematics in Lean.
+- [[Kim Morrison]] — Mathematician active in the Lean/mathlib community.
+- [[Mario Carneiro]] — Lean contributor who wrote Lean4Lean, an independent Lean kernel written in Lean.
+- [[Patrick Massot]] — French mathematician who built a natural-language interface for Lean proofs.
+- [[Peter Scholze]] — Fields Medalist whose Liquid Tensor Experiment was formalized in Lean.
+- [[Terence Tao]] — Fields Medalist who became an enthusiastic Lean user.
+- [[Sebastian Ullrich]] — Lean lead developer and co-founder of its nonprofit.
 
 ## Concepts
 
@@ -999,6 +1020,19 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Shingled Magnetic Recording]] — Disk technology that overlaps tracks for density; Dropbox used it in Magic Pocket.
 - [[Zoned Storage]] — Disk interface exposing sequential zones; Dropbox used ZBC to drive SMR disks directly.
 - [[Tiered Storage]] — Splitting data across cost/performance tiers; Magic Pocket's two-cluster design.
+- [[Scripting Languages]] — Languages embedded in or coordinating a host program in a dual-language architecture.
+- [[Dynamic Languages]] — Languages that can create code at runtime (hallmark is eval); a superset of scripting languages.
+- [[Embedding and Extending]] — The two directions of a dual-language architecture: host calls script, or script calls host libraries.
+- [[Just-in-Time Compilation]] — Translating code to machine instructions at runtime, typically for hot paths.
+- [[Trace Compilation]] — JIT technique that records and compiles a frequently executed loop specialized to observed types.
+- [[Language as a Library]] — Lua's stance that the language is a reusable library, not a standalone runtime.
+- [[Sandboxing]] — Restricting a script to only what the host exposes, isolating it from the program or hardware.
+- [[Zero-Based Indexing]] — Counting a sequence's first element as index 0 (vs Lua's one-based choice).
+- [[Conceptual Integrity]] — Design quality where every part fits as if designed with every other part in mind.
+- [[Dependent Type Theory]] — Type theory where types can depend on values, letting a type express a proof obligation.
+- [[Formalization of Mathematics]] — Translating theorems into a machine-checkable formal language for verified, collaborative proof.
+- [[Interactive Theorem Proving]] — Writing proofs in an assistant where human or AI guides steps and the machine checks each.
+- [[Satisfiability Modulo Theories]] — Extending SAT with decision procedures for arithmetic, arrays, etc., as a push-button solver.
 
 ## Syntheses
 

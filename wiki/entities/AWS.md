@@ -2,8 +2,8 @@
 title: "AWS"
 type: entity
 tags: [company, cloud, Amazon, infrastructure]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -31,6 +31,9 @@ AWS (Amazon Web Services) is Amazon's cloud computing division, whose early EC2/
 - "Almost definitely you can't" save money by moving off the cloud unless you have very small/fixed requirements or a very heavy investment; the cloud has been "an incredible innovation."
 - The exit was strategic and saved "a huge amount of money" before Dropbox went public; Cowling adds he "wouldn't recommend another company do this right now" — AWS already gave deep discounts but couldn't match a workload-specific system armed with experimental SMR disks.
 
+### Leonardo de Moura on AWS
+- de Moura (now at AWS) says AWS has used formal verification for a decade on safety-critical components, has a ~half-million-line Lean compiler for AI accelerators that uses Lean mainly as a programming language, and made the largest donation to date to the Lean nonprofit.
+
 ## Related
 
 - [[summary-20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns]] — source summary
@@ -48,3 +51,7 @@ AWS (Amazon Web Services) is Amazon's cloud computing division, whose early EC2/
 - [[Amazon Aurora]] — the database work led by Brooker
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
 - [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
+- [[Leonardo de Moura]] — AWS scientist and Lean's creator
+- [[Lean]] — the compiler language and nonprofit beneficiary
+- [[Formal Verification]] — AWS's decade-long use
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary

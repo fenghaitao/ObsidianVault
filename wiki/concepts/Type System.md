@@ -2,7 +2,7 @@
 title: "Type System"
 type: concept
 tags: [concept, type-systems, programming-languages]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -18,6 +18,9 @@ A type system lets a compiler reject "silly" programs up front — programs that
 - Xavier Leroy: type inference deduces types from uses and solves constraints "little bit like... Sudoku"; when constraints are under-determined, the type generalizes — polymorphism appears "for free."
 - Type-inference trade-offs: type-error messages can be confusing and may not point at the true source of the error, and subtyping is hard to combine with full inference.
 - A static type system helps generative AI: static type checking avoids errors early and encourages the model to declare types and give a program type structure.
+- Roberto Ierusalimschy: a type system can be a vital part of compilation — its trivial value is sizing variables (knowing int vs float vs double gives exact byte counts; otherwise everything must be heap-allocated).
+- Typed arithmetic: if `A` and `B`'s types are known, `A + B` compiles to a single integer-add; in a dynamic language the runtime checks, converts, or concatenates after the fact.
+- TypeScript-style types "do not guarantee" values match their declarations, so they can't be used to lay out registers or compile efficiently.
 
 ## Related
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary

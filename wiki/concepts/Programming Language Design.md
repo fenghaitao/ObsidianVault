@@ -2,7 +2,7 @@
 title: "Programming Language Design"
 type: concept
 tags: [programming-languages, design, computing]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -29,6 +29,9 @@ Programming language design is the craft of defining a language's syntax, semant
 - Industry now leads programming-language innovation (Java's GC and bytecode verification, Swift's algebraic data types/pattern matching, Rust's fusion of safe low-level research with C/C++); in the 1990s people wrongly assumed "it will be C++ forever."
 - An open problem: programming massively parallel hardware (GPUs) — MLIR and Halide help, but "theorem proving on a GPU" remains out of reach.
 
+- Leonardo de Moura: Lean chose dependent type theory over higher-order logic — despite being "way harder" to implement — because the target community (mathematicians) required it; "listening to your users is important" in language design.
+- Lean is a dependently typed language close to Haskell, with tactic mode as a domain-specific language for writing proofs.
+
 ## Related
 
 - [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — source summary
@@ -47,3 +50,6 @@ Programming language design is the craft of defining a language's syntax, semant
 - [[Memory Model]] — a concurrency design challenge
 - [[Type Inference]] — a type-system design trade-off
 - [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — source summary
+- [[Dependent Type Theory]] — the design choice for Lean
+- [[Lean]] — the language designed this way
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary

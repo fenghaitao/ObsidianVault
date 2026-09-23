@@ -2,8 +2,8 @@
 title: "DeepMind"
 type: entity
 tags: [company, AI, research, lab]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -16,6 +16,8 @@ DeepMind is an AI research lab that Nimit Sohoni cited alongside OpenAI as an ex
 - He framed this as a reason he chose the Cartesia startup over a big lab.
 - DeepMind merged with Google Brain in 2023 to form Google DeepMind; there Vlad Feinberg (pre-training area lead) ships Flash and Flash-Lite and runs three verticals — distillation, inference co-design, and quantization.
 
+- DeepMind's AlphaProof got a silver medal at the International Mathematical Olympiad in 2024 — "a big surprise"; gold medals now follow from multiple labs.
+
 ## Related
 
 - [[summary-20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni]] — source summary
@@ -26,3 +28,5 @@ DeepMind is an AI research lab that Nimit Sohoni cited alongside OpenAI as an ex
 - [[Google DeepMind]] — the merged company
 - [[Google Brain]] — the org it merged with
 - [[Vlad Feinberg]] — pre-training area lead
+- [[Lean]] — the proof assistant AlphaProof verifies against
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary

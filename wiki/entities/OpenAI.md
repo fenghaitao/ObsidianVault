@@ -2,8 +2,8 @@
 title: "OpenAI"
 type: entity
 tags: [company, AI, startup, tech]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -42,6 +42,9 @@ OpenAI is an AI research and deployment company. Ryan mentioned it as an example
 ### Vlad Feinberg on OpenAI
 - Vlad cites OpenAI (with Anthropic) as a peer frontier lab; people from both agreed with the advice in his "how to get a job at a frontier lab" post, indicating skill demands overlap across labs.
 
+### Leonardo de Moura on OpenAI
+- OpenAI proved the unit-distance conjecture (informally); an OpenAI contributor (transcribed "Boris Alexi") later produced the ~1-million-line formal Lean proof showing it was false.
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -68,3 +71,6 @@ OpenAI is an AI research and deployment company. Ryan mentioned it as an example
 - [[summary-20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg]] — source summary (Vlad Feinberg)
 - [[Google DeepMind]] — peer lab
 - [[Frontier Lab]] — the category they share
+- [[Lean]] — where the unit-distance conjecture was formally disproved
+- [[mathlib]] — the library used to formalize it
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary

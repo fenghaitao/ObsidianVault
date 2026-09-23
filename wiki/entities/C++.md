@@ -2,8 +2,8 @@
 title: "C++"
 type: entity
 tags: [programming-language, systems-programming, C++]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+last_updated: 2026-09-23
 ---
 ## Definition
 C++ is the general-purpose, statically typed programming language created by Bjarne Stroustrup at Bell Labs, combining Simula-style classes with C's low-level efficiency.
@@ -19,6 +19,8 @@ C++ is the general-purpose, statically typed programming language created by Bja
 - Standardization began in 1989/1990 under ISO after IBM, HP, and Sun/DEC insisted; the committee grew to 527 members working by consensus.
 - Regrets in hindsight: implicit narrowing conversions (a legacy C flaw he couldn't remove), releasing before templates (later saved by Alex Stepanov's STL), and an over-large committee.
 - Competing languages mostly use C++ infrastructure (e.g., LLVM); Java's "we'll kill C++" ads failed — he estimates 10–12x more C++ developers now.
+- Roberto Ierusalimschy cites C++ as a good example of a language that is "really, really complex" on the simplicity spectrum (with JavaScript "even worse").
+- Lua is typically combined with C or C++ as the host language in a dual-language architecture: Lua takes the dynamic parts while C/C++ handles the hard, resource-intensive parts.
 
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary

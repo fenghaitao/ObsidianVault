@@ -2,8 +2,8 @@
 title: "Edsger Dijkstra"
 type: entity
 tags: [person, computer-scientist, concurrency, distributed-systems]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -25,6 +25,9 @@ Edsger Dijkstra (transcribed in the episode as "Dystra," "Dysterra," "Dyster," a
 - It was controversial because assembly required gotos, languages lacked today's constructs, compilers were less optimizing, and Dijkstra wasn't diplomatic — yet "clearly, Dijkstra won the day."
 - In person, Liskov says, Dijkstra was "not always as tactful as he might be," but a very distinguished researcher.
 
+### Leonardo de Moura on Dijkstra
+- de Moura opened this episode with Dijkstra's dictum — "program testing can be used to show the presence of bugs, but never to show their absence" — and framed Lean/formal proof as the tool that can show their absence.
+
 ## Related
 
 - [[summary-20260223 - Turing Award Winner： Thinking Clearly, Paxos vs Raft, Working With Dijkstra ｜ Leslie Lamport]] — source summary
@@ -35,3 +38,6 @@ Edsger Dijkstra (transcribed in the episode as "Dystra," "Dysterra," "Dyster," a
 - [[summary-20260427 - Turing Award Winner： Data Abstraction, Dijkstra, Distributed Systems ｜ Barbara Liskov]] — source summary
 - [[Barbara Liskov]] — recounts the "Go To..." letter
 - [[Modularity]] — the correctness concerns it relates to
+- [[Formal Verification]] — the field anchored by his "show the absence" dictum
+- [[Leonardo de Moura]] — quotes the dictum to frame Lean
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary

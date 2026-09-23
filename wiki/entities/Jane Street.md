@@ -2,7 +2,7 @@
 title: "Jane Street"
 type: entity
 tags: [company, finance, quant, trading]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
 last_updated: 2026-09-23
 ---
 
@@ -22,6 +22,8 @@ Jane Street is a quantitative trading firm and one of the most prestigious emplo
 - Xavier Leroy: Yaron Minsky (a PhD student on Cornell's Ensemble OCaml project) joined Jane Street and implemented its trading infrastructure in OCaml because automatic trading must be fast, reliable, free of long GC pauses, and readable by non-programmers (financial engineers, quantitative analysts).
 - Jane Street explores "Oxidized OCaml," an experimental OCaml variant with Rust-inspired ideas such as stack allocation.
 
+- Leonardo de Moura cited Jane Street (seen on Twitter/X) as "more heavily investing in formal verification."
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
@@ -36,3 +38,5 @@ Jane Street is a quantitative trading firm and one of the most prestigious emplo
 - [[OCaml]] — the language of its trading systems
 - [[Yaron Minsky]] — brought OCaml to Jane Street
 - [[Xavier Leroy]] — OCaml's creator
+- [[Formal Verification]] — the area Jane Street is investing in
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary

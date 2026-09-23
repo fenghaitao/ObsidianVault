@@ -235,3 +235,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-23] ingest | Ingested Avi Wigderson (P vs. NP) clip
 - **Changes**: created [[summary-20260731 - Turing Award & Abel Prize Winner Explains P vs. NP ｜ Avi Wigderson]], updated [[Avi Wigderson]], updated [[Turing Award]], updated [[Abel Prize]], updated [[P vs NP]], updated [[Computational Complexity Theory]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Roberto Ierusalimschy (Lua) episode
+- **Changes**: created [[summary-20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy]], created [[Roberto Ierusalimschy]], created [[Lua]], created [[LuaJIT]], created [[Mike Pall]], created [[SNOBOL]], created [[Scheme]], created [[WorkOS]], created [[Scripting Languages]], created [[Dynamic Languages]], created [[Embedding and Extending]], created [[Just-in-Time Compilation]], created [[Trace Compilation]], created [[Language as a Library]], created [[Sandboxing]], created [[Zero-Based Indexing]], created [[Conceptual Integrity]], updated [[C (Programming Language)]], updated [[C++]], updated [[JavaScript]], updated [[Python]], updated [[Ryan L. Peterman]], updated [[TypeScript]], updated [[Static and Dynamic Typing]], updated [[Type Inference]], updated [[Type System]], updated [[Haskell]], updated [[Programming Language Design]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested 100,000-subscriber thank-you note
+- **Changes**: created [[summary-20260807 - 100,000 🙏]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Leonardo de Moura (Lean) episode
+- **Changes**: created [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]], created [[Leonardo de Moura]], created [[mathlib]], created [[Z3]], created [[Jeremy Avigad]], created [[Kevin Buzzard]], created [[Kim Morrison]], created [[Mario Carneiro]], created [[Patrick Massot]], created [[Peter Scholze]], created [[Terence Tao]], created [[Sebastian Ullrich]], created [[Dependent Type Theory]], created [[Formalization of Mathematics]], created [[Interactive Theorem Proving]], created [[Satisfiability Modulo Theories]], updated [[AWS]], updated [[Coq]], updated [[DeepMind]], updated [[Edsger Dijkstra]], updated [[Jane Street]], updated [[Lean]], updated [[Microsoft]], updated [[OpenAI]], updated [[Rust]], updated [[seL4]], updated [[Boolean Satisfiability]], updated [[Formal Verification]], updated [[Proof Assistants]], updated [[Semantics of Programming Languages]], updated [[Haskell]], updated [[Programming Language Design]], updated [[index.md]]
+- **Conflicts**: none

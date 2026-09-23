@@ -2,7 +2,7 @@
 title: "Rust"
 type: entity
 tags: [language, systems-programming, Mozilla, memory-safety]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
 last_updated: 2026-09-23
 ---
 
@@ -34,6 +34,9 @@ Rust is a systems programming language created at Mozilla to provide compile-tim
 - Manual memory management is not always faster: defensive object copying and Rust's constrained sharing (forcing "unsharing") can cost more time and memory than GC in some applications.
 - Leroy notes C-to-Rust AI translations today can end up "entirely in unsafe blocks" — a line-by-line C port usable only as a starting point.
 
+### Leonardo de Moura on Rust
+- A Lean tool maps Rust into Lean (shallow embedding) so the Lean translation can be verified — an example of verifying programs written in a different language.
+
 ## Related
 
 - [[Mozilla]] — its creator
@@ -63,3 +66,6 @@ Rust is a systems programming language created at Mozilla to provide compile-tim
 - [[OCaml]] — the garbage-collected contrast
 - [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — source summary
 - [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
+- [[Lean]] — a tool maps Rust into Lean for verification
+- [[Formal Verification]] — the use case
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary

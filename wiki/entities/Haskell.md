@@ -2,7 +2,7 @@
 title: "Haskell"
 type: entity
 tags: [language, functional-programming, lazy, statically-typed]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -19,6 +19,8 @@ Haskell is a pure, lazy, statically typed functional programming language co-cre
 - Culture: "avoid success at all costs" — never give up the one core principle, even at the cost of a smaller community of users.
 - SPJ notes Haskell is "talked about more than used" (Stack Overflow vs GitHub volume) because it asks programmers to genuinely rewire how they think.
 - SPJ: if internet software and operating systems had been written in Haskell (or OCaml/ML), ~99% of security exploits would be "removed by construction."
+
+- Lean is close to Haskell — a dependently typed functional language with added proof support; users familiar with Haskell pick it up naturally (de Moura).
 
 ## Related
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
@@ -43,3 +45,5 @@ Haskell is a pure, lazy, statically typed functional programming language co-cre
 - [[Lennart Augustsson]] — built microHS
 - [[Butler Lampson]] — in the "Haskell is useless" video
 - [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — source summary
+- [[Lean]] — the dependently typed language closest to Haskell
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary

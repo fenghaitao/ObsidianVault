@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: entity
 tags: [company, FAANG, tech, Seattle]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250905 - Intern to Microsoft Distinguished Engineer in 11 Promotions (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251222 - Frontline Manager at Meta to Senior Director at Snapchat in 3 Years (Career Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20251229 - Best Software Engineering Career Advice of 2025.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
 last_updated: 2026-09-23
 ---
 
@@ -61,6 +61,9 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 ### Simon Peyton Jones on MSRC
 - SPJ cites Microsoft's MSRC (Microsoft Security Response Center) as discovering security exploits "in huge numbers" — evidence of the daily toll of memory-unsafe languages like C.
 
+### Leonardo de Moura at Microsoft Research
+- Leonardo de Moura joined Microsoft Research and started the Z3 SMT solver there (~20 years before this episode); both Z3 and Lean trace their origins to MSR.
+
 ## Related
 - [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
 - [[Netscape]] — the browser-war rival
@@ -93,3 +96,6 @@ Microsoft is a multinational technology company headquartered in Redmond, Washin
 - [[Bryan Cantrill]] — who refused to work at Microsoft on principle
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
 - [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — source summary
+- [[Leonardo de Moura]] — built Z3 at Microsoft Research
+- [[Z3]] — the solver he started at MSR
+- [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary
