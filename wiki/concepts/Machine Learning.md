@@ -2,8 +2,8 @@
 title: "Machine Learning"
 type: concept
 tags: [engineering, AI, ML, Meta, content-moderation]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250815 - Meta Senior Manager (M2)： Manager Career Growth, PIPs, Amazon vs Meta ｜ Stefan Mai.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260727 - Turing Award Winner： Early AI, LLM Predictions, Causality ｜ Judea Pearl.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -29,6 +29,10 @@ Machine Learning (ML) is a field of artificial intelligence focused on building 
 - Nimit Sohoni: transformers store a key-value (KV) cache that grows linearly with sequence length (like a database), while state space models compress context into a fixed-size state (like a brain); hybrid models that interleave both are the cutting edge for open-source text
 - Cartesia found SSMs are "almost a free lunch" for audio — better quality and faster inference — because audio frames are low-information and compress well, unlike densely informational text
 
+### Judea Pearl's History of Machine Learning
+- Judea Pearl credits Arthur Samuel's checker program as "the first machine learning": it learned the correct weights on board-position features (center control, material advantage, bishop versus knight, castling) via regression analysis.
+- In Pearl's framing, the static evaluation function encodes intuition and can itself be improved by learning — a complement to search (alpha-beta pruning) in early game-playing AI.
+
 ## Related
 
 - [[summary-20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story)]] — source summary
@@ -42,3 +46,7 @@ Machine Learning (ML) is a field of artificial intelligence focused on building 
 - [[State Space Models]] — the architecture at issue
 - [[Cartesia]] — applies SSMs to audio
 - [[summary-20260126 - Ex-Citadel Quant and AI Researcher： Breaking In, Tech vs Finance Careers ｜ Nimit Sohoni]] — source summary
+- [[summary-20260727 - Turing Award Winner： Early AI, LLM Predictions, Causality ｜ Judea Pearl]] — source summary
+- [[Judea Pearl]] — credits Samuel's checker program as the first machine learning
+- [[Alpha-Beta Pruning]] — the search complement to a learned evaluation function
+- [[Expert Systems]] — the uncertainty hurdle that followed

@@ -223,3 +223,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-23] ingest | Ingested Simon Peyton Jones (C is dangerous) clip
 - **Changes**: created [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]], created [[Buffer Overflow]], updated [[Simon Peyton Jones]], updated [[C (Programming Language)]], updated [[Haskell]], updated [[Rust]], updated [[OCaml]], updated [[ML (Programming Language)]], updated [[Microsoft]], updated [[Memory Safety]], updated [[Programming Language Design]], updated [[Functional Programming]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Judea Pearl (causality) episode
+- **Changes**: created [[summary-20260727 - Turing Award Winner： Early AI, LLM Predictions, Causality ｜ Judea Pearl]], created [[Judea Pearl]], created [[Geoffrey Hinton]], created [[Technion]], created [[RCA Laboratories]], created [[Causality]], created [[Bayesian Networks]], created [[Causal Inference]], created [[Counterfactuals]], created [[do-Calculus]], created [[Ladder of Causation]], created [[Artificial General Intelligence]], created [[Alpha-Beta Pruning]], created [[Expert Systems]], created [[Turing Test]], updated [[Turing Award]], updated [[UCLA]], updated [[Ryan L. Peterman]], updated [[Machine Learning]], updated [[Curiosity]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested James Cowling (S3 to Magic Pocket) clip
+- **Changes**: created [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]], created [[Shingled Magnetic Recording]], created [[Zoned Storage]], created [[Tiered Storage]], updated [[James Cowling]], updated [[Magic Pocket]], updated [[Dropbox]], updated [[Amazon S3]], updated [[AWS]], updated [[Discotech]], updated [[Trampoline]], updated [[Rust]], updated [[Go (Programming Language)]], updated [[Python]], updated [[Drew Houston]], updated [[Congestion Collapse]], updated [[FMEA (Failure Mode and Effects Analysis)]], updated [[Erasure Coding]], updated [[Distributed Systems]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Avi Wigderson (P vs. NP) clip
+- **Changes**: created [[summary-20260731 - Turing Award & Abel Prize Winner Explains P vs. NP ｜ Avi Wigderson]], updated [[Avi Wigderson]], updated [[Turing Award]], updated [[Abel Prize]], updated [[P vs NP]], updated [[Computational Complexity Theory]], updated [[index.md]]
+- **Conflicts**: none

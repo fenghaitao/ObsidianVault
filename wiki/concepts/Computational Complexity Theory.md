@@ -2,7 +2,7 @@
 title: "Computational Complexity Theory"
 type: concept
 tags: [complexity-theory, computer-science, theory]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260629 - MIT Professor： Leetcode, P vs NP, SAT Solvers ｜ Ryan Williams.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260629 - MIT Professor： Leetcode, P vs NP, SAT Solvers ｜ Ryan Williams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260731 - Turing Award & Abel Prize Winner Explains P vs. NP ｜ Avi Wigderson.md"]
 last_updated: 2026-09-23
 ---
 
@@ -13,6 +13,7 @@ Computational complexity theory classifies computational problems by the amount 
 ## Key Information
 
 - Resources beyond time include memory/space, communication (e.g., minimizing what you send a satellite), energy, and parallel time (speeding up with n computers).
+- Wigderson's entry-level framing of the field: computer science is "in the business of solving problems by computers," and complexity theory exists to classify those problems — into the ones we can actually solve (P) versus the ones we want to solve (NP).
 - Starting with Turing's paper, the first class is the decidable/solvable problems — and there are natural problems that are not decidable at all.
 - The field has a "zoo" of hundreds of complexity classes (cataloged on the Complexity Zoo site), and researchers build a "partial order" of hardness via efficient reductions between problems whose complexity is unknown.
 - Wigderson calls it "a major theme in the methodology of complexity theory" to relate problems to each other even when their individual complexity is unknown.
@@ -25,6 +26,7 @@ Computational complexity theory classifies computational problems by the amount 
 ## Related
 
 - [[summary-20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson]] — source summary
+- [[summary-20260731 - Turing Award & Abel Prize Winner Explains P vs. NP ｜ Avi Wigderson]] — source summary
 - [[P vs NP]] — central question
 - [[NP-Completeness]] — reductions and hardness
 - [[Time Complexity]] — a resource

@@ -2,7 +2,7 @@
 title: "AWS"
 type: entity
 tags: [company, cloud, Amazon, infrastructure]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260323 - The Co-Creator of Kubernetes： Engineering-Led Direction and Convincing Management ｜ Brendan Burns.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
 last_updated: 2026-09-14
 ---
 
@@ -29,6 +29,7 @@ AWS (Amazon Web Services) is Amazon's cloud computing division, whose early EC2/
 ### James Cowling on Build-vs-Buy
 - Cowling says most companies should NOT build their own infrastructure or move off the cloud: competing with Amazon on storage efficiency requires supply-chain, capacity, and data-center teams, and a billion-dollar-scale investment.
 - "Almost definitely you can't" save money by moving off the cloud unless you have very small/fixed requirements or a very heavy investment; the cloud has been "an incredible innovation."
+- The exit was strategic and saved "a huge amount of money" before Dropbox went public; Cowling adds he "wouldn't recommend another company do this right now" — AWS already gave deep discounts but couldn't match a workload-specific system armed with experimental SMR disks.
 
 ## Related
 
@@ -46,3 +47,4 @@ AWS (Amazon Web Services) is Amazon's cloud computing division, whose early EC2/
 - [[Postmortems]] — the COE learning practice
 - [[Amazon Aurora]] — the database work led by Brooker
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
+- [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary

@@ -2,7 +2,7 @@
 title: "Congestion Collapse"
 type: concept
 tags: [reliability, distributed-systems, failure-modes, Dropbox]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
 last_updated: 2026-09-22
 ---
 ## Definition
@@ -13,9 +13,13 @@ Congestion collapse is the failure mode where a system's workload crosses a thre
 - These cyclical behaviors can tip a system into congestion collapse, which Cowling calls the hardest part of building Magic Pocket.
 - OOM unpredictability was a key reason the storage nodes were migrated from Go (garbage-collected runtime) to Rust.
 - The team designed against it with pre-mortem/threat modeling (FMEA) and by keeping systems simple and decoupled.
+- In the S3-migration clip, Cowling recalls the triggering album release may have been De La Soul, and that no postmortem was needed because the team understood the failure as it was happening while being paged.
+- Related controls: durability was absolutely non-negotiable, but Dropbox kept load-shedding knobs for background CPU/memory/test load and a "trampoline" to dump overflow to S3 rather than cascade.
 ## Related
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
 - [[Magic Pocket]] — the system where it occurred
 - [[Metastable Failures]] — the broader failure-mode family
 - [[Distributed Systems]] — the context
 - [[Go (Programming Language)]] — its runtime contributed to the OOM storms
+- [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
+- [[Trampoline]] — the overflow escape hatch

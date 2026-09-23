@@ -2,7 +2,7 @@
 title: "Magic Pocket"
 type: entity
 tags: [project, storage, Dropbox, distributed-systems]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
 last_updated: 2026-09-22
 ---
 ## Definition
@@ -18,6 +18,9 @@ Magic Pocket is the codename for Dropbox's in-house, exabyte-scale block storage
 - Hardest problem: congestion collapse — OOMed nodes looked like disk failures, triggering many simultaneous re-replications (one fire hose of load becoming seven).
 - Reserved a "trampoline" to dump overflow data (e.g., 30 PB) to S3 under worst-case capacity pressure; never compromised user durability.
 - Renamed team identity to "Storage team" after shipping so the team advocated for storage needs, not for Magic Pocket itself.
+- Workload-aware tiering: fresh writes landed first in a temporary (access-efficient, storage-inefficient) cluster, then moved in bulk in the background to a colder, more static cluster with more efficient bulk algorithms; the cold tier could go down for writes without affecting the live path.
+- Optimization extended to power: rack amperage was sized against access patterns via the rack's PDU circuit-breaker, and a bad hardware batch could force extra re-replication that ran racks "really hot."
+- Cowling cautions the migration only made sense at Dropbox's scale and that he "wouldn't recommend another company do this right now."
 ## Related
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
 - [[Dropbox]] — the company that built it
@@ -30,3 +33,6 @@ Magic Pocket is the codename for Dropbox's in-house, exabyte-scale block storage
 - [[Go (Programming Language)]] — the primary implementation language
 - [[Rust]] — the storage-node language
 - [[Amazon S3]] — the service it replaced
+- [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
+- [[Shingled Magnetic Recording]] — the experimental disks used
+- [[Tiered Storage]] — the two-tier write/read design

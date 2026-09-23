@@ -63,6 +63,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — Xavier Leroy on OCaml's functional/systems duality, type inference and garbage collection, and formal verification via CompCert and proof assistants like Coq and Lean.
 - [[summary-20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan]] — David J. Malan on why CS50 still starts with C, and how building on low-level fundamentals separates engineers from coders.
 - [[summary-20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones]] — Simon Peyton Jones on C's memory unsafety and buffer overruns, and why memory-safe languages eliminate most exploits by construction.
+- [[summary-20260727 - Turing Award Winner： Early AI, LLM Predictions, Causality ｜ Judea Pearl]] — Judea Pearl on Bayesian networks, the formal theory of causality, and why LLMs alone can't reach AGI.
+- [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — James Cowling on why Dropbox migrated off S3 to Magic Pocket using SMR disks and workload-specific storage.
+- [[summary-20260731 - Turing Award & Abel Prize Winner Explains P vs. NP ｜ Avi Wigderson]] — Avi Wigderson's plain-language framing of P vs NP as the limits of what we can find versus verify.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -589,6 +592,10 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[seL4]] — Formally verified microkernel with every line of its ~8,000 lines of C proved correct.
 - [[MirageOS]] — Library operating system (unikernel) written in OCaml.
 - [[Brendan Eich]] — Designer of JavaScript, whose functional core Leroy traces to Eich's Lisp background.
+- [[Judea Pearl]] — Turing Award-winning computer scientist known for Bayesian networks and the formal theory of causality.
+- [[Geoffrey Hinton]] — Deep-learning pioneer and Turing Award winner (transcribed "Jeff Hinton").
+- [[Technion]] — Israel Institute of Technology, where Pearl studied electrical engineering (transcribed "technon").
+- [[RCA Laboratories]] — RCA's Princeton research arm (David Sarnoff Research Laboratory), where Pearl worked on superconducting memory.
 
 ## Concepts
 
@@ -979,6 +986,19 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Semantics of Programming Languages]] — The field assigning mathematical meaning to programs, the bridge to formal reasoning.
 - [[Engineer vs Coder]] — Malan's distinction between understanding building blocks versus merely outputting working code.
 - [[Buffer Overflow]] — Memory-safety vulnerability from writing past a buffer's bounds, possible in unchecked languages like C.
+- [[Causality]] — The study of cause and effect, which Pearl argues needs its own mathematics beyond probability.
+- [[Bayesian Networks]] — Probabilistic graphical models encoding conditional independence for tractable inference.
+- [[Causal Inference]] — Answering intervention and counterfactual queries via data, experiments, and assumptions.
+- [[Counterfactuals]] — "What if I had done otherwise?" queries; the top level of the Ladder of Causation.
+- [[do-Calculus]] — Pearl's symbolic calculus for reasoning about interventions (the do operator).
+- [[Ladder of Causation]] — Pearl's three-level hierarchy: association, intervention, and counterfactuals.
+- [[Artificial General Intelligence]] — General human-level intelligence; Pearl argues it needs causal reasoning, not just scaling.
+- [[Alpha-Beta Pruning]] — Game-tree search optimization that skips branches; Pearl proved it inspects the fewest positions.
+- [[Expert Systems]] — Early rule-based AI programs whose uncertainty hurdle motivated Bayesian networks.
+- [[Turing Test]] — Testing machine intelligence by indistinguishability from a human.
+- [[Shingled Magnetic Recording]] — Disk technology that overlaps tracks for density; Dropbox used it in Magic Pocket.
+- [[Zoned Storage]] — Disk interface exposing sequential zones; Dropbox used ZBC to drive SMR disks directly.
+- [[Tiered Storage]] — Splitting data across cost/performance tiers; Magic Pocket's two-cluster design.
 
 ## Syntheses
 

@@ -2,7 +2,7 @@
 title: "Discotech"
 type: entity
 tags: [project, storage, disks, Dropbox, Rust]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
 last_updated: 2026-09-22
 ---
 ## Definition
@@ -16,3 +16,6 @@ Discotech ("disk technology project") was the Dropbox effort that removed the fi
 - [[Dropbox]] — the company it was built for
 - [[Magic Pocket]] — the storage system it supported
 - [[Rust]] — language used for the storage nodes
+- [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
+- [[Zoned Storage]] — the ZBC interface used
+- [[Shingled Magnetic Recording]] — the disk type driven directly

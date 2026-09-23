@@ -2,8 +2,8 @@
 title: "Curiosity"
 type: concept
 tags: [engineering, learning, growth, mindset]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260727 - Turing Award Winner： Early AI, LLM Predictions, Causality ｜ Judea Pearl.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -20,6 +20,8 @@ Curiosity is the drive to understand how things work, not just that they work. I
 - Evan wished he had been more curious at Meta: "Facebook publishes all of these different blogs... I read all these blogs now and I wish I had done some of that while I was actually at Meta"
 - The shift from "ship it and move on" to "understand why it works" represents a maturation in engineering mindset
 - Curiosity is what allows you to build "a much more sustainable foundation" of knowledge
+- Judea Pearl frames curiosity as an innate, restless drive for control over the environment: babies play with toys until they can predict which ones make noise, and only then are pacified. He argues this built-in curiosity is necessary (though maybe not sufficient) for AGI, contrasting humans with reward-driven monkeys, who stop learning once the banana reward is removed.
+- Pearl warns that programming this craving for control into a robot would be dangerous, because it would then treat humans as part of its environment to control or blackmail.
 
 ## Related
 
@@ -27,3 +29,6 @@ Curiosity is the drive to understand how things work, not just that they work. I
 - [[Technical Learning]] — curiosity drives technical learning
 - [[Inquisitiveness]] — closely related concept
 - [[Evan King]] — personal reflection on curiosity
+- [[summary-20260727 - Turing Award Winner： Early AI, LLM Predictions, Causality ｜ Judea Pearl]] — source summary
+- [[Judea Pearl]] — innate curiosity as necessary for AGI
+- [[Artificial General Intelligence]] — what curiosity is needed for

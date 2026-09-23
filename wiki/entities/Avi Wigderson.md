@@ -2,7 +2,7 @@
 title: "Avi Wigderson"
 type: entity
 tags: [person, mathematician, computer-scientist, theoretical-computer-science]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260629 - MIT Professor： Leetcode, P vs NP, SAT Solvers ｜ Ryan Williams.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260629 - MIT Professor： Leetcode, P vs NP, SAT Solvers ｜ Ryan Williams.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260731 - Turing Award & Abel Prize Winner Explains P vs. NP ｜ Avi Wigderson.md"]
 last_updated: 2026-09-23
 ---
 
@@ -14,6 +14,7 @@ Avi Wigderson is a mathematician and theoretical computer scientist who won both
 
 - Introduced in the episode as a "Turing award and Abel Prize winner" — uniquely honored across both computer science and mathematics.
 - Interviewed by Ryan L. Peterman about his field.
+- In a short "Channel Only" clip, he explains P vs NP for a lay audience: P as the problems we can solve efficiently (his example is a navigation app's shortest-path algorithm), NP as the problems whose solutions are easily verified, and the question as being about the limits of human knowledge.
 - Holds the intuition — "probably of almost all members of the theoretical computer science community" — that P ≠ NP.
 - Co-developed the Nisan–Wigderson pseudorandom generator with Noam Nisan.
 - Co-authored (with Oded Goldreich and Silvio Micali) the GMW result that every provable statement has a zero-knowledge proof.
@@ -27,6 +28,7 @@ Avi Wigderson is a mathematician and theoretical computer scientist who won both
 ## Related
 
 - [[summary-20260601 - Turing Award Winner： P vs NP, Zero-Knowledge Proofs, Quantum Computation ｜ Avi Wigderson]] — source summary
+- [[summary-20260731 - Turing Award & Abel Prize Winner Explains P vs. NP ｜ Avi Wigderson]] — source summary
 - [[Turing Award]] — award he holds
 - [[Abel Prize]] — award he holds
 - [[P vs NP]] — central problem of his field

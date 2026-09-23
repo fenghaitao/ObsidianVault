@@ -2,7 +2,7 @@
 title: "Dropbox"
 type: entity
 tags: [company, storage, file-sync, collaboration]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
 last_updated: 2026-09-22
 ---
 ## Definition
@@ -18,6 +18,7 @@ Dropbox is a file-sync, storage, and collaboration company founded by Drew Houst
 - Cowling's team renamed itself from "Magic Pocket team" to "Storage team" so its identity would track the problem it solves, not the system it built.
 - Early infra was tiny (~7–9 people); the culture emphasized ownership and "there's no other idiots out there — it's just us."
 - Dropbox has cultural values that explicitly reward prioritizing user safety and doing the right thing.
+- On the S3 exit, counter-negotiation details: Amazon was unaware of the migration for a long time (though data-center contacts noticed Dropbox buying capacity), and even Dropbox's already-deep S3 discounts couldn't beat Magic Pocket's cost efficiency.
 ## Related
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
 - [[James Cowling]] — most senior engineer
@@ -35,3 +36,5 @@ Dropbox is a file-sync, storage, and collaboration company founded by Drew Houst
 - [[Amazon S3]] — the service it migrated off
 - [[Erasure Coding]] — durability technique used
 - [[Multi-Homing]] — replication strategy considered
+- [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
+- [[Tiered Storage]] — the hot/cold storage design

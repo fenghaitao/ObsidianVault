@@ -2,7 +2,7 @@
 title: "Erasure Coding"
 type: concept
 tags: [storage, durability, encoding, Dropbox]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
 last_updated: 2026-09-22
 ---
 ## Definition
@@ -13,8 +13,11 @@ Erasure coding is a technique for storing data as encoded fragments spread acros
 - Example: reconstruct a file by reading any 6 of 9 fragments — ask all 9 and return as soon as the first 6 arrive, which is actually faster than non-replicated reads.
 - Can scale to e.g. ~27 fragments, stored efficiently (not 27x data), plus a local low-latency copy near the user's home region.
 - Trade-off embedded in the scheme: store more copies, or store fewer and re-replicate fast when a disk fails (which costs network bandwidth).
+- In the S3-migration clip, Cowling describes reconstructing a hot file's data "from a whole bunch of other replicas" (fragments), turning one unit of incoming load into roughly seven units of more-expensive reconstruction load — the spark for congestion collapse.
 ## Related
 - [[summary-20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling]] — source summary
 - [[Dropbox]] — the company that uses it
 - [[Magic Pocket]] — the storage system
 - [[Multi-Homing]] — the complementary replication strategy
+- [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
+- [[Congestion Collapse]] — the failure reconstruction load can trigger

@@ -2,7 +2,7 @@
 title: "Rust"
 type: entity
 tags: [language, systems-programming, Mozilla, memory-safety]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md"]
 last_updated: 2026-09-23
 ---
 
@@ -17,6 +17,7 @@ Rust is a systems programming language created at Mozilla to provide compile-tim
 - The parallel Rust CSS engine was uplifted into Firefox as Quantum CSS, improving Amazon.com rendering time by ~25% and becoming the industry's fastest CSS engine
 - The full-engine rewrite (Servo) proved unsustainable against hundreds of Chromium engineers, but Rust escaped the browser and became a widely adopted industry language
 - James Cowling: Dropbox rewrote its Magic Pocket storage nodes in Rust (before Rust hit GA) to eliminate Go's unpredictable garbage-collected memory usage, which caused OOM restarts that looked like disk failures and could trigger congestion collapse.
+- The Rust rewrite coincided with removing the filesystem layer entirely and directly driving the disks via ZBC (zone-based block control), part of the Discotech project.
 
 ### Charlie Marsh on Rust
 - Chose Rust for Ruff partly for hype, but now calls it "an extremely good bet": cargo makes clone→build→test trivial, the toolchain is opinionated (no C++ build-system pain), and it delivers memory safety plus performance that "scaled very well."
@@ -61,3 +62,4 @@ Rust is a systems programming language created at Mozilla to provide compile-tim
 - [[Manual Memory Management]] — Rust's model vs garbage collection
 - [[OCaml]] — the garbage-collected contrast
 - [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — source summary
+- [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
