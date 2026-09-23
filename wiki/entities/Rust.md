@@ -2,7 +2,7 @@
 title: "Rust"
 type: entity
 tags: [language, systems-programming, Mozilla, memory-safety]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251010 - Mozilla Firefox CTO： Chrome vs Firefox and Distinguished Eng Promos.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 
@@ -37,6 +37,17 @@ Rust is a systems programming language created at Mozilla to provide compile-tim
 ### Leonardo de Moura on Rust
 - A Lean tool maps Rust into Lean (shallow embedding) so the Lean translation can be verified — an example of verifying programs written in a different language.
 
+### Anders Hejlsberg on Rust vs Go
+
+- For the TypeScript compiler port, Rust was rejected because it has no garbage collection and its borrow checker does not allow circular data structures (trees with parent pointers, recursive types, symbols referencing each other) — which the compiler is "chalk full" of.
+- Ref counting and other Rust strategies come with restrictions and lack the safety guarantees of language-integrated GC; garbage collection "engineered into the language" is a separate concern you don't have to do anything special for.
+- Hejlsberg says Rust is "no better" than Go on the quality of generated code or the concurrency gains, so Go delivered the same benefits for less work.
+
+### Martin Odersky on Rust
+- Rust is "closer to the metal" with better performance guarantees and a much smaller memory footprint; Scala's garbage collection always imposes small pauses and needs a big chunk of memory, so Rust is better for embedded.
+- Odersky believes "right now Rust is actually overused": people push Rust higher up the stack where a garbage collector is fine, turning it into an intellectual exercise — "if you have the memory for a garbage collector, you should absolutely use one."
+- He credits Rust as the big achievement that proved a low-level systems language can be memory safe — "nobody thought that was possible before Rust came."
+
 ## Related
 
 - [[Mozilla]] — its creator
@@ -69,3 +80,10 @@ Rust is a systems programming language created at Mozilla to provide compile-tim
 - [[Lean]] — a tool maps Rust into Lean for verification
 - [[Formal Verification]] — the use case
 - [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary
+- [[TypeScript]] — the compiler whose port rejected Rust
+- [[Anders Hejlsberg]] — the decision-maker
+- [[Go (Programming Language)]] — the language chosen instead
+- [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
+- [[Martin Odersky]] — calls Rust bottom-of-stack, overused higher up
+- [[Garbage Collection]] — the simpler alternative above embedded
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary

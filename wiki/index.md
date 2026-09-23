@@ -69,6 +69,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy]] — Roberto Ierusalimschy on Lua's design as an embeddable "language as a library," scripting vs dynamic languages, and LuaJIT's trace compilation.
 - [[summary-20260807 - 100,000 🙏]] — A brief 100,000-subscriber thank-you clip with no substantive interview content.
 - [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — Leonardo de Moura on Lean, interactive theorem proving, and how AI is collapsing the cost of formal verification.
+- [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — Anders Hejlsberg on TypeScript 7's port to Go, language design, and why AI shifts engineers from writing to reviewing code.
+- [[summary-20260824 - Sergey Levine： Humanoid Robotics Results, Chinese Labs & Future Timelines]] — Sergey Levine on humanoid robotics' pre-scaling stage, generalization as the hard problem, and robot foundation models.
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — Martin Odersky on Scala's functional/object-oriented synthesis and why AI-era languages need stronger types and capability safety.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -617,6 +620,22 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Peter Scholze]] — Fields Medalist whose Liquid Tensor Experiment was formalized in Lean.
 - [[Terence Tao]] — Fields Medalist who became an enthusiastic Lean user.
 - [[Sebastian Ullrich]] — Lean lead developer and co-founder of its nonprofit.
+- [[Anders Hejlsberg]] — Creator of Turbo Pascal, Delphi, C#, and TypeScript; Technical Fellow at Microsoft.
+- [[C#]] — Programming language designed by Anders Hejlsberg at Microsoft.
+- [[Turbo Pascal]] — Hejlsberg's first product, an early Pascal compiler written in Z80 assembly.
+- [[Niklaus Wirth]] — Inventor of Pascal, Modula, and Oberon (transcribed "Nicholas V").
+- [[Sergey Levine]] — UC Berkeley robotics researcher and co-founder of Physical Intelligence.
+- [[Physical Intelligence]] — Robotics company building general-purpose robot foundation models.
+- [[Figure]] — Humanoid robotics company.
+- [[Waymo]] — Alphabet's autonomous driving / robotaxi company (transcribed "Whimo").
+- [[Boston Dynamics]] — Robotics company known for acrobatic humanoid and legged-robot demonstrations.
+- [[Tony Zhao]] — Robotics researcher and lead author of the ACT/ALOHA paper.
+- [[Trossen Robotics]] — Maker of low-cost hobbyist robot arms used in research (transcribed "Trusson Robotics").
+- [[UR5]] — Robotic arm from Universal Robots, used in robotics research.
+- [[Martin Odersky]] — EPFL professor and creator of the Scala programming language.
+- [[EPFL]] — Swiss technical university where Martin Odersky is a professor.
+- [[Phil Wadler]] — Haskell co-designer who collaborated with Odersky on the Pizza language.
+- [[JVM]] — The Java Virtual Machine's bytecode runtime with a JIT compiler.
 
 ## Concepts
 
@@ -1033,6 +1052,18 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Formalization of Mathematics]] — Translating theorems into a machine-checkable formal language for verified, collaborative proof.
 - [[Interactive Theorem Proving]] — Writing proofs in an assistant where human or AI guides steps and the machine checks each.
 - [[Satisfiability Modulo Theories]] — Extending SAT with decision procedures for arithmetic, arrays, etc., as a push-button solver.
+- [[Porting vs Rewriting]] — Mechanically translating a codebase to a new language versus rewriting from scratch.
+- [[Humanoid Robotics]] — Building general-purpose robots with human-like form factors.
+- [[Embodied AI]] — AI that acts in and learns from the physical world through robotic bodies.
+- [[Robot Foundation Models]] — Generalist learned models trained on broad robot data across tasks and embodiments.
+- [[Imitation Learning]] — Learning a behavior policy from demonstrations rather than reward.
+- [[Sim-to-Real Transfer]] — Learning in simulation and transferring to real robots; choosing the right training data.
+- [[Data Flywheel]] — Deployed robots collect data that improves models, enabling more deployment.
+- [[Reinforcement Learning]] — Learning to act from trial-and-error experience and reward.
+- [[Generalization]] — Performing on unseen settings; Levine's central hard problem in robotics.
+- [[Type Classes]] — Ad-hoc polymorphism where operations are declared per type at compile time.
+- [[Capability-Based Security]] — Fine-grained, unforgeable permissions enforced by the type system.
+- [[Inlining]] — Replacing a function call with its body before code generation for optimization.
 
 ## Syntheses
 

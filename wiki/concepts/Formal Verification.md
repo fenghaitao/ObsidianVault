@@ -2,7 +2,7 @@
 title: "Formal Verification"
 type: concept
 tags: [formal-methods, verification, programming-languages]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 
@@ -24,6 +24,9 @@ Formal verification is the use of mathematical reasoning and static-analysis alg
 - The real cost was developing and *maintaining* proofs (historically ~10x program time, e.g. seL4); AI now drafts and maintains proofs, which de Moura calls the key to making formal verification mainstream.
 - An inefficient (naive) implementation can act as the specification: ask the AI to optimize, and prove the optimized code equivalent to the naive one — "inefficient program is a spec."
 - AWS used formal verification for a decade but only on safety-critical components because it was expensive — "until now," AI changes the economics.
+- Odersky: it may be "a golden age for formal verification" — AI can finish not just the program but also the proof that it meets the specification.
+- Caveat: in the large you often lack the formal specification, which can be as hard (or harder) to write than the program — so natural-language prompts will remain but become more formalized.
+- He recommends learning a verification language (Lean, Coq, or similar) to sharpen intuition for what "correct" means.
 
 ## Related
 
@@ -41,3 +44,8 @@ Formal verification is the use of mathematical reasoning and static-analysis alg
 - [[Z3]] — the automatic solver that couldn't prove absence
 - [[mathlib]] — the library for math formalization
 - [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary
+- [[Martin Odersky]] — AI writes proofs too
+- [[Capability-Based Security]] — a verification-adjacent guarantee
+- [[Lean]] — a recommended verification language
+- [[Coq]] — another recommended verification language
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary

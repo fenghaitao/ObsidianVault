@@ -2,7 +2,7 @@
 title: "Just-in-Time Compilation"
 type: concept
 tags: [concept, compilers, performance]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 
@@ -18,6 +18,7 @@ Just-in-time (JIT) compilation translates code to machine instructions at runtim
 - A JIT is easier to build well on top of a simple, regular language like Lua (few exceptions and indirections).
 - Ahead-of-time compilers for Lua exist too (mostly research), including a student's "ridiculously simple" compiler that expands bytecode opcodes into C and reuses a C compiler for a ~3–5x speedup.
 - The compiled-vs-interpreted split is a property of the toolchain, not the language; dynamic languages stay interpreted mainly because of `eval`.
+- Odersky: JVM bytecode "is run first by an interpreter and then by an optimizing compiler, a just-in-time compiler (JIT)"; emitting bytecode is "not very hard," which is how a language runs on the JVM.
 
 ## Related
 
@@ -27,3 +28,7 @@ Just-in-time (JIT) compilation translates code to machine instructions at runtim
 - [[Mike Pall]] — LuaJIT's author
 - [[Programming Language Design]] — simplicity that enables JITs
 - [[summary-20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy]] — source summary
+- [[JVM]] — its bytecode runs via interpreter then JIT
+- [[Martin Odersky]] — describes the JVM JIT pipeline
+- [[Scala]] — a language born on the JVM
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary

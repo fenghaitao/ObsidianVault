@@ -2,8 +2,8 @@
 title: "Sun Microsystems"
 type: entity
 tags: [company, tech, operating-systems, hardware]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -26,6 +26,8 @@ Sun Microsystems was the workstation and server company (founded 1983) where Bry
 
 - Bjarne Stroustrup: Sun (or DEC — he can't recall which was the third) was among the companies whose representatives "twisted [his] arm" in 1989 to standardize C++ under ISO.
 - Sun spent far more on Java advertising/marketing than was ever spent developing C++ (which had ~$5,000 over three years), yet C++ has "10–12 times more developers today" than when Java's "we'll kill C++" ads ran.
+- Odersky: Sun was "quite an open company" about Java in the 1998–2005 window Scala was born in; its one firm requirement was that anything using Java be called "Java" (hence Microsoft's clash and C#).
+- The later licensing/ownership fight (Oracle vs Google over Android's Java fork) came only after Oracle acquired Sun, long after Scala's founding.
 
 ## Related
 
@@ -48,3 +50,7 @@ Sun Microsystems was the workstation and server company (founded 1983) where Bry
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
 - [[C++]] — pushed its standardization
 - [[Java]] — the product it marketed as a "C++ killer"
+- [[Martin Odersky]] — built Scala on Java in Sun's open era
+- [[Scala]] — the language built on the JVM
+- [[Oracle]] — the later Java fight
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary

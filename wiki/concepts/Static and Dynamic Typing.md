@@ -2,7 +2,7 @@
 title: "Static and Dynamic Typing"
 type: concept
 tags: [concept, type-systems, programming-languages]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -21,6 +21,14 @@ Static typing checks types at compile time; dynamic typing checks them at runtim
 - Types drive compilation: with known operand types the compiler sizes variables and emits a single integer-add instruction; in a dynamic language `a + b` must inspect and convert operand types at runtime.
 - Types that don't guarantee anything (TypeScript-style) can't be used to compile, and type inference for dynamic languages is generally not computable.
 
+### Anders Hejlsberg on gradual typing
+- Hejlsberg frames TypeScript as a "gradual" system between static and dynamic: part of the code is typed while the rest is `any`, and the types are erased at runtime — existing purely for tooling.
+- JavaScript's quirks (automatic conversions, `==` vs `===`) are exactly the kind of thing a type checker can track for you, so TypeScript "captures all the badness and parks it."
+
+### Martin Odersky on Scala vs Python
+- Python now has optional type syntax plus type checkers, and pattern matching — the gap to Scala is closing, but Scala's always-on strong type system gives real guarantees ("certain bad states can't happen") versus Python where types are "just syntax."
+- Scala's inferred types made it "feel like a dynamic language" while retaining the solidity of a good platform — the key to bridging the dynamic and statically typed worlds.
+
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
 - [[C++]] — a statically typed language
@@ -30,3 +38,12 @@ Static typing checks types at compile time; dynamic typing checks them at runtim
 - [[OCaml]] — the static contrast
 - [[Type Inference]] — static typing's less-verbose variant
 - [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — source summary
+- [[TypeScript]] — the gradual typing example
+- [[JavaScript]] — whose quirks TypeScript tracks
+- [[Anders Hejlsberg]] — on gradual typing
+- [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
+- [[Martin Odersky]] — Scala vs Python trade-off
+- [[Scala]] — statically typed but feels dynamic
+- [[Python]] — optional types close the gap
+- [[Type Inference]] — what made Scala feel dynamic
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary

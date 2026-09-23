@@ -2,8 +2,8 @@
 title: "Scala"
 type: entity
 tags: [language, functional-programming, object-oriented, statically-typed]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
+last_updated: 2026-09-23
 ---
 ## Definition
 Scala is a statically typed language that combines functional programming with object orientation and subtyping.
@@ -11,9 +11,17 @@ Scala is a statically typed language that combines functional programming with o
 ## Key Information
 - SPJ positions Haskell and Scala as the two leading-edge statically typed languages (OCaml close behind), placing them in an "equivalence class" that isn't strictly comparable.
 - Scala has "almost everything Haskell has" plus subtyping and object orientation — which makes it more complex and, he suggests, costly (Martin Odersky would agree).
+- Odersky's framing: Scala is the only functional language that is also a very capable object-oriented language, born from a genuine synthesis of the two rather than a side-by-side blend; OOP contributes modules, components, and encapsulation, which pure FP mostly lacks.
+- Scala 3 "looks a lot like Python" but with a strong, always-on type system; Scala also runs beyond the JVM on JavaScript/Node.js, WebAssembly (transcribed "WAM"), and native via LLVM.
+- Selected design regrets: inheriting Java's universal methods (`toString`/`equals`/`hashCode`) instead of type classes, and introducing the full functional feature set at once — which fueled over-abstraction and a culture clash between functional- and object-oriented communities.
 
 ## Related
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
 - [[Haskell]] — the other type-system leader
 - [[Type System]] — where it competes with Haskell
 - [[Object-Oriented Programming]] — the paradigm it adds
+- [[Martin Odersky]] — the creator
+- [[JVM]] — the original platform
+- [[Type Classes]] — what he wishes Scala had used
+- [[Capability-Based Security]] — the AI-era direction
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary

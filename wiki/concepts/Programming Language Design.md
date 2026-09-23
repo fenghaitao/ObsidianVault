@@ -2,7 +2,7 @@
 title: "Programming Language Design"
 type: concept
 tags: [programming-languages, design, computing]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
 last_updated: 2026-09-23
 ---
 
@@ -32,6 +32,18 @@ Programming language design is the craft of defining a language's syntax, semant
 - Leonardo de Moura: Lean chose dependent type theory over higher-order logic — despite being "way harder" to implement — because the target community (mathematicians) required it; "listening to your users is important" in language design.
 - Lean is a dependently typed language close to Haskell, with tactic mode as a domain-specific language for writing proofs.
 
+- Martin Odersky: languages are drifting to a standard feature set — pattern matching, strong type systems, generics/polymorphism, and closures — features that mostly originated in functional programming.
+- Scala's origin is a fusion of three design lineages: Java (platform and objects), OCaml/Standard ML (modules and components), and Haskell (much of the standard library).
+- Odersky's design regret: going "full hog" into functional features from the start invited over-abstraction and a culture clash, whereas Go's restraint (adding generics late) let a disciplined style form first.
+- AI-era shift: "easy to write" no longer matters as much as high-level ways to constrain and specify what a program should and should not do; prompts should become first-class program values so changes stay incremental.
+
+### Anders Hejlsberg on language design
+- Building a language requires mastering both the mechanics (parsers, scanners, lexers, code generators) and the "art of making it feel right."
+- "Every new language is actually only 10% new and 90% the same drudgery that every other language has to go do" — be prepared for a lot of uninteresting work.
+- The most common mistake: overindexing on one cool idea and underindexing on mundane machinery, so the language does that one thing better but everything else worse.
+- It's a long game: every language project he has worked on took at least 10 years, and it's never until version three that a language "truly starts to get okay."
+- "You stand on the shoulders of giants" — learn existing languages and styles (procedural, object-oriented, functional) before designing one.
+
 ## Related
 
 - [[summary-20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White]] — source summary
@@ -53,3 +65,14 @@ Programming language design is the craft of defining a language's syntax, semant
 - [[Dependent Type Theory]] — the design choice for Lean
 - [[Lean]] — the language designed this way
 - [[summary-20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura]] — source summary
+- [[Martin Odersky]] — Scala's creator and language critic
+- [[Scala]] — the fusion language he designed
+- [[Type Classes]] — a design choice he regrets skipping
+- [[Capability-Based Security]] — the AI-era design direction
+- [[Inlining]] — the Scala/Zig/C++ comparison
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary
+- [[Anders Hejlsberg]] — 10% new / 90% drudgery, long-game view
+- [[TypeScript]] — a language he designed
+- [[C#]] — a language he designed
+- [[Turbo Pascal]] — his first language product
+- [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary

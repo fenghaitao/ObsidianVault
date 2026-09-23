@@ -2,8 +2,8 @@
 title: "AI and Software Engineering"
 type: concept
 tags: [AI, career, engineering, future-of-work]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -46,6 +46,14 @@ AI and Software Engineering examines the relationship between artificial intelli
 - Strong software engineers are more valuable than ever because they use agents more effectively; he remains concerned about the "garbage" he'd ship without significant engineering experience.
 - It's a hard time to be an early-career engineer — he's unsure what the learning loop looks like when you're mostly instructing models.
 
+### Anders Hejlsberg's Perspective
+- AI is "at heart a big stochastic machine that has memorized the entire internet" — it can't write the TypeScript compiler because it has seen nothing like it in its training set, and it is not deterministic.
+- AI favors incumbent languages: trained on the world's code, it is best at JavaScript/TypeScript/Python — the adoption "knee" in TypeScript coincides with AI, and incumbents get stronger.
+- "Don't hand AI the keys": if you can't understand the code you still carry responsibility (when the app misbehaves, the user sues you, not the AI).
+- On "AI will write 90% of code" / "no IDE needed within a year": people overreach to 100% — "there still has to be someone understanding what's going on" and connecting the work to the business problem.
+- If AI replaces junior engineers, "where are the seniors going to come from?" The craft shifts from typing code to reviewing agents' work — more reviewing, less typing.
+- Practical tip: ask AI to write a program that computes the answer (a spreadsheet, a translation tool) rather than the answer itself, since nondeterminism breaks trust.
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -66,3 +74,7 @@ AI and Software Engineering examines the relationship between artificial intelli
 - [[Vibe Coding]] — one end of the agent-era spectrum
 - [[Contributor Poker]] — how agents break contributor growth
 - [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — source summary
+- [[Anders Hejlsberg]] — AI can't write the compiler; don't hand AI the keys
+- [[TypeScript]] — the AI adoption "knee"
+- [[Porting vs Rewriting]] — deterministic tools vs stochastic AI
+- [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary

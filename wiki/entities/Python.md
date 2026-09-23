@@ -2,7 +2,7 @@
 title: "Python"
 type: entity
 tags: [programming-language, scripting, data-science]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260525 - Dropbox’s Former Most Senior Eng： Building Great Systems and Advice for the AI Era ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 
@@ -31,6 +31,10 @@ Python is a high-level, dynamically-typed programming language. John Myles White
 - Roberto: in Python "everything can mean something else," producing many runtime interactions; Lua is more conservative, which contributes to the performance gap.
 - Python's truthy/falsy coercion (zero, empty list, empty string are false) is an easy-writing/easy-mistake trade-off; Lua only added Booleans to get `false` and keeps `true` nearly useless.
 - Sandboxing story: a large Python financial program embedded Lua for its user-facing command line because Python cannot be sandboxed — arbitrary Python can do anything to the program, whereas a fresh Lua state can only call functions the host registers.
+- Odersky: Python is ubiquitous with nice, readable syntax; among dynamically typed languages he also names Scheme — "very grounded in computer science theory and lambda calculus" — though Python is "100 times more popular."
+- The gap between Scala and Python is closing: Python added optional type syntax plus type checkers, and pattern matching — features Scala had from the start; languages broadly drift toward a shared feature set originating in functional programming.
+- Scala's edge over Python: a strong, always-on type system that guarantees "certain bad states can't happen," versus Python where types are "just syntax," have fewer guarantees, and a culture that values types less.
+- Python's great strength is as a glue language with efficient linkages to high-performance C++ libraries (pandas, NumPy).
 
 ## Related
 
@@ -55,3 +59,8 @@ Python is a high-level, dynamically-typed programming language. John Myles White
 - [[summary-20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh]] — source summary
 - [[summary-20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan]] — source summary
 - [[summary-20260729 - AWS to Dropbox： The Largest Ever Data Migration In History ｜ James Cowling]] — source summary
+- [[Martin Odersky]] — Scala-vs-Python comparison
+- [[Scala]] — the strongly typed contrast
+- [[Scheme]] — the other dynamic standout he names
+- [[Type System]] — where Scala has the edge
+- [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary

@@ -2,7 +2,7 @@
 title: "Moore's Law"
 type: concept
 tags: [semiconductors, scaling, computer-architecture, transistors]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260713 - Turing Award Winner： TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC ｜ David Patterson.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260713 - Turing Award Winner： TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC ｜ David Patterson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -14,8 +14,16 @@ Moore's Law is Gordon Moore's observation — originally yearly, later amended t
 - Improvement is now non-uniform: logic gates still improve, static RAM (SRAM) "hardly improves at all," and DRAM density used to quadruple every ~3 years but now takes ~10 years.
 - Advanced packaging (chiplets, or two full-reticle dies per package) still adds transistors to a package, which some — Patterson references Jim Keller's "Moore's law isn't dead" — cite as continuation, but Patterson says "just look at the data" doesn't back that up; he notes an emotional/identity dimension for manufacturers who "make Moore's law" their career.
 - Its slowdown, after Dennard scaling already ended ~2005, is what pushed architects to domain-specific architectures around 2015.
+### Anders Hejlsberg's framing
+- Hejlsberg's framing for the TypeScript 7 rewrite: "Moore's law has stopped giving us faster CPUs. It's giving us more CPUs," so compute-heavy workloads must adopt shared-memory concurrency across cores or "leave money on the table."
+- This shift made JavaScript — a single-threaded language without shared-memory concurrency — a poor fit for a compiler, motivating the native Go rewrite.
+
 ## Related
 - [[summary-20260713 - Turing Award Winner： TPU vs GPU vs CPU, Computer Architecture, RISC vs CISC ｜ David Patterson]] — source summary
 - [[Dennard Scaling]] — its power companion
 - [[Computer Architecture]] — the field it guided
 - [[Domain-Specific Architecture]] — the response to its end
+- [[TypeScript]] — the native rewrite it motivated
+- [[Anders Hejlsberg]] — "more CPUs, not faster CPUs"
+- [[Concurrency]] — shared-memory concurrency response
+- [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
