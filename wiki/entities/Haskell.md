@@ -2,7 +2,7 @@
 title: "Haskell"
 type: entity
 tags: [language, functional-programming, lazy, statically-typed]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260810 - Creator of Lean： Handwritten Math Will Change Dramatically ｜ Leonardo de Moura.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -24,6 +24,8 @@ Haskell is a pure, lazy, statically typed functional programming language co-cre
 - Odersky counts Haskell among Scala's three main influences (with Java and OCaml/Standard ML), contributing much of the Scala standard library's function names.
 - Haskell-origin monadic libraries helped push some Scala teams to over-abstract: a boss coming from Haskell could impose "the whole thing like Haskell," and two years later the project is cancelled because "nobody can understand this code."
 - Odersky prefers Haskell's (and Rust's) type classes over Java's universal methods — a mechanism he wishes Scala had adopted.
+- Roberto Ierusalimschy names Haskell his top language to study in 2026, retelling an old Haskell-community joke about the correctness-first trade-off: in C you spend a week making it efficient and a year making it correct; in Haskell you spend a week making it correct and then possibly a year making it efficient.
+- Roberto adds that Haskell keeps types optional everywhere yet still infers the types of everything correctly.
 
 ## Related
 - [[summary-20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones]] — source summary
@@ -54,3 +56,4 @@ Haskell is a pure, lazy, statically typed functional programming language co-cre
 - [[Phil Wadler]] — Haskell designer who co-built Pizza with Odersky
 - [[Type Classes]] — the Haskell mechanism Odersky prefers
 - [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary
+- [[summary-20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy]] — source summary

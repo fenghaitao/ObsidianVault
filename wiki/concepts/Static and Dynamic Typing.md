@@ -2,7 +2,7 @@
 title: "Static and Dynamic Typing"
 type: concept
 tags: [concept, type-systems, programming-languages]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -20,6 +20,7 @@ Static typing checks types at compile time; dynamic typing checks them at runtim
 - "Compiled" vs "interpreted" is a toolchain property, not a language property — you could compile Python or write an interpreter for C — but `eval` is what keeps dynamic languages mostly interpreted (a compiled dynamic language must ship its compiler as a runtime library).
 - Types drive compilation: with known operand types the compiler sizes variables and emits a single integer-add instruction; in a dynamic language `a + b` must inspect and convert operand types at runtime.
 - Types that don't guarantee anything (TypeScript-style) can't be used to compile, and type inference for dynamic languages is generally not computable.
+- Roberto (2026 clip): knowing operand types at compile time means `a + b` becomes a single typed add; a dynamic language instead compiles `+` to a generic virtual instruction and must check, convert, or concatenate at runtime.
 
 ### Anders Hejlsberg on gradual typing
 - Hejlsberg frames TypeScript as a "gradual" system between static and dynamic: part of the code is typed while the rest is `any`, and the types are erased at runtime — existing purely for tooling.
@@ -47,3 +48,4 @@ Static typing checks types at compile time; dynamic typing checks them at runtim
 - [[Python]] — optional types close the gap
 - [[Type Inference]] — what made Scala feel dynamic
 - [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary
+- [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — source summary

@@ -2,7 +2,7 @@
 title: "C (Programming Language)"
 type: entity
 tags: [programming-language, systems-programming, C]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260722 - Harvard Professor On Why You Should Learn C in 2026 ｜ David Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -33,6 +33,8 @@ C is the low-level systems programming language created at Bell Labs (co-created
 - Lua's portability rests on C's portability: the interpreter (a loop-with-switch virtual machine) is written in C and compiled per platform.
 - C's long absence of a Boolean type (using integers as truth values up to C99) influenced Lua's own lack of Booleans for years.
 - C's "indexing" is really pointer arithmetic (an offset from an address), which is why zero-based indexing arose; languages without pointer arithmetic copied the convention anyway.
+- Roberto's "interpret C" example: you can write an interpreter for C, but it would be extremely slow — proof that compiled/interpreted is a toolchain choice, while C's type system exists to be a vital part of efficient compilation.
+- Among the languages every engineer should learn, Roberto recommends C or an old 8080-style assembler to internalize what a machine actually does at the basic level — modern assemblers, he notes, have become too complex for this teaching purpose.
 
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
@@ -54,3 +56,5 @@ C is the low-level systems programming language created at Bell Labs (co-created
 - [[Memory Model]] — C/C++ concurrency semantics
 - [[Xavier Leroy]] — verified a C compiler's correctness
 - [[summary-20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy]] — source summary
+- [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — source summary
+- [[summary-20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy]] — source summary

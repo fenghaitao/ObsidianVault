@@ -2,7 +2,7 @@
 title: "Roberto Ierusalimschy"
 type: entity
 tags: [person, programming-languages, Lua]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -20,6 +20,8 @@ Roberto Ierusalimschy is a computer scientist best known as the creator of the L
 - On AI's impact: he refuses to guess beyond a couple of years and notes it's "completely feasible" programming languages won't exist if AI writes machine code directly.
 - Recommended languages to study: Haskell (functional programming and type inference), C or an old 8080-style assembler (what a machine does), Scheme (economy of ideas), and SNOBOL (transcribed "Snowball"; early pattern matching).
 - Career advice: real learning takes time — he jokes "I wanted to learn programming in 5 years," contrasting "learn Lua in 30 minutes" slogans.
+- Restates that "compiled" vs "interpreted" is a property of the toolchain, not the code: you can compile Python or interpret C (extremely slowly), and `eval` — code created while running — is the hallmark that keeps dynamic languages mostly interpreted.
+- Names his top languages to study in 2026 — Haskell, C (or an old 8080 assembler), and Scheme, plus SNOBOL — and retells the Haskell joke: in C you spend a week making it efficient and a year making it correct; in Haskell you spend a week making it correct and possibly a year making it efficient.
 
 ## Related
 
@@ -38,3 +40,5 @@ Roberto Ierusalimschy is a computer scientist best known as the creator of the L
 - [[Scheme]] — recommended study
 - [[SNOBOL]] — recommended study
 - [[Sandboxing]] — the security benefit he described
+- [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — source summary
+- [[summary-20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy]] — source summary

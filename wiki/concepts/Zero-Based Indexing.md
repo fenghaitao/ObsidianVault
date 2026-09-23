@@ -2,7 +2,7 @@
 title: "Zero-Based Indexing"
 type: concept
 tags: [concept, programming-languages, indexing]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -28,3 +28,4 @@ Zero-based indexing counts the first element of a sequence as index 0; one-based
 - [[Programming Language Design]] — indexing as a design choice
 - [[Roberto Ierusalimschy]] — who defends one-based indexing
 - [[summary-20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy]] — source summary
+- [[summary-20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy]] — source summary

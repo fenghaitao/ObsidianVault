@@ -2,7 +2,8 @@
 title: "AI and Software Engineering"
 type: concept
 tags: [AI, career, engineering, future-of-work]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250711 - Meta Senior Staff Eng (IC7)： Zuck Stories, Rapid Career Growth, Code Machine Archetype.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260511 - Harvard Professor： CS50, What Matters More Than Programming Now, Lecturing Well ｜ David J Malan.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md",
+  "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md"]
 last_updated: 2026-09-23
 ---
 
@@ -54,6 +55,15 @@ AI and Software Engineering examines the relationship between artificial intelli
 - If AI replaces junior engineers, "where are the seniors going to come from?" The craft shifts from typing code to reviewing agents' work — more reviewing, less typing.
 - Practical tip: ask AI to write a program that computes the answer (a spreadsheet, a translation tool) rather than the answer itself, since nondeterminism breaks trust.
 
+### Thariq Shihipar's Perspective
+- "Coding is largely solved" (a Boris tagline) means we no longer get stuck the way we used to — software was once so rare and failure-prone that most projects failed, but now it works far more often and can be applied everywhere.
+- Being technical is still crucial: understand computers, programs, languages, memory allocation, caches, and what a back-end service is — you can only judge great software if you are a great software engineer.
+- The unique work is deciding what to build, defining specs, and providing context; Claude absorbs the "glue work" (e.g., a Figma-to-React translation that has been done once shouldn't be redone).
+- Internships shift from "write the React code" to discovering genuinely new problems (e.g., how to eval and measure model performance across millions of users) — more proactive and opportunistic than a pipeline task.
+- Maintainability is being redefined: naming and stylistic opinions matter less; verification harnesses, skills, and ~100x more test code matter more; consider wholesale rewrites as models improve.
+- Learning should still feel like effort (Karpathy): nodding along while Claude explains something is not the same as actually learning it.
+- The "ticket to done" only works when the ticket is a complete spec; the real work is figuring out what you want and where the unknowns are.
+
 ## Related
 
 - [[summary-20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA)]] — source summary
@@ -78,3 +88,5 @@ AI and Software Engineering examines the relationship between artificial intelli
 - [[TypeScript]] — the AI adoption "knee"
 - [[Porting vs Rewriting]] — deterministic tools vs stochastic AI
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
+- [[Thariq Shihipar]] — "coding is largely solved" and staying technical
+- [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — source summary

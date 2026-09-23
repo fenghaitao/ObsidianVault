@@ -2,7 +2,7 @@
 title: "Type Inference"
 type: concept
 tags: [type-systems, programming-languages, OCaml]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -22,6 +22,8 @@ Type inference is the compiler's deduction of types from how variables are used,
 - The same idea applies to LuaJIT: performance improves a lot if the programmer follows an informal type discipline (not reusing a variable for integers and then strings), even though the language does not enforce it.
 - Odersky lists type inference among the hard, competing demands on a compiler: programmers expect the compiler to infer types that "make sense" while also generating efficient code quickly.
 - Scala's inferred types let it feel like a dynamic language while retaining the solidity of a good platform — the key reason it bridged dynamic and statically typed worlds (e.g., Twitter's migration from Ruby).
+- Asked directly whether you could run type inference on Lua to get an unambiguous set of types for compilation, Roberto answers no: with the right types a compiler is much easier to write, but for dynamic languages you must instead write with implicit type discipline — otherwise inference either fails or infers overly generic types you can't exploit.
+- Roberto cites Haskell as the positive case for inference: its types are optional everywhere, yet the language can infer the types of everything correctly.
 
 ### Anders Hejlsberg on Flow
 - Facebook's Flow "was doing type inference on top of JavaScript" as a rival to TypeScript, but it was written in OCaml (transcribed "camel"), which made community contribution harder, and it didn't focus on IDE-based tooling — a key reason TypeScript won the competition to type JavaScript.
@@ -40,3 +42,5 @@ Type inference is the compiler's deduction of types from how variables are used,
 - [[TypeScript]] — beat Flow's inferred-types rival
 - [[Anders Hejlsberg]] — on Flow vs TypeScript
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
+- [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — source summary
+- [[summary-20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy]] — source summary

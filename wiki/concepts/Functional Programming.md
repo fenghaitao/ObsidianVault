@@ -2,7 +2,7 @@
 title: "Functional Programming"
 type: concept
 tags: [concept, programming-paradigm, functional-programming]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260724 - Why C Is a Dangerous Language ｜ Simon Peyton Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -19,6 +19,7 @@ Functional programming is programming with values instead of mutation — exclud
 - Odersky's definition: "functional programming is programming with values" — values plus functions that transform values into other values, deferring state/side effects until late for predictability and fewer bugs from undocumented effects.
 - FP is closely linked to mathematics: theories of polynomials, strings, and lists have no concept of mutation — you transform one into another rather than changing a single coefficient in place.
 - Odersky's pragmatic stance: FP is great for ~95% of a program; the remaining 5% may use well-documented side effects, since pure FP that wraps effects in monads can get inconvenient very quickly.
+- Roberto Ierusalimschy recommends Haskell as the language with "everything you need to really learn about functional programming," retelling the Haskell joke that in C you spend a week making code efficient and a year making it correct, while in Haskell you make it correct in a week and may spend a year making it efficient.
 
 ### Anders Hejlsberg on FP in TypeScript
 - Hejlsberg credits JavaScript's first-class functions — functions within functions, closures, passing functions as values — as the thing Brendan Eich got "very right."
@@ -50,3 +51,4 @@ Functional programming is programming with values instead of mutation — exclud
 - [[Anders Hejlsberg]] — on FP enabling concurrency
 - [[Concurrency]] — immutability enables shared structures
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
+- [[summary-20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy]] — source summary

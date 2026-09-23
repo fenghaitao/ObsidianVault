@@ -2,8 +2,9 @@
 title: "Anthropic"
 type: entity
 tags: [company, AI, LLM]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md",
+  "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -30,6 +31,13 @@ Anthropic is the AI lab behind the Claude model family and Claude Code.
 - John Myles White cited Anthropic (with OpenAI) as a smaller frontier-lab startup that has had more layoff rounds than Meta Superintelligence Labs.
 - Vlad Feinberg cites Anthropic (with OpenAI) as a peer frontier lab whose people agreed with his "how to get a job at a frontier lab" post, indicating overlapping skill demands.
 
+### Thariq Shihipar on Anthropic's Engineering Culture
+- Anthropic treats "figure out how to work at a higher abstraction level" as part of the job; the culture tolerates spending a day trying to automate something even if it fails, because the failure is data ("Claude is not good at this — how do we make it better").
+- The internal-external perception gap is real: Thariq hears of large enterprise customers who "haven't typed a line of code themselves in 6 months," and many engineers are barely in the IDE anymore.
+- The team's goal is for Claude to absorb the "glue work" (e.g., translating a Figma file into code) so humans concentrate on unique work; there is a ton of demand for unique thinking.
+- "Claude Code is really good at the implementation of code, and Claude Tag is for the rest of the software development life cycle" — feedback, code review, CI/CD, incidents.
+- Internal essays arguing direction are expected to stay human-written; AI-generated writing should be disclosed (routine data readouts are fine, novel thought is not).
+
 ## Related
 
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary
@@ -49,3 +57,5 @@ Anthropic is the AI lab behind the Claude model family and Claude Code.
 - [[summary-20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg]] — source summary (Vlad Feinberg)
 - [[Google DeepMind]] — peer lab
 - [[Frontier Lab]] — the category they share
+- [[Thariq Shihipar]] — engineer on the Claude Code team
+- [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — source summary

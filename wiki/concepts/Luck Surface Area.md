@@ -2,8 +2,8 @@
 title: "Luck Surface Area"
 type: concept
 tags: [career, luck, opportunity, networking]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -34,6 +34,11 @@ Luck Surface Area is the concept that you can increase the probability of fortun
 - Jobs he was rejected from would have been at companies that "exploded" a year later
 - This reframes rejection as potential luck in disguise
 
+### Thariq Shihipar's Example
+- His Anthropic job illustrates the concept: a ~1-month Good Fire interpretability visualization, shared publicly (his first big Twitter post, ~500 likes), drew DMs and led to an intro into a role at Anthropic.
+- Advice: pick an interesting project, work hard, ship it and write about it — and repeat; Twitter is optional ("maybe it's Reddit or Hacker News"), but sharing work publicly is what matters.
+- Real, novel work is the prerequisite: "there's not a shortcut to that… but everyone is always looking for interesting work and wants to support you."
+
 ## Related
 
 - [[summary-20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey]] — source summary
@@ -42,3 +47,6 @@ Luck Surface Area is the concept that you can increase the probability of fortun
 - [[Networking]] — the primary mechanism for expanding luck surface area
 - [[Visibility]] — internal visibility as luck surface area
 - [[Social Proof]] — the safety net that enables luck-taking
+- [[Thariq Shihipar]] — his Good Fire → Anthropic example
+- [[Good Fire]] — the project he shared
+- [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — source summary

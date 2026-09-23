@@ -2,7 +2,7 @@
 title: "Dynamic Languages"
 type: concept
 tags: [concept, programming-languages, dynamic-typing]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -19,6 +19,7 @@ A dynamic language is characterized by the ability to create code at runtime; th
 - At runtime, a dynamic `+` must inspect operand types and decide between addition, concatenation, or another operation, in contrast to typed languages that emit one instruction at compile time.
 - Dynamic typing makes it easy to define "falsy" values (nil, zero, empty string/list), but Roberto sees this as a flexibility-vs-protection trade-off.
 - Type inference for dynamic languages is generally not computable: attempts either demand a rigid style or infer overly generic types.
+- You can interpret C too — just extremely slowly — so the practical division is set by `eval`: a compiled dynamic language must ship its compiler as a runtime library, which is why dynamic languages are usually interpreted.
 
 ## Related
 
@@ -30,3 +31,4 @@ A dynamic language is characterized by the ability to create code at runtime; th
 - [[Type Inference]] — the hard problem for dynamic languages
 - [[Roberto Ierusalimschy]] — who draws the distinction
 - [[summary-20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy]] — source summary
+- [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — source summary

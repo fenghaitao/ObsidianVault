@@ -2,8 +2,9 @@
 title: "Claude Code"
 type: entity
 tags: [tool, AI, developer-tools, Anthropic]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md",
+  "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -25,6 +26,14 @@ Claude Code is Anthropic's AI coding agent, created by Boris Cherny.
 - Anthropic "everybody dogfoods Claude Code," producing a very high volume of feedback
 - She now uses Claude Code to build Claude Code — the first time in a long while she's shipped production software, and she'd forgotten how fun shipping code and seeing customer feedback is
 
+### Thariq Shihipar on the Harness, Auto Mode, and Artifacts
+- The harness grows with the models: auto mode is a classifier that runs after every task to replace manual permission prompts, so Claude can run for hours and still stick to instructions; sandboxing and workflows are equally load-bearing.
+- Artifacts are Claude uploading an interactive web app/interface — they can call MCPs (e.g., read and display your inbox) and show coding plans with diagrams, file snippets, code, and schemas; artifacts are themselves a form of prompting.
+- Claude Code is positioned for implementation, while "Claude Tag" covers the rest of the SDLC (feedback, code review, CI/CD, incidents).
+- Figma-to-code glue work: designers hand over a Figma file and Claude Code uses the Figma MCP to convert it, so the translation work doesn't have to be redone by hand.
+- Teams use the "simplify" skill — give Claude permission to simplify an idea only after confirming it's correct, rather than letting it simplify (and waste tokens) on possibly-wrong work.
+- Verification culture: aim for roughly 100x more test code than before — fixtures for everything, fixtures pulled from production, on-the-fly database mocks, and Storybook for front-end; when you submit a PR you can get a recording of the feature being used and tested.
+
 ## Related
 
 - [[summary-20251215 - Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic]] — source summary
@@ -35,3 +44,7 @@ Claude Code is Anthropic's AI coding agent, created by Boris Cherny.
 - [[Claude]] — the underlying model family
 - [[OpenAI]] — a competitor (Codex)
 - [[AI and Software Engineering]] — how it changes the craft
+- [[Thariq Shihipar]] — engineer on the Claude Code team
+- [[Claude Tag]] — the complement for the rest of the SDLC
+- [[Harness Engineering]] — auto mode, sandboxing, artifacts
+- [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — source summary

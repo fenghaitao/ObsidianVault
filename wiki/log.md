@@ -259,3 +259,15 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-23] ingest | Ingested Martin Odersky (Scala) episode
 - **Changes**: created [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]], created [[Martin Odersky]], created [[EPFL]], created [[Phil Wadler]], created [[JVM]], created [[Type Classes]], created [[Capability-Based Security]], created [[Inlining]], updated [[Scala]], updated [[Rust]], updated [[Zig]], updated [[Go (Programming Language)]], updated [[Haskell]], updated [[OCaml]], updated [[Java]], updated [[Python]], updated [[Twitter]], updated [[Sun Microsystems]], updated [[LLVM]], updated [[Functional Programming]], updated [[Type System]], updated [[Type Inference]], updated [[Programming Language Design]], updated [[Effect Systems]], updated [[Monads]], updated [[Memory Safety]], updated [[Garbage Collection]], updated [[Object-Oriented Programming]], updated [[Just-in-Time Compilation]], updated [[Static and Dynamic Typing]], updated [[Agentic AI]], updated [[Formal Verification]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Roberto Ierusalimschy (interpret C / compile Python) clip
+- **Changes**: created [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]], updated [[Roberto Ierusalimschy]], updated [[Lua]], updated [[Python]], updated [[C (Programming Language)]], updated [[Dynamic Languages]], updated [[Static and Dynamic Typing]], updated [[Type Inference]], updated [[Type System]], updated [[Language as a Library]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Roberto Ierusalimschy (top languages) clip
+- **Changes**: created [[summary-20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy]], updated [[Roberto Ierusalimschy]], updated [[Haskell]], updated [[C (Programming Language)]], updated [[Scheme]], updated [[SNOBOL]], updated [[Functional Programming]], updated [[Type Inference]], updated [[Zero-Based Indexing]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-23] ingest | Ingested Thariq Shihipar (How Anthropic Builds) episode
+- **Changes**: created [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]], created [[Thariq Shihipar]], created [[Good Fire]], created [[Claude Tag]], created [[Harness Engineering]], created [[Loop Engineering]], created [[Context Engineering]], created [[Prompt Engineering]], created [[Knowledge Work as Code]], updated [[Anthropic]], updated [[Claude Code]], updated [[Claude]], updated [[AI and Software Engineering]], updated [[Agentic AI]], updated [[Vibe Coding]], updated [[Luck Surface Area]], updated [[index.md]]
+- **Conflicts**: none

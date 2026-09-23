@@ -2,7 +2,8 @@
 title: "Agentic AI"
 type: concept
 tags: [AI, agents, LLM, databases, workflows]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md",
+  "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar.md"]
 last_updated: 2026-09-23
 ---
 
@@ -20,6 +21,11 @@ Agentic AI refers to LLM-driven agents that take actions. Mike Stonebraker argue
 - Capabilities must prevent both forgetting and forging; Scala ships an experimental capability-tracking feature for this.
 - He advocates keeping prompts as first-class program values so an LLM change stays incremental rather than nondeterministically regenerating already-reviewed code.
 
+### Thariq Shihipar on Autonomous Workflows
+- "Loop engineering" is setting up a system that prompts Claude rather than prompting it directly; with good verification, skills, and data sources, parts of the software-development life cycle can run autonomously.
+- At Anthropic, Claude Code handles code implementation while "Claude Tag" covers feedback, code review, CI/CD, and incidents — "turning every part of your software development life cycle into a routine or loop."
+- A loop that runs autonomously like an engineering job is like hiring someone: you must ensure the work you hand it is actually valuable, not just that the loop runs.
+
 ## Related
 
 - [[summary-20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker]] — source summary
@@ -32,3 +38,7 @@ Agentic AI refers to LLM-driven agents that take actions. Mike Stonebraker argue
 - [[Scala]] — halfway there with capability tracking
 - [[Type System]] — the reviewable human/AI contract
 - [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary
+- [[Loop Engineering]] — a system that prompts Claude
+- [[Claude Tag]] — SDLC routines beyond code
+- [[Thariq Shihipar]] — autonomous-workflow practices
+- [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — source summary

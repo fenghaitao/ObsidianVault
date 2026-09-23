@@ -2,7 +2,7 @@
 title: "Language as a Library"
 type: concept
 tags: [concept, programming-languages, Lua]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -17,6 +17,7 @@ last_updated: 2026-09-23
 - A key consequence is the absence of global state: C first creates a new Lua state, all operations run on that state, and states are completely independent of each other.
 - Because a state encapsulates everything, C can close a state and release all the memory Lua was using, then create another state later.
 - The library stance shapes small and big design details — variable scoping, exception handling (raising in Lua, catching in C), and using `load` instead of `eval` so compilation is a clean, callable step.
+- The `eval` connection: to compile a dynamic language and keep `eval`, the compiler must be a library of the runtime, because code may need to be compiled during execution — exactly the library-of-runtime model that keeps dynamic languages mostly interpreted.
 
 ## Related
 
@@ -27,3 +28,4 @@ last_updated: 2026-09-23
 - [[Roberto Ierusalimschy]] — the designer
 - [[Programming Language Design]] — the craft
 - [[summary-20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy]] — source summary
+- [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — source summary

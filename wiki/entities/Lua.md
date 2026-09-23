@@ -2,7 +2,7 @@
 title: "Lua"
 type: entity
 tags: [programming-language, scripting, embeddable]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md"]
 last_updated: 2026-09-23
 ---
 
@@ -25,6 +25,7 @@ Lua is a minimal, embeddable scripting language created by Roberto Ierusalimschy
 - A fresh Lua state has no functions at all; standard libraries must be registered explicitly, which is what makes Lua usable as a sandbox.
 - Booleans were added late, mainly for `false`: in tables, `nil` is indistinguishable from an absent key, so a separate false value was needed.
 - Uses one-based indexing, matching real-world and mathematical convention rather than C's pointer-arithmetic-derived zero-based convention.
+- Whole-program type inference does not work for Lua, but real performance gains come from an informal type discipline — e.g., not reusing one variable for both integers and strings — even though the language never enforces it.
 
 ## Related
 
@@ -45,3 +46,4 @@ Lua is a minimal, embeddable scripting language created by Roberto Ierusalimschy
 - [[Zero-Based Indexing]] — the indexing convention it rejects
 - [[Foreign Function Interface]] — its C interop mechanism
 - [[Programming Language Design]] — the craft behind it
+- [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — source summary

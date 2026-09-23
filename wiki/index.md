@@ -72,6 +72,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — Anders Hejlsberg on TypeScript 7's port to Go, language design, and why AI shifts engineers from writing to reviewing code.
 - [[summary-20260824 - Sergey Levine： Humanoid Robotics Results, Chinese Labs & Future Timelines]] — Sergey Levine on humanoid robotics' pre-scaling stage, generalization as the hard problem, and robot foundation models.
 - [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — Martin Odersky on Scala's functional/object-oriented synthesis and why AI-era languages need stronger types and capability safety.
+- [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — Roberto Ierusalimschy on compiled-vs-interpreted as a toolchain property and why eval keeps dynamic languages interpreted.
+- [[summary-20260904 - Creator of Lua： Top 3 Languages Every Engineer Should Learn in 2026 ｜ Roberto Ierusalimschy]] — Roberto Ierusalimschy recommends Haskell, C/assembler, and Scheme (plus SNOBOL) as the languages to study.
+- [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — Thariq Shihipar on Anthropic's model-plus-harness approach, loop/context engineering, and knowledge work as code.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -636,6 +639,9 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[EPFL]] — Swiss technical university where Martin Odersky is a professor.
 - [[Phil Wadler]] — Haskell co-designer who collaborated with Odersky on the Pizza language.
 - [[JVM]] — The Java Virtual Machine's bytecode runtime with a JIT compiler.
+- [[Thariq Shihipar]] — Anthropic engineer on the Claude Code team.
+- [[Good Fire]] — AI interpretability company where Shihipar did a research fellowship before Anthropic.
+- [[Claude Tag]] — Anthropic feature for @-mentioning Claude to run asynchronous and recurring workflows.
 
 ## Concepts
 
@@ -1064,6 +1070,11 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Type Classes]] — Ad-hoc polymorphism where operations are declared per type at compile time.
 - [[Capability-Based Security]] — Fine-grained, unforgeable permissions enforced by the type system.
 - [[Inlining]] — Replacing a function call with its body before code generation for optimization.
+- [[Harness Engineering]] — Building the scaffolding (sandboxing, artifacts, workflows, verification) around a model.
+- [[Loop Engineering]] — Setting up systems that prompt Claude, turning workflow parts into recurring autonomous loops.
+- [[Context Engineering]] — Building up the skills, data, harness, and memory a model relies on so a small prompt suffices.
+- [[Prompt Engineering]] — Directing a model to good output via the prompt, permission, references, and model quirks.
+- [[Knowledge Work as Code]] — Most knowledge work is reducible to code-like steps a coding agent can execute.
 
 ## Syntheses
 
