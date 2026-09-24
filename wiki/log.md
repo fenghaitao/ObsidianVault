@@ -279,3 +279,23 @@ Grep-friendly: `grep "^## \[" log.md | tail -10` to see recent operations.
 ## [2026-09-23] ingest | Ingested Anders Hejlsberg (Go rewrite) clip
 - **Changes**: created [[summary-20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg]], updated [[Anders Hejlsberg]], updated [[TypeScript]], updated [[JavaScript]], updated [[Go (Programming Language)]], updated [[Rust]], updated [[Porting vs Rewriting]], updated [[Garbage Collection]], updated [[Functional Programming]], updated [[Concurrency]], updated [[Programming Language Design]], updated [[Memory Safety]], updated [[index.md]]
 - **Conflicts**: none
+
+## [2026-09-24] ingest | Ingested Casey Muratori (computer history / bad code) episode
+- **Changes**: created [[summary-20260914 - Casey Muratori： Surprises In Computer History And Where Bad Code Comes From]], created [[Casey Muratori]], created [[Brian Randell]], created [[Ivan Sutherland]], created [[Margaret Hamilton]], created [[Melvin Conway]], created [[Peter Naur]], created [[Tony Hoare]], created [[Rad Game Tools]], created [[Digital Equipment Corporation]], created [[Chris Hecker]], created [[Jonathan Blow]], created [[The Witness]], created [[NASA]], created [[Sketchpad]], created [[Go To Statement Considered Harmful]], created [[ALGOL]], created [[Clean Code]], created [[Refactoring]], created [[Bottom-Up Programming]], created [[Conway's Law]], created [[Entity Component System]], created [[Execution Profiling]], created [[Software Crisis]], created [[Static Single Assignment Form]], created [[Structured Programming]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-24] ingest | Ingested Michael Stonebraker (Postgres / GPUs) episode
+- **Changes**: created [[summary-20260916 - Creator of Postgres (Turing Award)： ＂One Size Fits None＂, Leveraging GPUs, Difficult Implementations]], created [[ClickHouse]], created [[Pinecone]], created [[GPU]], created [[Column Store]], created [[Indexing]], created [[SIMD]], updated [[Michael Stonebraker]], updated [[PostgreSQL]], updated [[Ingres]], updated [[StreamBase]], updated [[Vertica]], updated [[Databases]], updated [[One Size Does Not Fit All]], updated [[Query Optimizer]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-24] ingest | Ingested Ryan L. Peterman (quitting Meta) episode
+- **Changes**: created [[summary-20260918 - Update on Quitting My Job at Meta]], created [[Cursor]], created [[Kickstarter]], created [[Runway]], updated [[Ryan L. Peterman]], updated [[Meta]], updated [[Bjarne Stroustrup]], updated [[C++]], updated [[Spotify]], updated [[WorkOS]], updated [[iPhone]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-24] ingest | Ingested Martin Odersky (Scala vs Rust/Zig/Python) episode
+- **Changes**: created [[summary-20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky]], created [[NumPy]], created [[Pandas]], updated [[Martin Odersky]], updated [[Scala]], updated [[Rust]], updated [[Zig]], updated [[Go (Programming Language)]], updated [[Python]], updated [[Scheme]], updated [[C++]], updated [[Garbage Collection]], updated [[Inlining]], updated [[Type System]], updated [[Memory Safety]], updated [[Programming Language Design]], updated [[Static and Dynamic Typing]], updated [[Ryan L. Peterman]], updated [[index.md]]
+- **Conflicts**: none
+
+## [2026-09-24] ingest | Ingested Philip Su (psychology of career peaks) episode
+- **Changes**: created [[summary-20260921 - OpenAI & Meta Distinguished Eng (IC9)： The Psychology Behind Tech Career Peaks ｜ Philip Su]], created [[4000 Weeks]], updated [[Philip Su]], updated [[Distinguished Engineer]], updated [[Bosworth]], updated [[index.md]]
+- **Conflicts**: none

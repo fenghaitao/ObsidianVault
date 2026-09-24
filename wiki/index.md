@@ -77,6 +77,11 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[summary-20260907 - How Anthropic Builds And How Engineering Will Change Soon ｜ Thariq Shihipar]] — Thariq Shihipar on Anthropic's model-plus-harness approach, loop/context engineering, and knowledge work as code.
 - [[summary-20260909 - Creator of TypeScript & C#： AI Software Engineering Predictions ｜ Anders Hejlsberg]] — Anders Hejlsberg on why "AI writes 90% of code" is a volume claim, and the craft shifting from typing to reviewing AI output.
 - [[summary-20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg]] — Anders Hejlsberg on porting the TypeScript compiler to Go for native performance and shared-memory concurrency.
+- [[summary-20260914 - Casey Muratori： Surprises In Computer History And Where Bad Code Comes From]] — Casey Muratori on the real history of "premature optimization," Sketchpad's lost entity-component architecture, and why bad code comes from not engaging the actual problem.
+- [[summary-20260916 - Creator of Postgres (Turing Award)： ＂One Size Fits None＂, Leveraging GPUs, Difficult Implementations]] — Michael Stonebraker on "one size fits none," why Postgres isn't competitive on large warehouses, and why GPUs are "the anathema of indexing."
+- [[summary-20260918 - Update on Quitting My Job at Meta]] — Ryan L. Peterman reflects on quitting Meta to run the podcast full-time, nearly running out of runway, and reaching self-sustainability.
+- [[summary-20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky]] — Martin Odersky weighs Scala against Rust, Zig, Go, and Python, arguing each language fills a distinct niche as all converge on a shared feature set.
+- [[summary-20260921 - OpenAI & Meta Distinguished Eng (IC9)： The Psychology Behind Tech Career Peaks ｜ Philip Su]] — Philip Su on career asymptotes, why promotions stopped motivating him, and his voluntary IC9-to-IC7 demotion.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024)]] — A panel discussion with engineers from Netflix, Airbnb, Amazon, Meta, and Google on how to get promoted to Staff Engineer (IC6) at FAANG companies.
 - [[summary-20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023)]] — A panel discussion hosted by Ryan L. Peterman featuring staff-level engineers (Zach Wilson from Netflix/Airbnb, Lee McKeeman from Amazon/Meta/Google, Carly from Activision, and Rahul from Meta/Pinterest/Taro) sharing their experiences and strategies for reaching the Staff Engineer (IC6) level.
 - [[summary-20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson]] — Zach Wilson shares his career journey from being hired as an IC3 data engineer at Facebook to reaching Staff Engineer at Airbnb by age 26, with two of his three promotions coming from strategic job hopping rather than internal promotion.
@@ -644,6 +649,32 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Thariq Shihipar]] — Anthropic engineer on the Claude Code team.
 - [[Good Fire]] — AI interpretability company where Shihipar did a research fellowship before Anthropic.
 - [[Claude Tag]] — Anthropic feature for @-mentioning Claude to run asynchronous and recurring workflows.
+- [[Casey Muratori]] — Game technology developer and amateur computer historian behind the "premature optimization" and Sketchpad talks.
+- [[Brian Randell]] — British computer scientist whose conference conversation with Dijkstra prompted the "go to" letter.
+- [[Ivan Sutherland]] — Computer scientist who created Sketchpad in the early 1960s.
+- [[Margaret Hamilton]] — Software pioneer who managed the real-time software for the Apollo flight computer.
+- [[Melvin Conway]] — Author of the early paper behind Conway's law.
+- [[Peter Naur]] — Danish computer scientist, the "Naur" in Backus-Naur form, who dismissed Hoare's multipass-compiler idea.
+- [[Tony Hoare]] — Computer scientist whose 1960s note anticipated static single assignment form.
+- [[Rad Game Tools]] — Game technology company where Casey Muratori wrote his character animation system.
+- [[Digital Equipment Corporation]] — Early computer manufacturer where Casey Muratori's father worked.
+- [[Chris Hecker]] — Game developer credited with teaching Casey Muratori to read technical papers.
+- [[Jonathan Blow]] — Game designer known for The Witness, to which Casey Muratori contributed.
+- [[The Witness]] — Puzzle game by Jonathan Blow.
+- [[NASA]] — US space agency whose "no recursion" rule Casey cites for safety-critical code.
+- [[Sketchpad]] — Ivan Sutherland's early-1960s graphics program that anticipated the entity-component system.
+- [[Go To Statement Considered Harmful]] — Dijkstra's 1968 letter against the go-to statement, retitled by Niklaus Wirth.
+- [[ALGOL]] — Early influential programming-language family that Peter Naur helped standardize.
+- [[Clean Code]] — Robert C. Martin's book whose performance trade-offs Casey Muratori critiques.
+- [[Refactoring]] — Martin Fowler's book whose performance treatment Casey Muratori critiques.
+- [[ClickHouse]] — Modern column-store database that proves Stonebraker's "one size fits none" thesis.
+- [[Pinecone]] — Modern vector database that proves Stonebraker's "one size fits none" thesis.
+- [[GPU]] — SIMD hardware whose serial indexing makes B-tree lookups a poor fit.
+- [[Cursor]] — AI code editor and podcast sponsor Ryan signed after months of no revenue.
+- [[Kickstarter]] — Crowdfunding platform that funded Ryan's ergonomic keyboard within a day.
+- [[NumPy]] — Python numerical-computing library Odersky cites as part of Python's glue-language strength.
+- [[Pandas]] — Python data-analysis library Odersky cites as part of Python's glue-language strength.
+- [[4000 Weeks]] — Oliver Burkeman's book on finite time that Philip Su recommends.
 
 ## Concepts
 
@@ -1077,6 +1108,17 @@ Format: `[[Page Name]] — One-sentence description.`
 - [[Context Engineering]] — Building up the skills, data, harness, and memory a model relies on so a small prompt suffices.
 - [[Prompt Engineering]] — Directing a model to good output via the prompt, permission, references, and model quirks.
 - [[Knowledge Work as Code]] — Most knowledge work is reducible to code-like steps a coding agent can execute.
+- [[Bottom-Up Programming]] — Extracting abstractions from working code rather than imposing them from upfront design.
+- [[Conway's Law]] — Systems mirror the communication structure of the organization that built them.
+- [[Entity Component System]] — Architecture composing entities from data-driven components, which Sketchpad anticipated.
+- [[Execution Profiling]] — Measuring where a program spends time to target optimization.
+- [[Software Crisis]] — Late-1960s/early-1970s concern that software was chronically late, over budget, and unreliable.
+- [[Static Single Assignment Form]] — Compiler IR where each variable is assigned once, anticipated by a 1960s Hoare note.
+- [[Structured Programming]] — Paradigm emphasizing clear control flow over unstructured jumps.
+- [[Column Store]] — Storage layout specialized for analytical workloads, an order of magnitude faster for its use case.
+- [[Indexing]] — The B-tree lookup technique that GPUs parallelize poorly.
+- [[SIMD]] — Single-instruction-multiple-data execution that makes GPUs "the anathema of indexing."
+- [[Runway]] — The months of savings that de-risk leaving a job for an independent venture.
 
 ## Syntheses
 
