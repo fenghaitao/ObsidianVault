@@ -2,8 +2,8 @@
 title: "Meta"
 type: entity
 tags: [company, FAANG, tech, social-media]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Feb 2024).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20240708 - Getting To Staff (IC6) at FAANG Panel (Full, Sept 2023).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20241101 - Job Hopping to Staff at Airbnb by Age 26 ｜ Zach Wilson.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250301 - Amazon Principal Engineer (L7)： Layoffs, Interviewing & Career Growth ｜ Steve Huynh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250117 - 25 Year Old Staff Eng @ Meta (Promotion Story).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250421 - Meta Staff Eng (IC6) Promotion by 28 ｜ Rahul Pandey.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20250501 - Industry Secrets We Wish We Knew Before Graduating (Staff Engs Talk at UCLA).md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260104 - Anthropic Eng Leader： Mentorship Advice, Microsoft vs Facebook, Career Learnings ｜ Fiona Fung.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260209 - Meta Distinguished Eng (IC9)： Influencing Engs, Failures, and Learnings ｜ Adam Ernst.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260216 - Retired Netflix Eng Director： Leetcode, Regrets, Hiring Stories.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260316 - Meta Hiring Lead： Avoid Downleveling, Liars, Passing OpenAI And Anthropic Interviews.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260504 - Meta Superintelligence Labs (MSL) Eng Director： Promo Hacking, Industry Shifts, Regrets ｜ John White.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260918 - Update on Quitting My Job at Meta.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -113,6 +113,10 @@ Meta (formerly Facebook) is a multinational technology conglomerate and one of t
 - Dev Infra: James ran developer infrastructure (a ~1,000-engineer senior team) and helped build Dev Mate, an agentic platform that went viral internally (every one of 40,000+ engineers wanted an instance).
 - That pull led to Guild: "40,000 developers is fun, but it'd be fun to go do this for 40 million."
 
+### Ryan L. Peterman's Departure ([[summary-20260918 - Update on Quitting My Job at Meta]])
+- Ryan left Meta late last year to work on his podcast full-time, using a reorg as the trigger and six months of savings as his runway; nine months later the podcast sustains itself.
+- He framed the choice as explicitly not about money — "otherwise I would have just stayed at Meta" — and judged it by the freedom to work on passion projects rather than on-paper logic.
+
 ## Related
 - [[summary-20260406 - Ex-Head of Eng at Instagram： Career Regrets and Learnings ｜ James Everingham]] — source summary
 - [[James Everingham]] — Novi and Dev Infra leader
@@ -175,3 +179,6 @@ Meta (formerly Facebook) is a multinational technology conglomerate and one of t
 - [[John Myles White]] — PyTorch/MSL engineering director
 - [[Meta Superintelligence Labs]] — the AI lab
 - [[PyTorch]] — the AI infra org
+- [[summary-20260918 - Update on Quitting My Job at Meta]] — source summary (Ryan's departure)
+- [[Reorganization]] — the trigger for his exit
+- [[Runway]] — the six months of savings that enabled the exit

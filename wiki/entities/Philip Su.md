@@ -2,8 +2,8 @@
 title: "Philip Su"
 type: entity
 tags: [person, engineer, Meta, OpenAI, Microsoft, Distinguished Engineer]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260921 - OpenAI & Meta Distinguished Eng (IC9)： The Psychology Behind Tech Career Peaks ｜ Philip Su.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -35,8 +35,22 @@ Philip Su is a software engineer who was promoted to Distinguished Engineer (IC9
 - He identifies giving feedback as his biggest management weakness — he pulls punches and downplays importance
 - His advice to his younger self: spend more time clarifying personal values before pursuing goals; don't be "the dog that caught the car"
 
+### Second Interview (20260921): The Psychology of Peaking
+- Framed careers as having an asymptote: no one grows forever, and you may have 20-30 years left after reaching your terminal level.
+- Promotions were one of the few quantifiable feedback signals in professional life (like school grades), which drove his ambition through his 20s and early 30s.
+- By level 7 (at Microsoft, ~12 years in) he already felt he was "nearing the boundary of my capability."
+- His E8 and E9 promotions were not goals he sought — he had stopped focusing on levels and was doing work he found interesting; the E8 promotion surprised him because he did not know Facebook had levels (his boss, Bos, told him).
+- He found the nature of the work changes beyond IC6: less direct coding, more meetings, team direction, deciding whether the product is right, and influencing other orgs — "meta work" he liked less.
+- He sought a voluntary demotion from IC9 to IC7; the hard parts were knowing he once could do more and the "wistful" feeling of watching former juniors rise past him (comparing himself to Beowulf at 70 asked to slay the dragon once more).
+- Part of the decline was environmental: as Facebook scaled, specialists and domain experts thrived while his generalist skills (negotiating contracts, briefing the press, coding) no longer fit.
+- He recommends 4,000 Weeks by Oliver Burkeman and urges planning "the day after" you reach your biggest goal — an answer he did not have.
+- He regrets a few periods where he was maximally available to the employer and not available to friends or family.
+
 ## Related
 
+- [[summary-20260921 - OpenAI & Meta Distinguished Eng (IC9)： The Psychology Behind Tech Career Peaks ｜ Philip Su]] — source summary
+- [[4000 Weeks]] — book he recommends
+- [[Terminal Level]] — career asymptote framing
 - [[Meta]] — company where Philip reached IC9
 - [[OpenAI]] — company Philip joined after Meta
 - [[Microsoft]] — first company in Philip's career

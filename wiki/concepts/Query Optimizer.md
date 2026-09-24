@@ -2,8 +2,8 @@
 title: "Query Optimizer"
 type: concept
 tags: [databases, SQL, algorithms, performance]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260916 - Creator of Postgres (Turing Award)： ＂One Size Fits None＂, Leveraging GPUs, Difficult Implementations.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -15,6 +15,7 @@ The query optimizer is the database component that decides how to execute a SQL 
 - "What was the hardest part of that implementation? Query optimizer. It's tough. It's just algorithmically difficult."
 - "If you ask most any senior database programmer what's the hardest part, they'll still say the optimizer."
 - Stonebraker's text-to-SQL approach for heterogeneous sources (SQL, CAD, text) ultimately does a join "with what amounts to a query optimizer."
+- Reaffirmed in a September 2026 episode when asked about writing Ingres from scratch: the hardest part was the query optimizer.
 
 ## Related
 

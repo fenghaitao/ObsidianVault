@@ -2,8 +2,8 @@
 title: "Bjarne Stroustrup"
 type: entity
 tags: [person, computer-scientist, C++]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260918 - Update on Quitting My Job at Meta.md"]
+last_updated: 2026-09-23
 ---
 ## Definition
 Bjarne Stroustrup is the Danish computer scientist who created the C++ programming language at Bell Labs and later guided its ISO standardization.
@@ -18,6 +18,7 @@ Bjarne Stroustrup is the Danish computer scientist who created the C++ programmi
 - Regrets: should have fought harder against implicit narrowing conversions, delayed release until templates existed, and preferred a small steering group over a 500+ person committee.
 - Motivation: the fun of building the future plus an obligation to keep C++ moving forward, fed by seeing real applications (JPL Mars rovers, CERN).
 - Book recommendation: "Programming: Principles and Practice Using C++" — learn modern C++ first, not C-first.
+- Ryan L. Peterman described interviewing him against a wall of his C++ books in his own study, shot with just two iPhones — cited as a highlight of making the podcast full-time after leaving Meta.
 
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
@@ -34,3 +35,6 @@ Bjarne Stroustrup is the Danish computer scientist who created the C++ programmi
 - [[Object-Oriented Programming]] — what he says C++ is not
 - [[Zero Overhead Abstraction]] — design principle
 - [[Programming Language Design]] — his craft
+- [[summary-20260918 - Update on Quitting My Job at Meta]] — source summary (the interview reference)
+- [[Ryan L. Peterman]] — interviewer
+- [[iPhone]] — used to shoot the interview

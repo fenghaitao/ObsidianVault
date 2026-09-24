@@ -2,8 +2,8 @@
 title: "Vertica"
 type: entity
 tags: [company, database, column-store, data-warehouse]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260916 - Creator of Postgres (Turing Award)： ＂One Size Fits None＂, Leveraging GPUs, Difficult Implementations.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -14,6 +14,7 @@ Vertica is the column-store data-warehouse database popularized from Mike Stoneb
 
 - Column stores for data warehouses "look nothing like a row store" and were an order of magnitude faster; Vertica popularized them.
 - Stonebraker cites it alongside StreamBase and row stores as proof that one size "fits none."
+- Reiterated in a September 2026 episode: a column store "looks nothing like a row store" and gives an order-of-magnitude advantage for data warehouses.
 
 ## Related
 

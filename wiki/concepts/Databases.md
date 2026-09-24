@@ -2,8 +2,8 @@
 title: "Databases"
 type: concept
 tags: [databases, relational, distributed-systems, SQL]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260916 - Creator of Postgres (Turing Award)： ＂One Size Fits None＂, Leveraging GPUs, Difficult Implementations.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -16,6 +16,7 @@ Databases are systems for storing, querying, and managing structured data. Mike 
 - The query optimizer is the hardest part of a database to implement.
 - Referential integrity is an integrity constraint (e.g., inventory > −1) that permissive concurrency models like eventual consistency can violate.
 - Marc Brooker: relational databases were still operationally "serverful" relative to serverless/containers; the current trend is block storage becoming the default durability layer, and Aurora D SQL uses MVCC plus commit-time optimistic checks to avoid lock-holding outages.
+- Stonebraker (September 2026) on GPUs for databases: GPUs are SIMD, "the anathema of indexing" — B-tree lookups serialize — and a GPU bolted onto a CPU often bottlenecks on the connecting bus.
 
 ## Related
 

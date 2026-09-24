@@ -1,0 +1,46 @@
+{"ts":"2026-07-06T03:29:53.695Z","level":"info","msg":"Plugin remote-ssh v1.1.6 loaded"}
+{"ts":"2026-07-06T03:33:28.569Z","level":"info","msg":"SftpClient: connecting to bjgtc-s05.bj.intel.com:22 as hfeng1"}
+{"ts":"2026-07-06T03:33:28.581Z","level":"info","msg":"Auth: using private key C:\\Users\\hfeng1\\.ssh\\id_rsa"}
+{"ts":"2026-07-06T03:33:28.760Z","level":"info","msg":"TOFU: Trusting new host key for bjgtc-s05.bj.intel.com:22: SHA256:b427d8e81ffaea22..."}
+{"ts":"2026-07-06T03:33:28.981Z","level":"info","msg":"SftpClient: SSH ready (bjgtc-s05.bj.intel.com)"}
+{"ts":"2026-07-06T03:33:29.262Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-06T03:33:44.715Z","level":"info","msg":"SftpClient: connecting to bjgtc-s05.bj.intel.com:22 as hfeng1"}
+{"ts":"2026-07-06T03:33:44.717Z","level":"info","msg":"Auth: using private key C:\\Users\\hfeng1\\.ssh\\id_rsa"}
+{"ts":"2026-07-06T03:33:44.998Z","level":"info","msg":"SftpClient: SSH ready (bjgtc-s05.bj.intel.com)"}
+{"ts":"2026-07-06T03:33:45.278Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-06T03:34:21.582Z","level":"info","msg":"SftpClient: connecting to bjgtc-s05.bj.intel.com:22 as hfeng1"}
+{"ts":"2026-07-06T03:34:21.583Z","level":"info","msg":"Auth: using private key C:\\Users\\hfeng1\\.ssh\\id_rsa"}
+{"ts":"2026-07-06T03:34:21.864Z","level":"info","msg":"SftpClient: SSH ready (bjgtc-s05.bj.intel.com)"}
+{"ts":"2026-07-06T03:34:22.098Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-06T05:19:32.153Z","level":"info","msg":"SftpClient: connecting to bjgtc-s05.bj.intel.com:22 as hfeng1"}
+{"ts":"2026-07-06T05:19:40.876Z","level":"info","msg":"SftpClient: connecting to bjgtc-s05.bj.intel.com:22 as hfeng1"}
+{"ts":"2026-07-06T05:19:40.877Z","level":"info","msg":"Auth: using private key C:\\Users\\hfeng1\\.ssh\\id_rsa"}
+{"ts":"2026-07-06T05:19:41.200Z","level":"info","msg":"SftpClient: SSH ready (bjgtc-s05.bj.intel.com)"}
+{"ts":"2026-07-06T05:19:41.474Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-06T05:20:35.201Z","level":"warn","msg":"ShadowVaultBootstrap: file symlink failed (EPERM: operation not permitted, symlink 'C:\\Users\\hfeng1\\ObsidianVault\\.obsidian\\plugins\\remote-ssh\\main.js' -> 'C:\\Users\\hfeng1\\.obsidian-remote\\vaults\\bjgtc-s05.bj.intel.com--ObsidianVault\\.obsidian\\plugins\\remote-ssh\\main.js'); falling back to copy"}
+{"ts":"2026-07-06T05:20:35.221Z","level":"info","msg":"ShadowVaultBootstrap: registered shadow vault for bjgtc-s05.bj.intel.com at C:\\Users\\hfeng1\\.obsidian-remote\\vaults\\bjgtc-s05.bj.intel.com--ObsidianVault (registry id=1c7e5a04df84c38c, plugin=copy)"}
+{"ts":"2026-07-06T05:20:35.222Z","level":"info","msg":"SftpClient: connecting to bjgtc-s05.bj.intel.com:22 as hfeng1"}
+{"ts":"2026-07-06T05:20:35.222Z","level":"info","msg":"Auth: using private key C:\\Users\\hfeng1\\.ssh\\id_rsa"}
+{"ts":"2026-07-06T05:20:35.529Z","level":"info","msg":"SftpClient: SSH ready (bjgtc-s05.bj.intel.com)"}
+{"ts":"2026-07-06T05:20:35.829Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-06T05:20:36.084Z","level":"info","msg":"pullSharedObsidianConfig: pulled [], skipped [app.json, appearance.json, core-plugins.json, hotkeys.json], errored []"}
+{"ts":"2026-07-06T05:20:36.429Z","level":"info","msg":"pullCommunityPlugins: merged [remote-ssh, copilot, infranodus-graph-view, obsidian-excalidraw-plugin, obsidian42-brat, folders2graph, realclaudian, dataview, lean-terminal, show-hidden-files, obsidian-git] (changed=true)"}
+{"ts":"2026-07-06T05:20:51.052Z","level":"info","msg":"pullPluginBinaries: staged [copilot, infranodus-graph-view, obsidian-excalidraw-plugin, obsidian42-brat, folders2graph, realclaudian, dataview, lean-terminal, show-hidden-files]"}
+{"ts":"2026-07-06T05:20:51.052Z","level":"info","msg":"preSpawnPull: staged canonical .obsidian/ before spawn (bjgtc-s05.bj.intel.com)"}
+{"ts":"2026-07-06T05:20:51.052Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Chfeng1%5C.obsidian-remote%5Cvaults%5Cbjgtc-s05.bj.intel.com--ObsidianVault"}
+{"ts":"2026-07-06T05:20:51.055Z","level":"info","msg":"openShadowVaultFor: profile=bjgtc-s05.bj.intel.com, vault=C:\\Users\\hfeng1\\.obsidian-remote\\vaults\\bjgtc-s05.bj.intel.com--ObsidianVault, registry id=1c7e5a04df84c38c (newly registered), plugin=copy"}
+{"ts":"2026-07-06T05:21:16.592Z","level":"info","msg":"Plugin remote-ssh v1.1.6 loaded"}
+{"ts":"2026-07-06T05:21:30.492Z","level":"warn","msg":"ShadowVaultBootstrap: file symlink failed (EPERM: operation not permitted, symlink 'C:\\Users\\hfeng1\\ObsidianVault\\.obsidian\\plugins\\remote-ssh\\main.js' -> 'C:\\Users\\hfeng1\\.obsidian-remote\\vaults\\bjgtc-s05.bj.intel.com--ObsidianVault\\.obsidian\\plugins\\remote-ssh\\main.js'); falling back to copy"}
+{"ts":"2026-07-06T05:21:30.522Z","level":"info","msg":"ShadowVaultBootstrap: reused shadow vault for bjgtc-s05.bj.intel.com at C:\\Users\\hfeng1\\.obsidian-remote\\vaults\\bjgtc-s05.bj.intel.com--ObsidianVault (registry id=1c7e5a04df84c38c, plugin=copy)"}
+{"ts":"2026-07-06T05:21:30.523Z","level":"info","msg":"SftpClient: connecting to bjgtc-s05.bj.intel.com:22 as hfeng1"}
+{"ts":"2026-07-06T05:21:30.524Z","level":"info","msg":"Auth: using private key C:\\Users\\hfeng1\\.ssh\\id_rsa"}
+{"ts":"2026-07-06T05:21:30.791Z","level":"info","msg":"SftpClient: SSH ready (bjgtc-s05.bj.intel.com)"}
+{"ts":"2026-07-06T05:21:31.016Z","level":"info","msg":"SftpClient: SFTP channel open"}
+{"ts":"2026-07-06T05:21:31.265Z","level":"info","msg":"pullSharedObsidianConfig: pulled [], skipped [app.json, appearance.json, core-plugins.json, hotkeys.json], errored []"}
+{"ts":"2026-07-06T05:21:31.535Z","level":"info","msg":"pullCommunityPlugins: merged [remote-ssh, copilot, infranodus-graph-view, obsidian-excalidraw-plugin, obsidian42-brat, folders2graph, realclaudian, dataview, lean-terminal, show-hidden-files, obsidian-git] (changed=false)"}
+{"ts":"2026-07-06T05:21:33.870Z","level":"info","msg":"preSpawnPull: staged canonical .obsidian/ before spawn (bjgtc-s05.bj.intel.com)"}
+{"ts":"2026-07-06T05:21:33.871Z","level":"info","msg":"WindowSpawner: firing obsidian://open?path=C%3A%5CUsers%5Chfeng1%5C.obsidian-remote%5Cvaults%5Cbjgtc-s05.bj.intel.com--ObsidianVault"}
+{"ts":"2026-07-06T05:21:33.875Z","level":"info","msg":"openShadowVaultFor: profile=bjgtc-s05.bj.intel.com, vault=C:\\Users\\hfeng1\\.obsidian-remote\\vaults\\bjgtc-s05.bj.intel.com--ObsidianVault, registry id=1c7e5a04df84c38c (reused), plugin=copy"}
+{"ts":"2026-07-07T00:09:44.677Z","level":"info","msg":"Plugin remote-ssh v1.1.6 loaded"}
+{"ts":"2026-07-07T00:10:35.543Z","level":"error","msg":"unhandledrejection: ENOENT: no such file or directory, open 'C:\\Users\\hfeng1\\ObsidianVault\\wiki\\concepts\\AgentEvaluation.md'\nError: ENOENT: no such file or directory, open 'C:\\Users\\hfeng1\\ObsidianVault\\wiki\\concepts\\AgentEvaluation.md'\n    at async open (node:internal/original-fs/promises:636:25)\n    at async Object.readFile (node:internal/original-fs/promises:1235:14)"}
+{"ts":"2026-07-07T00:10:35.544Z","level":"error","msg":"unhandledrejection: ENOENT: no such file or directory, open 'C:\\Users\\hfeng1\\ObsidianVault\\wiki\\concepts\\AgentObservability.md'\nError: ENOENT: no such file or directory, open 'C:\\Users\\hfeng1\\ObsidianVault\\wiki\\concepts\\AgentObservability.md'\n    at async open (node:internal/original-fs/promises:636:25)\n    at async Object.readFile (node:internal/original-fs/promises:1235:14)"}

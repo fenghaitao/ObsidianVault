@@ -2,8 +2,8 @@
 title: "Spotify"
 type: entity
 tags: [platform, music, streaming]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260918 - Update on Quitting My Job at Meta.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -16,8 +16,11 @@ Spotify is a music streaming platform. Jia Chen had a music career on Spotify in
 - She accumulated 150K streams on Spotify
 - People in her high school were surprised to learn she posted music on Spotify
 - She was considering continuing as a music artist before discovering hackathons in college
+- Ryan L. Peterman's podcast is charted on Spotify (he says he usually struggles to stay in the top 50) and he asks listeners to rate it there.
 
 ## Related
 
 - [[summary-20250414 - College Dropout Who Won 21 Hackathons (70% Win Rate) ｜ Jia Chen]] — source summary
 - [[Jia Chen]] — had a music career on Spotify
+- [[Ryan L. Peterman]] — podcast chart and ratings on Spotify
+- [[summary-20260918 - Update on Quitting My Job at Meta]] — source summary

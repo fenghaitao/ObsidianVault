@@ -2,7 +2,7 @@
 title: "Garbage Collection"
 type: concept
 tags: [concept, memory-management, programming-languages]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -25,6 +25,7 @@ Garbage collection is automatic reclamation of unreachable memory; C++ supports 
 ### Martin Odersky on GC vs embedded
 - Scala is garbage-collected, which means small pauses and needing a big chunk of memory to run fast; Rust runs in much smaller memory, which is better for embedded systems.
 - "If you have the memory for a garbage collector, you should absolutely use one because it makes a lot of things simpler" — hence his view that Rust is overused above the embedded/OS level.
+- Modern collectors "have become quite capable... brilliant," with very small pauses, but it remains a fact that a GC language needs "a big chunk of memory" to run fast.
 - You cannot turn off Scala's GC in production; research would allow custom allocators with static reference tracking (à la Zig), but it isn't shipped yet.
 - The JVM has very good, high-performance garbage collectors — one reason to target bytecode.
 
@@ -47,3 +48,4 @@ Garbage collection is automatic reclamation of unreachable memory; C++ supports 
 - [[JVM]] — ships high-performance collectors
 - [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary
 - [[summary-20260911 - Creator of TypeScript： Why We Chose Go For Our Rewrite ｜ Anders Hejlsberg]] — source summary
+- [[summary-20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky]] — source summary

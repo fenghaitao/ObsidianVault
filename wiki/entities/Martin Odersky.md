@@ -2,7 +2,7 @@
 title: "Martin Odersky"
 type: entity
 tags: [person, programming-languages, Scala, academic]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 
@@ -21,6 +21,11 @@ Martin Odersky is a computer scientist and professor at EPFL best known as the c
 - His forward-looking position: as AI generates more code, languages must pivot to stronger types and capability safety so types become a reviewable contract between humans and AI, and capabilities give AI agents fine-grained permissions.
 - His advice to his younger self: take risks, be adventurous, and be a bit non-conformist rather than following the mainstream.
 
+### On the Rust / Go / Zig / Python comparison (20260919)
+- Believes Rust is "actually overused" above the embedded/OS level: if you have the memory for a garbage collector, "you should absolutely use one" because it makes many things simpler.
+- Sees Go as an intentionally small language that lags behind but whose limits force a uniform, readable style; Zig has a nifty comptime inlining he rates above Rust's clunkier macros.
+- Positions Scala's edge over Python as an always-on strong type system guaranteeing "certain bad states can't happen"; notes Scala's GC cannot be turned off in production, though custom-allocator research tracks references statically.
+
 ## Related
 
 - [[Scala]]
@@ -33,3 +38,9 @@ Martin Odersky is a computer scientist and professor at EPFL best known as the c
 - [[Capability-Based Security]]
 - [[Functional Programming]]
 - [[Object-Oriented Programming]]
+- [[summary-20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky]] — source summary
+- [[Rust]] — overused above embedded, per Odersky
+- [[Go (Programming Language)]] — the deliberately small language
+- [[Zig]] — praised for comptime inlining
+- [[Python]] — the dynamically typed contrast
+- [[Garbage Collection]] — the simpler choice when memory allows

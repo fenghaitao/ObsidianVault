@@ -2,7 +2,7 @@
 title: "Type System"
 type: concept
 tags: [concept, type-systems, programming-languages]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260608 - Co-Creator of Haskell： Functional Programming, Thinking in Types, Useless Languages ｜ Simon Jones.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260720 - Creator of OCaml： Functional Programming, Formal Verification, Programming Languages ｜ Xavier Leroy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -23,6 +23,7 @@ A type system lets a compiler reject "silly" programs up front — programs that
 - Asked "What is the role of a type system in the compilation process?", Roberto answers it can be essential: a right type system makes a compiler much easier to write, and without it the alternative is heap allocation and runtime type checks.
 - TypeScript-style types "do not guarantee" values match their declarations, so they can't be used to lay out registers or compile efficiently.
 - Odersky: if code is AI-generated, "the focus has to go elsewhere — to the interfaces and to the types"; types become stronger and more precise as the concise, reviewable contract between a human and an AI.
+- Odersky: languages broadly "drift to a standard set of features" — strong type systems, pattern matching, generics/polymorphism, closures — mostly originating in functional programming; Python's optional types narrow the gap to Scala but its type system gives fewer guarantees.
 - Today's type systems are mostly "recommendations" — they mostly hold but have escape hatches (casts, dirty memory) that must be closed from the start because any hole is exploitable.
 - Types should also declare capabilities: if a returned stream secretly holds a file, its type must say so, preventing capabilities from being hidden or forged.
 
@@ -50,3 +51,4 @@ A type system lets a compiler reject "silly" programs up front — programs that
 - [[Anders Hejlsberg]] — describes TypeScript's types
 - [[summary-20260817 - Creator of TypeScript： 10x Faster TypeScript, Why AI Won't Replace SWEs ｜ Anders Hejlsberg]] — source summary
 - [[summary-20260902 - Creator of Lua： You Can Interpret C And Compile Python ｜ Roberto Ierusalimschy]] — source summary
+- [[summary-20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky]] — source summary

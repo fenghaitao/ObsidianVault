@@ -2,8 +2,8 @@
 title: "Distinguished Engineer"
 type: entity
 tags: [title, career, engineer, leveling]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md"]
-last_updated: 2026-09-22
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260413 - AWS Distinguished Eng： Learning From 3000 Incidents And How Engineering Is Changing ｜ Marc Brooker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260615 - Google DeepMind Distinguished Eng (L9)： How To Land a Job at a Frontier Lab ｜ Vlad Feinberg.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260921 - OpenAI & Meta Distinguished Eng (IC9)： The Psychology Behind Tech Career Peaks ｜ Philip Su.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -19,9 +19,13 @@ Distinguished Engineer is a senior individual-contributor engineering title that
 - At Meta, Michael Bolin's E8 promotion is described as "principal in the industry," with E9 mapping to distinguished engineer and beyond that the expectation of outsized, often doc-and-influence-driven impact rather than pure coding.
 - Marc Brooker is an AWS Distinguished Engineer whose account centers on staying hands-on and close to production systems; he warns that distinguished engineers who stop building have opinions that become "fiction," and that the title alone is no substitute for grounded practice.
 - Vlad Feinberg is a Google DeepMind Distinguished Engineer (L9) and pre-training area lead for Gemini.
+- Philip Su describes IC9 (Distinguished Engineer) as "four levels higher than a senior engineer" and says being one of the first-ever Facebook level 9s made him feel "the end is near" — the work of the existing level 9s felt unreachable.
+- He later sought a voluntary demotion from IC9 (Distinguished) down to IC7 (Senior Staff), tired of the constant "eye of Sauron" scrutiny that comes with being paid "the big bucks."
 
 ## Related
 
+- [[summary-20260921 - OpenAI & Meta Distinguished Eng (IC9)： The Psychology Behind Tech Career Peaks ｜ Philip Su]] — source summary
+- [[Philip Su]] — reached IC9 at Meta, then sought demotion to IC7
 - [[summary-20260302 - Distinguished Eng： Stack Ranking, Competing with Bezos, Regrets ｜ Bryan Cantrill]] — source summary
 - [[summary-20260309 - OpenAI Codex Tech Lead： How His Career Grew And How He Uses Codex ｜ Michael Bolin]] — source summary
 - [[Bryan Cantrill]] — reached DE at Sun

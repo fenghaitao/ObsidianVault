@@ -2,8 +2,8 @@
 title: "PostgreSQL"
 type: entity
 tags: [database, open-source, relational, SQL]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260916 - Creator of Postgres (Turing Award)： ＂One Size Fits None＂, Leveraging GPUs, Difficult Implementations.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -16,6 +16,7 @@ PostgreSQL (Postgres; transcribed in the episode as "Postgress"/"Postcrest") is 
 - Also supported inheritance (wanted by AI researchers at the time) and time travel, which was later removed because the implementation "sucked."
 - Stonebraker sees Postgres as the right low-end "one-size-fits-all" default — free, huge community, easy to find talent — but it lacks a column store and multi-node support, so it isn't competitive on sizable data warehouses.
 - Postgres replaced MySQL as the preferred open-source relational database after Oracle acquired MySQL.
+- Reiterated in a September 2026 episode: Postgres has not implemented a column store and lacks multi-node support, so it stays the low-end default but is not competitive on sizable data warehouses.
 
 ## Related
 

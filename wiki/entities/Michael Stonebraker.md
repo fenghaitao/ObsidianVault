@@ -2,8 +2,8 @@
 title: "Michael Stonebraker"
 type: entity
 tags: [person, computer-scientist, databases, Turing-Award]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260916 - Creator of Postgres (Turing Award)： ＂One Size Fits None＂, Leveraging GPUs, Difficult Implementations.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -18,6 +18,9 @@ Michael Stonebraker (transcribed in the episode as "Mike Stonbreaker") is a Turi
 - Founded DBOS in 2023 from the academic idea of replacing the upper half of Linux with a database system.
 - Published the "Beaver" text-to-SQL benchmark showing LLMs score ~0% on real data warehouses (10% with RAG, 35% with FROM/JOIN clauses).
 - Career advice: "think outside the box," pick a problem that isn't going with the flow, find a mentor, and for new PhDs take the most prestigious job possible; warns computer science may not be a growth industry going forward.
+- In a September 2026 interview he revisited "one size fits none," naming ClickHouse (a column store) and Pinecone (vectors) as proof the thesis still holds.
+- On GPUs: SIMD is "the anathema of indexing" — a B-tree lookup is a serial chain of memory accesses that does not parallelize well, and a GPU bolted onto a CPU often bottlenecks on the connecting bus.
+- The original Ingres was written entirely from scratch (no existing B-tree library to reuse), and the hardest part was the query optimizer, which he calls "algorithmically difficult."
 
 ## Related
 

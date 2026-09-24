@@ -2,8 +2,8 @@
 title: "Bosworth"
 type: entity
 tags: [person, Meta, CTO, Facebook]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md"]
-last_updated: 2026-07-21
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20250523 - OpenAI & Meta Distinguished Engineer (IC9)： Working With Zuck, Carmack & Career Growth ｜ Philip Su.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260921 - OpenAI & Meta Distinguished Eng (IC9)： The Psychology Behind Tech Career Peaks ｜ Philip Su.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -17,9 +17,11 @@ Bosworth (Bos) is the former CTO of Meta (Facebook). He was Philip Su's first ma
 - People who worked with Bos for more than 8-10 years could trace exactly how he improved
 - Bos was clearly open to coaching and made deliberate efforts to improve himself
 - Philip described Bos as giving "great advice and guidance"
+- In the follow-up interview, Philip recalled that Bos was the boss who surprised him with his promotion to level 8 at Facebook — Philip did not even know Facebook had levels at that point (the company had ~500 engineers).
 
 ## Related
 
+- [[summary-20260921 - OpenAI & Meta Distinguished Eng (IC9)： The Psychology Behind Tech Career Peaks ｜ Philip Su]] — source summary
 - [[Meta]] — company where Bos was CTO
 - [[Philip Su]] — Bos was his first manager
 - [[Mark Zuckerberg]] — also impressed Philip with deliberate personal growth

@@ -2,7 +2,7 @@
 title: "Zig"
 type: entity
 tags: [language, systems-programming, compiler]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260622 - Creator of uv, ty, Ruff： How Software Engineering Is Changing ｜ Charlie Marsh.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -15,6 +15,7 @@ Zig is a systems programming language Charlie Marsh cites as an interesting alte
 - Bun, originally written in Zig, is the subject of the episode's discussion of an agent-driven rewrite to Rust.
 - Odersky: Zig has "a really nifty compile-time inlining construct" where the compiler does smart inlining — clean and powerful — whereas Rust's macros are more clunky.
 - Scala has something close to Zig's inlining, but with a restriction Odersky believes Zig lacks: no additional type errors may appear after inlining (the failure mode of C++ templates).
+- Odersky's contrast: Zig's comptime inlining is "much better" than C++ templates, which can expand into very complex, hard-to-debug type errors.
 - Odersky suspects Zig (like most low-level systems languages) is not memory safe, unlike Rust.
 
 ## Related
@@ -30,3 +31,4 @@ Zig is a systems programming language Charlie Marsh cites as an interesting alte
 - [[Scala]] — has a similar, more-constrained inline
 - [[Rust]] — the clunkier-macro comparison
 - [[summary-20260831 - Creator of Scala： Comparing Languages And How AI Will Impact Them ｜ Martin Odersky]] — source summary
+- [[summary-20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky]] — source summary

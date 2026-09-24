@@ -2,8 +2,8 @@
 title: "One Size Does Not Fit All"
 type: concept
 tags: [databases, architecture, design, trade-offs]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md"]
-last_updated: 2026-09-14
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260420 - Turing Award Winner： Disagreeing with Google, Postgres, Future Problems ｜ Mike Stonebraker.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260916 - Creator of Postgres (Turing Award)： ＂One Size Fits None＂, Leveraging GPUs, Difficult Implementations.md"]
+last_updated: 2026-09-23
 ---
 
 ## Definition
@@ -16,6 +16,7 @@ One Size Does Not Fit All is Mike Stonebraker's thesis (from a 2004 paper, with 
 - Still true today: ClickHouse (column store) and Pinecone (vector) specialize successfully, and a common parser can sit on top of multiple implementations.
 - Postgres hasn't added a column store or multi-node support, so it's not competitive on sizable data warehouses.
 - The exception: at the low end, Postgres is the right "one size fits all" default until you need ~a million transactions/second or a petabyte-scale warehouse.
+- Reiterated almost verbatim in a September 2026 episode, again citing ClickHouse, Pinecone, and Postgres's missing column store.
 
 ## Related
 

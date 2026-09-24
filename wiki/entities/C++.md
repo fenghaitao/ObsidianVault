@@ -2,7 +2,7 @@
 title: "C++"
 type: entity
 tags: [programming-language, systems-programming, C++]
-sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md"]
+sources: ["raw/03-transcripts/Ryan L. Peterman/Channel Only/20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260803 - Creator of Lua： What People Get Wrong About Scripting Languages ｜ Roberto Ierusalimschy.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky.md", "raw/03-transcripts/Ryan L. Peterman/Channel Only/20260918 - Update on Quitting My Job at Meta.md"]
 last_updated: 2026-09-23
 ---
 ## Definition
@@ -21,6 +21,8 @@ C++ is the general-purpose, statically typed programming language created by Bja
 - Competing languages mostly use C++ infrastructure (e.g., LLVM); Java's "we'll kill C++" ads failed — he estimates 10–12x more C++ developers now.
 - Roberto Ierusalimschy cites C++ as a good example of a language that is "really, really complex" on the simplicity spectrum (with JavaScript "even worse").
 - Lua is typically combined with C or C++ as the host language in a dual-language architecture: Lua takes the dynamic parts while C/C++ handles the hard, resource-intensive parts.
+- Martin Odersky's warning example for inlining: expanding a C++ template can produce "very complex type errors and very hard to debug" programs — the failure mode that Zig's comptime inlining and Scala's type-restricted `inline` avoid.
+- Ryan L. Peterman named C++ as his first programming language and said he'd looked up to Bjarne Stroustrup ever since learning it; he interviewed Bjarne in his study against a wall of C++ books, shot with two iPhones.
 
 ## Related
 - [[summary-20260518 - Creator of C++： Bell Labs, Negative Overhead Abstraction, Mistakes ｜ Bjarne Stroustrup]] — source summary
@@ -52,3 +54,8 @@ C++ is the general-purpose, statically typed programming language created by Bja
 - [[Sun Microsystems]] — Java marketing rival
 - [[Java]] — the "C++ killer" that wasn't
 - [[Python]] — dynamic-language contrast
+- [[summary-20260919 - Creator of Scala： Rust, Zig, Python vs Scala ｜ Martin Odersky]] — source summary
+- [[Zig]] — whose comptime inlining avoids C++ template type-error hell
+- [[Inlining]] — the mechanism under comparison
+- [[summary-20260918 - Update on Quitting My Job at Meta]] — source summary
+- [[Ryan L. Peterman]] — whose first programming language was C++

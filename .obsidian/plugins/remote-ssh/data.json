@@ -1,0 +1,61 @@
+{
+  "profiles": [
+    {
+      "host": "bjgtc-s05.bj.intel.com",
+      "port": 22,
+      "username": "hfeng1",
+      "authMethod": "privateKey",
+      "remotePath": "~/ObsidianVault",
+      "connectTimeoutMs": 15000,
+      "keepaliveIntervalMs": 10000,
+      "keepaliveCountMax": 3,
+      "transport": "sftp",
+      "walkIgnoreDirs": [
+        ".git",
+        "node_modules",
+        ".svn",
+        ".hg",
+        "__pycache__",
+        ".venv",
+        "venv",
+        ".tox",
+        ".mypy_cache",
+        ".pytest_cache",
+        "target",
+        "dist",
+        "build",
+        ".next",
+        ".nuxt",
+        ".cache",
+        ".gradle",
+        ".idea",
+        "vendor",
+        ".terraform",
+        ".julia",
+        ".cargo",
+        ".rustup",
+        ".npm",
+        ".conda",
+        ".gem"
+      ],
+      "id": "f462c3d7-e417-480a-9f68-03c83ff6c2da",
+      "name": "bjgtc-s05.bj.intel.com",
+      "privateKeyPath": "C:\\Users\\hfeng1\\.ssh\\id_rsa"
+    }
+  ],
+  "activeProfileId": null,
+  "enableDebugLog": false,
+  "maxLogLines": 500,
+  "reconnectMaxRetries": 5,
+  "clientId": "",
+  "userName": "",
+  "lazyFolderLoad": true,
+  "autoConnectProfileId": null,
+  "terminalFontSize": 12,
+  "terminalScrollback": 1000,
+  "onboardingCompleted": true,
+  "hostKeyStore": {
+    "bjgtc-s05.bj.intel.com:22": "b427d8e81ffaea228439a46b38d17c9907460f04795643d064f9315fc1f0d5af"
+  },
+  "secrets": {}
+}
